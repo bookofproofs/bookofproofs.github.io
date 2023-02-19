@@ -172,8 +172,6 @@ class BopCompiler:
         self.indices["{{ cg-index }}"] = self._index_compiler.get_github_contributors_index()
         print("   Making contributors index (non-github users)")
         self.indices["{{ cng-index }}"] = self._index_compiler.get_non_github_contributors_index()
-        print("   Making contributors index (ai bots)")
-        self.indices["{{ cai-index }}"] = self._index_compiler.get_ai_contributors_index()
         print("   Making interactive widgets index")
         self.indices["{{ w-index }}"] = self._index_compiler.get_widgets_index()
         print("   Making sourcecode index")

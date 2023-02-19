@@ -4,13 +4,13 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-belarus
 orderid: 1901
-title: Akhiezer, Naum Il'ich
+title: Akhiezer, Naum Il&amp;#x27;ich
 born: 1901
 died: 1980
-keywords: Akhiezer, Function Theory, Approximation Theory, Pseudo-differential Operators, Elliptic Equations, Difference Methods, Recursive Approximation
-description: Naum Il'ich Akhiezer was a pioneering Soviet mathematician who made substantial contributions to math in the areas of Function Theory, Approximation Theory, Pseudo-differential Operators and Elliptic Equations.
+keywords: naum il'ich akhiezer,akhiezer
+description: Naum Il'ich Akhiezer was a Soviet mathematician whose main work was on function theory and approximation theory. He also produced works on the history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Naum Il'ich Akhiezer** was a Soviet mathematician whose main work was on function theory and approximation theory. He also produced works on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Khiezer was one of the founders of the modern theory of pseudo-differential operators, which had a great impact on various mathematics, from algebra to global analysis. 
-2. Khiezer proposed the Akhiezer theorem on the generation of long-wave asymptotic expansion from the Cauchy problem. 
-3. He proposed the Akhiezer interpolation formula which is widely used in the theory of off diagonal decay for certain integral operators. 
-4. He formulated the scattering problem for pseudo-differential equations. 
-5. He wrote a classic on the theory of linear and semi-linear elliptic equations with spectral parameter in the boundary conditions. 
-6. He made major contributions to the theory of ordinary and partial differential equations, pseudo-differential equations, variational problems, and spectral theory. 
-7. He was a co-author of the book Difference Methods and its Applications to the Numerical Solution of Partial Differential Equations. 
-8. He introduced the Akhiezer matrix technique in which he managed to construct new explicit approximate solutions to second-order differential equations. 
-9. His works on recursive approximation by smooth functions of global character led to the development of the Akhiezer–Gel’fand– Soldovskii theory. 
-10. He established a general theory of functions of certain classes and derived a number of important results for these functions.
+* The town of Cherikov, called Cherykau in Belarusian, had around 5500 inhabitants when Naum Il'ich was born.
+* His brother Alexander Il'ich Akhiezer was ten years younger than Naum Il'ich and went on to become a famous theoretical physicist.
+* Naum Il'ich attended the local Gymnasium in Cherikov, graduating in 1918.
+* Akhiezer studied at the Kiev Institute of Public Education, entering in 1922 on a three-year course of study.
+* Akhiezer and Krein became friends and around ten years later collaborated on mathematical projects.
+* Akhiezer graduated from the Kiev Institute of Public Education in 1924.
+* In addition to his school teaching, at this time Akhiezer was assisting Dmitry Aleksandrovich Grave by conducting practical classes for him at one of the Higher Educational Institutes in Kiev.
+* Akhiezer's research was on the theory of functions of a complex variable and its applications to aerodynamics.
+* In the first of these papers Akhiezer solved the problem of finding the polynomial with three fixed coefficients deviating least from zero on a given interval.
+* From 1933 Akhiezer worked at Kharkov University.
+* Akhiezer had never been awarded a doctorate since academic degrees of Master of Science and Doctor of Science had been abolished in the USSR in 1918.
+* However, they were reintroduced in 1934 and, in 1936 Akhiezer was awarded an honorary degree of Doctor of Physical-Mathematical Sciences.
+* In 1937 Akhiezer, working with his friend M G Krein, solved the extremal problem for the class of differentiable periodic functions.
+* Akhiezer continued to work on this topic and was later to solve the extremal problem for the class of analytic functions.
+* He persuaded several mathematicians including Akhiezer to join the Institute in the early 1960's and Akhiezer became head of the Department of the Theory of Functions at this Institute.
+* Akhiezer's later work, in addition to that on the theory of moments, included joint work with Sergei Bernstein on completeness of sets of polynomials.
+* Akhiezer wrote 150 papers and 10 books, one of which was the important Theory of Operators in Hilbert Space.
+* His great personal charm, sparkling wit and cheerfulness, and his open and friendly attitude towards the young, have always attracted talented young people to Akhiezer, a great number of whom have developed into good mathematicians who are working in various cities of the USSR.
 
 Born 6 March 1901, Cherikov, Ruussian Empire (now Belarus). Died 3 June 1980, Kharkov, USSR.
 

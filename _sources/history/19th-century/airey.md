@@ -7,10 +7,10 @@ orderid: 1868
 title: Airey, John Robinson
 born: 1868
 died: 1937
-keywords: John Airey, Cambridge, West Ham Technical Institute, mathematical functions, elementary schools, Royal Society, pendulum motion, Sturm-Liouville problem, Fourier's Series, modern piano
-description: John Airey, a Cambridge graduate and Principal of the West Ham Technical Institute, is renowned for his work in mathematical functions, pioneering science teaching in schools, Royal Society paper on pendulums, solving the Sturm-Liouville problem and Fourier's Series, leading to piano design.
+keywords: john airey,airey
+description: John Airey graduated from Cambridge and became Principal of the West Ham Technical Institute. He is best known for his work in producing tables of mathematical functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**John Airey** graduated from Cambridge and became Principal of the West Ham Technical Institute. He is best known for his work in producing tables of mathematical functions. 
+**John Airey** graduated from Cambridge and became Principal of the West Ham Technical Institute. He is best known for his work in producing tables of mathematical functions.
 
 ### Mathematical Profile (Excerpt):
-1. He developed a technique for solving double integrals, now known as Airey's method.
-2. He wrote the influential book 'Elementary Algebra for Schools', which served as a major reference for many years.
-3. He wrote the first book about Newtonian Mechanics for schools and was a pioneer in the teaching of science in elementary and secondary schools.
-4. He wrote a major article in the Royal Society's Proceedings entitled "On the Simplicity of the Motion of the Pendulum", where he explained the basics of pendulum motion.
-5. He proposed a solution to the brachistochrone problem which used the spiral of Archimedes.
-6. He made a significant contribution to solving the Sturm-Liouville problem, which required finding the sines and cosines of the differential equation.
-7. He used Fourier's Series to express the solution of the vibrating string.
-8. He proposed a series of mathematically driven vibration tests that eventually led to the development of the modern piano and other stringed instruments.
+* John's mother, Elizabeth Airey born about 1844 also in Preston.
+* John had three younger siblings, Elizabeth Ann (born 1870), Edwin  (born about 1878) and Maud  (born about 1880).
+* In the 1871 census, when John was 2 years old the family was living at Hunslet and in 1881 they were living at 28 Grosvenor Street, West Leeds.
+* John Airey was educated at Blenheim Board School and Leeds Central High School.
+* Airey taught as a Mathematics Master at Porth Intermediate School, Glamorganshire, until 1903 when, at the age of 35, he gave up his job to matriculate at St John's College, Cambridge to study the Natural Science Tripos.
+* After graduating, Airey became headmaster of Morley Grammar School, holding the post from 1906 to 1912.
+* His brother, Sir Edwin Airey was head of a large firm of building contractors and engineers.
+* In 1910 Airey married Gwenllian (born Ystradyfodwg, Glamorgan about 1880).
+* John R Airey, The Vibrations of Circular Plates and their Relation to Bessel Functions, Proc.
+* John R Airey, Sines and cosines of angles in circular measure, British Association for the Advancement of Science Report 1916, 60-91.
+* John R Airey, The Lommel-Weber Ω Function and Its Application to the Problem of Electric Waves on a Thin Anchor Ring, Proc.
+* John R Airey, The Radiation Integrals, Phil.
+* Airey joined the Edinburgh Mathematical Society in November 1913 when he was the Principal of The Technical Institute, West Ham, London.
+* His obituary appeared in Obituary: John Robinson Airey, Monthly Notices of the Royal Astronomical Society 98 (1938), 243-244.
 
 Born June 1868, Hunslet, Leeds, England. Died 16 September 1937, Llwynon, Newtown, Montgomeryshire, Wales.
 

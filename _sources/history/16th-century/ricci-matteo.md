@@ -7,10 +7,10 @@ orderid: 1552
 title: Ricci, Matteo
 born: 1552
 died: 1610
-keywords: Matteo Ricci, China, missionary, Western mathematics, Euclidean geometry, trigonometry, solar system
-description: Matteo Ricci was an Italian Jesuit missionary in China who introduced Western mathematics and Euclidean geometry, trigonometry, the solar system and mapping to the Chinese.
+keywords: matteo ricci,ricci
+description: Matteo Ricci was an Italian Jesuit who went to China as a missionary and introduced the Chinese to Western mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Matteo Ricci** was an Italian Jesuit who went to China as a missionary and introduced the Chinese to Western mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Ricci was responsible for publishing the first book printed in Chinese, "The True Meaning of the Lord of Heaven," in which he introduced Euclidean geometry and trigonometry to the Chinese.
-2. He developed China’s first Euclidean style map of the world.
-3. He additionally studied and mapped the stars and constellations, introducing knowledge of the solar system to China.
-4. He devised symbolization methods to help Chinese people better understand European mathematics.
-5. He constructed several mathematical methods to determine longitude.
-6. He established an international law of trade, proclaiming any country that had not established a system of trade with China had to pay double the amount of goods they purchased.
-7. He developed a system of weights and measures, the Chinese “Ricci Scale."
-8. Ricci also wrote a book on arithmetic and mathematics, “The Principles of Mathematics."
+* Ricci set out on his sea voyages in 1577.
+* In Goa Ricci studied for the priesthood, and he was ordained in 1580.
+* Ricci arrived at Macau on the east coast of China in 1582.
+* While there Ricci produced the first edition of his map of the world Great Map of Ten Thousand Countries which is a remarkable achievement showing China's geographical position in the world.
+* In 1589 Ricci moved to Shao-chou and began to teach Chinese scholars the mathematical ideas that he had learnt from his teacher Clavius.
+* Ricci attempted to visit Peking in 1595 but found the city closed to foreigners.
+* Ricci was well received in Nanking and this encouraged him to try again to visit Peking which he did in 1601.
+* Ricci was convinced that these countries were the same but, until another overland journey was made, this could not be confirmed.
+* Ricci's hypothesis was proved by another Jesuit by the name of De Goes, who set out from India in 1602, and although he died in 1607 before reaching Peking, he had by that time made contact by letter with Ricci and proved that Marco Polo's Cathay was China.
+* By the time he was living in Peking, Ricci's skill at Chinese was sufficient to allow him to publish several books in Chinese.
+* The First Six Books of Euclid was based on Clavius's Latin version of Euclid's Elements which Ricci had studied under Clavius's guidance while in Rome.
+* Ricci of course had to dress in the style of a Chinese scholar and be known under a Chinese name, he used 'Li Matou', to become accepted by the Chinese.
+* Matteo Ricci was buried in the Jesuit Cemetery (Zhalan) in Beijing.
 
 Born 6 October 1552, Macerata, Papal States (now Italy). Died 11 May 1610, Peking, China.
 

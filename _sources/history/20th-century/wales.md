@@ -7,10 +7,10 @@ orderid: 1913
 title: Wales, Muriel Kennett
 born: 1913
 died: 2009
-keywords: mathematics, teaching, learning, development, lab, literacy, Order of Canada
-description: Muriel Waleschampioned math education development, pioneering computer-aided learning & establishing a mathematics lab. She received Order of Canada for achievements & contributions.
+keywords: muriel wales,wales
+description: Muriel Wales was born in Northern Ireland but lived in Canada from the age of one. In 1941 she was awarded a Ph.D. in mathematics from the University of Toronto. She worked at the Montreal Laboratory of the National Research Council of Canada but from 1950 worked as a claims agent for her step-father's shipping company.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Muriel Wales** was born in Northern Ireland but lived in Canada from the age of one. In 1941 she was awarded a Ph.D. in mathematics from the University of Toronto. She worked at the Montreal Laboratory of the National Research Council of Canada but from 1950 worked as a claims agent for her step-father's shipping company.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an innovative approach to teaching mathematics, focused on dynamic visual learning.
-2. Made substantial contributions to the field of mathematics education and mathematics teaching methods.
-3. Pioneered the development of computer-aided learning systems for mathematics teaching.
-4. Established a mathematics laboratory for students to explore and research mathematical concepts.
-5. Received awards for her work in promoting mathematical literacy among young students.
-6. Compiled comprehensive reviews of existing mathematics education materials, leading to the development of new and improved materials.
-7. Authored a number of books and journal articles on mathematics educational topics.
-8. Advocated for the importance of fundamental mathematics in education and the workplace.
-9. Received the Order of Canada award for her outstanding contributions to mathematics education.
+* Her father is believed to have died shortly before or after her birth and her mother later remarried George Wales in Canada, Muriel being brought up with his last name.
+* Muriel's mother Alice Girvan was born in Belfast on 6 February 1889 to James Girvan and Jennie Mclean.
+* On 19 October 1916, Alice Kennett married George Frederick Wales in Vancouver, Canada.
+* One assumes that from that time on George and Alice Wales called their daughter Muriel Wales.
+* George Frederick Wales, who worked in a shipping company, was not a Canadian, for he was born in Margate in England.
+* A baby boy was born to George and Alice Wales in 1917 but he died within a couple of days.
+* Muriel Wales studied at the University of British Columbia and was awarded a B.A. in 1934 and an M.A. three years later.
+* At the time that Wales undertook research in Toronto, Beatty was Head of the Mathematics Department and also Dean of the Faculty of Arts.
+* Wales was awarded a Ph.D. by the University of Toronto in 1941 for her 80-page thesis Theory of algebraic functions based on the use of cycles.
+* After the award of her doctorate, Wales was engaged in government research work in Toronto.
+* George Wales died in 1959 and Alice Wales died in 1979.
+* Muriel Wales had retired by 1972 and she continued to live at 1622 Grant Street, Vancouver.
+* Finally let us comment that we would like to know more about Muriel Wales and would encourage anyone with further information to contact us.
 
 Born 9 June 1913, Belfast, Ireland. Died 8 August 2009, Vancouver, Canada.
 

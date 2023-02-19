@@ -7,10 +7,10 @@ orderid: 1905
 title: Ruse, Harold Stanley
 born: 1905
 died: 1974
-keywords: Harold Ruse, Oxford, Edinburgh, Southampton, Leeds, Harmonic Spaces, Algebraic Geometry
-description: Harold Ruse, a graduate of Oxford and holder of positions in Edinburgh, Southampton, and Leeds universities, contributed to Harmonic Spaces and wrote papers on Algebraic Geometry and Number Theory which won an Adams prize and received recognition from the Royal Society.
+keywords: harold ruse,ruse
+description: Harold Ruse graduated from Oxford and held a position at Edinburgh University. he later became a professor at Southampton and Leeds. He worked on Harmonic Spaces.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Harold Ruse** graduated from Oxford and held a position at Edinburgh University. he later became a professor at Southampton and Leeds. He worked on Harmonic Spaces.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a novel system of linear equations which overcame certain mathematical challenges that had been encountered by mathematicians in the past.
-2. Wrote numerous papers on algebraic geometry and number theory, introducing important new techniques.
-3. Published a textbook, Elementary Algebra and Analytic Geometry, which was used by engineers and was a highly successful textbook at the time.
-4. Awarded the prestigious Adams prize in 1874 for his paper on linear equations and recognition from the Royal Society for his research in the field of mathematics.
-5. His mathematical research contributed to the improvement of educational methods and materials in the field of mathematics.
+* His mother was Lydia Ruse (born Brighton, Sussex about 1879; died 20 September 1954 at Royal East Sussex Hospital, Hastings).
+* Harold Ruse was educated at Hastings Grammar School, Sussex, before matriculating at Jesus College, Oxford University.
+* During this time Ruse spent session 1933-34 in Princeton where he was supported by a Rockefeller Research Fellowship.
+* In 1937 Ruse was appointed as Professor of Mathematics at University College, Southampton.
+* Ruse remained there for nine years until he was appointed as Professor of Pure Mathematics at Leeds University in 1946.
+* Ruse joined the Edinburgh Mathematical Society in January 1927.
 
 Born 12 February 1905, Hastings, England. Died 20 October 1974, Leeds, England.
 

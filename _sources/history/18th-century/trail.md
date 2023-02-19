@@ -7,10 +7,10 @@ orderid: 1746
 title: Trail, William
 born: 1746
 died: 1831
-keywords: William Trail, Mathematics, Algebra, Topology, Homomorphism Theory, Matrices, Numerical Algebra
-description: William Trail, Scottish mathematician and Professor of Mathematics, developed abstract algebra, topological algebra, homomorphism theory, matrices and non-linear dynamical systems. Pioneered numerical linear algebra, numerical integration, quantum computing, and dynamical systems mapping.
+keywords: william trail,trail
+description: William Trail was a Scottish mathematician who became Professor of Mathematics at Aberdeen.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Trail** was a Scottish mathematician who became Professor of Mathematics at Aberdeen.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new form of abstract algebra in 1962.
-2. Pioneered a novel approach to topological algebra in 1977.
-3. Published comprehensive, foundational works on homomorphism theory in 1978 and 1979.
-4. Discovered patterns and properties of matrices, paving the way for the development of numerical linear algebra in 1992.
-5. Introduced new theories of dynamical systems mapping in 2004.
-6. Developed new methods of numerical integration in 2008.
-7. Proposed innovative theories of quantum computing in 2015.
-8. Published seminal findings on non-linear dynamical systems in 2017.
+* His mother was Mary Trail (1731-1756) who was the daughter of the Revd Robert Trail, minister of Panbride.
+* Trail entered at Marischal College, Aberdeen in 1759 where his father had studied.
+* Marks awarded ranged from 16 to 126, the top score and appointment going to William Trail, a young man newly graduated from Glasgow.
+* Trail, responsible for all Mathematics, taught 'above twelve times a week'.
+* During the session 1778 - 9, in Trail's absence, the higher branches of mathematics were taught by Patrick Copland, Professor of Natural Philosophy since 1775.
+* The Royal Society of Edinburgh was founded in 1783 and Trail was a Founder Member, elected on 17 November 1783.
 
 Born 23 June 1746, Logie, near Montrose, Scotland. Died 3 February 1831, Bath, Somerset, England.
 

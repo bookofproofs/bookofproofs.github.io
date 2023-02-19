@@ -7,10 +7,10 @@ orderid: 1747
 title: Yasuaki, Aida
 born: 1747
 died: 1817
-keywords: Aida Yasuaki, mathematics, Kyoto University, Sets, Algebras, Representation Theory, Extensions
-description: Aida Yasuaki, a Japanese mathematician, published 2000 works, earning a doctorate from Kyoto U. and writing several influential books and papers on topics such as Sets, Algebras, Representation Theory and Extensions.
+keywords: aida yasuaki,yasuaki
+description: Aida Yasuaki was a Japanese mathematician who published about 2000 works.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Aida Yasuaki** was a Japanese mathematician who published about 2000 works.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a doctorate in mathematics from Kyoto University in 1952.
-2. Published an influential book entitled "Introduction to Theory of Sets" in 1954.
-3. Developed a theory on the algebraic structure of ideal theory in 1954. 
-4. Contributed to the development of the ring theory of algebras in 1955.
-5. Co-authored the influential book "Advanced Algebra" in 1956.
-6. Developed basic ideas concerning descent theory in 1955.
-7. Proposed the concept of faithful flatness in algebraic geometry in 1956.
-8. Published the book "Algebras and Representation Theory" in 1958.
-9. Authored several influential papers on homological theory of ideals and representations in 1959.
-10. Developed new theories on the algebraic structure of general extensions in 1960.
+* The city of Yamagata in which Aida was born and brought up was (and still is) situated in northern Honshu, Japan nearly 300 km north of present day Tokyo.
+* In 1769, Aida went to Edo, which has been renamed Tokyo.
+* There Aida worked for the shogunate of Tokugawa Ieharu.
+* Aida was employed by the shogunate as a civil engineer working on river control and irrigation systems around Edo.
+* However, this was not the job that Aida aimed for since ever since he was young his aim had been to become the best mathematician in Japan.
+* Aida would have liked to become a pupil of Fujita, for he was one of the leading mathematicians in Japan.
+* Aida saw his friendship with Kamiya as means to be accepted by Fujita and asked Kamiya to arrange for him to be introduced to Fujita.
+* Indeed Kamiya organised the necessary introductions but Aida was not accepted by Fujita.
+* It appears that relations between Fujita and Aida may have been poor even before Kamiya arranged the introduction, although if that were the case it is unclear quite why Aida worked so hard to obtain the introduction.
+* Aida had donated some tablets which contained errors and these had been spotted by Fujita.
+* Perhaps Aida was unaware of these errors at the time he sought to become Fujita's pupil.
+* Aida now decided to write a work based on the Seiyo sampo yet one which would criticise this work.
+* It is not surprising that relations between Aida and Fujita would deteriorate further when Aida published Kaisei sampo, his critical revision of the Seiyo sampo.
+* The private feud extended to include other mathematicians when Kamiya, who had lost face by arranging the failed introductions, attacked Aida's Kaisei sampo.
+* He also took pupils, including many from the northeastern provinces; these returned to teach in their native regions, where Aida is still revered as a master of mathematics.
+* Aida compiled Sampo tensi shinan which appeared in 1788.
+* Aida explained the use of algebraic expressions and the construction of equations.
 
 Born 10 February 1747, Yamagata, Japan. Died 26 October 1817, Edo (now Tokyo), Japan.
 

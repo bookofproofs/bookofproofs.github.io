@@ -7,10 +7,10 @@ orderid: 1533
 title: Dawei, Cheng
 born: 1533
 died: 1606
-keywords: Cheng Dawei, Suanfa tong zong, Cheng–Tucker Theorem, Nash's Equivalence Theorem, Three Essays on Game Theory, Frederick W. Lanchester Prize, Dynamic Programming Principle
-description: Cheng Dawei was a Chinese mathematician who published the Suanfa tong zong and developed the Cheng–Tucker Theorem, proposed a new proof of Nash's equivalence theorem, and co-authored "Three Essays on Game Theory".
+keywords: cheng dawei,dawei
+description: Cheng Dawei was a Chinese mathematician who published the Suanfa tong zong (General source of computational methods).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Cheng Dawei** was a Chinese mathematician who published the _Suanfa tong zong_ (General source of computational methods).
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Cheng–Tucker Theorem, a fundamental theorem of game theory.
-2. Proposed a new proof of Nash's equivalence theorem.
-3. Co-authored the book “Three Essays on Game Theory” with John Nash.
-4. Published the research study “Repeated Games with Incomplete Information”.
-5. Received the Frederick W. Lanchester Prize in 1990.
-6. Wrote two seminal papers on the discounted repeated games.
-7. Presented the Cai–Cheng theorem on the structure of equilibria in generalized systems.
-8. Introduced the concept of combined value distributions in repeated games.
-9. Developed the Dynamic Programming Principle for repeated games with incomplete information.
-10. Contributed to the mathematical study of coalition formation and other aspects of cooperative game theory.
+* Firstly we know Cheng Da Wei lived in the latter half of the Ming dynasty which was a period of prosperity with increasing trade and commerce.
+* Cheng Da Wei was probably directly involved in such efforts but, if not, he was certainly indirectly involved.
+* The need for arithmetical skills led to the invention of the abacus and Cheng Da Wei's book General source of computational methods was an arithmetic book for the abacus.
+* That Cheng Da Wei was not a professional mathematician is typical of what one would expect from this period in China.
+* Cheng Da Wei wrote the General source of computational methods in 1592.
+* unlike the authors of the venerable classic, Cheng Dawei was not afraid of superfluity or verbosity.
+* How does Cheng Da Wei solve the problem?
+* In Chapter 2 of Cheng Da Wei's text there is the following problem.
+* Cheng Da Wei goes on to explain what one expects the altitude of grain for a given base circumference to be.
+* Of course in practice it will depend on how coarse the grain is, but Cheng Da Wei's values are quite close to what experimental evidence suggests.
+* As we see by looking at the problem, these are precisely the values that Cheng Da Wei uses in it.
 
 Born 1533, China. Died 1606, China.
 

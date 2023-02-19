@@ -7,10 +7,10 @@ orderid: 1822
 title: Bertrand, Joseph Louis François
 born: 1822
 died: 1900
-keywords: Joseph Bertrand, Prime Numbers, Chebyshev, Chance & Progression, Paradox, Theorem, Continued Fractions
-description: Joseph Bertrandhypothesized and proved the Bertrand-Chebyshev theorem and conducted research on prime numbers and probability that were published from 1845-1855.
+keywords: joseph bertrand,bertrand
+description: Joseph Bertrand was a Paris professor who, in 1845, conjectured:  I've told you once and I'll tell you again  There's always a prime between n and 2n. This was proved by Chebyshev in 1850.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -36,16 +36,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 This was proved by Chebyshev in 1850.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theory of Chance and Progression (1822)
-2. Discovered Bertrand's paradox (1890)
-3. Described the Bertrand curve (1885) 
-4. Developed a theorem on the ideal number of digits before the decimal sign (1845) 
-5. Explored the theory of continued fractions (1847) 
-6. Published work on the Bertrand-Chebyshev theorem (1845) 
-7. Investigated the Principle of Transfinite Numbers (1845)
-8. Discovered that the Pythagorean theorem applies even in the non-Euclidean space (1849)
-9. Published a statistical study on the distribution of prime numbers (1850) 
-10. Conducted research on the gaussian probability integral (1855)
+* Alexandre had studied at the École Polytechnique where he had become friends with Jean-Marie Duhamel who later married Alexandre Bertrand's sister.
+* Alexandre was a writer of popular science books but sadly he died young and after this tragic event Joseph, who was nine years old, went to live with Duhamel and his wife.
+* Of course this sad event did have the beneficial effect that Joseph was guided by Duhamel.
+* It is worth noting at this stage that Joseph had a sister Louise who married Hermite in 1848.
+* Joseph showed remarkable talents as a child and by the age of nine he understood algebra and elementary geometry, as well as being able to speak Latin fluently.
+* Bertrand and his brother were friendly with the Aclocque family who lived in Versailles.
+* On this particular occasion the train crashed on the return journey and Bertrand was badly injured, suffering a crushed nose and facial scars which he retained throughout his life.
+* Bertrand married Louis Celine Aclocque in 1844; their sons Marcel Alexandre (born 2 July 1847), Joseph Désiré (born 1853) and Léon Gratien (born 1858) all studied at the  École Polytechnique, and Marcel went on to become a famous geologist.
+* In 1843 Bertrand published two memoirs on Surfaces isothermes orthogonale Ⓣ(Isothermal orthogonal surfaces).
+* In 1878 Bertrand stopped teaching at the Collège de France but, eight years later, he began teaching there again.
+* In 1845 Bertrand conjectured that there is at least one prime between nnn and 2n−22n - 22n−2 for every n>3n > 3n>3.
+* Bertrand's important paper was eventually published in the Journal de l'École Polytechnique.
+* Famed as an author of textbooks, the first two of many published by Bertrand were Traité d'arithmetique Ⓣ(Treatise of arithmetic) (1849) and Traité élémentaire d'algèbre Ⓣ(Treatise of elementary algebra) (1850).
+* Bertrand published many works on differential geometry and on probability theory.
+* His book Calcul des probabilitiés Ⓣ(Calculation of Probabilities) (1888) contains a paradox on continuous probabilities now known as Bertrand's paradox.
+* Bertrand's treatise contains mistakes and misprints.
+* Bertrand uses the term 'valeur probable' on a par with 'espérance mathématique'.
+* Bertrand's literary style is extremely attractive.
+* It is worth noting this treatise by Bertrand heavily influenced Poincaré's treatise also called Calcul des probabilitiés Ⓣ(Calculation of Probabilities) which he published in 1896.
+* Indeed, Poincaré refers to almost nobody but Bertrand in his book.
+* Of course Bertrand lived through a time of political difficulties in France.
+* However from 1840 there was a stable period during which Bertrand was able to begin his career.
+* The year 1848, however, saw the overthrow of the monarchy and during this revolution Bertrand served as a Captain in the National Guard.
+* These were extremely difficult times for Bertrand and his family.
+* The repression of the Paris Commune took place towards the end of May during a week of street fighting which saw Bertrand's house burned and many of his manuscripts were lost in the fire including an intended third volume of Traité de calcul différentiel et de calcul intégral Ⓣ(Treatise on differential and integral calculus) which he never rewrote.
+* Bertrand also lost his manuscript of Thermodynamique Ⓣ(Thermodynamics)  in the fire but he later rewrote the work.
+* With his home destroyed Bertrand moved to Sèvres and later to Viroflay.
+* In fact Bertrand's home was particularly important to him for it provided the centre of a vigorous intellectual grouping.
+* His family grew to include Émile Picard who married a daughter of Hermite and Bertrand's sister Louise.
+* In 1881 Paul Appell married Amelie, a niece of Bertrand and of Hermite and a cousin of Émile Picard.
+* Bertrand, by this time one of the leading mathematicians in France, had to deal with the consequences as it was questioned whether the mathematics being taught was too theoretical, and so not preparing the leading young Frenchmen for the military.
+* Bertrand was appointed a member of the Paris Academy of Sciences in 1856 and he served as its permanent secretary from 1874 to the end of his life.
+* the influence of Bertrand's work, however, is hardly comparable to that of several of his contemporaries and pupils.
+* Lest it be judged ephemeral, it must be viewed in the context of nineteenth-century Paris and of Bertrand's brilliant academic career, his exalted social position, and the love and respect given him by his pupils.
 
 Born 11 March 1822, Paris, France. Died 3 April 1900, Paris, France.
 

@@ -7,10 +7,10 @@ orderid: 1909
 title: Romberg, Werner
 born: 1909
 died: 2003
-keywords: Romberg, Numbers, Theorem, Calculus, Diophantine, Mittenende, Substitution
-description: German mathematician Werner Romberg established the foundations of number theory, developed the first proof of the theorem of algebra, and discovered the Romberg inequality.
+keywords: werner romberg,romberg
+description: Werner Romberg was a German mathematician and physicist. He worked in numerical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,42 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Werner Romberg** was a German mathematician and physicist. He worked in numerical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Foundations of Number Theory, developing the so-called 'Romberg Numbers'.
-2. Developed the First Method of Proof of the Fundamental Theorem of Algebra.
-3. Formulated the Romberg Theorem of Calculus, which is a generalization of the Riemann Sum.
-4. Devised the Theory of Diophantine Numbers, which deals with the study of non-arithmetic truths.
-5. Invented the Method of Mittenende, an Algebraic Tool used to solve Polynomials.
-6. Established the Principle of Substitution, a technique to treat equations with arbitrary functions.
-7. Proposed an axiom system for the definition of arithmetic operations.
-8. Pioneer of Analytic Function Theory, which studies the behavior of functions through complex analysis.
-9. Discovered the Romberg Inequality, which relates the Riemann sum to a corresponding integral.
-10. Demonstrated the Capacity to Use Mathematics as a Tool for Investigating Physical Phenomena.
+* Werner was brought up in Berlin where he attended school.
+* Lénárd was a Nazi whose political views were abhorrent to Romberg.
+* It was standard practice for German students at this time to study at several different universities and, after two years at Heidelberg, Romberg moved to Munich in 1930 where he continued his studies.
+* Romberg's mathematics lecturers at Munich included Constantin Carathéodory and Oskar Perron.
+* However, in the early 1930s the Nazi party was gaining ground and Romberg, who had staunch left-wing views, was bitterly opposed to them.
+* Let us note that Romberg's doctoral thesis was Polarisation des Kanalstrahllichtes Ⓣ(On the polarization of the channel light beam).
+* The Soviet regime had made a small change to the spelling of the city and, at the time that Romberg went there, it was known as Dnepropetrovsk.
+* Romberg took up his appointment as a theoretical physicist in the Department of Physics and Technology there in 1934.
+* Romberg, as a German citizen, had his right to stay in the Soviet Union ended in 1937 and so he had to leave his position in Dnepropetrovsk.
+* With hindsight, however, it is clear that Prague was not a good choice for Romberg.
+* Romberg knew he had to escape and he was fortunate to have the necessary contacts in Prague to help him get in touch with Egil Andersen Hylleraas (1898-1965) in Oslo.
+* Romberg offered to work as Hylleraas's assistant and Hylleraas managed to obtain money from the Brogger Committee to enable Romberg to leave Prague and travel to Olso.
+* Hylleraas was not the only person in Oslo with whom Romberg worked.
+* However, Romberg was not safe in Oslo for, on 9 April 1940, German troops invaded Norway and soon occupied Oslo.
+* Romberg, always one step ahead of the German advance, had already left Oslo and crossed the border into Sweden.
+* Romberg lived in Uppsala from 1940 to 1944.
+* Of course, the Nazis were not too pleased that Romberg was managing to keep out of their clutches.
+* In 1941 the German Reich stripped Romberg of his German citizenship and in 1943 they revoked his doctorate.
+* Late in 1944, when Oslo had been liberated from the Germans, Romberg was able to return there and once again take up his former position as Hylleraas's assistant.
+* He was a friend of Romberg's and well acquainted with his abilities.
+* He encouraged Romberg to apply for the position of dosent in physics at the Norwegian Institute of Technology in Trondheim.
+* Romberg was appointed as a dosent, which was essentially an assistant lectureship, and left Oslo in 1949.
+* It was while he was in this post at Trondheim that Romberg made his most important contribution when he published the paper Vereinfachte Numerische Integration  Ⓣ(Simplified numerical integration) in 1955.
+* This paper contains what today is known as Romberg integration and we now look briefly at this method.
+* Romberg's aim with this paper was to increase the speed of convergence of the trapezium rule, a standard numerical integration method.
+* What Romberg achieved was a systematic approach to applying extrapolation to the trapezium rule, by successively halving the step size in order to attain higher and higher accuracy.
+* Besides its usefulness, Romberg's method also showed to non-specialists that convergence acceleration methods can be quite powerful.
+* In 1963 Jean-Pierre Laurent published a rigorous analysis of Romberg integration and after that the method became widely known and widely used.
+* Let us return to give some further details of Romberg's career.
+* Nevertheless, Romberg lacked the political strength and skills needed to realise a pioneering project in Trondheim, and none of his attempts got any support from the funding authorities.
+* Romberg had then given a short introduction to mechanical and electrical computers, without going into detail on how to program or use them.
+* In 1968, Romberg returned to Germany when he was appointed to the chair of Mathematical Methods in Science and Numerical Analysis at the University of Heidelberg.
+* It is because of these characteristics that Werner Romberg was my role model and always will be.
+* Romberg retired in 1978 when he was 69 years old.
+* In particular, Professor Romberg was asked to give an informal talk on the introduction of digital computers in Norway.
+* Werner Romberg was an outstanding scientist with a high international reputation.
 
 Born 16 May 1909, Berlin, Germany. Died 5 February 2003, Heidelberg, Germany.
 

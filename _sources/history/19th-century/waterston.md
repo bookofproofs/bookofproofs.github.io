@@ -7,10 +7,10 @@ orderid: 1811
 title: Waterston, John James
 born: 1811
 died: 1883
-keywords: John James Waterston, Kinetic Theory, Calculus, Mathematical Thought, Geometry, Polynomial Solutions, Unified Field Theory
-description: John James Waterston was a Scottish physicist who developed the framework for calculus, made key contributions to mathematics & geometry, and proposed a unified field theory.
+keywords: john waterston,waterston
+description: John James Waterston was a Scottish physicist who worked in the kinetic theory of gases.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John James Waterston**  was a Scottish physicist who worked in the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the framework for calculus, which formed the foundation of calculus for many later scientists.
-2. Published an important paper on the role of mathematicians in society that helped shape philosophical debates about the value of mathematical thought.
-3. Developed the first abstract model of physical space, laying the groundwork for later advancements in geometry and topology.
-4. Developed methods for solving equations and polynomials which became the basis for modern mathematical analysis.
-5. Pioneered the early use of Newton's calculus and the analytical geometry of Descartes.
-6. First to show that complex numbers can be used to solve polynomial equations, a key result in algebraic analysis.
-7. Proved that Euclid's postulates were complete and consistent, thus giving a foundation to the entire field of geometry and setting the stage for the development of non-Euclidean geometry.
-8. Proposed a unified field theory that combined the principles of Newtonian and Leibnizian calculus and presented a consistent explanation of the laws of motion.
+* William and Catherine's son George Waterston, an Edinburgh sealing wax manufacturer and stationer, married Jane Blair from Dunkeld.
+* They had nine children of which John Waterston, the subject of this biography, was the sixth.
+* John Waterston studied at Edinburgh High School, then entered Edinburgh University to study mathematics and physics while at the same time being an apprentice in the engineering firm of Grainger and Miller.
+* At Edinburgh University he was a pupil of John Leslie who gave him an excellent training in mathematical physics.
+* Waterston published his first paper on mathematical physics while a student.
+* Waterston went to London in 1832 to work for James Walker, a leading civil engineering firm, where he worked as a surveyor for laying railway tracks.
+* Waterston's most significant contribution came two years later when he submitted a long paper on the kinetic theory of gases to the Royal Society.
+* As was the practice, Waterston's manuscript was not returned to him, but instead became the property of the Royal Society and was retained in the archives.
+* Waterston had not made a copy of this complex manuscript and was unable to reconstruct it in sufficient detail to submit it for publication elsewhere.
+* Waterston's death was rather mysterious.
+* It was Rayleigh who discovered Waterston's unpublished paper in 1891 and the Royal Society then published it when he pointed out that its importance in light of the later work along the same lines by Clausius and Maxwell.
 
 Born 1811, Edinburgh, Scotland. Died 18 June 1883, Edinburgh, Scotland.
 

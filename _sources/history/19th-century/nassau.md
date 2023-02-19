@@ -7,10 +7,10 @@ orderid: 1893
 title: Nassau, Jason John
 born: 1893
 died: 1965
-keywords: Jason Nassau, Mathematics, Astronomy, Linear Algebra, Algebraic Combinatorics, Matroid Theory, Sloan Fellowship
-description: Jason Nassau published acclaimed papers in mathematics, astronomy and wrote influential papers in algebraic combinatorics and matroid theory. Awarded the Sloan Fellowship and held Visiting Professor positions.
+keywords: jason j nassau,nassau
+description: Jason J Nassau was an American mathematician who published papers in both mathematics and astronomy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jason J Nassau** was an American mathematician who published papers in both mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the textbook "Linear Algebra: Theory and Examples" in 2013.
-2. Successfully completed the National Science Foundation's Research Experiences for Undergraduates program in algebra and applied mathematics in 2011.
-3. Wrote two influential papers on algebraic combinatorics and matroid theory in 2011 and 2013.
-4. Awarded the Sloan Fellowship for Mathematics in 2011.
-5. Graduate of the Massachusetts Institute of Technology with a PhD in mathematics in 2009.
-6. Graduate of Harvard University with a Bachelor of Arts in mathematics in 2002. 
-7. Appointed to a Visiting Assistant Professor position at Indiana University in 2007.
+* Among Nassau's achievements are his discovery of a cluster of 9,000 stars, his co-discovery of two novae in 1961, and his development of a technique for studying the distribution of red stars.
+* Further details are given in J J Nassau's obituary, written by Victor M Blanco, which appeared in the Quarterly Journal of the Royal Astronomical Society, volume 7 (1966).
+* Among the honours given to Nassau, we mention that the Nassau Astronomical Station at the Warner and Swasey Observatory is named after him.
+* Also the Jason J Nassau Prize was established by the Cleveland Astronomical Society in 1965.
+* His name is given to two astronomical objects: Nassau crater on the Moon is named after him, as is asteroid 9240 Nassau, discovered on 31 May 1997.
+* Nassau joined the American Mathematical Society in February 1921 (he was one of 114 people who joined at that time).
+* He had already joined the Edinburgh Mathematical Society in June 1919.
+* Finally we list a few of Nassau's papers: Questions and Discussions: Discussions: Evaluation of the Determinant  ∣1/(r+s−1)!∣|1/(r + s - 1)! |∣1/(r+s−1)!∣ (1924); Some extensions of the generalized Kronecker symbol (1926); Questions and Discussions: Discussions: Concerning a Theorem in Determinants (1927); and (with O E Brown) A Navigation Computer (1947).
 
 Born 29 March 1893, Smyrna, (now Izmir) Turkey. Died 11 May 1965, Cleveland, Ohio, USA.
 

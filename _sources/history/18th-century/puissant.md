@@ -7,10 +7,10 @@ orderid: 1769
 title: Puissant, Louis
 born: 1769
 died: 1843
-keywords: Louis Puissant, Mathematics, Geography, Map Projection, Theory, Equations, Number Systems
-description: Louis Puissant, French mathematician and geographer, was renowned for inventions including a new map projection and contributions to the theory of equations and number systems.
+keywords: louis puissant,puissant
+description: Louis Puissant was a French mathematician and geographer who is best remembered for his invention of a new map projection.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Louis Puissant** was a French mathematician and geographer who is best remembered for his invention of a new map projection.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a general theory for equations of arbitrary degree and a particular solution for quintic equations of odd degree.
-2. Made important contributions to the theory of number systems.
-3. Discovered the relation connecting the square of the arc and the chord of a circle.
-4. Developed the General Theory of Quadratic Reciprocity.
-5. Proved that the number of divisors of a number is equal to the sum of the reciprocals of its prime factors.
-6. Solved a problem of Diophantine approximation in higher dimensions.
-7. Developed the theory of composition of numbers into sums of other numbers.
-8. Discovered the law of variation of the difference of arc and chord of a circle.
-9. Found the formulae for the equation of a circle in hyperbolic geometry.
-10. Developed a new numerical method for solving equations of multiple degrees of complexity.
+* Louis trained as a land-surveyor but felt that he did not know enough mathematics to carry out this work to the standard that he wished, so decided that he must study geometry.
+* Delambre and Méchain had been measuring the meridian since 1792 and this project was still not complete when Puissant was carrying out triangulations using similar methods.
+* Puissant was fascinated by this major scientific project, and wrote an book on the problem of the shape of the earth.
+* Puissant had risen to the rank of lieutenant-colonel by the time he left the army.
+* On 3 November 1828 Puissant was elected to the Academy of Sciences to fill the vacancy caused by the death of Laplace in the previous year.
+* Puissant wrote on geodesy, the shape of the earth and spherical trigonometry.
 
 Born 22 September 1769, Champagne, France. Died 10 January 1843, Paris, France.
 

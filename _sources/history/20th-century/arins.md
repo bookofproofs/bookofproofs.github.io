@@ -7,10 +7,10 @@ orderid: 1911
 title: Arins, Eizens
 born: 1911
 died: 1987
-keywords: Eizens Arins, Mathematics, Olympiad, Computer Science, Algorithms, Publications, Lectures
-description: Eizens Arins was a Russian mathematician who achieved various successes in the fields of mathematics, computer science, and cybernetics, including publications, lectures and Olympiad wins.
+keywords: eizens arins,arins
+description: Eizens Arins was a Russian-born mathematician who worked in the theory of functions, theoretical computer science, and cybernetics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eizens Arins** was a Russian-born mathematician who worked in the theory of functions, theoretical computer science, and cybernetics.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a bronze medal in the International Mathematical Olympiad in 2003.
-2. Was part of a team that won the Latvian Mathematical Olympiad in 2005.
-3. Was a member of the European Mathematical Olympiad team in 2006.
-4. Authored several articles for the journal Mathematics for Young Explorers in 2005.
-5. Found a new technique for solving cubic equations in 2010.
-6. Co-authored a book on probability theory in 2012.
-7. Designed a course in topology for high-school students in 2013.
-8. Developed a new algorithm for solving linear equations in 2014.
-9. Delivered a lecture on computer algebra at the Annual Mathematics Conference in 2015.
-10. Published a book on complex analysis in 2017.
+* Arins' parents were Latvian workers but were in exile in Siberia at the time of his birth.
+* Arins mother died in exile in Siberia in 1918, but in 1921 Arins and his father returned to the then independent country of Latvia.
+* Arins attended secondary school in Daugavpils (German Dünaburg, Russian Dvinsk) which is a city in southeastern Latvia on the Western Daugava River.
+* In 1929 Arins graduated from the school in Daugavpils and he entered the University of Latvia in Riga in 1930.
+* During this extremely difficult period the University of Latvia continued to operate and Arins continued his undergraduate studies.
+* Despite the take-over of the country by Germany, the University of Latvia remained open and in September 1941 Arins graduated.
+* In December of that year Arins began lecturing in the Faculty of Physics and Mathematics of the University of Latvia.
+* Arins had graduated at a time when the country had been under German rule, and the Soviet authorities now refused to recognise his degree, He had to graduate again under the new regime which he did in 1946.
+* Arins then continued his postgraduate studies at Moscow State University where his doctorate was supervised by L V Keldysh.
+* Under her supervision Arins wrote a thesis on partially continuous functions on products of topological spaces which he defended in 1954.
+* In 1959 the University of Latvia established a Computing Centre with Arins as the founder, first director, and organiser.
+* Arins showed great organisational skills in developing the Computing Centre and soon he was joined by Grinbergs who contributed in a major way to the work of the Centre.
 
 Born 16 May 1911, Krasnoyarsk, Krasnoyarsk kray, Russia. Died 13 February 1987, Riga, Latvia.
 

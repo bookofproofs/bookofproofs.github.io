@@ -7,10 +7,10 @@ orderid: 1897
 title: Synge, John Lighton
 born: 1897
 died: 1995
-keywords: John Synge, theoretical physics, differential geometry, finite topology, least action, Riemann geometry, Einstein field equations
-description: John Synge was an Irish mathematician who contributed to the foundations of theoretical physics, including differential geometry, finite topology and Riemann geometry. He proposed an early version of the Einstein field equations.
+keywords: john synge,synge
+description: John Synge was an Irish mathematician whose most important contributions were to theoretical physics. He wrote over 400 papers and 11 books.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Synge** was an Irish mathematician whose most important contributions were to theoretical physics. He wrote over 400 papers and 11 books.
 
 ### Mathematical Profile (Excerpt):
-1. John Synge made important contributions to the foundations of modern differential geometry, particularly the field of finite topology and the principle of least action.
-2. He provided a systematic solution to the convergence of geometric series and established an analytic connection between the notion of potential theory and geometry.
-3. Synge developed analytical theories of topology and harmonic analysis, providing a formal approach to the characterization of curved surfaces and geodesics.
-4. He developed a rigorous mathematical framework to define and describe the movement of liquids in a rotational field.
-5. He introduced the concept of Riemann geometry and derived equations which could be applied in gravitational theory.
-6. Synge constructed a mathematical model which accounted for the behavior of electric fields, providing an early example of field theory.
-7. He proposed an early version of the Einstein field equations and explored the properties of curved space-time.
-8. He developed general proofs for Fubini's theorem, extending the theory of integration to cover multiple variables.
-9. Synge wrote several papers on the use of matrices in conjunction with differential equations, paving the way for the development of numerical analysis.
-10. He identified a number of general principles which could be used to classify symmetric equations and developed methods for computing multidimensional integrations.
+* John Synge's mother, Ellen Price, was of Scottish origin, being descended from the Scottish Stuarts, in particular a Sir William Stuart who went to Ireland in the early seventeenth century.
+* After being educated at St Andrews College in Dublin, Synge entered Trinity College, Dublin in 1915.
+* After graduating, Synge was appointed to a lectureship in mathematics at Trinity College, but he only held the post for a short time, leaving for Canada in 1920.
+* from 1920 to 1925 Synge was an assistant professor of mathematics at the University of Toronto.
+* In 1930 Synge headed back to North America and again was appointed to the University of Toronto, this time as Professor of Applied Mathematics.
+* In 1943 Synge was appointed as Chairman of the Mathematics Department of Ohio State University, then, three years later, as Head of the Mathematics Department of the Carnegie Institute of Technology in Pittsburg.
+* Synge retired in 1972 and during his time at the Dublin Institute for Advanced Studies about 12% of all workers in relativity theory studied there.
+* During his long scientific career, Synge published over 200 papers and 11 books.
+* Synge's skill at communication was not only a gift that he had for writing, but also a gift in lecturing.
+* Those who were fortunate enough to have attended Synge lectures say that he combined all three.
+* Synge received many honours for his work.
+* As to hobbies, Synge was a keen cyclist, was passionately interested in sailing and painted some very fine compositions.
+* Synge was a member of a highly talented family.
+* First John Millington Synge (1871-1909), John Lighton Synge's uncle, who was a playwright and a powerful poetic dramatist who portrayed the primitive life of the Aran Islands and the western Irish coast.
+* Secondly there was Richard Laurence Millington Synge (1914-1994), Nobel laureate for Chemistry in 1952, who shared the Prize for Chemistry with A J P Martin for their development of partition chromatography, a method used to separate mixtures of closely related chemicals such as amino acids for identification.
+* Thirdly we mention Cathleen Synge Morawetz, Professor of Mathematics at the New York Courant Institute, who is John Lighton Synge's daughter.
 
 Born 23 March 1897, Dublin, Ireland. Died 30 March 1995, Dublin, Ireland.
 

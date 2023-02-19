@@ -7,10 +7,10 @@ orderid: 1858
 title: Johnson (2), William Ernest
 born: 1858
 died: 1931
-keywords: William Johnson, harmonic functions, Hausdorff capacity, operator functions, interpolation, Johnson-Borel theorem, Annals of Mathematics, measure theory
-description: William Johnson, mathematician, logician, and economist, published pioneering work on harmonic functions, Hausdorff capacity, operator functions, interpolation, the Johnson-Borel theorem, a journal, and measure theory.
+keywords: william johnson,johnson
+description: William Johnson was an English mathematician, logician and economist.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Johnson** was an English mathematician, logician and economist.
 
 ### Mathematical Profile (Excerpt):
-1. Published groundbreaking work on harmonic functions in 1909
-2. Proved the existence of Hausdorff capacity as part of an extension of the lemma of Ernst Julius Ouwens in 1911.
-3. Developed an important theorem on the boundedness of certain operator functions in the area of analysis in 1914.
-4. Pioneered the theory of interpolation of analytic functions in 1930.
-5. Established the Johnson-Borel theorem in 1935.
-6. Founded the influential journal Annals of Mathematics in 1936.
-7. Developed a new approach to measure theory in 1952.
-8. Published his influential three-volume book on Harmonic Analysis in 1954.
+* It was a large family with William having one older brother and three older sisters.
+* Two of William's brothers, George William Johnson and Reginald Brimley Johnson, went on to become authors.
+* William, the subject of this biography, was a pupil at the school in Cambridge where his father was the headmaster.
+* Johnson viewed probability as expressing logical relations between evidence propositions and hypothesis propositions.
+* In the 1920s the Cambridge philosopher William Ernest Johnson in effect characterized symmetric Dirichlet priors for multinomial sampling in terms of a natural and easily assessed subjective condition.
+* Johnson's proof can be generalized to include asymmetric Dirichlet priors and those finitely exchangeable sequences with linear posterior expectation of success.
+* Some interesting open problems that Johnson's result raises, and its historical and philosophical background, are also discussed.
+* Despite his shyness, Keynes remarked that Johnson was an excellent conversationalist.
 
 Born 23 June 1858, Cambridge, England. Died 14 January 1931, Northampton, England.
 

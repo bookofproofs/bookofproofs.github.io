@@ -7,10 +7,10 @@ orderid: 1879
 title: Krylov (2), Nikolai Mitrofanovich
 born: 1879
 died: 1955
-keywords: Nikolai Krylov, analysis, mathematical physics, parametric method, invariance, Krylov Subspace, variational principle
-description: Nikolai Krylov developed many key concepts in mathematics and mathematical physics, such as a parametric method for solving boundary value problems and the Krylov Subspace.
+keywords: nikolai mitrofanovich krylov,krylov
+description: Nikolai Krylov was a Russian mathematician who published over 200 papers on analysis and mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nikolai Krylov** was a Russian mathematician who published over 200 papers on analysis and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a parametric method for solving two-point boundary value problems.
-2. Mathematically demonstrated the stability of uniform rotations of a curved surface and a proof of the invariance of the general equation of the geodesic curve.
-3. Established a general theorem and formulas for the soluble cases of Abel's equations.
-4. Discovered the Krylov Subspace which is used in scientific and engineering calculations. 
-5. Constructed an algorithm for inverting a matrix.
-6. Devised a method for constructing uncountable sets of solutions to boundary value problems of mathematical physics.
-7. Developed methods for the numerical solution of ordinary time-dependent partial differential equations.
-8. Discovered the application of the variational principle in harmonic analysis.
-9. Found a way to numerical solution of two-point boundary value problems.
-10. Found a method of compressible flow calculations which would later be known as the Krylov-Bogolyubov method.
+* He held this post until 1922 when he moved to Kiev on being appointed chairman of the mathematical physics department of the Ukrainian  Academy of Sciences (in fact renamed the All-Ukrainian Academy of Sciences in the year before Krylov was appointed).
+* Krylov published over 200 papers on analysis and mathematical physics.
+* The most famous publication of Krylov and Bogolyubov is their book Introduction to nonlinear mechanics, published in Kiev in 1937.
+* Before publishing this book with Bogolyubov, in 1931 Krylov had published the important monograph Les méthodes de solution approchée des problèmes de la physique mathématique.
+* All of Krylov's works emphasise computational aspects, motivations, and applications.
+* In 1939 Krylov and Bogolyubov published Sur les équations de Focker-Planck déduites dans la théorie des perturbations à l'aide d'une méthode basée sur les propriétés spectrales de l'hamiltonien perturbateur (Application à la mécanique classique et à la mécanique quantique).
+* Finally let us mention three papers published by Krylov in 1947.
+* In 1928 Krylov was elected to the USSR Academy of Sciences and in 1939 he became an honoured scientist of the Ukrainian Soviet Socialist Republic.
 
 Born 29 November 1879, St Petersburg, Russia. Died 11 May 1955, Moscow, USSR.
 

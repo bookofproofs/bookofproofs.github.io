@@ -7,10 +7,10 @@ orderid: 1887
 title: Hertz (2), Gustav
 born: 1887
 died: 1975
-keywords: Gustav Hertz, Nobel Prize, Physics, Electron Impact, Toepler-Hittorf-Award, X-ray Crystallography, Photoelectric Effect
-description: Gustav Hertz, Nobel Prize winner in Physics, made invaluable contributions to research on electron impacts in atoms, X-ray crystallography, and the photoelectric effect.
+keywords: gustav hertz,hertz
+description: Gustav Hertz was a German physicist and Nobel Prize winner for his work on inelastic electron collisions in gases.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gustav Hertz** was a German physicist and Nobel Prize winner for his work on inelastic electron collisions in gases.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Nobel Prize in Physics in 1925 for his discovery of the laws governing the impact of an electron upon an atom, opening the way for further research in this field.
-2. Awarded the Toepler-Hittorf-Award in 1929 for his contributions in theoretical physics.
-3. Proposed the electron-self-energy model of an atom, describing an atom as a system of an electron and its corresponding self-energy field.
-4. Formulated the theory of partial ionization of gases, providing a better understanding of electrical discharges in gases.
-5. Made several advances in the field of X-ray crystallography and atomic structures.
-6. Co-authored the quantum theory of molecular structure with Werner Heisenberg.
-7. Conducted extensive research on the photoelectric effect and photoemission, which helped to verify the quantum theory.
-8. Developed mathematical methods for the statistical description of infrared spectra.
+* Gustav Hertz (senior) was a lawyer who was one of the brothers of Heinrich Hertz, the discoverer of wireless waves, who also has a biography in this archive.
+* Gustav, the subject of this biography, attended the Johanneum Gymnasium in Hamburg as his famous uncle had done about thirty years earlier.
+* As was the custom with German students at this time, Hertz did not complete his studies at a single university, but moved around to sample the best of a number of institutions.
+* After Göttingen, Hertz moved to Munich where he studied at the university before moving to the University of Berlin in 1909 to study for his doctorate.
+* In 1913 Hertz was appointed as an Assistant in Physics at the University of Berlin.
+* Franck was five years older than Hertz and had been awarded his doctorate by the University of Berlin in 1909.
+* Both Hertz and Franck were mobilised when war broke out and their research collaboration necessarily stopped.
+* The war proved unfortunate for Hertz who was severely wounded in action in 1915.
+* They had two sons, Carl Hellmuth Hertz, born on 15 October 1920, and Johannes Hertz who both became physicists.
+* Hertz left Berlin in 1920 and worked for five years in the physics laboratory of the Philips Incandescent Lamp Factory at Eindhoven.
+* After being awarded the Nobel Prize for Physics in 1925, Hertz gave his Nobel lecture on The results of the electron-impact tests in the light of Bohr's theory of atoms  on 11 December 1926.
+* Hertz qualified under the exemptions, but this was not honoured over the following period.
+* Hertz resigned his positions at the Technological University of Berlin in 1935 and returned to industry being appointed Director of the Siemens physics laboratory.
+* In 1941 Hertz's wife Ellen died.
+* When the war ended in 1945 Hertz went to the Soviet Union where he worked as the head of a research laboratory.
+* Hertz received many honours in addition to the 1925 Nobel Prize in Physics.
 
 Born 22 July 1887, Hamburg, Germany. Died 30 October 1975, Berlin, East Germany.
 

@@ -7,10 +7,10 @@ orderid: 1939
 title: Baker (3), Alan
 born: 1939
 died: 2018
-keywords: Alan Baker, Number Theory, Gold Medal, ECM, BCH Formula, Roger Penrose, De Morgan/Sylvester Medals
-description: Alan Baker, English mathematician, won Gold Medals, authored book, developed ECM algorithm, discovered BCH formula, wrote papers with Penrose, & received top Math awards.
+keywords: alan baker,baker
+description: Alan Baker was an English mathematician, known for his work in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alan Baker** was an English mathematician, known for his work in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Represented the UK at the International Mathematical Olympiad in 2000, winning a gold medal.
-2. Authored the book "A Comprehensive Course in Number Theory," a rigorous study of the subject.
-3. Developed the Elliptic Curve Method (ECM) algorithm, which allows prime numbers to be identified more quickly.
-4. Discovered the Baker–Campbell–Hausdorff formula, which helps in understanding the structure of Lie algebras.
-5. Won a gold medal at the European Mathematical Olympiad in 1980.
-6. Co-wrote papers with Roger Penrose on geometric problems in quantum theory.
-7. Received the De Morgan Medal in 1996 in recognition of his groundbreaking contributions to mathematics.
-8. Received the Royal Society’s Sylvester Medal in 2000, the UK’s premier math award.
+* He moved on to Trinity College Cambridge where he was awarded an M.A. Continuing his research at Cambridge advised by Harold Davenport, Baker began publishing papers.
+* From 1964 to 1968 Baker was a research fellow at Cambridge, then becoming Director of Studies in Mathematics, a post which he held from 1968 until 1974 when he was appointed Professor of Pure Mathematics.
+* Baker was awarded a Fields Medal in 1970 at the International Congress at Nice.
+* Among the relevant profound contributions are those of Alan Baker, Wolfgang M Schmidt, and Vladimir Gennadievich Sprindzuk.
+* Among these, Baker's have had the heaviest impact on other problems in mathematics.
+* Baker however went further and produced results which, at least in principle, could lead to a complete solution of this type of problem.
+* Among Baker's famous books are: Transcendental number theory (1975), Transcendence theory : advances and applications (1977), A concise introduction to the theory of numbers (1984), (with Gisbert Wüstholz) Logarithmic forms and Diophantine geometry (2007), and A Comprehensive Course in Number Theory (2012).
+* However, this book gives the necessary intuitive background to study the original journal articles of Baker, Masser, Wüstholz and others on the above-listed subjects.
+* Baker also edited the important New advances in transcendence theory (1988) and wrote the important survey with Gisbert Wüstholz entitled Number theory, transcendence and Diophantine geometry in the next millennium.
+* In 1999 a conference was organised in Zürich to celebrate Baker's 60th  birthday.
+* Most of the lectures given at the meetings were published in A Panorama in Number Theory or The View from Baker's Garden (2002).
+* The London Mathematical Society was represented by its President, Professor Martin Taylor, and it sent greetings to Alan Baker on the occasion of his 60th  birthday.
+* Baker has received many honours for his mathematical contributions in addition to the 1970 Fields medal.
+* Outside of mathematics, Baker lists his interests as travel, photography and the theatre.
 
 Born 19 August 1939, London, England. Died 4 February 2018, Cambridge, England.
 

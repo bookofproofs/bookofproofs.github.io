@@ -7,10 +7,10 @@ orderid: 1768
 title: Fourier, Jean Baptiste Joseph
 born: 1768
 died: 1830
-keywords: Fourier Series, Fourier Analysis, heat conduction, separation of variables, periodic motion, waves, scientific problems
-description: Joseph Fourier developed the Fourier Series and Fourier Analysis to study heat conduction, separation of variables, and periodic motion, as well as scientific problems such as waves and electromagnetism.
+keywords: joseph fourier,fourier
+description: Joseph Fourier studied the mathematical theory of heat conduction. He established the partial differential equation governing heat diffusion and solved it by using infinite series of trigonometric functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,55 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Fourier** studied the mathematical theory of heat conduction. He established the partial differential equation governing heat diffusion and solved it by using infinite series of trigonometric functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Fourier Series, a mathematical tool used to break down a complicated problem into simpler components. 
-2. Developed the theorems of Fourier Analysis, a mathematical technique for solving linear differential equations. 
-3. Established the notion of heat conduction, a crucial idea in the understanding of conservation of energy. 
-4. Developed the method of separation of variables for partial differential equations, a powerful technique for solving such equations. 
-5. Demonstrated the connection between periodic motion and the motion of waves.  
-6. Applied mathematics to a number of scientific problems, including acoustic theory, astronomy, and electromagnetism.
+* After the death of his first wife, with whom he had three children, he remarried and Joseph was the ninth of the twelve children of this second marriage.
+* Joseph's mother died went he was nine years old and his father died the following year.
+* There Joseph studied Latin and French and showed great promise.
+* In 1787 Fourier decided to train for the priesthood and entered the Benedictine abbey of St Benoit-sur-Loire.
+* Fourier was unsure if he was making the right decision in training for the priesthood.
+* Fourier did not take his religious vows.
+* Up until this time there had been a conflict inside Fourier about whether he should follow a religious life or one of mathematical research.
+* Certainly Fourier was unhappy about the Terror which resulted from the French Revolution and he attempted to resign from the committee.
+* However this proved impossible and Fourier was now firmly entangled with the Revolution and unable to withdraw.
+* Fourier defended members of one faction while in Orléans.
+* This incident was to have serious consequences but after it Fourier returned to Auxerre and continued to work on the revolutionary committee and continued to teach at the College.
+* Fourier feared the he would go to the guillotine but, after Robespierre himself went to the guillotine, political changes resulted in Fourier being freed.
+* Later in 1794 Fourier was nominated to study at the École Normale in Paris.
+* The school opened in January 1795 and Fourier was certainly the most able of the pupils whose abilities ranged widely.
+* Fourier began teaching at the Collège de France and, having excellent relations with Lagrange, Laplace and Monge, began further mathematical research.
+* By 1 September 1795 Fourier was back teaching at the École Polytechnique.
+* In 1798 Fourier joined Napoleon's army in its invasion of Egypt as scientific adviser.
+* Fourier acted as an administrator as French type political institutions and administration was set up.
+* While in Cairo Fourier helped found the Cairo Institute and was one of the twelve members of the mathematics division, the others included Monge, Malus and Napoleon himself.
+* Fourier was elected secretary to the Institute, a position he continued to hold during the entire French occupation of Egypt.
+* Fourier was also put in charge of collating the scientific and literary discoveries made during the time in Egypt.
+* Fourier returned to France in 1801 with the remains of the expeditionary force and resumed his post as Professor of Analysis at the École Polytechnique.
+* Fourier was not happy at the prospect of leaving the academic world and Paris but could not refuse Napoleon's request.
+* It was during his time in Grenoble that Fourier did his important mathematical work on the theory of heat.
+* The first objection, made by Lagrange and Laplace in 1808, was to Fourier's expansions of functions as trigonometrical series, what we now call Fourier series.
+* Further clarification by Fourier still failed to convince them.
+* provides a good index of the originality of Fourier's views.
+* The second objection was made by Biot against Fourier's derivation of the equations of transfer of heat.
+* Fourier had not made reference to Biot's 1804 paper on this topic but Biot's paper is certainly incorrect.
+* Fourier submitted his 1807 memoir together with additional work on the cooling of infinite solids and terrestrial and radiant heat.
+* Only one other entry was received and the committee set up to decide on the award of the prize, Lagrange, Laplace, Malus, Haüy and Legendre, awarded Fourier the prize.
+* With this rather mixed report there was no move in Paris to publish Fourier's work.
+* Fourier managed to avoid this difficult confrontation by sending word that it would be dangerous for Napoleon.
+* When he learnt of Napoleon's escape from Elba and that he was marching towards Grenoble with an army, Fourier was extremely worried.
+* However as Napoleon marched into the town by one gate Fourier left in haste by another.
+* Napoleon was angry with Fourier who he had hoped would welcome his return.
+* Fourier was able to talk his way into favour with both sides and Napoleon made him Prefect of the Rhône.
+* However Fourier soon resigned on receiving orders, possibly from Carnot, that the was to remove all administrators with royalist sympathies.
+* However Napoleon was defeated on 1 July and Fourier did not receive any money.
+* Fourier was elected to the Académie des Sciences in 1817.
+* In 1822 Delambre, who was the Secretary to the mathematical section of the Académie des Sciences, died and Fourier together with Biot and Arago applied for the post.
+* After Arago withdrew the election gave Fourier an easy win.
+* Shortly after Fourier became Secretary, the Académie published his prize winning essay Théorie analytique de la chaleur in 1822.
+* This was not a piece of political manoeuvring by Fourier however since Delambre had arranged for the printing before he died.
+* During Fourier's eight last years in Paris he resumed his mathematical researches and published a number of papers, some in pure mathematics while some were on applied mathematical topics.
+* Biot claimed priority over Fourier, a claim which Fourier had little difficulty showing to be false.
+* Poisson, however, attacked both Fourier's mathematical techniques and also claimed to have an alternative theory.
+* Fourier wrote Historical Précis Ⓣ(Historical summary) as a reply to these claims but, although the work was shown to various mathematicians, it was never published.
+* Fourier's work provided the impetus for later work on trigonometric series and the theory of functions of a real variable.
 
 Born 21 March 1768, Auxerre, Bourgogne, France. Died 16 May 1830, Paris, France.
 

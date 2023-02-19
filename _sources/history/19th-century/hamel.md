@@ -7,10 +7,10 @@ orderid: 1877
 title: Hamel, Georg Karl Wilhelm
 born: 1877
 died: 1954
-keywords: German, mathematics, mechanics, thermodynamics, calculus, Zentralblatt für Mathematik, fluid dynamics, Georg Hamel
-description: German mathematician Georg Hamel created the power formula for engines, advanced thermodynamics knowledge with entropy, developed calculus, co-founded a journal & wrote textbooks, and contributed to fluid dynamics & probability theory.
+keywords: georg hamel,hamel
+description: Georg Hamel was a German mathematician who worked in mechanics, the foundations of mathematics and function theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georg Hamel** was a German mathematician who worked in mechanics, the foundations of mathematics and function theory.
 
 ### Mathematical Profile (Excerpt):
-1. Created the mathematical formula for calculating the power of an internal combustion engine, which has been widely used since its original publication in 1896.
-2. His work on the theory of thermodynamics expanded the understanding of the mathematics behind the process of thermal energy conversion and introduced the notion of entropy as a way to quantify states of thermal equilibrium.
-3. Developed an abstract algebraical approach to improve the foundation of calculus.
-4. Co-founded the mathematical journal Zentralblatt für Mathematik, which became the leading publication in mathematics.
-5. Co-developed a top-down approach to teaching calculus and was the first to propose a comprehensive system of calculus instruction.
-6. Authored numerous mathematics textbooks, including Transfinite Zahlen, which introduced the concept of transfinite numbers and was one of the first books to discuss transfinite set theory.
-7. Contributed to the development of fluid dynamics, having published a series of papers on the principles of hydrodynamics.
-8. Pioneered the use of probability theory and statistical methods in mathematical analysis.
+* At this time Klein was running a seminar which studied the theory of elasticity, descriptive geometry, and mechanics, and Hamel participated in this seminar.
+* Hamel was appointed Professor of Mechanics at the German Technical University of Brünn on 3 October 1905.
+* Klein spoke highly of Hamel in his reference but considered Carathéodory superior for the particular position, and Carathéodory was appointed.
+* In August 1909 Hamel married Agnes Frangenheim in Cologne.
+* Hamel was appointed to the chair of mechanics at the Rheinisch-Westfälische Hochschule in Aachen on 1 October 1912, then in 1919 he moved to the Technical University of Charlottenburg in Berlin where he was appointed as professor of mathematics and mechanics.
+* Hamel was a leading member of the German Mathematical Society and was much involved with the political moves which went on in that Society.
+* Hamel was clearly associated with the views of National Socialism and in 1933 spoke of a spiritual bond between mathematics and the "Third Reich".
+* Blaschke resigned the Chairmanship of the German Mathematical Society in January 1935 and Hamel was appointed chairman to replace him.
+* Although Hamel met with approval by the National Socialists, his leadership was based on mathematical scholarship despite his close links with Nazi policies.
+* Together with Süss and Behnke, Hamel also served on an Instruction Commission set up by the German Mathematical Society.
+* Hamel worked in function theory, mechanics and the foundations of mathematics.
+* He is perhaps best known for the Hamel basis, published in 1905, when he made an early and explicit use of the Axiom of Choice to construct a basis for the real numbers as a vector space over the rational numbers.
+* In 1927 Hamel computed the size of the key space of the Kryha-Ciphering-Machine, which was quoted extensively by "Internationale Kryha-Maschinen-Gesellschaft" (Hamburg) to infer the unbreakability of the Kryha machines.
 
 Born 12 September 1877, Düren, Rhineland, Germany. Died 4 October 1954, Landshut, Germany.
 

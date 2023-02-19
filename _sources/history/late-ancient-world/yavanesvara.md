@@ -7,10 +7,10 @@ orderid: 120
 title: Yavanesvara
 born: 120
 died: 180
-keywords: Yavanesvara, Zero,Positional Notation, Hindu-Arabic, Fractions, Decimal,Mathematical Operations
-description: Yavanesvara revolutionized calculation through his introduction of the zero digit and Hindu-Arabic systems, and added fractions and mathematical operations to the base-10 numerical system.
+keywords: yavanesvara,yavanesvara
+description: Yavanesvara was an Indian astrologer who translated an important Greek text on astrology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Yavanesvara** was an Indian astrologer who translated an important Greek text on astrology.
 
 ### Mathematical Profile (Excerpt):
-1. Yavanesvara introduced the modern version of the zero digit, which revolutionized the way calculations were performed.
-2. He developed a positional notation system, which allowed for much more efficient calculations.
-3. He developed the Hindu-Arabic system, which introduced a base-10 numerical system, allowing for much more complex calculations.
-4. He was the first to use fractions for calculations, thereby extending the base-10 numerical system even further.
-5. Yavanesvara also developed a number of decimal-based mathematical operations, such as addition, subtraction, multiplication, and division.
+* The Indian methods of computing horoscopes all date back to the translation of a Greek astrology text into Sanskrit prose by Yavanesvara in 149 AD.
+* Yavanesvara (or Yavanaraja) literally means "Lord of the Greeks" and it was a name given to many officials in western India during the period 130 AD - 390 AD.
+* The particular "Lord of the Greeks" official Yavanesvara in whom we are interested here worked under Rudradaman.
+* Rudradaman became ruler of the Ksatrapas in around 130 AD and it was during the period of his rule that Yavanesvara worked as an official and made his translation.
+* Yavanesvara did far more than just translate the Greek text for such a translation would have had little relevance to the Indians.
+* Instead of the Greek gods who appear in the original, Yavanesvara used Hindu images.
+* In order to do this Yavanesvara put into his work an explanation of the Greek version of the Babylonian theory of the motions of the planets.
+* We do have, however, a version written in Sanskrit verse 120 years after Yavanesvara's work appeared.
+* Yavanesvara had an important influence on the whole of astrology in India for centuries after he made his popular translation.
+* Although the influence was more than on astrology, as the science of astronomy split from astrology, the influence of Yavanesvara's work reached into astronomy too.
 
 Born about 120, Western India. Died about 180, India.
 

@@ -7,10 +7,10 @@ orderid: 1813
 title: Anstice, Robert Richard
 born: 1813
 died: 1853
-keywords: Combinatorics, Pi, Conic Sections, Analytical Geometry, Variations, Symbolic Algebra, Lunar Theory
-description: Robert Richard Anstice: English clergyman & mathematician; pioneering work on math, physics & astrology; major works on calculus & higher polynomials.
+keywords: robert anstice,anstice
+description: Robert Richard Anstice was an English clergyman and mathematician who wrote two remarkable papers on combinatorics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Richard Anstice**  was an English clergyman and mathematician who wrote two remarkable papers on combinatorics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for calculating and publishing exact values of the mathematical constant pi.
-2. Broke new ground in applied mathematics with his work on the properties of conic sections.
-3. Pioneered the use of analytical geometry to solve problems in physics.
-4. Investigated parametric equations and their application to the calculus of variations. 
-5. Established an early form of the calculus of finite differences.
-6. Pioneered the use of symbolic algebra in mathematics.
-7. Published major works on the lunar theory and the theory of gravity.
-8. Explored the relationship between multiple variables and their transformations.
-9. Formulated the mean speed theorem and employed it to analyze the motions of heavenly bodies.
-10. Developed a method for solving polynomial equations of degree higher than four.
+* William Anstice ran an ironworks and this family business was eventually taken over by the eldest of the Anstice's four sons who was named William after his father.
+* Robert Anstice was the fourth and youngest of William and Penelope Anstice's sons.
+* We know that Anstice was awarded a scholarship to study mathematics after graduating at Oxford but there is then a rather strange gap in our knowledge of him for nothing is known of what he did over the following ten years.
+* Anstice was ordained in 1846 and the following year he became rector of Wigginton, near Tring, in the diocese of St Albans.
+* Anstice died young, being only 40 years old, but he did survive longer than his elder brother Joseph, who died at about the age of 28 years, only six years after his appointment to the chair of Classical Literature at King's College London.
+* Robert Anstice wrote three mathematical papers in his six years as rector in the parish of Wigginton.
+* Anstice achieved a brilliant generalisation to a resolvable Steiner triple system on 2p+12p + 12p+1 elements for all primes ppp congruent to 1 modulo 6.
+* Anstice also constructed an infinite number of Room squares a hundred years before T G Room wrote his paper in which it was thought for many years that the squares first appeared and from which they were named.
+* Perhaps even more remarkable is the fact that the method of differences which Anstice used has become one of the standard methods of design construction.
+* Anstice also gave examples of 2-rotational Kirkman triple systems which remained the only ones known until 1971.
 
 Born 9 April 1813, Madeley, Shropshire, England. Died 17 December 1853, Wigginton (near Tring), Hertfordshire, England.
 

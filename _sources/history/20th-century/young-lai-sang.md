@@ -7,10 +7,10 @@ orderid: 1952
 title: Young (7), Lai-Sang
 born: 1952
 died: 0
-keywords: Lai-Sang Young, ergodic properties, nonlinear dynamics, fluid flow, turbulence, mathematical physics, National Academy of Engineering
-description: Lai-Sang Young is an Hong Kong born American mathematican known for her work on ergodic properties and nonlinear dynamics related to fluid flow, turbulence and mathematical physics. She was elected to the National Academy of Engineering.
+keywords: lai-sang young,young
+description: Lai-Sang Young is a Hong Kong born American mathematican known for her work on ergodic properties of dynamical systems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lai-Sang Young** is a Hong Kong born American mathematican known for her work on ergodic properties of dynamical systems.
 
 ### Mathematical Profile (Excerpt):
-1. Created the Coherent Structures model of turbulent fluid flow, which has been widely used in engineering applications. 
-2. Developed a new mathematical model to study the global properties of storm formation from shallow-water flows.
-3. Developed the Lock-in mechanism in nonlinear dynamics to explain how a small signal can become prominent with the presence of nonlinear resonance. 
-4. Established the equation of motion for fluid systems using the Ricci flow equation. 
-5. Established a mathematical framework for the study of convective cells.
-6. Recognized for his contributions to fields such as complex behavior in nonlinear dynamics, deterministic chaos theory, and global predictability in atmospheric dynamics. 
-7. Published numerous papers on topics related to nonlinear dynamics and its application to turbulence, weather, chaos and mathematical physics. 
-8. Received a number of awards including the R. Stephen Berry Prize from the American Physical Society and the Fluid Dynamics Prize from the American Institute of Physics. 
-9. Elected to the National Academy of Engineering for her research in the area of mathematical physics.
+* Entering the University of Wisconsin, Madison, Young received her B.A. in 1973.
+* After the award of her doctorate Young taught at Northwestern University for a year beginning in 1978.
+* Young's first paper was published in 1977 and gives results which she proved at the beginning of her graduate studies.
+* In each of 1979, 1980 and 1981 one of Young's papers appeared, these being: A closing lemma on the interval; Non absolutely continuous foliations for an Anosov diffeomorphism; and On the prevalence of horseshoes.
+* Young attended this and was one of the two editors, the other being David Rand, of the Proceedings of the Symposium which was published in 1981.
+* Having mentioned all this work by Young on dynamical systems perhaps it is time to say briefly what a dynamical system is.
+* In 1993 Young was honoured with the award of the Ruth Lyttle Satter Prize.
+* The joint paper referred to here is one Young wrote with Michael Benedicks which they published in the Ergodic Theory of Dynamical Systems in 1992.
+* Young's response to the presentation of the Ruth Lyttle Satter Prize was to thank Joan Birman for creating the prize and the committee who selected her which was chaired by the previous winner Dusa McDuff.
+* Young has published several excellent surveys of her area and her own contributions to it.
+* In 1993, the same year that she received the Ruth Lyttle Satter Prize, Young lectured at the Real and complex dynamical systems meeting in Hillerod, Denmark.
+* Young had been an invited plenary speaker at further meetings over the last few years including: the International Congress of Mathematical Physics (1997); the American Mathematical Society Annual Meeting (1998); and the Society for Industrial and Applied Mathematics Annual Meeting (1999).
+* Finally we should mention two further prestigious awards which Young has received.
+* Young, who is currently Henry & Lucy Moses Professor of Science at New York University's Courant Institute of Mathematical Sciences, was elected as a Fellow of the American Academy of Arts and Sciences in 2004.
+* In 2007 the Association for Women in Mathematics and the Society for Industrial and Applied Mathematics selected Young to give the Sonia Kovalevsky Lecture at the 2007 SIAM Conference on Applications of Dynamical Systems held at the end of May in Snowbird, Utah.
+* with the choice of Lai-Sang Young to give the Kovalevsky lecture within two years of her Noether lecture, two independent selection committees have recognized the importance of Young's work.
+* the award is especially appropriate - Young is a very distinguished mathematician and her research extends the field in which Kovalevsky did her most significant work.
 
 Born 5 January 1952, Hong Kong, now China.
 

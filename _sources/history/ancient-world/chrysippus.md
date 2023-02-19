@@ -7,10 +7,10 @@ orderid: -280
 title: Chrysippus Of Soli
 born: -280
 died: -206
-keywords: Chrysippus, Stoicism, Logic, Syllogisms, Zeno's Paradoxes, Perfect Numbers, Irrational Numbers
-description: Greek philosopher Chrysippus cofounded Stoicism, developing a logical system and investigating perfect numbers, irrational numbers,Zenost's Paradoxes and double motion.
+keywords: chrysippus,chrysippus
+description: Chrysippus was a Greek philosopher who is considered the cofounder of Stoicism.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Chrysippus** was a Greek philosopher who is considered the cofounder of Stoicism.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a system of logic which would eventually be regarded as the foundation of the Stoic school of thought.
-2. Devised a system for enumerating valid syllogisms.
-3. Developed an early form of propositional logic, with implications and negation as a means of inference.
-4. Proposed a system for analyzing Zeno's paradoxes.
-5. Investigated the properties of perfect numbers and amicable numbers.
-6. Formulated an analysis of time which was used later by Medieval philosophers.
-7. Developed a system of geometry which included the first use of irrational numbers.
-8. Pioneered new concepts in physics and astronomy, introducing the idea of a spherical Earth.
-9. Established mathematical solutions to the problems of double motion.
+* By the time Chrysippus joined the Stoa Poikile Academy, Cleanthes of Assos had become the second head following the death of Zeno.
+* Chrysippus studied under Cleanthes, but he had also been influenced by the teachings of Plato.
+* In 232 BC Chrysippus became the third head of the Stoa Poikile following the death of Cleanthes.
+* There is evidence from the writings of Chrysippus that he was poor throughout his life.
+* Certainly he stated that for a philosopher to become wealthy he might serve a king (or even, said Chrysippus, become a king himself).
+* Otherwise, Chrysippus writes, the philosopher must rely on his friends and on teaching in order to live, and it would appear that this is the means by which he made his small income.
+* Another piece of information, which again is not surprising, is that Chrysippus wrote Greek with very poor style.
+* Together with Zeno of Citium, Chrysippus is considered the cofounder of Stoicism.
+* Chrysippus was one of the first to organise propositional logic as an intellectual discipline.
+* The logical term "disjunction" is certainly due to the Stoics and it is thought to have originated with Chrysippus.
+* One claim which Chrysippus made in the area of logic was to reject that the impossible does not follow from the possible.
+* In physics Chrysippus made distinctions between "whole" and "all" or "universe".
+* For Chrysippus a knowledge of physics is necessary before ethics can be formulated.
+* One of the contributions of Chrysippus to mathematics is his claim that 'one' is a number.
+* Chrysippus said 'one' was 'multitude one' and should be regarded as a number but this was not immediately accepted, Iamblichus writing that 'multitude one' was a contradiction in terms.
+* Plutarch in Common notions against the Stoics reports on a dilemma proposed by Democritus as reported by Chrysippus about a cone cut by a plane parallel to its base.
+* Chrysippus argues against the interpretation of the dilemma claiming that it is based on the assumption that mathematical lines have an atomic structure and are not therefore infinitely divisible.
+* There are a number of versions of how Chrysippus died, one of which says he drank some over proof wine while another says that he died of laughter.
 
 Born 280 BC, Soli, Cilicia, Asia Minor (now Soloi, Turkey). Died 206 BC, Athens, Greece.
 

@@ -7,10 +7,10 @@ orderid: 1824
 title: Codazzi, Delfino
 born: 1824
 died: 1873
-keywords: Delfino Codazzi, differential geometry, mapping, angles, distances, triangulation, sectionalization
-description: Delfino Codazzi, an Italian mathematician, developed new methods of mapping in 3D, calculating curvature & refraction of the earth, & sectionalizing areas based on over 1,500 measurements.
+keywords: delfino codazzi,codazzi
+description: Delfino Codazzi was an Italian mathematician who worked in differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Delfino Codazzi** was an Italian mathematician who worked in differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new method of mapping in three dimensions, requiring the measurement of angles and distances.
-2. Developed a mathematical formula to calculate the curvature of the earth's surface.
-3. Catalogued and charted the physical geography of a large part of Colombia and Venezuela.
-4. Calculated the angle of refraction for the computation of distance.
-5. Determined the exact height of each mountain peak in of the mountain ranges.
-6. Was the first to introduce the 'triangulation system' in Colombia.
-7. Created an original map as a result of over 1,500 measurements from the region.
-8. Established the method of sectionalizing the surface of the earth, now known as 'sectionalization of areas'.
-9. Published  an extensive catalog of the mountains and rivers of Colombia, the first of its kind.
+* His father was Domenico Codazzi.
+* After completiing his education, Delfino taught mathematics and natural science at the secondary school in Lodi, then he moved to Pavia where he taught mathematics at the secondary school there.
+* Although he was teaching in secondary schools, which one might have thought not the best place to undertake deep research, nevertheless this was an extremely important and productive period for Codazzi.
+* They were from the two Frenchmen Bour and Bonnet, and from the Italian Codazzi.
+* All three pieces of work are important contributions to differential geometry but, although the manuscripts of Bour and Bonnet were published  in Comptes-Rendus des séances de l'Académie des sciences fairly soon after the prize was awarded, Codazzi's entry was not published until 1883 (10 years after his death).
+* Codazzi's submission for the prize contained a result which gave necessary and sufficient conditions for one surface to be mapped to another.
+* These are now called the Mainardi-Codazzi formulas and we explain below the role played by Gaspare Mainardi in their discovery.
+* Bonnet used Codazzi's formulas to prove an existence theorem in the theory of surfaces.
+* Codazzi was not the first to discover these formulas since Mainardi, who taught at the University of Pavia, had published them in a paper of 1856.
+* Although the two contributions were equivalent, Codazzi gave a simpler formulation, and much wider applications than Mainardi.
+* Certainly Codazzi became well known for his contributions to differential geometry and this led to his appointment to a chair of algebra and analytic geometry at the University of Pavia in 1865.
+* Although, as we mentioned above, Codazzi's submission for the 1859 Grand Prix was not published until ten years after his death, nevertheless his famous formulas appear in this five part paper.
+* Codazzi also published on isometric lines, geodesic triangles and the stability of floating bodies.
 
 Born 7 March 1824, Lodi (now Italy). Died 21 July 1873, Pavia, Italy.
 

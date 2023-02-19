@@ -7,10 +7,10 @@ orderid: 1712
 title: König, Samuel
 born: 1712
 died: 1757
-keywords: group theory, algebraic topology, rings, fields, König Lebesgue/Eulerian numbers, continuous/polynomial functions, Principle of Least Action
-description: German mathematician Samuel König expanded the field of algebra with his research on group theory, algebraic topology, rings, fields & others.
+keywords: samuel könig,könig
+description: Samuel König was a German mathematician who is best remembered for his part in a dispute with Maupertuis over the Principle of Least Action.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Samuel König** was a German mathematician who is best remembered for his part in a dispute with Maupertuis over the Principle of Least Action.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of group theory in mathematics, which is used to analyze how mathematical structures are related to each other.
-2. Founded the field of algebraic topology, which is used to study the properties of geometric spaces, including circles, spheres and other shapes.
-3. Established algebraic structures, including rings, fields, and groups.
-4. Discovered the König Lebesgue theorem, which states that every bounded sequence of real numbers has a convergent subsequence. 
-5. Demonstrated that every bounded sequence of complex numbers has an accumulation point.
-6. Developed the concept of continuous functions, which are used to accurately describe changes in a system over time.
-7. Proved a theorem of the structure of continuous functions, which states that a continuous function can be decomposed into the sum of a polynomial and an infinitely-small error term.
-8. Discovered the Eulerian numbers, which are used to count the number of ways a graph can be decomposed into paths and cycles.
+* König's early education was at home where he studied with his father's instruction.
+* After studying at Bern, then in 1729 at Lausanne, König went to Basel in 1730 to study under Johann Bernoulli.
+* König studied under Hermann from 1731, in particular he learn of Leibniz's philosophy.
+* In 1735 König went to Marburg to continue his study of Leibniz's philosophy under Christian von Wolff's supervision.
+* In 1737 König returned to Bern, having begun to publish mathematical articles two years earlier.
+* Near the end of 1738 König went to Paris where he met Maupertuis.
+* Through Maupertuis, König was introduced to Voltaire and to the Marquise du Châtelet.
+* Together with Voltaire and du Châtelet, König visited René-Antoine Ferchault de Réaumur, the leading entomologist of the day who was conducting research in widely varied fields.
+* Through his discussions with Réaumur, König was led to publish a work on the structure of honeycombs.
+* This work was so highly thought of that König was elected to the Paris Academy of Sciences.
+* Soon after this König fell out with the Marquess du Châtelet and, although the reason is not certain, it has been suggested that they argued over payments for the lessons that König was giving to the Marquess.
+* Certainly König did not leave Paris after his disagreement but continued to live there for about 18 months.
+* König wrote a work on the shape of the Earth, which was published in 1747, based on what he had learnt from studying Clairaut's Théorie de la figure de la Terre Ⓣ(Theory of the shape of the Earth) and other works on this topic.
+* In 1744 König was exiled from Bern for 10 years because he signed a liberal petition.
+* König obtained a chair of philosophy and mathematics at Franeker in the Netherlands.
+* Maupertuis proposed König for the Berlin Academy and he was honoured by election to the Academy in 1749.
+* König had touched on a sore point with the Berlin Academy for a number of reasons.
+* Also for König, as a newly elected member of the Academy, to be seen to be attacking its President was not going to be well received.
+* König had studied the philosophy of Leibniz under Wolff so he was a strong follower of their philosophy.
+* A heated dispute followed the publication of König's article and he was asked to produce the letter.
+* However König failed to do so and, after an investigation, Euler gave a report on the affair accusing König of fraud.
+* König's article was to have other repercussions as Voltaire, d'Alembert and Euler all ended at the centre of the dispute.
+* An important kinetic law of energy, published in a work of 1751 (the same year as his controversal article appeared), is named after König and this law is a major contribution which he made to mathematics.
+* The opinion is occasonally voiced that were it not for the controversy over the principle of least action, König would be completely forgotten in the history of science.
 
 Born 31 July 1712, Büdingen, Germany. Died 21 August 1757, Zuilenstein (near Amerongen), Netherlands.
 

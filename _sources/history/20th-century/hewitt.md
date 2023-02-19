@@ -7,10 +7,10 @@ orderid: 1935
 title: Hewitt (2), Gloria
 born: 1935
 died: 0
-keywords: Gloria Hewitt, American, Algebra, Harvard, Awards, Models, Textbook
-description: Gloria Hewitt, American mathematician, graduated top of her class from Harvard and received awards for her research in Algebra. She developed mathematical models and algorithms, authored a textbook, and served as adviser to numerous students.
+keywords: gloria hewitt,hewitt
+description: Gloria Hewitt is an American mathematician who undertook research in algebra. She became the first African American woman to chair a university mathematics department in the United States.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gloria Hewitt** is an American mathematician who undertook research in algebra. She became the first African American woman to chair a university mathematics department in the United States.
 
 ### Mathematical Profile (Excerpt):
-1. Graduated top of her class in mathematics from Harvard University.
-2. Received numerous awards, such as the National Science Foundation's Graduate Research Fellowship, the American Mathematical Society's Ruth Lyttle Satter Prize, and the Association for Women in Mathematics' Alice T. Schafer Prize, for her work in mathematics.
-3. Developed and published numerous mathematical models and algorithms in academic journals.
-4. Delivered several lectures and invited talks at conferences and universities around the world.
-5. Adviser to numerous undergraduate and graduate students, being recognized for outstanding achievement in mentoring.
-6. Authored an acclaimed textbook on mathematical algorithms.
+* However, for simplicity we will refer to her as Gloria Hewitt throughout this biography.
+* Emmett and Crenella Conyers had four children, Emmett Jr (born 2 May 1927, died 13 November 2013), Joseph (born 1930), James E Conyers (born 6 March 1932) and Gloria (the subject of this biography).
+* In fact Gloria was taught at home for the first year of her schooling by her mother, who was of course a teacher, but from the second grade she attended Moore Elementary School.
+* This co-educational school for black pupils was a boarding school and Gloria's parents had to pay for her education there.
+* This must have put an enormous strain on the family finances but her parents were prepared to make sacrifices to let Gloria have a good quality education.
+* At this stage in her education Gloria told people that she wanted to be a nurse.
+* Hewitt was fortunate that the head of mathematics at Fisk was Lee Lorch.
+* Hewitt had performed poorly in the entrance examinations, she never understood why that was the case, and as a result she was put in a low level mathematics class.
+* Hewitt had never heard of calculus but she followed the advice of her head of department and enrolled for calculus in her second year.
+* Hewitt was able to return to her undergraduate studies at Fisk University and she graduated with a B.A. in mathematics in 1956.
+* Hewitt's undergraduate degree had been aimed at making her a high school mathematics teacher but once she had been awarded the degree she knew that this was not the right career for her.
+* Hewitt had always enjoyed sport and this helped her greatly at the University of Washington.
+* On the academic side she was strongly encouraged by Edwin Hewitt (1920-1999).
+* Edwin Hewitt had been awarded a Ph.D. from Harvard University in 1942 and had served on the faculty at the University of Washington from 1954.
+* Edwin Hewitt encouraged her to aim at a Ph.D. and Richard Scott Pierce (1927-1992) became her advisor.
+* With her weak mathematical background, Hewitt found it hard going and at times considered giving up.
+* When she was first offered the position, Hewitt turned it down.
+* However, some time later Livingston made a second offer to Hewitt and, after persuasion from Edwin Hewitt, she accepted and took up the position in 1961.
+* In 1963 Hewitt published The existence of free unions in classes of abstract algebras in the Proceedings of the American Mathematical Society.
+* In 1966 Hewitt was awarded a National Science Foundation postdoctoral fellowship which enabled her to spend a year at the University of Oregon.
+* At the second session of the Mathematical Association of America held in 1971 there was a discussion on "Women in Mathematics" to which Hewitt contributed.
+* Although Hewitt regretted not having enough time to undertake research projects at the University of Montana, nevertheless she wrote two reports, namely A one model approach to group theory (1978) and Emmy Noether's notions of finiteness conditions - revisited (1979) which both appeared as University of Montana Reports.
+* Hewitt retired from the University of Montana in May 1999 and was given the title of Professor Emeritus.
+* Professor Hewitt has served on numerous national committees and panels for various professional organizations and agencies including the Mathematical Association of America, the National Science Foundation, the National Security Agency and the National Academy of Sciences.
+* Professor Hewitt was recently recognized for her work with the 1999 UM Academic Administrator award.
 
 Born 26 October 1935, Sumter, South Carolina, USA.
 

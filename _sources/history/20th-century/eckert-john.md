@@ -7,10 +7,10 @@ orderid: 1919
 title: Eckert (2), J. Presper
 born: 1919
 died: 1995
-keywords: Eckert, ENIAC, Mauchly, BINAC, UNIVAC, National Medal of Science, IEEE
-description: J Presper EckertJr., the co-inventor of ENIAC and developer of BINAC, UNIVAC, helped lay the foundations of modern digital computing and was awarded the National Medal of Science and inducted into the National Inventors Hall of Fame.
+keywords: j presper eckert,eckert
+description: J Presper Eckert Jr. was an American computer pioneer. With John Mauchly he invented ENIAC: the first general-purpose electronic digital computer.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **J Presper Eckert Jr.** was an American computer pioneer. With John Mauchly he invented ENIAC: the first general-purpose electronic digital computer.
 
 ### Mathematical Profile (Excerpt):
-1. Eckert co-designed and developed the Electronic Numerical Integrator and Computer (ENIAC) in 1946, which laid the groundwork for modern digital computers.
-2. He co-invented the BINAC computer in 1949, which was the first commercial stored-program computer.
-3. Working with John Mauchly, he designed the UNIVAC I in 1951, which was the first full-scale commercial computer for business and government applications.
-4. He established Eckert-Mauchly Computer Corporation in 1947, to develop and market computers.
-5. He authored many publications on computing and mathematical topics, including The Design of Calculating Machines (1944) and The Design of Electronic Digital Computers (1949).
-6. He also helped create one of the first computer programming languages, the Short Code.
-7. He received the National Medal of Science in 1967 for his accomplishments in computing.
-8. He was a Fellow of the Institute of Electrical and Electronic Engineers (IEEE). 
-9. He was posthumously inducted into the National Inventors Hall of Fame in 2000.
+* Eckert, an outstanding electrical engineering student, was given a post as an instructor at the Moore School soon after his graduation.
+* Eckert taught a defence course at the Moore School and one of his students on the course was John Mauchly.
+* It might seem strange that Mauchly, who was twelve years older than Eckert, should be his student.
+* Eckert quickly became interested in Mauchly's ideas for the development of computers and for a while the two discussed these ideas frequently.
+* Soon, however, Eckert moved on to undertake other military work at the School.
+* After Mauchly's report on the construction of a computer was accepted, Eckert collaborated with him in the construction of the Electronic Integrator and Computer (ENIAC).
+* At this time, May 1943, Eckert had almost completed the work for his masters degree and he was appointed as chief engineer on the project with the specific task of designing the electronic circuits.
+* One of the major problems which had to be solved was how a machine with 18000 valves could function when the valves were relatively unreliable.
+* This was one of the many problems which Eckert had to solve and he eventually achieved a lifetime of 2500 hours for each individual valve which made the operation of the computer viable.
+* The ENIAC computer was intended to be a general purpose one, but it was also designed for a very specific task, namely compiling tables for the trajectories of bombs and shells.
+* Eckert designed electronic calculators which worked to base 10 for the ENIAC, reducing the number of components over a binary machine, but of course at the price of greater complexity.
+* Von Neumann was working on this project and became involved with the ENIAC computer and used it to solve systems of partial differential equations which were crucial in the work on atomic weapons at Los Almos.
+* Eckert left the Moore School at the University of Pennsylvania in October 1946, as did Mauchly.
+* One of the major advances of this machine, which was used from August 1950, was that data was stored on magnetic tape rather than on punched cards.
+* The Electronic Control Company become the Eckert-Mauchly Computer Corporation and it received an order from the National Bureau of Standards to build the Universal Automatic Computer (UNIVAC).
+* One of the major advances which the UNIVAC introduced was an ability to handle both numerical and alphabetical information with equal success.
+* Eckert and Mauchly were better at computer design than they were at the economics of running a company.
+* As a consequence the Eckert-Mauchly Computer Corporation soon hit financial difficulties.
+* In 1950 the Remington Rand Corporation acquired the Eckert-Mauchly Computer Corporation and changed its name to the Univac Division of Remington Rand.
+* Eckert remained with Remington Rand and became an executive of the corporation.
+* In 1989 Eckert retired from Unisys but continued to act as a consultant for the company.
+* Between 1948 and 1966 Eckert took out patents on 85 inventions, almost all electronic in nature.
+* Eckert received many awards for his pioneering work on computers.
+* Both Eckert and Mauchly received the IEEE Computer Society Pioneer Award in 1980.
+* Eckert died from complications relating to leukaemia.
 
 Born 9 April 1919, Philadelphia, Pennsylvania , USA. Died 3 June 1995, Bryn Mawr, Pennsylvania, USA.
 

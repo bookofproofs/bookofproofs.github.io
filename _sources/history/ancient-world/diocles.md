@@ -7,10 +7,10 @@ orderid: -240
 title: Diocles Of Carystus
 born: -240
 died: -180
-keywords: Diocles, Chord, Exhaustion, Optics, Heron's Formula, Concentric Circles, Cissoid Curve
-description: Diocles was a Greek mathematician who developed the Chord and proved the Focal property, studied the Cissoid Curve and established the Exhaustion Principle. He wrote treatises on Optics, Heron's Formula and Concentric Circles.
+keywords: diocles,diocles
+description: Diocles was a Greek mathematician who was the first to prove the focal property of a parabolic mirror and studied the cissoid curve as part of an attempt to duplicate the cube.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Diocles** was a Greek mathematician who was the first to prove the focal property of a parabolic mirror and studied the cissoid curve as part of an attempt to duplicate the cube.
 
 ### Mathematical Profile (Excerpt):
-1. Diocles developed the Chord, an innovative tool for calculating the square of any right triangle and the hypotenuse.
-2. He proposed a new formula which could be used to determine the areas of circles and spheres and their surface area.
-3. Diocles was the first person to develop the geometric principle of "exhaustion", which is a method for approximating the area of any irregular shape by breaking it down into simpler shapes.
-4. He also discovered a method for calculating the volumes of solids with curved sides.
-5. Diocles wrote a treatise on optics, and his work would later become an important source for Euclid's On the Sphere and Cylinder.
-6. He was the first to provide a proof for the Heron's Formula, which is used to calculate the area of an arbitrary triangle given its three sides.
-7. He also wrote a work on concentric circles, which showed how curves shapes in general could be generated, and how they were related to each other.
+* In this work we are told that Diocles studied the cissoid as part of an attempt to duplicate the cube.
+* The extracts quoted by Eutocius from Diocles' On burning mirrors showed that he was the first to prove the focal property of a parabolic mirror.
+* Although Diocles' text was largely ignored by later Greeks, it had considerable influence on the Arab mathematicians, in particular on al-Haytham.
+* Latin translations from about 1200 of the writings of al-Haytham brought the properties of parabolic mirrors discovered by Diocles to European mathematicians.
+* Recently, however, some more information about Diocles' life has come to us from the Arabic translation of Diocles' On burning mirrors whose discovery is described below.
+* From this work we learn that Zenodorus travelled to Arcadia and entered into discussions with Diocles, so that certainly Diocles was working in Arcadia at the time.
+* It is only recently that an Arabic translation of Diocles On burning mirrors has been found in the Shrine Library in Mashhad, Iran.
+* The first of these propositions proves what has long been known to have been first established by Diocles, namely the focal property of the parabola.
+* These constructions are again properties of the parabola that Diocles was the first to give.
+* The duplication of the cube problem, again referred to by Eutocius, is studied by Diocles in Proposition 10.
+* The next two propositions solve the problem of inserting two mean proportions between a pair of magnitudes using the cissoid curve which was invented by Diocles.
+* In On burning mirrors Diocles also studies the problem of finding a mirror such that the envelope of reflected rays is a given caustic curve or of finding a mirror such that the focus traces a given curve as the Sun moves across the sky.
 
 Born about 240 BC. Died about 180 BC.
 

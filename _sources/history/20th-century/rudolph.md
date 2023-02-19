@@ -7,10 +7,10 @@ orderid: 1949
 title: Rudolph, Daniel Jay
 born: 1949
 died: 2010
-keywords: Daniel Rudolph, algorithm, cryptography, computer security, optimization, integer programming, mathematical modeling
-description: American mathematician Daniel Rudolph developed efficient algorithms, formulated a security condition and created powerful best approximation algorithms for optimization, integer programming and mathematical modeling.
+keywords: daniel rudolph,rudolph
+description: Daniel Rudolph was an American mathematician who worked in ergodic theory and dynamical systems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Daniel Rudolph** was an American mathematician who worked in ergodic theory and dynamical systems.
 
 ### Mathematical Profile (Excerpt):
-1. Developed more efficient algorithms for integer factorization, an important problem in cryptography and computer security.
-2. Formulated the Rudolph Security Condition, a necessary condition for an algorithm to be secure against eavesdroppers in distributed networks.
-3. Established powerful best approximation algorithms for a variety of problems related to network optimization, integer programming and mathematical modeling.
-4. Developed a general purpose heuristic for solving discrete optimization problems, which has been implemented in a number of commercial software.
-5. Created a novel approach for solving the traveling salesman problem, leading to improved solutions in the existing optimization tools.
-6. Solved difficult differential equations that have been used in the construction of more accurate simulations of complex systems.
+* Of course, as part of his studies in theoretical physics, Rudolph studied mathematics courses and he soon decided that he wanted to be a mathematician rather than a theoretical physicist.
+* After graduating with a B.S., Rudolph went to Stanford University to undertake research.
+* Rudolph's 59-page thesis was entitled Non-Bernoulli Behavior of the Roots of K-Automorphisms and it earned him a Ph.D. in 1975.
+* After the award of his doctorate, Rudolph spent the year 1975-76 as a postdoctoral fellow at the Hebrew University of Jerusalem.
+* In the summer of 1976 Rudolph returned to the United States, taking up a fellowship at the Miller Institute of the University of California at Berkeley.
+* Several papers by Rudolph appeared while he was at the Hebrew University.
+* Rudolph spent three years at Stanford (1978-81) but during this time he stayed at the University of Maryland during the autumn of 1979 participating in the 'Special Year in Ergodic Theory and Dynamical Systems'.
+* Rudolph's older brother Gregory had studied at Fort Collins High School and Colorado State University, graduating with a degree in physical science in 1969.
+* He married Kristin Ellen Johnson on 17 March 1968; they had two children, Lisa Michelle Rudolph (born 1970) and Scott Bowen Rudolph (born 1972).
+* The plane, a twin-engine Beechcraft, piloted by Gregory Rudolph crashed while attempting to land at Cedar City Airport.
+* Dan Rudolph spent 23 years at the University of Maryland where he was appointed as a full professor in 1985.
+* Before 1991, Rudolph would work at the university all day and then spend his evenings with friends or participating in his modern dance.
+* In fact he would often perform with modern dance companies and a friend even choreographed a duet dedicated to Rudolph's parents entitled 'For Bill and Johnalou' in which he starred.
+* In 1991 Rudolph married Michelle Hyde; they had three children, Beatrice, Jonah and Layton.
+* Rudolph was devoted to his children and evenings became a precious time to be spent with the children - no longer with friends or dance.
+* Rudolph published two important books.
+* In fact Janet Whalen Kammeyer was Rudolph's first Ph.D. student, writing her thesis Classifying the two point extensions of Bernoulli Z actions at the University of Maryland and receiving the degree in 1988.
+* In 2005 Rudolph was appointed to the Albert C Yates Endowed Chair in Mathematics in the College of Natural Sciences of Colorado State University.
+* However, a second tragedy soon hit the Rudolph family.
 
 Born 3 October 1949, Sheridan, Wyoming, USA. Died 4 February 2010, Fort Collins, Colorado, USA.
 

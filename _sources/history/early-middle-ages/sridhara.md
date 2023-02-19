@@ -7,10 +7,10 @@ orderid: 870
 title: Sridhara
 born: 870
 died: 930
-keywords: Sridhara, Indian Mathematician, Quadratic Equations, Sriyantra, Ganita Kaumudi, Samanta, Negative Numbers, Radical Moments of Inertia
-description: Sridhara was an Indian mathematician who invented the Sriyantra and developed Ganita Kaumudi system, gave formula for quadratic equations, used negative numbers and developed the formula for radical moments of inertia.
+keywords: sridhara,sridhara
+description: Sridhara was an Indian mathematician who wrote on practical applications of algebra and was one of the first to give a formula for solving quadratic equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sridhara** was an Indian mathematician who wrote on practical applications of algebra and was one of the first to give a formula for solving quadratic equations.
 
 ### Mathematical Profile (Excerpt):
-1. Invented the Sriyantra, an elaborate geometrical diagram of geometric shapes and yantras which is a foundational component of Jyotish (Indian astrology).
-2. Pioneered the development of Ganita Kaumudi, aMathematicalis system which incorporates algebraic techniques. 
-3. Authored major treatises on mathematics such as Sadratnamalika and Karanamalika. 
-4. Developed advanced mathematical calculations, such as calculating the exponents of the sine, cosine, and binary function values. 
-5. Developed the concept of the Samanta, a numerical system that bridges astronomy, mathematics, Vedic and Pauranic scriptures. 
-6. Proposed the concept of the Bhavana-Chakra, a diagram combining astronomy, astrology, and mathematics.
-7. Demonstrated the use of negative numbers, which is one of the earliest uses of imaginary numbers in India.
-8. Developed the 'formula for radical moments of inertia', a concept used to calculate the rotational velocity of a rigid body.
-9. Established and popularized new rules for solving mathematical problems, such as the Pavan Trikonam and Pata Trikonam.
-10. Developed innovative methods for solving trigonometrical equations and inspired later mathematicians.
+* However, there has been much dispute over his date and in different works the dates of the life of Sridhara have been placed from the seventh century to the eleventh century.
+* We do know that Sridhara was a Hindu but little else is known.
+* Some historians give Bengal as the place of his birth while other historians believe that Sridhara was born in southern India.
+* Sridhara is known as the author of two mathematical treatises, namely the Trisatika (sometimes called the Patiganitasara ) and the Patiganita.
+* We give details below of Sridhara's rule for solving quadratic equations as given by Bhaskara II.
+* There is another mathematical treatise Ganitapancavimsi which some historians believe was written by Sridhara.
+* Through the whole book Sridhara gives methods to solve problems in terse rules in verse form which was the typical style of Indian texts at this time.
+* Indeed there is no suggestion that Sridhara realised that proofs are in any way necessary.
+* Often after stating a rule Sridhara gives one or more numerical examples, but he does not give solutions to these example nor does he even give answers in this work.
+* After giving the rules for computing with natural numbers, Sridhara gives rules for operating with rational fractions.
+* Sridhara was one of the first mathematicians to give a rule to solve a quadratic equation.
+* There is no suggestion that Sridhara took two values when he took the square root.
 
 Born about 870, possibly Bengal, India. Died about 930, India.
 

@@ -7,10 +7,10 @@ orderid: 1912
 title: Slater, Noel Bryan
 born: 1912
 died: 1973
-keywords: Noel Slater, Mathematics, Chemical Reactions, Birational Classification, Algebraic K-Theory, Generic Vanishing Theorem, Donald J. Lewis Prize, Sloan Fellowship
-description: Noel Slater, renowned mathematician, developed new theory of chemical reactions, birational surface classifications and Algebraic K-Theory, earning Donald J. Lewis Prize & Sloan Fellowship.
+keywords: noel slater,slater
+description: Noel Slater was an English mathematician who worked on the theory of chemical reactions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Slater.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Slater.jpg?raw=true)
 
-**Noel Slater** was an English mathematician who worked on the theory of chemical reactions. 
+**Noel Slater** was an English mathematician who worked on the theory of chemical reactions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new approach to the birational classification of algebraic surfaces.
-2. Published numerous papers in top-tier mathematics journals such as Inventiones Mathematicae and Annals of Mathematics.
-3. Developed fundamental theorems connecting algebraic K-theory and geometry, including the Generic Vanishing Theorem. 
-4. Was awarded the Donald J. Lewis Prize by the American Mathematical Society in 2008.
-5. Proved a major theorem on the relationship between two algebraic invariants, the canonical divisor and the Albanese kernel.
-6. Earned a Sloan Fellowship in 1997, which enabled him to pursue further research on the birational classification of three-folds.
-7. Authored two mathematics textbooks related to algebraic geometry.
-8. Delivered several keynote lectures at international conferences, including the XIII International Congress of Mathematicians in 2002.
+* The unsuspecting reader would be forgiven for believing that Albert Slater was either a doctor of medicine or had a Ph.D. In fact neither was the case, for he was given the first name of Doctor by his parents since he was the seventh son of a seventh son (and so by a Lancashire ancient superstition was believed to have magical powers).
+* Not surprisingly, Albert Slater was somewhat embarrassed by this and used the name D Albert Slater.
+* His son Noel inherited his father's musical talent and became an extraordinarily talented pianist.
+* Slater was brought up in Blackburn where, after attending elementary school, he attended Blackburn Grammar School.
+* In fact although he did not obtain his doctorate until 1941, Slater had been appointed as an Observer at the Solar Physics Observatory in Cambridge in 1939.
+* After the War ended in 1945, Slater took up his career again when he was appointed as a Lecturer in Applied Mathematics at the University of Leeds.
+* Slater continued to develop the work he undertook for his doctorate which led him to study a mathematical model for chemical reactions for many years.
+* Slater summarised his finding in this area in the monograph Theory of unimolecular reactions which was published in 1959.
+* This is obviously closely linked to Slater's problem, but in fact it arose in an astronomical context, namely the "mean motion problem" of celestial mechanics.
+* To his surprise and pleasure he received a letter from Slater telling him that his formula, which Kac thought was "entirely useless", had opened the door to a new attack on an important chemical problem.
+* Also in 1973, in another joint work with T C T Kotiah, Slater published On two-server Poisson queues with two types of customers.
+* Other mathematical papers by Slater include Some formulae of P Stein and others concerning trigonometrical sums (1954) and General forms of Nielsen's Bessel-function identity (1962).
+* It remains for us to comment on one remaining, but important, aspect of Slater's contributions.
+* What is important in the long term about Slater's own achievement is that it provides us with an authentic snapshot of the competing concepts simultaneously present and wrestling for expression in the mind of a great creative genius.
 
 Born 29 July 1912, Blackburn, Lancashire, England. Died 31 January 1973, Hull, England.
 

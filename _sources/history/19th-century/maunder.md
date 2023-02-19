@@ -7,10 +7,10 @@ orderid: 1868
 title: Maunder, Annie Scott Dill
 born: 1868
 died: 1947
-keywords: Annie Scott Dill Maunder, Fellow, Royal Astronomical Society, Mathematics, Sunspots, Solar Cycle, Butterfly Diagram
-description: Annie Scott Dill Maunderwas a pioneering Northern Irish astronomer and mathematician best known for her research on sunspots, solar cycles and the butterfly diagram.
+keywords: annie scott dill maunder,maunder
+description: Annie Scott Dill Maunder was a Northern Irish astronomer and mathematician who studied the mathematical tripos at Cambridge then worked at the Royal Observatory Greenwich. She was the first to find evidence of the movement of sunspot emergence from the poles toward the equator over the sun's 11-year cycle.
 references: bookofproofs$6909
-contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,32 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Annie Scott Dill Maunder** was a Northern Irish astronomer and mathematician who studied the mathematical tripos at Cambridge then worked at the Royal Observatory Greenwich. She was the first to find evidence of the movement of sunspot emergence from the poles toward the equator over the sun's 11-year cycle.
 
 ### Mathematical Profile (Excerpt):
-1. Became the first woman to be elected a Fellow of the Royal Astronomical Society in 1916.
-2. Published over 90 papers and books related to mathematics during her career.
-3. Co-discovered the differential rotation of sun spots.
-4. Improved the accuracy of measuring the solar wind by developing the modern butterfly diagram.
-5. Developed models to predict the length of a solar cycle.
-6. Helped examine the correlation between the position of sun spots and the magnetic fields on Earth.
-7. Designed a technique to accurately measure sunspot positions known as the Maunder Minimum.
-8. Used photography as a means to study the solar system, resulting in the discovery of many sun spots.
-9. Developed models to describe the solar cycle and its influences on Earth.
-10. Demonstrated a correlation between sunspots and the next sunspot cycle.
+* Hessy Nesbitt Dill was the daughter of the Reverend John Dill and his wife Elizabeth.
+* Annie was a member of a large family since William Russell had two sons with his first wife Mary Dill Campbell (they married in 1850), and two sons and two daughters with his second wife Hessy whom he married in 1860.
+* Annie's brother J Dill Russell also became an astronomer.
+* Annie Russell was home educated before she received her secondary education from the Ladies Collegiate School in Belfast, which later became known as Victoria College.
+* Due to restrictions of the period, however, Annie was not allowed to receive the B.A. degree that she would have otherwise earned.
+* Annie Russell was appointed as a mathematics teacher at the Ladies' College, Jersey, but did not find that job satisfying.
+* By taking this job, Annie took a large pay drop, as she had previously briefly been working as a school teacher on a salary of £80 per annum and, in addition, accommodation was included.
+* The British Astronomical Association had been founded in October 1890 by Walter Maunder, with support of others, to provide a society more aimed at amateur astronomers.
+* It was while here in Greenwich that she met and worked with Walter Maunder, head of the Photographic and Spectroscopic Department in the Greenwich Observatory, the man she would go on to marry in 1895.
+* Walter was a widower with 5 children before he met Annie.
+* As a result of their marriage and the civil service laws, Annie had to step down from her job at the Observatory; married women could not work in public service.
+* The expedition to Finland was organised by the British Astronomical Association and on it Annie Maunder operated the four-inch coronograph with her brother J Dill Russell.
+* It was while in India in 1898, again on an expedition organised by the British Astronomical Association, that Annie shot the longest coronal streamer on photographic record.
+* On the British Astronomical Association expedition to Algiers, as well as Annie and Walter Maunder, was Walter's two eldest daughters.
+* Despite Annie's forced dismissal from public service, it must be made clear that she did not simply operate as her husband's assistant: she was a trained mathematician and put a lot of work into analysis; on their expedition to Labrador in August 1905, Annie was funded by the Canadian government as she was considered an expert in the field of eclipse photography.
+* Annie and Walter Maunder's book, The Heavens and their Story, was published in 1908, crediting them both as co-authors.
+* It was usual at this time for a woman to either use a male pseudonym, or to include a man as co-author, but in the preface, Walter acknowledged that Annie had done almost all of the work for the book.
+* Moreover, she spent 35 years as Editor of the British Astronomical Association's journal (Walter Maunder had been one of the founders of the Association in 1890) from 1894.
+* Although not able to work there in an official capacity, Annie returned to the Greenwich Observatory voluntarily during the years 1915-1920, to fill spaces left vacant by those fighting in World War I.
+* Being 17 years Annie's senior, Walter died in 1928 almost 20 years before she did, leaving her to continue her astronomical work alone.
+* Annie herself passed away on 15 September 1947 following a short illness.
+* The name Maunder is still remembered in scientific circles today, though many forget that it represents not just Walter, but Annie too.
+* The lunar crater Maunder is named for the pair, as is the Maunder minimum, the name used for the period of time around 1645 to 1715 during which sunspots became exceedingly rare.
+* In 2016, the Annie Maunder Medal was created, a prize given in recognition of public engagement in science.
+* 2018 saw a blue plaque unveiled in County Tyrone, where she was born, and in June of that year, the Royal Observatory Greenwich announced its instalment of a new telescope, the Annie Maunder Astrographic Telescope (AMAT).
+* Annie Maunder's basic mathematical training, thoughtful publications, editing of journals and membership of professional organisations make it clear that she was a full participant in the astronomical community.
 
 Born 14 April 1868, Strabane, County Tyrone, Ireland. Died 15 September 1947, Wandsworth, London, England.
 

@@ -7,10 +7,10 @@ orderid: 1910
 title: Collatz, Lothar
 born: 1910
 died: 1990
-keywords: Lothar Collatz, 3x+1 problem, Gauss–Newton iteration, graph theory, numerical methods, non-linear equations, number theory
-description: Lothar Collatzwas an influential German mathematician who worked on the 3x+1 problem, graph theory, numerical methods, non-linear equations, number theory, and more.
+keywords: lothar collatz,collatz
+description: Lothar Collatz was a German mathematician who worked in numerical analysis and is best known for the eponymous "3x + 1 problem".
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lothar Collatz**  was a German mathematician who worked in numerical analysis and is best known for the eponymous "3_x_ + 1 problem".
 
 ### Mathematical Profile (Excerpt):
-1. Proved the existence of finite 13x+1 sequence in 1937.
-2. Initiated the research on the 3x+1 problem in 1937.
-3. Developed the Gauss–Newton iteration method to solve non-linear equations.
-4. Contributed to the foundations of modern graph theory.
-5. Developed Collatz conjecture, one of the most famous unsolved mathematical problems.
-6. Pioneered the numerical methods for solving systems of non-linear equations.
-7. Influential figure in number theory, mathematical analysis, and probability theory.
+* Collatz was awarded his doctorate in 1935 for his dissertation Das Differenzenverfahren mit höherer Approximation für lineare Differentialgleichunge Ⓣ(Difference methods with higher approximation for linear differential equations).
+* Many will know the name of Collatz today because of the "Collatz problem".
+* The Collatz problem is simple to state.
+* In 1943 Collatz was appointed to a professorship at the Technical University of Hanover.
+* MathSciNet lists 238 items under Collatz' name.
+* Collatz began publishing important books early in his career.
+* Later texts by Collatz include Optimization problems (1975) and Differential equations (1986), the second of these being an English translation of an earlier German book.
+* Collatz received many honours for his contributions including election to the German Academy of Scientists Leopoldina, the academy at Bologna and that at Modena.
 
 Born 6 July 1910, Arnsberg, Westphalia, Germany. Died 26 September 1990, Varna, Bulgaria.
 

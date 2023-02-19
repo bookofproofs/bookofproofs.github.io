@@ -7,10 +7,10 @@ orderid: 1646
 title: Flamsteed, John
 born: 1646
 died: 1719
-keywords: Astronomy, John Flamsteed, Catalog, Greenwich, Longitude, Eclipses, Historia Coelestis Brittanica
-description: John Flamsteed, a famous English astronomer, accurately catalogued stars, moons, planets & proposed longitude calculation, helping derive eclipses, measure interplanetary distances & finally publishing his observations in 1712.
+keywords: john flamsteed,flamsteed
+description: John Flamsteed was an English astronomer who published accurate astronomical observations and was the first Astronomer Royal.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Flamsteed** was an English astronomer who published accurate astronomical observations and was the first Astronomer Royal.
 
 ### Mathematical Profile (Excerpt):
-1. Compiled a catalog of more than 3,000 stars and established modern stellar coordinates, including right ascension and declination.
-2. Compiled a detailed catalog of the positions of the Moon, Sun and planets with unprecedented accuracy for the period 1683 to 1705.
-3. Designed and constructed an observatory from 1675 to 1676 at Greenwich, England, equipped with a mural quadrant.
-4. Proposed an improved method for calculating longitude at sea by measuring the time difference between two fixed points.
-5. Derived new tables for the motion of the Moon which enabled the calculation of eclipses and transits of the Sun and planets.
-6. Precisely measured the distance of Mars from the Earth in 1678, making it the first precisely measured interplanetary distance.
-7. Published astronomical observations in the first edition of Historia Coelestis Brittanica in 1712.
+* Flamsteed's mother however died when he was still a child and this affected his upbringing.
+* Flamsteed attended Derby free school which prepared children for a university education.
+* However life did not go smoothly for Flamsteed who, at the age of 14, developed severe health problems.
+* Flamsteed was extremely disappointed but he did not let it prevent him from studying.
+* Between 1662 and 1669 Flamsteed studied astronomy on his own without the help of teachers.
+* In fact he does not seem to have missed the formal teaching but his father continued to oppose his studies and this made far more difficulties for Flamsteed than the fact that he could not attend lectures.
+* Flamsteed's father always maintained that it was because of his son's ill health that he opposed his studying but Flamsteed, in his correspondence in later life, suggested that his father may have had other motives.
+* Since Flamsteed's mother had died when he was young, Flamsteed was useful to his father as someone to look after the home.
+* Whether or not this was his father's motive, certainly Flamsteed felt bitterness towards his father.
+* Flamsteed began systematic observations in 1671.
+* He also began corresponding with Henry Oldenburg and John Collins.
+* These two arranged for Flamsteed to meet Jonas Moore during a visit Flamsteed made to the Royal Society in London in 1670.
+* On 4 March 1675 the King appointed Flamsteed his astronomical observer by Royal Warrant.
+* Ordained in 1675, Flamsteed received the income of the living of Burstow, Surrey from 1684.
+* Flamsteed was a skilled observer and had a number of observing programmes at the Royal Observatory to answer major questions.
+* Among his other achievements was the fact that Flamsteed invented the conical projection, an important projection of the sphere onto a plane which is used in cartography.
+* Flamsteed never quite seemed to understand what Newton required and the two were not on the best of terms, in fact Flamsteed was a perfectionist and was not an easy man to get on with.
+* The last thirty years of Flamsteed's extensive correspondence is infused with vituperative remarks about the man who should have been his most natural ally.
+* It is hard to say exactly why Flamsteed was so bitter towards Halley but their personalities certainly clashed while there must have been a certain professional jealousy between them.
+* In 1704 Prince George of Denmark undertook the cost of publication, and, despite the prince's death in 1708 and Flamsteed's objections, the incomplete observations were edited by Halley, and 400 copies were printed in 1712.
+* Flamsteed later managed to burn 300 of them.
+* Flamsteed did publish his star catalogue Historia Coelestis Britannica in 1725 containing data on 3000 stars.
 
 Born 19 August 1646, Denby (near Derby), Derbyshire, England. Died 31 December 1719, Greenwich, London, England.
 

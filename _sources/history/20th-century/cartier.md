@@ -7,10 +7,10 @@ orderid: 1932
 title: Cartier, Pierre Emile Jean
 born: 1932
 died: 0
-keywords: Pierre Cartier, algebraic geometry, representation theory, mathematical physics, category theory, Bourbaki, axiomatic set theory
-description: Pierre Cartier, a French mathematician and Member of Bourbaki, worked on algebraic geometry, representation theory, mathematical physics and category theory, making major contributions in axiomatic set theory.
+keywords: pierre cartier,cartier
+description: Pierre Cartier is a French mathematician who has worked in algebraic geometry, representation theory, mathematical physics and category theory. He was a member of Bourbaki.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pierre Cartier** is a French mathematician who has worked in algebraic geometry, representation theory, mathematical physics and category theory. He was a member of Bourbaki.
 
 ### Mathematical Profile (Excerpt):
-1. Proved theorems regarding cardinal numbers, which helped develop the field of axiomatic set theory.
-2. Established the Cartesian identity of sets, a fundamental result in set theory. 
-3. Solved a problem formulated by Levi-Civita in his paper on the existence of limits of functions of several variables. 
-4. Explored and extended the theory of the calculus of variations.
-5. Developed the theory of matrices and linear algebra, in particular his 1904 paper entitled, “Le Problème Général de la Résolution des Systèmes d'Équations Linéaires”
-6. Co-authored the book “Analyse Infinitesimale” with French mathematician Jacques Hadamard in 1906.
-7. Researched and solved a controversial problem on the existence of limit of an inverse function, which was later named the Cartier–Jacobi–Vessiot theorem. 
-8. Conducted extensive work in Hilbert's 24th problem, the theorems of which are now known as the Cartier–Fubini theorem.
-9. Developed and refined the mathematical theories of linear, differential, and other types of equations. 
-10. Established the theory of algebraic functions in terms of the theory of linear differential equations.
+* Pierre was born in Sedan, a small city in northeastern France near the Belgium border.
+* When Pierre was eight years old the town was destroyed during the German invasion of France in World War II.
+* One of his parents' friends, delighted at Pierre's achievement, offered to buy him books as a reward.
+* Pierre spent a couple of hours in a bookshop making his choice.
+* Cartier entered the École Normale Supérieure in 1950 where Henri Cartan was his professor of mathematics and he also attended courses by Laurent Schwartz.
+* After completing his Agrégé de mathematique in 1951 Cartier married Monique Pissevin on 3 November; they had one daughter Marion.
+* Godement was in Nancy and Cartier soon decided that he was more interested in the mathematics that Henri Cartan and André Weil were doing so he changed the topic of his research.
+* Weil was by this time on the faculty of the University of Chicago in the United States but he returned to Paris every summer when Cartier could discuss his progress.
+* Cartier began publishing papers and nine had appeared in print while he was still undertaking research for his doctorate: Dualité de Tannaka des groupes et des algèbres de Lie Ⓣ(Duality Tannaka groups and Lie algebra) (1956); Démonstration algébrique de la formule de Hausdorff Ⓣ(Demonstration of algebraic formula Hausdorff) (1956); Théorie différentielle des groupes algébriques Ⓣ(Differential theory of algebraic groups) (1957); Une nouvelle opération sur les formes différentielles Ⓣ(A new operation on the differential forms) (1957); Calcul différentiel sur les variétés algébriques en caractéristique non nulle Ⓣ(Calculus on algebraic varieties in nonzero characteristic) (1957); Dualité des variétés abéliennes Ⓣ(Duality of Abelian varieties) (1957); (with J Dixmier) Vecteurs analytiques dans les représentations de groupes de Lie Ⓣ(Analytical vectors in Lie group representations) (1958); Remarques sur le théorème de Birkhoff-Witt Ⓣ(Notes on the Birkhoff-Witt theorem) (1958); and Questions de rationalité des diviseurs en géométrie algébrique Ⓣ(Questions of rationality for divisors in algebraic geometry) (1958).
+* We have already mentioned that Cartier had been invited to a Bourbaki congress while he was still an undergraduate.
+* Cartier spent two years from 1957 to 1959 at the Institute for Advanced Study at Princeton in the United States.
+* Cartier had written papers on a broad range of mathematical topic including algebraic geometry, number theory, group theory, probability, and mathematical physics.
+* Another interest which Cartier kept throughout his career was in the philosophy of mathematics.
+* To illustrate the range of topics which interests Cartier we record the fact that he is an editor of a book about art and mathematics Les Mathematiques et l'Art Ⓣ(Mathematics and Art).
+* Cartier has been very active helping to support mathematics in developing countries.
 
 Born 10 June 1932, Sedan, Ardennes, France.
 

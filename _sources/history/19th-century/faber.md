@@ -7,10 +7,10 @@ orderid: 1877
 title: Faber, Georg
 born: 1877
 died: 1966
-keywords: Faber series, fluid wave velocity, rational fraction,' angular speed, rotating frame, Faber's theorem, Jensen's theorem, half-arcsin, straight line, Dirichlet problem
-description: Georg Faber, a German mathematician, developed a series of generalizations of the first-order differential equation, formulated equations for computing fluid wave velocity and angular speed of a pendulum, and discovered Faber's and Jensen's theorems.
+keywords: georg faber,faber
+description: Georg Faber was a German mathematician whose most important work was on the polynomial expansion of functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georg Faber** was a German mathematician whose most important work was on the polynomial expansion of functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a series of generalizations of the first-order differential equation known as Faber series.
-2. Formulated an equation for computing the speed of a wave in a rotating fluid.
-3. Proved the strict periodicity of any function of a time difference expressed as a rational fraction.
-4. Developed an equation for the angular speed of a pendulum with a given initial position.
-5. Developed a solution to the coupled differential equation that describes the motion of the Earth in a rotating frame.
-6. Discovered the important theorem in mathematical analysis known as Faber's theorem.
-7. Discovered and proved a special case of Jensen's theorem, which states that two functions may be represented by their Taylor series.
-8. Formulated a theorem introducing a half-arcsin transformation for order-preserving functions.
-9. Developed a solution for the equation of motion of a particle along a straight line.
-10. Constructed a solution to the Dirichlet problem, which is an integral equation describing a system of anelastic bodies with different mass.
+* Faber's most important work was on the polynomial expansion of functions.
+* These polynomials are now known as 'Faber polynomials' and first appear in Faber's 1903 paper Über polynomische Entwickelungen Ⓣ(On polynomial developments)  published in Mathematische Annalen.
+* In fact Faber was building on the idea of Archimedes who computed approximately using a hierarchy of polygonal approximations of a circle.
+* Only in the 1980s was Faber's idea seen to be an important ingredient for the efficient solution of partial differential equations.
+* Most of Faber's publications are in function theory.
+* One further achievement of Faber is worthy of mention.
+* Two mathematicians independently verified Rayleigh's conjecture, Faber and Edgar Krahn.
+* Faber was also interested in mathematical education and he worked with his colleague von Dyck at Munich on the mathematical education of engineers, physicists and mathematicians.
+* In addition to his research areas, Faber lectured on complex analysis, probability theory, the theory of relativity and analytical mechanics.
+* Faber had many interests outside mathematics.
 
 Born 5 April 1877, Kaiserslautern, Germany. Died 7 March 1966, Munich, Germany.
 

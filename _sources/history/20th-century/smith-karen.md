@@ -7,10 +7,10 @@ orderid: 1965
 title: Smith (4), Karen
 born: 1965
 died: 0
-keywords: commutative algebra, algebraic geometry, Stanford University, Keeler Professor, Satter Prize, tight closure methods, international conferences
-description: Karen Smith, American mathematician and Keeler Professor of Mathematics at the University of Michigan, is recognized for her achievements in commutative algebra and algebraic geometry, including the Satter Prize for tight closure methods.
+keywords: karen smith,smith
+description: Karen Smith is an American mathematician who works on commutative algebra and algebraic geometry. She is the Keeler Professor of Mathematics at the University of Michigan. She won the Ruth Lyttle Satter Prize in Mathematics for her development of tight closure methods in commutative algebra and especially for her application of these methods in algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karen Smith** is an American mathematician who works on commutative algebra and algebraic geometry. She is the Keeler Professor of Mathematics at the University of Michigan. She won the Ruth Lyttle Satter Prize in Mathematics for her development of tight closure methods in commutative algebra and especially for her application of these methods in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Earned a Bachelor of Science degree in mathematics from Stanford University.
-2. Graduated with honors in mathematics from Stanford University. 
-3. Published numerous research papers in the field of mathematics. 
-4. Awarded prestigious grants to continue her research in mathematics. 
-5. Received numerous awards and accolades for outstanding achievements in mathematics. 
-6. Served as an independent consultant on mathematical issues for various organizations. 
-7. Invited to give lectures on advanced mathematics topics at international conferences. 
-8. Represented the university at numerous academic expositions. 
-9. Established a successful mathematics tutoring program at Stanford University. 
-10. Supervised undergraduate research projects in mathematics.
+* It was Fefferman who first suggested to Smith that she might make mathematics her career.
+* At Ann Arbor Smith undertook research advised by Mel Hochster.
+* Smith was awarded a Ph.D. by the University of Michigan in 1993 after submitting her thesis Tight Closure of Parameter Ideals and F-Rationality.
+* Her husband, Juha Heinonen, was promoted to Associate Professor at Michigan in 1994 and in that year Smith, accompanied by her husband, went to Boston so that she could fill the Moore Instructorship; they remained there for three years.
+* Smith had been promoted to Associate Professor at MIT before both she and her husband both returned to the University of Michigan in 1997.
+* In her Research Statement, Smith gives details of her research in technical terms.
+* In January 1996 Smith delivered a twenty-hour lecture series at the University of Jyväskylä, the university where her husband had studied before going to the United States.
+* In collaboration with Lauri Kahanpää, Pekka Kekäläinen, and William Traves, Smith wrote up the lectures and published them as the book An invitation to algebraic geometry (2000).
+* Karen Smith, a highly accomplished young commutative algebraist, was led by the momentum of her work and its results to apply her techniques to problems in algebraic geometry.
+* The book was reprinted in 2004, the same year as a second book by Smith was published.
+* Let us note that Smith is (or has been) an editor for a number of journals including: the American Journal of Mathematics; Advances in Mathematics; the Journal of the American Mathematical Society; the American Mathematical Monthly; Annales de Toulouse; and the Transactions of the American Mathematical Society.
+* Smith's husband Juha Heinonen died in 2007.
 
 Born 9 May 1965, Red Bank, New Jersey, USA.
 

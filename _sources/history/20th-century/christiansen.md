@@ -7,10 +7,10 @@ orderid: 1921
 title: Christiansen, Bent
 born: 1921
 died: 1996
-keywords: mathematics, educator, group theory, numerical analysis, linear algebra, abstract algebra, elliptic curves
-description: Bent Christiansen, renowned mathematician and educator, developed techniques in group theory, numerical analysis, linear algebra, abstract algebra, elliptic curves, and more, revolutionizing mathematics.
+keywords: bent christiansen,christiansen
+description: Bent Christiansen was a Danish mathematician important in the development of mathematical education in Denmark.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Bent Christiansen** was a Danish mathematician important in the development of mathematical education in Denmark.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new approach to understanding group theory.
-2. Discovered a new method to classify numerical analysis techniques.
-3. Revolutionised linear algebra with the invention of a new form of matrix multiplication.
-4. Created the idea of abstract algebra and formulated the notion of structured rings.
-5. Developed an algorithm to identify the classification of algebraic varieties.
-6. Was the first to use elliptic curves in algebraic geometry.
-7. Clarified the relationship between Diophantine equations and algebraic geometry.
-8. Developed an algorithm for solving polynomial equations.
-9. Established the Birch and Swinnerton-Dyer Conjecture.
-10. Pioneered the use of functional analysis in number theory.
+* However Christiansen was able to study mathematics, astronomy, physics, and chemistry at the University despite the difficult situation.
+* Another mathematician in this archive, namely Asger Aaboe who one year behind Christiansen, was studying exactly the same topics at the University of Copenhagen.
+* Christiansen received his Candidate's degree in mathematics in 1944.
+* Although it had been founded as an educational establishment in 1861, it only achieved university status in 1951, a few years before Christiansen taught there.
+* The appointment was arranged through UNESCO (United Nations Educational, Scientific and Cultural Organization), an organisation that played an important part in Christiansen's life with its major role to support educational and science programmes.
+* Christiansen retired from his professorship at the Royal Danish School of Educational Studies in 1991.
+* Bent Christiansen died on the 3rd   September 1996.
 
 Born 7 May 1921, Aalborg, Denmark. Died 3 September 1996, Copenhagen, Denmark.
 

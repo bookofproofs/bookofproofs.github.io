@@ -7,10 +7,10 @@ orderid: 1810
 title: Kummer, Ernst Eduard
 born: 1810
 died: 1893
-keywords: Integral domains, Ideal Numbers, Kummer Rings, Abelian extensions, Discriminant, Congruence, Criterion
-description: Kummer was a pioneer in the field of algebra, developing integral domains and ideal numbers which led him to establish the Kummer Rings and investigate the properties of number fields, developing congruence, criteria, and Abelian extensions to enable the proof of Fermat's Last Theorem.
+keywords: eduard kummer,kummer
+description: Eduard Kummer's main achievement was the extension of results about the integers to other integral domains by introducing the concept of an ideal.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,44 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eduard Kummer**'s main achievement was the extension of results about the integers to other integral domains by introducing the concept of an ideal.
 
 ### Mathematical Profile (Excerpt):
-1. Kummer developed and applied the concept of ideal numbers, developing a connection between number theory and abstract algebra. 
-2. He discovered Fermat's Last Theorem for the special case n = 14, whereupon Andrew Wiles used it to prove the general case.  
-3. Kummer was a pioneer of ideal theory, which studies the algebraic properties of a certain generalization of the integers. 
-4. He introduced Kummer rings, which generalize Fermat's ideals.
-5. He investigated which number fields possess certain arithmetic properties and introduced the concept of a discriminant to measure them.
-6. He introduced what is now called Kummer's conjecture, that properties of abelian extensions of the rationals could be used to derive periodic laws in algebraic number theory.
-7. He demonstrated how to rigorously prove irrationality of certain numbers.
-8. He developed Kummer's congruence and Kummer's criterion to prove Fermat's Last Theorem for a variety of exponents.
+* However he died when Eduard was only three years old and Eduard and his elder brother were brought up by their mother.
+* Eduard received private coaching before entering the Gymnasium in Sorau when he was nine years old.
+* In 1828 Kummer entered the University of Halle with the intention of studying Protestant theology.
+* Fortunately for the good of mathematics, Kummer received mathematics teaching as part of his degree, designed to provide a proper foundation to the study of philosophy.
+* Kummer's mathematics lecturer H F Scherk inspired his interest in mathematics and Kummer soon was studying mathematics as his main subject, although at this stage he still saw it as leading to a later study of philosophy.
+* In 1831 Kummer was awarded a prize for a mathematical essay he wrote on a topic set by Scherk.
+* During session 1831-32 Kummer taught a probationary year at the Gymnasium in Sorau where he had been educated.
+* Kummer held this teaching post in Liegnitz for 10 years.
+* Some of his pupils had great ability, and conversely they were extremely fortunate to find a school teacher of Kummer's quality and ability to inspire.
+* His two most famous pupils were Kronecker and Joachimsthal and, under Kummer's guidance, they were undertaking mathematical research while at school.
+* Kummer himself was undertaking mathematics research while teaching at Liegnitz.
+* This led to Jacobi, and later Dirichlet, corresponding with Kummer on mathematical topics and they soon realised the great potential for the highest level of mathematics that Kummer possessed.
+* In 1839, although still a school teacher, Kummer was elected to the Berlin Academy on Dirichlet's recommendation.
+* Jacobi now realised that he had to find Kummer a university professorship.
+* In 1840 Kummer married a cousin of Dirichlet's wife.
+* However these where years of great achievement for Kummer.
+* After the death of his wife in 1848, Kummer remarried fairly soon.
+* Nobody could fail to have strong political views at this time and indeed Kummer had strong right wing political views.
+* He recommended to Berlin that they offer the vacant chair to Kummer, which indeed they did.
+* Then Kummer played a clever political trick.
+* All went according to plan for Kummer and, in 1856, Weierstrass was appointed to Berlin.
+* In 1861 Kummer and Weierstrass established Germany's first pure mathematics seminar in Berlin.
+* While Weierstrass and Kronecker offered the most recent results of their research in their lectures, Kummer in his restricted himself, after instituting the seminar, to laying firm foundations.
+* Surprisingly, given Kummer's outstanding qualities as a teacher of mathematics, he never wrote any textbooks.
+* Having first been elected to the Berlin Academy while still a school teacher, Kummer ended up with high office in the Academy.
+* While at Berlin, Kummer supervised a large number of doctoral students including many who went on to hold mathematics chairs at universities, including Bachmann, Cantor, du Bois-Reymond, Gordan, Schönflies and Schwarz.
+* In fact Schwarz became related to Kummer when he married one of his daughters.
+* Kummer also appointed many talented young lecturers including Clebsch, Christoffel and Fuchs.
+* It was Fuchs who succeeded Kummer when he decided to retire in 1883 on the grounds that his memory was failing, although nobody other than Kummer himself ever detected this.
+* During Kummer's first period of mathematics he worked on function theory.
+* In 1843 Kummer, realising that attempts to prove Fermat's Last Theorem broke down because the unique factorisation of integers did not extend to other rings of complex numbers, attempted to restore the uniqueness of factorisation by introducing 'ideal' numbers.
+* The Paris Academy of Sciences awarded Kummer the Grand Prize in 1857 for this work.
+* In fact the prize of 3000 francs was offered for a solution to Fermat's Last Theorem but when no solution was forthcoming, even after extending the date, the Prize was given to Kummer even though he had not submitted an entry for the Prize.
+* Soon after Kummer was awarded the Grand Prix he was elected to membership of the Paris Academy of Sciences and then, in 1863, he was elected a Fellow of the Royal Society of London.
+* Kummer's geometric period was one when he devoted himself to the study of the ray systems that Hamilton had examined, but Kummer treated these problems algebraically.
+* The Kummer surface has 16 isolated conical double points and 16 singular tangent planes and was published in 1864.
+* The three great mathematicians of Berlin, Kummer, Weierstrass and Kronecker were close friends for twenty years as they worked closely and effectively together, However, around 1875 Weierstrass and Kronecker fell out.
+* Kummer continued his friendship with Kronecker but this put a strain on his relation with Weierstrass.
 
 Born 29 January 1810, Sorau, Brandenburg, Prussia (now Żary, Poland). Died 14 May 1893, Berlin, Germany.
 

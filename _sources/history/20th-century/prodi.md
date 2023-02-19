@@ -7,10 +7,10 @@ orderid: 1925
 title: Prodi, Giovanni
 born: 1925
 died: 2010
-keywords: Giovanni Prodi, Italian mathematician, Prodi Gap, algebraic geometry, algebraic topology, weak Poncelet theorem, Invariant Theory, Frobenius manifolds, hyper-algebras, variable-free approach
-description: Italian mathematician Giovanni Prodi discovered the Prodi Gap, the variable-free approach, and made contributions to algebraic geometry, algebraic topology, the weak Poncelet theorem, and Invariant Theory.
+keywords: giovanni prodi,prodi
+description: Giovanni Prodi was an Italian mathematician who was important in the development of Italian mathematical education.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giovanni Prodi** was an Italian mathematician who was important in the development of Italian mathematical education.
 
 ### Mathematical Profile (Excerpt):
-1. Was the first to prove the existence of a gap in the prime numbers between 34 and 59, which was later named the “Prodi Gap.”
-2. Published a number of influential papers on algebraic geometry and algebraic topology, including the paper “Geometric Theory of Algebraic Varieties.”
-3. Contributed to the development of the weak Poncelet theorem.
-4. Co-authored four volumes of the Invariant Theory series with Enrico Bombieri, which helped establish connections between algebraic geometry, representation theory and algebraic invariant theory.
-5. Was among the first mathematicians to study Frobenius manifolds, which are complex manifolds with a holomorphic flat connection of a particular type.
-6. Heavily researched algebraic methods and invariant theory, including the introduction of hyper-algebras.
-7. Discovered the variable-free approach to invariants, which has since become a major topic in algebraic geometry.
+* It was a large family with Giovanni being the eldest of his parents' nine children, having two sisters and six brothers.
+* To give an impression of this remarkable family, we record that Romano Prodi became an economist and politician, Vittorio Prodi became a physicist and politician, Giorgio Prodi became a physician and writer, Paolo Prodi became a historian, and Franco Prodi became a physicist with particular interest in the atmosphere.
+* Outside the world of mathematics, Romano Prodi is the best known member of the family, having been Prime Minister of Italy (17 May 1996 - 21 October 1998, and 17 May 2006 - 8 May 2008), and President of the European Commission (1999 - 2004).
+* Giovanni studied at the Liceo Ariosto in Reggio nell'Emilia, the main city of the region which lies about 12 km north of Scandiano.
+* Prodi's school education continued, being relatively unaffected by the war.
+* Prodi continued his education, entering the University of Parma to study mathematics.
+* Prodi was called up into the Repubblica Sociale Italiana army, an order he complied with through fear that his family would suffer retaliation if he refused, and he was sent to Germany to be trained in a camp with other Italian soldiers.
+* Prodi, however, was part of the German force.
+* In the spring of 1944, along with many of his comrades, Prodi deserted from the Repubblica Sociale Italiana army and fled back to Parma.
+* Prodi was held in PWE 337 along with some famous Italian generals and others of high status.
+* Prodi spent five months in the camp at Coltano before being released.
+* This included Prodi who spent a few months at Casale Monferrato where he was appointed as a corporal and given the task of instructing recruits.
+* After his military service ended, Prodi returned to the University of Parma to take up again his university studies that had been forcibly interrupted by the war.
+* He was able to attend courses at the University of Milan given by Giovanni Ricci on higher analysis and on the theory of functions.
+* Also he was able to attend a meeting at which Renato Caccioppoli lectured on functional analysis and Prodi found this very exciting.
+* After graduating from the University of Parma, Prodi was appointed as an assistant professor at the University of Milan where he worked with Giovanni Ricci.
+* In 1956 Prodi was called to the University of Trieste where he was appointed to the chair of mathematical analysis.
+* It was while he was in Trieste that Prodi produced the most famous of his research results when he proved important uniqueness theorems for two-dimensional Navier-Stokes equations.
+* Among them a prominent place belongs to Giovanni Prodi, who can be considered one of the leaders in nonlinear analysis.
+* In October 1963, Prodi moved to the chair of analysis at the University of Pisa.
+* Already while he was in Trieste, Prodi became heavily involved in mathematical education.
+* Let us look at some comments made by those who were taught by Prodi after he had moved to Trieste.
+* Prodi's wife, Silvia Dentella, was a teacher of mathematics who helped him in his educational reforms.
+* He initiated the "Prodi Project" which went hand in hand with the formation of a group of teachers called the Gruppo di Formazione Matematica of Tuscany.
+* Prodi was the coordinator and inspiration for this group of teachers which held a conference each year, usually in Viareggio.
+* The "Prodi Project" proposed radical new ideas on mathematics teaching in schools which involved more emphasis on probability theory, an emphasis on constructive mathematics, and introducing pupils to algorithmic thinking and computing.
+* Prodi noted that mathematics books which have stood the test of time have been largely books of problems, yet the bulk of mathematics teaching involves showing theory to students.
+* Prodi argued strongly for more emphasis on problem solving and called for more thought to be given in producing relevant problems of the correct level of difficulty.
+* Guida dell'Unione matematica al progetto Prodi Ⓣ(Elements of mathematical analysis.
+* Finally we point out that Prodi was an enthusiastic Christian and a founder of the group "Science and Faith" in 1977.
+* Perhaps the greatest recognition of Prodi's contributions has been the creation of the Giovanni Prodi Chair in Nonlinear Analysis at the University of Würzburg in Germany in 2006.
+* For many years Prodi suffered from steadily declining health due to Parkinson's disease.
 
 Born 28 July 1925, Scandiano, Emilia-Romagna, Italy. Died 29 January 2010, Pisa, Italy.
 

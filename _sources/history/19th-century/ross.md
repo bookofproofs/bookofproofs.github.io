@@ -7,10 +7,10 @@ orderid: 1881
 title: Grossmann, Marcel
 born: 1881
 died: 1947
-keywords: Edward Ross, Edinburgh, Cambridge, Karl Pearson, Madras, Riemannian Geometry, Linear Algebra
-description: Edward Ross studied at Edinburgh and Cambridge universities, pioneering the use computers to solve mathematical problems. He developed algorithms and models including the Ross Linear Matrix, the Ross-Thornton-Gorman Algorithm and ones related to Riemannian geometry & linear algebra.
+keywords: edward ross,grossmann
+description: Edward Ross studied at Edinburgh and Cambridge universities. After working with Karl Pearson in London he was appointed Professor of Mathematics at the Christian College in Madras India. Ill health forced him to retire back to Scotland.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Edward Ross** studied at Edinburgh and Cambridge universities. After working with Karl Pearson in London he was appointed Professor of Mathematics at the Christian College in Madras India. Ill health forced him to retire back to Scotland. 
+**Edward Ross** studied at Edinburgh and Cambridge universities. After working with Karl Pearson in London he was appointed Professor of Mathematics at the Christian College in Madras India. Ill health forced him to retire back to Scotland.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the Ross Linear Matrix, a new way of solving matrices of equations.
-2. Developed the Ross-Thornton-Gorman Algorithm, a technique for solving linear equations from matrices of equations.
-3. Published research papers on mathematical theories such as Riemannian geometry and linear algebra.
-4. Developed software to calculate the solution of matrices of equations faster and more accurately.
-5. Established a mathematical research lab dedicated to the study of mathematics and its applications.
-6. Actively contributed to various research areas in mathematics, such as numerical analysis and algebra.
-7. Developed mathematical models that could be applied in numerous applications, such as engineering and computer science.
-8. Pioneered the use of computers to solve mathematical problems, laying the groundwork for later innovations in the field.
+* His mother was  Ann Ross (born in Dundee about 1841) who was a school teacher.
+* Edward had two older sisters, Marjory (born about 1870) and Hannah (born about 1875).
+* Edward Ross was six years old when his father died and at this time his mother moved from Maud, Aberdeenshire, to Edinburgh where he continued his schooling.
+* Educated at George Watson's School in Edinburgh, Ross was dux of the school in 1898, matriculating at the University of Edinburgh in October of that year.
+* After graduating Ross went to Cambridge, beginning his studies in October 1902.
+* The mathematics scholarship was divided between Edward Burns Ross, M.A., Edinburgh University, and Peter Fraser, M.A., Aberdeen University.
+* Ross had studied with G H Hardy in Cambridge, so this gives an interesting link between Hardy and Madras mathematicians.
+* One of Ross's best students at Madras was S R Rangathan who went on to become a founder of library science.
+* In June, same year, he joined the M.A. class in Mathematics with Professor Edward B.
+* Ross, Ranganathan had an excellent Guru-Shishya relationship.
+* Ross remained his favourite Guru throughout his life.
+* In 1921, while back in Scotland on leave, Ross cooperated with B Bevan-Baker in an important paper On the Vibrations of a Particle about a Position of Equilibrium in which they explained the long-noted phenomenon of the great difference between the orbit of Jupiter and that of Saturn.
+* Ross continued working in Madras until 1932 when he was forced to retire due to ill health.
+* Ross joined the Edinburgh Mathematical Society in 1903 and remained a member throughout his career in India, and his retirement to Edinburgh.
+* Professor Ross was 65 years of age.
 
 Born 28 September 1881, Maud, Aberdeenshire, Scotland. Died 11 January 1947, Edinburgh, Scotland.
 

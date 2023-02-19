@@ -7,10 +7,10 @@ orderid: 1867
 title: Noble, Charles Albert
 born: 1867
 died: 1962
-keywords: Charles Noble, Mathematics, Fermat, Modular Forms, Lindemann-Weierstrass, Galois Theory, Elliptic Curves, Hyperbolic Geometry, Euler Characteristic, L-Function, Harmonic Analysis, Analytic Function Theory, Diophantine Equations
-description: Charles Noble was an American mathematician who made immense contributions to the field of mathematics, including developing a critical proof for Fermat's Last Theorem and establishing the theorem of Lindemann-Weierstrass.
+keywords: charles noble,noble
+description: Charles Noble was an American mathematician best known for his work in the development of mathematical education.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Noble** was an American mathematician best known for his work in the development of mathematical education.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a critical proof for Fermat's Last Theorem.
-2. Named the critical concept of "modular forms" which is an important part of modern number theory.
-3. Established the important theorem of Lindemann-Weierstrass.
-4. Contributed heavily to the development of Galois Theory.
-5. Researched the mathematical principles of elliptic curves.
-6. Pioneered the notion of higher-dimensional hyperbolic geometry.
-7. Established powerful formulas for calculating the Euler characteristic.
-8. Developed a method for calculating the L-function.
-9. Researched and published scientific papers on the application of harmonic analysis to analytic function theory.
-10. Explored the mathematical properties of Diophantine equations.
+* Augustus Noble's parents were English and had sailed to the United States in 1820.
+* They settled in Baltimore, Maryland, and there Augustus Noble was born on 13 December 1823.
+* Augustus and Johanna Noble had six children, five sons and one daughter.
+* Charles had four brothers George (born about 1857), Edward (born about 1859), Frederick (born about 1860) and Walter (born about 1868).
+* As a young boy, Charles Noble lived on the ranch at Soquel but soon developed a dislike of farming.
+* Noble was able to complete his high school education in San Francisco and then he entered the University of California.
+* In 1893 Noble decided that he wanted to undertake research in mathematics for a doctorate.
+* Noble went to the University of Göttingen in 1893 and he undertook research there for three years advised by David Hilbert and Felix Klein.
+* On 13 March 1903 a marriage licence was issued for Charles A Noble, aged 21, of 2311 California Street, San Francisco and Florence N Coleman, aged 18, of 1834 California Street, San Francisco.
+* They had one son, also named Charles Albert Noble.
+* On 30 September 1905, Noble read his paper Note on loxodromes before the San Francisco Section of the American Mathematical Society.
+* Noble was very interested in school education and he inspected schools for the University of California.
+* At the time the earthquake struck, Noble was in Marin and Sonoma counties inspecting schools.
+* On 14 August 1907 Noble was in Zürich when he submitted his paper Singular points of a simple kind of differential equation of the second order to the Bulletin of the American Mathematical Society.
+* In 1909 the Nobles asked the architect William Knowles to build a house for them at 2224 Piedmont Avenue, Berkeley.
+* During the rest of his working life, Noble had a short walk north from his home across Strawberry Creek and down South Drive to Wheeler Hall or other academic buildings.
+* Among the papers Noble published, after the ones we mentioned above, were Characteristics of two partial differential equations of order one (1911) and Retention of a salt solution in a tank of flowing water (1922).
+* Hedrick, like Noble, had studied in Germany and was fluent in German.
+* Noble and Hedrick translated Felix Klein's Elementary mathematics from an advanced standpoint: Arithmetic, algebra, analysis into English and published the book in 1932.
+* Noble acted as Chairman of the Mathematics Department, University of California, Berkeley, during 1933-1934.
+* Noble returned to teaching at the University to help out but donated his services without seeking recompense.
+* In 1947 Florence, Noble's wife, died.
+* In the 1950s Noble was fully retired but still had an office at 456 Wheeler Hall.
+* The picture of Charles Noble will be found in the group photograph of the charter members of the Faculty Club.
+* By that year, the adjacent houses - 2222 and 2234 Piedmont Avenue - were already being used as offices, so acquisition of the Noble home would have filled in the remaining gap in University property ownership of the buildings on the block.
 
 Born 14 August 1867, Soquel, Santa Cruz, California, USA. Died 7 May 1962, Berkeley, California, USA.
 

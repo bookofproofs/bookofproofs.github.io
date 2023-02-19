@@ -7,10 +7,10 @@ orderid: 1889
 title: Jeffery, Ralph
 born: 1889
 died: 1975
-keywords: statistics, sampling theory, confidence intervals, population mean, Australian National University, Monte Carlo integration, ASA Founders Award
-description: Ralph Jeffery: Canadian mathematician who introduced sampling theory, developed confidence intervals & population mean estimator, established ANU field station, authored key works on stats & won ASA Founders Award (1975).
+keywords: ralph jeffery,jeffery
+description: Ralph Jeffery was a Canadian mathematician who worked on analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ralph Jeffery** was a Canadian mathematician who worked on analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored the book "A Primer of Statistics" (1946), which is credited with introducing the concept of sampling theory to a wider audience.
-2. Developed a projective method for constructing confidence intervals (1951).
-3. Devised an unbiased estimator for the Population mean with known coefficient of Variation (1954).
-4. Was awarded the Guy Medal in Silver by the Royal Statistical Society in 1954 for his contributions to the field of statistics. 
-5. Helped establish the first ever Applied Statistics Field Station at the Australian National University in 1958.
-6. Developed a new computational scheme for Monte Carlo integration (1966). 
-7. Published a book, titled "Methods of Statistical Analysis" (1968), which became a standard reference in the field.
-8. Was awarded the first ever ASA Founders Award for his contribution to the field of statistics in 1975.
+* Frank Jeffery was a fisherman.
+* Ralph attended school up to Grade 8 when, in the middle of the year, he left to join his father as a fisherman.
+* It was Nellie Jeffery who persuaded her husband to continue with his education and enrol in Acadia University, Wolfville, Nova Scotia.
+* We have reached Jeffery's university education without mentioning mathematics.
+* This may not seem like a particularly good foundation for research in mathematics, but Jeffery had come to love the subject so much that he went to Cornell University to undertake graduate studies.
+* At this point Jeffery had not completed his doctorate so, in 1928, he returned to Cornell University to finish off his work.
+* Before he submitted his thesis, Jeffery was publishing papers such as Definite integrals containing a parameter  and The Continuity of a Function Defined by a Definite Integral, the latter being in the American Mathematical Monthly.
+* Jeffery remained at Acadia University until 1942, except for one year which he spent as acting as Head of Mathematics at the University of Saskatchewan in 1938.
+* The Mathematics Department at Queen's was fairly small with seven faculty members when Jeffery became Head.
+* Queen's University honoured Jeffery's outstanding contribution by naming a new building, built between 1967 and 1969 to house the Department of Mathematics and Statistics, as Jeffery Hall.
+* An important book which Jeffery published in 1951 was The Theory of Functions of a Real Variable.
+* Jeffery was elected a Fellow of the Royal Society of Canada in 1937 and latter served as its President.
+* Jeffery received many honours for his outstanding work in encouraging mathematical research in Canada.
+* The Canadian Mathematical Society honoured him by setting up the Jeffery-Williams Prize to recognize mathematicians who have made outstanding contributions to mathematical research.
+* In 1956 Nellie Jeffery died.
+* In 1970, when he was 81 years old, Jeffery married Frances Lewis of Bedford.
 
 Born 3 October 1889, Overton, Yarmouth County, Nova Scotia, Canada. Died 1975, Wolfville, Nova Scotia, Canada.
 

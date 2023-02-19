@@ -7,10 +7,10 @@ orderid: 1881
 title: Herglotz, Gustav
 born: 1881
 died: 1953
-keywords: Herglotz, relativity, seismology, mechanics, Fourier, elasticity, magnetism
-description: Gustav Herglotz was a mathematician who made significant contributions to relativity, seismology, mechanics, Fourier, elasticity and magnetism.
+keywords: gustav herglotz,herglotz
+description: Gustav Herglotz was a Czech-born German mathematician best known for his works on the theory of relativity and seismology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gustav Herglotz** was a Czech-born German mathematician  best known for his works on the theory of relativity and seismology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a solution for the minimum time problem in solid mechanics, now known as Herglotz's Principle. 
-2. Developed the Herglotz–Vitali theorem concerning Fourier series.
-3. Contributed to the research of partial differential equations and to the theory of potential functions.
-4. Developed the basic theory of affine transformations of fields.
-5. Established novel formulations of surface wave equations.
-6. Published influential work on a mathematical model of emulsions and contact problems.
-7. Wrote two influential books on the mathematics of magnetism.
-8. Made significant advances in the theory of plane elasticity.
+* His father was Gustav Herglotz, a notary, who died when his son was three years old.
+* Wishing to concentrate more on astronomy, Herglotz decided that he would be able to attend more appropriate courses at the University of Munich and so, after one year at the University of Vienna, he moved to Munich in 1900.
+* In Munich, Herglotz was advised by Hugo von Seeliger and Ludwig Boltzmann.
+* It was discovered on 13 August 1898 by Gustav Witt at the Urania Observatory in Berlin.
+* Herglotz, in his doctoral thesis, gave a geometric explanation of the variations in brightness of asteroids such as Eros.
+* In order to teach in universities Herglotz had to write an habilitation thesis and after working on it in Göttingen from 1902 to 1904 under Felix Klein, he submitted the thesis to the University of Göttingen.
+* Herglotz was a privatdozent at Göttingen from 1904 to 1907 when he was made an extraordinary professor.
+* One problem that Herglotz worked on at this time was a fundamental problem of geophysics, extending Kelvin's theory on the earth's rigidity.
+* In this last paper Herglotz solved Abel's integral equation which results from the inversion of measured seismic travel times into a velocity-depth function.
+* In 1908, one year after being made an extraordinary professor at Göttingen, Herglotz moved to an extraordinary professorship at the University of Vienna.
+* Again Herglotz was to hold a post for only a year, for in 1909 he was offered a full professorship at the University of Leipzig.
+* During his sixteen years in Leipzig, Herglotz supervised the doctoral studies of at least 25 students including Emil Artin.
+* Herglotz was appointed to fill the vacant chair which he held until 1946 when he was forced to resign due to ill health.
+* At Göttingen, Herglotz lectured on a wide variety of topics, showing the breadth of his mathematical expertise.
+* His lecture course on continuum mechanics was published in 1985, about 50 years after Herglotz gave the lectures.
+* Herglotz was married to Anna Lederer.
 
 Born 2 February 1881, Wallern, Bohemia (now Volary, Czech Republic). Died 22 March 1953, Göttingen, Germany.
 

@@ -7,10 +7,10 @@ orderid: 1905
 title: Tucker (2), Albert
 born: 1905
 died: 1995
-keywords: Albert Tucker, Fields Medal, Monte Carlo, Geometric Transformations, Buckley-Tucker Theorem, Algebraic Topology, Average Phosphorus
-description: Albert Tucker was an Australian mathematician who received a Fields Medal, developed the Monte Carlo Method, Geometric Transformations, the Buckley-Tucker Theorem and combinatorial topology, and studied Algebraic Topology, Average Phosphorus concentrations.
+keywords: albert tucker,tucker
+description: Albert Tucker was a Canadian mathematician who worked in topology, game theory and non-linear programming.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,37 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Albert Tucker**  was a Canadian mathematician who worked in topology, game theory and non-linear programming.
 
 ### Mathematical Profile (Excerpt):
-1. Became the first Australian mathematician to receive a Fields Medal in 1954.
-2. Was part of a group of mathematicians who worked on the development of the Monte Carlo Method during World War II.
-3. Showed in his Geometric Transformations (1954) that a projective transformation between two triangles determines a transformation of coordinates.
-4. Developed the Buckley-Tucker Theorem in the 1950s, which establishes conditions under which an LP problem has a solution.
-5. Published numerous papers on topics related to algebraic topology and algebraic geometry in the late 1950s and early 1960s.
-6. Developed a mathematical formula for the estimation of average phosphorus concentrations in plants.
-7. Was the first person to give an exact definition of the phrase 'combinatorial topology.'
+* His father, William B Tucker, had some mathematical training but it was his role as a Methodist minister which led to the many moves.
+* Albert's mother was Florence M Huff.
+* Although the Principal of his High School had suggested that he aim at becoming an actuary, in fact Tucker thought at this stage that he would become a schoolteacher of mathematics.
+* The chairman of physics was very impressed with Tucker's report and asked him to change from a joint mathematics-physics degree to a single subject physics degree.
+* The chairman of mathematics, Alfred Tennyson DeLury, agreed that he should change to a single subject degree but, of course, thought Tucker should choose mathematics.
+* It was a difficult decision for Tucker who really enjoyed physics but felt that he had a deeper understanding of mathematics.
+* In his final year of undergraduate study Tucker was advised by DeLury to go abroad for graduate study.
+* Tucker immediately rejected the non-English speaking universities, and wrote to the University of Cambridge enquiring about their graduate programme.
+* In fact the courses did not look too attractive to Tucker so, after the award of his B.A. in 1928, he remained at Toronto for a fifth year.
+* Tucker, however, wanted to go to Princeton and eventually DeLury agreed.
+* However there was a part-time Instructorship which Princeton was about to fill so, with Alfred DeLury's support, Tucker was appointed to this position for 1929-30.
+* Tucker received his doctorate in 1932 for his thesis An Abstract Approach to Manifolds.
+* Tucker was a National Research Fellow during 1932-33, spending the autumn term at the University of Cambridge working with Max Newman.
+* On 17 December 1938, soon after he was promoted to Associate Professor, Tucker married Alice Judson Curtiss.
+* They had three children; sons Alan Curtiss Tucker (born 6 July 1943) and Thomas William Tucker (born 15 July 1945) and a daughter Barbara Jane Tucker.
+* In 1954 he succeeded Emil Artin (who became Fine Professor at this time) as Albert Baldwin Dod Professor of Mathematics at Princeton, having become chairmen of the mathematics department at Princeton in the previous year.
+* By chance, on this visit he met Tucker who asked him to explain what linear programming was.
+* Tucker immediately saw it as a topic which would interest him particularly since he saw connections to ideas from his topological research.
+* By the summer of 1948 the project had been set up at Princeton under the Office of Naval Research (there was no Office of Air Force Research) with Tucker as its director.
+* Tucker began work with two graduate students, David Gale and Harold Kuhn, on the connections between linear programming and matrix games.
+* From this time on Tucker published papers in conference proceedings, choosing to leave the regular journals for younger mathematicians.
+* The rest of Tucker's research career was involved in aspects of game theory and linear programming.
+* In 1949-50 Tucker took sabbatical leave which he spent at Stanford University.
+* Tucker made up a setting for the Dresher-Flood game which he called the "Prisoner's dilemma".
+* J J Kohn became a graduate student at Princeton in 1953 at the time Tucker became departmental chairman.
+* In June 1961 Tucker was awarded an honorary D.Sc. from Dartmouth College.
+* In 1967 the Mathematical Association of America presented their Award for Distinguished Service to Tucker.
+* By his willing service to those ho would learn, teach, advance, or use mathematics, Albert William Tucker has added measurably to the vigour and quality of mathematics today.
+* Tucker died of pneumonia at the Presbyterian Home of Meadow Lakes, a nursing home in Hightstown, New Jersey, after a long illness.
+* He and his wife Alice had divorced in June 1960 and Tucker had married Mary F Shaw on 26 February 1964.
+* He was survived by his second wife Mary, his two sons Alan and Tom (both eminent professors of mathematics), and his daughter Barbara Tucker Cervone (Special Assistant to the president of Brown University).
 
 Born 28 November 1905, Oshawa, Ontario, Canada. Died 25 January 1995, Hightstown, New Jersey, USA.
 

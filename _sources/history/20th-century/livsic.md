@@ -7,10 +7,10 @@ orderid: 1917
 title: Livsic, Mikhail Samuilovich
 born: 1917
 died: 2007
-keywords: Moshe Livsic, Functional Analysis, Hartogs-Rosenthal, Kaluznin, Levy-Steinitz, Kostant-Kirillov, General Topology
-description: Moshe Livsic, a Ukrainian functional analyst, demonstrated advanced mathematical achievements in various areas, including Hartogs-Rosenthal, Kaluznin, Levy-Steinitz, Kostant-Kirillov, General Topology and more.
+keywords: moshe livsic,livsic
+description: Moshe Livsic was a Ukrainian-born mathematician who worked in functional analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Moshe Livsic** was a Ukrainian-born mathematician who worked in functional analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Refined the Hartogs-Rosenthal theorem in 1962.
-2. Solved the Kaluznin problem in 1965.
-3. Proved the Levy-Steinitz theorem in 1966.
-4. Published his corrections of the Kostant-Kirillov theorem in 1967.
-5. Wrote several books on algebraic systems and algebraic structure theory.
-6. Developed a critical existent fixity theorem in 1970.
-7. Established results in differential ring theory and special algebraic systems.
-8. Co-authored the definitive textbook on general topology in 1972.
-9. Explored the connections between group rings and division rings in 1975. 
-10. Discovered homological techniques for stable algebraic systems in 1979.
+* The family were Jewish and Livsic brought up in a very religious household.
+* Livsic graduated from school in 1931 and, with a school friend, planned his future studies.
+* However to be successful in the physical sciences Livsic and his friend would first have to become knowledgeable in mathematics.
+* Livsic began studies at Odessa technical College aimed at his becoming a radio technician but, in 1933, he entered the Department of Physics and Mathematics at Odessa State University.
+* Livsic took part in the functional analysis seminar and studied analytic functions.
+* After working at Kirovograd, Livsic returned to Odessa to teach at the Hydrometerological Institute which was a minor institution.
+* From 1957 until 1962 Livsic was head of mathematics at Kharkov Mining Institute, joining Akhiezer at Kharkov State University in 1962.
+* His recent breakthroughs in the theory of characteristic functions for several commuting operators indicate that in spite of his seventy years, mathematically Moshe is still a young man.
 
 Born 4 July 1917, Pokotilova (near Uman), Ukraine. Died 30 March 2007, Be’er Scheva, Israel.
 

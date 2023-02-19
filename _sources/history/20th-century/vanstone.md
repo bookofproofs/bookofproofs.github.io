@@ -7,10 +7,10 @@ orderid: 1933
 title: Vanstone, Ray
 born: 1933
 died: 2001
-keywords: James Vanstone, differential geometry, multilinear algebra, relativity, algorithms, waveforms, X-ray energy spectrum
-description: James Vanstone, a Canadian mathematician, created algorithms, waveforms and mathematical models to develop and enhance medical imaging systems, as well as discoveries related to relativity.
+keywords: ray vanstone,vanstone
+description: James Vanstone was a Canadian mathematician who dealt with differential geometry and multilinear algebra, especially in connection with the theory of relativity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Vanstone** was a Canadian mathematician who dealt with differential geometry and multilinear algebra, especially in connection with the theory of relativity.
 
 ### Mathematical Profile (Excerpt):
-1. Developed algorithms that implemented digitally corrected waveforms which allowed accurate control of power supplies in medical imaging equipment.
-2. Created waveforms that enabled substantially improved imaging resolution for medical ultrasound equipment.
-3. Improved the performance of medical X-ray imaging systems by applying numerical methods to waveform designs.
-4. Developed methods for accurately determining the X-ray energy spectrum on medical imaging systems.
-5. Developed mathematical models to predict and optimize the performance of high voltage power supplies.
-6. Discovered a novel relationship between the ionization chamber current, temperature, and pressure in X-ray imaging systems.
+* Hanno Rund had been appointed as an Assistant Professor of Applied Mathematics at the University of Toronto in 1954 and Vanstone attended courses that Rund taught.
+* Vanstone also attended courses on geometry given by Donald Coxeter.
+* On their return they will reside at 9 Harbord Street in Toronto, where Mr Vanstone is studying for a postgraduate degree in mathematics.
+* After completing his Master's Degree, Vanstone travelled to South Africa with his wife so that he could study for a Ph.D. supervised by Rund.
+* A few months later, Vanstone, his wife and their baby son returned to Canada.
+* Travelling to Toronto, Vanstone took up an appointment as a lecturer in mathematics in October 1959.
+* We note that Dipak K Sen was a colleague of Vanstone's at the University of Toronto with interests in relativity and gravitation, and mathematical physics.
+* In 1961 Vanstone was promoted to Assistant Professor and then, in 1965, was promoted to Associate Professor with tenure.
+* Ray and Ann Vanstone had two further children; Roderick, born at Toronto General Hospital on 5 October 1962, and Kirsten.
+* Vanstone was on the programme committee of the Thirteenth Biennial Seminar of the Canadian Mathematical Congress which was devoted to differential topology, differential geometry and applications.
+* The programme committee, consisting of A E Fekete, W H Greub, Ngo Van Que, H Rund, U Suter and J R Vanstone was supplemented by A J Tingley the chairman of the mathematics department of Dalhousie University, the host institution.
+* Vanstone's most famous work was the 3-volume, three author monograph Connections, curvature, and cohomology.
+* Vanstone's co-authors were Werner H Greub and Stephen Halperin.
+* Although he remained on the Faculty at the University of Toronto throughout his career, where he was a full professor from 1973,Vanstone did spend time in other institutions as a visiting professor.
+* Vanstone served the Canadian Mathematical Society in several different capacities over many years.
+* Vanstone retired in 1995.
 
 Born 12 August 1933, Owen Sound, Ontario, Canada. Died 9 April 2001, Florida, USA.
 

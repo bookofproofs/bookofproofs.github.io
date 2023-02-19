@@ -7,10 +7,10 @@ orderid: 1912
 title: Lelong, Pierre
 born: 1912
 died: 2011
-keywords: Pierre Lelong, complex analysis, function theory, Lelong theorem, analytic functions, partial differentials equations, integral equations, linear operators, Banach algebra, topology, distribution theory, stochastic process
-description: Pierre Lelong, a French mathematician, made significant contributions to the study of complex analysis and function theory, resulting in discoveries such as the Lelong containment theorem, as well as influential papers. His research in linear operators and Banach algebra led to groundbreaking ideas in topology.
+keywords: pierre lelong,lelong
+description: Pierre Lelong was a French mathematician who worked in the theory of several complex variables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pierre Lelong** was a French mathematician who worked in the theory of several complex variables.
 
 ### Mathematical Profile (Excerpt):
-1. Made significant advances in the study of complex analysis and function theory.
-2. Discovered the Lelong containment theorem, which states that any holomorphic function can be assigned a positive integer such that it is entirely contained by a closed ball with that integer as its radius.
-3. Published a number of influential papers on generalized functions and analytic functions.
-4. Developed the theory of partial differentials equations and developed techniques to solve them.
-5. Developed a theory of integral equations, ultimately leading to the development of the famous Lelong-Malgrange theorem.
-6. His research in linear operators and Banach algebra led to a number of important concepts. 
-7. Issued a number of groundbreaking articles introducing advanced ideas visualized in topology descriptive to the field of mathematics, many of themes still studied today. 
-8. Developed a system of distribution theory and stochastic process, formerly known as the Lelong-Ascoli estimate.
+* Lelong attended schools in Paris, in particular the Lycée Buffon.
+* This was the first time that Lelong had heard about this prestigious competition.
+* One of the prize winners was Georges Pompidou, the future President of France, who would go on to become Lelong's friend.
+* In the following year, 1928, Lelong was put forward by his school for the mathematics competition of the Concours Général.
+* Not only did Lelong win the first prize in mathematics in the Concours Général in 1928, he also won the first prize in mathematics in 1929.
+* Having prepared to take the entrance examinations for the Grand Écoles at the Lycée Louis-le-Grand in Paris, Lelong entered the École Normale Supérieure in 1931.
+* Lelong attended lectures by Arnaud Denjoy and Paul Montel and graduated in 1934.
+* After graduating from the École Normale Supérieure, Lelong began undertaking research advised by Paul Montel.
+* In the first of these, Lelong investigates the accuracy of the estimate of the number of direct critical points of the inverse of a meromorphic function w(z)w(z)w(z) given by Lars Ahlfors in a 1932 paper.
+* Lelong became a researcher at the CRNS from its founding.
+* Lelong, however, still managed to publish research articles, for example Sur l'ordre d'une fonction entière de deux variables Ⓣ(On the order of an integer function of two variables) (1940), Sur l'intégrale de Kronecker appliquée à un système de deux fonctions de deux variables complexes Ⓣ(On the Kronecker integral applied to a two-function system of two complex variables) (1940), Sur les zéros d'une fonction entière de deux variable Ⓣ(On the zeros of an integer function of two variable) (1940), Sur les domaines cerclés qui sont domaines naturels d'existence d'une fonction analytique de deux variables complexes Ⓣ(On circled domains which are natural domains of existence of an analytic function of two complex variables) (1941), and Sur quelques problèmes de la théorie des fonctions de deux variables complexes Ⓣ(On some problems of the theory of functions of two complex variables) (1941).
+* In 1941 Lelong submitted his Thèse de Doctorat d'État entitled Sur quelques problèmes de la théorie des fonctions de deux variables complexes Ⓣ(On some problems of the theory of the functions of two complex variables) to the Faculty of Science in Paris for the degree of docteur es sciences mathématiques.
+* Lelong dedicated his thesis "To my father and to doctors R Gouverneur and L Pollet, surgeon and doctor of Paris hospitals." Unfortunately we do not know why he dedicated his thesis to these two doctors.
+* Even before the award of his Doctorat d'État, Lelong had been appointed as an assistant lecturer at the Faculty of Sciences of Paris in 1940.
+* Lelong was appointed to Lille to fill the vacant chair of rational and experimental mechanics.
+* Here is an example of a problem of rational mechanics taught in Lille, about 1954, by Pierre Lelong and Robert Bossut, at the time when Yves Leroy was a student: A 'gouttière' rotates uniformly around its centre of gravity, a ball circulates in its axis, give the movement of the ball.
+* On 22 November 1947 Pierre Lelong married the mathematician Jacqueline Ferrand, a mathematics professor in Caen.
+* Pierre and Jacqueline had four children, Jean, Henri, Françoise and Martine.
+* We note at this point that Pierre Lelong and his wife divorced and he married the mathematician France Fages in 1976.
+* After her marriage she published under the name France Lelong.
+* In 1954 Lelong left Lille and returned to Paris where he was appointed as a professor at the Faculty of Science.
+* Lelong and his wife Jacqueline Lelong-Ferrand both spent a semester, September-December 1956, at the Institute for Advanced Study at Princeton, USA.
+* Lelong soon became involved with the French government.
+* The day de Gaulle was appointed he made Pierre Lelong 'Conseiller technique au Secrétariat général de la Présidence de la République'.
+* This meant that Lelong was responsible for scientific research, all levels of education and public health.
+* We now look briefly at some of the books that Lelong wrote.
+* We gave information above about Lelong's work for the government in the first half of the 1960s.
+* Pompidou gave Lelong the task of preparing a budget for all research in the whole of France.
 
 Born 14 March 1912, Paris, France. Died 12 October 2011, Paris, France.
 

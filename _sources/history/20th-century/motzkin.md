@@ -7,10 +7,10 @@ orderid: 1908
 title: Motzkin, Theodore Samuel
 born: 1908
 died: 1970
-keywords: Theodor Motzkin, linear programming, convex sets, rings/fields, topology, singular integral equations, game theory, Cholesky factorization
-description: Theodor Motzkin was a German-born American mathematician known for his pioneering work on linear programming, convex sets, topology, game theory, and more.
+keywords: theodore samuel motzkin,motzkin
+description: Theodore Samuel Motzkin was a German-born American mathematician best known for his work on linear programming.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,41 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Theodore Samuel Motzkin** was a German-born American mathematician best known for his work on linear programming.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first to prove a major property of convex sets, namely that the sum of two sets convex is always convex.
-2. He made groundbreaking contributions to the study of rings and fields, leading to his pioneering work on semigroup theory (a subfield of group theory).
-3. He was a pioneer in the field of topology, particularly in the study of continuous transformations.
-4. He authored several papers dealing with singular integral equations, as well as on Fourier analysis applied to probability.
-5. His work on the theory of games was highly influential, laying the groundwork for future work in game theory.
-6. He formulated a key theorem about the solvability of certain equations with integer coefficients.
-7. He helped to create and popularize the field of linear programming.
-8. He was the first to provide a proof to establish that every positive definite matrix has a unique Cholesky factorization.
+* Born in Russia into a Jewish family, Leo Motzkin went to Berlin when he was thirteen years old to study mathematics.
+* After starting work on his doctoral thesis, Leo Motzkin left mathematics to work for the Zionist movement.
+* Theodore Motzkin showed remarkable talents for mathematics as a child growing up in Berlin, and he began his university education when only fifteen years old.
+* For his doctoral work Motzkin went to Basel where he studied with Ostrowski writing his dissertation on linear inequalities.
+* Ostrowski was in many ways more of a collaborator of Motzkin's than a supervisor.
+* Motzkin already had several publications before his thesis on linear programming was completed in 1934.
+* Motzkin's first publication, however, was not on linear programming but rather on power series.
+* It was written as a partial solution to a problem which had been posed by Ostrowski and it gave Motzkin particular pleasure when he returned to the problem many years later and was able to give a complete solution.
+* Both linear programming and power series were themes which ran through Motzkin's research throughout his life but he was an extremely broad mathematician and there were many other themes.
+* In 1935 Motzkin was appointed to the Hebrew University in Jerusalem.
+* As was characteristic of Motzkin throughout his life, he maintained a remarkable mathematical output, writing several papers in Hebrew and helping to create Hebrew mathematical terminology.
+* We spoke of many different themes running through Motzkin's research and one of these was combinatorial analysis.
+* Dvoretzky and Motzkin give a new proof of great simplicity and elegance.
+* Motzkin emigrated to the United States in 1948 and there he spent two years at Harvard and Boston College.
+* In many publications on this topic Motzkin examined a wide variety of different ideas, including new measure of closeness of approximation.
+* Other themes which run through Motzkin's work is geometric problems, some involving Ramsey theory, and he wrote many papers on graph theory.
+* Some of Motzkin's most beautiful and important work made its first appearance here.
+
+Born in Russia into a Jewish family, Leo Motzkin went to Berlin when he was thirteen years old to study mathematics.
+* After starting work on his doctoral thesis, Leo Motzkin left mathematics to work for the Zionist movement.
+* Theodore Motzkin showed remarkable talents for mathematics as a child growing up in Berlin, and he began his university education when only fifteen years old.
+* For his doctoral work Motzkin went to Basel where he studied with Ostrowski writing his dissertation on linear inequalities.
+* Ostrowski was in many ways more of a collaborator of Motzkin's than a supervisor.
+* Motzkin already had several publications before his thesis on linear programming was completed in 1934.
+* Motzkin's first publication, however, was not on linear programming but rather on power series.
+* It was written as a partial solution to a problem which had been posed by Ostrowski and it gave Motzkin particular pleasure when he returned to the problem many years later and was able to give a complete solution.
+* Both linear programming and power series were themes which ran through Motzkin's research throughout his life but he was an extremely broad mathematician and there were many other themes.
+* In 1935 Motzkin was appointed to the Hebrew University in Jerusalem.
+* As was characteristic of Motzkin throughout his life, he maintained a remarkable mathematical output, writing several papers in Hebrew and helping to create Hebrew mathematical terminology.
+* We spoke of many different themes running through Motzkin's research and one of these was combinatorial analysis.
+* Dvoretzky and Motzkin give a new proof of great simplicity and elegance.
+* Motzkin emigrated to the United States in 1948 and there he spent two years at Harvard and Boston College.
+* In many publications on this topic Motzkin examined a wide variety of different ideas, including new measure of closeness of approximation.
+* Other themes which run through Motzkin's work is geometric problems, some involving Ramsey theory, and he wrote many papers on graph theory.
+* Some of Motzkin's most beautiful and important work made its first appearance here.
 
 Born 26 March 1908, Berlin, Germany. Died 15 December 1970, Los Angeles, California, USA.
 

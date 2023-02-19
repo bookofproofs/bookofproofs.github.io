@@ -7,10 +7,10 @@ orderid: 1553
 title: Delgado, João
 born: 1553
 died: 1612
-keywords: Mathematics, Portuguese, Porto, Geometry, Philosophy, Papers, Conferences
-description: João Delgado was a Portuguese professor, priest, mathematician and architect famous for developing innovative teaching methods, co-authoring an important book, publishing papers and making important contributions to conferences and international scientific committees.
+keywords: joão delgado,delgado
+description: João Delgado was a Portuguese mathematician, priest and architect. He made important contributions to the debate about the place of mathematics in a curriculum.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **João Delgado** was a Portuguese mathematician, priest and architect. He made important contributions to the debate about the place of mathematics in a curriculum.
 
 ### Mathematical Profile (Excerpt):
-1. Developed innovative methods for the teaching of mathematics in his native Portugal.
-2. Co-authored an important book on the history of mathematics, which provides insight into Euclidean geometry, Cartesian philosophy, number theory and algebra.
-3. Published numerous papers and conference proceedings on mathematical topics including measure theory, probability theory and algebraic topology.
-4. Contributed to several international Scientific committees, such as the European Mathematical Society and the International Congress of Mathematical Societies.
-5. Received several distinctions, including The Silver Medal of the Portuguese Academy of Science (2007) and the David Hilbert Award of the American Mathematical Society (2011).
-6. Appointed to the Chair of Mathematics at the University of Porto, the most prestigious mathematical post in the country (2015).
-7. Impacted the lives of thousands of students as a professor at the University of Porto, and other universities.
-8. Played a major role in the organization of important mathematics research conferences in Portugal throughout his career.
+* The first fact that we know about Delgado (other than his place of birth) is that he entered the Society of Jesus (commonly known as the Jesuits) in 1574.
+* This was an extremely important time in Delgado's mathematical development and Clavius's influence would be the basis of the contribution he made after returning to Portugal.
+* In 1585 Delgado returned to Portugal with the intention of going to Brazil but, for some reason that is not known, the trip never happened.
+* In 1589-90, Delgado was sent to Évora where the Jesuit University of Évora was operating.
+* Although in Delgado's time there were only two universities in Portugal, there were other Jesuit colleges where elementary mathematics was taught.
+* This mathematics teaching did not accomplish the need for many skilled navigators so, in 1590, Delgado was appointed to teach the Aula de Esfera, the Course of the Sphere, at the College of Santo Antão in a course available to both Jesuits and lay students.
+* Delgado held this appointment until his death 22 years later, but he did not teach the Aula de Esfera continuously at the College of Santo Antão during these years.
+* Delgado had a second position as the chief architect for Portugal.
+* When Delgado was occupied with these architect's duties, the Aula de Esfera was delivered by Francisco da Costa (1567-1604) who was his assistant.
+* In order to understand the significance of Delgado's contributions, we need to examine a little of the background to the position of mathematics at this time.
+* We explained above that Delgado was in Rome, studying with Clavius, from 1576 to 1585 so we see that he was in Rome at just the time when this argument was raging.
+* This, of course, illustrates the importance in the Portuguese context of the mathematician Delgado opposing the philosophers of Coimbra.
+* We know in detail what Delgado taught in his 1605-06 Aula de Esfera since the text of that course survives.
+* Delgado begins by citing the theses and arguments of the detractors of mathematics.
+* Others argue, says Delgado, that mathematics does not proceed by any cause since mathematical causes are only metaphorical, and others do not accept that mathematical proofs proceed from their own principles.
+* Then Delgado explains that his view of mathematics is completely the opposite of that presented by these detractors of mathematics.
+* João Delgado is an example of the Collegio Romano's role in the formation of specialized core groups in the teaching and promotion of mathematics.
+* By doing so, Delgado was one of the first Jesuit mathematicians to defend the scientificness of mathematics within a strict Aristotelian framework.
+* The Jesuits of Coimbra reacted strongly to Delgado's strongly worded attack.
+* Delgado, however, played an important role in this argument and deserves considerable praise for his defence of mathematics and its importance to other disciples, something which today is completely taken for granted.
+* One other aspect of Delgado's contribution is important for the development of mathematics in Portugal, namely the small group of fellow mathematicians he built at the College of Santo Antão in Lisbon.
+* No book by Delgado was ever published but it is known that he intended to write one.
+* Clavius would have had to approve the final version of such a publication but, as far as we know, no text from Delgado ever reached him.
 
 Born 1553, Lagos, Portugal. Died 30 September 1612, Coimbra, Portugal.
 

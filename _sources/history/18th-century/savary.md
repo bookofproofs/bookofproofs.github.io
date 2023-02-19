@@ -7,10 +7,10 @@ orderid: 1797
 title: Savary, Felix
 born: 1797
 died: 1841
-keywords: electromagnetism, electrodynamics, algebraic curves, Euler's equations, Grand Prix des Sciences Mathématiques, differential calculus of variations, continuous adjunction
-description: Félix Savary was a mathematician known for his work in electromagnetism, electrodynamics, algebraic curves, Euler's equations, Grand Prix des Sciences Mathématiques, differential calculus of variations and continuous adjunction.
+keywords: félix savary,savary
+description: Félix Savary worked on electromagnetism and electrodynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Félix Savary** worked on electromagnetism and electrodynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Submitted a paper to the Entretiens de Bures sur Yvette which proposed an elementary way to compute the coordinates of the points of an algebraic curve, which was later adopted by mathematicians all over Europe.
-2. Received the Prix Bordin from the French Academy of Sciences for a book entitled Méthodes Nouvelles pour étudier les Curves Algébrique which outlined a method of determining the algebraic signatures of curves from their properties.
-3. Published a paper titled “Réduction des Candidats algébriques pour l’emploi des Eulériennes” which proposed a more efficient method for solving Euler’s equations.
-4. Served as the editor for the mathematical journal L'Intermédiaire des Mathématiciens.
-5. Championed the establishment of the Grand Prix des Sciences Mathématiques which is awarded annually by the Paris Academy of Sciences.
-6. Established a method for the continuous adjunction of algebraic curves.
-7. Contributed to the development of the differential calculus of variations.
+* Savary also served as librarian at the Bureau des Longitudes from 1823 to 1829.
+* Savary also developed a theorem (named after him) on the curvature of a roulette, the curve traced out by a point on a fixed curve which rolls on a second curve.
+* The star x Ursae Majoris is a double star and Savary demonstrated that the two stars move in elliptical orbits with the centre of gravity at the focus of the ellipses.
+* Priority in that field, however, must go to Savary, who gave, in Connaissance des Temps for 1830 (which according to its title page was published in 1827), a description of a method of calculating orbits for double stars.
+* In fact, Sir John Herschel, whose orbit was, on his own admission, not nearly such a good match, complained with good reason that Savary had cheated - not Sir John's word: that is my précis of the gentlemanly circumlocution that occupies nearly a whole page (his paragraph 64) - by choosing to solve data that were only approximately the observed ones!
 
 Born 4 October 1797, Paris, France. Died 15 July 1841, Estagel (near Perpignan), Franc.
 

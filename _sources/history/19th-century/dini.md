@@ -7,10 +7,10 @@ orderid: 1845
 title: Dini, Ulisse
 born: 1845
 died: 1918
-keywords: Ulisse Dini, Mathematics, Calculus, Probability, Analysis, Vector Algebra, Induction
-description: Ulisse Dini, Italian mathematician, revolutionized calculus with new coordinates, developed probability and analysis, founded Italian School of Mathematics, and formulated induction as an axiomatic proof.
+keywords: ulisse dini,dini
+description: Ulisse Dini was an Italian mathematician whose most important work was on the theory of functions of a real variable.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ulisse Dini** was an Italian mathematician whose most important work was on the theory of functions of a real variable.
 
 ### Mathematical Profile (Excerpt):
-1. Proposed a new system of coordinates that revolutionized calculus and opened the doors to what later came to be known as vector calculus.
-2. Established the methods of modern integral calculus.
-3. Developed the theory of probability.
-4. Pioneered the study of analytic geometry and vector algebra. 
-5. Studied local and global perturbations on a planetary orbit.
-6. He established the Italian School of Mathematics and became its founder.
-7. Made important contributions to the field of mathematical analysis.
-8. Played a significant role in the foundation of a mathematical journal called the Annali di Matematica Pura ed Applicata.
-9. Founded the Unione Matematica Italiana, a notable mathematical society.
-10. Formulated the principal of mathematical induction as an axiomatic proof.
+* It was certainly not a wealthy family but Dini's parents were able to educate him in his native city of Pisa.
+* Dini grew up at a time when political, and military, events in Italy were intensifying as the country came nearer to unification.
+* In 1859, when Dini was thirteen years old, there was a war with Austria in which the French at first joined the Italians against the Austrians.
+* In 1865 Dini entered a competition for a scholarship to provide the necessary funds to allow a student to further their studies abroad.
+* This was a period of high mathematical activity for Dini and seven publications came out of the research he undertook during his time in Paris.
+* Dini returned to Pisa in 1866, and was appointed to a post in the University of Pisa.
+* Dini progressed quickly in his career at the University of Pisa, being appointed to Betti's chair of analysis and higher geometry in 1871.
+* Despite the workload required in his university career, Dini entered politics in 1871 (although he was only 25 years old at the time) when he was elected to the Pisa City Council.
+* With a period of consolidation for the newly unified Italy, local government became very significant and Dini was keen to do all he could in this important area.
+* Having served many times on the Pisa Council, Dini was elected to the national Italian parliament in 1880 as a representative from Pisa.
+* Not only was Dini highly involved in teaching mathematics and in local and national politics, but in 1888 he reached the highest office in university administration when he became rector of the University of Pisa.
+* Dini's most important work in mathematics was on the theory of functions of a real variable.
+* Dini was one of the greatest masters of generalisation and constructing counterexamples.
+* Dini looked at infinite series and generalised results such as a theorem of Kummer and one of Riemann, the ideas for which had first emerged in work of Dirichlet.
+* He discovered a condition, now known as the Dini condition, ensuring the convergence of a Fourier series in terms of the convergence of a definite integral.
+* As well as trigonometric series, Dini studied results on potential theory.
+* Dini published a number of major texts throughout his career.
+* Dini's most famous student was Bianchi.
 
 Born 14 November 1845, Pisa (now Italy). Died 28 October 1918, Pisa, Italy.
 

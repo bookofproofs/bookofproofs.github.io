@@ -7,10 +7,10 @@ orderid: 1859
 title: Meshchersky, Ivan Vsevolodovich
 born: 1859
 died: 1935
-keywords: Meshchersky, chaos theory, duality, dynamical systems, partial differential equations, engineering, economics
-description: Ivan Meshchersky revolutionized mechanics, discovering chaos theory and duality, and applying mathematics to engineering and economics.
+keywords: ivan vsevolodovich meshchersky,meshchersky
+description: Ivan Vsevolodovich Meshchersky was a Russian mathematician famous for his work on mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ivan Vsevolodovich Meshchersky** was a Russian mathematician famous for his work on mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the basic principles of modern chaos theory in 1904.
-2. Developed a classification of partial differential equations in 1902.
-3. Established the basis of the modern mathematical concept of duality with his 1902 paper.
-4. Coined the term ‘dynamical systems’ after his groundbreaking studies in 1904.
-5. Invented a way to measure chaos in the dynamics of nonlinear systems in 1906.
-6. Established the classification of discontinuous solutions of partial differential equations in 1906.
-7. Wrote two influential books on differential equations and integral equations in 1905 and 1907.
-8. Published two notable books on geometry and algebra in 1909 and 1911.
-9. Reported on the appliation of mathematics to the engineering and economics in 1910.
-10. Introduced the concept of solvability of a differential equation in 1912.
+* Meshchersky taught in St Petersburg for 58 years.
+* Meshchersky is best known, however, for his work on the motion of bodies of variable mass which he described in January 1893 at a meeting of the St Petersburg Mathematical Society.
+* Even before he had submitted his dissertation Meshchersky had shown that he had another major interest in his life which was in teaching.
+* The St Petersburg Polytechnic Institute was being set up at this time and Meshchersky played a major role in developing the curriculum.
+* The course which Meshchersky developed in mechanics became famous and in 1914 he published a textbook on the topic A collection of problems of mechanics.
 
 Born 10 August 1859, Arkhangelsk, Russia. Died 7 January 1935, Leningrad, USSR (now St Petersburg, Russia).
 

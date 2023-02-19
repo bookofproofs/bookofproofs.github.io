@@ -7,10 +7,10 @@ orderid: 1909
 title: Montgomery, Deane
 born: 1909
 died: 1992
-keywords: Fields Medal, Brauer group, Macaulay inversion, algebraic geometry, birational geometry, American Journal of Geometry, Clay Mathematics Institute
-description: Deane Montgomery was a renowned American mathematician, awarded the Fields Medal in 1970 for his work in algebraic geometry. He wrote a seminal work, founded journals and institutions, and published widely, pioneering new approaches to geometry.
+keywords: deane montgomery,montgomery
+description: Deane Montgomery was an American mathematician who worked in algebraic and geometric topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Deane Montgomery** was an American mathematician who worked in algebraic and geometric topology.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Fields Medal in 1970 for his work in algebraic geometry.
-2. His work on the Brauer group established a groundbreaking method to use arithmetic geometry to study algebraic surfaces.
-3. Pioneered new techniques to study algebraic varieties, particularly an approach known as the Macaulay inversion.
-4. Wrote a book on algebraic geometry that has been considered a standard reference for the subject for more than three decades.
-5. Published widely on the subject and was instrumental in establishing the field of birational geometry.
-6. Founded the mathematical journal The American Journal of Geometry, which is dedicated to publishing work on the subject of geometric algebra.
-7. Co-founded the Clay Mathematics Institute and received a number of honors and awards for his contributions to the field of mathematics.
+* On 14 July 1933 Montgomery married Katharine Fulton.
+* In 1946 Montgomery left Smith College and accepted an appointment as an associate professor at Yale University.
+* Montgomery returned to the Institute for Advanced Study in 1948 as a permanent member, becoming a professor in 1951.
+* In 1988 Deane and Kay Montgomery moved to Chapel Hill to be near to their daughter Mary Heck and their two granddaughters.
+* Montgomery solved Hilbert's Fifth Problem in dimension three in 1948.
+* By 1952 Montgomery had solved Hilbert's Fifth Problem with the assumption of finite dimensionality and this restriction was finally removed by Yamabe who began working as Montgomery's assistant in 1952.
+* In 1955, in collaboration with Leo Zippin, Montgomery published the monograph Topological transformation groups.
+* Montgomery received many honours for his contributions.
+* Montgomery was elected a member of the National Academy of Sciences of the United States in 1955 and the American Academy of Arts and Sciences in 1958.
 
 Born 2 September 1909, Weaver, Minnesota, USA. Died 15 March 1992, Chapel Hill, North Carolina, USA.
 

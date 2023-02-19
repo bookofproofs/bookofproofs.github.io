@@ -7,10 +7,10 @@ orderid: 1685
 title: Berkeley, George
 born: 1685
 died: 1753
-keywords: George Berkeley, Irish bishop, philosophy, mathematics, attack, calculus, treatise
-description: George Berkeley, an Irish bishop and philosopher, conducted an attack on the calculus developed by Newton and wrote a treatise addressing principles of human knowledge.
+keywords: george berkeley,berkeley
+description: George Berkeley was an Irish bishop and philosopher whose best known contribution to mathematics is his attack on the logical foundation of the calculus as developed by Newton.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Berkeley** was an Irish bishop and philosopher whose best known contribution to mathematics is his attack on the logical foundation of the calculus as developed by Newton.
 
 ### Mathematical Profile (Excerpt):
-1. Presenting a new theory of vision in his treatise, Treatise Concerning the Principles of Human Knowledge (1710), which the British empiricist John Locke had addressed, but had not explained satisfactorily. 
-2. Writing one of the earliest works on calculus, The Analyst (1734), which included his famous ‘balancing argument’ and defined differential calculus for the purposes of infinitesimals and calculating an area and a volume under a curve. 
-3. Introducing a solution to the inverse square law of attraction in De Motu (1721).
-4. Creating a simplified and intuitive proof of The calculus of variations using the Theory of Fluxions.
-5. Proposing the notion of immaterialism, a concept which seeks to explain physical objects as mental constructions, in his Three Dialogues Between Hylas and Philonous (1713). 
-6. Contributing a great deal to the field of mathematics as a Fellow of Trinity College, Dublin and as the author of influential works such as The Theory of Vision (1709) and Alciphron (1732). 
-7. Developing a geometric approach to the projection of a series of immediately adjacent points on a plane by his theory of infinitesimals in the De Motu (1721). 
-8. Improving Isaac Newton's calculus by inventing a new form of derivatives called "fluxions". 
-9. Exploring the concept of a ‘chronometer’, or a way of measuring longitude on a ship, which he proposed in his Principles of Human Knowledge (1710).
+* William Berkeley was a gentleman farmer whose family originally came from Staffordshire in England while Elisabeth Southerne was the daughter of a Dublin brewer.
+* George grew up in Dysert Castle, near Thomastown, which his father owned.
+* Berkeley was working on these mathematics texts, whose full title is Arithmetica absque Algebra aut Euclide demonstrata (Arithmetic demonstrated without algebra or Euclid), waiting for the chance to compete for a fellowship.
+* This work, as the previous mathematical ones, clearly shows that Berkeley was much influenced by Locke.
+* Berkeley sent A Treatise concerning the Principles of Human Knowledge to Samuel Clarke and William Whiston.
+* Although Berkeley continued to hold his fellowship at Trinity College, Dublin, until 1724, he spent most of the period from 1713 to 1724 away from Dublin.
+* poor philosopher Berkeley has now 'the idea of health', which was very hard to produce in him; for he had 'an idea' of a strange fever on him so strong, that it was very hard to destroy it by introducing a contrary one.
+* Berkeley returned to Italy in 1716 with George Ashe, son of the Trinity College provost, and he spent four years there.
+* On the journey back to England Berkeley spent some time in Lyon where he wrote the essay De motu (On motion) which he submitted for the Grand Prix of the Academy of Sciences.
+* In May 1724 Berkeley resigned his position at Trinity College to become Anglican Dean of Londonderry, but he never resided in the city spending most of the next four years in London.
+* Their first two children Henry and George were born while the family lived near Newport, Rhode Island.
+* In January 1734 Berkeley was appointed Bishop of Cloyne and was consecrated in St Paul's Church, Dublin, on 19 May 1734.
+* In 1745, at the time of the Jacobite rebellion, Berkeley addressed Roman Catholics in his diocese, and in 1749 he addressed to the Roman Catholic Clergy A Word to the Wise.
+* Berkeley is best known in the world of mathematics for his attack on the logical foundation of the calculus as developed by Newton.
+* Berkeley's criticisms were well founded and important in that they focused the attention of mathematicians on a logical clarification of the calculus.
+* Maclaurin in Treatise on fluxions gave the best response to Berkeley.
+* By the late 1740s Berkeley's health was deteriorating.
+* Despite this he travelled with his wife to Oxford in July 1752 to see his second son George begin his studies at Christ Church.
 
 Born 12 March 1685, Kilkenny, County Kilkenny, Ireland. Died 14 January 1753, Oxford, England.
 

@@ -7,10 +7,10 @@ orderid: 1882
 title: Bartel, Kazimierz Władysław
 born: 1882
 died: 1941
-keywords: Kazimierz Bartel, Lwów School of Mathematics, Bartel-Livne, Faliski problem, formalism, Bartel – Lattice Axiom, Opera Mathematica
-description: Kazimierz Bartelwas a Polish mathematician, founder of the Lwów School, and president of Poland, who developed the renowned Bartel-Livne equation and Bartel – Lattice Axiom.
+keywords: kazimierz bartel,bartel
+description: Kazimierz Bartel was a Polish mathematician who went on to become president of Poland up to the first World War.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Kazimierz Bartel** was a Polish mathematician who went on to become president of Poland up to the first World War.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Lwów School of Mathematics, which has become an internationally acclaimed mathematical research and teaching institution. 
-2. Developed the Bartel-Livne equation, an important equation in mathematical hydrodynamics.
-3. Made numerous contributions to mathematical logic, including solving the Faliski problem and providing insight into formalism.
-4. He is best known for his work on the Bartel-Livne equation and its application to hydrodynamic stability. 
-5. He introduced the Bartel – Lattice Axiom, a highly influential axiomatic system important in mathematical logic.
-6. Authored two influential books, Leçons sur le calcul des variations and Opera Mathematica, which have become important contributions to mathematical literature.
-7. Received numerous awards and honours including the Kuyper Award in 1937 and honorary doctorate from The University of Liege in 1938.
+* In fact it became part of Austria when Poland was partitioned in 1772 and it was still a part of that country when Bartel was born there - so officially he was born in Lemberg.
+* Kazimierz's father was a railway engineer and, after Kazimierz had spent a short time in primary education at the Stryj Primary School, his father placed him with a friend to train as an apprentice fitter.
+* Kazimierz was lucky for this family friend taught at the Lemberg State Industrial School and, as well as training him to be a fitter, he encouraged the young boy to attend classes at this school but he also worked in the Stryj railway workshops as a locksmith.
+* During his time as a student, Bartel became actively involved in politics.
+* Bartel was awarded his doctorate in 1911 and, three years later, he was made a professor at the Lemberg Polytechnic.
+* Bartel was conscripted into the Austro-Hungarian army for the duration of World War I.
+* For Bartel, as for many Poles, the war was seen as a positive step which could lead to Poland regaining its sovereignty.
+* Bartel returned to his professorship at what was now called Lwów Polytechnic and in fact his book Descriptive geometry (Polish) was published around this time.
+* Bartel took a very active part in this defence of Lwów, commanding the railway troops in their battles with the Ukrainian army.
+* In 1919 Bartel gave up his professorship of mathematics at Lwów Polytechnic to assist in reforming Poland with a democratic constitution.
+* Bartel became a member of Poland's Sejm, its parliament, in 1922.
+* Pilsudski became Minister of Defence and Bartel was made Prime Minister of Poland.
+* From 1926 until 1930, Bartel was Prime Minister of Poland on five separate occasions.
+* As Prime Minister, Bartel was also keen to protect minorities in Poland.
+* During these years when Bartel was again an academic, he applied his knowledge and skills in geometry to a historical study of perspective in European painting.
+* This text of Bartel's is admirably straightforward in its methods.
+* After Bartel's death, a third edition was prepared by Antoni Plamitzer who only made minor changes to the text of the third edition.
+* In 1937 Bartel returned to politics when he was appointed a Senator of Poland.
+* In 1940 Bartel was appointed to Moscow and offered a seat in the Soviet parliament.
+* During the following night 36 other professors, Bartel's colleagues, were likewise arrested.
+* Bartel was not murdered with them.
+* Bartel was being held at Pelczynska street, and here it looks as if his treatment was reasonable.
+* Bartel received many honours and decorations.
 
 Born 3 March 1882, Lemberg, Austria-Hungarian Empire (now Lviv, Ukraine). Died 26 July 1941, Lwów, Poland.
 

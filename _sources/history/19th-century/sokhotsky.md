@@ -7,10 +7,10 @@ orderid: 1842
 title: Sokhotsky, Yulian-Karl Vasilievich
 born: 1842
 died: 1927
-keywords: Yulian Sokhotsky, Cauchy-Kowalewskaya theorem, linear differential equations, Euler-Jacobi equation, inverse problem, auxiliary hypergeometric functions, three-dimensional Cauchy problem
-description: Yulian Sokhotsky developed math theories on linear partial differential equations, the inverse problem of analytic geometry, auxiliary hypergeometric functions and more.
+keywords: yulian vasilievich sokhotsky,sokhotsky
+description: Yulian Vasilievich Sokhotsky was a Polish mathematician who worked on complex analysis and special functioins.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Yulian Vasilievich Sokhotsky** was a Polish mathematician who worked on complex analysis and special functioins.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Cauchy-Kowalewskaya theorem on the existence of solutions of linear partial differential equations.  
-2. Constructed the complete theory of linear and algebraic equations with partial derivatives. 
-3. Extended the Euler-Jacobi equation to partial differential equations.
-4. Expounded the theory of integral and differential equations.
-5. Discovered the inverse problem of analytic geometry.
-6. Developed the theory of elliptic functions and the corresponding algebraic systems.
-7. Developed the concept of auxiliary hypergeometric functions and the corresponding solution of linear differential equations.
-8. Developed a systematic approach to the theory of partial differential equations.
-9. Studied the characteristics of linear differential operators.
-10. Established the necessary conditions for the solvability of the three-dimensional Cauchy problem.
+* Sokhotsky was brought up in Warsaw where he attended Warsaw State Gymnasium for primary education from 1850.
+* In this thesis Sokhotsky discussed the Cauchy integral and the theory of analytic functions, which he called "single-valued".
+* Sokhotsky was appointed as an extraordinary professor after the award of his doctorate (essentially equivalent to the German habilitation) and then became an ordinary professor at the University of St Petersburg in 1883.
+* Sokhotsky was elected vice-president of the Mathematical Society of St Petersburg in 1890 and succeeded V G Imshenetsky as president in 1892.
+* Other topics which Sokhotsky studied included Zolotarev's theory of divisibility of algebraic numbers in The application of the principle of the greatest divisor to the theory of divisibility of algebraic numbers (1898).
 
 Born 2 February 1842, Warsaw, Russian Empire (now Poland). Died 14 December 1927, Leningrad, USSR (now St Petersburg, Russia).
 

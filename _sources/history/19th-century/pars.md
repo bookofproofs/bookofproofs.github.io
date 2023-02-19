@@ -7,10 +7,10 @@ orderid: 1896
 title: Pars, Leopold Alexander
 born: 1896
 died: 1985
-keywords: Leopold Pars, applied mathematics, textbooks, algebraic notation, mathematical theory, Fundamental Theorem, equations
-description: Leopold Pars, a British applied mathematician, authored textbooks and developed algebraic notation, properties of quadratic forms, the Fundamental Theorem of Algebra, and tests for equation consistency.
+keywords: leopold pars,pars
+description: Leopold "Alan" Pars was a British applied mathematician who is best known for his textbooks.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leopold "Alan" Pars** was a British applied mathematician who is best known for his textbooks.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algebraic notation for representing functions and relations between them.
-2. Discovered fundamental properties of quadratic forms, leading to the development of the theory of quadratic forms.
-3. Proved the Fundamental Theorem of Algebra, which states that all polynomial equations of degree higher than two have at least one complex root.
-4. Developed a set of tests to determine the consistency of equations.
-5. Developed a method for the integration of equations, now known as Pars-Finite integration.
-6. Published several papers related to cubic and quartic equations, which helped revolutionize the field of algebraic equations.
-7. Developed a new method for solving equations, now known as Pars-One method.
-8. Developed a method of defining rational functions using fractions, now known as Parsing fractions.
-9. Developed a new form of operators, now known as Pars-Operators, which allowed algebraic expressions to be written more concisely.
+* Somewhat confusingly, Leopold was known to his friends as Alan from his university days onward, but his family always called him Leo.
+* Although we shall call him "Pars" through most of this biography, nevertheless we shall sometime refer to him as "Leopold" and on the odd occasion as "Alan".
+* Leopold had a sister Dora who was four years older than he was, and the other member of the household was Aleathea Starling who not only was nursemaid to the two young children but also looked after the family home.
+* His schooling took place in London after his family moved to Shepherd's Bush in 1899 when Leopold was three years old.
+* Leopold was educated at Latymer Upper School in Hammersmith where, in addition to his academic work, he took part in sport, particularly in athletics.
+* Despite his ill health, Pars continued to take part in athletic events at University and won the Mile in the inter-University sports.
+* Alan, as Pars became known when he was an undergraduate, then took a London University M.Sc. and, in 1921, he was the First Smith's Prizeman at Cambridge.
+* Pars's first publications, influenced by Larmor and Eddington, were on relativity and were part of his prize essay.
+* We have mention above some of Pars' interests outside mathematics such as mountaineering anf the theatre.
 
 Born 2 January 1896, Whittlesford (8km south of Cambridge), England. Died 28 January 1985, Acton, England.
 

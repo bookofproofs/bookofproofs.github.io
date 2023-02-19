@@ -7,10 +7,10 @@ orderid: 1537
 title: Barocius, Franciscus
 born: 1537
 died: 1604
-keywords: Barozzi, Geometry, Theorem, Conic Sections, Trigonometry, Arc Measurement, Hyperbola
-description: Barozzi was an important Greek mathematician who advanced his field through his publications & research - geometry, theorem, conics, trig, arc measure & hyperbola.
+keywords: francesco barozzi,barocius
+description: Francesco Barozzi or Barocius was a Cretan who is important for translating Greek mathematical texts.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Francesco Barozzi** or **Barocius** was a Cretan who is important for translating Greek mathematical texts.
 
 ### Mathematical Profile (Excerpt):
-1. Published 'The Elements of Geometry' in 1570, establishing the Barozzi system of geometry.
-2. Developed Barozzi's theorem for the determination of a fourth proportional.
-3. Published 'Constructio Geometricae et Elenchus' in 1573, which appeared in a second edition in 1585 under the title of "Container conicorum".
-4. Developed a graph theory by making use of conic sections for the representation of geometric entities.
-5. Researched trigonometry and its applications in astronomy, optics and mechanics.
-6. Introduced degrees of arc measurement and was also the first to use triangles and rectangular coordinates to represent points in space.
-7. Constructed the earliest known equilateral hyperbola.
+* To understand events in Barozzi's life we need to look briefly at the history of Crete.
+* Francesco Barozzi's father was Iacopo Barozzi, a Venetian nobleman, and his mother was Fiordiligi Dorro the daughter of Nicolò; Dorro from Rettimo, a Cretan town which had been sacked by the Turks in 1534.
+* Francesco attended school in Padua where he learnt Greek and Latin, then he studied at the University of Padua where mathematics was part of his course.
+* Barozzi married Florida Florido, the daughter of Iacopo di Prato in 1572 but she died two years later after they had one son and one daughter.
+* Barozzi translated many other works including ones by Heron, Pappus and Archimedes.
+* Barozzi was tried by the Inquisition and found guilty in around 1583, although it is not known exactly what were the charges against him.
+* Found guilty of this, Barozzi had to provide silver crosses at the cost of 100 ducats and he received a suspended prison sentence.
 
 Born 9 August 1537, Candia (now Iráklion), Crete. Died 23 November 1604, Venice (now Italy).
 

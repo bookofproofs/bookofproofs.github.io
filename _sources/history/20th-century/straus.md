@@ -7,10 +7,10 @@ orderid: 1922
 title: Straus, Ernst Gabor
 born: 1922
 died: 1983
-keywords: Ernst Straus, Mathematics, Nonlinear, Partial Differential Equations, Wolf Prize, Singularity Theory, Ostrowski's Equations, Solutions
-description: Ernst Straus, Wolf Prize winner, was a famous American mathematician known for his work in relativity, combinatorics, and pioneering nonlinear PDEs.
+keywords: ernst straus,straus
+description: Ernst Straus was a German-born American mathematician who worked in a variety of areas including relativity and combinatorics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernst Straus** was a German-born American mathematician who worked in a variety of areas including relativity and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Wolf Prize in Mathematics in 1978 for his pioneering work on nonlinear partial differential equations.
-2. Authored over 150 publications in mathematics, including seven books.
-3. Developed theories on singularity theory, the Cauchy problem, and non-linear waves.
-4. One of the first researchers to study Ostrowski’s type equations.
-5. Established the theory of constant coefficient hyperbolic partial differential equations.
-6. Proposed new methods of rigorous solutions of boundary-value problems.
-7. Constructed the theory of general solutions, leading to the Straus’ theorem.
-8. Co-authored a monograph on nonlinear functional analysis with L. Nirenberg.
+* Ernst's father Elias Straus was an attorney.
+* It was also a large family with Ernst being the youngest of his parents five children; three daughters and two sons.
+* Later in 1933 Elias Straus died of cancer and right after this Rahel Straus and the rest of the family moved to Palestine and made their home in Jerusalem.
+* Ernst attended a number of different schools but he had no high school diploma when he entered the Hebrew University.
+* There he was taught by Motzkin who later emigrated to the United States and undertook joint work with Straus which we will discuss below.
+* Again Straus had no undergraduate degree when he went to the United States and enrolled in Columbia University in New York in 1941.
+* Before moving to Princeton, Straus married Louise Miller who was, like him, a graduate student at Columbia University.
+* They married in the autumn of 1944 and moved to Princeton where Straus began working with Einstein at the Institute for Advanced Study.
+* Louise and Ernst had two sons, Daniel born in 1954 and Paul born in 1957.
+* During the four years that Straus worked with Einstein they wrote three joint papers.
+* Straus submitted his doctoral thesis on Einstein's unified field theory to Columbia University and was awarded his doctorate in 1948.
+* Straus had been working with Einstein on mathematical physics yet while at Princeton he had developed an interest in number theory from Artin, Erdős, Selberg and Siegel.
+* In fact Straus became a close friend of Erdős and went on to write 21 joint papers with him over many years.
+* When he went to the University of California at Los Angeles as an instructor in mathematics in 1948, Straus therefore had already wide mathematical interests.
+* In 1949 Straus collaborated with Richard Bellman publishing Continued fractions, algebraic functions and the Padé table in which they gave a method for obtaining the rational approximants of Frobenius-Padé for power series expansions of algebraic functions.
+* Let us note that Straus had a close association with the Pacific Journal of Mathematics being on the editorial board from 1951 to 1964, and being the managing editor between 1954 and 1959.
+* Two years later Straus published Curvature in Hilbert geometries also written jointly with Kelly.
+* Straus wrote 21 joint papers with Erdős.
+* An earlier joint paper by Straus and Erdős was On linear independence of sequences in a Banach space (1953).
+* In this Straus showed that for every positive integer nnn, there exists a set A(m,n)A(m,n)A(m,n) of positive integers such that nnn has exactly mmm partitions into elements of A(m,n)A(m,n)A(m,n) for every m,1≤m≤p(n)m, 1 ≤ m ≤ p(n)m,1≤m≤p(n), where p(n)p(n)p(n) is the number of partitions of nnn.
+* Straus died of a massive heart attack at the age of 61.
+* This intellectual power was combined with a deep and radiant humanity which made Ernst truly beloved by his colleagues, students, and friends.
+* Ernst worked tirelessly on behalf of men and women who were unjustly persecuted by their governments for speaking out in defence of freedom.
 
 Born 25 February 1922, Munich, Germany. Died 12 July 1983, Los Angeles, California, USA.
 

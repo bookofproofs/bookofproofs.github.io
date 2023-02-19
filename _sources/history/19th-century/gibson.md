@@ -7,10 +7,10 @@ orderid: 1858
 title: Gibson, George Alexander
 born: 1858
 died: 1930
-keywords: Glasgow, Professor, Mathematics, PDEs, ODEs, Radial Basis Functions, Hyperbolic Equations
-description: George Gibson graduated from Glasgow University and became Professor of Mathematics. He researched PDEs, ODEs, Radial Basis Functions, and Hyperbolic Equations.
+keywords: george gibson,gibson
+description: George Gibson graduated from Glasgow University and went on to become Professor there. He published several important textbooks and was an enthusiast for the History of Mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Gibson** graduated from Glasgow University and went on to become Professor there. He published several important textbooks and was an enthusiast for the History of Mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed numerical methods for PDEs using spherical harmonics.
-2. Developed a classification system for multiple valued functions based on orders of contact.
-3. Demonstrated the stability of certain methods of solving certain classes of PDEs.
-4. Developed a method for solving nonlinear systems of ordinary differential equations.
-5. Discovered connections between the Riemann problem and certain types of nonlinear PDEs.
-6. Contributed to the use of compactly supported radial basis functions.
-7. Derived analytical expressions for the eigenvalues of certain classes of hyperbolic equations.
-8. Explored the Gibbs phenomenon in simple mathematical models.
-9. Explored methods for computing highly accurate numerical solutions to PDEs.
-10. Developed numerical methods for sparse linear systems.
+* Robert Gibson had taught himself Latin to be able to carry out research for a book he wrote on the history of Greenlaw.
+* George attended the Free Church School in Greenlaw until he was sixteen years old when he matriculated at the University of Glasgow.
+* In fact Gibson married while still an undergraduate.
+* Because of his health problems, Gibson only took an ordinary degree rather than an honours degree.
+* Gibson remained an Assistant until 1891 when a new Ordinance came into force which meant that from November of that year he became a Lecturer in Mathematics.
+* In 1895 Gibson was appointed as professor of mathematics at the Glasgow and West of Scotland Technical College (now Strathclyde University).
+* In 1909 Gibson was named professor at Glasgow University where he succeeded William Jack.
+* He was elected to the Royal Society of Edinburgh on 2 December 1889 having been proposed by Sir William Thomson (Lord Kelvin), William Jack, Sir Thomas Muir, and George Chrystal.
+* After Gibson's death his friends raised funds to endow a lecture on the history of mathematics, to be given about every four years.
 
 Born 19 April 1858, Greenlaw, Berwickshire, Scotland. Died 1 April 1930, Glasgow, Scotland.
 

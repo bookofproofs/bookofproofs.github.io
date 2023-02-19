@@ -7,10 +7,10 @@ orderid: 1877
 title: Drysdale, David
 born: 1877
 died: 1946
-keywords: Algebra, Geometry, Combinatorics, Duality, Drysdale Squares, Edinburgh University, London Mathematical Society
-description: David Drysdale: pioneering mathematician known for Algebra, Geometry, Combinatorics research & dev. of Duality, Drysdale Squares & receiving London Math Soc. & Cambridge honors.
+keywords: david drysdale,drysdale
+description: David Drysdale graduated from Edinburgh University and then taught at George Heriot's School Edinburgh, at the Royal Academy Irvine and at Arbroath High School.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**David Drysdale** graduated from Edinburgh University and then taught at George Heriot's School Edinburgh, at the Royal Academy Irvine and at Arbroath High School. 
+**David Drysdale** graduated from Edinburgh University and then taught at George Heriot's School Edinburgh, at the Royal Academy Irvine and at Arbroath High School.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the book Algebra; Principles and Processes (1974), which is still regarded as one of the seminal works in the field of algebra.
-2. Conducted pioneering research into the early development of modern algebra, studying the works of Greek matematicians.
-3. Played a major role in the development of the concept of duality, a fundamental idea in the field of algebraic geometry.
-4. Established one of the first courses in abstract algebra in the United Kingdom in the early 1950s.
-5. Developed the concept of "Drysdale squares" which are an essential tool in the field of Sylvester-Gallai theorems.
-6. Authored numerous influential papers and articles on algebra, geometry and combinatorics.
-7. Received multiple awards, including the Senior Berwick Prize of the London Mathematical Society (1953).
-8. Received an honorary doctorate from the University of Cambridge in 2001.
+* His mother was  Janet Drysdale (born in Dunfermline about 1849).
+* David Drysdale had siblings Magdalene (born about 1880), William (born about 1884) and  John Drysdale (born about 1889).
+* David Drysdale entered McLean's Public School, Dunfermline, when he was seven years old.
+* He was in the same class as David Johnstone and the two became friends (they went together when they first matriculated at Edinburgh University and appear in the Matriculation Album as consecutative entries).
+* In Edinburgh Drysdale lived at 7 Cambusnethan Street.
+* Drysdale passed English at Higer level in the Scottish Leaving Certificate examinations in June 1894, then, also at the Higher grade, Mathematics, Latin, and Greek in June of the following year.
+* In 1899, the year in which he graduated M.A., Drysdale applied to join the Edinburgh Mathematical Society.
+* By this time Drysdale was teaching at the school at which he himself had been a pupil during the bulk of his secondary education, namely George Heriot's School, Edinburgh.
+* After six years, in 1910, Drysdale moved from Irvine to the High School, Arbroath, returning to Scotland's east coast.
 
 Born 28 December 1877, Dunfermline, Fife, Scotland. Died 14 October 1946, Edinburgh, Scotland.
 

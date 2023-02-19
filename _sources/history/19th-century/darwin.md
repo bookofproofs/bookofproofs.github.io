@@ -7,10 +7,10 @@ orderid: 1845
 title: Darwin, George Howard
 born: 1845
 died: 1912
-keywords: George Darwin, Mathematician, Three-Body-Problem, Tides, Volcanoes, Force, Moon
-description: George Darwin, English Mathematician, formulated theories on tides, volcanoes and force, and even calculated the orbits of binary stars. He wrote the influential book, "Tidal Theory", in 1883.
+keywords: george darwin,darwin
+description: George Darwin was an English mathematician who was a son of Charles Darwin and studied the three-body-problem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Darwin** was an English mathematician who was a son of Charles Darwin and studied the three-body-problem.
 
 ### Mathematical Profile (Excerpt):
-1. Devised the principle of the transfer of energy in tidal waves.
-2. Developed theories on how volcanoes are formed.
-3. Proposed a thesis on tidal convergence and retention.
-4. Developed the theories of tidal friction and tidal period.
-5. Published a series of articles on the theories of volcano formation and the effect of the moon upon the Earth’s tides.
-6. Envisioned the centrifugal force idea which lead to him explaining the origin of the moon.
-7. Established the mathematical equation for understanding the shapes curves assume with the conditions of constant force.
-8. Calculated the secular acceleration of the Moon’s mean motion.
-9. Discovered the orbits of binary stars by applying Newton's laws of motion and gravity to two objects. 
-10. Published a book titled "Tidal Theory" in 1883 which contributed to the understanding of tides in astronomy.
+* George's mother Emma Wedgwood was from another famous family, being a granddaughter of Josiah Wedgwood who is famed for his world famous pottery.
+* Darwin excelled at Pritchard's school and he won a scholarship to study at Trinity College, Cambridge.
+* Many top graduates from Cambridge from this period entered the legal profession and that indeed is what Darwin did, being called to the Bar in 1874.
+* However it was not uncommon for some to return to mathematical or other scientific study and Darwin followed this route returning to Trinity where he still held his fellowship.
+* In 1884 Darwin married Maud du Puy; they had four children, two boys and two girls.
+* Darwin studied tidal effects on the planets.
+* Darwin made a major study of the three-body problem in the case of the orbits of the Sun-Earth-Moon system.
+* Despite the fact that we do not accept Darwin's conclusions today, he is important in being the first to apply mathematical techniques to study the evolution of the Sun-Earth-Moon system.
+* Darwin was President of the Royal Astronomical Society in 1899-1900 and won the Gold Medal from that Society 1892.
 
 Born 9 July 1845, Downe, Kent, England. Died 7 December 1912, Cambridge, England.
 

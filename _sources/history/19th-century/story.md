@@ -7,10 +7,10 @@ orderid: 1850
 title: Story, William Edward
 born: 1850
 died: 1930
-keywords: William Story, Mathematics, Symbolic Logic, Abstract Algebra, Higher Algebra, Symbolical Geometry, Algebraic Theory, Algebraic Geometry
-description: William Story was an American mathematician who developed the concepts of symbolic logic and symbolical geometry, as well as authored numerous articles and books on higher algebra and algebraic theory.
+keywords: william story,story
+description: William Story was an American mathematician important in the development of mathematics at Johns Hopkins University and Clark Universities.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Story** was an American mathematician important in the development of mathematics at Johns Hopkins University and Clark Universities.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of "symbolic logic," using symbols to represent logical operations in equations. 
-2. Authored numerous articles and books on logic and its application to algebra, geometry, and other mathematical fields.
-3. Became a prominent figure in the field of mathematics, contributing to the emergence of abstract algebra and the concept of "higher algebra."
-4. Was the first lecturer appointed to a mathematics lectureship at Oxford University in 1874.
-5. Developed the concept of "symbolical geometry," a method of applying algebraic methods to solve geometrical problems. 
-6. Co-authored a textbook on higher algebra (1878), forming the basis of modern algebraic notation.
-7. His treatise ‘A Treatise on the Theory of Algebraic Equations’ (1879) established his reputation in the field of algebraic theory. 
-8. Published ‘The Laws of Versor Algebra’ (1880), which founded the modern field of algebraic geometry.
+* An important figure in America's late-nineteenth-century emergence from the mathematical backwaters was William Edward Story.
+* Thus not only was Story a central actor in the development of American mathematics, but also his career was a microcosm of the new mathematical activity.
+* Having given this quote to put Story's career into context, let us give further details.
+* One of Eliot's first moves was to set up an honour programme and Story was one of the first to graduate with honours, which he did in 1871.
+* After the award of his doctorate, Story returned to Harvard where he was appointed as a tutor.
+* Indeed there was an obvious choice for a recommendation and Story was offered a position in Johns Hopkins by Sylvester which he was happy to accept.
+* At first things went well at Johns Hopkins for Story who tried to develop the department on the German model that he had come to appreciate so much during the time he worked there for his doctorate.
+* These tensions were not personal, but rather concerned editorial decisions which Story had made.
+* Story resigned from the editorial board and was pleased to leave Johns Hopkins after he received an offer from another new university, this time Clark University which opened in Worcester, Massachusetts, in 1887.
+* The University hired some excellent mathematicians, and there Story became a colleague of Henry Seely White and Oskar Bolza.
+* Story, however, remained at Clark despite the fact that he only had two colleagues to help him run the Ph.D. programme.
+* In fact it was a very successful programme for 25 students were awarded their doctorates between 1892 and 1921, with sixteen of these students having their work supervised by Story.
+* Financial problems made Clark university close its graduate programme in 1919 and Story was forced to retire.
+* He had become interested in the history of mathematics during the latter part of his career, writing a paper on Omar Khayyam in 1919.
+* Among the honours given to Story, perhaps the greatest was election to the National Academy of Sciences (United States) in 1908.
 
 Born 29 April 1850, Boston, Massachusetts, USA. Died 10 April 1930, Worcester, Massachusetts, USA.
 

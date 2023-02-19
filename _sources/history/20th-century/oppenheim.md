@@ -7,10 +7,10 @@ orderid: 1903
 title: Oppenheim, Alexander Victor
 born: 1903
 died: 1997
-keywords: Measure Theory, Number Theory, Calculus, Nonstandard Analysis, Free Choice Sequences, Nullstellensatz, Zorn's Lemma
-description: Alexander Oppenheimwas a British mathematician who developed measure theory, necessary for modern probability, and other important mathematical advances such as the Zorn's Lemma.
+keywords: alexander oppenheim,oppenheim
+description: Alexander Oppenheim was a British mathematician who worked in number theory. He became vice-chancellor of the University of Malaya.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Oppenheim** was a British mathematician who worked in number theory. He became vice-chancellor of the University of Malaya.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theory of measures, which provided the foundation for modern probability theory.
-2. Established the foundations of measure theory, which is essential for understanding basic concepts in mathematics such as sequence, function and integration.
-3. Pioneered the axiomatic approach to measure theory, which laid the groundwork for the development of abstract measure theory.
-4. Provided the first example of a measure-theoretic probability space, which laid the foundation for probability theory in general.
-5. Developed the first fundamental theorem of calculus, which established the relationship between calculus and measure theory.
-6. Formulated the concept of nonstandard analysis, which introduced powerful new ideas to mathematics.
-7. Coined the term "measure theory" in the early twentieth century.
-8. Put forward the ideas of free choice sequences, which have shown to be useful in game theory and stochastic processes.
-9. Proved Hilbert's Nullstellensatz, an important tool in algebraic geometry.
-10. Discovered the Zorn's Lemma, which has become a fundamental tool in mathematics.
+* Alexander grew up in Manchester, only learning English as a second language after he had learnt Yiddish.
+* At Oxford, Oppenheim excelled in his academic studies but also took part in other university activities.
+* This paper contains what is now known as the Oppenheim Conjecture.
+* Following the award of his doctorate, Oppenheim was appointed as a lecturer at the University of Edinburgh in Scotland.
+* They had met in Chicago while Oppenheim was studying there for his doctorate.
+* Oppenheim held his position in Singapore until 1942 when the Japanese invaded the country.
+* With fears of war increasing, Oppenheim joined the Singapore Reserve Army having the rank of lance-bombardier.
+* On 8 February 1942 the Japanese crossed the Johore Strait and around 80000 allied forces, with Oppenheim among them, were penned inside a small area around Singapore city.
+* Although they were desperately short of paper for assignments, Oppenheim and his colleagues succeeded in persuading an untypically sensitive Japanese officer, Lieutenant Okazaki, to allow the collection of books from Raffles College as a nucleus for a library.
+* These efforts lent purpose to many in despair, even after the venture was disrupted by transfers, including Oppenheim whose health meantime deteriorated further, to construction camps along the Siam (Thailand)-Burma Railway.
+* After Japanese control of Singapore ended in September 1945, Oppenheim was able to return to Raffles College.
+* Oppenheim was Deputy Principal of Raffles College from 1947 until 1949.
+* In 1957 Sir Sydney Caine resigned as Vice-Chancellor of the University of Malaya to become the Director of the London School of Economics and he proposed Oppenheim as his successor.
+* At this stage Oppenheim became Vice-Chancellor of the University of Malaya, an entirely Singapore based institution, but, two years later, he became Vice-Chancellor of the University of Malaya with one campus in Singapore and another in Kuala Lumpur.
+* Although Oppenheim held the title of Vice-Chancellor of the University of Malaya from 1957 to 1965, when he retired, he in fact held successively three different jobs.
+* You can read extracts from Oppenheim's 1961 address given to students graduating from the University of Malaya.
+* You can read extracts from Oppenheim's article "Asia in 1984" written in 1964 while he was Vice-Chancellor of the University of Malaya.
+* After Oppenheim retired as Vice-Chancellor of the University of Malaya in 1965 he spent a number of years as a Visiting Professor of Mathematics.
+* After this spell at the University of Benin, Oppenheim retired to Henley-on-Thames in England.
+* Oppenheim received many honours for his contributions to mathematics and to higher education.
+* But it is also due in great measure to the active co-operation and goodwill of individuals, such as Dr Alexander Oppenheim, Vice-Chancellor of the University of Malaya, whom we gladly welcome into our society today.
 
 Born 4 February 1903, Salford, Lancashire, England. Died 13 December 1997, Henley-on-Thames, England.
 

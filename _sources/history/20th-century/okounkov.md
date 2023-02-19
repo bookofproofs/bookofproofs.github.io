@@ -7,10 +7,10 @@ orderid: 1969
 title: Okounkov, Andrei Yuryevich
 born: 1969
 died: 0
-keywords: Fields Medal, Probability, Representation Theory, Algebraic Geometry, Okounkov Conjecture, Mai-Okounkov theory, Littlewood-Richardson Problem
-description: Andrei Yuryevich Okounkov won the Fields Medal in 2006 for his work bridging probability, representation theory and algebraic geometry.
+keywords: andrei yuryevich okounkov,okounkov
+description: Andrei Yuryevich Okounkov won a Fields Medal in 2006 for his contributions bridging probability, representation theory and algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Andrei Yuryevich Okounkov** won a Fields Medal in 2006 for his contributions bridging probability, representation theory and algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Fields Medal in 2006 for his work on "bridging probability, representation theory, and algebraic geometry"
-2. Proved Okounkov's Conjecture, which states that there is a finite limit to the number of rational points on rational surfaces
-3. Proposed a new approach to represent theory, now known as the Mai-Okounkov theory
-4. Solved the long-standing Littlewood-Richardson problem
-5. Developed a Poisson-Lie action on Nakajima varieties 
-6. Contributed to the theory of integrable systems 
-7. Initiated breakthrough research on the arithmetic geometric mean 
-8. Developed the Okounkov bodies theory, describing the geometry of linear systems of divisors on a variety 
-9. Authored four books, including Theorem of a Failed Artist (2006) and Lectures on Representation Theory and Knizhnik-Zamolodchikov equations (2005) 
-10. Served as a professor at Princeton University in 2004-2005
+* After the award of his first degree, Okounkov remained at Moscow State University undertaking research for his Candidate's degree (equivalent to a Ph.D.) supervised by Alexander Aleksandrovich Kirillov.
+* Okounkov was awarded his Candidate's degree in 1995 for his thesis Admissible Representation of Gelfand Pairs Associated with the Infinite Symmetric Group.
+* In 2002 Okounkov was appointed as a Professor at Princeton University.
+* Okounkov gave the first proof of the celebrated Baik-Deift-Johansson conjecture, which states that the asymptotics of random partitions distributed according to the Plancherel measure coincides with that of the eigenvalues of large Hermitian matrices.
+* An important and influential result of Okounkov is a formula he found in joint work with Borodin, which expresses a general Toeplitz determinant as the Fredholm determinant of the product of two associated Hankel operators.
+* The new techniques of working with random partitions invented and successfully developed by Okounkov lead to a striking array of applications in a wide variety of fields: topology of module spaces, ergodic theory, the theory of random surfaces and algebraic geometry.
+* Okounkov left Princeton in 2010 to take up a professorship of mathematics at Columbia University in New York.
 
 Born 26 July 1969, Moscow, Russia.
 

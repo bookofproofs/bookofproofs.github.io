@@ -7,10 +7,10 @@ orderid: 1922
 title: Gluskin, Lazar Matveevich
 born: 1922
 died: 1985
-keywords: Ukranian, mathematician, semigroups, linear transformations, interval analysis, probability, theory of functions
-description: Lazar Gluskin was a Ukranian mathematician who made major contributions to the fields of semigroups, linear transformations, interval analysis, probability, and the theory of functions.
+keywords: lazar matveevich gluskin,gluskin
+description: Lazar Gluskin was a Ukranian mathematician who worked on semigroups of linear transformations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lazar Gluskin** was a Ukranian mathematician who worked on semigroups of linear transformations.
 
 ### Mathematical Profile (Excerpt):
-1. He published several notable books on the history of mathematics, including Analysis by the Method of Interval in 1885, which is considered to be the first textbook in the field of interval analysis.
-2. He was elected a member of the Royal Academy of Sciences of Russia in 1885.
-3. He was awarded a gold medal by the St. Petersburg Academy of Sciences (now the Russian Academy of Sciences) in 1900 in recognition of his research.
-4. He published several papers focused on the mathematics of probability, the theory of circles, and the foundations of analysis in the late nineteenth and early twentieth centuries.
-5. He wrote a major treatise on the theory of functions, titled Fundamentals of the Theory of Functions, which was published in 1911.
-6. He also established the theory of quadratures, which greatly impacted how integrals are computed in modern mathematics.
-7. He was the first to prove that the sum of the exterior angles of any convex polygon is equal to twice the sum of its interior angles.
+* However, Donetsk was formerly (until 1924, so for the first two years of Gluskin's life) Yuzovka, then (1924-61) Stalino.
+* Lazar Matveevich was born into a Jewish family.
+* Walking, riding in railway freight cars, hitchhiking, Gluskin managed to escape.
+* But Gluskin was determined to study mathematics and returned to Kharkov University.
+* There his studies were supervised by Anton Kazimirovic Suschkevic, one of the first mathematicians to make major progress in the theory of semigroups, and in 1949 Gluskin was awarded his Diploma in Mathematics.
+* Although by now a great enthusiast for semigroups, Gluskin could not continue to undertake research at Kharkov University but was forced to take a teaching position at the Kharkov Pedagogical Institute.
+* Gluskin and his wife Tamara lived in a tiny cubicle in a student hostel, and when their first child Irina arrived he was finishing his dissertation using the only "office space" available: the staircase outside their room.
+* However, Kharkov was an important cultural centre and Gluskin was able to mix with many leading mathematicians there.
+* This small town had only one plus for Gluskin, and that was the fact that he was offered an appartment to rent by his employer, so his family's living conditions were vastly improved by the move.
+* The first of Gluskin's papers An associative system of square matrices (Russian) appeared in 1954.
+* In 1961 Gluskin's quality research was recognised when he was awarded a Doctor of Sciences degree from Moscow University.
+* It was A G Kurosh, who held the Chair of Algebra at Moscow University, who organised that Gluskin defend his thesis there for the higher degree.
+* The award of the degree helped Gluskin to become a full professor at the Institute of Mining and Metallurgy in Voroschilovsk in 1962 and, three years later, to return to Kharkov to the chair of mathematics at the Kharkov Mining Institute.
+* His health began to deteriorate and in 1968 S D Berman took over the chair while Gluskin continued to work as professor of mathematics relieved of the extra work and responsibilities of the chair.
+* For many years Gluskin worked on dense extensions of commutative semigroups.
+* If Gluskin was sure that the mathematical substance of the results was sound, he was there to help - even if this could hurt his own career.
 
 Born 10 March 1922, Artemovsk (now Bakhmut) Donetsk Province, Ukraine. Died 15 April 1985, Kharkov, Ukraine.
 

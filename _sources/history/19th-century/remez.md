@@ -7,10 +7,10 @@ orderid: 1896
 title: Remez, Evgeny Yakovlevich
 born: 1896
 died: 1975
-keywords: Evgeny Remez, Algorithms, Polynomial Approximation, Bernstein's Inequality, Spectral Theory, Calculus of Variations, Conformal Mappings
-description: Evgeny Remez was a Belarus mathematician noted for his work in algorithms, polynomial approximation, Bernstein's inequality, spectral theory, calculus of variations, and conformal mappings.
+keywords: evgeny remez,remez
+description: Evgeny Yakovlevich Remez was a Belarus mathematician. He is known for his work in the constructive function theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Evgeny Yakovlevich Remez** was a Belarus mathematician. He is known for his work in the constructive function theory.
 
 ### Mathematical Profile (Excerpt):
-1. Evgeny Remez was the first mathematician to develop an algorithm for determining the distance between two points on a sphere.
-2. He also developed an algorithm to calculate the area of a triangle on a sphere.
-3. He established a method of polynomial approximation which is now known as the Remez algorithm.
-4. He was the first to prove Bernstein's inequality, a result in Fourier analysis.
-5. He developed the mathematical theory known as the spectral theory of linear operators in Hilbert space.
-6. He introduced the concept of the “spectral density”, an important tool in spectral theory.
-7. He published numerous original works on the calculus of variations and the theory of extremal problems.
-8. He was the first to prove the Hicks theorem on analytic branches. 
-9. He developed a unified theory of point transformations, providing a new and more powerful tool for solving systems of linear equations. 
-10. He proposed a theorem related to the singularities of conformal mappings, now known as the Remez theorem.
+* Remez graduated in 1924 and began to teach both at the Institute of Public Education and at the Mechanical Trade School.
+* Remez lived in Kiev, teaching at various institutions there, for most of his life.
+* The Institute of Mathematics had only been founded in Kiev shortly before Remez began to work there.
+* Now we said above that Remez obtained his Ph.D. in 1929.
+* Professorships were only open to those holding the degree of Doctor of Sciences, so it was important to Remez that he work towards this degree.
+* In the mid 1930s, he developed general computational methods of Chebyshev approximation and the Remez algorithm which allows uniform approximation.
+* Remez generalised Chebyshev-Markov characterisation theory and used it to obtain approximate solutions of differential equations.
+* For some mathematicians, Remez is best known as the author of the book General computation methods for Chebyshev approximation.
+* Of course this was a topic which developed quickly over the following years, much of the development being due to Remez and his students.
+* Not only did Remez develop techniques which originated with Chebyshev, but he also became an expert on Chebyshev and his work.
+* Remez lectured at this meeting on Chebyshev's work on approximation theory.
+* In 1974 Remez published Some of the principal divisions of P L Chebyshev's scientific activity (Ukrainian) which discussed Chebyshev's contributions to number theory, the theory of mechanisms, approximation of functions, minimax problems, and cartography.
 
 Born 17 February 1896, Mstsislau, Mahiliou gubernia, Belarus. Died 31 August 1975, Kiev, Ukranian SSR (now Kyiv, Ukraine).
 

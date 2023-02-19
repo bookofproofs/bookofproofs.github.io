@@ -7,10 +7,10 @@ orderid: 1936
 title: Tichy, Pavel
 born: 1936
 died: 1994
-keywords: Pavel Tichy, Czech mathematician, New Zealand, Interpolation, Jacobi, Newton's Iterative, Calculus, Optimization, Algorithms
-description: Czech mathematician Pavel Tichy developed numerical algorithms, interpolation methods, and mathematical optimization techniques that revolutionized mathematical logic.
+keywords: pavel tichy,tichy
+description: Pavel Tichy was a Czech mathematician who spent most of his career in New Zealand. He worked in mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pavel Tichy** was a Czech mathematician who spent most of his career in New Zealand. He worked in mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Tichy-Lagrange interpolation method for interpolating a polynomial of arbitrary degree. 
-2. Developed a numerical algorithm for solving large linear equations based on Jacobi's method.
-3. Discovered a method of finding a solution to a system of polynomial equations using Newton's Iterative Method.
-4. Published several papers on numerical analysis and mathematical optimization. 
-5. Co-authored a book on calculus, titled Calculus: An Introduction. 
-6. Developed the Tichy-Egorov algorithm to calculate the local state of water masses. 
-7. Developed a numerical integration algorithm for solving differential equations. 
-8. Co-authored a book on partial differential equations.
-9. Developed a fast matrix multiplication algorithm. 
-10. Devised a numerical algorithm for solving the traveling salesman problem.
+* Tichy's second book, The Logical Structure of Scientific Language, was published in Czech in 1968.
+* There had been problems in the Czech universities from around the time that Tichy became a lecturer.
+* Before the Soviet invasion Tichy had received an invitation from the University of Exeter in England and, although he had not left Czechoslovakia when the invasion took place, nevertheless he was later allowed to leave the country.
+* Tichy was appointed as Senior Lecturer in the Department of Philosophy at the University of Otago in Dunedin, New Zealand, in 1971.
+* Tichy was now in a position to return to his native country.
+* Let us mention briefly some of Tichy's works.
 
 Born 18 February 1936, Brno, Czechoslovakia (now Czech Republic). Died 1994, Dunedin, New Zealand.
 

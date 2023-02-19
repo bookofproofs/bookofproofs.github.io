@@ -7,10 +7,10 @@ orderid: 1891
 title: Besicovitch, Abram Samoilovitch
 born: 1891
 died: 1970
-keywords: Abram Besicovitch, measure, Besicovitch number, syndetic covering theorem, point-set topology, vector measure, Besicovitch Summability Theorem, pumping theorem, Banach Spaces
-description: Abram Besicovitch was a Russian mathematician whose work in functions of a real variable led to the development of measure theory, the Besicovitch Almost Periodic Functions theorem, and the Besicovitch Covering Property.
+keywords: abram samoilovitch besicovitch,besicovitch
+description: Abram Besicovitch was a Russian mathematician who worked mainly in England on functions of a real variable, analytic functions and almost periodic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abram Besicovitch** was a Russian mathematician who worked mainly in England on functions of a real variable, analytic functions and almost periodic functions.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first mathematician to define the concept of a measure, which led to the development of a rigorous theory of integration.
-2. He introduced the concept of the Besicovitch number for the study of non constancy of the harmonic measure. 
-3. He formulated the syndetic covering theorem, a generalization of the Vitali covering theorem from integrals to sets.
-4. He was the first person to note the connection between point-set topology and measure theory.
-5. He proved the Besicovitch Almost Periodic Functions theorem, a form of generalized Fourier series.
-6. He described the concept of 'vector measure,' which has applications in partial differential equations.
-7. He proved the Besicovitch Summability Theorem, which states that a series of real numbers can be summable to any given degree.
-8. He was the first to systematically study irrational numbers using metric geometry. 
-9. He made major contributions to symmetry sets, including the 'pumping theorem' which he described in depth in his paper 'Symmetry Sets'.
-10. He made significant advances in the area of Banach Spaces and introduced the Besicovitch Covering Property to show that any discrete set in a Banach space is a coverable set.
+* Samuel Besicovitch had been a jeweller but his jeweller's shop had hit hard times through theft and he gave up the business and became a cashier.
+* All the six children, four boys and two girls, were highly talented, with Abram Samoilovitch as the fourth in this family of six who would all excel in their studies at the University of St Petersburg.
+* Eva Besicovitch married so young that she never had the opportunity of a proper education, but the children always felt that their mathematical talents came through her.
+* Besicovitch showed remarkable mathematical talents at a young age and his father strongly encouraged him by demanding that he push himself to the limit in solving mathematical problems.
+* In 1916 Besicovitch married Valentina Vietalievna who was herself a mathematician and somewhat older than Besicovitch.
+* This in itself presented problems since, as Valentina Vietalievna was of the Orthodox faith and Besicovitch was a Karaim, they were not allowed to marry.
+* Besicovitch was accepted into the Russian Orthodox Church so that the marriage could take place.
+* In 1917 the University of Perm became an independent institution and in that year Besicovitch was appointed professor of mathematics there.
+* As the Red Army had approached, all the staff except Besicovitch had left the University.
+* Perm suffered badly in the troubles of 1919 despite the best efforts of Besicovitch to protect the books and other university property.
+* Besicovitch had to teach people without any educational background and he was very unhappy.
+* Besicovitch left Petrograd for Copenhagen in 1924 and there worked with Harald Bohr.
+* After he visited Oxford in 1925 Hardy, who quickly saw the mathematical genius in Besicovitch, found a post for him in Liverpool.
+* Besicovitch's wife had remained in Russia when he had escaped in 1924 and the marriage was dissolved in 1928.
+* At Cambridge Besicovitch lectured on analysis in most years but he also gave an advanced course on a topic which was directly connected with his research interests such as almost periodic functions, Hausdorff measure, or the geometry of plane sets.
+* Besicovitch never seems to have been troubled in this way.
+* Besicovitch, around 1930, extended his density properties of sets to those of finite Hausdorff measure.
+* The figures that resulted from Besicovitch's construction were highly complicated, unbounded figures.
+* Other areas on which Besicovitch worked included geometric measure theory, Hausdorff measure, real function theory, and complex function theory.
+* In addition to this work on deep mathematical theories, Besicovitch loved problems, particularly those which could be stated in elementary terms but which proved resistant to attack.
+* Besicovitch showed that this was false and that the man had a path which meant that the lion would never catch him, although he would come arbitrarily close.
+* Besicovitch received many honours for his work.
 
 Born 24 January 1891, Berdyansk, Russia. Died 2 November 1970, Cambridge, England.
 

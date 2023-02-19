@@ -7,10 +7,10 @@ orderid: 1951
 title: Mori, Shigefumi
 born: 1951
 died: 0
-keywords: Shigefumi Mori, Fields Medal, Algebraic Geometry, Tate Conjecture, Japan Academy, French Academy of Sciences, Mori Dream Project
-description: Shigefumi Mori is a Japanese mathematician who won the Fields Medal in 1990 for work in algebraic geometry and was appointed to the Japan Academy in 1989. He also contributed to solving the Tate Conjecture, established the Mori Dream Project and was elected to the French Academy of Sciences.
+keywords: shigefumi mori,mori
+description: Shigefumi Mori is a Japanese mathematician who won a Fields Medal for his work on algebraic manifolds.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Shigefumi Mori** is a Japanese mathematician who won a Fields Medal for his work on algebraic manifolds.
 
 ### Mathematical Profile (Excerpt):
-1. Winning the Field's Medal in 1990 for his work in the field of algebraic geometry.
-2. Proved the Tate conjecture, a longstanding problem in algebraic geometry, in 2001.
-3. Served as the president of the International Mathematical Union from 2011-2014.
-4. Established the Mori Dream Project in 1984, which awards grants	to young researchers for their achievements in mathematics.
-5. Appointed to the Japan Academy in 1989 in recognition of his achievements in mathematics.
-6. Authored over 200 publications and textbooks in algebraic geometry.
-7. Elected to the French Academy of Sciences in 2003.
-8. Contributed to the resolution of the problem of quartic equations in algebraic geometry.
+* After the award of his Ph.D., Mori remained as an assistant at Kyoto until 1980 when he was appointed as a lecturer in mathematics at the University of Nagoya.
+* In 1990 Mori returned to a chair at Kyoto University.
+* Mori works on algebraic geometry.
+* Mori's work achieved a remarkable continuation of classification efforts in algebraic geometry and in many ways provides a fitting chapter in the progress of algebraic geometry through the 20th  century.
+* Mori was awarded a Fields Medal at the 1990 International Congress which was held in the city in which he had studied as a student, namely Kyoto in Japan.
+* In 1981 Mori completed the classification of Fano 3-folds and worked on the minimal model programme.
+* Shigefumi Mori initiated the program with a decisively new and powerful technique, guided the general research direction with some good collaborators along the way, and finally finished up the program by himself overcoming the last difficulty.
+* Mori has received many other awards for his outstanding work.
+* The same year as he was awarded the Fields Medal, in 1990, Mori was awarded the Cole Prize in Algebra from the American Mathematical Society.
+* Mori took the decisive steps over a ten-year period in extending the classical theory of algebraic surfaces to dimension three: prior to Mori's breakthroughs this problem seemed out of reach.
+* Mori's beautiful work also makes major inroads into the problem in higher dimensions.
+* In 1998 Mori published the monograph Birational geometry of algebraic varieties which he coauthored with János Kollár.
+* Mori continues to publish important papers such as: Rational curves on algebraic varieties (2000), (with O Fujino) A canonical bundle formula (2000), Semistable extremal neighborhoods (2002), (with V Alexeev) Bounding singular surfaces of general type (2003), and (with Y Prokhorov) Q-conic bundles (2008).
 
 Born 23 February 1951, Nagoya, Japan.
 

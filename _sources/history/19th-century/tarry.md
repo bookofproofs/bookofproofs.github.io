@@ -7,10 +7,10 @@ orderid: 1843
 title: Tarry, Gaston
 born: 1843
 died: 1913
-keywords: Gaston Tarry, combinatorialist, mazes, mathematics, graph theory, prime numbers, Kepler-Bouwkamp theorem
-description: Gaston Tarry, a French combinatorialist, is best known for his work on mazes. He wrote two books on mathematics and developed several methods including the Tarry-Escott problem and Tarry-Gorenstein theorem.
+keywords: gaston tarry,tarry
+description: Gaston Tarry was a French combinatorialist whose best-known work is a method for solving mazes.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gaston Tarry** was a French combinatorialist whose best-known work is a method for solving mazes.
 
 ### Mathematical Profile (Excerpt):
-1. Authored two books on the subject of mathematics: 'A Treatise on Mathematics' (1899) and 'The Fundamental Principles of Mathematics' (1902).
-2. Developed the Tarry-Escott problem of graph theory.
-3. Discovered the Tarry-Gorenstein theorem in 1909, which showed that any two planar figures of arbitrary dimensions could be decorated with the same set of line segments.
-4. Developed several novel methods in number theory, including the use of prime numbers in patterns and the use of transcendental numbers in equations.
-5. Constructed a self-contained elementary proof of the Kepler-Bouwkamp theorem, which states that any line linking the vertices of a triangle divides the area of the triangle into three equal parts.
-6. In 1897 proposed a set of 13 equations that form a basis for solving the cubic equation. 
-7. Published his monograph 'Theoretical Arithmetic' in 1910.
+* Tarry was part of the French administration in Algeria, retiring in 1902.
+* Although an amateur mathematician, Tarry had an amazing ability to analyse combinatorial problems.
+* Tarry was not the first to give a systematic method so solve a maze, for Trémaux had found a method which was reported by Lucas in 1881.
+* Tarry also solved Euler's 36 Officer Problem, proving that two orthogonal Latin squares of order 6 do not exist.
+* Before explaining Tarry's contributions to magic squares, let us introduce some terminology.
+* Such squares were well known long before Tarry's time.
+* Tarry was right to be astonished because Brutus Portier was wrong.
+* Panmagic squares of order 3n3n3n, where nnn is not divisible by 3, do exist and indeed Tarry was the first to prove this when he constructed the first panmagic square of order 15.
+* This began Tarry's interest in magic squares, which one has to suggest, turned into a passion.
+* Tarry was the first to find an example of a trimagic square.
+* Poincaré was so impressed by Tarry's results that he presented them to the Academy of Sciences.
+* In the same paper Tarry introduced the term tetramagic square for a square which is trimagic and also the fourth powers of the entries in the rows, columns and main diagonals add to the same constant.
+* Although these were originally single author works, he collaborated with Tarry on producing second editions.
+* Tarry is also remembered for some other stunning combinatorial results.
+* He invented what is today called the Tarry point of a triangle which is related to the Brocard triangle and lies on the circumcircle opposite the Steiner point.
+* Lucas was fascinated by many of Tarry's results.
+* He explained Tarry's "Théorème des Carrefours" Ⓣ(The Crossroads Theorem) in his book Théorie des Nombres Ⓣ(Number Theory).
+* He devoted a chapter entitled La Géométrie des Réseaux et le Problème des Dominos Ⓣ(The geometry of networks and the problem of dominos)  in volume 4 of Récréations Arithmétiques Ⓣ(Recreational Arithmetic) to Tarry's work.
+* In L'Arithmétique Amusante Ⓣ(Arithmeticl Fun)  he gave two problems "La Traversée des Ménages Modèles" Ⓣ(The 'Model Household' Crossing) and "La Traversée du Polygame" Ⓣ(The 'Polygamous' Crossing) which were both proposed and solved by Tarry.
 
 Born 27 September 1843, Villefranche-de-Rouergue, Aveyron, France. Died 21 June 1913, Le Havre, France.
 

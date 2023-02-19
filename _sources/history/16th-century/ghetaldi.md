@@ -7,10 +7,10 @@ orderid: 1568
 title: Ghetaldi, Marino
 born: 1568
 died: 1626
-keywords: algebra, geometry, equations, binomials, light refraction, Pell equation, Compasses Theorem
-description: Marino Ghetaldi, Croatian mathematician, made seminal contributions to algebra and geometry through his research in equations and binomials, light refraction, Pell equation, and Compasses Theorem.
+keywords: marino ghetaldi,ghetaldi
+description: Marino Ghetaldi was a Croatian mathematician who published work with early applications of algebra to geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Marino Ghetaldi** was a Croatian mathematician who published work with early applications of algebra to geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Authored an important paper on the inductive method of solving equations and cubics.
-2. Discovered a formula for factoring quartic equations.
-3. Postulated the law of refraction of light.
-4. Developed techniques to solve second-order equations and equations of higher order.
-5. Reduced the number of transformations necessary to solve most problems in plane algebraic geometry.
-6. Developed the general solution of all cubics of the form x^3 + ax=b. 
-7. Determined the first general solution for the Pell equation.
-8. Made significant contributions in the area of number theory by introducing a system of binomials.
-9. Solved several instances of the problem of Apollonius.
-10. Developed a series of equations for constructing regular polygons, the Compasses Theorem.
+* His parents, originally from Taranto, Italy, were Maro Marinov Jakova Getaldic and Anica Andrije Restic; Marin was one of their six children.
+* In around 1588 Ghetaldi completed his high school education and, coming from an affluent important family, he was able to spend the next couple of years in independent study while moving in a circle of friends which included the leading scholars from the city.
+* Beginning in 1590, Ghetaldi carried out a number of tasks in administration including working in the State Office for Weapons and working in the Office for the Sale of Salt.
+* Ghetaldi first went to Rome before travelling extensively in Europe.
+* Ghetaldi certainly impressed Viète who gave him many of his papers to study.
+* Leaving Paris, Ghetaldi returned to Italy, spending some time in Padua where he came into contact with Galileo in 1600.
+* This was an important opportunity for Ghetaldi who attended Galileo's lectures on mathematics, mechanics and astronomy.
+* Galileo showed him his geometric and military compass, and Ghetaldi decided that after he returned to Dubrovnik he would make one for himself.
+* Ghetaldi's first paper Promotus Archimedes seu de variis corporum generibus gravitate et magnitudine comparatis Ⓣ(Work of  Archimedes on various gravitating  bodies and their magnitude) appeared in Rome in 1603 and it was on the physics of Archimedes - it is, in fact, Ghetaldi's only physics paper.
+* In the middle of 1603 Ghetaldi seems to have got into difficulties in Rome but the exact nature of the problem has never been ascertained.
+* For example who funded Ghetaldi during these many years of travel and study?
+* Ghetaldi found this a very difficult assignment for the area was rife with malaria and there were frequent attacks by bands of Uskok soldiers, mainly involving acts of piracy, while he was helping with the defences.
+* Ghetaldi took over this work of Viète.
+* Also in 1607 Ghetaldi produced a pamphlet Variorum problematum collectio Ⓣ(Collection of various problems) with 42 problems with solutions.
+* While on the mission to Constantinople, Ghetaldi had tried to find an Arabic translation of the works of Apollonius.
+* After he returned to Dubrovnik following his mission, Ghetaldi became interested in developing scientific instruments.
+* He conducted his experiments with mirrors in Bete's cave, a location on the coast outside the city so named because Ghetaldi was known by the nickname of "Bete".
+* We must not think of Ghetaldi's interest in mirrors and mathematics as being distinct for he certainly used the interplay between the physical construction of mirrors and the mathematical theory of the parabola as being two-way.
+* Some of Ghetaldi's work is described in Pierre Hérigone's 1634 work Cursus mathematicus Ⓣ(Course on mathematics).
+* After his return from Constantinople, Ghetaldi held various government posts, working as an official in the Office for Wine, in the Office for Processing Wool, as a consul for civil litigation, and again as a judge of the Appellate Court.
+* It is worth noting that the Accademia dei Lincei had been founded in 1603 by Federico Cesi, the son of the Duke of Acquasparta, and Ghetaldi had dedicated his treatise on Apollonius to Paolo Emilio Cesi, a distant cousin of Federico.
+* Ghetaldi married Marijom Sorkocevic; they had three daughters Anicu, Franicu and Mariju but Marijom died shortly after the birth of their third daughter.
+* It is reasonable to ask: what is the most impressive ideas contained in Ghetaldi's work?
+* We now think of Descartes as founding the application of algebra to geometry, and although Ghetaldi never quite managed to achieve this breakthrough (nowhere in his work are there algebraic equations for geometric objects) nevertheless he came very close.
+* Perhaps it is just as well since somehow 'Ghetaldian geometry' does not quite have the same ring as 'Cartesian geometry'.
+* It is interesting to look at the kind of person Ghetaldi was.
 
 Born 2 October 1568, Ragusa, Dalmatia (now Dubrovnik, Croatia). Died 11 April 1626, Ragusa, Dalmatia (now Dubrovnik, Croatia).
 

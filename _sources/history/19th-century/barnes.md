@@ -7,10 +7,10 @@ orderid: 1874
 title: Barnes, Ernest
 born: 1874
 died: 1953
-keywords: Ernest William Barnes, algebraic theories, matrix mechanics, Barnes–Kuiper–Wesner inequality, topology, recursive functions, Gabor–Barnes theory
-description: Ernest William Barnes was a mathematician and scientist who advanced theories in algebra, quantum mechanics and topology, developing the Barnes–Kuiper–Wesner inequality, Gabor–Barnes theory and the Barnes–Stothers Theorem.
+keywords: ernest william barnes,barnes
+description: Ernest William Barnes was an English mathematician and scientist who later became a liberal theologian and bishop.
 references: bookofproofs$6909
-contributors: @R-Paris,bookofproofs,@ChatGPT
+contributors: @R-Paris,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @R-Paris,bookofproofs,@ChatGPT
 **Ernest William Barnes** was an English mathematician and scientist who later became a liberal theologian and bishop.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the algebraic theories of relativity and quantum mechanics.
-2. Established the principles of matrix mechanics, the foundation of modern quantum theory.
-3. Discovered the Barnes–Kuiper–Wesner inequality in 1944, an important theorem of number theory.
-4. Advanced the understanding of topology and the theory of Banach spaces.
-5. Championed the use of recursive functions for solving mathematical problems.
-6. Successfully described relativistic transformation of electron oscillation using Gabor–Barnes theory.
-7. Contributed to the study of geometrical optics by developing the theory of four-dimensional curved space-time.
-8. Developed a new system of non-Euclidean geometries in 1926.
-9. Formulated the idea of perspective transformations, a fundamental concept in Euclidean geometry.
-10. Developed abstract algebraic operations, now known as the Barnes–Stothers Theorem.
+* In 1883 Barnes' father was appointed Inspector of Schools in Birmingham, a position that he occupied throughout the rest of his working life.
+* Barnes was educated at King Edward's School, Birmingham and in 1893 went up to Cambridge as a Scholar of Trinity College.
+* In the same year he became a lecturer in mathematics, Barnes was ordained deacon by the Bishop of London and from 1906 to 1908 was Junior Dean of Trinity.
+* In 1915, Barnes left Cambridge, and his career as a professional mathematician, upon his appointment as Master of the Temple in London.
+* Barnes' episcopate was marked by a series of controversies stemming from his outspoken views and, rather surprisingly for someone who held such high office in the Church, often unorthodox religious beliefs.
+* Undaunted by this set-back, Barnes returned to his accusations on the cement ring in a speech he delivered in the House of Lords the following year, in which he claimed that powerful business concerns were using libel and slander action to suppress criticism.
+* As a theological author, Barnes' book in 1947, entitled The Rise of Christianity, aroused such fierce opposition and criticism from more orthodox members of the Church, that it was strongly suggested he should renounce his episcopal office, a hint which Barnes did not take.
+* In all, Barnes wrote 29 mathematical papers during the years 1897-1910.
+* Barnes next turned his attention to the theory of integral functions, where, in a series of papers, he investigated their asymptotic structure.
+* It was in these papers that he brought to the attention of British mathematicians the power and simplicity associated with these integrals, and which now bear the name Mellin-Barnes integrals.
 
 Born 1 April 1874, Birmingham, England. Died 29 November 1953, Sussex, England.
 

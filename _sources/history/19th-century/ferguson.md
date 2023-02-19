@@ -7,10 +7,10 @@ orderid: 1829
 title: Ferguson, Robert McNair
 born: 1829
 died: 1912
-keywords: Robert Ferguson, Edinburgh Mathematical Society, conical sections, algebraic functions, linear equations, cycloids, logarithms, elliptic integrals
-description: Robert Fergusonwas a founder member of the Edinburgh Mathematical Society and made tremendous advances in mathematics, from publishing papers to inventing new systems and setting steps forward in the development of elliptic integrals.
+keywords: robert ferguson,ferguson
+description: Robert Ferguson was a founder member of the Edinburgh Mathematical Society and became their fifth President.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Ferguson** was a founder member of the Edinburgh Mathematical Society and became their fifth President.
 
 ### Mathematical Profile (Excerpt):
-1. Published a paper in 1838 outlining the foundations of conical sections.
-2. Wrote articles for the Cambridge Mathematical Journal discussing the concept of algebraic functions and the resultant theorems.
-3. Developed applications of linear equations to geometry, probability theory and celestial mechanics.
-4. Invented a system of rational reciprocation curved lines.
-5. Established a new study of cycloids and higher plane curves.
-6. Devised a system of logarithms to base 10.
-7. Set steps forward in the development of elliptic integrals.
+* Robert Ferguson had three younger sisters: Anne  (born 1835), Janet  (born 1841) and Margaret (born 1844).
+* Robert Ferguson's birthdate is given as 1928 in his obituaries (see below) but this seems to be wrong.
+* Robert Ferguson's family moved from Airdrie to Edinburgh when Robert was three years old.
+* Ferguson married Janet Margaret Monteith on 13 August 1864 in Edinburgh and they had two children: Duncan (born 1872) and James (born 1876).
+* Let us note that Ferguson was a founder member of the Edinburgh Mathematical Society, joining the Society at its first meeting in February 1883.
+* Robert Ferguson was elected to the Royal Society of Edinburgh on 6 January 1868, his proposers included Philip Kelland.
 
 Born 8 July 1829, Airdrie, Lanarkshire, Scotland. Died 31 December 1912, Edinburgh, Scotland.
 

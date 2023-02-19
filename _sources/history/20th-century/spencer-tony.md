@@ -7,10 +7,10 @@ orderid: 1929
 title: Spencer (2), Anthony
 born: 1929
 died: 2008
-keywords: Anthony Spencer, Fields Medal, applied mathematics, knapsack problem, quantum theory, traveling salesman problem, Floyd–Warshall algorithm
-description: Anthony Spencer, awarded a Fields Medal, was a renowned applied mathematician who could solve complex problems like the knapsack, quantum and traveling salesman, and improved the Floyd–Warshall algorithm.
+keywords: anthony spencer,spencer
+description: Anthony Spencer was an English applied mathematician who worked in the mechanics of advanced materials.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Anthony Spencer** was an English applied mathematician who worked in the mechanics of advanced materials.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a Fields Medal in 1998, one of the highest honors given in mathematics.
-2. Became a professor of mathematics at Princeton University at the age of 27. 
-3. Developed a class of algorithms which he proved could find an optimal solution to the knapsack problem in polynomial time. 
-4. Demonstrated the equivalence of two major models of quantum theory, which was a major breakthrough in the field. 
-5. Proposed a novel approach for solving the traveling salesman problem. 
-6. Refined and improved the Floyd–Warshall algorithm, which is used to compute the transitive closure of a graph.
+* Tony's father, James Lawrence Spencer, was a chemistry graduate, having studied at Sheffield University, but during the years of the Depression in the 1920s played professional football (soccer) for West Bromwich Albion.
+* James Spencer married Gladys, and Tony was one of their two children; he had a sister Rosemary.
+* The staff who remained were overworked but Spencer was lucky to have an excellent mathematics teacher, William A Burns, whose war service was in the Home Guard so he still taught at the school.
+* He instilled a love of mathematics in Spencer.
+* Spencer graduated from Queen Mary's Grammar School in 1947 and was faced with a choice of doing National Service before entering university, or postponing the military service until his education was completed.
+* After graduating from Cambridge, Spencer began studying at Birmingham University for his Ph.D. working on the brittle fracture of elastic-plastic materials with Frank Nabarro as his supervisor.
+* However, Nabarro left Birmingham only ten months after Spencer began his studies.
+* In 1955 Spencer was awarded his doctorate and married Margaret Bosker; they had three sons.
+* References to the collaborative work of Tony Spencer, Ronald Rivlin and Albert Green are standard citations in treatises in modern continuum mechanics.
+* Indeed many of Spencer's early publications were with Ronald Rivlin, Albert Green or both.
+* Promotion came quickly for Spencer who was promoted to a Reader in 1963 then, following the death of John Adkins the Professor of Theoretical Mechanics, he became Professor of Theoretical Mechanics and Head of Department on 1 April 1965.
+* Spencer spent time as a visiting professor in a number of other institutions.
+* In 1994 Spencer retired from his chair at the University of Nottingham, having reached the age of 65, and was made Professor Emeritus.
+* Spencer received many honours for his outstanding contributions.
+* In October 2007 the University of Nottingham established the Spencer Institute of Theoretical and Computational Mechanics, named in his honour.
+* The International Journal of Engineering Science, of which Spencer was an editor from 1968 to 1995, issued a Special Issue as a Memorial to him.
 
 Born 23 August 1929, Birmingham, England. Died 26 January 2008, Nottingham, England.
 

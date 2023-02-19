@@ -7,10 +7,10 @@ orderid: 1769
 title: Hachette, Jean Nicolas Pierre
 born: 1769
 died: 1834
-keywords: Jean Hacchette, Mathematics, Mémoire, Curves, Theorem, Calculus, Variations
-description: Jean Hacchette, a French mathematician, published various works on mathematics, including Mémoire sur les Divisions des Angles, the Reciprocity Theorem, and the Traité de Géométrie Descriptive. He studied curves, optics, calculus, and variations.
+keywords: jean nicolas pierre hachette,hachette
+description: Jean Nicolas Pierre Hachette was a French mathematician who worked on descriptive geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Nicolas Pierre Hachette** was a French mathematician who worked on descriptive geometry.
 
 ### Mathematical Profile (Excerpt):
-1. He published his first mathematical work, Mémoire sur les Divisions des Angles (Memoir on the Division of Angles), in 1786. 
-2. He later published papers concerning the theory of curvature and the construction of isochronous curves in 1788.
-3. He developed a method of integration to solve problems of curves and surfaces.
-4. He determined and extended Navier's theorem of geometrical optics. 
-5. He introduced the concept of "directional derivative" and the total differential.
-6. In 1790, he wrote Mémoire sur les Équations Variables, a "gateway to modern research in mathematics".
-7. He succeeded in solving the problem of integrating a class of partial differential equations.
-8. He proved the "Reciprocity Theorem" in the field of Abelian functions.
-9. In 1795, he developed a calculus of variations, different from that of Lagrange, which allowed him to solve problems of catenary and geodesics.
-10. In 1801, he wrote Traité de Géométrie Descriptive (Treatise on Descriptive Geometry) which was widely considered to be the first modern work on the theory of curves.
+* This first contact with Monge would be one of many throughout his career, and even at this young age Hachette greatly impressed him.
+* In 1785, when Hachette was sixteen years old, he entered the University of Rheims.
+* Monge had set up a descriptive geometry course at the École Royale du Génie which Ferry was teaching when Hachette was appointed to the staff.
+* Hachette assisted Ferry in teaching the descriptive geometry course.
+* This was to change the course of Hachette's life, particularly since he was a strong supporter of the Revolution.
+* At first Hachette continued with his post in Mézières, then in 1792 he entered a competition for professor of hydrography at Collioure and Port Vendres.
+* Ferry was elected to be a deputy on the National Convention in 1873 and Hachette returned to the École Royale du Génie of Mézières to take over his position teaching mathematics.
+* During this period Hachette showed his strong support for the Revolution.
+* Hachette took an active role in setting up the École using his experience at Mézières to good effect.
+* In 1799 Hachette was promoted to full professor at the École Polytechnique and continued to serve the School both as a teacher and an organiser.
+* The students at the School were served well as Hachette encouraged his best students with research projects, raising the level and reputation of the School.
+* Hachette edited this publication until he was forced out of the School in 1816.
+* Another educational establishment, the École Normale, was set up to train secondary school teachers and from 1810 Hachette taught there and at the Faculty of Sciences in Paris in addition to the École Polytechnique.
+* However, in 1816 the Government reorganised the École Polytechnique and Hachette found himself excluded from the school.
+* The usual reason for such decisions would be political and so it must be that Hachette was out of favour.
+* Hachette worked on descriptive geometry, collected work by Monge and edited Monge's Géométrie descriptive Ⓣ(Descriptive Geometry) which was published in 1799.
+* The final area which interested Hachette was physics.
 
 Born 6 May 1769, Mézières, Ardennes, France. Died 16 January 1834, Paris, France.
 

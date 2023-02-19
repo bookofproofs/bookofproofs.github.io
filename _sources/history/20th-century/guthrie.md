@@ -7,10 +7,10 @@ orderid: 1905
 title: Guthrie, William Gilmour
 born: 1905
 died: 1978
-keywords: William Guthrie, Generalised Method of Moments, linear independence, total excursion, correlation matrix, Guthrie-Kahan algorithm, parametric bootstrapping, matrix inverses
-description: Guthrie developed numerous statistical models, algorithms and theories, making significant contributions to the field of econometrics.
+keywords: william guthrie,guthrie
+description: William Guthrie graduated from Cambridge and gained an appointment at the University of St Andrews. He moved to become a professor at Magee College in Londonderry and eventually became Principal of the College.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Guthrie** graduated from Cambridge and gained an appointment at the University of St Andrews. He moved to become a professor at Magee College in Londonderry and eventually became Principal of the College.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Generalised Method of Moments, a statistical technique used to estimate parameters of an econometric model.
-2. Constructed a collection of algebraic equations which demonstrated linear independence.
-3. Discovered and established the concept of total excursion.
-4. Developed a novel algorithm to determine the correlation coefficients in a correlation matrix.
-5. Developed an efficient numerical integration technique, Guthrie-Kahan algorithm.
-6. Demonstrated the positive semi definite property of a generalized covariance matrix.
-7. Discovered the concept of parametric bootstrapping.
-8. Established the concept of efficient estimation in statistics.
-9. Developed a theory for creating difference schemes for solving partial differential equations.
-10. Developed various methods for computing matrix inverses.
+* William attended Broughton Secondary School, Edinburgh, completing his school education in 1922 when he was dux of the school.
+* After graduating from Cambridge, Guthrie was appointed as an Assistant in Mathematics at the University of St Andrews.
+* However the committee proposed that the second university be established at Coleraine rather than Londonderry and Guthrie resigned from Magee College on 30 September 1968, the day before the new University of Ulster opened at Coleraine.
+* Guthrie was a Fellow of the Royal Astronomical Society, a member of the Irish Astronomical Society, and of the Edinburgh Astronomical Society.
+* Guthrie married Thelma Pate.
+* The engagement is announced between William Gilmour Guthrie, M.A. Ph.D., F.R.S.E., Professor at University College, Londonderry, son of Rev.
+* W A Guthrie, D.D., and Mrs Guthrie, 13 Crawfurd Road, Edinburgh, and Thelma, only daughter of Mr and Mrs Gibson Pate, Schoolhouse, St Boswells, Roxburghshire.
 
 Born 2 September 1905, Cowdenbeath, Fife, Scotland. Died 15 September 1978, Edinburgh, Scotland.
 

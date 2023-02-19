@@ -7,10 +7,10 @@ orderid: 1871
 title: Amberg, Ernst Julius
 born: 1871
 died: 1952
-keywords: Amberg, Mathematics, Polynomial, Ellipse, German, Calculus, Variations, Monge-Kantorovich
-description: Ernst Julius Amberg was a Swiss mathematician who developed methods for polynomial equations, ellipses, German language standardization, calculus of variations, and the Monge-Kantorovich problem.
+keywords: ernst julius amberg,amberg
+description: Ernst Julius Amberg was a Swiss mathematician who helped to organise the first International Congress of Mathematicians.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Ernst Julius Amberg** was a Swiss mathematician who helped to organise the first International Congress of Mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for solving polynomial equations of higher degree, later known as Amberg’s f-formula. 
-2. Developed the Amberg–Nöllendorff theorem which allows to calculate the maximum outer radius of a perfect circular disc inscribed inside an ellipse. 
-3. Proposed the "Amberg–Läpple principle," which states that the number of solutions to a diophantine equation can be determined from its degree. 
-4. Published several papers which contributed to the standardization of the German language. 
-5. Developed new methods for calculating the partial sums of mathematical series. 
-6. Published a book on the calculus of variations which introduced the idea of solvability. 
-7. Proposed the "problem of Amberg," a special case of the Monge-Kantorovich mass transfer problem. 
-8. Discovered the "Euler-Amberg circle theorem" which states that three circles tangent to one another can be constructed upon a given triangle.
+* Amberg attended the Gymnasium, being top of the class in his Matura examinations.
+* At the time of the ICM Amberg was an assistant at the Polytechnic, before becoming a teacher at the Kantonsschule in Frauenfeld (canton Thurgau).
+* Before starting his teaching post in Zürich, Amberg also took on a job as an actuary at a life insurance company.
+* Amberg lectured at the ETH until his retirement in 1938.
+* Amberg was a keen mountaineer and a member of the Swiss Alpine Club (SAC) for 61 years.
+* Amberg joined the organising committee of the First International Congress of Mathematicians in November 1896: Rebstein, the German-speaking secretary, could not attend the meeting on 12 November and Amberg covered for him.
+* This sub-committee already consisted of Geiser, Hurwitz and Minkowski, and Franel joined together with Amberg.
+* At the meeting on 27 July 1897 Amberg was elected secretary, thus replacing Rebstein who had to step down from his post due to military service.
+* Amberg's deputy was Hirsch.
+* Furthermore, Amberg was in charge of setting the fees.
+* As headmaster of the Gymnasium Zürich Amberg was an official Swiss delegate at the 1932 ICM in Zürich.
+* Amberg was married, but did not have any children.
 
 Born 6 September 1871, Zürich, Switzerland. Died 15 March 1952, Zürich, Switzerland.
 

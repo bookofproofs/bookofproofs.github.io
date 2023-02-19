@@ -7,10 +7,10 @@ orderid: 1931
 title: Hironaka, Heisuke
 born: 1931
 died: 0
-keywords: Heisuke Hironaka, Fields Medal, Algebraic Geometry, Resolution, Singularity Theory, Characteristic p, Toroidal Singularities
-description: Heisuke Hironaka, winner of Fields Medal in 1970, revolutionized Algebraic Geometry with proof of resolution of singularities, Hironaka-Atiyah-Kodaira Singularity Theory & Characteristic p phenomenon.
+keywords: heisuke hironaka,hironaka
+description: Heisuke Hironaka is a Japanese mathematician who won a Fields Medal in 1970 for his contributions to algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Heisuke Hironaka** is a Japanese mathematician who won a Fields Medal in 1970 for his contributions to algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the showing of resolution of singularities, showing how any algebraic variety could be modified by a sequence of blow ups to achieve a desirable form. 
-2. Corrected the Hironaka-Atiyah-Kodaira Singularity Theory which is foundational for modern algebraic geometry.
-3. Discovered the characteristic p phenomenon of by providing a proof that prime characteristic fields of analytic functions always contain Massey operations.
-4. Demonstrated his work on characteristic p phenomenon to the topology field, which links it to the theory of algebraic cycles.
-5. Contained an important contribution to the understanding of the monodromy conjecture, which includes proofs of theorems concerning the existence of invariant cycles.
-6. Sought a new type of classification for algebraic varieties through his main theorem for stratification of canonical modules.
-7. Published several papers on the theory of toroidal singularities and their resolutions, which continue to contribute to the study of toric varieties. 
-8. Interested in the “decomposition theorem” in his later retirement years, which sought to find relationships between divisors, canonical divisors, and the cohomology group involved in the analysis of the given projective variety.
+* This was not an occupation he wanted but he was forced into the family business when his father (Heisuke's paternal grandfather) died while he was still a schoolboy.
+* Heisuke's mother was his father's third wife.
+* Heisuke's parents then had ten children of their own (six boys and four girls), so Heisuke grew up in a family of fifteen children.
+* Of his parents' ten children, Heisuke was the second eldest having one older sister.
+* Two of Heisuke's half-brothers were killed, one fighting against the Americans and one fighting against the Chinese.
+* Heisuke's father was devastated and as a consequence sold his textile factory and gave up work.
+* Heisuke attended elementary school and then middle school where he began to develop a liking for mathematics.
+* The town of Yamaguchi is about 80 km from Hiroshima and on Monday, 6 August 1945, at 8.15 in the morning, Heisuke's father witnessed the dropping of the atomic bomb on Hiroshima.
+* After middle school, Heisuke attended the boys' junior high school in Yanai.
+* After a mathematics professor from Hiroshima University gave a lecture at the junior high school, Heisuke became enthusiastic and applied to study mathematics at Hiroshima University.
+* By the time Hironaka entered Kyoto University in 1949, it had been integrated into a mass higher education system but had maintained its prestige.
+* In his first year Hironaka studied physics, chemistry and biology.
+* Yasuo Akizuki, a pioneer of modern algebra in Japan, was a major influence on Hironaka during his time at Kyoto.
+* While at Harvard, Hironaka became friends with Alexander Grothendieck who spent the academic year 1958-59 there.
+* He invited Hironaka to the Institut des Hautes Études Scientifique in Paris in 1959-60 where he found himself the only visiting fellow.
+* After completing his studies at Harvard, Hironaka was appointed to the staff at Brandeis University.
+* Heisuke and Wakako Hironaka had one son Jo and one daughter Eriko.
+* After being on the faculty at Brandeis University, Hironaka was appointed to Columbia University, and then to Harvard in 1968.
+* Hironaka gave a general solution of this problem in any dimension in 1964 in Resolution of singularities of an algebraic variety over a field of characteristic zero.
+* Hironaka talked about his solution in his lecture On resolution of singularities (characteristic zero) to the International Congress of Mathematicians in Stockholm in 1962.
+* In 1975 Hironaka returned to Japan where he was appointed a professor in the Research Institute for Mathematical Sciences of Kyoto University.
+* Throughout this book one recognizes again the importance of the preparation theorem, and one finds good introductions to the study of the advanced theory of Stein spaces, the works of A Douady, and the theory of the resolution of singularities, to which Hironaka has contributed deeply.
+* Hironaka was Director of the Research Institute in Kyoto from 1983 to 1985, retiring in 1991 when he was made Professor Emeritus.
+* Hironaka was invited to give one of the featured lectures on recent research advances and he spoke on Resolution of Singularities in Algebraic Geometry.
 
 Born 9 April 1931, Yamaguchi, Japan.
 

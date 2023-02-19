@@ -7,10 +7,10 @@ orderid: 1841
 title: Sturm (2), Rudolf
 born: 1841
 died: 1919
-keywords: Rudolf Sturm, algebraic geometry, dimension, Graz, abelian groups, varieties, Riemann surfaces, scissor-congruence
-description: Rudolf Sturm was a German mathematician who developed new approaches to algebraic geometry, contributed to basic notions such as dimension, established a school, & developed theories on abelian groups, varieties, Riemann surfaces & scissor-congruence.
+keywords: rudolf sturm,sturm
+description: Rudolf Sturm was a German mathematician who worked in geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Rudolf Sturm**  was a German mathematician who worked in geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed new approaches to algebraic geometry with his main work being "Lehrbuch der Algebraischen Geometrie" (Textbook of Algebraic Geometry). 
-2. He contributed to the defining of basic notions in algebraic geometry, such as the dimension of an algebraic curve. 
-3. Established a school for the teaching of algebraic geometry in Graz. 
-4. Developed theory of finitely-generated abelian groups and the generalization of cyclotomic fields. 
-5. Made breakthroughs in the formalization of the geometric language of algebraic varieties. 
-6. Identified the structures of algebraic curves as mathematical objects. 
-7. Contributed to the development of the theory of Riemann surfaces. 
-8. Developed the technique of scissor-congruence to classify algebraic surfaces.
+* In 1872 Sturm was appointed assistant professor at the Technical College in Darmstadt where he taught descriptive geometry and graphic statics.
+* In order to provide a good teaching book for his students, Sturm published a textbook Elemente der darstellenden Geometrie Ⓣ(Elements of descriptive geometry) on descriptive geometry and graphical statics for his students in 1874.
+* Sturm wrote extensively on geometry and, other than the teaching textbook on descriptive geometry and graphical statics which we mentioned above and one other teaching text Maxima und Minima in der elementaren Geometrie which he published in 1910, all his work was on synthetic geometry.
+* Sturm was a staunch advocate of the former approach even when tackling topics where the algebraic approach would have been markedly simpler.
+* It always seemed to me to be asking one to do mathematics with one hand tied behind your back and to a certain extent that is the effect of Sturm's approach.
+* in the first two volumes Sturm treated linear complexes, congruences, and the simplest ruled surfaces up to tetrahedral complexes, all of which can be particularly well handled in a purely geometric fashion.
+* Sturm's four volume work contains over 1800 pages.
+* The work in some respects represents the crowning achievement of synthetic geometry developed in Sturm's style.
+* The subject had little in the way of opportunities for further progress and as a consequence, despite Sturm supervising quite a few doctoral students, nevertheless he did not build a school to continue to develop his mathematical ideas.
 
 Born 6 January 1841, Breslau, Prussia (now Wrocław, Poland). Died 12 April 1919, Breslau, Germany (now Wrocław, Poland).
 

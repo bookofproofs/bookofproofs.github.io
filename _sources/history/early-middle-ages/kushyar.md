@@ -7,10 +7,10 @@ orderid: 971
 title: Kushyar Ibn Labban
 born: 971
 died: 1029
-keywords: Kushyar, algebraic, negative numbers, spherical geometry, instruments, Sindhind, Diophantine
-description: Kushyar ibn Labban was a Persian astronomer who developed algebraic solutions with negative numbers, spherical geometry and instruments, wrote treatises on Sindhind and Diophantine equations, and pioneered mathematical applications in philosophy, physics, and medicine.
+keywords: kushyar ibn labban,kushyar
+description: Kushyar ibn Labban was a Persian astronomer who wrote an early work on Hindu numerals.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Kushyar ibn Labban** was a Persian astronomer who wrote an early work on Hindu numerals.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the algebraic solutions of linear and quadratic equations, latifiyya (sum of three cubes problem).
-2. Highlighted the role of negative numbers in solving equations, providing clear instructions for solving complicated cubic equations.
-3. Developed sophisticated solutions for mathematical problems of spherical geometry, astronomy, and astrology.
-4. Developed general formulas to calculate the area of the triangle, semicircle, and circle.
-5. Created mathematical instruments for surveying, navigation and map making.
-6. Compiled a comprehensive mathematical treatise, Sindhind, which contained hundreds of problems and solutions.
-7. Wrote a treatise on mathematical astronomy, which contained solutions to problems of converting stellar positions from one system to another.
-8. Discovered the earliest known solutions of "Diophantine equations," equations that involve only whole numbers.
-9. Developed methods for calculating the volume of complicated solids
-10. Pioneered the application of mathematical techniques to solve problems in philosophy, physics, and medicine.
+* The name Labban, sometimes written as Labbar, was his father's name and means "lion".
+* Very little is known of Kushyar ibn Labban's life.
+* From his works we know that Kushyar was primarily an astronomer who wrote texts on astronomy and geography.
+* Kushyar's Principles of Hindu reckoning was written about 1000 AD.
+* The first point to note is that Kushyar uses a symbol for zero, but does not use any separating symbol to distinguish the fractional part of a number from the integral part.
+* Kushyar gives methods to construct exact square roots, as well as approximate methods to calculate the square roots of non-square numbers.
+* As a check on the accuracy of his results, Kushyar uses the method of "casting out nines" or "checking the nines" which basically checks that the sums are correct modulo 9.
 
 Born 971, Gilan (now in Iran). Died 1029, Baghdad (now in Iraq).
 

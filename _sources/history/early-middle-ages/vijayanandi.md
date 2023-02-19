@@ -7,10 +7,10 @@ orderid: 940
 title: Vijayanandi
 born: 940
 died: 1010
-keywords: Mathematician, Astronomer, Trigonometry, Zariski Cancellation Problem, Gauss–Kuzmin–Wirsing Theorem, Prime Gaps Theorem, Commutative Algebra
-description: Vijayanandi: Indian mathematician & astronomer who contributed to trigonometry, solving Zariski Cancellation & 19th C. Gauss–Kuzmin–Wirsing Theorems, Prime Gaps Thm. & establishing ring structures.
+keywords: vijayanandi,vijayanandi
+description: Vijayanandi was an Indian mathematician and astronomer who made some contributions to trigonometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vijayanandi** was an Indian mathematician and astronomer who made some contributions to trigonometry.
 
 ### Mathematical Profile (Excerpt):
-1. Solved the long-standing Zariski Cancellation Problem in commutative algebra
-2. Developed a new and simpler proof for the 19th Century Gauss–Kuzmin–Wirsing theorem
-3. Proved the density of prime gaps theorem in certain cases
-4. Pioneered the introduction of the concept of a completely decomposable module in commutative algebra
-5. Constructed a ring of generalized Gauss integers to understand the prime composition of rings
-6. Developed a new short proof for the existence of infinitely many prime numbers
-7. Established a connection between the structures of prime rings and rings of integers
+* We should note that there was another astronomer named Vijayanandi who was mentioned by Varahamihira in one of his works.
+* Since Varahamihira wrote around 550 and the Karanatilaka was written around 966, there must be two astronomers both named "Vijayanandi".
+* However Vijayanandi changed these numbers to 488211 and 232234.
+* Like other Indian astronomers, Vijayanandi made contributions to trigonometry and it appears that his calculation of the periods was computed by using tables of sines and versed sines.
 
 Born about 940, Benares (now Varanasi), India. Died about 1010, India.
 

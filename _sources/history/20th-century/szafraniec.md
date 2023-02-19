@@ -7,10 +7,10 @@ orderid: 1940
 title: Szafraniec, Franciszek Hugon
 born: 1940
 died: 0
-keywords: Szafraniec, Functional Equation, Probability Distributions, Integral Equations, Numerical Analysis, Nonlinear Analysis, Fredholm Equation
-description: Franciszek Szafraniec is a Polish mathematician, renowned for his discoveries in operator theory, probability distributions, integral equations, and nonlinear analysis.
+keywords: franciszek szafraniec,szafraniec
+description: Franciszek Szafraniec is a Polish mathematician best known for his work in operator theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Franciszek Szafraniec** is a Polish mathematician best known for his work in operator theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Szafraniec Functional Equation, a mathematical equation related to the generalization of the Cauchy functional equation.
-2. Discovered a novel approach for classifying probability distributions, known as the Szafraniec Approximation.
-3. Published a paper titled “Classification of Probability Distributions in Terms of Their Sequence Expansion” where his classification method of probability distributions was described.
-4. Discovered a new and interesting class of integral equations, known as the “Szafraniec Integral Equations”. 
-5. Contributed to the field of numerical analysis by providing a simplified approach to the discretization of continuous functions. 
-6. Authored the book “Mathematical Methods of Nonlinear Analysis” which outlines methods used to solve nonlinear problems. 
-7. Developed a approximate approach to the integral Fredholm equation, founded on his work on the Szafraniec integral equations. 
-8. Published “Probabilities in the Integral Fredholm Equations with Variable Coefficients”, a paper detailing his findings related to the Fredholm equation. 
-9. Co-authored the book “Integral Equations: Theory and Applications” alongside esteemed mathematician, Stanislaw Tuszynski, which proved to be a useful reference for students and researchers. 
-10. Developed a novel mathematical tool to better understand probability distributions, referred to as “Szafraniec’s Imbedding Theorem”.
+* Eventually it had been divided with the part in which Szafraniec was born becoming a part of Poland.
+* After graduating from secondary school, it was still unclear which topic Szafraniec would study at university.
+* Szafraniec's father wanted his son to study in Kraków while his mother would have preferred her son to go to the more local Wrocław University.
+* After some deliberations, a decision was made at the last minute that Szafraniec would apply to study mathematics at the Jagiellonian University in Kraków.
+* Szafraniec became a member of Ważewski's school and, after his undergraduate studies, undertook research advised by Ważewski.
+* The co-workers and former students of Professor Szafraniec may be found in all major Kraków universities.
+* Szafraniec worked at the Jagiellonian University in Kraków for his whole career.
+* Professor Szafraniec's interests and activities in the mathematical world, together with his capability of co-operating, bears fruit in many publications which encompasses numerous joint papers with dozens of mathematicians.
+* In fact MathSciNet lists 123 items by Szafraniec (in July 2013), 36 of which are papers presented at conferences.
+* In fact Szafraniec has written 24 joint papers with Jan Stochel (as of July 2013).
+* Szafraniec has been as editor for the Proceedings of the semester long workshop Linear operators held in Warsaw in the Spring of 1994.
+* Szafraniec retired from his professorship at the Jagiellonian University in 2010 when he reached the age of seventy.
 
 Born 22 March 1940, Świętochłowice, Upper Silesia, Poland.
 

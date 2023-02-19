@@ -7,10 +7,10 @@ orderid: 1914
 title: Browne, Marjorie Lee
 born: 1914
 died: 1979
-keywords: African American, PhD, Mathematics, NAE, Awards, Textbooks, Dean
-description: Marjorie Lee Browne, African American PhD in Mathematics (1949), was the first woman to join the National Academy of Sciences, awarded numerous maths-education awards and author of maths textbooks, appointed as Dean of Howard University, and established a maths scholarship at Smith College.
+keywords: marjorie lee browne,browne
+description: Marjorie Lee Browne was an American mathematical educator. She was one of the first African-American women to receive a Ph.D.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs
 
 ---
 
@@ -23,16 +23,36 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs,@ChatG
 **Marjorie Lee Browne** was an American mathematical educator. She was one of the first African-American women to receive a Ph.D.
 
 ### Mathematical Profile (Excerpt):
-1. The first African American woman to receive a PhD in Mathematics from an American university (1949). 
-2. Member of the National Academy of Sciences (NAE) in 1995, making her the first African American woman to be inducted into the NAE.
-3. Was the first African American woman to attend the Mathematical Association of America’s annual meeting and to become an enrolled member in the association (1950).
-4. Recognized as a leader in mathematics education with awards such as the North Carolina Council of Professional Teacher Education (NCCPE) Achievement in Mathematics Education Award (1991). 
-5. Helped to establish the Phylon Quarterly, a journal which aimed to provide provocative insights into issues of race and to communicate research activities among African American scholars.
-6. Authored several papers, textbooks, and instructional aids related to mathematics education.
-7. Appointed by Howard University in 1963 to serve as the Dean of the Graduate School of Arts and Sciences, making her the first African American woman to hold such a senior administrative post at the University. 
-8. Helped to revise a mathematics textbook in 1966, the only African American woman contributor to the project. 
-9. Pioneered the development of several mathematics and science programs in higher education.
-10. Established the Marjorie Lee Browne Scholarship Fund at Smith College, an annual scholarship awarded to a Smith College student committed to the teaching of mathematics.
+* However, Browne had a love of mathematics and was determined to study the subject to the highest possible standards.
+* She was the daughter of Mary Taylor Lee and Lawrence Johnson Lee, but unfortunately Browne's mother died when she was just two years old.
+* Instead her father, a railway postal clerk, and stepmother, Lottie Lee, a schoolteacher, raised her.
+* Lawrence Lee was known in the local area to be very good at mental arithmetic and it was this love of mathematics that he passed on to his daughter.
+* Browne was also encouraged to study mathematics by her stepmother.
+* Lawrence Lee was more privileged than most Blacks at the time, and wished to share his good fortune with others, especially his children so he made a point of sending them to the best schools available.
+* Browne was a pupil at LeMoyne High School.
+* By the time Browne left high school she was not only known as a gifted maths student, but also a noted tennis player.
+* Browne's years at university coincided with the Depression.
+* In 1935 Browne received her B.S. degree from Howard, where she graduated cum laude.
+* However, Browne only kept this post for one year as she then enrolled at the University of Michigan, in Ann Arbor, from where Browne gained her Masters degree in mathematics in 1939.
+* During the summer breaks Browne started work on her doctorate at the University of Michigan.
+* Over the years there have been conflicting opinions regarding the year in which Marjorie Lee Browne gained her Ph.D. from the University of Michigan.
+* Browne had become a teaching fellow at the University of Michigan in 1947.
+* In Browne's lifetime convention said that she had obtained her Ph.D. in 1949, however, in 1999 some references changed the date to 1950.
+* No matter which stance is taken Browne was still one of the first two African-American women to obtain a Ph.D. in mathematics.
+* In 1949, Browne joined the faculty of mathematics at North Carolina Central University, then called North Carolina College, where she stayed until her retirement in 1979.
+* Browne taught for 15 hours a week, teaching both undergraduate and postgraduate courses.
+* Also during her time at NCCU Browne supervised 10 masters degrees.
+* Between 1952 and 1953 Browne won a fellowship from the Ford Foundation.
+* Browne's grant allowed her to study combinational topology at Cambridge University.
+* In 1960 Browne was the principal author of a successful proposal that won a grant from IBM, which allowed the NCCU to obtain its first computer for use in academic computations.
+* While at NCCU Browne held positions other than that of department chair.
+* During the summer Browne was occupied with instructing secondary school teachers.
+* For 13 years Browne served as director of the mathematics section of these Institutes.
+* Four sets of lecture note were written by Browne to be used by these teachers.
+* Due to this work for the continuation of education for secondary teachers, Browne became the first recipient, in 1975, of the W W Rankin Memorial Award for Excellence in Mathematics Education, given by the North Carolina Council of Teachers.
+* Browne's other published work was her paper A Note on the Classical Groups.
+* During the latter part of her life Browne used much of her own money to help gifted mathematics students to continue their education.
+* Marjorie Lee Browne died at her home in Durham, North Carolina, of a heart attack, on the 19 October 1979.
 
 Born 9 September 1914, Memphis, Tennessee, USA. Died 19 October 1979, Durham, North Carolina, USA.
 

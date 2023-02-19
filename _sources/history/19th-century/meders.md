@@ -7,10 +7,10 @@ orderid: 1873
 title: Meders, Alfreds Arnolds Adolfs
 born: 1873
 died: 1944
-keywords: Alfreds Meders, Differential Geometry, Mathematical Analysis, Half-Angle Formula, Pi, Quadratic Reciprocity, Integral Calculus
-description: Alfreds Meders was a Latvian mathematician who made contributions to Differential Geometry, Mathematical Analysis, Half-Angle Formula, Pi, Quadratic Reciprocity, Integral Calculus and more.
+keywords: alfreds meders,meders
+description: Alfreds Meders was a Latvian mathematician who worked on differential geometry and mathematical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alfreds  Meders** was a Latvian mathematician who worked on differential geometry and mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the half-angle formula for trigonometric functions. 
-2. Approximated the numerical value of pi to seven decimal places. 
-3. Discovered the law of quadratic reciprocity, a form of number theory. 
-4. Formulated theories on the measurement of curved lines, which formed the foundations for integral calculus. 
-5. Was the first to find the solution to the Mersenne conjecture. 
-6. Was a pioneer in developing elliptic integrals. 
-7. Discovered the formula for the sum of the first n triangular numbers. 
-8. Formulated a concept of indefinite integrals. 
-9. Demonstrated how the sine of any angle can be expressed as a power series. 
-10. Made essential contributions to the study of continued fractions.
+* Alfreds' family were of German origin and he was brought up with German as his first language.
+* In 1887 Russian was made the language of instruction, instead of German and Estonian, and in 1893 while Meders studied at the University of Dorpat, the Russians made an effort to convert the establishment to a Russian one.
+* He greatly influenced Meders who graduated from Tartu University's Faculty of Physics and Mathematics in 1895 (notice that Dorpat had changed its name to Tartu by this time).
+* Two years later Meders was appointed to Riga Polytechnic Institute where at first he was an assistant of K Kupfer, but later became a dozent.
+* By the time Meders was appointed, therefore, all teaching at the Institute was in Russian.
+* In 1906 Meders was awarded his masters degree from the University of St Petersburg.
+* Meders worked on differential geometry and mathematical analysis.
+* Meders was appointed as a professor at the University of Latvia from the time of its founding.
+* Meders was also interested in the history of mathematics and he wrote an important paper Direkte und indirekte Beziehungen zwischen Gauss und der Dorpater Universität Ⓣ(Direct and indirect relationships between Gauss and the Tartu University)  in 1928.
+* Meders began teaching at the start of the academic year 1939-40, but being of German origin he found himself on a list of people who were required to be repatriated to Germany.
 
 Born 1 October 1873, Riga, Latvia. Died 28 June 1944, Poznań, Poland.
 

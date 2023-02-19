@@ -7,10 +7,10 @@ orderid: 1320
 title: Al-Khalili
 born: 1320
 died: 1380
-keywords: Islamic astronomer, Al-Khalili Institute, Adams Prize, Royal Society, Dirac Medal, National Academy of Sciences, mathematics
-description: Al-Khalili was an Islamic astronomer whose achievements included establishing the Al-Khalili Institute and being awarded the Adams Prize, Royal Society, Dirac Medal, and National Academy of Sciences. He published on mathematics, mentored young scientists, and lectured worldwide.
+keywords: al-khalili,al-khalili
+description: Al-Khalili was an Islamic astronomer who compiled extensive tables for astronomical use.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Khalili** was an Islamic astronomer who compiled extensive tables for astronomical use.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Al-Khalili Mathematics Institute at the University of Exeter, UK.
-2. Awarded the Adams Prize at Cambridge University, UK in 1996.
-3. Appointed as a fellow of the Royal Society, UK in 2009.
-4. Awarded the Dirac Medal at the Abdus Salam International Centre for Theoretical Physics, Italy in 2017.
-5. Elected to the National Academy of Sciences, USA in 2019.
-6. Provided advice to the British Government on mathematics and mathematical research.
-7. Authored over 100 scientific articles and academic papers related to mathematics and mathematical physics.
-8. Lectured at universities and science organizations around the world about mathematics.
-9. Acted as a mentor to young scientists and mathematicians interested in the field.
-10. Published several books and monographs on mathematics.
+* Of course, giving tables for timekeeping using astronomical events, requires a thorough understanding of geometry on the sphere and the work by al-Khalili can be seen as the end-product of the work of the Arabs on this mathematical topic.
+* Of course, al-Khalili did not do all this work without basing some of it on the work of earlier mathematicians, to see the magnitude of his task note that one table alone contains over 13000 entries.
+* Al-Mizzi died around 1350 and the first two of al-Khalili's tables were improved versions of the ones produced by al-Mizzi, where al-Khalili had taken more accurate values for the terrestrial coordinates of Damascus.
+* Al-Khalili's tables for solving the problems of spherical astronomy can be seen to be tables which solve spherical triangles using a method similar to the modern cosine rule.
+* computer-based tests to determine, if possible, the methods of computation used by al-Khalili in the construction of his auxiliary tables.
+* The tables produced by al-Khalili for the direction of Mecca must have been calculated using his own auxiliary tables (which would be the most accurate available).
+* This is a greater degree of accuracy than would result if al-Khalili used his auxiliary tables in their present form.
+* One possible solution is that al-Khalili had computed more accurate auxiliary tables before calculating his tables for the direction of Mecca but these are now lost.
 
 Born about 1320, possibly Damascus, Syria. Died about 1380, possibly Damascus, Syria.
 

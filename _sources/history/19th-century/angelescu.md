@@ -7,10 +7,10 @@ orderid: 1886
 title: Angelescu, Aurel
 born: 1886
 died: 1938
-keywords: Aurel Angelescu, Romanian, algebra, functions, Möbius, Correns Prize, analytical
-description: Aurel Angelescu, a Romanian mathematician, made key contributions to algebra and the theory of functions, such as Möbius transformation, Correns Prize, and analytical functions.
+keywords: aurel angelescu,angelescu
+description: Aurel Angelescu was a Romanian mathematician who contributed to the development of algebra and the theory of functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Aurel Angelescu**  was a Romanian mathematician who contributed to the development of algebra and the theory of functions.
 
 ### Mathematical Profile (Excerpt):
-Aurel Angelescu was an Romanian mathematician who made several major contributions to the field of mathematics. Some of his key achievements include:
-1. Solving the three-variable Möbius transformation equation in 1918, for which he was awarded the Correns Prize by the French Academy of Sciences.
-2. Establishing a formally correct yet optimistic view on the behavior of analytical functions under boundary conditions in 1924.
-3. Developing a rigorous theory of continued fractions in 1927. 
-4. Creating the foundation of metric theory of analytic functions, which he applied to the Gamma function in 1929.
-5. Exploring the theory of theta functions in 1935 and developing the theory of monogenic functions in 1940. 
-6. Proposing solution to the annulus problem in 1955.
+* Angelescu attended both primary and secondary school in Ploiești.
+* The school was given this name in 1866 but the buildings that Angelescu studied in on Independence Boulevard were only completed about the time he began to study there.
+* Angelescu loved mathematics and his interest in the subject was heightened throughout his time at this high school by the journal Gazeta Matematica (The Mathematical Gazette) and he began to make numerous contributions to this publication.
+* Angelescu was in the eighth grade at this high school when he attended Abramescu's course on Analytical Geometry which later was published as the book Lectures in Analytical Geometry for Eighth Grade Students (1907).
+* Later in life, Abramescu was proud of the fact that one of the first students he taught, namely Aurel Angelescu, went on to surpass his teacher as a mathematician.
+* Aurel Angelescu went to Paris for his university studies and graduated with a bachelor degree from the Sorbonne.
+* Polynômes d'Hermite, published in 1926, Appell writes about the results in Angelescu's thesis.
+* Appell also mentioned Angelescu's results on Hermite polynomials in his 1925 memoir  Sur les fonctions hypergéométrique de plusiers variables, les polynômes d'Hermite et autres fonctions sphérique dans l'hyperespace Ⓣ(On the hypergeometric functions of several variables, Hermite polynomials  and other spherical functions in hyperspace).
+* After his return to Romania, following the recommendation of Gheorghe Țițeica, Aurel Angelescu was appointed, on 1 November 1919, as a professor at the Function Theory Chair of the University of Cluj.
+* Angelescu was fully dedicated to the intense work of organizing mathematical education at the University.
+* Angelescu's position at Cluj was tenured in 1922.
+* Beginning on 1 January 1930, Angelescu became full professor of Algebra and Number Theory at the University of Bucharest.
+* Aurel Angelescu's main fields of interest were generating functions for polynomials, linear differential equations, functional analysis, trigonometric series and the general theory of algebraic equations.
+* The polynomials, generalising the Laguerre polynomials, which Angelescu defined in this 1938 paper are today known as the 'Angelescu polynomials'.
+* Angelescu played a large role in producing new lecture courses at the University of Cluj and he published many of these, some as single authored works and others along with his colleagues.
+* Angelescu was elected to the Romanian Academy of Sciences on 21 December 1935.
+* At the young age of almost 52 years, Professor Aurel Angelescu tragically died in April 1938.
 
 Born 15 April 1886, Ploiești, Prahova County, Romania. Died 6 April 1938, Bucharest, Romania.
 

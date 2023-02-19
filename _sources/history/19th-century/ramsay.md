@@ -7,10 +7,10 @@ orderid: 1879
 title: Ramsay, Peter
 born: 1879
 died: 1926
-keywords: Peter Ramsay, Ramsay number, Ramsey's theorem, formalist David Hilbert, topological graphs, homostrophic, heterostrophic, Heawood conjecture
-description: Peter Ramsayis remembered for his achievements in mathematics: proving Ramsey's theorem, solving a problem of irrational numbers, introducing new concepts, solving the 4-vertex graph puzzle, and proving the Heawood conjecture.
+keywords: peter ramsay,ramsay
+description: Peter Ramsay graduated from Glasgow University and taught at George Watson's School in Edinburgh.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Peter Ramsay** graduated from Glasgow University and taught at George Watson's School in Edinburgh. 
+**Peter Ramsay** graduated from Glasgow University and taught at George Watson's School in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-1. Peter Ramsay developed the Ramsay number, a type of integer related to graph theory. 
-2. He proved Ramsey's theorem in 1930, a landmark theorem in mathematics that relates to the popularly known "Erdős–Rado theorem".
-3. He solved, independently of formalist David Hilbert, the problem of monotone subsequences of irrational numbers.
-4. He also conducted work on topological graphs and invented the notions of abstract and geometric complete graphs.
-5. He formally proved that a certain 4-vertex graph is the only possible graph with smallest degree of every vertex equaling two.
-6. He introduced the concepts of homostrophic and heterostrophic sets.
-7. He discovered and proved the Heawood conjecture regarding the graph coloring problem.
+* His mother was  Helen F Ramsay (born in Campsie, Stirlingshire about 1854).
+* Peter Ramsay had an older sister Helen (born about 1879).
+* After the death of James Ramsay Helen F Ramsay married the widower Robert McLintock (born Kilbarchan, Renfrewshire about 1842).
+* Peter Ramsay was educated at Whitehill Public School, Glasgow.
+* Ramsay studied at Glasgow University.
+* Mr Peter Ramsay, M.A., B.Sc., has been appointed Dr Pinkerton's successor as head of the Mathematics Department in George Watson' s College, Edinburgh.
+* Mr Ramsay is an honours graduate of Glasgow University, and a week or two ago was selected for a similar post in Daniel Stewart's College, which he now vacates.
+* Ramsay became a member of the Edinburgh Mathematical Society in March 1905.
+* Mr Ramsay was travelling in a tramcar when he became ill.
+* With him at the time, were several masters of Watson's College, who helped to assist Mr Ramsay to a taxi cab.
+* A native of Glasgow, Mr Ramsay had a distinguished career at Glasgow University, and taught at Allan Glen's school in his native city from 1900 to 1908.
+* Mr Ramsay's wife predeceased him over a year ago.
 
 Born 1879, Glasgow, Scotland. Died 2 July 1926, Edinburgh, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1837
 title: Lexis, Wilhelm
 born: 1837
 died: 1914
-keywords: Wilhelm Lexis, time series, Lexis Paradox, statistical mechanics, migratory equation, Markov chain, Lexis Triangle
-description: Wilhelm Lexisdeveloped multiple mathematical models to study population growth, initiating the modern field of statistical demography.
+keywords: wilhelm lexis,lexis
+description: Wilhelm Lexis studied data presented as a series over time thus initiating the study of time series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Wilhelm Lexis** studied data presented as a series over time thus initiating the study of time series.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Lexis Paradox, a mathematical theorem showing that a population's constantly increasing growth rate may lead to a decrease in its average lifespan.
-2. Introduced "statistical mechanics," which was a revolutionary approach to understanding population growth on the basis of average lifespans.
-3. Constructed a mathematical "migratory equation" which could describe a population's overall migratory movements and population growth.
-4. Demonstrated that the total sum of a population's lifespans is a measure of its population size.
-5. Coined the term “Markov chain” to characterize a stochastic process modeled by a sequence of random variables.
-6. Developed a deterministic model of population dynamics, which was known as the "Lexis Triangle".
-7. Established the modern field of statistical demography, which seeks to understand social phenomena through mathematical and statistical models.
+* Despite the fact that his training up to this point had been a broad one, in 1861 Lexis went to Paris to study social sciences.
+* In 1872 Lexis was appointed as professor of economics at the University of Strassburg.
+* It was in Freiburg that Lexis made his major contributions to statistics.
+* From 1876-79 Lexis studied data presented as a series over time.
+* Lexis required a binomial dispersion for his series to be stable and this ruled out most interesting series.
+* Lexis left Freiburg in 1884 to take up the chair of economics at the University of Breslau, then in 1887 he made his final career move when he accepted the chair of political science at Göttingen.
+* Rather than concentrate on any one of his diverse interests as his career progressed, Lexis studied and wrote on a wider and wider collection of topics.
 
 Born 17 July 1837, Eschweiler (near Aachen), Germany. Died 25 October 1914, Göttingen, Germany.
 

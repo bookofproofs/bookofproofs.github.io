@@ -7,10 +7,10 @@ orderid: 1596
 title: Golius, Jacobus
 born: 1596
 died: 1667
-keywords: Jacob Gool, integral calculus, variations, polynomials, derivatives, integrals, numerical solutions
-description: Jacob Gool was a renowned orientalist, astronomer, and mathematician known for his book on integral calculus and innovative methods of teaching applied mathematics.
+keywords: jacob gool,golius
+description: Jacob Golius or Jacob Gool was an orientalist, astronomer and mathematician based at the University of Leiden in Netherlands.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jacob Golius** or **Jacob Gool** was an orientalist, astronomer and mathematician based at the University of Leiden in Netherlands.
 
 ### Mathematical Profile (Excerpt):
-1. Jacob Gool wrote the book "Integral Calculus: Foundations and Elementary Applications" which allows undergraduate students to master essential calculus techniques.
-2. He developed a novel approach to teach applied mathematics using the theory of variations.
-3. He formulated an effective way to evaluate the numerical range for large order polynomials.
-4. He derived a new estimation method for the indefinite integral of an arbitrary function.
-5. He discovered universal approximations for the numerical evaluation of derivatives and integrals. 
-6. He developed an efficient algorithm for the numerical solution of systems of differential equations. 
-7. He achieved a novel approximation formula for the roots of equations. 
-8. He proposed an efficient algorithm for the numerical solving of various kinds of integral equations.
+* His parents were Dirck Pietersz Gool and Anna Hemelaers.
+* Dirck Gool had been a resident of the city of Leiden and had lived through the siege of that city by the Spanish from May until October 1574.
+* Dirck Gool held various important administrative positions in the Court of Holland in The Hague and was first clerk in the State Council.
+* Constantin Huygens was, in fact, born in the same year as Jacob, the subject of this biography.
+* Little is known of Jacob's mother, Anna, but it is recorded that Jacob was named after the pastor Jacob Starck who was a great uncle of his mother.
+* Jacob had a brother Petrus Gool.
 
 Born 1596, The Hague, Netherlands. Died 28 September 1667, Leiden, Holland.
 

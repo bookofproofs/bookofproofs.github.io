@@ -7,10 +7,10 @@ orderid: 1584
 title: Vernier, Pierre
 born: 1584
 died: 1638
-keywords: Pierre Vernier, Vernier scale, Vernier caliper, hyperbola, cone, mathematics, refraction of light
-description: Pierre Vernier developed the Vernier scale, a device used to measure with precision, as well as mathematical formulas for hyperbolas, cones, and light refraction.
+keywords: pierre vernier,vernier
+description: Pierre Vernier was a French engineer best known for inventing the Vernier measuring scale.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pierre Vernier** was a French engineer best known for inventing the Vernier measuring scale.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Vernier scale, a device used to make very precise measurements in a laboratory. 
-2. Devised a method for measuring the diameter of a cannon barrel using two rods, which later came to be known as the Vernier caliper. 
-3. Proved the duality between sections of a hyperbola and those of a cone and developed a formula for calculating the distances along a hyperbola. 
-4. Developed a way to calculate the area of any given irregular figure. 
-5. Published a book on mathematics, Harmonics and Geometry, which included diagrams illustrating the theory of the refraction of light and the mathematics of spherical perspective.
+* His father introduced Pierre to the works of Clavius and Brahe.
+* Being born in Franche-Comté (Free Country) meant that Vernier (and his father) were involved, not with the government of France but with that of Spain.
+* Franche-Comté was a Habsburg possession controlled by the Spanish Habsburgs throughout Vernier's life.
+* Vernier became a government official holding various positions such as military engineer for the Hapsburgs and director general of the treasury in Dole and Besançon, the capital of Franche- Comté.
+* Vernier also held various government posts with the government of Spain and became a Conseiller du Roi.
+* In fact the threat of war was never far away and during the last two years of Vernier's life Franche-Comté was frequently invaded by France.
+* Like many other mathematicians and scientists of this period, Vernier worked on cartography and on surveying.
+* In this book Vernier gives a table of sines and a method for deriving the angles of a triangle if its sides are known.
+* He also describes his most famous invention, that of the vernier caliper, an instrument for accurately measuring length.
+* It has two graduated scales, a main scale like a ruler and a second scale, the vernier, that slides parallel to the main scale and enables readings to be made to a fraction of a division on the main scale.
 
 Born 19 August 1584, Ornans, Franche-Comté, Spanish Habsburgs (now France). Died 14 September 1638, Ornans, Franche-Comté, Spanish Habsburgs (now France).
 

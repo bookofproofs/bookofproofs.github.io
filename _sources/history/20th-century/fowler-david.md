@@ -7,10 +7,10 @@ orderid: 1937
 title: Fowler (2), David
 born: 1937
 died: 2004
-keywords: Greek Math, EDA, Algorithms, Linear Algebra, Batched Row Major, Variational Problems, Parallel Linear Solver
-description: David Fowler was a noted English mathematician and historian of Greek math, known for his work on EDA algorithms and linear algebra, such as the batched row major concept and parallel linear solvers.
+keywords: david fowler,fowler
+description: David Fowler was an English mathematician who is best known as a historian of Greek mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Fowler** was an English mathematician who is best known as a historian of Greek mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an Element Displacement Algorithm (EDA) for solving algebraic equations. 
-2. Published research papers on the analysis of linear algebraic systems.
-3. Discovered novel methods of applying linear algebra to nonlinear problems. 
-4. Developed a computational framework for solving high-dimensional linear and nonlinear equations.
-5. Formulated the concept of a ‘batched row major matrix’, a new way of organizing data in matrices for faster computation.
-6. Developed algorithms for solving large linear equations that significantly reduce the time it takes to solve them. 
-7. Found a way to reduce the number of required computations when solving variational problems. 
-8. Contributed to the development of a parallel linear equation solver for distributed memory systems. 
-9. Developed a highly-performant numerical library for solving linear and nonlinear equations. 
-10. Developed a linear method for solving the Kohn-Sham equations in density-functional theory.
+* David was generous and thoughtful, enthusiastic and sensitive to the feelings of others, and seldom angry.
+* In 1961 Fowler was appointed as a lecturer in Mathematics at Manchester University, a post he held until 1967.
+* Zeeman persuaded the Nuffield Foundation to fund the Mathematics Research Centre at Warwick University in 1967 and he offered Fowler the role of manager of the Centre.
+* My first impressions of David were to realise what thoughtful, kind person he was, and then quickly to appreciate his outstanding abilities as a lecturer.
+* As a result, there were, in almost every year during Fowler's first 25 years at Warwick, more mathematicians visiting the university's Mathematics Department than there were mathematical visitors to all other English universities combined - a remarkable record for a new university.
+* In that book, David Fowler anticipated many of my difficulties.
+* Fowler married Denise Stroh; they had two children Stephan and Magali.
+* Denise was French and David and Denise Fowler had worked together on a translation from French to English of René Thom's famous book Structural Stability and Morphogenesis.
+* But Fowler's worldwide reputation is as an historian who came up with mould breaking ideas.
+* quickly fascinated Fowler.
+* At Warwick, Fowler was a Lecturer in Mathematics from 1967 to 1980 when he was promoted to Senior Lecturer.
+* By the time Fowler was working on the second edition of his book, he knew that he was seriously ill.
+* After being diagnosed with a brain tumour, Fowler continued to teach at Warwick and continued with his historical research.
 
 Born 28 April 1937, Blackburn, Lancashire, England. Died 13 April 2004, Warwick, Warwickshire, England.
 

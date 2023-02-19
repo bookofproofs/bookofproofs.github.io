@@ -7,10 +7,10 @@ orderid: 1700
 title: Bliss, Nathaniel
 born: 1700
 died: 1764
-keywords: Nathaniel Bliss, Astronomer Royal, Instruments, Transit Instrument, Nautical Almanacs, Movable Mural Quadrant, Nutation, Spherical Trigonometry
-description: Nathaniel Bliss was appointed 2nd Astronomer Royal in 1762, improving instruments and establishing the transit instrument. He developed a nautical almanacs, movable mural quadrant, discovered nutation, and devised principles of spherical trigonometry.
+keywords: nathaniel bliss,bliss
+description: Nathaniel Bliss was an English mathematician and astronomer who went on to become Astronomer Royal.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nathaniel Bliss** was an English mathematician and astronomer who went on to become Astronomer Royal.
 
 ### Mathematical Profile (Excerpt):
-1. Appointed as the second Astronomer Royal in 1762, and improved the instruments of the Royal Observatory in Greenwich. 
-2. Established the transit instrument in 1756, as a device used to accurately measure a star's position.
-3. Developed and introduced ‘Nautical almanacs’, a set of astronomical data used by navigators to calculate a ship's position at sea.
-4. Improved and introduced the movable mural quadrant at the Royal Observatory in Greenwich in 1763.
-5. Recognized changes in the rate of movement of the earth's axis, allowing him to make the necessary corrections to star-based navigation.
-6. Discovery of the nutation, were minute variations in the speed of the Earth’s axial rotation.
-7. Devised principles of spherical trigonometry for nautical observations. 
-8. Developed a method for applying greater accuracy when defining angles of position on navigational charts.
+* His father, also named Nathaniel Bliss, was a clothier in the town where his son was born.
+* Nathaniel and Elizabeth Bliss had many children but only four survived him.
+* Bliss then took holy orders, becoming rector of St Ebbe's Church, Oxford in 1736.
+* Following the death of Halley in January 1742, Bradley applied for the position of Astronomer Royal and Bliss applied for the Savilian chair of geometry.
+* Bliss was supported for this post by Bradley, and also by (among others) George Parker, the second earl of Macclesfield, and by William Jones.
+* Bliss was appointed and took up the position on 18 February 1742.
+* One consequence of this was that he moved to Greenwich and Bliss now began a correspondence with Bradley which lasted 20 years until Bradley's death.
+* In addition Bliss undertook astronomical work with George Parker, the second earl of Macclesfield, who had established an observatory at Shirburn Castle.
+* Bliss supplied Bradley with data gained from observing Jupiter's moons and collaborated with Bradley and the Earl of Macclesfield in making observations of the comet of 1745.
+* Bliss, of course, was Savilian professor of geometry at Oxford so, although his research interests were mainly in astronomy, he also taught mathematics at Oxford.
+* Bliss undertook these observations which he sent to the Royal Society.
+* Bliss applied for the position and was duly appointed on 26 August 1762.
+* It seems slightly ironical, but Bliss seems to have been more productive in astronomy research when he was the professor of geometry than when he was Astronomer Royal.
+* Bliss was one of three leading astronomers to examine the instruments that Maskelyne took to St Helena in 1763-64 as part of the longitude project.
+* Mrs Bliss was clearly the driving force behind the special lecture given in the Bodleian Library tower above the Schools quadrangle, for her name heads the published prospectus as organizer, taking precedence over Professor Hornsby who merely delivered it, and stipulating that the admission fee would be by ticket for half a crown.
 
 Born 28 November 1700, Bisley, Gloucester, England. Died 2 September 1764, London, England.
 

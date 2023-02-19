@@ -7,10 +7,10 @@ orderid: 1891
 title: Ince, Edward
 born: 1891
 died: 1941
-keywords: Edward Ince, Edinburgh, Cambridge, Leeds, Liverpool, Cairo, Imperial College London, mathematical induction, quadratic equation, axioms, Treatise, Ince transform, Cauchy-Reimann equations, integral equations, limit cycle
-description: Edward Ince graduated in Edinburgh and researched at UK universities, creating mathematical induction, quadratic equations, axioms, the Ince transform, Cauchy-Reimann equations, integral equations and a limit cycle.
+keywords: edward ince,ince
+description: Edward Ince graduated from Edinburgh and researched at Edinburgh and Cambridge. He worked at universities in Leeds, Liverpool, Cairo, Edinburgh and Imperial College London before moving back to Edinburgh as Head of Technical Mathematics. He worked on Special Functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Ince** graduated from Edinburgh and researched at Edinburgh and Cambridge. He worked at universities in Leeds, Liverpool, Cairo, Edinburgh and Imperial College London before moving back to Edinburgh as Head of Technical Mathematics. He worked on Special Functions.
 
 ### Mathematical Profile (Excerpt):
-1. Established the concept of mathematical induction for the first time in 1839.
-2. Developed the earliest example of a function, known as a "quadratic equation," in 1839.
-3. Came up with the first set of axioms for geometry in 1841.
-4. Co-authored the Treatise on Differential Calculus in 1842.
-5. Developed the Ince transform in 1848, which is used to solve problems in modern physics and engineering.
-6. Proposed the Cauchy-Reimann equations which are important for solving complex problems related to partial differential equations.
-7. Created a system for classifying integral equations in 1859.
-8. Constructed the earliest example of a limit cycle in 1866.
+* Edward, his parents' only son, was born in Amblecote which is west of Birmingham.
+* In 1909 Ince matriculated at Edinburgh University where he read mathematics.
+* Ince graduated in 1913 with First Class Honours in mathematics and was awarded a scholarship to remain at Edinburgh University to undertake research.
+* When the war ended in 1918 Ince was released from the war work he was undertaking and was appointed as a lecturer in mathematics at the University of Leeds.
+* In 1926 Ince left Liverpool to take up the chair of pure mathematics at the Egyptian University in Cairo.
+* Ince's research was mainly on differential equations.
+* Ince was the first to prove the proving the uniqueness of the Mathieu functions as periodic solutions.
+* Ince published a major text Ordinary Differential Equations (Longmans, Green and Co., London, 1926).
+* On behalf of the British Association Committee for the Calculation of Mathematical Tables, Ince prepared Mathematical Tables, Volume IV: Cycles of reduced ideals in quadratic fields  which was published in 1934.
+* After Ince returned to the chair in Edinburgh he became involved with the short student texts which were being published by Oliver and Boyd, Edinburgh.
+* One further paper, Simultaneous linear partial differential equations of the second order, was edited by Erdélyi after Ince's death and published in the Proceedings of the Royal Society of Edinburgh  in 1942.
+* Ince was honoured with election to the Royal Society of Edinburgh on 5 March 1923.
 
 Born 30 November 1891, Amblecote, Staffordshire, England. Died 16 March 1941, Edinburgh, Scotland.
 

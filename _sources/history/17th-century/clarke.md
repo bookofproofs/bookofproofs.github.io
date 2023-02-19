@@ -7,10 +7,10 @@ orderid: 1675
 title: Clarke, Samuel
 born: 1675
 died: 1729
-keywords: Samuel Clarke, Sir Isaac Newton, metaphysical, Preposterous Demonstration, Clarke-Leibniz Principle, Aritstotle, Euclid, Ellipse, Curved Space
-description: Samuel Clarke researched physics and metaphysics, published Latin translation of Sir Isaac Newton's works, developed Clarke-Leibniz Principle and proposed five axioms for Euclid.
+keywords: samuel clarke,clarke
+description: Samuel Clarke was an English clergyman who wrote on mechanics as well as philosophy and metaphysics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Samuel Clarke** was an English clergyman who wrote on mechanics as well as philosophy and metaphysics.
 
 ### Mathematical Profile (Excerpt):
-1. Published the Latin translation of Sir Isaac Newton's "Philosophiae Naturalis Principia Mathematica" in 1706.
-2. Published a Treatise of Preposterous Demonstration in 1715, which demonstrated that a logical contradiction renders a proposition mathematically invalid.
-3. Developed a version of the cosmological argument for the existence of God that has been termed "The Clarke-Leibniz Principle".
-4. Authored An Answer to Mr. Leibniz's Philosophical Questions in 1717, which sought to defend Newton's law of motion.
-5. Published an edition of the works of the ancient philosopher Aristotle in 1723-1725.
-6. Proposed five axioms for Euclidean geometry which were later used in [Euclid's Elements][bookofproofs$621].
-7. Developed a method for calculating an ellipse’s long axis from the length of its minor axis.
-8. Introduced the notion of a curved space and proposed curvature as a function of distance.
+* Samuel was educated in Norwich, attending the Norwich Free Grammar School from 1685 to 1690, then entering Caius College, Cambridge in 1691.
+* Clarke added notes giving a Newtonian perspective to the text which was published in 1697.
+* When he produced further editions in 1702 and 1710, Clarke went even further in producing a text based on Newtonian physics.
+* Whiston introduced Clarke to the Bishop of Norwich and, when Whiston moved on in 1698 (eventually becoming Newton's assistant at Cambridge three years later), Clarke replaced him as chaplain to the Bishop of Norwich.
+* The Bishop gave Clarke the charge of Drayton, near Norwich, and around this time Clarke married Katherine Lockwood, daughter of the rector of Little Maningham in Norfolk.
+* Clarke was considered the greatest metaphysician in England when Locke died in 1704.
+* In 1706 Newton asked Clarke to translate his Opticks into Latin.
+* Clarke attracted great controversy with his religious views having few supporters.
+* Further religious controversy followed and Clarke had to make various declarations of orthodox belief which seemed to be just enough to save him, although it was noted that he had not recanted.
+* In Clarke's early religious writings there was nothing to arouse controversy.
+* In this work Clarke also used arguments based on Newton's Principia as the basis of an attempted proof that an intelligent designer was necessary both to create and to maintain the universe.
+* In 1709 Clarke went to Cambridge to undertake the public dispute necessary to receive the degree of doctor of divinity.
+* In making his position clear, Clarke had now made further advancement within the Church virtually impossible since he would have been asked to again subscribe to the Thirty-Nine Articles which required him to swear belief in the Trinity.
+* Clarke defended Newtonian theory and corresponded with Leibniz making significant contributions to mechanics during the correspondence.
+* Clarke, in his reply, managed to use the idea of action at a distance to support a belief in human freedom and moral choice.
+* The death of Leibniz on 14 November 1716 in the middle of the correspondence rather handed victory to Clarke.
+* When Newton died in 1727, Clarke was offered the position as master of the Royal Mint but he turned it down, stating that it was not consistent with his role as a clergyman.
 
 Born 11 October 1675, Norwich, England. Died 17 May 1729, London, England.
 

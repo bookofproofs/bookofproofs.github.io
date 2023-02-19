@@ -7,10 +7,10 @@ orderid: 1886
 title: Lesniewski, Stanislaw
 born: 1886
 died: 1939
-keywords: Stanisław Lesniewski, Propositional Calculus, three-valued logic, domains, truth/grounding, conventionalism, Lvov-Warsaw School
-description: Stanisław Lesniewski, founder of the Lvov-Warsaw School, developed Propositional Calculus, three-valued logic, domains & more to advance the foundations of mathematics.
+keywords: stanisław leśniewski,lesniewski
+description: Stanisław Lesniewski was a Russian-born mathemtician who was one of the founders of the Polish school of logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Stanisław Lesniewski** was a Russian-born mathemtician who was one of the founders of the Polish school of logic.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Propositional Calculus, which is an axiomatic system for logic. 
-2. Developed a three-valued logic based on his calculus.
-3. Introduced the notion of domains to serve as a foundation of mathematics.
-4. Discovered the implications of propositional logic with respect to truth and grounding.
-5. Put forth a late conventionalist approach to mathematics, claiming that the foundations of mathematics should be based on definitions and conventions.
-6. Established the category of Western ontology, which is based on the idea of ontological relativehood.
-7. Developed the logic of partial terms, which allowed for the expression of incomplete objects to be expressed through propositions.
-8. Founded the school of thought known as Lvov-Warsaw School, which was based on his classification theory.
+* It was a job which involved Isydor Lesniewski being sent to places where railways were being constructed and at the stage when Stanisław was attending secondary school the family were living in Siberia.
+* Stanisław attended school there in the town of Irkutsk.
 
 Born 30 March 1886, Serpukhov (near Ivanovo-Vosniesiensk), Russia. Died 13 May 1939, Warsaw, Poland.
 

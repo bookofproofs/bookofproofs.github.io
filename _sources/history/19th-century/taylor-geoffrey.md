@@ -7,10 +7,10 @@ orderid: 1886
 title: Taylor (4), Geoffrey
 born: 1886
 died: 1975
-keywords: Geoffrey Taylor, fluid dynamics, wave theory, Crystal World, convective turbulence, Taylor-Couette Flow, statistical mechanics
-description: Geoffrey Taylor, British physicist & mathematician, developed Crystal World & advanced the fields of fluid dynamics, wave theory, convective turbulence, & statistical mechanics.
+keywords: geoffrey taylor,taylor
+description: Geoffrey Taylor was a British physicist and mathematician who worked in fluid dynamics and wave theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Geoffrey Taylor** was a British physicist and mathematician who worked in fluid dynamics and wave theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of Crystal World for analyzing two-dimensional crystal lattices. 
-2. Published revolutionary papers on the optical properties of liquid surfaces. 
-3. Discovered the importance of convective turbulence in understanding the Earth’s geophysical environment. 
-4. Proposed the Taylor-Couette Flow as a dynamics model of spiraling hurricanes. 
-5. Focused on studying the physics of galactic rotation and stellar structure. 
-6. Demonstrated the peculiar effects of surface tension on drops, bubbles and streamlines. 
-7. Pioneered the technique of statistical mechanics in studying the atomic, chemical and electrical properties of matter. 
-8. Advanced the theory of fluids, viscosity and particle diffusion. 
-9. Helped with the development of calculations about the structure of liquid mercury at high magnetic fields. 
-10. Developed the kinetic theory of gases and explained the relation between temperature and pressure of gas particles.
+* His mother, Margaret Boole (born in Ireland about 1859), was the second daughter of George Boole and Mary Boole, so Geoffrey was a grandson of George Boole and Alicia Stott was his aunt.
+* Geoffrey Taylor attended school in Hampstead, and there he began to find his love of science.
+* He was introduced to William Thomson at one of these lectures and Lord Kelvin told him he had been friendly with Geoffrey Taylor's grandfather George Boole.
+* In 1899 Taylor went to University College School and in 1905 he won a scholarship to study at Trinity College, Cambridge.
+* The ship the Scotia was the first vessel sent on such a patrol in 1913, and Taylor served as meteorologist on the ship.
+* Taylor did not treat this as an office job for a researcher, however, for he took a very active part learning to fly aeroplanes and make parachute jumps.
+* In 1923 Taylor was appointed to a Royal Society research professorship as a Yarrow Research Professor.
+* At this stage Taylor made a great many fundamental steps in the study of fluids.
+* In 1925 Taylor married Stephanie Ravenhill; they had no children.
+* Taylor continued his research after the end of the War, taking the opportunity to complete some more thorough investigations into problems where previously the pressure of finding solutions had prevented him from taking his study further.
+* Taylor received many honours during his life.
+* No biography of Geoffrey Taylor would be complete without describing some of his interests outside mathematics.
 
 Born 7 March 1886, St John's Wood, London, England. Died 27 June 1975, Cambridge, England.
 

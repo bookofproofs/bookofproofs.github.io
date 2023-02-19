@@ -7,10 +7,10 @@ orderid: 1847
 title: Wilson (3), John
 born: 1847
 died: 1896
-keywords: John Wilson, Mathematics, Algebra, Logic, Number Theory, Geometry, Educator
-description: John Wilsonwas a renowned Scottish mathematician, educator and lecturer who advanced mathematical research and education through his work on algebra, logic, number theory, and geometry.
+keywords: john wilson,wilson
+description: John Wilson was a Scottish mathematician who took over the Rectorship of his father's Academy in Bannockburn and later moved to Edinburgh as a tutor in mathematics and physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Wilson** was a Scottish mathematician who took over the Rectorship of his father's Academy in Bannockburn and later moved to Edinburgh as a tutor in mathematics and physics.
 
 ### Mathematical Profile (Excerpt):
-John Wilson was a prominent mathematician and educator. During his career, he published numerous works on algebra, logic, number theory, and geometry. He was a highly respected professor at several universities and a noted lecturer at many international symposiums and conferences. 
-Key Achievements of John Wilson Related to Mathematics: 
-1. Published numerous works on algebra, logic, number theory, and geometry.
-2. Highly respected professor at several universities.
-3. Noted lecturer at many international symposiums and conferences. 
-4. Pioneered new approaches to mathematical education and research.
-5. Developed new techniques in solving complex mathematical problems.
-6. Improved existing mathematical models and theories.
-7. Established groundbreaking theories in the fields of algebra, logic, number theory, and geometry.
+* John Wilson was an undergraduate at the University of Edinburgh and graduated with an M.A. He then entered the New College where he was trained for the ministry, becoming a licensed preacher in the Free Presbytery of Edinburgh.
+* Wilson's father retired from being rector of the Academy and Wilson took charge of the school until 1887 when it was merged with the Public School.
+* Wilson joined the Edinburgh Mathematical Society in February 1885, two years after the Society was founded.
+* The Royal Society of Edinburgh elected Wilson to a fellowship of the Society on 4 February 1878.
+* Wilson's obituary, written by C G Knott, appeared in John Wilson, Proc.
+* John Wilson, M.A., F.R.S.E., 25 Buccleugh Place, Edinburgh, who was at one time Rector of Bannockburn Academy, having succeeded his father in that office.
+* Mr Wilson was a mathematician of a high order, and took a deep interest in the advancement of his favourite science.
+* Mr Wilson, who was for long an elder of the Free High Church, was a modest, unassuming, warm-hearted, kindly man, and his death brings with it keen and lasting regret to a large circle of friends.
 
 Born 21 November 1847, Montrose, Angus, Scotland. Died 8 December 1896, Edinburgh, Scotland.
 

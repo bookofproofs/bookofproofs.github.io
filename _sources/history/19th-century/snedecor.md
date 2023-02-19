@@ -7,10 +7,10 @@ orderid: 1881
 title: Snedecor, George Waddel
 born: 1881
 died: 1974
-keywords: correlation, ANOVA, F-test, least squares regression, Theory of Statistics, Institute of Mathematical Statistics, Gauss-Markov theorem
-description: George Waddel Snedecorwas an American mathematician, statistician, and pioneer of correlation, ANOVA, F-test, least squares regression, and Gauss-Markov theorem.
+keywords: george waddel snedecor,snedecor
+description: George Waddel Snedecor was an American mathematician and statistician who worked on correlation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Waddel Snedecor** was an American mathematician and statistician who worked on correlation.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical foundations for analysis of variance (ANOVA) in his book Statistical Methods Applied to Experiments in Agriculture and Biology, published in 1934.
-2. Devised the F-test – a statistical technique to test the results of ANOVA.
-3. Pioneered the concept of least squares regression in 1916.
-4. Published Theory of Statistics in 1933 and Linear Statistical Analysis in 1941.
-5. Developed numerous methods for sampling, including the Estimator of Mathematical Expectation.
-6. Was a founding member of the Institute of Mathematical Statistics in 1943.
-7. Developed the Gauss-Markov theorem, a generalization of the French mathematician Siméon-Denis Poisson's work on the linear regression model.
-8. Established the first classroom devoted to statistical instruction at the University of Iowa in 1927.
+* He married Emily on 20 January 1880 and George Waddel, the subject of this biography, was their first child.
+* Because James had poor health, the family moved to an isolated log cabin home in Florida when George was one year old.
+* The family lived there for five years and George's sisters, Elizabeth, Harriet and Ione, and a brother, Estes, were born there.
+* Two further brothers for George were born in Alabama; Palmer Godden in 1891 and James Gayle in 1894.
+* George had just begun his elementary schooling in Florida before the family moved to Alabama where he completed the rest of his schooling.
+* George Snedecor attended Alabama Polytechnic Institute in Auburn for two years beginning in 1899.
+* In 1903 the family moved to Tuscaloosa, Alabama, and Snedecor continued his studies at the University of Alabama to be near his family.
+* Let us record at this point that George and Gertrude Snedecor had two sons, Edward Crosier (born in 1914) and James George (born in 1917).
+* In 1910 Snedecor left Austin College to take up an appointment in Ann Arbour as a Graduate Assistant in Physics at the University of Michigan.
+* In 1913 Snedecor was appointed as an Assistant Professor of Mathematics at Iowa State College and in the following year he was promoted to Associate Professor.
+* Certainly up to this time Snedecor had only been involved in teaching statistics and had no publications in the topic.
+* Entitled Correlation and Machine Calculation, this became Snedecor's first publication.
+* In 1927 the Mathematics Statistical Service was founded at Iowa State College; it was led by Snedecor and his colleague A E Brandt.
+* Academically things were going exceptionally well with Snedecor's student Gertrude Cox completing the first Master's Thesis on statistics at Iowa State in 1931 and, in September of the same year, Snedecor was given charge of the computing services.
+* Snedecor, Brandt and Cox were the initial faculty members of the Statistical Laboratory.
+* Snedecor retired from his role in the Statistical Laboratory on 30 June 1947.
+* Snedecor was appointed professor in the Department of Statistics, serving until 1958.
+* Leaving Ames after he retired from Iowa State College in 1958, Snedecor and his wife moved to San Diego, California.
+* In 1963 Snedecor left his consulting position at the Navy Electronics Laboratory so that he could look after his wife who had become seriously ill.
+* By 1965 Snedecor's own health was also failing and he took a heavy blow when his wife had a stroke in June 1966 falling into a coma which she never came out of; she died in September 1966.
+* Snedecor himself suffered a stroke in February 1968 and was not expected to recover.
+* Snedecor received many honours from Iowa State College including an honorary D.Sc. in 1958 and, in 1969, the building at the College which houses the Statistical Laboratory and the Department of Statistics was named Snedecor Hall.
+* Snedecor asked William G Cochran to do the revisions for the sixth edition, and Cochran was listed as the second author of the sixth and seventh editions.
+* Finally we mention the tribute paid to him by the publication of the book Statistical papers in honor of George W Snedecor (1972).
+* Its contributors include friends, former students, and former colleagues of Professor Snedecor - able statisticians who were asked to select their own topics and provide their own scientific refereeing.
+* we believe that this collection will be of interest to statisticians and scientists who know Professor Snedecor personally and to those who have become acquainted with him through various editions of his outstanding book, 'Statistical methods'.
+* Together, these groups should include nearly every statistician and many scientists in the world, for the impact of George Snedecor's statistical work on many scientific investigations in various fields is indeed worldwide.
 
 Born 20 October 1881, Memphis, Tennessee, USA. Died 15 February 1974, Amherst, Massachusetts, USA.
 

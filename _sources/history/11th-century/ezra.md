@@ -7,10 +7,10 @@ orderid: 1092
 title: Abraham Ibn Ezra, ben Meir
 born: 1092
 died: 1167
-keywords: Rabbi Ben Ezra, Islamic Spain, Mathematics, Indian number systems, Abacus, Trigonometry, Pi, Cubic equations
-description: Rabbi Ben Ezra founded the first Jewish Academy of Mathematics in 12th century Cairo and developed new methods of calculating and trigonometry which shaped mathematical education in Europe.
+keywords: rabbi ben ezra,abraham
+description: Rabbi Ben Ezra worked in Islamic Spain and wrote works which introduced Islamic mathematics and Indian number systems to Europe.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Rabbi Ben Ezra** worked in Islamic Spain and wrote works which introduced Islamic mathematics and Indian number systems to Europe.
 
 ### Mathematical Profile (Excerpt):
-1. Established the first formal Jewish Academy of Mathematics in 12th century Cairo. 
-2. Developed a systematic approach to mathematical education and wrote several influential papers on the subject. 
-3. Developed an innovative method of counting and calculating, with the first mention of the 'abacus' in a Jewish text. 
-4. Established an early form of trigonometry and the use of coordinates in geometry. 
-5. Approximated pi to two decimal places. 
-6. Developed new methods for solving cubic equations. 
-7. Applied algebraic methods to calculate areas of circles and other shapes. 
-8. Compiled tables of squares and cubes for calculations related to mortgage loans and taxes.
+* Little is known of his life except that he was on friendly terms with the eminent poet and philosopher Judah ha-Levi, whom some historians believe was ibn Ezra's father-in-law.
+* Ibn Ezra made his reputation as a scholar and a poet.
+* From 1140 to 1160 ibn Ezra's life changed markedly.
+* In addition to these topics, ibn Ezra wrote on permutations and combinations, the calendar, the astrolabe, and Biblical studies.
+* Of the most interest to us in this archive devoted to the history of mathematics is ibn Ezra's work on numbers.
+* In this work ibn Ezra uses zero which he calls galgal (meaning wheel or circle).
+* Despite ibn Ezra's books, these ideas would not become accepted into mainstream European mathematics for several more centuries.
+* Ibn Ezra translated al-Biruni's commentary on al-Khwarizmi's tables and made interesting comments on the introduction of Indian mathematics into Arabic science in the 8th  century.
+* Historians of science try today to quantify precisely how much Arabic mathematics was influenced by knowledge of Indian mathematics, so ibn Ezra's writing on this topic are carefully studied.
 
 Born 1092, Tudela, Emirate of Saragossa (now Spain). Died 1167, Calahorra, Spain.
 

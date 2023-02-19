@@ -7,10 +7,10 @@ orderid: 1706
 title: Franklin, Benjamin
 born: 1706
 died: 1790
-keywords: Ben Franklin, scientist, diplomat, mathematics, index clock, Occult Qualities, conservation of charge, Franklin Dynamo, electrical polarization, lightning rod
-description: Ben Franklin, scientist and diplomat, explored mathematics, invented an index clock, pioneered conservation of charge and Franklin Dynamo, studied Occult Qualities, electrical polarization, and created the lightning rod.
+keywords: benjamin franklin,franklin
+description: Benjamin Franklin was an American scientist and diplomat. His mathematical interests included magic squares.
 references: bookofproofs$6909
-contributors: @Paul-C-Pasles,bookofproofs,@ChatGPT
+contributors: @Paul-C-Pasles,bookofproofs
 
 ---
 
@@ -23,12 +23,10 @@ contributors: @Paul-C-Pasles,bookofproofs,@ChatGPT
 **Benjamin Franklin** was an American scientist and diplomat. His mathematical interests included magic squares.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an index clock with a novel temperature-compensation mechanism that allowed it to be more accurate and reliable than any similar device of its time.
-2. Refined the theory of Occult Qualities, proposing a scientific basis for the effects of electricity on matter.
-3. Pioneered the idea of conservation of charge by demonstrating that electric charge can neither be created nor destroyed.
-4. Constructed a prototype of the Franklin Dynamo, a electrical generating device that was the first of its kind.
-5. Discovered the principle of electrical polarization, which is still widely used in modern telecommunications and radio technology.
-6. Described the behavior of lightning and developed the lightning rod, a device still used today to protect buildings from lightning strikes.
+* Franklin is best known in the popular imagination for his nonscientific pursuits: printer, American revolutionary, ambassador, to mention only a few roles he played.
+* His version of magic square - a variant now termed the Franklin magic square - was inspired by the work of Stifel and Frénicle, both of whose magic squares were of a more traditional variety.
+* Further examples of Franklin's magic squares would not be published until two centuries after his death, and doubtless many more were lost.
+* Franklin enjoyed close personal and professional relationships with quite a few of the important thinkers of his day, such as Hume, Priestley, Lavoisier and Condorcet.
 
 Born 17 January 1706, Boston, Massachusetts, British colony. Died 17 April 1790, Philadelphia, Pennsylvania, USA.
 

@@ -7,10 +7,10 @@ orderid: 1894
 title: Weaver, Warren
 born: 1894
 died: 1978
-keywords: Warren Weaver, Mathematical Models, Operations Research, Rockefeller Foundation, Cybernetics, Monte Carlo, Game Theory, Artificial Intelligence
-description: Leadership in the development of mathematical models and contributing to Operations Research, Cybernetics, and Artificial Intelligence, Warren Weaver was a pioneer in using mathematics in natural and social sciences.
+keywords: warren weaver,weaver
+description: Warren Weaver was an American mathematician famous as one of the pioneers of machine translation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Warren Weaver** was an American mathematician famous as one of the pioneers of machine translation.
 
 ### Mathematical Profile (Excerpt):
-1. A leader in the development and application of mathematical models in the social sciences and natural sciences. 
-2. Co-authored the famous “Dartmouth Paper,” which established the fundamentals of Operations Research.
-3. Founded the Rockefeller Foundation’s “Program in Natural and Social Sciences” in 1949, which sought to better understand the possibilities of utilizing mathematics in the natural and social sciences.
-4. Established the first formal research programs at the Applied Mathematics Panel of the Office of Scientific Research and Development, which helped drive the US victory during WWII.
-5. Pioneered Random walks theory and proposed the field of cybernetics, which studies the technique of systems control and communication.
-6. Supported the development of Monte Carlo methods, stochastic methods, and game theory in the sciences.
-7. Played an instrumental role in introducing game theory as an analytical tool in economics. 
-8. Advocated for the development of computers as a tool for scientific research and a major proponent for the development of Artificial Intelligence.
+* It was in Madison that Weaver attended secondary school and also where he entered the University of Wisconsin.
+* Weaver initially intended to train to become an engineer, but he was influenced to move towards applied mathematics and mathematical physics by his teachers, in particular Max Mason.
+* The other influence on Weaver was Charles Slichter who was professor of mathematics at the University of Wisconsin and had earlier influenced Mason to change from engineering to mathematics.
+* Weaver was awarded a B.S. in 1916 and a C.E. in the following year.
+* Weaver was clearly in this latter category.
+* However during the years that he was undertaking research for his doctorate Weaver had other jobs: he was assistant professor of mathematics at Throop Polytechnic Institute in Pasadena, California during 1917-18.
+* Weaver also served in the U.S. Air Force from 1917 to 1919, and married Mary Hemenway in 1919; they had two children.
+* After completing his war service in the Air Force, Weaver returned to Throop Polytechnic Institute in 1919 where he taught for a year as an assistant professor of mathematics before returning to Wisconsin-Madison to complete his doctoral studies; he was awarded his Ph.D. in 1921.
+* After becoming president, Mason approached Weaver to take up the post of director of the Natural Sciences Division.
+* Weaver was appointed in 1932 and held the position until 1957.
+* As developed by Weaver, the program operated on a worldwide basis and stressed the acquisition of knowledge - that is, it was conscientiously pure science.
+* Weaver personally chose the grantees; peer review was not his style.
+* Perhaps Weaver is best known for his work as an applied mathematician during World War II.
+* Weaver suffered a serious illness shortly after the end of the war.
+* Let us mention another aspect of Weaver's work.
+* Some ideas are suggested in this paper by Weaver for a broader application of the fundamental principles of communication theory.
+* Weaver was also famed for his popular writings on science.
+* Having worked for the private support of science for most of his life, Weaver's book U.S. Philanthropic Foundations : Their History, Structure, Management and Record (1967) is written by someone who understood intimately the workings of such institutions.
 
 Born 17 July 1894, Reedsburg, Wisconsin, USA. Died 24 November 1978, Upper Milford, Connecticut, USA.
 

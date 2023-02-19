@@ -7,10 +7,10 @@ orderid: 1821
 title: Ramchundra
 born: 1821
 died: 1880
-keywords: Ramchundra, Treatise, Royal Society, Sanskrit College, Asiatic Society, Indian philosophy, mathematics, English-Sanskrit dictionary
-description: Ramchundra was the first Indian Fellow of Royal Society and an important figure in mathematics, Indian philosophy and Sanskrit literature who wrote extensive works and translations.
+keywords: ramchundra,ramchundra
+description: Ramchundra was an Indian mathematician whose book, Treatise on Problems of Maxima and Minima, was promoted by De Morgan.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ramchundra** was an Indian mathematician whose book, _Treatise on Problems of Maxima and Minima_, was promoted by De Morgan.
 
 ### Mathematical Profile (Excerpt):
-1. Ramchundra became a prominent figure in the field of mathematics by writing three important books: A Treatise on plane Trigonometry, A Treatise on Astronomy, and A Treatise on Spherical Trigonometry. 
-2. He was the first Indian to be elected as a Fellow of the Royal Society in 1886.
-3. He was appointed Principal of the Government Sanskrit College in Varanasi and held the position for eight years.
-4. He served as the Librarian of the Asiatic Society in Calcutta for thirty years.
-5. He published many papers and books on issues related to Indian philosophy and Sanskrit literature.
-6. He translated a few Sanskrit works into English, including those by Pingala, Bhaskara, Patanjali, and Brahmagupta.
-7. He wrote the first English-Sanskrit dictionary, which had over 32000 words in it.
-8. He was the first to give an English translation of a work called Apastanbhat's Ganitadhyayi, a Hindu treatise on mathematics.
-9. He authored a few pioneering works in algebra, trigonometry and astronomy.
-10. He is credited for introducing properties of exponentials, sines and cosines in formal education in India.
+* Ramchundra's early education was at home, a standard for India at that time, but he also attended school in Panipat from the age of six.
+* The family moved back to Delhi but Ramchundra's father Sunder Lal died in 1831 leaving the family in a very difficult financial position.
+* Ramchundra's mother had to care for six young boys.
+* Ramchundra married a deaf and dumb girl in 1832 when he was eleven years old.
+* This was an arranged wedding (the girl was the daughter of a wealthy businessman and came with a sizeable dowry) and Ramchundra only learnt after the wedding that his wife was deaf and dumb.
+* In 1833 Ramchundra entered the English Government School in Delhi.
+* The College incorporated the English Government School which Ramchundra attended.
+* In 1841 Ramchundra competed for a scholarship and was awarded a senior scholarship of thirty rupees per month.
+* Ramchundra began a programme of translating and compiling works into Urdu.
+* Ramchundra, along with the advanced students in the English and Oriental departments of the Delhi College, founded a Society of the Diffusion of Knowledge in 1847.
+* In another monthly publication, founded in September 1847 and published by Delhi College, Ramchundra contributed articles on a wide variety of topics including: A Description of the Diving Bell, by which Sunken Materials may be retrieved from the Sea; A Discussion of the Mistakes that Hindu Learned Men have made in Various Sciences in the Shastras; On Astronomy; On the work of Sir Isaac Newton; A discussion of the Relationship of the Human Mind and Body; On Demosthenes; On Confucius; and A biography of the Safavid Shah Abbas.
+* In 1850 Ramchundra published at Calcutta, at his own expense, the book A treatise on problems of maxima and minima solved by algebra.
+* In 1852 Ramchundra converted to Christianity.
+* Ramchundra's health was not good at this stage and he retired from his position as headmaster on grounds of ill health in 1866 when 45 years of age.
+* Though Niven addresses the same ideas and even some of the same problems as Ramchundra addressed over a century earlier, he has completely overlooked his Indian predecessor.
+* Despite the illustrious De Morgan's efforts to make this remarkable Hindu algebraist known, Ramchundra does not appear in Niven's text, index, or bibliography.
 
 Born 1821, Panipat, India. Died 11 August 1880, Delhi, India.
 

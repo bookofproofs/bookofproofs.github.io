@@ -7,10 +7,10 @@ orderid: 1850
 title: Pringsheim, Alfred Israel
 born: 1850
 died: 1941
-keywords: A. Pringsheim, Geometry, Algebra, Analysis, Polygon, Dirichlet Problem, Complex Variables
-description: A. Pringsheim was a German mathematician who made extensive contributions to Geometry, Algebra, Analysis, Polygon, Dirichlet Problem, Complex Variables.
+keywords: alfred pringsheim,pringsheim
+description: Alfred Pringsheim was a German mathematician who worked on real and complex functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,18 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alfred Pringsheim** was a German mathematician who worked on real and complex functions.
 
 ### Mathematical Profile (Excerpt):
-A. Pringsheim was a German mathematician who made significant contributions to the fields of geometry, algebra, and analysis.
-
-1. Publicly announced his own proof that every polygon can be converted into a circle in 1897.
-2. Developed the Pringsheim Theorem in 1900, proving that Lagrange's theorem was still valid even when the algebraic action is an irrational fraction of the form 2^(1/n). 
-3. Demonstrated the reduction of spherical triangles to planar in 1902.
-4. Discovered the existence of a Cantor space of cardinality continuum in 1904.
-5. Found solutions to the Dirichlet problem using methods from Pringsheim-Knopp theory in 1905.
-6. Established Pringsheim's theorem of numbers in 1907, which states that the sum of the reciprocals of the positive integers different from one is convergent.
-7. Published his treatise on the theory of algebraic functions of a complex variable in 1912.
-8. Constructed a rigorous theory of the geometry of numbers in 1919. 
-9. Dedicated considerable effort to the rigorous understanding of the calculus of variations in the 1905-1920 period.
-10. Contributed to the study of continued fractions, determinants, and the algebraic theory of differential equations between 1897-1919.
+* Alfred grew up in Breslau where he became passionate about music, art and mathematics.
+* He became an excellent pianist and his musical tastes were much influenced by Richard Wagner who, although much older than Pringsheim, became friendly with the talented young man.
+* Having studied mathematics in Berlin in 1868, Pringsheim became a follower of Weierstrass's mathematics.
+* After completing his undergraduate studies, Pringsheim undertook research at Heidelberg with Leo Königsberger as his thesis advisor.
+* This was a perfect match with Pringsheim's mathematical interests, and he was awarded his doctorate in 1872.
+* In 1877 Pringsheim submitted his habilitation thesis to the University of Munich and began teaching there as a privatdozent.
+* Alfred and Hedwig had four sons, Erik, Peter, Heinz, and Klaus, and a daughter Katja.
+* Pringsheim worked at the Ludwig-Maximilians University of Munich for his whole career.
+* Pringsheim retired in 1922.
+* The novelist Thomas Mann, who was his son-in-law, wrote a novel based on the Pringsheim family.
+* Pringsheim's refined wit was famous.
+* Pringsheim was extremely well off; as well as having considerable financial resources, he owned an extremely valuable collection of Italian Majolica earthenware.
+* In 1938 Pringsheim was forced out of the Bavarian Academy of Sciences by the president Alexander Mueller.
+* In March 1939 the German Ministry of Trade authorized export of Pringsheim's Majolica collection to London for auction at Sotheby's, provided that 80% of the proceeds up to 20,000 pounds and 70% of the remainder be paid to the German Gold Discount Bank in foreign currency.
+* Pringsheim was to receive the remaining proceeds.
+* In exchange, Pringsheim and his wife were allowed to emigrate to Switzerland.
+* Before he left Germany to go to Zürich, Pringsheim gave to his friend Carathéodory a present of a very rare text from Jacob Bernoulli to his brother Johann Bernoulli containing the solution to the isoperimetric problem.
+* Alfred and Hedwig Pringsheim moved to Zürich in 1939.
+* Pringsheim worked on real and complex functions.
+* Pringsheim criticised attempts by du Bois-Reymond to establish ideal boundaries between convergence and divergence.
+* Pringsheim was the first to note in 1898 that Lambert's proof was absolutely correct and exceptional for its time, since the expansion of the tangent function was not only written down formally, but also proved to be a convergent continued fraction.
+* Pringsheim did a lot of work on continued fractions: he introduced the term 'unconditional convergence' of a continued fraction and also gave what is now known as the Pringsheim criterion which insures the convergence of a continued fraction in 1898.
+* A major work by Pringsheim was Vorlesungen über Zahlen- und Funktionenlehre Ⓣ(Lectures on arithmetic and function teaching)  which appeared in five parts.
 
 Born 2 September 1850, Ohlau, Lower Silesia (now Oława, Poland). Died 25 June 1941, Zürich, Switzerland.
 

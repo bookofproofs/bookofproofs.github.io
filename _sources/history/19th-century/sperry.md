@@ -7,10 +7,10 @@ orderid: 1885
 title: Sperry, Pauline
 born: 1885
 died: 1967
-keywords: Pauline Sperry, mathematics, projective differential geometry, sorting, parallel decomposition, greatest common divisor, parallel computing
-description: Pauline Sperryrevolutionized computing by creating algorithms that increased accuracy and decreased processing time.
+keywords: pauline sperry,sperry
+description: Pauline Sperry was an American mathematician who worked in projective differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pauline Sperry** was an American mathematician who worked in projective differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Authored two mathematical papers with Edward C. Heineman, her husband, in 1940 and 1942 in the field of byzantine computing.
-2. Discovered the Fisher-Sperry algorithm for sorting integers using binary representation in 1948.
-3. Received a U.S. patent for the “Parallel Decomposition of Numerical Analysis” process in 1983.
-4. Created a new approach to the problem of calculating the greatest common divisor of two integers, which accelerates the solution by using Pearson's algorithm.
-5. Developed an improved method for factoring integers, which reduces the time for computation to a fraction of that required by traditional methods. 
-6. Co-invented the concept of parallel computing along with John von Neumann, which drastically improved computer processing speeds. 
-7. Developed algorithms that increased the accuracy of numerical calculations while simultaneously decreasing the amount of computational time required. 
-8. Helped revolutionize computing by improving the efficiency and optimization of algorithms, transforming the operations of computers.
+* Pauline was born in Peabody, northeastern Massachusetts, which is 27 km northeast of Boston.
+* In fact the town had been called South Danvers but it was renamed Peabody after the philanthropist George Peabody 17 years before Sperry was born.
+* Since Sperry would turn out to be a philanthropist herself, there is a little coincidence here.
+* Willard Sperry was a Congregational minister and Pauline was brought up with the religious values of her father.
+* From her father Pauline learnt of the importance of education, freedom of conscience, civil and religious liberty and social reform, while she benefited from his openness of outlook.
+* It was Pauline's strong religious upbringing which later saw her join the Quakers and devote the latter part of her life to political action to try to change society for the better.
+* Sperry studied at Smith College which was a liberal arts college for women in Northampton, Massachusetts.
+* This College had a special place in Sperry's life and her undergraduate days there were very happy ones.
+* It was not only mathematics which Sperry enjoyed at Smith, it was also music.
+* During 1906-07 Sperry was in New York City, teaching at the Hamilton Institute which was a private school.
+* In 1907 Sperry returned to Smith College to continue her mathematical and musical studies.
+* Looking to continue studying mathematics, Sperry was awarded a travelling fellowship in 1912-13.
+* During this year Sperry began graduate studies at the University of Chicago.
+* The thrill of studying advanced mathematics at Chicago made Sperry determined to carry her studies further and when her travelling fellowship ended she matriculate at the University of Chicago, registering for a Master's Degree.
+* He was on the staff at Chicago from 1910 and, in the year that Sperry was awarded her Master's Degree, Wilczynski was promoted to full professor.
+* Given Wilczynski's interests, it is not surprising that Sperry worked on geometry and astronomy for her doctorate which was awarded in 1916 for the thesis Properties of a certain projectively defined two-parameter family of curves on a general surface in 1916.
+* During the year 1915-16, while Sperry was completing work on her thesis, she also held a teaching fellowship at Chicago.
+* Although Sperry published no further research articles after the work of her thesis, her career progressed well at Berkeley.
+* Nineteen faculty members of the University of California refused; Sperry was one such faculty member.
+* As a Quaker Sperry could not swear any oaths and it was therefore usual to exempt Quakers from the need to take an oath.
+* This was not done, however, in Sperry's case.
+* The assumption was that anyone who would not sign the oath must be a communist sympathiser and must be sacked, so Sperry, as one of those who refused, lost her associate professor position.
+* Sperry was always prepared to make her views known and become involved in politics, and so went further than just refuse to take the oath, she actively campaigned so that everyone would understand the implications of signing the oath.
+* Sperry and a number of others to their case to the appellate court and eventually the courts proclaimed the oath to be unconstitutional.
+* Sperry was given the title associate professor emerita at Berkeley and, four years after winning her case, she was awarded two years back pay for the period during which she had been deprived of her teaching position.
+* Sperry went to Carmel which is a city in western California on the Carmel River and Carmel Bay, adjacent to Monterey.
+* It was not only time which Sperry gave to the causes she supported, she also gave freely of her own money.
 
 Born 5 March 1885, Peabody, Massachusetts, USA. Died 24 September 1967, Pacific Grove, California, United States.
 

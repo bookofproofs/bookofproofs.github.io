@@ -7,10 +7,10 @@ orderid: 1910
 title: Hsu, Pao-Lu
 born: 1910
 died: 1970
-keywords: Pao-Lu Hsu, Mathematics, Probability Theory, Statistics, Combinatorics, Numerical Notation, Decimal Point
-description: Pao-Lu Hsu was a Chinese mathematician who contributed significantly to the advancement of mathematics in China, including discoveries in probability theory, statistics, combinatorics and numerical notation.
+keywords: pao lu hsu,hsu
+description: Pao-Lu Hsu was a Chinese mathematician who worked in probability theory and statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pao-Lu Hsu** was a Chinese mathematician who worked in probability theory and statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theory for solving simultaneous linear equations using determinants.
-2. Initiated the study of combinatorics and number theory in China.
-3. Established rules for resultants, determinants and rule for obtaining permutations.
-4. Established a general method of solving the recurrence relation for for polynomials.
-5. Authored numerous books on mathematics, including the Mathematical Treatise in Nine Sections, Extremely Mirror and Mathematical Treatise in Ten Computations.
-6. Pioneered the use of numerical notation and the use of decimal point, greatly contributing to the advancement of mathematics in China.
-7. Significantly advanced the understanding of fractions, quadratic equations and mathematical procedures such as multiplication.
-8. Contributed to the knowledge of binomial coefficients, magic squares and enumerative combinatorics.
-9. Discovered the 'Pao Lu Hsu triangle', and developed the Pao Lu Hsu algorithm.
+* Hsu's school education was in Peking and he did not choose mathematics as a career at this stage but rather it was chemistry which he decided to study at university.
+* Hsu passed examinations in 1936 at Peking University and obtained a scholarship to enable him to continue his graduate studies in Britain.
+* Certainly University College, London was an excellent place for Hsu to study as his mathematical interests were in probability and statistics.
+* Egon Pearson, following the retiral of his father Karl Pearson as Galton Professor of Statistics, had been made Reader and became Head of the Department of Applied Statistics three years before Hsu arrived there.
+* Hsu's first two papers were published in the Statistical Research Memoirs which were edited by Jerzy Neyman and Egon Pearson.
+* One concerned what is now known as the Behrens-Fisher problem, while the second Hsu examined the problem of optimal estimators of the variance in the Gauss-Markov model.
+* In 1938 Hsu, while still undertaking research for his doctorate, too up a position as lecturer in Egon Pearson's Department.
+* Hsu chose to leave Britain to return to his homeland of China where he was appointed as Professor at Peking University.
+* It was a period of great difficulty and hardship for Hsu.
+* It is a great tribute to Hsu's determination to devote himself to statistics that he managed to continue his research during these difficult war years.
+* Many of his publications on multivariate analysis from this period show that he had been strongly influenced by R A Fisher while at University College.
+* Attempts were made to get Hsu to the United States.
+* During the next two years he taught at the University of California, Columbia University, and the University of North Carolina where he was offered an associate professorship.
+* After spending 1946-47 at the University of North Carolina at Chapel Hill, in 1947 Hsu returned to his professorship at Peking University.
+* Hsu had poor health from 1950.
+* Hsu died in his home on the campus of Peking University in 1970.
 
 Born 1 September 1910, Beijing, China. Died 18 December 1970, Beijing, China.
 

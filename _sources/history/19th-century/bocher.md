@@ -7,10 +7,10 @@ orderid: 1867
 title: Bôcher, Maxime
 born: 1867
 died: 1918
-keywords: Maxime Bôcher, Differential Equations, Series, Algebra, Riemann Sums, Geometry, Analytic Number Theory
-description: Maxime Bôcher developed groundbreaking theories in Mathematics, including Riemann Sums, Non-Euclidean Geometry, and Analytic Number Theory.
+keywords: maxime bôcher,bôcher
+description: Maxime Bôcher worked on differential equations, series, and algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Maxime Bôcher** worked on differential equations, series, and algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced the concept of “Riemann sums” to the world of mathematics.
-2. Authored the mathematics textbook Plane Analytic Geometry in 1907.
-3. His research helped formulate the Bôcher Memorial Prize, a prestigious award bestowed each year by the American Mathematical Society to honor mathematicians who have made outstanding contributions to the field.
-4. His insights into the mathematical works of Jean-Victor Poncelet ushered in a new understanding of the field of geometry, which is still used today.
-5. Used the theory of Abelian functions to extend the theory of conformal transformations.
-6. Developed a non-Euclidean geometry, which assumes that the fifth postulate of Euclidean geometry does not hold, allowing for different geometries to exist.
-7. Published works on combinations, permutations, and analytic number theory.
-8. Put forth a paper addressing the use of Riemann functions to resolve some of the fundamental problems faced in mathematical analysis.
+* Maxime's father, Ferdinand Bôcher, was professor of modern languages at the Massachusetts Institute of Technology when Maxime was born and, in 1872, he became Professor of French at Harvard.
+* Certainly Bôcher was born into a family with a strong academic background and he had a good quality education from his parents as well as from a number of public and private schools in Boston and Cambridge.
+* Bôcher was awarded a Harvard Fellowship, a Harris Fellowship and a Parker Fellowship which allowed him to travel to Europe to undertake research.
+* While Bôcher was in Göttingen he met Marie Niemann and they were married in July 1891 after Bôcher had submitted his doctoral thesis.
+* The Bôchers had three children, Helen, Esther, and Frederick.
+* Bôcher published around 100 papers on differential equations, series, and algebra.
+* Bôcher was honoured by the American Mathematical Society when he was chosen to give the first series of Colloquium lectures in 1896.
+* In 1912 Bôcher was an invited speaker at the International Congress of Mathematicians held in Cambridge, England.
+* it is difficult to adequately appreciate Bôcher's influence on his time because so much of his work was devoted to perfecting and polishing material rather than to producing striking new results that would bear his name.
 
 Born 28 August 1867, Boston, Massachusetts, USA. Died 12 September 1918, Cambridge, Massachusetts, USA.
 

@@ -7,10 +7,10 @@ orderid: 1898
 title: Infeld, Leopold
 born: 1898
 died: 1968
-keywords: Leopold Infeld, relativity, Variational Theory, Infeld–Hull, Newtonian mechanics, The Evolution of Physics, Short Course in Relativity
-description: Leopold Infeld, a Polish physicist, was highly influential in the theory of relativity, developing Variational Theory, Infeld–Hull, and coauthoring The Evolution of Physics.
+keywords: leopold infeld,infeld
+description: Leopold Infeld was a Polish physicist who worked in the theory of relativity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leopold Infeld** was a Polish physicist who worked in the theory of relativity.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Variational Theory of Light Rays (1929), which formed the basis for the modern quantum mechanical spin-orbit interaction as well as laid the groundwork for the modern understanding of photochemical reactions.
-2. Developed the Infeld–Hull method of solution for non-linear systems of differential equations (1966). 
-3. Demonstrated that two-dimensional collisions of identical particles could not be described by the classical theories of Newtonian mechanics (1930).
-4. Showed that the gravitational field equations of General Relativity are equivalent to the field equations of a certain non-linear scalar field (1933). 
-5. Co-authored the classic text The Evolution of Physics (1938) with Albert Einstein. 
-6. Developed the "Infeld identity" relating the metric tensors in the different coordinate systems (1941). 
-7. Collaborated with Leszek P. Sitarz in editing Short Course in Relativity (in 4 editions, 1956–2001). 
-8. Developed a variational principle for classical and relativistic electrodynamics (1948).
+* His father, Salomon Infeld, was a leather merchant and although the family was better off than many others around them, their living conditions were still poor.
+* Infeld wanted desperately to escape and be able to go to university, so he begged his parents to allow him to attend a gymnasium which would prepare him for university entrance.
+* Infeld certainly was not going to give up his ambitions that easily, so he studied on his own to enable him to take the 'matura' exams.
+* After two years spent in Konin, Infeld was appointed as a physics teacher at a Jewish gymnasium for girls in Warsaw.
+* Unable to work through grief, and realising that progress in Lwów would be well nigh impossible, Infeld decided to accept a Rockefeller Foundation Grant to study in Cambridge, England.
+* The result of this collaboration was the Born-Infeld electrodynamics.
+* In Princeton, Infeld collaborated with Einstein writing a popular text Evolution of Physics (1938).
+* In 1938 Infeld received an offer from J L Synge of a professorship at the University of Toronto.
+* In 1939 Infeld married Helen, an American who was a graduate from Cornell in mathematics.
+* Already famed as a collaborator of Einstein, Infeld published many important papers over the next few years.
+* After the war Infeld's wife Helen lectured to engineers while bringing up their two children Eric and Joan who had both been born in Toronto.
+* Infeld had all his life been a pacifist.
+* This became a problem in North America in the later 1940s and Infeld was not one to keep his political views to himself.
+* The agent had been assigned to report on guest speaker Dr Leopold Infeld, then Canada's greatest physicist.
+* A professor at the University of Toronto, Infeld was well known as a close collaborator of Albert Einstein.
+* It was a great prize for Canada's scientific community when, 10 years earlier, Dr Infeld left the United States to come north.
+* Like Einstein, Infeld was a peace activist.
+* Parliament denounced Infeld as a traitor who planned, if he hadn't done so already, to provide Russia with atomic secrets.
+* the allegations against Infeld were based on rumour.
+* In it are collected "final results" of the study, begun by Infeld with Einstein and Hoffmann in Princeton in 1938, and carried on by him with his students in Warsaw during the last decade, of the problem of motion in the general relativity theory of gravitation.
+* Infeld's return to Poland had been greatly welcomed but life under the Communist regime became increasingly difficult.
 
 Born 20 August 1898, Kraków, Austria-Hungary (now Poland). Died 15 January 1968, Warsaw, Poland.
 

@@ -7,10 +7,10 @@ orderid: 1938
 title: Ratner, Marina
 born: 1938
 died: 2017
-keywords: Marina Ratner, Russian mathematician, Ergodic Theory, Rigidity of Orbits, National Awards, Homogeneous Dynamics, Wolf Prize, Guggenheim Fellow: Pioneering work on Homogeneous Dynamics led to Rigidity of Orbits and multiple awards, incl
-description: Wolf Prize & Guggenheim Fellowship.
+keywords: marina ratner,ratner
+description: Marina Ratner was a Russian mathematician who worked in Israel and America. She worked in ergodic theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,19 +20,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Ratner.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Ratner.jpg?raw=true)
 
-**Marina Ratner** was a Russian mathematician who worked in Israel and America. She worked in ergodic theory. 
+**Marina Ratner** was a Russian mathematician who worked in Israel and America. She worked in ergodic theory.
 
 ### Mathematical Profile (Excerpt):
-1. Demonstrated her groundbreaking work on rigidity of orbits in homogeneous dynamical systems, which has been called a "seminal breakthrough in the field".
-2. Won the Alan T. Waterman Award, the nation’s highest honor for nonmedical researchers under the age of 35.
-3. Her research on homogeneous dynamics includes various arithmetical problems, and she laid the groundwork for both algebraic and geometric aspects.
-4. Received the National Science Foundation’s Presidential Young Investigator Award in 1985.
-5. Became a Fellow of the American Academy of Arts and Sciences in 2000.
-6. Appointed to the National Academy of Sciences in 2005 for her “pioneering work on homogeneous dynamics, especially on rigidity.”
-7. Won the Wolf Prize in Mathematics in 2009.
-8. Received a Guggenheim Fellowship in 2012.
-9. Won the Leroy P. Steele Prize for Mathematical Exposition for her work on the Langlands programme.
-10. Appointed to the National Academy of Sciences’ Mathematical Sciences Section in 2015.
+* Marina grew up in Moscow where she attended school.
+* After leaving school, Ratner applied to study at Moscow State University.
+* Ratner graduated in 1961 having studied mathematics and physics as her main subjects.
+* After graduating, Ratner worked for four years in Kolmogorov's applied statistics group and in his special school for gifted high school students.
+* Of course Kolmogorov was an important influence on her during these years but a perhaps even greater influence was Yakov Grigorevich Sinai who was only three years older than Ratner and had been one of Kolmogorov's most outstanding students.
+* During these years, Ratner's daughter was born.
+* In 1969, after submitting her thesis Geodesic Flows on Unit Tangent Bundles of Compact Surfaces of Negative Curvature, Ratner graduated with a degree equivalent to a Ph.D. In this thesis she studied the ergodic theory of geodesic flows on negatively curved surfaces, dynamical systems with very random behaviour which arise geometrically.
+* After applying for a visa to emigrate to Israel, Ratner was dismissed from her position at the Engineering School in 1970.
+* At Berkeley, Ratner was promoted steadily until she reached the rank of full professor in 1982.
+* Marina's much acclaimed work of the last few years - the Raghunathan conjecture - are a far-reaching generalisation and application of these ideas to an important situation.
+* Marina saw that her methods were appropriate ones for this type of question, and eventually she gave a complete proof of the Raghunathan conjecture.
+* Ratner was an invited plenary speaker at the congress.
+* Ratner's lecture was entitled Interactions between ergodic theory, Lie groups and number theory.
+* We have used quotations from awards that were given to Ratner to illustrate the importance of her mathematical contributions.
 
 Born 30 October 1938, Moscow, Russia. Died 7 July 2017, El Cerrito, California, USA.
 

@@ -7,10 +7,10 @@ orderid: 1948
 title: Chang, Sun-Yung Alice
 born: 1948
 died: 0
-keywords: Sun-Yung Alice Chang, 2021 Breakthrough Prize, American Mathematical Society, National Science Foundation,Alan T. Waterman Award, 1999 AMS Oswald Veblen Prize, 1995 AMS Leroy P. Steele Prize, 1990 AMS Centennial Fellowship, Simons Foundation Fellowship
-description: Sun-Yung Alice Chang, a Chinese American mathematician, was recently awarded the 2021 Breakthrough Prize, the first of Chinese descent, having been elected a Fellow of the AMS and a recipient of awards like the Waterman, P. Steele, Centennial, and Simons Fellowship.
+keywords: sun-yung alice chang,chang
+description: Sun-Yung Alice Chang is a Chinese born American mathematician whose research interests include the study of certain geometric types of nonlinear partial differential equations and the related extremal inequalities and problems in isospectral geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sun-Yung Alice Chang** is a Chinese born American mathematician  whose research interests include the study of certain geometric types of nonlinear partial differential equations and the related extremal inequalities and problems in isospectral geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the 2021 Breakthrough Prize in Mathematics – the first female of Chinese American descent to win the award.
-2. Elected a Fellow of the American Mathematical Society in 2021. 
-3. Received the National Science Foundation’s highest honor, the Alan T. Waterman Award, in 2003. 
-4. Received the 1999 AMS Oswald Veblen Prize in Geometry.
-5. Received the 1995 AMS's Leroy P. Steele Prize for Mathematical Exposition. 
-6. Awarded the 1990 AMS Centennial Fellowship, and
-7. Awarded Simons Foundation Fellowship in Mathematics in 2017.
+* Soon after this Chang's family moved from mainland China to the Republic of China in Taiwan.
+* In her thesis, Chang worked on problems in classical analysis, in particular the study of boundary behaviour of bounded analytic functions on the unit disc.
+* After receiving her doctorate, Chang was appointed as an assistant professor at the State University of New York at Buffalo for the academic year 1974-1975.
+* In 1980 Chang returned to the University of California at Los Angeles as an associate professor, being later promoted to full professor.
+* Chang's research interests include the study of certain geometric types of nonlinear partial differential equations.
+* Perhaps Chang's greatest honour was the award of the 1995 Ruth Lyttle Satter Prize in Mathematics.
+* Chang received the prize at the American Mathematical Society meeting in San Francisco in January 1995.
+* In 1998, in addition to her Professorship at the University of California, Los Angeles, Chang was appointed Professor at Princeton University.
+* Chang is married to Paul Yang, also a Professor of Mathematics at Princeton University; they have one daughter and one son.
+* Chang has received many honours in addition to the Ruth Lyttle Satter Prize in Mathematics which we described above.
+* On 28 April 2009 the National Academy of Sciences announced that Chang had been elected a member.
+* In June 2009 Chang was one of the organisers of '2009 the Program for Women and Mathematics' held at the Institute for Advanced Study at Princeton.
+* As to her hobbies, Chang lists reading novels, taking walks and listening to music.
 
 Born 24 March 1948, Xi-an, China.
 

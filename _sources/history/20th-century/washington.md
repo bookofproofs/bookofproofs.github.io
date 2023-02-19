@@ -7,10 +7,10 @@ orderid: 1974
 title: Washington, Talitha
 born: 1974
 died: 0
-keywords: Talitha Washington, African American, Mathematics, Doctorate, National Science Foundation, STEM Innovator Award, Purdue University
-description: Talitha Washington is an African American mathematician who made history by becoming the first to earn a doctorate in Mathematics from the UConn; she is also an NSF STEM Innovator Award winner, a Purdue graduate, and a professor at Dillard University.
+keywords: talitha washington,washington
+description: Talitha Washington is an American mathematician who, in 2001, became the first African American to graduate with a doctorate in mathematics from the University of Connecticut. She became co-leader of the National Science Foundation's 'Improving Undergraduate STEM Education: Hispanic-Serving Institutions' programme and won the 2019 Black Engineer of the Year STEM Innovator Award.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Talitha Washington** is an American mathematician who, in 2001, became the first African American to graduate with a doctorate in mathematics from the University of Connecticut. She became co-leader of the National Science Foundation's 'Improving Undergraduate STEM Education: Hispanic-Serving Institutions' programme and won the 2019 Black Engineer of the Year STEM Innovator Award.
 
 ### Mathematical Profile (Excerpt):
-1. Was the only African-American student in her Calculus class in high school.
-2. Received the highest grade in Calculus among all the students in her class.
-3. Graduated with honors from Purdue University with a degree in Mathematics.
-4. Was chosen as the valedictorian of her graduating class in high school.
-5. Received an academic scholarship to attend Purdue University.
-6. Helped develop and implement an after-school Math mentoring program for local high school students.
-7. Published peer-reviewed research papers on Mathematics and its real-world applications.
-8. Became a professor of Mathematics at Dillard University.
+* For simplicity we shall, however, use the name Talitha Washington throughout this biography.
+* Washington's school education was in Evansville where she attended the Benjamin Bosse High School.
+* While at the University of Connecticut, Washington was employed as a Teaching Assistant in the Department of Mathematics from September 1996 to August 2001.
+* Washington was awarded her Ph.D. in 2001 for her thesis "Mathematical Model of Proteins Acting as On/Off Switches." This meant that she was the first African American to graduate with a doctorate in mathematics from the University of Connecticut.
+* We note that she married Raymond W Washington (born about 1958) on 4 April 1998 in Windham, Connecticut.
+* Yung-Sze Choi, Washington's Ph.D. advisor, encouraged her to seek a postdoctoral position.
+* By the time she went to Howard University, Washington had six publications.
+* Another important colleague with whom Washington collaborated was Ronald E Mickens.
+* Washington is active in training school teachers and college professors.
+* During the warm seasons, you may even find her running down the Rock Creek Park trails in Washington, DC.
+* In 2008 she wrote an article on Elbert Frank Cox who was born near where Washington grew up in Evansville, Indiana.
 
 Born 9 January 1974, Frankfort, Indiana, USA.
 

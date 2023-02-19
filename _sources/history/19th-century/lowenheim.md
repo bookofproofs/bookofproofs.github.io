@@ -7,10 +7,10 @@ orderid: 1878
 title: Löwenheim, Leopold
 born: 1878
 died: 1957
-keywords: Löwenheim, logic, set theory, theorem, variable range, quantification, Fundamental Theorem
-description: Leopold Löwenheim was a German mathematician who worked on mathematical logic, introducing the Löwenheim-Skolem theorem and pioneering the use of variable range.
+keywords: leopold löwenheim,löwenheim
+description: Leopold Löwenheim was a German mathematician who worked on mathematical logic and is best-known for the Löwenheim-Skolem paradox.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leopold Löwenheim** was a German mathematician who worked on mathematical logic and is best-known for the Löwenheim-Skolem paradox.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first axiomatic system of set theory in 1908.
-2. Introduced a method of constructing truth tables which has revolutionized logic and set theory.
-3. Proved the theorem of Löwenheim–Skolem, a major result in first-order logic.
-4. Pioneered the use of the notion of variable range in symbolic logic.
-5. Discovered the Löwenheim–Mostowski theorem.
-6. Formulated the “Fundamental Theorem of Logic”.
-7. Extended the notion of induction to the non-finite setting.
-8. Proved the theorem of Löwenheim–Skolem–Tarski and confirmed the impossibility of certain deductions within the system. 
-9. Helped to develop the theory of quantification in the early part of the 20th century.
-10. Produced the important work “Mathematical Logic” in 1912.
+* Many years later Leopold revised and edited his father's unfinished work on Democritus.
+* Leopold's mother was Elise Röhn who was a writer.
+* Löwenheim attended the Königliche Luisen Gymnasium in Berlin, completing his secondary schooling there in 1896.
+* Having obtained qualifications to study at university, Löwenheim entered the Friedrich-Wilhelm University of Berlin in 1896 and studied mathematics and natural sciences there, and also at the Technische Hochschule in Charlottenburg, during the next four years.
+* At the time when Löwenheim studied at these two universities they were in separate cities but now expansion has meant that Charlottenburg has become part of Berlin.
+* Löwenheim was intending to qualify to teach in Gymnasiums and he wished to teach across a range of topics.
+* The definition of non-Aryan included those with one grandparent of the Jewish religion and this was precisely the position that Löwenheim was in.
+* In line with what happened to others in a similar position, Löwenheim escaped immediate dismissal in 1933 but was forced to retire in 1934.
+* Löwenheim now somehow had to try to earn enough to support himself and his wife despite losing his job.
+* Not only did Löwenheim have problems with Nazi discrimination, but he also almost lost his life in the British bombing raids on Berlin.
+* In fact bombing raids on Berlin had not been uncommon, with the first daylight raid in January 1943, but the hit on Löwenheim's home came before the major bombing assault on the capital began in November 1943.
+* Löwenheim survived, but he lost his mathematical manuscripts, 1000 drawings, and his mathematical models.
+* Although Löwenheim survived, top mathematical logicians such as Bernays, Tarski and Heinrich Scholtz (all of whom had visited Löwenheim during the 1939s) had no contact with him after 1939 and presumed that he had died in the war.
+* Löwenheim, therefore, had a paper published that he was not aware of.
+* The first significant publications by Löwenheim were the two papers, Über das Auflösungsproblem im logischen Klassenkalkül Ⓣ(On the resolution problem in the logical calculus class)  published in 1908 and Über die Auflösung von Gleichungen im logischen Gebietekalkul Ⓣ(On the dissolution of equations in logical area calculus)  in 1910.
+* In Über Transformationen im Gebietekalkül Ⓣ(On transformations in areas calculus) (1913) Löwenheim studied matrices of domains and, in a similar way to a modern linear algebra course, showed that transformations can be represented by matrices.
+* Let us now look at the result for which Löwenheim is most remembered, namely the Löwenheim-Skolem paradox (which Skolem pointed out is not a paradox!).
+* In this paper Löwenheim proved the remarkable result that for any set of sentences of standard predicate logic, if there is an interpretation in which they are true in some domain, there is also an interpretation that makes them true in a countable subset of the original domain.
+* The result was called a paradox since it was believed that certain sets of axioms characterised the real numbers, and now Löwenheim's result showed that the same axioms must hold in a countable subset of the real numbers.
+* Löwenheim's result then shows that the real numbers contain a countable ordered field which then cannot satisfy the least-upper-bound axiom which is a second-order sentence.
+* As we mentioned above, despite people believing that Löwenheim had died in the war, he had been able to begin teaching again in 1946.
+* Johannes Teichert, the son of Löwenheim's wife by a previous marriage, inherited what remained of Löwenheim's unpublished manuscripts.
 
 Born 26 June 1878, Krefeld, German. Died 5 May 1957, Berlin, Germany.
 

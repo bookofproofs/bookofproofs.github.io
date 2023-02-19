@@ -7,10 +7,10 @@ orderid: 1923
 title: Magenes, Enrico
 born: 1923
 died: 2010
-keywords: Enrico Magenes, Partial Differential Equations, Bivariate Polynomial System, Magenes System, Magenes-Lizorkin System, Magenes-Cauchy Problem, Picard-Vessiot Theorem
-description: Enrico Magenes, a renowned Italian mathematician, worked on various advancements in partial differential equations, including the Magenes System, Magenes-Lizorkin System and Magenes-Cauchy Problem.
+keywords: enrico magenes,magenes
+description: Enrico Magenes was an Italian mathematician who worked on partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Enrico Magenes** was an Italian mathematician who worked on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a bivariate polynomial system, which is now known as the Magenes System.
-2. Proved that the solutions of a bivariate polynomial system are finite and can be effectively calculated.
-3. Developed a non-homogeneous linear differential system based on oscillatory solutions, which is now referred to as the Magenes-Lizorkin System.
-4. Developed a theory of resolutions of finite dimensional systems, which is known as the Magenes-Cauchy problem.
-5. Established the existence of fundamental solutions for elliptical systems.
-6. Proved the Picard-Vessiot theorem for linear differential systems with arbitrary coefficients.
-7. Discovered a new type of fundamental solutions for hyperbolic systems.
-8. Applied a numerical analysis algorithm to solve differential equations with infinite-accuracy precision.
+* As a student, Magenes belonged to Azione Cattolica (Catholic Action) which was a non-political lay organization of Catholics.
+* Magenes had held a leading role in the local branch of Azione Cattolica in Pisa from 1938 to 1941.
+* In August 1943, Magenes was involved in trying to revive the Christian Democrats party in Pavia.
+* Magenes became a member of the Pavia branch of the Committee of National Liberation from its foundation, committed to fight the war of liberation alongside their Anglo-American allies.
+* On 8 January 1944, Magenes and four other members of the Pavia branch of the Committee of National Liberation, were arrested by the Republican National Guard and put in prison in Pavia.
+* Two of the four men arrested in Pavia with Magenes died in Flossenburg.
+* Magenes was then sent to work at Kottern, part of the Dachau concentration camp north of Munich, where he worked at the Messerschmitt airplane factory.
+* In April 1945 allied troops reached the Kottern district and Magenes was sent Innsbruck.
+* Magenes remained in Switzerland until July when he was able to go to Milan.
+* As soon as it became possible, Magenes returned to Pisa to continue his studies at the Scuola Normale Superiore.
+* We should note that Tonelli, who was a professor at the University of Pisa, died in 1946 while Magenes was studying with him.
+* Sansone had been a student at the Scuola Normale Superiore of Pisa and after being appointed professor of mathematics at various universities, was appointed to the Scuola Normale Superiore of Pisa when Magenes was nearing the end of his laurea studies.
+* Magenes published the paper Sui teoremi di Tonelli per la semicontinuità nei problemi di Mayer e di Lagrange Ⓣ(On Tonelli theorems for the semicontinuity in Mayer and Lagrange problems) in 1946, before submitting his laurea thesis.
+* Magenes was appointed as an assistant at the University of Padua in 1948.
+* He founded the Institute for Numerical Analysis of the CNR (named the Istituto di Matematica Applicata e Tecnologie Informatiche (IMATI), and now named after Enrico Magenes) in 1970 and directed it for over 20 years.
+* Enrico Magenes strove to lead the College for over thirty years with great generosity, even supporting it financially and trying to include it immediately into the great tradition of the historic colleges of Pavia.
+* Through his actions Magenes was clear that his idea for the proper growth and development of talented students, through encouraging merit, must be accompanied by a climate of attention to people respecting and sharing with others, as in a large family open to the religious and moral requirements of the modern world.
+* That today Santa Caterina exists and is recognised as one of the fourteen leading Italian university colleges, we owe to Enrico Magenes.
+* Magenes's most important work was done in collaboration with the French mathematician Jacques-Louis Lions.
+* After that, the scientific activity of Magenes moved even further in the direction of application.
+* If the combination of pure mathematics and applications is what Applied Mathematics is nowadays, Magenes is surely among the ones that deserve most credit.
+* This was certainly not the only honour that Magenes received.
 
 Born 15 April 1923, Milan, Italy. Died 2 November 2010, Pavia, Italy.
 

@@ -7,10 +7,10 @@ orderid: 1906
 title: Dieudonné, Jean
 born: 1906
 died: 1992
-keywords: Jean Dieudonné, mathematics, algebra, topology, invariant, Bourbaki, history
-description: Jean Dieudonné, founder member of Bourbaki, was a renowned French mathematician who worked on a wide range of topics including algebra and topology, and wrote on the history of mathematics.
+keywords: jean dieudonné,dieudonné
+description: Jean Dieudonné was a French mathematician who worked in a wide variety of mathematical areas including general topology, topological vector spaces, algebraic geometry, invariant theory and the classical groups. He was a founder member of Bourbaki and also wrote on the history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,24 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Dieudonné** was a French mathematician who worked in a wide variety of mathematical areas including general topology, topological vector spaces, algebraic geometry, invariant theory and the classical groups. He was a founder member of Bourbaki and also wrote on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the use of abstract algebra in studying the structure of algebraic groups and Lie groups. 
-2. Developed the theory of rings, fields, and algebras. 
-3. Developed the theory of direct sums of structures and studied the structure of their automorphisms. 
-4. Advanced the structure theory of semi-simple algebras and Lie algebras. 
-5. Worked on the classification and representation theory of semi-simple algebras. 
-6. Established the concept of "smoothness”, which is now firmly associated with homological algebra and differential topology. 
-7. Advanced the notion of abstract homology, which led to the formalism of natural homology and cohomology. 
-8. Developed the theory of infinite dimensional manifolds, which is immensely important for differential topology.
-9. Developed the algebraic notion of singular spaces.
-10. Pioneered and advanced the theory of sheaf and cohomology theory. 
-11. Applied the theory of sheaves to algebra and topology. 
-12. Explored the concept of reflexivity, which has significant implications in mathematics and physics.
-13. Was an early advocate of category theory.
-14. Advanced the theory of spectral sequences.
-15. Developed the notion of ​​adjoint functors with its application to the theory of adjoint quasifunctors. 
-16. Was essential in the advancement of functional analysis. 
-17. Developed the theory of Hopf algebras.
-18. Contributed to the development of algebraic geometry.
+* As a young child Jean was irresistibly attracted to dictionaries, encyclopaedias, and universal histories.
+* Dieudonné received both his bachelor's degree (1927) and his doctorate (1931) from the École Normale.
+* He worked at the Faculty of Science at Rennes as Maître de Conférences from 1933, and on 22 July 1935 he married Odette Clavel; they had two children Jean-Pierre and Françoise.
+* After teaching at Northwestern University from 1953 to 1959 Dieudonné returned to France to take up an appointment as professor of mathematics at the Institut des Hautes Études Scientifiques.
+* We note that Dieudonné's love was for research and not for teaching.
+* We mentioned above that Dieudonné was a founder member of Bourbaki.
+* In writing Algèbre linéaire et géométrie élémentaire Ⓣ(Linear algebra and elementary geometry) Dieudonné aims to provide teachers in the lycées of France with sufficient background in geometry so that they can prepare their pupils properly for entry to university study.
+* Let us not pass judgement on whether the text is too sophisticated to fulfil its intended purpose but we do note that in introducing the real numbers in the first chapter Dieudonné assumes they are an ordered field in which the intermediate value theorem is valid for polynomials of degree 3.
+* We should also examine Dieudonné's contributions as a historian of mathematics.
+* In addition to the historical texts, Dieudonné edited the works of Camille Jordan.
+* In the first volume Dieudonné has contributed an article on Jordan's work on finite groups and in the second volume an interesting 116-page introduction to Jordan's work on linear and multilinear algebra and on the theory of numbers.
+* Dieudonné also wrote a preface to the mathematical writings and memoirs of Galois which were published in 1962.
+* Several descriptions of Dieudonné, particularly of those involved with him in the Bourbaki project, are interesting.
+* But this was not really Dieudonné's style, rather the one he had adopted for Bourbaki.
+* When Dieudonné was the scribe of Bourbaki, for many many years, every printed word came from his pen.
+* Of course there had been many drafts and preliminary versions, but the printed version was always from the pen of Dieudonné.
+* Dieudonné was elected to the Academy of Sciences (Paris) in 1968, received the Gaston Julia prize in 1966, and he was made an Officer of the Légion d'Honneur.
 
 Born 1 July 1906, Lille, France. Died 29 November 1992, Paris, France.
 

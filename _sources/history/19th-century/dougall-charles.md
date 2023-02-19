@@ -7,10 +7,10 @@ orderid: 1868
 title: Dougall (2), Charles Shirra
 born: 1868
 died: 1930
-keywords: Charles Dougall, algebraic integer, Schur's theorem, algebraic number fields, ideal primes, group theory, prime number theory
-description: Charles Dougall was a Scottish school teacher who developed theories in algebraic integers, Schur's theorem, algebraic number fields, ideal primes, group theory and prime number theory, and co-authored two books.
+keywords: charles shirra dougall,dougall
+description: Charles Shirra Dougall was a Scottish school teacher who became Rector of Dollar Academy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Shirra Dougall** was a Scottish school teacher who became Rector of Dollar Academy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the notion of an algebraic integer in 1882. 
-2. Solved the linear higher-order equations in 1884.
-3. Extended the Schur’s theorem in 1891. 
-4. Co-authored the book Theory of Algebraic Integers with T. R. Hodgson in 1894. 
-5. Developed the analytic theory of algebraic number fields in 1913. 
-6. Investigated the law of ideal primes in 1921. 
-7. Proposed the idea of an algebraic number field in 1927. 
-8. Contributed to group theory and prime number theory in 1936. 
-9. Co-authored the book Co-ordinates in Geometry in 1937.
+* His mother was  Jane Shirra (born 1850).
+* Charles' elder brother, John Dougall had studied mathematics at the University of Glasgow a couple of years earlier.
+* John, like Charles, achieved distinction during his undergraduate years and has a biography in this archive.
+* Charles Dougall entered the University of Glasgow after having studied at the EC Normal College.
+* Dougall was awarded an M.A. with First Class Honours in Mathematics and Natural Philosophy from the University of Glasgow in 1894.
+* We trust that Mr Dougall will never have cause to regret the step he has taken in coming to Dollar, and that the Governors and all well-wishers will have every ground for satisfaction in the choice which has been made of a Headmaster to our far-famed Academy.
+* Dougall's appointment as Rector of Dollar Institution, followed George Thom's retirement due to ill health.
+* His son Charles was shot down by one of Richthofen's pilots, injured and imprisoned.
+* During Dougall's Rectorship, the Government introduced the National Pay Scale.
+* Dougall resigned through ill health in 1922, and died in Stirling in 1930.
+* In the above quote by Bruce Baillie, reference is made to Dougall's expertise as a Burns scholar.
+* The second is Robert Burns poems, epistles, songs, epigrams & epitaphs, a collection of Burns' work edited by Dougall.
+* Dougall joined the Edinburgh Mathematical Society in January 1897 when teaching at Whitehill School in Glasgow.
+* His brother, John Dougall, although only eighteen months older, had already been a member of the Society for twelve years.
+* Charles Dougall remained a member of the Society throughout his life.
 
 Born 3 September 1868, Kippen, Stirlingshire, Scotland. Died 2 January 1930, Stirling, Scotland.
 

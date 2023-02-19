@@ -7,10 +7,10 @@ orderid: 1652
 title: Fèvre, Jean Le
 born: 1652
 died: 1706
-keywords: Jean Le Fèvre, Astronomy, Polynomials, Factorization, Exponents, Analytic Geometry, Center of Gravity
-description: Jean Le Fèvre was a French Astronomer who made groundbreaking advances in polynomial factorization, geometry and exponents. He also discovered methods for calculating the center of gravity.
+keywords: jean le fèvre,fèvre
+description: Jean Le Fèvre was a French astronomer who published astronomical tables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Le Fèvre** was a French astronomer who published astronomical tables.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the 14th-century manuscript from which he developed his summation formulae for polynomials. 
-2. Advanced the theory of factorization of polynomials.
-3. Developed new methods for solving equations involving fractional powers of polynomials.
-4. Made significant progress in the development of a general theory of fractions.
-5. Introduced new notation for exponents and radicals.
-6. Applied algebra to astronomy, providing new methods for mapping the heavens.
-7. Provided a new method for solving quintic equations using quartic equations.
-8. Pioneered the use of symbolic equations to represent geometric curves.
-9. Developed a method of analytic geometry to calculate the area of a triangle.
-10. Established a method for determining the center of gravity of irregularly shaped objects.
+* We know nothing of the first thirty years of Le Fèvre's life but some biographers suggest that he came from a humble background (which is almost certain to be true).
+* Father Pierre was Professor of rhetoric at the Collège de Lisieux in Paris and as such he was a colleague of Jean Picard and de La Hire.
+* Father Pierre recommended his friend Le Fèvre to Picard as a possible assistant and, after Picard had tested Le Fèvre's abilities, he employed him to assist in the production of Connaissances des temps.
+* Le Fèvre thus became an associate of Picard and de La Hire, and these two recommended him for membership of the Académie des Sciences shortly after this.
+* Indeed Le Fèvre was elected to membership and began work with Picard on calculating astronomical tables.
+* In October 1682 Jean Picard died.
+* Le Fèvre continued with the task he had been set of calculating the tables, and he published Connaissances des temps during the period 1685 to 1701.
+* Le Fèvre accused La Hire of stealing his astronomical tables after La Hire published Tabulae astronomicae in 1687.
+* This was a strange episode for one might have expected Le Fèvre to be well disposed towards La Hire.
+* Then in that year La Hire's son, Gabriel-Philippe de La Hire who had been commissioned by the Académie des Sciences to draw up new astronomical tables, published in Paris Ephemerides ad annum 1701.
+* With this publication by Gabriel-Philippe de La Hire, Le Fèvre's anger exploded.
+* In 1701 Le Fèvre vented his anger by publishing a preface to Connaissances des temps which attacked both de La Hire and his son.
+* Le Fèvre was excluded from the Academy soon after this, almost certainly because of his preface, but the official reason given was his failure to attend regularly meetings of the Académie des Sciences (which was indeed a rule of the Academy).
+* Le Fèvre continued to publish ephemerides under the pseudonym J de Beaulieu, these appearing in 1702, 1703, and 1706.
 
 Born 9 April 1652, Lisieux, France. Died 1706, Paris, France.
 

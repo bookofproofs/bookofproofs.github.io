@@ -7,10 +7,10 @@ orderid: 1944
 title: Trahtman, Avraham Naumovich
 born: 1944
 died: 0
-keywords: Abram Trakhtman, Road Colouring Problem, nonlinear integral equations, linear and nonlinear partial differential equations, adaptive control, singular perturbations, free matrix movements, iterative and variational methods
-description: Abram Trakhtman is a Russian-born mathematician who solved the Road Colouring Problem and developed methods to solve nonlinear equations and control dynamic processes.
+keywords: abram naumovich trakhtman,trahtman
+description: Abram Trakhtman is a Russian-born mathematician who is best known for solving the 'Road Colouring Problem'.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abram Trakhtman** is a Russian-born mathematician who is best known for solving the 'Road Colouring Problem'.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method of approximation of functions using linear forms.
-2. Proved the existence theorem of nonlinear integral equations with discontinuous kernels.
-3. Established a theory of fractional derivatives.
-4. Developed the theory of approximate boundary value problems for linear and nonlinear partial differential equations.
-5. Developed a concept of adaptive control of a dynamic process.
-6. Intro­duced the concept of solvability or ill‐posed problems and their regularization.
-7. Established a connection between the Poincaré problem and Tucker’s algorithm for the Euclidean n‐dimensional sphere.
-8. Developed the notion of singular perturbations and the method of solving the resulting equations.
-9. Introduced the concept of “free matrix movements.”
-10. Developed a method of solution of multipoint boundary problems by iterative and variational methods.
+* His father was Naum Trakhtman, who was born in the town of Sokiryani (or Sokyryany) in the Bukovina region of south-west of Ukraine.
+* Naum Trakhtman's father, Idel Trahtman, was living in Sokiryani during the tragic events of World War II.
+* Unlike Fermat's Last Theorem which required lots of technical and sophisticated mathematical techniques to crack, the maths behind Trakhtman's solution is not complicated, it just required a clever new way to look for the solution.
 
 Born 10 February 1944, Kalinovo, Sverdlovsk oblast, USSR (now Russia).
 

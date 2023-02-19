@@ -7,10 +7,10 @@ orderid: 1872
 title: Moffat, George Lowe
 born: 1872
 died: 1934
-keywords: Edinburgh University, Dumfries Academy, Glasgow Academy, Euler-Mascheroni constant, law of quadratic reciprocity, Goldbach conjecture, abstract algebra, continuous modular forms, analytic number theory, theorem on prime numbers
-description: George Moffat, a graduate from Edinburgh University, taught at Dumfries and Glasgow academies and researched the Euler-Mascheroni constant, quadratic reciprocity, Goldbach conjecture, abstract algebra, and more to broaden number theory.
+keywords: george moffat,moffat
+description: George Moffat graduated from Edinburgh University and taught at Dumfries Academy and Glasgow Academy where he became Head of Mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**George Moffat** graduated from Edinburgh University and taught at Dumfries Academy and Glasgow Academy where he became Head of Mathematics. 
+**George Moffat** graduated from Edinburgh University and taught at Dumfries Academy and Glasgow Academy where he became Head of Mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the special case of the Euler-Mascheroni constant with better accuracy than before.
-2. Produced a generalization of the law of quadratic reciprocity, which solved a problem in number theory.
-3. Discovered the distribution of prime numbers in arithmetic progressions, which established a new branch of number theory.
-4. Researched and compiled results on the Goldbach conjecture, which led to significant progress in mathematical research in the field of prime numbers.
-5. Wrote numerous books on the subject of abstract algebra, which proved to be influential to many mathematicians.
-6. Developed the first theory of continuous modular forms, which greatly broadened the scope of number theory.
-7. Conducted groundbreaking research in the area of analytic number theory, which provided insight into the structure of prime numbers.
-8. Produced a theorem on the distribution of prime numbers, which served as an important tool in evaluating the density of numbers given certain conditions.
+* George attended Leith High School from 1880 to 1882, then attended George Watson's College from 1882 to 1890.
+* Moffat was awarded an M.A. by the University of Edinburgh in 1893.
+* Moffat became a mathematics teacher, and taught at Dumfries Academy from 1893 to 1897.
+* In December 1912, following the death of James Wood, the Head of Mathematics, Geordie Moffat was appointed to take charge of the Department.
+* At Easter 1934, Moffat went on holiday to Helensburgh, where he died.
+* Suddenly at Helensburgh on Sunday 15 April 1934, George L Moffat, M.A., B.Sc., of 8 Clarence Drive, Hyndland, Mathematical Master, Glasgow Academy, beloved husband of Elizabeth B Hutchison.
 
 Born 18 June 1872, Leith (near Edinburgh), Scotland. Died 15 April 1934, Helensburgh, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1894
 title: Arthur, William
 born: 1894
 died: 1979
-keywords: William Arthur, University of Glasgow, six cubes problem, Theorem, quaternions, thermodynamic equation, higher genus, algebraic equations
-description: William Arthur, mathematician, graduated from Glasgow and solved 6 cubes problem, established theorem, published on quaternions and thermodynamics, classified surfaces of higher genus, and resolved algebraic equations.
+keywords: william arthur,arthur
+description: William Arthur graduated from the University of Glasgow and after serving in World War I became a lecturer at Glasgow.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,15 +20,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Arthur.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Arthur.jpg?raw=true)
 
-**William Arthur** graduated from the University of Glasgow and after serving in World War I became a lecturer at Glasgow. 
+**William Arthur** graduated from the University of Glasgow and after serving in World War I became a lecturer at Glasgow.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered and published a solution to the "six cubes problem" in 1857. 
-2. Established an important theorem of solid geometry - known as the "Theorem of William Arthur" - in 1871. 
-3. Researched and published works on the theory of quaternions, including a treatise on the subject in 1878. 
-4. Developed a method of parameters which solved the thermodynamic equation which was previously unsolved in 1883. 
-5. Devised a classification for surfaces of higher genus in 1885. 
-6. Demonstrated a method for solving algebraic equations which opened a new vista in the theory of equations in 1881.
+* Of course at this time Britain was at war with Germany and Arthur undertook war service, serving in the Welsh Guards from 1915 to 1919.
+* On completion of his war service in 1919, Arthur was appointed as an Assistant Lecturer in Mathematics at the University of Glasgow.
+* After Arthur retired in 1959 he moved to the United States to spend 30 months as a Teacher of Mathematics at Bethany College, West Virginia from 1960 to 1962.
+* Arthur was a member of the Edinburgh Mathematical Society, joining in January 1920.
+* The Mitchell Lectureship on Methods of Statistics was founded in 1925 and endowed by the businessman and president of the Glasgow Chamber of Commerce Sir George Arthur Mitchell.
+* Arthur was twice Mitchell Lecturer, first in 1926, then again in 1932.
+* William Arthur was elected to the Royal Society of Edinburgh on 7 March 1921, his proposers being George Alexander Gibson, Andrew Gray, James Gordon Gray, Robert Alexander Houstoun.
 
 Born 12 January 1894, Fergushill School House, Kilwinning, Ayrshire, Scotland. Died 22 February 1979, Glasgow, Scotland.
 

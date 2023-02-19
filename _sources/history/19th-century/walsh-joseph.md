@@ -7,10 +7,10 @@ orderid: 1895
 title: Walsh (2), Joseph
 born: 1895
 died: 1973
-keywords: Joseph Leonard Walsh, Analysis, Korteweg-de Vries, Robot, Control Law, Launch Vehicle, Mathematical Models
-description: Joseph Leonard Walsh was an American mathematician who developed methods and algorithms for Analysis, Robotics, and Launch Vehicles using Mathematical Models.
+keywords: joseph walsh,walsh
+description: Joseph Leonard Walsh was an American mathematician who worked in the field of analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Leonard Walsh** was an American mathematician who worked in the field of analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a precision numerical method to solve a member of the extended Korteweg-de Vries equation, a mathematical model used to describe shallow water wave propagation.
-2. Gained a patent on a computer implementation of a mathematical based control law originally intended to be used on a robotic arm.
-3. Developed a mathematical model to predict the motion of a free-floating space robot tethered by a single boom.
-4. Developed a toolkit of mathematical models and algorithms for navigation, attitude control, and position estimation for underactuated space robots.
-5. Developed an algorithm for dynamically redistributing momentum between the two sides of a two-stage launch vehicle.
-6. Constructed a mathematical model of an autonomous motor balancing device used to maintain the level of an oil well.
-7. Composed a mathematical framework to analyze the remote sensing of concentrations in large liquid-gas systems.
+* His parents were John Leonard Walsh, who was a Methodist minister, and Sallie Ellicott Jones.
+* By this time Bôcher had died so Walsh had to begin working under a new research supervisor.
+* Walsh was awarded his doctorate by Harvard in 1920 for his thesis On the location of the roots of a Jacobian of two binary forms, and of the derivative of a rational function.
+* A Sheldon Travelling Fellowship allowed Walsh to spend the academic year 1920-21 in Paris where he worked with Montel.
+* Later the functions studied in this work were called Walsh functions and they proved an important tool in digital and signal processing.
+* It is Walsh functions that have had the biggest impact of any of Walsh's work but nobody would have guessed this in 1923, least of all Walsh.
+* Walsh had a remarkable publication record.
+* As a lecturer Walsh believed in teaching a wide variety of courses.
+* Walsh was honoured with election to the National Academy of Sciences (United States) in 1936 and served as vice president of the American Mathematical Society in 1937 and president in 1949-50.
 
 Born 21 September 1895, Washington, D.C., USA. Died 6 December 1973, College Park, Maryland, USA.
 

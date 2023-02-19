@@ -7,10 +7,10 @@ orderid: 1929
 title: Munn, Walter Douglas
 born: 1929
 died: 2008
-keywords: Scottish, Mathematics, PhD, Princeton, University of Michigan, American Academy of Arts and Sciences, National Science Foundation, Transactions of the American Mathematical Society
-description: Douglas Munnwas a Scottish mathematician who made significant contributions to semigroup theory. He completed a PhD at Princeton, taught at the University of Michigan, was appointed to the American Academy of Arts and Sciences, received a National Science Foundation grant, edited for the Transactions of the American Mathematical Society and was honored with the Mathematical Association of America Award for Distinguished Service.
+keywords: douglas munn,munn
+description: Douglas Munn was a Scottish mathematician who made important progress in semigroup theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Douglas Munn** was a Scottish mathematician who made important progress in semigroup theory.
 
 ### Mathematical Profile (Excerpt):
-1. He was offered a National Research Council Scholarship where he went on to receive his PhD in Mathematics from Princeton University in 1948.
-2. He was awarded the National Research Council Fellowship to study mathematics at the Institute for Advanced Study which he attended on a part-time basis, while teaching at the University of Michigan.
-3. He was appointed professor of mathematics at the University of Michigan in 1951. 
-4. In 1968, Munn was elected to the American Academy of Arts and Sciences. 
-5. He became an inaugural member of the Mathematical Association of America in 1969. 
-6. He was awarded a grant from the National Science Foundation for his mathematics research in 1971. 
-7. He served as an editor for the journal Transactions of the American Mathematical Society in 1978. 
-8. He received the Mathematical Association of America Award for Distinguished Service in 1983.
+* He did, however, always publish papers under the name "W D Munn".
+* He was the son of Robert Tainsh Munn (3 January 1893-23 April 1945), a railway official born in Johnstone, Renfrewshire, Scotland, and Elizabeth Stevenson (about 1897-1974) who was a teacher.
+* Robert Munn and Elizabeth Stevenson were married on 22 July 1927 in Linwood, Renfrewshire, Scotland.
+* Douglas was the elder of his parent's two children having a younger sister Lesley.
+* My parents, Robert and Elizabeth Munn, were both painters, he in watercolours, she in oils.
+* Douglas (my senior and only sibling) had a distinguished academic career as a "pure mathematician" - the kind, he would engagingly explain, who functioned with pencil and paper, and whose intellectual undertakings had no practical application whatsoever (but had a strong aesthetic content).
+* John writes that Douglas was born in Troon, a town in South Ayrshire, Scotland, situated on the coast about eight miles north of Ayr.
+* The official records, however, state that Douglas was born in Kilbarchan, Renfrewshire, Scotland, which is where his parents were living at the time.
+* Certainly the family moved from Kilbarchan to Troon where Douglas was brought up.
+* Douglas attended Marr College, Troon, Scotland, a secondary school built around 1935 on Dundonald Road, Troon, with money left in the will of Charles Kerr Marr.
+* When Douglas studied there it was a direct-grant school run by a board of governors which, following Marr's wishes, gave free education to everyone irrespective of their background.
+* After secondary schooling, Douglas proceeded to the University of Glasgow, where in 1951 he graduated with an M.A. with First Class Honours in Mathematics and Natural Philosophy.
+* When Douglas studied there Thomas MacRobert held the chair of mathematics, a position he had held since 1927.
+* Douglas lived in Troon while an undergraduate at Glasgow but, with his student friends, often went to Glasgow on Saturday nights to hear the Scottish National Orchestra.
+* Rees had by then ceased to work in semigroup theory (and Sandy Green, another of the notable early contributors to the subject, had by then left Cambridge), but Douglas's attention was drawn to Rees's classical 1940 paper, and his interest was aroused.
+* Munn, leading from the front, gave great encouragement to talented students in organising chamber music.
+* Douglas did his duty as a committee man, serving for four years on the Council of the London Mathematical Society and for a short period on the Council of the Royal Society of Edinburgh, and taking his turn as President of the Edinburgh Mathematical Society (1984-85).
+* The explicit description in A class of irreducible matrix representations of an arbitrary inverse semigroup (1961) of the minimum group congruence on an inverse semigroup, though foreshadowed by work of Vagner and Rees, was a major step forward, and what is now called the Munn semigroup of a semilattice opened a complete new chapter in the study of inverse semigroups.
+* Munn was one of its early directors of St Mary's Music School in Edinburgh and served for 26 years, from 1974 to 2000.
+* Even when no longer formally involved with the school, Munn attended its concerts and continued to support it with enthusiasm.
+* Munn algebras, Munn graphs and Munn semigroups, just three of his many ideas, are known to all who work in these areas.
+* By that time, he had met Gordon Preston who told him about the class of inverse semigroups and Douglas's second published paper was about the axioms for inverse semigroups and appeared in the very same volume of the Proceedings of the Cambridge Philosophical Society as his first paper.
 
 Born 24 April 1929, Kilbarchan, Renfrewshire, Scotland. Died 26 October 2008, Troon, Scotland.
 

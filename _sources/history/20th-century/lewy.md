@@ -7,10 +7,10 @@ orderid: 1904
 title: Lewy, Hans
 born: 1904
 died: 1988
-keywords: Hans Lewy, Partial Differential Equations, Complex Variables, Fourier–Legendre method, Dirac's equation, Abramowitz–Stegun algorithm, Quantum Theory
-description: Hans Lewywas a mathematician who developed the Fourier–Legendre pseudospectral method & discovered the use of pseudodifferential operators to solve partial differential equations & established the theory of multiple Fourier Integrals.
+keywords: hans lewy,lewy
+description: Hans Lewy was a Polish-born American mathematician who worked on partial differential equations and on functions of several complex variables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hans Lewy** was a Polish-born American mathematician who worked on partial differential equations and on functions of several complex variables.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Fourier–Legendre pseudospectral method of approximating solutions of partial differential equations.
-2. Published a paper on the calculation of solution of Dirac's equation.
-3. Established the theory of multiple Fourier Integrals for certain domains.
-4. Developed the Abramowitz–Stegun algorithm for the generation of numerical tables of mathematical functions.
-5. Generated the celebrated Lewy extension of the Cauchy–Riemann equations.
-6. Published a definitive paper on the fundamental principles of the quantum theory of matter.
-7. Discovered the use of pseudodifferential operators in solving partial differential equations.
-8. Gained recognition for work relating to the expansion of partial differential equations in terms of linear combinations of eigenfunctions.
+* During the years when Lewy held a position at Göttingen he was awarded two Rockefeller Foundation Fellowships, the first allowing him to spend session 1929-30 at the University of Rome and second allowing him to spend session 1930-1931 at the University of Paris.
+* The revolutionary character of these works is reflected in the fact that J Hadamard, a world authority at that time, devoted a special appendix to Lewy's theory in his newly published book on the Cauchy Problem (1932).
+* On 30 January 1933 Hitler came to power and Lewy realised that he could not remain in Germany and that he had to emigrate.
+* He married Helen Crosby on 9 June 1947 and they had one son, Michael R Lewy.
+* Lewy retired in 1972 but continued to produce deep mathematics.
+* Another paper of major importance which Lewy published in 1951 was On minimal surfaces with partially free boundary which examines the continuation of minimal surfaces across analytic boundary arcs.
+* This work led Lewy to two later papers on the theory of functions of several complex variables for which he received the Steele Prize of the American Mathematical Society in 1979.
+* Lewy received many honours for his mathematical contributions.
+* Lewy had wide-ranging talents and interests both within and outside mathematics.
 
 Born 20 October 1904, Breslau, Germany (now Wrocław, Poland). Died 23 August 1988, Berkeley, California, USA.
 

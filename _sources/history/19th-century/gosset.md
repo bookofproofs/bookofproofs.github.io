@@ -7,10 +7,10 @@ orderid: 1876
 title: Gosset, William Sealy
 born: 1876
 died: 1937
-keywords: Student, t-test, ANOVA, variance, quality control, mean, experimental design
-description: Student (W.S. Gosset) developed t-test, ANOVA, and set principles for experimental design to assess population behavior and quality control in brewing.
+keywords: william gosset,gosset
+description: Gosset invented the t-test to handle small samples for quality control in brewing. He wrote under the name "Student".
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gosset** invented the _t_-test to handle small samples for quality control in brewing. He wrote under the name "Student".
 
 ### Mathematical Profile (Excerpt):
-1. Established the probability distribution known as Student's t-distribution in 1908, which is used to compare the means of small and large samples. 
-2. Pioneered the method of analysis of variance (ANOVA) in 1918, showing the importance of variance in different statistical approaches.
-3. Developed and published the t-test, a statistical hypothesis level test in 1908.
-4. Published a series of papers on quality control, showing the power of statistic methods in assessing reliability of products and processes.
-5. Established the importance of the mean as a significant statistic in evaluating and understanding the behavior of a population, published in 1911.
-6. Developed groundbreaking work in the field of experimental design, setting the principles for an efficient replication of experiments.
+* William was educated at Winchester, where his favourite hobby was shooting, then entered New College Oxford where he studied chemistry and mathematics.
+* Gosset obtained a post as a chemist with Arthur Guinness Son and Company in 1899.
+* Many people are familiar with the name "Student" but not with the name Gosset.
+* In fact Gosset wrote under the name "Student" which explains why his name may be less well known than his important results in statistics.
+* Gosset discovered the form of the ttt distribution by a combination of mathematical and empirical work with random numbers, an early application of the Monte-Carlo method.
+* Gosset certainly did not work in isolation.
+* At the end of 1935 Gosset left Ireland to take charge of the new Guinness brewery in London.
 
 Born 13 June 1876, Canterbury, England. Died 16 October 1937, Beaconsfield, England.
 

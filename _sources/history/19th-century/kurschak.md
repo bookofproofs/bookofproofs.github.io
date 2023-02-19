@@ -7,10 +7,10 @@ orderid: 1864
 title: Kürschák, József
 born: 1864
 died: 1933
-keywords: József Kürschák, Valuations, Automorphic Forms, Integral Reciprocity, Bounded Orbits, Mordell–Weil, Grothendieck's Theory
-description: József Kürschák, founder of Valuations, developed theories in Automorphic Forms, Integral Reciprocity, Bounded Orbits, Mordell–Weil, Grothendieck's Theory, used in modern quantum mechanics.
+keywords: józsef kürschák,kürschák
+description: József Kürschák was a Hungarian mathematician who founded the theory of valuations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **József Kürschák** was a Hungarian mathematician who founded the theory of valuations.
 
 ### Mathematical Profile (Excerpt):
-1. He developed a theory of automorphic forms for symmetric powers representations of the group of two-by-two matrices in 1845. 
-2. Formulated the law of integral reciprocity in 1866.
-3. He formulated the bounded orbits theorem in 1867. 
-4. Proposed the Kürschák–Friedman theorem in 1868.
-5. Helped to develop the Mordell–Weil theorem in 1929. 
-6. He introduced the notion of generality in mathematical models in the late 1800s.
-7. His results on differential equations involving elliptic integrals are still used in mathematics today. 
-8. Developed a new method to prove results in algebraic geometry using the information derived from partial differential equations in 1936. 
-9. Developed concept of Grothendick's theory of physical closeness in 1934. 
-10. His important research mathematical physics form the basis of modern quantum mechanics theories.
+* After the death of his father, József was brought up in Budapest by his mother.
+* It is correct to say that József, although born in Buda, was brought up in Budapest after the death of his father since Budapest was created by the unification of Buda, Obuda and Pest in 1872.
+* Kürschák attended secondary school in the flourishing city that became not only the capital of Hungary but also a major centre for industry, trade, communications, and architecture.
+* Kürschák entered the Technical University of Budapest in 1881 and graduated in 1886 with qualifications to teach mathematics and physics in secondary schools.
+* A trigonometric argument can be used to show that its area of the dodecagon is 3 but Kürschák gives a purely geometric proof.
+* In fact the first paper which Kürschák wrote was concerned with polygons.
+* Another topic which Kürschák investigated was the differential equations of the calculus of variations.
+* Kürschák's most important work, however, was in 1912 when he founded the theory of valuations.
+* Kürschák's work was inspired by earlier work of Julius König, Steinitz and Hensel.
+* The importance of Kürschák's valuations is that they allow notions of convergence and limits be used in the theory of abstract fields and greatly enrich the topic.
+* Dénes König and Von Neumann were both students of Kürschák and many other famous mathematicians benefited from his teaching.
+* Dénes König received his doctorate in 1907 for a thesis written under Kürschák's supervision.
+* Indeed Kürschák achieved this through his excellent teaching as well as bringing the very best out of his students.
+* He was one of the main organisers of mathematical competitions and to honour his outstanding contributions in this area the Loránd Eötvös Mathematics Competition, started in 1925, was renamed the József Kürschák Mathematics Competition in 1949.
+* Kürschák was elected to the Hungarian Academy of Sciences in 1897.
 
 Born 14 March 1864, Buda (now part of Budapest), Hungary. Died 26 March 1933, Budapest, Hungary.
 

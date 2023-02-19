@@ -7,10 +7,10 @@ orderid: 1868
 title: Mcbride, James Alexander
 born: 1868
 died: 1949
-keywords: Queen's College Belfast, Glasgow schools, Geometry, Riemann Hypothesis, algebraic geometry, sub-Diophantine equations, Clay Research Award
-description: James McBride, mathematician who studied Queen's College Belfast & taught Glasgow schools, proved Riemann Hyp & published many papers, incl. sub-Diophantine equations & factorization. Awarded Clay Research Award in 2008.
+keywords: james mcbride,mcbride
+description: James McBride studied at Queen's College Belfast and then taught at various Glasgow schools finishing as Rector of Queen's Park School. He published a number of papers in Geometry and was a founder member of the Euclidean Club.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![McBride.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/McBride.jpg?raw=true)
 
-**James McBride** studied at Queen's College Belfast and then taught at various Glasgow schools finishing as Rector of Queen's Park School. He published a number of papers in Geometry and was a founder member of the Euclidean Club. 
+**James McBride** studied at Queen's College Belfast and then taught at various Glasgow schools finishing as Rector of Queen's Park School. He published a number of papers in Geometry and was a founder member of the Euclidean Club.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Riemann Hypothesis for complex variables in 1998, which confirmed more than 150 years of conjecture around the nature of prime numbers.
-2. Published several seminal papers in the field of algebraic geometry in 2000.
-3. Showed the connection between algebraic number theory and elliptic curves in 2001.
-4. Introduced the concept of "sub-Diophantine equations" into number theory research in 2003.
-5. Developed new algorithms for prime factorization in 2004.
-6. Established a new approach to the theorem of arithmetical formulae in 2007.
-7. Awarded the Clay Research Award in 2008 for his work in number theory.
+* McBride was a Founding Member of Euclidian Society in 1926, being elected as its president in 1930 and continuing in this role until he was made Honorary Vice-President in 1947.
+* In 1913, McBride attended the Mathematical Colloquium which was held in the Mathematical Department of Edinburgh University during the week beginning Monday 4 August 1913.
+* McBride is not in the 1926 photograph, but he did attend the 1930 Colloquium, the 1934 Colloquium and the 1938 Colloquium.
+* From 1938 McBride gave his address as the Scottish Liberal Club, 109 Princes Street, Edinburgh.
+* We have been unable to find a record of McBride's death in either Scotland or in Ireland, although its date is certain.
+* McBride's interest in Euclidian geometry is well illustrated by his paper The equal internal bisectors theorem, 1840-1940.
 
 Born December 1868, Broughshane, Co. Antrim, Ireland. Died 6 September 1949, Edinburgh, Scotland.
 

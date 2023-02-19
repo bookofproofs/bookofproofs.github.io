@@ -7,10 +7,10 @@ orderid: 400
 title: Zi, Sun
 born: 400
 died: 460
-keywords: Sun Zi, Mathematics, Chinese Remainder Theorem, Lair's Theorem, Pythagorean Theorem, Astronomy, Frequency Distributions, Probability
-description: Sun Zi was a Chinese mathematician who wrote Sunzi suanjing, developing important mathematical theorems, exploring right triangles, astronomy and more.
+keywords: sun zi,zi
+description: Sun Zi was a Chinese mathematician who wrote Sunzi suanjing (Sun Zi's Mathematical Manual).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sun Zi** was a Chinese mathematician who wrote _Sunzi suanjing_ (Sun Zi's Mathematical Manual).
 
 ### Mathematical Profile (Excerpt):
-1. Developed important mathematical theorems, such as the Chinese Remainder Theorem and Lair's Theorem.
-2. Explored the properties of right triangles, including the Pythagorean Theorem.
-3. Was the first to use a stereographic projection to graphically depict astronomical data.
-4. Introduced methods of computing timings related to movement of the Sun, stars, and other celestial objects. 
-5. Established the first frequency distributions and probability models. 
-6. Developed techniques for using numerical algorithms to solve complex problems. 
-7. Successfully calculated the area of triangles and other polygons.
-8. Developed the first numerical systems for fractions and decimals.
+* In the 17th  century Sun Zi was identified with Sun Wu, a famous military expert of the sixth century BC who wrote Sun Zi's art of war.
+* The Ruan Yuan in his Chouren zhuan or Biographies of astronomers and mathematicians (1799) certainly realised that references in certain problems in the Sunzi suanjing meant that the identification with Sun Wu was incorrect.
+* He placed Sun Zi around 250 BC but knew that there was still problems with this dating which he said would have to be studied later.
+* Indeed such studies did take place and Dai Zhen, an 18th  century scholar, historian and mathematician, stated that it was impossible for the Sunzi suanjing to have been written before about 50 BC.
+* L E Dickson, the American number theorist, claimed in 1919 that the Sunzi suanjing was written in the first century AD.
+* A new scale between chih and tuan was established in 474 AD; the Sunzi, still using the old scale by Wu Ch'en-Shih's emendation, cannot be older than 473 AD.
+* This theory is supported by the fact that in a bibliography compiled in 636 it is stated that the Sunzi suanjing has two chapters while today's version has three.
+* Leaving the question of the date let us look briefly at the content of the treatise, before finally trying to make some guesses about Sun Zi based purely on the text.
+* The Sunzi suanjing consists, as we have already noted, of three chapters.
+* Xu argues convincingly that Sun Zi's procedure differs from the earlier method in significant ways and so should be recognized as an outstanding and original contribution.
+* Can we deduce anything of Sun Zi himself?
+* Well first notice that since the work of modern historians has placed the Sunzi suanjing much later than was thought in ancient times, we can now see that as nothing was known of Sun Zi within say 100 years of his death.
+* Unlike many Chinese mathematicians, Sun Zi cannot have been an important government official, nor to have been from a family of high social standing.
 
 Born about 400, China. Died about 460, China.
 

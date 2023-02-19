@@ -7,10 +7,10 @@ orderid: 1907
 title: Womersley, John
 born: 1907
 died: 1958
-keywords: John Womersley, applied math, computers, blood flow, numerical integration, numerical algorithms, variational problems
-description: John Womersley was an applied mathematician who developed new algorithms for numerical integration, numerical algorithms, variational problems and blood flow, all related to mathematical physics.
+keywords: john womersley,womersley
+description: John Womersley was an applied mathematician who became involved in the early development of computers. Perhaps his most significant work, however, was in essentially creating the mathematical theory of blood flow.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,42 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Womersley** was an applied mathematician who became involved in the early development of computers. Perhaps his most significant work, however, was in essentially creating the mathematical theory of blood flow.
 
 ### Mathematical Profile (Excerpt):
-1. Developed foundational algorithms for numerical integration and estimates of derivatives of mathematical functions.
-2. Devised improved representations of mathematical formulae.
-3. Fashioned new numerical algorithms for solving differential equations of mathematical physics.
-4. Refined the finite element method in computational mechanics.
-5. Reduced the computational complexity of certain numerical algorithms.
-6. Proved a theorem which shows the boundeness of certain variational problems.
-7. Synthesized a new exact algorithm for the numerical solution of approximate Ivchenko equations.
-8. Proposed a technique for solving ODE's using weighted generalized polynomials.
-9. Published several research papers on algorithms for optimization and uncertainty quantification.
-10. Co-authored several books related to numerical analysis and mathematical physics.
+* George Womersley had married Ruth at St Paul's Church in King Street, Morley, on 7 July 1904.
+* The marriage record gives George Womersley as 26 years old, living at Bridge Street, Morley, the son of James Womersley who was a mill-hand.
+* Alice, who was 17 years older than Ruth, had married John Pettler who was a newspaper reporter.
+* The 1911 Census lists John Ronald Womersley as 3 years old, living with his parents at 3 Stanhope Road, Thorpe, Wakefield, about 4 km from Morley.
+* John was his parents' only child.
+* John Womersley attended primary school in Morley, then in 1917 he entered Morley grammar school and, in 1922, he was awarded a Northern Universities School Certificate.
+* While he was studying at Imperial College, Womersley got to know Jean Isobel Jordan (1907-1995).
+* While in London, Womersley had decided that he would try to return to the north of England and get a position involving applications of mathematics.
+* On 18 April 1931 Womersley married Jean Isobel Jordan in St Catherine Coleman alias St Katherine's Church, North Hammersmith.
+* The marriage certificate gives Womersley's address as 45 Whitby Road, Fallowfield, Manchester while Jean Jordan's address is given as 58 Braybrook Street, London W12.
+* The witnesses included Womersley's father, George William Womersley, and his Jean Jordan's father, Alfred George Jordan, a publisher's agent.
+* John and Jean Womersley had three daughters:  Barbara Jean Womersley, Ruth Womersley, and Marion Womersley.
+* Two papers which Womersley published on the work he was undertaking at the Shirley Institute are Two nomograms for calculating the fluidity of cellulose solutions (1934) and The application of differential geometry to the study of the deformation of cloth under stress (1937).
+* While at the Shirley Institute, he met Leslie John Comrie (1893-1950) who had been promoted to Superintendent of the Nautical Almanac Office in 1930.
+* At Comrie's suggestion, Womersley spent a month at the Nautical Almanac Office learning Comrie's computational techniques.
+* Another of Womersley's friends was Douglas Hartree, the Professor of Applied Mathematics at the University of Manchester.
+* Two further multi-author papers relating to Womersley's work at the Shirley Institute were put on hold and only published after the war ended.
+* Womersley's reputation was by this time high and, in February 1937, he joined the Civil Service when he was recruited as a scientific officer in the Ballistics Branch of the Research Department.
+* This move meant that the family were now based in Woolwich in East London, which brought Womersley's wife back to her home territory.
+* Although Womersley's family survived, their house in Charlton was destroyed by a bomb and the family were evacuated to Cambridge.
+* Womersley had been building a differential analyser at Woolwich, but before the work was finished, it was destroyed in a bombing raid in September 1940.
+* The setting up by the Department of Scientific and Industrial Research of a Mathematics Division, equipped with mechanical computing devices, under Mr J R Womersley, in the National Physical Laboratory should meet a real need.
+* To prepare Womersley for one of his main tasks at the Mathematics Division, namely to build an electronic stored program computer, he was given clearance to visit the ENIAC (Electronic Numerical Integrator and Computer) project at the University of Pennsylvania's Moore School of Electrical Engineering.
+* During his time as Superintendent of the Mathematics Division, Womersley published one paper Scientific Computing in Great Britain.
+* After giving Turing a copy of von Neumann's report on EDVAC (John Mauchly and J Presper Eckert's Electronic Discrete Variable Automatic Computer) to read, he offered him the position of running the project to develop the ACE (Automatic Computing Engine) computer.
+* Turing drew up proposals for ACE and, with supporting documents from Womersley, they were submitted to Executive Committee which approved the project by the summer of 1946.
+* There does seem, however, to have been an unfortunate disagreement between Turing and Womersley about the project.
+* Turing had brilliant ideas of his own, but Womersley wanted to follow the general principles of the ENIAC project.
+* Womersley was not aware of these and could not be told because of the Official Secrets Act.
+* Turing knew that ACE was based on the pioneering work done at Bletchley Park while Womersley believed it was based on pioneering work done in the United States.
+* Womersley's Mathematics Division continued to work on a prototype machine, the Pilot ACE, but in September 1950 Womersley left his role as Superintendent of the Mathematics Division at the National Physical Laboratory to take up the post of Director of Research at the British Tabulating Machine Company (B.T.M.C.).
+* Let us note that Womersley was actually about four years at B.T.M.C. and we should understand that Donald Sadler, having lost out in the appointment to Superintendent of the Mathematics Division at the National Physical Laboratory, may have been harder on Womersley then he deserves.
+* Leaving B.T.M.C. in 1954, Womersley undertook research at St Bartholomew's Hospital, London, on the mathematical theory of blood flow.
+* Womersley continued this line of research when appointed to a mathematical post with the United States Air Force at Wright Field, Dayton, Ohio in 1955.
+* It neatly illustrates the arc of Womersley's life from applied mathematics to numerical analysis and electronic computers.
+* Jean Womersley remained in the United States and died on 28 February 1995 in Montgomery County, Ohio.
 
 Born 20 June 1907, Morley, Yorkshire, England. Died 7 March 1958, Columbus, Ohio, USA.
 

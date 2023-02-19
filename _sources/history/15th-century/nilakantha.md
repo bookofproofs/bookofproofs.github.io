@@ -7,10 +7,10 @@ orderid: 1444
 title: Somayaji, Nilakantha
 born: 1444
 died: 1544
-keywords: Nilakantha, pi, astronomy, infinite series, trigonometric equations, laws of planetary motion, cosmology
-description: Nilakantha created his famous series to estimate pi's value and derived laws of planetary motion and cosmology.
+keywords: nilakantha,somayaji
+description: Nilakantha was a mathematician and astronomer from South India who wrote texts on both astronomy and infinite series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nilakantha** was a mathematician and astronomer from South India who wrote texts on both astronomy and infinite series.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an approximation for the value of pi—known as the Nilakantha Series—as “3 + 4/(2 × 3 × 4) - 4/(4 × 5 × 6) + 4/(6 × 7 × 8) - 4/(8 × 9 × 10) ... + (-1)n-1(4n-2 x 4n-1 x 4n)".
-2. Resolved a number of trigonometric equations and formulae related to Surya Siddhanta, an ancient astronomical text.
-3. Derived three laws of planetary motion with respect to eclipses, referred to as Nilakantha's law of eclipses.
-4. Described a geocentric cosmology with an intricate system of system of spherical layers around earth with celestial bodies travelling along the outermost layer.
-5. Came up with the idea of heliocentric cosmology with the Earth and all other planets revolving around the Sun.
+* Nilakantha studied astronomy and Vedanta, one of the six orthodox systems of Indian Hindu philosophy, under the teacher Ravi.
+* This led Nilakantha also to become a follower of Paramesvara.
+* A number of texts on mathematical astronomy written by Nilakantha have survived.
+* The Tantrasamgraha Ⓣ(Strategy collection) is very important in terms of the mathematics Nilakantha uses.
+* However, Nilakantha does not just use Madhava's results, he extends them and improves them.
+* An anonymous commentary entitled Tantrasamgraha-vakhya Ⓣ(Interpretation of the Tantrasamgraha) appeared and, somewhat later in about 1550, Jyesthadeva published a commentary entitled Yuktibhasa Ⓣ(Logic) that contained proofs of the earlier results by Madhava and Nilakantha.
+* The Tantrasamgraha Ⓣ(Strategy collection) is not the only work of Nilakantha of which we have the text.
+* The head of the Nambudiri caste in Nilakantha's time was Netranarayana and he became Nilakantha's patron for another of his major works, namely the Aryabhatiyabhasya Ⓣ(Commentary on Aryabhata's work) which is a commentary on the Aryabhatiya Ⓣ(The work of Aryabhata) of Aryabhata I.
+* In this work Nilakantha refers to two eclipses which he observed, the first on 6 March 1467 and the second on 28 July 1501 at Anantaksetra.
+* Nilakantha also refers in the Aryabhatiyabhasya Ⓣ(Commentary on Aryabhata's work) to other works which he wrote such as the Grahanirnaya Ⓣ(Adjudication) on eclipses which have not survived.
 
 Born 14 June 1444, Trikkantiyur (near Tirur), Kerala, India. Died 1544, India.
 

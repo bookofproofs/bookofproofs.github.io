@@ -7,10 +7,10 @@ orderid: 1912
 title: Ollerenshaw, Kathleen Timpson
 born: 1912
 died: 2014
-keywords: mathematics, deafness, political advisor, Manchester, education, CBE, Nobel Prize
-description: Kathleen Ollerenshaw was a deaf mathematician, educationalist, and political advisor who became the first female Lord Mayor of Manchester and was awarded a CBE and the LMS Fröhlich Prize.
+keywords: kathleen ollerenshaw,ollerenshaw
+description: Kathleen Ollerenshaw was an English mathematician and educationalist who overcame deafness and went on to become an important political advisor. She was elected Lord Mayor of Manchester.
 references: bookofproofs$6909
-contributors: @Catherine-Felgate,@Edmund-Robertson,bookofproofs,@ChatGPT
+contributors: @Catherine-Felgate,@Edmund-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,40 @@ contributors: @Catherine-Felgate,@Edmund-Robertson,bookofproofs,@ChatGPT
 **Kathleen Ollerenshaw** was an English mathematician and educationalist who overcame deafness and went on to become an important political advisor. She was elected Lord Mayor of Manchester.
 
 ### Mathematical Profile (Excerpt):
-1. Appointed as Professor of Mathematics at Manchester University in 1972, becoming the first woman to occupy a full-time chair in mathematics in Britain.
-2. Awarded a CBE (Commander of the British Empire) in 1982 for services to mathematics in education, engineering and architecture.
-3. Co-wrote the book "Mathematics for Fun" (1973) in order to encourage an interest in the subject early on.
-4. Served as President of the Manchester Astronomical Society (1969–1972) and President of the British Astronomical Association (1974–1976).
-5. Nominated for the Nobel Prize in mathematics three times between 1983 and 1986.
-6. Acted as honorary president of The Junior Centre for Mathematical Learning (1989–1994).
-7. Became Honorary Freemen of Manchester in 2010, the highest civic award in England, the first female mathematician to achieve this honour.
-8. Won the LMS (London Mathematical Society) Fröhlich Prize in 2008. 
-9. Became a Fellow of both the Institute of Mathematics and its Applications and the Royal Society of Arts.
-10. Appointed honorary doctor in mathematics from the University of Leicester in 1985.
+* Kathleen had one sister, Betty (4 years her senior), to whom she was very close.
+* Kathleen inherited otosclerosis from her father's side of the family and was always partially deaf.
+* In September 1918, Kathleen entered Lady Barn House Montessori School in Withington where, at the age of five, she met her future husband Robert Ollerenshaw.
+* Kathleen was good at mathematics, and had always found pleasure in patterns and numbers.
+* Kathleen considers her deafness to be one of the reasons that she took to mathematics so keenly; it was one of the few subjects in which she was not disadvantaged due to her deafness.
+* Mathematics was not Kathleen's only passion whilst at school.
+* When Kathleen was thirteen years old she entered St Leonard's, a prestigious girl's boarding school in St Andrews, Scotland.
+* Kathleen developed a technique that proved useful throughout her lifetime.
+* In July 1930, at the age of 17, after taking her Higher School Certificate, Kathleen left St Leonard's and applied to Oxford and Cambridge to study mathematics.
+* In August, Kathleen went as a representative of St Leonard's school to a conference on disarmament held for sixth formers at the League of Nations Headquarters in Geneva.
+* Kathleen returned home and took up ice-skating, gaining many medals in both figure skating and ice dancing.
+* When it came to the Cambridge interview, however, Kathleen scraped through without anyone knowing she was deaf, but struggled to lip-read the questions.
+* In her first term at Oxford, Robert and Kathleen got engaged.
+* After graduating form Oxford, Kathleen learned touch typing and covered her sister's secretarial job while she had her first child.
+* At the beginning of 1936 Kathleen went out to Germany to learn to ski.
+* In September 1936, Kathleen started research on cotton for the Shirley Institute on a temporary basis.
+* Kathleen and Robert married on 6 September 1939 before he was called up for war duty.
+* In 1949, Ollerenshaw was given one of the first hearing aids, which completely revolutionised her life.
+* In 1951, Ollerenshaw began her life of public service when she became a member of the governing body of St Leonard's school; she was president 1981-2003.
+* In 1954, Robert and Kathleen bought a house in the Lake District which became their weekend retreat, and the main place that Kathleen did her mathematics.
+* Later that year, Ollerenshaw became a co-opted member of Manchester Education Committee.
+* In 1960, Kathleen joined the Central Advisory Council for Education.
+* Ollerenshaw was elected to the British Association for Commercial and Industrial Education governing council in May 1963.
+* Ollerenshaw was interested in the educational system in the USA and arranged that in her free time she could visit various schools and leading educators.
+* It was here she learned of the Stanford research project that was being established to measure the standards of mathematics teaching in countries across the world, precisely Kathleen's area of interest.
+* With sponsorship from the British Council, Ollerenshaw went out to Japan to see for herself the reasons for the success of the Japanese educational system.
+* In 1970, Kathleen was appointed Dame Commander of the British Empire for services to education.
+* In June 1972, Dame Kathleen started a part time senior research fellowship at Lancaster University in the Department of Educational Research, and in the following year she became the first chairman of the new Greater Manchester County St John Ambulance Brigade.
+* Dame Kathleen was elected Lord Mayor of Manchester in May 1975.
+* It was through the IMA, that Dame Kathleen first met Hermann Bondi, with whom she later started her work on magic squares.
+* In her presidential address, The Magic of Mathematics, Dame Kathleen discusses the beauty of mathematics, and her experiments with soap film bubbles.
+* As a result of her work on the Rübik cube, Dame Kathleen injured her thumb.
+* In 1982, Dame Kathleen Ollerenshaw and Hermann Bondi published a paper, Magic squares of order four, in which they prove the conjecture of Frénicle de Bessy showing that there are 880 essentially different normal magic squares of order 4.
+* This led Dame Kathleen to consider magic squares of higher orders.
 
 Born 1 October 1912, Manchester, England. Died 10 August 2014, Didsbury, Manchester,England.
 

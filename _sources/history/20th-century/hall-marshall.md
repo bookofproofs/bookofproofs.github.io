@@ -7,10 +7,10 @@ orderid: 1910
 title: Hall Jr, Marshall
 born: 1910
 died: 1990
-keywords: Marshall Hall Jr., group theory, combinatorics, Hall-Hopf Transform, Birkhoff-Lewis conjecture, synectic engineering, AAAS, AAAS, IFAC
-description: Marshall Hall Jr. developed important mathematical tools like the Hall-Hopf Transform & cracked the Birkhoff-Lewis conjecture, as well as contributing to group theory, combinatorics, chaos theory & more; recognized by AAAS, AAAS & IFAC.
+keywords: marshall hall jr,hall
+description: Marshall Hall, Jr was an American mathematician who made important contributions to group theory and combinatorics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,36 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Marshall Hall, Jr** was an American mathematician who made important contributions to group theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first rigorous approach to proving the theorems of behaviorally nonlinear dynamical systems in a 1968 joint paper with N. Kapila.
-2. Published a book   on mathematical models of neural networks in 1967.
-3. Developed the widely-used Hall-Hopf Transform which provided a systematic solution to certain nonlinear systems.
-4. Participated in the development of the mathematics of chaos theory and nonlinear dynamics.
-5. Cracked a 100-year-old problem in mathematics known as the Birkhoff-Lewis conjecture in the 1960s.
-6. Developed the mathematical techniques used to model synectic engineering, an approach to industrial problem solving.
-7. Named Fellow of the American Association for the Advancement of Science in 1967 for contributions to mathematics.
-8. Named fellow of the American Academy of Arts and Sciences in 1966 for contributions to mathematics.
-9. Appointed a Distinguished Scientist of the International Federation of Automatic Control in 1965 for contributions to mathematics.
-10. Won the first of two Guggenheim Fellowships in 1964.
+* Marshall Hall Sr. was educated in private schools in Kentucky and was first employed by the Chesapeake & Ohio Railroad Company.
+* Bethune, Marshall, Jr (the subject of this biography), and Inez.
+* Marshall Hall Sr. worked his way up to become president of the W L Green Commission Company in 1903.
+* In 1915 the company was renamed the Marshall Hall Grain Company, with Marshall Hall Sr. as its president.
+* Marshall Hall Jr showed talent for mathematics at a young age for, at age eleven, he constructed a seven-place table of logarithms for the positive integers up to 1000.
+* Marshall was taught mathematics by a good teacher although he was not a mathematician, being employed as a German teacher.
+* While he was at this school Marshall's father died and, although the family had been very well off, the death of his father meant not only sadness at the loss, but also that the family were now in a poorer financial position.
+* At Cambridge he was taught by several mathematicians who were to have an important influence on him such as Philip Hall, Harold Davenport and G H Hardy.
+* Hall would have liked to continue to undertake graduate work at Cambridge but since the fellowship was only for one year and his family could not support him financially, he applied for actuarial positions back in the United States.
+* After the award of his Ph.D., Hall spent the year 1936-37 at the Institute for Advanced Study at Princeton.
+* We shared space in Fine Hall with the Mathematics Department.
+* While at the Institute for Advanced Study, Hall received offers of an Instructorship in Mathematics from Columbia University and a similar offer from Yale University.
+* He had married Dorothy E Gregory and Hall met their daughter Sally at a Silliman College picnic.
+* With the United States now at war, Hall joined Naval Intelligence and was involved, as were many other mathematicians, deciphering Japanese coded messages and deciphering German Enigma codes.
+* Hall spent six months at Bletchley Park, the centre for British Intelligence, during 1944.
+* Hall's 48-page paper Projective planes was published in the Transactions of the American Mathematical Society in 1943.
+* Hall, therefore, accepted an appointment as an associate professor at Ohio State University and began teaching there in the autumn of 1946.
+* Saunders Mac Lane had recommended Hall to Tibor Radó, the chairmen of the Ohio State Mathematics Department, who treated him very well.
+* There he and his family (by this time Hall had two young sons) lived in Louis Mordell's home.
+* Hall is best known as a group theorist, perhaps because of his famous book Theory of Groups (1959) from which several generations of group theorists have learnt the subject.
+* He was writing this book during his year in Cambridge and Philip Hall read his manuscript and made many helpful suggestions.
+* Hall spent time at the University of Warwick Group Theory year in August 1967 and, while in England, visited Philip Hall in Cambridge.
+* This group is now known as the Hall-Janko group.
+* The uniqueness of the simple group of this order was proved in Hall's paper, written jointly with David Wales, The simple group of order 604,800 (1968).
+* We should go back a little at this point and look at some of Hall's other contributions to group theory.
+* When P Hall found himself unable to return to the plan, M Hall, Jr used his wide experience in group theory to fill his place and to explain the theoretical background of the construction.
+* In 1973 Hall was named IBM Professor at CalTech but, in 1977, he arranged for his appointment at CalTech to be half-time so that he could spend time in other institutions.
+* Among the honours Hall received were two Guggenheim Fellowships and membership of the American Academy of Arts and Sciences.
+* The Marshall Hall Conference was held at the University of Vermont, Burlington, Vermont, September 13-18, 1990.
+* The original impetus for the conference was to celebrate the 80th  birthday of Marshall Hall.
 
 Born 17 September 1910, St Louis, Missouri, USA. Died 4 July 1990, London, England.
 

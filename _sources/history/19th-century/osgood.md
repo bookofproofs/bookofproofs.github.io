@@ -7,10 +7,10 @@ orderid: 1864
 title: Osgood, William Fogg
 born: 1864
 died: 1943
-keywords: William Osgood, Analytic Functions, Differential/Integral Calculus, Mathematical Analysis, Probability/Calculus, Analytical Society, American Journal of Mathematics
-description: William Osgood was influential in advancing American mathematics through his development of analytic functions and his leadership in the Analytical Society and American Journal of Mathematics.
+keywords: william osgood,osgood
+description: William Osgood was important in bringing the latest ideas of mathematical research to the United States.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Osgood** was important in bringing the latest ideas of mathematical research to the United States.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical theory of analytic functions known as 'elliptic functions'
-2. Co-authored the classic textbook 'Differential and Integral Calculus' (with Benjamin Osgood Peirce and Charles S. Peirce)
-3. Published a widely acclaimed collection of essays on mathematical analysis which included topics such as series and surfaces
-4. Advocated establishing a unified theory of mathematical analysis
-5. Pioneered the use of probability theory and calculus to solve a variety of problems in mechanics and hydrodynamics
-6. Was a member of the first American mathematical society, 'The Analytical Society of Philadelphia'
-7. Co-founded the 'American Journal of Mathematics' and served as its first editor from 1877-1883
+* He studied at the Boston Latin School where Benjamin Osgood Peirce taught mathematics for the year 1880-81 but at this stage Osgood was interested in studying the classics.
+* However F N Cole and B O Peirce, who had begun teaching at Harvard the year before Osgood entered, persuaded him to study mathematics.
+* He was also influenced by two other mathematics lecturers at Harvard, namely James Mills Peirce, the son of Benjamin Peirce, and William Elwood Byerly who was renowned as an excellent teacher.
+* Osgood graduated with a A.B. in 1886, coming second out of 286 students, then undertook graduate work at Harvard for a year, graduating with a Master's Degree in 1887.
+* Cole had attended Klein's lectures at Harvard in 1885-87 on function theory and he persuaded Osgood to go to Göttingen in 1887 and study with Klein.
+* Osgood was awarded a Parker Fellowship and set off for Germany in the autumn of 1887 having already an excellent command of the German language and a deep respect for German learning.
+* After working with Klein for two years, Osgood wondered if he might not benefit by spending some time at another German University before the end of his three year fellowship.
+* Osgood took Tyler's advice and undertook graduate work with Max Noether at Erlangen in 1889.
+* There was no spirit of research at Harvard then, except what Osgood himself brought, but a year later Maxime Bôcher joined him there, also a student greatly influenced by Felix Klein, and a man of mathematical background and ideals similar to those of Osgood.
+* At Harvard Osgood was an instructor in mathematics from 1890 to 1893 when he was promoted to assistant professor.
+* He held this post until 1903 when he was promoted to full professor, being named Perkin Professor of Mathematics in 1913 on the death of the holder of the chair William Elwood Byerly who had taught Osgood as an undergraduate and had then been his colleague for 23 years.
+* Osgood's main work was on the convergence of sequences of continuous functions, solutions of differential equations, the calculus of variations and space filling curves.
+* In 1900 Osgood established, by methods due to H Poincaré, the Riemann mapping theorem, namely that an arbitrary simply connected region of the plane with at least two boundary points, can be mapped uniformly and conformally onto the interior of a circle.
+* This theorem remains as Osgood's outstanding single result.
+* Osgood's marriage to Teresa produced three children, William Ruprecht, Frieda Bertha Ruprecht (who married Walter Silz), and Rudolf Ruprecht.
+* However the marriage ended in divorce and Osgood married Celeste Phelps Morse, the former wife of Marston Morse, in August 1932.
+* When Celeste married Osgood, who was 28 years older than Morse and 68 years old at the time of the marriage, not only did Morse receive a great shock, but there was a scandal which led to Osgood retiring.
+* After he retired from Harvard in 1933, Osgood taught for two years at the National University of Peking.
+* Osgood is important in bringing the latest ideas of mathematical research to the United States.
 
 Born 10 March 1864, Boston, Massachusetts, USA. Died 22 July 1943, Belmont, Massachusetts, USA.
 

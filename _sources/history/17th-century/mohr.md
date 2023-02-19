@@ -7,10 +7,10 @@ orderid: 1640
 title: Mohr, Georg
 born: 1640
 died: 1697
-keywords: Georg Mohr, Mascheroni, analytical geometry, calculus, Descartes, conic sections, complex numbers
-description: Georg Mohrpioneered the development of analytical geometry and was the first to conceive of differential calculus, complex numbers, and other mathematical innovations.
+keywords: georg mohr,mohr
+description: Georg Mohr was a Danish mathematician who anticipated Mascheroni's proof that all ruler and compass constructions can be accomplished with compasses alone.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georg Mohr** was a Danish mathematician who anticipated Mascheroni's proof that all ruler and compass constructions can be accomplished with compasses alone.
 
 ### Mathematical Profile (Excerpt):
-1. Sparked the development of modern analytical geometry with the publication of his treatise Geometria (1672).
-2. Conceived the concept of differential calculus prior to Leibniz and Newton.
-3. Proved several special cases of what is now known as the Principal of Descartes.
-4. Studied and provided better understanding of the theory of conic sections.
-5. Developed several theorems related to polar coordinate systems.
-6. Discovered the Mohr–Mascheroni Theorem in 1782, over a century after his death.
-7. Pioneered the use of complex numbers to solve quadratic equations.
+* The name sometimes also appears as Mohrenthal but certainly around this period it is quite common for names to appear with different spellings.
+* David Mohrendal was a tradesman who also worked as an inspector of hospitals.
+* Georg was educated by his parents and learnt enough mathematics from them to want to study further.
+* Mohr was little known in his own day as a mathematician.
+* Mascheroni, who is credited with proving that all Euclidean constructions can be carried out with compasses alone, did not prove this until 125 years after Mohr's book was published.
+* Mohr spent part of his life in Holland and part in Denmark.
+* Mohr corresponded with a number of mathematicians including Leibniz who had received a work written by Mohr on root extraction.
+* It had been sent to him by Oldenburg, the secretary of the Royal Society in London, in 1675 and Leibniz replied to Oldenburg in the following year praising Mohr's skill in geometry and analysis.
+* Mohr was back in Denmark around 1681 but, having decided not to accept a post from King Christian V as supervisor of his shipbuilding, he returned to Holland in 1687.
+* In 1695 Mohr accepted the offer of a job from Tschirnhaus and he went to Kieslingswalde, with his wife and son, to take part in Tschirnhaus's mathematical projects.
+* Mohr's son claimed that his father had written three books on mathematics and philosophy which were all well received.
 
 Born 1 April 1640, Copenhagen, Denmark. Died 26 January 1697, Kieslingswalde (near Görlitz), Germany.
 

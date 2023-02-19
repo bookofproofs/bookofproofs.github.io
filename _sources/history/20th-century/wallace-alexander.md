@@ -7,10 +7,10 @@ orderid: 1905
 title: Wallace (2), Alexander Doniphan
 born: 1905
 died: 1985
-keywords: Alexander Doniphan Wallace, Topology, Numerical Analysis, Machine Learning, Linear Algebra, Robotics, Computational Complexity
-description: Alexander Doniphan Wallace, a mathematician who worked in topology, developed computing algorithms, pioneered machine learning and linear algebra theories, founded the first robotics lab, and chaired a committee on computational complexity.
+keywords: alexander doniphan wallace,wallace
+description: Alexander Doniphan Wallace was an American mathematician who worked in topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Doniphan Wallace** was an American mathematician who worked in topology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the single-step algorithm of multiplying two large numbers used in modern-day computers.
-2. Published "Boolean Algebra", a comprehensive textbook on logic used in modern computing. 
-3. Pioneered in the area of numerical analysis, developing a mathematical optimization procedure that significantly shortened the time for solving large engineering problems. 
-4. Helped advance the field of machine learning through pioneering work in the theory of neural networks and back-propagation algorithms.
-5. Developed a fast algorithm for solving systems of linear equations which is now widely used in numerical linear algebra. 
-6. Constructed an algorithm for sorting data into an ordered sequence which is now an indispensable tool for almost all programs. 
-7. Founded the first robotics laboratory in the world focusing on autonomous robot navigation. 
-8. Chaired a prominent committee that developed a ground-breaking theory of computational complexity, helping to pioneer the field of modern computing.
+* Wallace was a student at the University of Virginia and he was awarded a B.S. in 1935.
+* Wallace spent the year 1940-41 as an Instructor in Mathematics and assistant to Lefschetz at Princeton, then was appointed as an Assistant Professor at the University of Pennsylvania.
+* This notion, subsequently developed by Spanier in his dissertation, is frequently referred to as Alexander-Wallace-Spanier-Kolmogorov cohomology.
+* Wallace was invited to join the faculty at Tulane University as Professor and Head of the Department of Mathematics in 1947.
+* In 1963 Wallace moved to the University of Florida at Gainesville.
+* Sigmon wrote his thesis on Topological Means  with Wallace as advisor.
+* This is typical of the care and effort that Wallace put into helping all the students in his department, those he supervised and those supervised by others.
+* Wallace married Willie-Catherine and they had a daughter Sandra.
+* For all of those mathematicians having in the remotest sense been connected with topological semigroups, however, Alexander Doniphan Wallace will always be remembered as the great pioneer of this line of mathematical research.
 
 Born 21 August 1905, Hampton, Virginia, USA. Died 16 October 1985, New Orleans, USA.
 

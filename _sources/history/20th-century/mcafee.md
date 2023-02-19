@@ -7,10 +7,10 @@ orderid: 1914
 title: Mcafee, Walter Samuel
 born: 1914
 died: 1995
-keywords: Walter McAfee, African-American, lunar echo, radio waves, numerical analysis, differential equations, hydrophysics
-description: Walter McAfee, African-American scientist and astronomer, pioneered new methods for numerical solutions of equations and their applications in engineering, hydrophysics, and sub atomic particles.
+keywords: walter samuel mcafee,mcafee
+description: Walter McAfee was an African-American scientist and astronomer, best known for his part in the world's first lunar radar echo experiments.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Walter McAfee** was an African-American scientist and astronomer, best known for his part in the world's first lunar radar echo experiments.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical equation for the propagation of radio waves.
-2. Developed foundations for certain linear and nonlinear integro-differential equations of mathematical physics.
-3. Developed new methods for the numerical solution of partial differential equations.
-4. Pioneered the utilization of numerical analysis for meteorology and oceanography.
-5. Published a textbook on the applications of differential equations in engineering.
-6. Developed an equation for calculating the energy radiated from charges in arbitrary motion.
-7. Established a new mathematical method for treating refraction in waveguides.
-8. Made important contributions to the study of hydrophysics and magnetohydrodynamics.
-9. Pioneered the use of computers in mathematical equations.
-10. Developed a theory regarding the mathematics of subatomic particles.
+* Luther McAfee's father was a minister in the Colored Methodist Episcopal Church which had originated from a movement begun in 1866 within the Methodist Episcopal Church, South, from which the black members set up an independent Church.
+* Luther McAfee had been educated at Texas College, which was run by the Colored Methodist Episcopal Church, and then became a carpenter.
+* Walter's mother Suzie was the daughter of a farmer.
+* She came from a well-educated family with one of her brothers, an uncle of Walter, was a medical doctor who had first been awarded a Bachelor's Degree.
+* Walter McAfee was the second of his parents nine children.
+* Walter attended High School in Marshall graduating in 1930.
+* McAfee was awarded a Bachelor's Degree with distinction from Wiley College June of 1934 and began to look for jobs.
+* McAfee was only 19 years old so did not worry too much when he did not quickly find a teaching job.
+* McAfee was a hard worker and most summers when the school was on vacation, he studied high level courses at the university.
+* Applications asked for a photograph to be included and McAfee was rejected several times, almost certainly because he was Black.
+* McAfee was well qualified to be on this team for he had published papers on radar-echoing areas, radar cross sections and refraction studies in the atmosphere.
+* Official reports of the projects success, however, failed even to mention that McAfee was on the team.
+* McAfee's Ph.D. was in physics and was supervised by Hans Bethe.
+* It was to study radio astronomy and solar physics and was presented to McAfee by President Eisenhower.
+* McAfee was induced into the Science Hall of Fame at Wiley College in 1982.
+* On 28 July 1997 the McAfee Center was dedicated at Fort Monmouth.
 
 Born 2 September 1914, Ore City, Upshure County, Texas, USA. Died 18 February 1995, South Belmar, New Jersey, USA.
 

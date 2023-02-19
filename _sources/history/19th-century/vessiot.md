@@ -7,10 +7,10 @@ orderid: 1865
 title: Vessiot, Ernest-Paulin-Joseph
 born: 1865
 died: 1952
-keywords: Ernest Vessiot, Treatise, Vessiot Theory, Vessiot Approximation, Linear Homogeneous, Euler–Poisson–Darboux, Differential Equations, Analytical Mechanics
-description: Ernest Vessiot was a French mathematician who wrote the classic textbook "A Treatise on Differential Equations and their Applications", established Vessiot Theory for studying differential equations, and founded the French school of differential equations and analytical mechanics.
+keywords: ernest vessiot,vessiot
+description: Ernest Vessiot was a French mathematician who worked on the integrability of ordinary differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernest Vessiot** was a French mathematician who worked on the integrability of ordinary differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the well-known textbook, "A Treatise on Differential Equations and their Applications" which was commonly used as a standard reference on the subject for many years.
-2. Established a new branch of mathematics, known as Vessiot Theory, which deals with the study of differential equations and their solutions.
-3. Developed a method of approximation of differential equations known as the Vessiot Approximation.
-4. Proved the existence of a principal solution to linear homogeneous differential equations with constant coefficients.
-5. Rewrote the previous version of the Theory of Differential Equations by Émile Picard, making it easier to understand and develop.
-6. Solved the Euler–Poisson–Darboux equation, which had been considered one of the most difficult mathematical problems at the time.
-7. Foundation of the French school of differential equations and analytical mechanics, which had a significant influence in Europe.
+* Alexandre Vessiot studied at the École Normale Supérieure and was a professor of rhetoric at the Lycée in Marseilles when his son Ernest was born.
+* Alexandre married Marie and they had eight children, six of whom survived to adulthood: Paul Vessiot (1859-1942), Louise Vessiot (1858-1960), Ernest Vessiot (the subject of this biography), Henri Vessiot (1870-1946), Marthe Vessiot (1872-1945) and Anna Vessiot (1874-1950).
+* The historian Camille Jullian (1859-1933) was a pupil in Alexandre Vessiot's class and wrote about his outstanding qualities as both a teacher and as a person.
+* These qualities meant that Ernest was brought up in an academic environment in which there was a kind and understanding encouragement to hard work.
+* Ernest's secondary education was at the lycée in Marseilles where his performance was outstanding and he obtained his baccalaureate in 1883.
+* In the entrance examination Vessiot was placed second to Jacques Hadamard and thereafter he studied in the same class as Hadamard.
+* Vessiot also took Paul Appell's course on rational mechanics.
+* Vessiot was awarded his bachelor's degree in mathematics and physics in 1886.
+* Vessiot accepted a teaching post at the Lycée Ampère in Lyon in 1887 and began teaching there after his return from Germany.
+* This school, originally a Jesuit establishment, had been founded in 1519 and given several different names before being named the Lycée de Lyon in 1848 and then the Lycée Ampère in the year that Vessiot began teaching there.
+* However, school teaching was only part of Vessiot's work for at the same time he was undertaking research for his doctorate advised by Émile Picard.
+* After the award of his doctorate, Vessiot taught in a number of universities.
+* In fact Vessiot published a second edition in 1919.
+* The first edition ran to 326 pages but with the additions that Vessiot made to the second edition it was 376 pages.
+* Vessiot taught for thirteen years in the Faculty of Science Lyon before gaining an appointment in Paris in 1910.
+* As we mentioned above, Vessiot applied continuous groups to the study of differential equations.
+* One must never forget that Vessiot was an unusual Frenchman at that time, perfectly aware of the work of Lie who, in turn, at the end of his life, considered Vessiot to be his heir.
+* As a consequence, Vessiot knew the theory of Lie groups and, when he wrote his thesis in 1892 on what is now called the Picard-Vessiot theory of linear ODEs, he knew about Lie's latest research on pseudogroups.
+* Vessiot married Augustine Naton in Toulouse on 25 February 1893.
+* However, Painlevé's hopes for Vessiot's future happiness did not materialise.
+* Of his two remaining daughters, Louise married the physicist Jean Cojan (1892-1952) but died in 1948 three years before her father, while the other daughter, Simone, remained unmarried and cared for Vessiot in his old age.
+* However, we have moved ahead and we should return to saying something of Vessiot's career after his appointment to the Faculty of Science in Paris in 1910.
+* However, Vessiot was also an outstanding lecturer, renowned for the clarity and rigour of his lectures.
+* Vessiot spent the last 25 years of his career in Paris, concentrating on his role as a lecturer and as an examiner.
+* Vessiot also held other roles in Paris, for example he was an examiner at the Naval Academy and an examiner at the École Polytechnique where he also acted as an analysis tutor.
 
 Born 8 March 1865, Marseilles, France. Died 17 October 1952, La Bauche, Savoie, France.
 

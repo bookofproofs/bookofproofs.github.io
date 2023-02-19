@@ -7,10 +7,10 @@ orderid: 1897
 title: Pitman, Edwin James George
 born: 1897
 died: 1993
-keywords: statistics, probability, knot theory, PhD, professor, moduli spaces, polynomial invariants
-description: Edwin Pitman, an Australian mathematician and professor, made significant contributions to statistics, probability, and knot theory, and founded a research institution for moduli spaces. He authored books and developed mathematical models for polynomial invariants and toroidal knots.
+keywords: edwin pitman,pitman
+description: Edwin Pitman was an Australian mathematician who made contributions to statistics and probability theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edwin  Pitman**  was an Australian mathematician who made contributions to statistics and probability theory.
 
 ### Mathematical Profile (Excerpt):
-1. Created groundbreaking research on knot theory.
-2. Completed a PhD in mathematics, specializing in nonlinear analysis.
-3. Authored the book Knot Theory and Its Applications, which shaped modern knot theory.
-4. Served as a professor at the University of Exeter and lectured extensively.
-5. Developed mathematical models to study the formation of three-dimensional knots.
-6. Founded the Cambridge Centre for Quantum Geometry of Moduli Spaces, a research institution that studies the geometry of moduli spaces.
-7. Created a method for assigning polynomial invariants to a knot, which led to the development of the knot polynomial.
-8. Developed the concept of toroidal knots, which are based on infinitely long strands that twist and fold back upon itself.
+* Edwin Edward worked for a firm making machinery.
+* Edwin, the subject of this biography, was the fourth of his parents' children having three older sisters.
+* Edwin's mother quickly realised that her son had a remarkable ability to retain information - she called him "that piece of blotting paper" - and although the family did not possess many books, Edwin loved to read books that he borrowed from his Sunday School teacher.
+* Pitman's early education was at Kensington State School, and from there he progressed to South Melbourne College.
+* Even so, Edwin was dissatisfied with the course, believing that, although it was advanced it was not rigorous enough.
+* One was the New Zealander D K Pieken, who taught Pitman a rigorous understanding of the number systems.
+* Pitman graduated with a B.A. with First Class Honours in Mathematics in 1921 and a B.Sc., mainly involving physics, in 1922.
+* The student, R A Scott, asked him to check that his analysis was correct before it sent it to John Wishart in Cambridge, which Pitman did.
+* Not only did this mark the start of Pitman's collaboration with Scott and the State Department of Agriculture, but Scott also showed him a copy of R A Fisher's Statistical Methods for Research Workers.
+* They had four children: Jane, Mary, Edwin Arthur (Ted), and James (Jim).
+* Pitman had no thoughts of publishing research articles at this stage in his career.
+* The family sailed to the United States in January 1948 where Pitman, for the first time, gave and attended research seminars.
+* This was only the first of several visits Pitman made to the United States.
+* In fact most of these visits were made after Pitman retired, which was in 1962 when he reached the age of sixty-five.
+* In 1979, Pitman published a book entitled Some basic theory for statistical inference.
+* Pitman received many honours for his contributions to mathematics and statistics.
+* Two years earlier he had been made an honorary life member of the Statistical Society of Australia and the Society now awards the Pitman Gold Medal as its highest honour.
+* The first such presentation of the Pitman Gold Medal was made to Pitman himself in 1978.
+* Edwin's most endearing characteristic was modesty about his achievements.
+* Finally, we note that in addition to mathematics and statistics, Pitman was very fond of gardening, music and drama.
 
 Born 29 October 1897, Melbourne, Victoria, Australia. Died 21 July 1993, Kingston, Tasmania, Australia.
 

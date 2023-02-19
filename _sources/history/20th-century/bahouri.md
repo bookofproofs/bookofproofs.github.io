@@ -7,10 +7,10 @@ orderid: 1958
 title: Bahouri, Hajer
 born: 1958
 died: 0
-keywords: Hajer Bahouri, Tunisia, Math, PDEs, Research, Awards, Arab Academy of Sciences
-description: Hajer Bahouri, a Math Professor from Tunisia, was elected to the Arab Academy of Sciences in 2019. She is an author of 31 papers and books, and has won numerous awards, including the Tunisian National Order of Merit in 2012 and the Theodore von Karmen Prize in Mathematics in 2016.
+keywords: hajer bahouri,bahouri
+description: Hajer Bahouri was born in Tunisia and is an expert in partial differential equations. She became Director of Research at the National Centre for Scientific Research and the Laboratory of Analysis and Applied Mathematics at the University Paris-Est-Créteil-Val-de-Marne.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hajer Bahouri** was born in Tunisia and is an expert in partial differential equations. She became Director of Research at the National Centre for Scientific Research and the Laboratory of Analysis and Applied Mathematics at the University Paris-Est-Créteil-Val-de-Marne.
 
 ### Mathematical Profile (Excerpt):
-1. Was the first female math professor of Tunisia;
-2. Authored 31 scientific papers and books, including the “Abstract Pseudo-Differential Operators” published in 2018;
-3. Received numerous awards, including the Tunisian National Order of Merit in 2012;
-4. Was awarded the AWM-SIAM Sonia Kovalevsky Lecture in Washington DC in 2013;
-5. Was the first female to receive the Theodore von Karmen Prize in Mathematics in 2016;
-6. Was elected as one of the members of the Arab Academy of Sciences in 2019;
-7. Was a strong proponent of mathematics at the grassroots level, conducting lectures and seminars in many Tunisian institutions;
-8. Served as vice-president of Tunisia's National Center for Scientific Research in 2019.
+* After the award of her first degree, Bahouri went to France to continue her mathematical studies in Paris.
+* Advised by Serge Alinhac, Bahouri was awarded her Doctorat 3ème cycle in 1982 for her thesis Unicité et non unicité du problème de Cauchy pour des opérateurs à symbole principal réel Ⓣ(Uniqueness and nonuniqueness of the Cauchy problem for operators with a real main symbol.).
+* After completing her Doctorat 3ème cycle, Bahouri went to the École Polytechnique, in Palaiseau (a southern suburb of Paris), being appointed as a researcher in 1982.
+* In August 2002 the International Congress of Mathematicians was held in Beijing, China, and Bahouri was an invited participant.
+* Bahouri continued to hold the professorship in the Faculty of Science at Tunis but, in 2002-2004, she also taught courses at the École Polytechnique, Palaiseau.
+* In 2016 Bahouri was awarded the Paul Doistau-Émile Blutet Prize of the French Academy of Sciences.
+* Finally let us look at the book Fourier analysis and nonlinear partial differential equations which Bahouri wrote in collaboration with Jean-Yves Chemin and Raphaël Danchin.
 
 Born 30 March 1958, Tunis, Tunisia.
 

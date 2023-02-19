@@ -7,10 +7,10 @@ orderid: 580
 title: Xiaotong, Wang
 born: 580
 died: 640
-keywords: Wang Xiaotong, mathematics, astronomy, calendar reform, Modeling Contest, Encouragement Award, Outstanding Youth Award
-description: Wang Xiaotong, renowned mathematician and astronomer, achieved great success in various mathematics contests, won Awards, and published important mathematical research.
+keywords: wang xiaotong,xiaotong
+description: Wang Xiaotong was a Chinese mathematician and astronomer who was involved in calendar reform and the solution of cubic equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Wang Xiaotong** was a Chinese mathematician and astronomer who was involved in calendar reform and the solution of cubic equations.
 
 ### Mathematical Profile (Excerpt):
-1. Won the university-level Mathematical Modeling Contest in 2018.
-2. Awarded the National Encouragement Award for mathematical research in 2019.
-3. Awarded the National Outstanding Youth Math Award in 2020.
-4. Won the China University Mathematical Contest in Modeling twice, in 2018 and 2020.
-5. Ranked among the top 10 in the China Collegiate Mathematics Contest in 2017 and 2019 respectively.
-6. Discovered a significant mathematical theorem related to partial differential equations.
-7. Published numerous articles in international mathematical journals.
+* Wang is famed as the author of the Jigu suanjing (Continuation of Ancient Mathematics) one of The Ten Classics.
+* We know a little about Wang Xiaotong's life because when he presented his treatise to Emperor Li Yuan he gave the emperor a brief biography at the same time.
+* Wang Xiaotong's biography tells us that he became interested in mathematics at a young age.
+* Wang went on to become a teacher of mathematics, and later he was appointed as deputy director of the Astronomical Bureau.
+* In 623 Wang and Zu Xiaosun, a Civil Servant, were given the task of reporting on the problems with the calendar and making recommendations.
+* There was disagreement between Wang and another calendar expert Fu Renjun about certain aspects of the calendar and in fact Wang's ideas were not particularly good since he wished to ignore the irregularity of the sun's motion and he also wanted to ignore the precession of the equinoxes which had first been incorporated in calendar calculations by Zu Chongzhi in the fifth century.
+* One might ask why we have included Wang in this archive when his achievements on calendar reform seem retrograde.
+* The first is a pursuit problem of a dog chasing a hare, but Wang tells us that this is really a problem about movements of astronomical bodies.
+* The important innovation which is incorporated in most of these problems is that they reduce to a cubic equation which Wang solves numerically.
+* Rather the equations are expressed in words and Wang thinks in a geometrical way.
+* Many see this work by Wang as the first steps towards the "tian yuan" or "coefficient array method" or "method of the celestial unknown" of Li Zhi.
+* To be able to solve this problem Wang has not only to be able to set up a cubic equation and solve it, but he also needs to know a formula for the volume of his dyke with trapezoidal ends and varying cross-section.
+* Wang calls aaa the unknown and finds a cubic equation in terms of aaa.
+* Let us see how this can be done (we do not know exactly how Wang reasoned).
+* Isn't that clever! Remember that Wang did not have our symbolic notation which makes the whole process so much easier today.
+* Not only did Wang's work influence later Chinese mathematicians, but it is said that it was his ideas on cubic equations which Fibonacci learnt, probably first transmitted into the Islamic/Arabic world, and then brought to Europe.
 
 Born about 580, China. Died about 640, Chian.
 

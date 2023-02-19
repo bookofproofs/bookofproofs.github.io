@@ -7,10 +7,10 @@ orderid: 1897
 title: Fox, Charles
 born: 1897
 died: 1977
-keywords: Hypergeometric Functions, Integral Transforms, Matrix Algebra, Derivatives, Algebraic Notions, Composition of Variance, Hereditary Concept
-description: English mathematician Charles Fox made key contributions to Hypergeometric Functions, Matrix Algebra, Derivatives, Algebraic Notions, Composition of Variance and Hereditary Concept.
+keywords: charles fox,fox
+description: Charles Fox was an English mathematician who worked on hypergeometric functions, integral transforms, integral equations, the theory of statistical distributions, and the mathematics of navigation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Fox** was an English mathematician who worked on hypergeometric functions, integral transforms, integral equations, the theory of statistical distributions, and the mathematics of navigation.
 
 ### Mathematical Profile (Excerpt):
-1. He developed two algorithms, one concerning the ordering of equations, and another solving the common system of linear equations.
-2. He wrote a paper on matrix algebra and distribution theory which was highly acclaimed.
-3. He invented the generalized inverses of matrices, which are used in various areas of mathematics.
-4. He developed a method for calculating the derivatives of matrix functions, making calculus more accessible to mathematicians.
-5. He worked on the theory of Diophantine equations and presented solutions in his famous paper, "On the Foundations of Algebraic Notions and their Applications".
-6. He developed the theory of composition of variance, which allowed for the accurate statistical analysis of data.
-7. He formulated the hereditary concept of matrix multiplication, which set the foundation for the theory of linear algebra.
-8. He solved the problem of simultaneous linear equations and presented a solution in his paper, "On the Aims and Methods in the Theory of Equations".
-9. He solved the problem of multiple linear equations in his book, "Solution of Finite Equations and Matrix Theory".
-10. He formulated ways to reach solutions to a system of linear equations without the need of Gaussian elimination.
+* Charles was brought up in London where he attended Coopers Company School in Bow Road, an ancient institution founded around 1536.
+* The headmaster of the school while Charles studied there was S Elford.
+* While at this school, Charles won a scholarship to the City of London School situated on the Victoria Embankment.
+* Edwin Abbott had been educated at this school and served as its headmaster for 24 years but had retired many years before Fox studied there.
+* Fox, again having won a scholarship, entered Sidney Sussex College Cambridge in 1915.
+* Fox only remained at Imperial College for one year before being appointed as a Lecturer in Mathematics in Birkbeck College, part of the University of London, in 1920.
+* Fox had useful discussions with George Jeffery who was the professor of Pure Mathematics at University College, London, and in his next paper The Asymptotic Expansion of Generalized Hypergeometric Functions (1928) he thanked George Jeffery for his assistance.
+* Fox was awarded a D.Sc. by the University of London in 1928.
+* Fox's main contributions were on hypergeometric functions, integral transforms, integral equations, the theory of statistical distributions, and the mathematics of navigation.
+* Among the honours that Fox received, we mention in particular that he was elected a Fellow of the Royal Society of Canada in 1961 and was awarded an honorary LL.D. degree by Concordia University in 1976.
 
 Born 17 March 1897, London, England. Died 30 April 1977, Montreal, Canada.
 

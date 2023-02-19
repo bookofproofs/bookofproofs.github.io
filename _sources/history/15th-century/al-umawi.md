@@ -7,10 +7,10 @@ orderid: 1400
 title: Al-Umawi
 born: 1400
 died: 1489
-keywords: Al-Umawi, astrolabe, mensuration, arithmetic, trigonometry, Euclidean geometry, quadratic equations
-description: Al-Umawi wrote works on mensuration, arithmetic, trigonometry, Euclidean geometry, quadratic equations and more; developing astrolabes and other instruments driven by mathematics.
+keywords: al-umawi,al-umawi
+description: Al-Umawi was a Spanish-born Islamic mathematician who wrote works on mensuration and arithmetic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Umawi** was a Spanish-born Islamic mathematician who wrote works on mensuration and arithmetic.
 
 ### Mathematical Profile (Excerpt):
-1. Al-Umawi developed a vertical version of the astrolabe, an astronomical instrument for measuring the positions of the stars, planets and other celestial bodies.
-2. He also developed a new method for equating the two parts of a chord.
-3. He wrote several works on mathematics and astronomy, including a treatise entitled "Al-Tuhfa ila Usul al-Hind" ("A Gift to the Principles of Indian Mathematics").
-4. He also wrote a treatise on mathematics entitled "Al-Mulakhkhas fi al-Hind" ("The Final Touch on Indian Mathematics").
-5. He is credited with developing the use of sine, cosine and tangent for trigonometric calculations.
-6. He is credited with introducing the concepts of spherical trigonometry to Arabic mathematics.
-7. He was one of the first mathematicians to use Euclidean geometry for measuring angles, distances and areas.
-8. He also developed a method for finding the solutions of equations with multiple variables.
-9. He is famous for his work on quadratic equations, developing new methods for solving them.
-10. He is also credited with developing various algebraic equations and inequalities.
+* If al-Umawi wrote his manuscript before 1373 he cannot have lived to 1489 so one date must be incorrect but there is no other evidence as to which is correct and which is wrong.
+* It is usual to regard al-Umawi as a 14th  century mathematician and we have given rough dates based on the assumption that the manuscript date is correct.
+* Although al-Umawi lived in Damascus in Syria, he came from Andalusia in the south of Spain.
+* Indeed al-Umawi was a Muslim but the mathematical scholarship of the Muslim world at this time was certainly not uniform.
+* There were differences in the numerals used in western areas (which al-Umawi came from) and those used in the east.
+* Indeed some scholars find it surprising that al-Umawi as a westerner wrote an arithmetic text for those in the east.
+* Two texts by al-Umawi which have survived are Marasim al-intisab fi'ilm al-hisab (On arithmetical rules and procedures), and Raf'al-ishkal fi ma'rifat al-ashkal which is a work on mensuration.
+* Before describing the Marasim we should make some brief comments about al-Umawi's work calculating lengths and areas.
+* In it al-Umawi gives rules for calculating: lengths of chords and lengths of arcs of circles (using Pythagoras's theorem); areas of circles, areas of segments of circles, areas of triangles and quadrilaterals; volumes of spheres, volumes of cones and volumes of prisms.
+* After describing the very briefly the basic arithmetical operations of addition and multiplication, al-Umawi moves on to discuss the summation of series.
+* Among the series al-Umawi considers are arithmetic and geometric series.
+* These sums of polygonal numbers are called pyramidal numbers and al-Umawi then considers the sums of the first nnn pyramidal numbers.
+* Al-Umawi then describes casting out sevens, eights, nines, and elevens.
+* This theorem is attributed to Pascal three hundred years after al-Umawi, and indeed al-Umawi only gives the special cases mention here.
+* Some results appearing in this work by al-Umawi are not found in any other Arabic arithemetics.
+* If you have enjoyed proving these results due to al-Umawi then here is one more he gives in the Marasim.
 
 Born about 1400, possibly Andalusia (now Spain). Died 1489, possibly Damascus, Syria.
 

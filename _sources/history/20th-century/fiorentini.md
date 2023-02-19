@@ -7,10 +7,10 @@ orderid: 1918
 title: Fiorentini, Mario
 born: 1918
 died: 2022
-keywords: Mario Fiorentini, Advanced Topics in Number Theory, computational number theory, decomposition theory, International Mathematical Congress, algebraic simplification, Lange Prize, elliptical curves
-description: Mario Fiorentini, an Italian partisan, secret agent, and mathematician, authored "Advanced Topics in Number Theory" and presented at the International Mathematical Congress. He contributed to computational number theory, decomposition theory, and algebraic simplification. He won the Lange Prize for his research papers on topics such as elliptical curves and class field theory.
+keywords: mario fiorentini,fiorentini
+description: Mario Fiorentini is an Italian partisan, secret agent and mathematician.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mario Fiorentini** is an Italian partisan, secret agent and mathematician.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the book, Advanced Topics in Number Theory, which provides comprehensive coverage of advanced number theory topics.
-2. Appointed to a prestigious professorship in computational number theory at the University of Milan in 1977.
-3. Developed innovative techniques used to study algebraic number fields, contributing to the decomposition theory of numbers.
-4. Presented a talk at the International Mathematical Congress in 1979 discussing his theories related to the principle of algebraic simplification.
-5. Established a new theoretical framework for asserting the effectiveness of certain algorithms for factoring large numbers.
-6. Won the 2004 Lange Prize from the American Mathematical Society for his contributions to the field of mathematics.
-7. Published several research papers on topics including elliptical curves, class field theory, and area codes for arithmetic algebraic varieties.
+* It was while he was active in the Resistance that Fiorentini met Lucia Ottobrini (1924-2015) who was also playing a major role in that organisation.
+* We have said nothing above about Fiorentini's education, but this is mainly because he was largely self-educated.
+* In 1971 Fiorentini published four papers: On relative regular sequences; Esempi di anelli di Cohen-Macaulay semifattoriali che non sono di Gorenstein Ⓣ(Examples of Cohen-Macaulay semifactorial rings that are not Gorenstein); Esempi di anelli di Cohen-Macaulay che non sono di Gorenstein Ⓣ(Examples of Cohen-Macaulay rings that are not Gorenstein) and (with Aldo Marruccelli) Oggetto e fondamenti della matematica Ⓣ(Objects and the foundations of mathematics).
+* Among his many associations, the most fruitful has been, no doubt, with Mario's long-time friend and university colleague, Alexandru T Lascu.
 
 Born 7 November 1918, Rome, Italy. Died 9 August 2022, Rome, Italy.
 

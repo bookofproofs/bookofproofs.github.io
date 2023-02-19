@@ -7,10 +7,10 @@ orderid: 1898
 title: Weatherhead, Kenneth Kilpatrick
 born: 1898
 died: 1979
-keywords: actuary, Edinburgh University, World War I, applied mathematics, Bayesian techniques, data science, predictive models
-description: K.K. Weatherhead graduated from Edinburgh University and became an actuary. His work combined quantitative and qualitative ideas using Bayesian techniques, data science and predictive models.
+keywords: k k weatherhead,weatherhead
+description: K K Weatherhead graduated from Edinburgh University although his studies were interrupted by service in World War I. He became an actuary, working for various Edinburgh insurance companies.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **K K Weatherhead** graduated from Edinburgh University although his studies were interrupted by service in World War I. He became an actuary, working for various Edinburgh insurance companies.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a unique approach to applied mathematics, combining quantitative and qualitative ideas in monetizing health risk.
-2. Pioneered the use of Bayesian techniques to build pricing models for health insurance.
-3. Developed techniques for incorporating consumer uncertainty into health-risk models.
-4. Developed methods to improve healthcare pricing models with consumer behavior data.
-5. Applied mathematical reasoning and analysis to identify areas of high-cost health services that could be managed more cost-effectively.
-6. Developed mathematical models to simulate consumer behavior in health-care markets.
-7. Developed algorithms to analyze large data sets in order to optimize health-insurance coverage.
-8. Developed models and methods to confirm, analyze and refine the accuracy of health-insurance decision-making.
-9. Utilized mathematics and data science to analyze big data to recognize patterns and create predictive models highlighting actions that could drive positive outcomes.
-10. Pioneered the use of advanced analytics that could prove beneficial in anticipating, preventing and managing pandemics.
+* His mother was  Margaret M Weatherhead born Glasgow about 1875.
+* Weatherhead was born at 18 Kelvinside Terrace, Glasgow.
+* He was educated at Giffnock Academy from 1902 to 1906, Harris Academy, Dundee, from 1906 to 1911, then Dundee High School from 1911 to 1916.
+* After having passed the Preliminary Examination, Weatherhead first matriculated at the University of Edinburgh in October 1916 where he was awarded the John Welsh Mathematical Scholarship.
+* In his first year he took courses at the Ordinary level in Mathematics, Natural Philosophy, and Latin.
+* In 1922 Weatherhead joined The Scottish Life Assurance Co. Ltd.
+* Mr Weatherhead has had a successful professional career in Edinburgh, where he relinquished the position of joint actuary of the Scottish Equitable Life Assurance Society to take up service with our Company, and we welcome him as a valuable addition to our staff.
+* Finally we note that Weatherhead was a member of the Edinburgh Mathematical Society, joining the Society in November 1925.
 
 Born 2 November 1898, Glasgow, Scotland. Died 26 September 1979, Glasgow, Scotland.
 

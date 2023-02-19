@@ -7,10 +7,10 @@ orderid: 1882
 title: Jacobsthal, Ernst
 born: 1882
 died: 1965
-keywords: Algebra, Analysis, Function Theory, Numbers, Equations, Theorem, Congress
-description: German mathematician Ernst Jacobsthal conducted groundbreaking research in algebra, analysis, function theory, number theory, and equations.
+keywords: ernst jacobsthal,jacobsthal
+description: Ernst Jacobsthal was a German mathematician who wrote papers in such diverse fields as algebra, analysis, function theory and number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernst Jacobsthal** was a German mathematician who wrote papers in such diverse fields as algebra, analysis, function theory and number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a criterion for the solvability of a certain kind of equation in 1897. 
-2. Made a significant contribution to the algebraic theory of numbers in 1904. 
-3. Identified the smallest number that could not be expressed as a sum of two squares in 1906. 
-4. Developed a method of constructing codes from quadratic forms in 1912. 
-5. Developed the Jacobsthal–Lucas Theorem in 1918. 
-6. Isolated the Jacobsthal–Menezes curve in 1922. 
-7. Organized the first international mathematical congress in 1924.
-8. Conducted pioneering research on the binary quadratic form in 1927.
+* Martin Jacobsthal was a physician as had been his father.
+* Ernst had an older brother Paul, born in 1880, who later became an eminent archaeologist.
+* Ernst Jacobsthal studied mathematics at the University of Berlin where he was taught by Georg Frobenius, Hermann Schwarz and Issai Schur.
+* Jacobsthal had a strange ability of bonding with anyone he came in touch with.
+* His crowd of friends also became like a big family, in which the individual members did not need to be in touch directly, yet knew each other through the central figure - Ernst Jacobsthal.
+* Professor Ernst Jacobsthal was born on the 16th  of October 1882 in Berlin with parents Dr Martin Jacobsthal and Ida, neé Rosenstern.
+* This is presumably the reason why Professor Jacobsthal was always interested in medical research.
+* In 1906, Jacobsthal graduated and earned his doctoral degree from Berlin University.
+* In 1909, Jacobsthal became a teacher at Kaiser Wilhelms high school (realgymnasium) in Berlin.
+* When Jacobsthal was associated with the College of Technology, it was however not in order to teach prospective engineers mathematics.
+* Thus, the purpose of Jacobsthal's association with the College was primarily to lecture mathematics to prospective teachers in high school.
+* In 1918, Jacobsthal married Anne-Marie, neé Coste.
+* When Hitler seized power in Germany, the seed was sown for the game of fate that later brought Jacobsthal to Norway.
+* In other words, Jacobsthal was fired from his professorship.
+* Jacobsthal, who was a researcher with his whole life and soul, and who probably was not very interested in teaching in the lower grades, realized that the only sensible thing to do was to resign his teacher position.
+* August 1934 werden Sie, Herr Studiendrat Professor Dr Ernst Jacobsthal unter Gewährung des gesetzlichen Ruhegehalts zum 30.
+* Ⓣ(At your request of August 29, 1934  and issuance of the statutory retirement pension,  you, Professor Dr Ernst Jacobsthal, are displaced into retirement from September 30, 1934.
+* In the spring of 1939, the conditions in Germany prompted Jacobsthal to decide that it was best to leave the Third Reich while it was still possible.
+* In the summer of 1939, Jacobsthal left Berlin to join his brother in England.
+* Jacobsthal stayed in Trondheim during the autumn and felt comfortable in the mathematical environment there.
+* The occupation of Norway must have come as a shock to both Jacobsthal and his wife, who had stayed behind in Berlin.
+* The best that Professor Jacobsthal could now hope for, was that the war would be short and have an outcome that would make it possible for him to go back to Germany.
+* Jacobsthal stayed in Trondheim until January 1943.
+* When liberation came, Jacobsthal wanted to return to Trondheim to his friends and the mathematical environment there.
+* This time Jacobsthal arrived in Trondheim with his wife and, shortly after, they both became Norwegian citizens.
+* Both Jacobsthal and Mrs Jacobsthal were very hospitable by nature.
+* When the Freie Universität in West Berlin was founded after the war, Jacobsthal was very soon invited to be a guest lecturer during the summer term.
+* Jacobsthal was a good ambassador for the new university in Berlin and obtained many good contacts for it.
+* Due to deteriorating health, Jacobsthal was precluded from further lecturing following the autumn of 1957.
+* Thus, in the fall of 1958, Jacobsthal and his wife moved to Überlingen ver Bodensee.
+* Professor Jacobsthal was a very significant and versatile mathematician.
+* Jacobsthal became a member of our community in 1946 and of the Norwegian Academy of Sciences (Norske Videnskapsakademi) in Oslo from 1950.
 
 Born 16 October 1882, Berlin, Germany. Died 6 February 1965, Überlingen, Bodensee, Germany.
 

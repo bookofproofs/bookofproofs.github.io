@@ -7,10 +7,10 @@ orderid: 1898
 title: Bessel-Hagen, Erich
 born: 1898
 died: 1946
-keywords: Fractional Calculus, Potential Theory, Bessel Functions, Fourier Series, Group Theory, Determinants, Dirichlet's Principle
-description: Erich Bessel-Hagen developed fractional calculus, studied Bessel functions, proposed the notion of indefinite integrals and group theory, and contributed to the study of potential theory, Fourier series, determinants, Dirichlet's principle, and prime numbers.
+keywords: erich bessel-hagen,bessel-hagen
+description: Erich Bessel-Hagen was a German mathematician and a historian of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Erich Bessel-Hagen** was a German mathematician and a historian of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of fractional calculus, which had a major influence on mathematical analysis.
-2. Established the basis of potential theory and electric potential.
-3. Studied several special functions and their properties, such as Legendre polynomials, Elliptic integrals and Bessel functions.
-4. Investigated the function of the real variable, making contributions to the theory of Fourier series.
-5. Introduced several fundamental concepts, such as the notion of indefinite integrals and the fundamental theorem of calculus.
-6. Made groundbreaking advancements in the field of differential equations and their applications.
-7. Coined the term ‘group theory’ in mathematics for studying the symmetry of physical systems.
-8. Contributed greatly to the theory of determinants and their applications.
-9. Demonstrated fundamental results for Dirichlet's principle and Green's theorem.
-10. Proposed a now-standard proof for Fermats theorem on the infinitude of prime numbers.
+* There are a number of incorrect explanations of Bessel-Hagen's name in the literature, so we should explain where the slightly strange name originated.
+* Erich Bessel-Hagen's grandfather had the name of Hagen, but being the son-in-law of Wilhelm Bessel, he decided after Bessel's death to change his name from Hagen to Bessel-Hagen to preserve the name of 'Bessel.' Had he not done so, the family name of Bessel would have died out with Wilhelm Bessel.
+* Although we have given Berlin as Erich Bessel-Hagen's birthplace, this is not quite accurate since he was actually born outside but close to that city.
+* Bessel-Hagen attended the University of Berlin where he obtained a doctorate working under Constantin Carathéodory, with some help from Erhard Schmidt.
+* While at Berlin, however, Bessel-Hagen had also heard lectures from the famous classicist, Ulrich von Wilamowitz-Möllendorf, and was inspired by him to a life-long devotion to classical antiquity as well.
+* At Berlin, Bessel-Hagen met his fellow student Carl Siegel and the two became life-long friends.
+* After graduating with his doctorate, Bessel-Hagen was appointed to Göttingen University.
+* Felix Klein had an exceptionally strong influence on him, for not only did Bessel-Hagen live in Klein's house, but he was Klein's private assistant from 1921 to 1923.
+* Bessel-Hagen was one of a small number who had attended these lectures delivered in Klein's home.
+* Braun says that Siegel and Bessel-Hagen first met as students in Berlin.
+* Bessel-Hagen revered Siegel for his mathematical ability, and Siegel in turn was gratified to be admired by someone he could accept.
+* They were friends all their lives, until Bessel-Hagen's early death in 1946.
+* Bessel-Hagen walked with a slight limp - Braun thought because of polio.
+* Schaffeld, Siegel, and Bessel-Hagen were united in their attitude towards marriage.
+* In contrast, Siegel couldn't resist baiting or playing sometimes cruel and humiliating practical jokes on Bessel-Hagen.
+* Siegel had to review Bessel-Hagen's thesis for habilitation - perhaps as a friend, perhaps in some official capacity.
+* However, it came to him at a time when he was deeply involved in his own research, and Bessel-Hagen's thesis was in a different area.
+* he told Bessel-Hagen he had done him a favour.
+* To make up, he invited Bessel-Hagen on a long vacation to Greece.
+* Bessel-Hagen also played a major role in establishing the historical division, including an important library, as part of the mathematical seminar in Bonn.
+* Bessel-Hagen was also involved in editing the works of Gauss.
+* Bessel-Hagen wrote more than 200 reviews for Neugebauer's Zentralblatt.
+* Béla Kerékjártó visited the University of Göttingen in 1922 and attended lectres by Bessel-Hagen.
+* In the following year Kerékjártó published Vorlesungen über Topologie the index of which contains a reference to Bessel-Hagen.
+* Turning to the indicated page, there is no mention of Bessel-Hagen.
+* In fact Bessel-Hagen was renowned for having large ears that stuck out of his head.
+* At first this appears to be a rather cruel joke, but in fact Kerékjártó was merely following the teaching staff at Göttingen who all made jokes at Bessel-Hagen's expense.
+* in 1935, Bessel-Hagen seems to have been the only one of his former colleagues to visit him.
+* In fact Bessel-Hagen was an excellent mathematician who, because of his shyness, did not publish much.
+* Most of the other mathematicians at Bonn were conscripted so only Bessel-Hagen and Hans Beck remained to teach.
+* After Beck died in 1942, Bessel-Hagen essentially became a one-man department.
+* Teaching materials were hard to come by, for example Bessel-Hagen even had to write to the Rektor of the university requesting writing paper in July 1941.
 
 Born 12 September 1898, Berlin, Germany. Died 29 March 1946, Bonn, Germany.
 

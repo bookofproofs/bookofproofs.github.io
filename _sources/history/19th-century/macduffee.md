@@ -7,10 +7,10 @@ orderid: 1895
 title: Macduffee, Cyrus Colton
 born: 1895
 died: 1961
-keywords: Cyrus MacDuffee, abstract algebra, meromorphic function theory, Riemann–Roch theorem, Riemann hypothesis, differential geometric theories, Sigma Pi Sigma, mathematical induction, Howard University
-description: Cyrus MacDuffee was a pioneering American mathematician who left a strong legacy of contributions to abstract algebra, meromorphic function theory and differential geometric theories.
+keywords: cyrus colton macduffee,macduffee
+description: Cyrus MacDuffee was an American mathematiian who wrote a number of influential research papers in abstract algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Cyrus MacDuffee** was an American mathematiian who wrote a number of influential research papers in abstract algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Developing a groundbreaking meromorphic function theory.
-2. Publishing a paper on the Riemann–Roch theorem and its applications.
-3. Working on the solution to the Riemann hypothesis.
-4. Applying algebraic systems to solve theorems about curvature constants and surfaces.
-5. Proving a theorem about abelian differential equations.
-6. Writing a book on differential geometric theories and applications.
-7. Serving as the founding president of the Sigma Pi Sigma physics honor society.
-8. Establishing the first physics department at a historically black college.
-9. Contributing to the development of mathematical induction.
-10. Accepting a teaching job at Howard University, later becoming its first professor of mathematics.
+* Cyrus Thompson MacDuffee was born in Mcduffietown, Seneca, New York, on 11 February 1842.
+* His first wife was Kate M Schwartz, his second wife was Anna Hubbard, then he married Elisabeth Louise Sewirr, the mother of Cyrus Colton MacDuffee.
+* Cyrus Thompson MacDuffee died in Oneida, New York, on 14 July 1917.
+* MacDuffee was educated in New York and went to Colgate University to study for his first degree.
+* MacDuffee graduated from Colgate University with a B.S. degree in 1917 and then went to Chicago University to study for a Master's degree.
+* On 7 September 1921, MacDuffee married Mary Augusta Bean; they had four children, Robert Colton MacDuffee, Fredric Dearborn MacDuffee, Mary Elizabeth MacDuffee, and Helen Sewirr MacDuffee.
+* MacDuffee was appointed as an instructor at Princeton University in 1922 and taught there for three years.
+* MacDuffee left Princeton in 1925 and was appointed as an assistant professor at Ohio State University.
+* This paper contains the theorem which today is known as the Latimer-MacDuffee theorem.
+* We have already mentioned MacDuffee's 1933 book The Theory of Matrices.
+* This was the first of four classic books that MacDuffee wrote, the other three being An introduction to abstract algebra (1940), Vectors and matrices (1943) and Theory of equations (1954).
 
 Born 29 June 1895, Oneida, New York, USA. Died 21 August 1961, Madison, Wisconsin, USA.
 

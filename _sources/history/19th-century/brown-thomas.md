@@ -7,10 +7,10 @@ orderid: 1893
 title: Brown (3), Thomas Arnold
 born: 1893
 died: 1965
-keywords: Thomas Brown, Edinburgh, Cambridge, University College London, University College of South West, Exeter, Mathematics Education
-description: Thomas Brown was influential in reforming mathematics teaching in European universities, publishing works on education and introducing new elements.
+keywords: thomas arnold brown,brown
+description: Thomas Brown studied at Edinburgh and Cambridge Universities. He lectured at University College London and became Professor at the University College of the South West which later became the University of Exeter.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,15 +20,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Thomas Brown** studied at Edinburgh and Cambridge Universities. He lectured at University College London and became Professor at the University College of the South West which later became the University of Exeter. 
+**Thomas Brown** studied at Edinburgh and Cambridge Universities. He lectured at University College London and became Professor at the University College of the South West which later became the University of Exeter.
 
 ### Mathematical Profile (Excerpt):
-1. Developing mathematics curricula that focused on classical European languages, Latin and Greek, at Rugby School.
-2. Published a number of works on mathematics education, including "Strong Statements in Euclid" (1835) and "The Elements of Euclid Analyzed" (1841).
-3. Reforming the style of mathematical teaching, emphasizing interdisciplinary studies of mathematics, literature and other fields.
-4. Pioneering the use of example problems and investigations to teach mathematics.
-5. Introducing the newly-developed Cartesian coordinations into mathematics teaching.
-6. Establishing a mathematics prize at the school and awarding students for their high levels of academic achievement.
+* Thomas's secondary school education was at George Watson's College, Edinburgh, between October 1898 and July 1911.
+* In 1921 Brown was appointed as a Lecturer in Pure Mathematics in University College, London.
+* Brown continued to hold the Chair at Exeter until he retired in 1958.
+* In December 1915 Thomas Brown joined the Edinburgh Mathematical Society.
+* Brown was elected to the Royal Society of Edinburgh on 3 March 1924, his proposers being Sir Edmund T Whittaker, A Crichton Mitchell, Sir Ernest Maclagan Wedderburn, Ralph A Sampson.
 
 Born 21 May 1893, Edinburgh, Scotland. Died 13 May 1965, Exeter, England.
 

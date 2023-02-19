@@ -7,10 +7,10 @@ orderid: 1898
 title: Mosharrafa, Ali Moustafa
 born: 1898
 died: 1950
-keywords: quantum theory, relativity, mathematics, Mosharrafa, Cairo University, interpolation theorem, Ramsey numbers
-description: Ali Moustafa Mosharrafa was an Egyptian physicist who contributed to the development of quantum theory, relativity and mathematics, his achievements include founding the Institute of Mathematical Sciences, developing an interpolation theorem and publishing textbooks and research articles.
+keywords: ali moustafa mosharrafa,mosharrafa
+description: b>Ali Moustafa Mosharrafa was an Egyptian theoretical physicist who contributed to the development of quantum theory as well as the theory of relativity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,47 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 b>Ali Moustafa Mosharrafa was an Egyptian theoretical physicist who contributed to the development of quantum theory as well as the theory of relativity.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Institute of Mathematical Sciences in Cairo in 1945. 
-2. Developed a method for solving algebraic equations of the second degree in 1956. 
-3. Authored several textbooks on mathematics for high school and college students. 
-4. Authored the book “Mathematical Apparatus” in 1975. 
-5. In 1998 Mosharrafa achieved Emeritus status at Cairo University. 
-6. Rewrote the mathematical criteria for solving integral and differential equations in 2001. 
-7. Published numerous research articles on topics such as harmonic analysis and the development of numerical models. 
-8. Worked on finding a solution to the four-color theorem and contributed to the theory of Ramsey numbers. 
-9. Developed the Mosharrafa-Mustafa Interpolation Theorem in 2014. 
-10. Published the book “Tortuous Mathematics” in 2015.
+* This meant that Ali Moustafa and his four younger siblings Nafisa, Mustafa, Attia and Hassan were brought up with strong religious beliefs in the Quran.
+* Let us note that most sources give the family name as Mosharafa with a single "r" but he certainly published his papers under the name Mosharrafa with "rr" so we will use that version.
+* In later life Ali Moustafa felt that his upbringing had robbed him of his childhood.
+* Ali Moustafa was born in the Mazloum district of Damietta and the first years of his childhood were spent in Raghad and Bala.
+* Ali's father Mustafa Attia died on 8 January 1910 when Ali was eleven years old and one month later he took his primary school examinations and was awarded his primary certificate being ranked first nationwide.
+* The family moved to Cairo where they lived with Ali's maternal grandmother in a rented apartment in the Abdeen neighbourhood.
+* Mosharrafa spent a year studying at the Abbasiya High School in Alexandria, where he was in the free section for those unable to afford the fees.
+* He was the youngest student in his class, but the most knowledgeable and his teachers showed him great respect realising that he was an exceptionally profound thinker.
+* It was re-founded in 1925 as a state institution but when Mosharrafa qualified with his Baccalaureate in 1914 it had nothing to offer in terms of mathematics, the subject that he was keen to pursue.
+* These options did not attract Mosharrafa so he enrolled in the Teachers' College where at least some mathematics was taught.
+* Before agreeing to travel to England, Mosharrafa saw that his three younger brothers Mustafa, Attia and Hassan were all enrolled at boarding schools.
+* Seeing that his siblings were all doing well, Mosharrafa travelled to England and matriculated at the University of Nottingham in the autumn of 1917.
+* When Mosharrafa was in the middle of his studies at Nottingham, in 1919, a revolution broke out in Egypt against British colonial rule led by Saad Zaghlul as head of the Wafd Party.
+* Mosharrafa had a friend, Mahmoud Fahmy El Nokrashy (1888-1948) who was a leading member of the Wafd Party.
+* Mosharrafa wrote to El Nokrashy saying he wanted to return to Egypt and give his support to the revolution.
+* Mosharrafa completed his studies at the University of Nottingham in 1920 and was awarded a B.Sc. (Honours).
+* Mosharrafa was awarded his Ph.D. in 1923 for his thesis The Quantum Theory of Spectral Series.
+* Although Mosharrafa only completed his first degree in 1920, by May 1921 he had written his first, ever impressive, paper.
+* Mosharrafa's next paper, On the quantum theory of the simple Zeeman effect was submitted for publication on 1 September 1922 and published in February 1923.
+* Mosharrafa returned to Egypt in 1925 and the Egyptian University (now Cairo University) being re-founded in that year, he was appointed as an associate professor of mathematics in the Faculty of Science.
+* The University had a rule that nobody under the age of 30 could be given the grade of professor but, although only 28, Mosharrafa was given the title of Professor of Applied Mathematics in 1926 despite the University's age rule.
+* J W Nicholson and Owen W Richardson of King's College helped Mosharrafa publish in 'Philosophical Magazine' (one of whose editors was J J Thomson of the Cavendish Laboratory at Cambridge), 'Nature', and the 'Proceedings' of the Royal Society of London.
+* Zeeman, Stark, Richardson, and Thomson were Nobel prize winners all; Mosharrafa had his eye on the prize as well.
+* Mosharrafa published a dozen items in these journals in the next decade, but only three or four more in the eighteen years that followed.
+* In 1936 Mosharrafa became Dean of the Faculty of Science at Cairo University.
+* He also was of the opinion that any compromise with regard to the standard of the professors would lead to significant deterioration of the quality and standard of education, a situation he painstakingly tried to avoid.
+* As a result of the shortage in qualified personnel this degree was made sufficient for a university teaching post.
+* We noted above that Mosharrafa was appointed as Professor of Applied Mathematics at the University of Cairo in 1926.
+* Professor Mosharrafa has been acting as head of the department of Pure Mathematics.
+* Mosharrafa married Dawlat H Zayed (1910-1989); they had one son Mostafa Ali Mosharrafa, born in Cairo on 22 February 1936 and died in July 1992 in Houston, Texas, USA.
+* The Royal Institute of Oriental Music is co-operating by nominating competent instrumentalists to do the work of tuning.
+* Mosharrafa Pasha was a prominent University figure.
+* Not only was Mosharrafa Pasha active within the Sphere of University, but he devoted himself also to the creation of a scientific milieu in Egypt.
+* Aided by an outstanding ability of clear expression and a rare mastery of the Arabic language, Mosharrafa Pasha leaves behind a rich harvest of popular writings on scientific topics, a harvest which does great credit to the versatile and scholarly mind that produced it.
+* In 1947 Mosharrafa was invited to Princeton in the United States.
+* President of the Mathematics and Physics Society of Egypt, Dr Mosharrafa is not only a leading scholar in the Near East, but also has a world reputation as a commentator on Einstein's mathematical work.
+* It was not possible for Mosharrafa to accept this invitation since the King of Egypt refused to allow him to travel to the United States.
+* There is a puzzle over the death of Mosharrafa much more significant than the difference of one day in its date.
+* Mossad was only formed on 13 December 1949, and there seems no reason why Israel should want Mosharrafa killed.
+* The fact that Mosharrafa was strongly opposed to using science for military purposes is the usual reason cited for the second possibility.
+* That Mosharrafa died from a heart attack certainly seems highly plausible and his brother was very definite that this indeed was the cause of his death.
 
 Born 11 July 1898, Damietta, Egypt. Died 15 January 1950, Cairo, Egypt.
 

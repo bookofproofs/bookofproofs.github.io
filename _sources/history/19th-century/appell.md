@@ -7,10 +7,10 @@ orderid: 1855
 title: Appell, Paul Emile
 born: 1855
 died: 1930
-keywords: Paul Appell, number theory, algebra, Appell's equations, Gauss' hypotheses, binomial theorem, Poisson-Appell series
-description: Paul Appell was a renowned French mathematician who revolutionized number theory, algebra and differential equations with his discoveries, including Appell's equations, Gauss' hypotheses, binomial theorem and Poisson-Appell series.
+keywords: paul appell,appell
+description: Paul Appell was a French mathematician who worked in analysis, geometry and mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Paul Appell** was a French mathematician who worked in analysis, geometry and mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Paul Appell is best remembered for his discoveries in the fields of number theory and algebra.
-2. He developed Appell's equations, which transform ordinary differential equations into partial differential equations, a breakthrough in mathematics.
-3. He also developed a refinement of Kummer's theorem regarding series in algebra, showing the existence of conditions in which the related equations could be solved.
-4. Appell is credited with solving Gauss' hypotheses on quartic equations and making discoveries in the realm of biquadratic equations.
-5. He discovered a variant on the familiar binomial theorem, which determined the zero values of an equation and the paths in which such equations diverge.
-6. Appell also wrote the Poisson-Appell series, which is used to study the behavior of functions in complex analysis.
+* Appell's father was a dyer at Ritterhus and the whole family, including two half-brothers, worked in the business.
+* In 1866 Appell's family were forced to leave Ritterhus and his father died the following year.
+* Appell rejected the Catholic views of his parents but he retained their strong patriotic French views.
+* Appell's youngest half-brother Charles, who Appell was very close to, joined the French forces.
+* The Germans captured Strasbourg after a 50-day siege in which Appell suffered greatly.
+* Strasbourg was annexed by the Germans and Appell moved to Nancy to become a French citizen and prepare himself to study at university in Paris.
+* Appell became a life-long friend of Poincaré while at Nancy.
+* In 1881 Appell married Amelie, niece of Bertrand and of Hermite and a cousin of Émile Picard.
+* Appell now worked in Paris but returned for each vacation to German held Alsace.
+* Basically Appell and his brother Charles were acting as spies and informants for France against Germany.
+* In 1892 Appell was elected to the Académie des Sciences.
+* One of the major political events which gripped France during much of the time that Appell held top posts was the Dreyfus Affair.
+* Dreyfus, like Appell, came from Alsace.
+* Appell was very much involved with the case.
+* When Dreyfus was granted a retrial in 1904, Appell served as an expert on the commission that, by July 1906, had cleared Dreyfus and reversed all previous convictions.
+* After the war Appell had the ambition of his life fulfilled when his homeland of Alsace was returned to France.
+* Also following the war the League of Nations was set up by the Allies at the Paris Peace Conference in 1919, and Appell served as secretary-general for the French Association during the 1920s when the League had its headquarters at Geneva.
+* Appell's first paper in 1876 was based on projective geometry continuing work of Chasles.
+* In 1880 Appell defined a series of functions satisfying the condition that the derivative of the nnnth function is nnn times the (n−1)(n - 1)(n−1)th function.
+* These are now called the Appell polynomials.
+* There is an obvious question that we must ask ourselves about Appell.
+* This is a pretty accurate assessment: Appell was one of the finest problem solvers there has been in mathematics.
 
 Born 27 September 1855, Strasbourg, France. Died 24 October 1930, Paris, France.
 

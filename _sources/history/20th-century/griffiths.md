@@ -7,10 +7,10 @@ orderid: 1938
 title: Griffiths (3), Phillip Augustus
 born: 1938
 died: 0
-keywords: Phillip Griffiths, Global Analysis, Variations, Hodge Structures, Differential Geometry, Complex Dynamics, Intersection Theory, AMS President
-description: Phillip Griffiths, AMS President, is an influential American mathematician known for pioneering Global Analysis & developing Variations, Hodge Structures, Differential Geometry, & Complex Dynamics.
+keywords: phillip griffiths,griffiths
+description: Phillip Griffiths is an American mathematician, known for his work in geometry and algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Phillip Griffiths** is an American mathematician, known for his work in geometry and algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the use of global analysis to study partial differential equations and connective manifolds.
-2. Recognized as one of the founders of the modern theory of variations of Hodge structures.
-3. Developed innovative methods in differential geometry, particularly in the theory of characteristic classes of manifolds.
-4. Developed the theory of complex dynamics on algebraic varieties, which is a powerful connection between algebraic geometry and dynamical systems.
-5. Analyzed the intersection theory of homology algebra and complex manifolds, including the concept of transversality and its connections to topology.
-6. Earned the Leroy P. Steele Prize in 1996 for his lifetime achievements in mathematics.
-7. Launched the Institute of Advanced Studies Pedagogy Project to improve mathematics instruction at the middle and high school level.
-8. Established the Institute for Mathematics and Education at Harvard Graduate School of Education to prepare mathematics teachers.
-9. Published numerous influential monographs, textbooks, and research articles on global analysis, complex dynamics, and geometry.
-10. Became the President of the American Mathematical Society in 1985.
+* Phillip was an undergraduate at Wake Forest College in Winston-Salem, North Carolina.
+* Griffiths married Ann Lane Crittenden in 1958 while he was still an undergraduate; they had two children Jan Kirsten and David.
+* Donald Spencer became Griffiths' advisor partway through his first year of study.
+* Griffiths was advised to read certain texts and papers which were to have a huge impact on the direction his mathematical research would take.
+* After the award of his doctorate, Griffiths returned to Berkeley where he was Miller fellow at the University of California during the two years 1962-64.
+* After nine years holding this chair, Griffiths was appointed as Director of the Institute for Advanced Study at Princeton.
+* Some of the author's most enduring results come from simple such calculations which show how different higher-dimensional variations of cycles or Hodge structures are, often referred to as Griffiths transversality.
+* We mentioned above that Griffiths has written many books.
+* Here is a list of most of them: (with Joseph Harris, a doctoral student of Griffiths who was awarded his Ph.D. in 1978) Topics in algebraic and analytic geometry (1974); Entire holomorphic mappings in one and several complex variables (1976); Principles of algebraic geometry (1978); An introduction to the theory of special divisors on algebraic curves (1980); (with John W Morgan) Rational homotopy theory and differential forms (1981); Exterior differential systems and the calculus of variations (1983); (with Gary R Jensen) Differential systems and isometric embeddings (1987); Introduction to algebraic curves (1989); and (with Mark Green, a doctoral student of Griffiths' who was awarded his Ph.D. in 1972) On the tangent space to the space of algebraic cycles on a smooth algebraic variety (2005).
+* There are other important aspects of Griffiths' career which we must say a little more about.
+* Griffiths has served, or still serves, as an editor for seven major journals: Advances in Function Theory; Annals of Math.
+* Griffiths has received many more honours which we will have to omit through lack of space, but we should mention his role as Secretary of the International Mathematical Union from 1999 to 2006.
 
 Born 18 October 1938, Raleigh, North Carolina, USA.
 

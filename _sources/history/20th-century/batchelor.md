@@ -7,10 +7,10 @@ orderid: 1920
 title: Batchelor, George Keith
 born: 1920
 died: 2000
-keywords: George Batchelor, fluid dynamics, Batchelor-Swan theorem, turbulence, Navier-Stokes equations, boundary layer calculus, chaos theory
-description: George Batchelor, eminent Australian applied mathematician, made remarkable advancements in fluid dynamics, turbulence, and chaos theory.
+keywords: george batchelor,batchelor
+description: George Batchelor was an Australian applied mathematician who worked in fluid dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Batchelor** was an Australian applied mathematician who worked in fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Batchelor-Swan theorem for transforming an incompressible Navier-Stokes equation into an equivalent diffusion equation.
-2. Discovered the similarity of turbulent and laminar flow, establishing the mathematical framework for turbulent mechanics.
-3. Developed theoretical insights into the nature of turbulence and its related phenomena, advancing the mathematical understanding of fluid dynamics.
-4. Published groundbreaking works on fluid mixing and aerosols.
-5. Founded the field of applied mathematics, introducing new concepts and strategies for solving complex physics problems.
-6. Helped develop the first practical numerical simulation of aerodynamic flow.
-7. Advanced the development of boundary layer calculus, providing a general formula for calculating air pressure over curved surfaces.
-8. Discovered the existence of spiral-wave solutions for the Navier-Stokes equations, significantly advancing the mathematical modelling of processes in nature.
-9. Proved the existence of chaos, leading to profound implications for deterministic models in scientific research.
-10. Developed an approach to solving chaotic initial-value problems, expanding the theoretical foundation of chaos theory.
+* Batchelor graduated from Melbourne University in 1940, continuing to obtain a Master's Degree in 1941.
+* At this time Batchelor wrote his first paper, which appeared in 1944, Interference in a wind tunnel of octagonal section which gave a mathematical deduction of the interference on a model of small wing span suspended at the centre of a tunnel of octagonal section.
+* The leading British expert on turbulence was Geoffrey Taylor, and Batchelor wrote to him at the Cavendish Laboratory in Cambridge offering to work for him.
+* Batchelor and his colleague Alan Townsend arranged funding to allow them to undertake research with Geoffrey Taylor.
+* in January 1945, together with his wife, Wilma, also of Melbourne, Batchelor embarked on a marathon ten-week voyage via New Zealand, the Panama Canal and New York, and thence in a convoy of 80 ships across the Atlantic to reach Cambridge.
+* Arriving in Cambridge Batchelor and Townsend discovered that Geoffrey Taylor was no longer interested in undertaking his own turbulence research, but he was happy to supervise them.
+* Batchelor began to examine Kolmogorov's approach to turbulence and in 1946 he presented his interpretation of Kolmogorov's work to the Sixth International Congress for Applied Mechanics in Paris.
+* Batchelor was elected a Fellow of Trinity College, Cambridge in 1947 and in the following year he was awarded his doctorate and became a Cambridge University lecturer.
+* Batchelor was awarded the Adams Prize by the University of Cambridge in 1951.
+* Certainly Batchelor stamped his personality on the Cambridge Department.
+* In 1957 Batchelor was elected to a fellowship of the Royal Society of London and then in 1959 he became a Reader in Fluid Dynamics at Cambridge.
+* In May 1956 Batchelor founded the Journal of Fluid Mechanics and he edited the journal until January 1999.
+* Among the many honours which Batchelor received was election to the American Academy of Arts and Sciences (1959), to the Polish Academy of Sciences (1974), to the French Academy of Sciences (1984), and to the Royal Society of London in 1959 and a Fellow of the Australian Academy of Sciences (1989).
 
 Born 8 March 1920, Melbourne, Australia. Died 30 March 2000, Cambridge, England.
 

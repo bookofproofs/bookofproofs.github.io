@@ -7,10 +7,10 @@ orderid: 1881
 title: Von Kármán, Theodore
 born: 1881
 died: 1963
-keywords: von Kármán, aerodynamics, boundary layer, airfoils, supersonic, GALCIT, turbulence
-description: Theodore von Kármán revolutionized aerospace science, developing theories of aerodynamics, supersonic flow, turbulence, boundary layer and airfoils.
+keywords: theodore von kármán,von
+description: Theodore von Kármán was a Hungarian born mathematician, aerospace engineer and physicist who worked in the fields of aeronautics and astronautics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Theodore von Kármán** was a Hungarian born mathematician, aerospace engineer and physicist who worked in the fields of aeronautics and astronautics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed many mathematical tools for the study of supersonic flows of air, work which laid the foundation for modern aerodynamic theory.
-2. Developed the concept of boundary layer, the layer of air subjected to viscosity adjacent to the surface of an aircraft or solid body in motion through the air.
-3. Founded the Guggenheim Aeronautical Laboratory at the California Institute of Technology (GALCIT), and developed with co-workers the theory of thin airfoil sections.
-4. Created a number of mathematical methods, such as the von Kármán minimum theorem, which is used to calculate the minimum drag produced in incompressible laminar flows.
-5. Established the foundations of the science of supersonic fluid dynamics, which, together with his contributions to boundary layer theory, profoundly influenced the development of modern aircraft, missiles and rockets.
-6. Pioneered the development of airfoils and their use in wings and propellers, predicted that an airplane could fly faster than the speed of sound and helped prove it. 
-7. Developed the model for predicting wind tunnel tests based on the theory of similarity.
-8. Developed a theory regarding the mathematical foundations of turbulence. 
-9. Influenced the field of turbulence and pattern formation by promoting the Triadic Cascade Theory.
+* Theodore's name in Hungarian was von Skőllőskislaki Kármán Tódor (Tódor corresponds to Theodore and in Hungarian the family name precedes the given name).
+* Theodore was tutored at home by a former student of    his father and his early education was totally dominated by his father.
+* Theodore's three elder brothers realised that he was a mathematical prodigy when he was six years old, for he demonstrated a remarkable ability to perform large mental calculations.
+* Mór, however, fearing that his son would become a freak who ended up performing mathematical tricks, insisted that Theodore be kept away from mathematics for several years, requiring that he should study geography, history and literature.
+* When he was nine years old Theodore entered the Minta Gymnasium in Budapest.
+* In the year that Kármán completed his education at the Minta Gymnasium he won the Eötvös Prize for the best student in mathematics and science in the whole of Hungary.
+* Kármán's father had a nervous breakdown in the year in which he began his engineering course but this only made it totally impossible for Kármán to go against his father's wishes.
+* It is interesting to note that despite Kármán's great theoretical talents, he was not a skilled experimenter.
+* Although it is somewhat harsh to say that Kármán's father pushed him in the wrong direction since he went on to make such significant advances, nevertheless, his talents were always on the mathematical side of engineering and certainly not on the practical side.
+* After graduating Kármán had to undertake compulsory military service for one year and he served as an artillery cadet in the Austro-Hungarian army.
+* But Kármán also held a second position during these years, for he acted as a consultant for a German locomotive manufacturer.
+* For this research Kármán was awarded his doctorate in 1908 and in the same year he accepted a position as privatdocent at Göttingen.
+* In 1911, using results from the wind tunnel, he made an analysis of the alternating double row of vortices behind a flat body in a fluid flow which is now known as Kármán's Vortex Street.
+* In 1912 Kármán decided that his prospects of promotion were not good at Göttingen so he accepted the chair of applied mechanics at the Schemnitz mining college in Slovakia (today the town is called Banska Stiavnica).
+* In February 1913 Kármán accepted a post as director of the Aeronautical Institute at Aachen in Germany and also the chair of aeronautics and mechanics at the technical university in Aachen.
+* When the war ended in 1918 Kármán was working in Hungary and he remained there trying to bring in improvements to the teaching of sciences there.
+* The political situation made any educational reforms out of the question, so in 1919 Kármán returned to his previous positions in Aachen.
+* Kármán visited the USA in 1926, at the invitation of the head of the California Institute of Technology, to advise on the design of a wind tunnel.
+* Kármán never married and his mother, then sister, looked after his home for him.
+* In November 1944 the funding was used to set up the Jet Propulsion Laboratory at Caltech with Kármán as director.
+* Kármán received many honours for his outstanding contributions.
 
 Born 11 May 1881, Budapest, Hungary. Died 7 May 1963, Aachen, Germany.
 

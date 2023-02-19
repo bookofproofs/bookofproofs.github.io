@@ -7,10 +7,10 @@ orderid: 1875
 title: Conway, Arthur
 born: 1875
 died: 1950
-keywords: Algebra, Relativity, Third Degree, Covariants, Lagrange, Dublin Mathematical Society, Variance-Covariance Matrices
-description: Arthur Conway was an influential Irish mathematician who wrote influential texts on Algebra, developed a third degree solver, pioneered covariants, founded the Dublin MS and wrote on Relativity and Lagrange.
+keywords: arthur conway,conway
+description: Arthur Conway was an Irish mathematician and mathematical physicist who wrote one of the first books on relativity and co-edited two volumes of William Rowan Hamilton's collected works.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Arthur Conway** was an Irish mathematician and mathematical physicist who wrote one of the first books on relativity and co-edited two volumes of William Rowan Hamilton's collected works.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote two influential texts on algebra - "Algebra: An Elementary Text Book" and "An Introduction to Modern Algebra".
-2. Published several important mathematical papers in the Annals of Mathematics and the Proceedings of the London Mathematical Society.
-3. Developed a method for solving equations of the third degree.
-4. Provided a solution to a longstanding problem concerning permutation polynomials.
-5. Secured the chair of Mathematics at University College Dublin in 1882.
-6. Expanded the use of covariants in mathematics.
-7. Co-authored the ‘Conway–Guy’ theorem which relates elliptic curves and modular forms.
-8. Contributed to the development of an algebraic generalization of the Lagrange interpolation formula.
-9. Founded the Dublin Mathematical Society in 1883.
-10. Pioneered the use of variance-covariance matrices in mathematical studies.
+* Myles and Teresa had two children, Arthur and Bridie, but sadly Myles died when Arthur was only two years old.
+* Bridie grew up to be a very gifted musician, a talent which her brother Arthur shared.
+* Arthur was educated at Loreto Convent where, like his sister, he showed considerable musical talent, winning a prize for his playing of the piano.
+* Another interest that Arthur had when growing up was in all things associated with the sea; he became an expert with boats and an exceptionally strong swimmer.
+* In 1889 Conway entered St Peter's College, Wexford which provided a strong classical training for boys, most of whom were intending to become Roman Catholic priests.
+* The best university in Ireland at this time was undoubtedly Trinity College Dublin and in many ways this should have been the natural university for someone like Conway whose interests had already turned to mathematics and physics.
+* However it was a Protestant university and the religious atmosphere in Ireland at that time would have made it impossible for a devout Roman Catholic like Conway to attend.
+* Conway was one of only twelve students living in university accommodation.
+* Conway was awarded First Class honours from the Royal University of Ireland in 1896 being placed as the top candidate.
+* Conway then entered Corpus Christi College, Oxford, winning a scholarship in mathematics in 1898.
+* At Oxford he worked under A E H Love who exerted a strong influence on the direction of Conway's research.
+* At this stage Conway intended to pursue a career in the Civil Service but in 1901 a chair of Mathematical Physics became available in University College, Dublin.
+* On 19 August 1903, Conway married Agnes Christina Bingham who was from Ballymena, Co. Antrim.
+* They had three daughters and one son: Teresa Mary Conway, Morgan Felix Conway, Verna Marguerite Conway, and Orlaith Conway.
+* Conway's first papers appeared in 1903.
+* Conway was elected to the Chair of Mathematical Physics which effectively formalised the post he had been elected to in 1901.
+* Perhaps the work for which Conway will be best remembered is his editorship of Hamilton's papers.
+* My brother had been urging me for some time to try to get Hamilton's papers republished in a collected edition, and this project was a matter of common interest to Conway and me.
+* The Hamilton project was undertaken by the Royal Irish Academy, with Conway and myself as editors of the first volume of Hamilton's collected works - the papers in geometrical optics.
+* The second volume of Hamilton's Collected Works was Dynamics which was edited by Conway and A J McConnell and published in 1940.
+* From this time on all of Conway's research papers related in some way to Hamilton's work.
+* Dublin and St Andrews honoured Conway with honorary degrees in 1938.
+* Conway became the first Chairman of the Theoretical Physics Board which became very strong with Schrödinger and Synge joining the Institute.
+* In 1940 Conway was elected an Honorary Fellow of Corpus Christi College and in the same year he became President of University College Dublin.
+* In 1949 Conway attended the Canadian Mathematical Congress in Vancouver and he lectured there on The life work and influence of Sir William Rowan Hamilton.
 
 Born 2 October 1875, Wexford, Ireland. Died 11 July 1950, Dublin, Ireland.
 

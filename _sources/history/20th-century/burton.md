@@ -7,10 +7,10 @@ orderid: 1936
 title: Burton, Leone Minna Gold
 born: 1936
 died: 2007
-keywords: mathematics education, equity, gender, Burton-Gallant algorithm, time series patterns, numerical integration, neural networks
-description: Leone Burton was a leading British expert in mathematics education who developed the Burton-Gallant algorithm, studied equity and gender issues, predicted time series patterns & numerical integrations, and diagnosed and modeled neural networks.
+keywords: leone burton,burton
+description: Leone Burton became a leading British expert in mathematical education. She did pioneering work on equity and gender issues in mathematics education.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,37 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leone Burton** became a leading British expert in mathematical education. She did pioneering work on equity and gender issues in mathematics education.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new algorithm, known as the Burton-Gallant algorithm, which identified and classified linear neurons in a multilayer perceptron network.
-2. Published a paper on the Burton-Gallant algorithm in the IEEE Transactions on Neural Networks in 1994.
-3. Developed an algorithm for predicting time series patterns which was later used to forecast stock prices.
-4. Developed a novel approach to modeling and forecasting of non-linear stochastic processes.
-5. Devised a new numerical integration scheme which improved upon existing methods of numerical computations.
-6. Authored a number of academic papers on probability theory and statistical analysis.
-7. Developed a new algorithm, known as the Burton-Gallant algorithm, which can be used to diagnose and classify linear neurons in high-dimensional neural networks.
-8. Co-authored a book on the Burton-Gallant algorithm.
+* Leone was given the name Minna after this grandmother.
+* There was exceptional mathematical talent in the family with Marcus and Minna Levy's son, Leone's uncle, being Hyman Levy.
+* They settled in Sydney where Leone was born.
+* Leone attended all-girl schools in Australia, both primary and secondary, and in these schools she was taught exclusively by female teachers.
+* From San Francisco, Leone travelled across the United States, ending up eventually in New York.
+* To earn some money to help finance her travels, Leone gave talks about Australia.
+* Levy had been Head of the Mathematics and Mechanics Department of Imperial College of Science and Technology, London, but had retired in 1955, a few years before Leone came to London.
+* His wife, Marion Aitken Fraser, was an "upright Scottish Protestant" and Leone quickly became very fond of her.
+* Leone's contacts with the Levys and their friends made a big impression on her and she loved the political and academic discussions.
+* In an environment where there were lots of ideas, yet one in which she had time to think about her own future, Leone decided that she wanted to return to education.
+* Up to this time Leone had no idea what career she wanted but she now decided that what she wanted to do was to teach.
+* Leone nearly changed her area of study but decided not to allow herself to be intimidated.
+* While studying at the University of London, Leone lived at 5 Camden Court, Rousden Street, St Pancras, Camden.
+* Leone graduated from the University of London with a degree in mathematics in 1963 and, immediately after finishing the course, she flew back to Australia on 13 July 1963, flying from London to Fremantle, Western Australia, on Qantas Empire Airways.
+* Around May 1966 she married John W Burton and they settled on a farm in Kent where their son Mark Burton was born in 1968.
+* We note that the marriage did not last long and Leone Burton essentially brought up her son Mark herself.
+* It merged with the Polytechnic of the South Bank in 1976 and Burton gave her address as the Polytechnic of the South Bank when she published The Teaching of Mathematics to Young Children Using a Problem Solving Approach in 1980.
+* In 1980 Burton was awarded a Ph.D. from the University of London for her thesis The impact of education on political development.
+* However, Burton had left the Polytechnic of the South Bank before the first name change and joined Avery Hill College.
+* At Avery Hill College Burton became Head of the Mathematics Department.
+* The College became part of Thames Polytechnic in 1985 and Burton continued to work there until 1992 when she joined the University of Birmingham as Professor of Science and Mathematics Education.
+* And my highest praise for Leone as a supervisor is that she let me do my own thing in my own way and at my own pace.
+* Leone was, for me, the perfect supervisor.
+* We must mention Burton's important work for the Open University.
+* Another outcome of the Open University collaboration was the best-seller "Thinking Mathematically" (Mason, Burton, and Stacey, 1982).
+* Leone also worked on developing mathematical problem-solving in primary and middle schools with colleagues from teacher education colleges, resulting in her rigorous but accessible 1984 book, "Thinking Things Through".
+* After she retired in 2001, Burton was made an honorary Chair at King's College London.
+* Burton visited many Asian countries where she was given the role of a visiting professor.
+* (ii) Leone was an inspiring doctoral supervisor offering encouragement, sound advice, excellent ideas, insightful intelligence and flexibility of thinking.
+* (iii) As a scholar, Leone was incisive, passionate, rigorous, principled, intellectually sharp, critical, strong, tough, feisty, daunting and straight to the point.
+* The comments left by friends emphasised how much Burton loved music.
 
 Born 14 September 1936, Sydney, Australia. Died 1 December 2007, Cambridge, England.
 

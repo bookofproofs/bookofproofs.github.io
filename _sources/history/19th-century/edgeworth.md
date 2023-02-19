@@ -7,10 +7,10 @@ orderid: 1845
 title: Edgeworth, Francis Ysidro
 born: 1845
 died: 1926
-keywords: Edgeworth, statistician, correlation, economy, regression, index numbers, utility, indifference curves, taxation, probability, money
-description: Francis Edgeworth was an influential Irish statistician who advanced mathematical concepts used for social statistics, such as correlation coefficients, Edgeworth box model, regression lines, index numbers, utility theory, and taxation.
+keywords: francis edgeworth,edgeworth
+description: Francis Edgeworth was an Irish-born statistician who examined correlation and methods of estimating correlation coefficients in a series of papers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Francis Edgeworth** was an Irish-born statistician who examined correlation and methods of estimating correlation coefficients in a series of papers.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Edgeworth box model to represent a two-person exchange economy in 1881.
-2. Pioneered the study of mathematical economics in the late nineteenth century.
-3. Constructed graphical representation for statistical data, often referred to as the Edgeworth diagram.
-4. Proposed the use of least squares as a method to fit regression lines to data and published methods using the method.
-5. Established the theory of index numbers, which became the synonym for measures of price and quantity movement.
-6. Formulated a law of diminishing marginal utility in 1893, which influenced contemporary economists.
-7. Introduced the concept of indifference curves and proposed a qualitative definition of equilibrium in the series of papers he wrote in 1881.
-8. Advanced the analytical treatment of probability and applied mathematics to social statistics.
-9. Developed and proposed new forms of taxation such as the ‘Edgeworth Tax-Liability’ in 1888.
-10. Unveiled a new quantity theory of money that applied monetary and statistical analysis to economic models of inflation.
+* His grandfather was Richard Lovell Edgeworth, an author, inventor and educationalist who was married four times and had 22 children.
+* Among these 22 children were Edgeworth's father and also Maria Edgeworth who was well known as a writer of children's stories and also for novels about life in Ireland.
+* Richard Lovell Edgeworth had an estate at Edgeworthstown, northwest of Dublin, and it was on this estate that Edgeworth was born.
+* Francis Ysidro Edgeworth was originally named Ysidro Francis Edgeworth but transposed his forenames.
+* At this stage in his life Edgeworth had no particular interest in mathematics.
+* Exactly what Edgeworth did in the years after leaving Oxford is unclear but certainly he lived in London with little financial support.
+* One important influence from this period was Jevons who was a friend and near-neighbour of Edgeworth.
+* The surprising part is that somewhere in this varied career Edgeworth studied mathematics.
+* In fact most of his work could be said to be applications of mathematical psychics which Edgeworth saw as analogous to mathematical physics.
+* Edgeworth published Methods of Statistics in 1885 which presented an exposition of the application and interpretation of significance tests for the comparison of means.
+* In 1891 Edgeworth left London to take up the Drummond Chair of Political Economy at Oxford.
+* Another event of significance in 1891 was that the Economic Journal began publication with Edgeworth as its first editor.
+* This journal was the publication of the Royal Economic Society which had been set up in 1890 with Edgeworth appointed as secretary to the Society.
+* In 1892 Edgeworth examined correlation and methods of estimating correlation coefficients in a series of papers.
+* Edgeworth's work was to influence Pearson although bad feeling developed between the two and later Pearson was to deny Edgeworth's influence.
+* Whenever you see that k call to mind dear old Edgeworth.
 
 Born 8 February 1845, Edgeworthstown, County Longford, Ireland. Died 13 February 1926, Oxford, England.
 

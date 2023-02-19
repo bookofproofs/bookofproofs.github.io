@@ -7,10 +7,10 @@ orderid: 1837
 title: Bleuler, Hermann
 born: 1837
 died: 1912
-keywords: Hermann Bleuler, Functions, Algebraic Equations, Algebraic Curves, Integrals, Number Theory, Hypervolumes
-description: Hermann Bleuler developed theories on two complex variables, solved algebraic equations, discovered curves and integrals, and contributed to number theory and hypervolumes.
+keywords: hermann bleuler,bleuler
+description: Hermann Bleuler was a Swiss engineer and artillery officer in the Swiss army.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Hermann Bleuler** was a Swiss engineer and artillery officer in the Swiss army.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theory of functions of two complex variables.
-2. Established important theorems about algebraic equations.
-3. Formulated a fundamental theorem on the invariance of algebraic curves.
-4. Demonstrated the existence of infinitely many algebraic curves.
-5. Discovered the existence of certain algebraic integrals and congruences.
-6. Discovered five curves of degree 8, none of which are algebraic, and solved special cases of the 16th degree equation by general methods.
-7. Made important contributions to the theory of linear differential equations.
-8. Contributed to the theory of theta functions, elliptic integrals and integral equations.
-9. Made substantial contributions to the field of number theory.
-10. Developed methods to calculate volumes and hypervolumes in higher dimensions.
+* Hermann's mother Sophie Regula née Arter (1811  - 1880) came from a family of merchants.
+* Hermann, the second oldest child of the family, had two sisters and three brothers, one of whom became a doctor; the other two became planters in Guatemala.
+* Afterwards Bleuler attended the Gymnasium and then the Industrieschule in Zürich.
+* Bleuler had a stellar career in the Swiss army, in which he enrolled in 1861.
+* Bleuler became a member of the Federal School Board in 1881, the year when the Polytechnic's regulations were revised.
+* Bleuler became Vice-President after Alfred Escher's death in 1882, and in 1888 he succeeded Karl Kappeler as president of the School Board.
+* Both the President and Vice-President used to be appointed for life, but Bleuler retired in 1905 due to health reasons.
+* Following Kappeler's method, Bleuler often attended lectures of teaching candidates incognito to assess their qualities.
+* In 1873, Bleuler married Emma Huber whose father had also been a silk manufacturer.
+* In 1887, the family moved into the so-called "Villa Bleuler", which was built for them.
+* Bleuler signed the invitation circular for the first International Congress of Mathematicians from January 1897 in his capacity as School Board president.
+* Hermann Bleuler died on 7 February 1912 after a long illness.
 
 Born 22 November 1837, Hottingen, Zürich, Switzerland. Died 7 February 1912, Zürich, Switzerland.
 

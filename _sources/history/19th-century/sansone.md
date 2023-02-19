@@ -7,10 +7,10 @@ orderid: 1888
 title: Sansone, Giovanni
 born: 1888
 died: 1979
-keywords: mathematical analysis, orthogonal functions, ordinary differential equations, lattice, theta curves, numerical integration, nonstationary curves
-description: Giovanni Sansonewas an innovative Italian mathematician, pioneering in work on mathematical analysis, orthogonal functions, ODEs and more.
+keywords: giovanni sansone,sansone
+description: Giovanni Sansone was an Italian mathematician, known for his works on mathematical analysis, the theory of orthogonal functions and the theory of ordinary differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giovanni Sansone** was an Italian mathematician, known for his works on mathematical analysis, the theory of orthogonal functions and the theory of ordinary differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new mathematical proof to explain why some of the shapes orthogonal projections take can be described as a lattice.
-2. Identified a class of curves known as theta curves, which can be used to approximate arbitrary shapes.
-3. Developed a method for determining the area of a surface using a numerical integration technique.
-4. Created a new class of curves known as the symmetric curves, which are used as a tool in visualizing and manipulating higher order equations.
-5. Devised a new method for describing a mapping between a sphere and a plane, which can be used to generate 3D images from 2D data.
-6. Discovered a three-dimensional analogue of the Fischer space, which can be used to model complex systems with a high degree of accuracy.
-7. Identified a new class of curves known as nonstationary curves, which can be used to solve a variety of geometrical problems.
-8. Published a paper illustrating the use of nonlinear partial differential equations in the field of mathematical physics.
-9. Developed a new algorithm for computing Lagrangian minimization, which enables the derivation of analytical solutions for problems involving nonlinear differential equations.
-10. Applied mathematical principles to the field of robotics in order to develop a model for predicting human behavior in complex AI environments.
+* Sansone's early education was in Sicily, where he studied at the Filippo Parlatore Technical Institute in Palermo.
+* After the award of his laurea, Sansone looked for a teaching position and, in 1913, he entered a competition for a lectureship at the Galileo Galilei Technical Institute in Florence.
+* Sansone was ranked first in the competition and appointed to the Technical Institute.
+* Sansone was involved in the fighting between the Italian and Austrian forces during the war.
+* Sansone was, however appointed as a lecturer in algebraic and infinitesimal analysis at the University of Florence in 1924.
+* Sansone continued to undertake research in algebra and number theory, where he studied solutions of cubic equations over finite fields, but it was not a popular area of research in Italy at this time so eventually he moved towards undertaking research in analysis.
+* Vitali had, like Sansone, been educated at the Scuola Normale Superiore in Pisa and had been an assistant to Ulisse Dini during 1899-1901.
+* By the time Sansone had begun his studies at the Scuola Normale Superiore, Vitali was becoming involved in politics as a Socialist councillor but after the Fascists came to power in 1922, he returned to mathematics.
+* Sansone took on the work of editing this book which was published in 1935 as the first volume of a 2-volume work by Vitali and Sansone, the second volume of which was entirely due to Sansone.
+* On the death of the author (1932), the volume was almost completed; G Sansone, with sincere accuracy and conscientious fidelity to the train of thought and the form of representation chosen by the author, has completed the work and arranged its publication.
+* Although Sansone continued to hold the chair at the University of Florence, he taught for the years 1947-49 at the Scuola Normale Superiore in Pisa.
+* We have seen how Sansone's research began with number theory and algebra, and moved to group theory.
+* One of Sansone's great achievements at the University of Florence was building up the library there.
+* Sansone's contributions are impressive for the range of topics he studied, the enormous output in books and papers he achieved throughout his life, for the depth of his work, for his editorial duties and also for the time he spent sitting on various national committees.
+* Many honours have been given to Sansone for his outstanding contributions.
+* In 2010 Porto Empedocle named a piazza after Sansone.
+* When Sansone died he left a last will and testament expressing a wish to set up a foundation to provide fellowships for young mathematicians.
+* The Emma and Giovanni Sansone Foundation was set up in 1983 which each year offers fellowships awarded through a public competition based on the candidates' work and an interview or examination.
 
 Born 24 May 1888, Porto Empedocle, Italy. Died 13 October 1979, Florence, Italy.
 

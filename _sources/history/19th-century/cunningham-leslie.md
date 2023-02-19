@@ -7,10 +7,10 @@ orderid: 1895
 title: Cunningham (2), Leslie
 born: 1895
 died: 1946
-keywords: Cunningham, Edinburgh University, RAF, air warfare, prime numbers, modular forms, Cunningham polynomial
-description: Leslie Cunningham graduated from Edinburgh University and worked for the RAF, but his research contributions are in math, mainly prime numbers, modular forms and the development of a Cunningham Chain and polynomial.
+keywords: leslie cunningham,cunningham
+description: Leslie Cunningham graduated from Edinburgh University though the First World War interrupted his studies. He worked for the RAF as an education officer but returned to Edinburgh to complete his doctorate. He worked on various problems of air warfare.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leslie Cunningham** graduated from Edinburgh University though the First World War interrupted his studies. He worked for the RAF as an education officer but returned to Edinburgh to complete his doctorate. He worked on various problems of air warfare.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm known as the Cunningham Chain, which is used to quickly factorize large numbers.
-2. Showed that a particular group of elliptic curves can be used to provide clues as to whether a particular number is prime or composite. 
-3. Conducted extensive research on the properties of prime numbers, including the distribution of primes and the structure of prime numbers.
-4. Solved several prime number conjectures, including the Brocard-Ribet Conditional.
-5. Made several seminal contributions to the study of modular forms, a type of analytic function in mathematics.
-6. Discovered a new type of polynomial, the Cunningham polynomial, which can be used to find an integer given a particular set of divisors.
-7. Published numerous research articles on a variety of topics related to number theory.
+* Only in 1920 did Cunningham return to Edinburgh University to resume his studies after a six year gap.
+* As Education Officer, Cunningham taught mathematics at a fairly low level.
+* Leslie Cunningham was a member of the Edinburgh Mathematical Society, joining in March 1925 when he was living in Buckingham Terrace, Edinburgh.
 
 Born 1895, Edinburgh, Scotland. Died 31 August 1946, Middlesex, England.
 

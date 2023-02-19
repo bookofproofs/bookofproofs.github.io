@@ -7,10 +7,10 @@ orderid: 1919
 title: Suvorov, Georgii Dmitrievic
 born: 1919
 died: 1984
-keywords: Suvorov, function theory, topology, geometry, differential equations, integrability, wavelets
-description: Georgii Dmitrievic Suvorov was a Russian mathematician who made significant contributions to function theory, topology, geometry and differential equations, such as developing the Suvorov Circle and theorizing new methods of integrability and wavelet theory.
+keywords: georgii dmitrievich suvorov,suvorov
+description: Georgii Dmitrievic Suvorov was a Russian mathematician who made important contributions to function theory and topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georgii Dmitrievic Suvorov** was a Russian mathematician who made important contributions to function theory and topology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Suvorov Circle, a mathematical tool to solve plane geometry problems.
-2. Made contributions to the theory of n-dimensional rotational figures with regards to their moments and found several numerical identities in plane geometry.
-3. Theorized the geometric construction of partial differential equations, allowing for the construction of classes of problems with exact solutions.
-4. Proposed an analytic method for order and degree recognition of equation sets.
-5. Demonstrated that stability of motion of the three-body problem is impossible.
-6. Proposed concepts of integrability of linear differential equations.
-7. Discovered the method of separating multiple integrals and solving them by iterative technique.
-8. Conducted extensive research on wavelet theory and its applications to mathematical physics.
-9. Advanced the theory of wavelets, introducing new notions of adaptation and sparseness, as well as developing a new algorithm for wavelet decomposition.
-10. Developed the theory of difference equations, providing solutions for the problem of summation of logarithmic series.
+* After graduating, Suvorov served in the army and remained in active service until the end of the war in 1945.
+* After being demobilized, Suvorov tried to continue his career along the lines that he had been intending before the war interrupted his studies.
+* Suvorov completed work on his Master's Thesis (equivalent to a Ph.D.) in 1951 and, at that time was appointed as an assistant at Tomsk University.
+* At Tomsk, Suvorov was soon promoted from assistant to lecturer.
+* Suvorov made major contributions to the theory of functions.
+* Another area on which Suvorov worked was the theory of conformal mappings and quasi-formal mappings.
+* One of the many innovations in Suvorov's work was new methods which he introduced to help in the understanding of metric properties of mappings with bounded Dirichlet integral.
+* In connection with this, G D Suvorov posed the problem whether there exist conformal invariant compactifications of a simply connected plane domain (in the first instance, metrizable) different from the Carathéodory (and from the "trivial" one from the point of view of the known theory of the one-point and the Stone-Čech compactifications), and about the description of all such compactifications.
+* G D Suvorov and his students have constructed and studied two entirely new complete lattices of conformal-invariant compactifications.
+* Let us end this biography by looking briefly at some of the monographs that Suvorov wrote.
+* A collaboration between Suvorov and Oleg V Ivanov led to a number of joint papers which formed the basis for their joint monograph Complete lattices of conformally invariant compactifications of a domain (Russian).
+* Suvorov's final two monographs were published in 1985 and 1986 after his death in 1984.
 
 Born 19 May 1919, Saratov, Russia. Died 12 October 1984, Donetske, Ukraine.
 

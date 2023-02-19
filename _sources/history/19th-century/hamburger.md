@@ -7,10 +7,10 @@ orderid: 1889
 title: Hamburger, Hans Ludwig
 born: 1889
 died: 1956
-keywords: Hans Ludwig Hamburger, Algebraic Geometry, Hamburger Maximal Principle, University of Amsterdam, Hamburger Moment Problem, Functional Analysis, Hamburger Theorem
-description: Hans Ludwig Hamburger was a German mathematician, who co-authored books and developed principles that laid the foundation for modern algebraic geometry, functional analysis & more.
+keywords: hans hamburger,hamburger
+description: Hans Ludwig Hamburger was a German mathematician. He spent the Second World War in England and afterwards was a professor at universities in Berlin, Cologne and Ankara.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,39 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hans Ludwig Hamburger** was a German mathematician. He spent the Second World War in England and afterwards was a professor at universities in Berlin, Cologne and Ankara.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored the 1921 book, The Foundations of the Theory of Algebraic Equations, which introduced the idea of algebraic groups and helped to lay the groundwork for modern algebraic geometry.
-2. Developed the Hamburger Maximal Principle, which states that all functions that can be inferred from a relation form a maximal algebraic extension of the given relation.
-3. Founded the School of Mathematics at the University of Amsterdam in 1927, which was the first such school in Europe.
-4. Introduced the Hamburger Moment Problem, which deals with the problem of reconstructing a function from its moments.
-5. Co-authored the book Principles of Mathematical Analysis in 1932, which laid the foundations for functional analysis.
-6. Developed the Hamburger Theorem in 1938, which established a link between the solution of a polynomial equation and the intermediate value property of continuous functions.
+* Hans had a younger brother, Georg Hamburger, born in Berlin on 10 April 1891.
+* Both Karl and Margarethe Hamburger were Jewish but the two boys were both baptised into the Christian Protestant religion in 1896.
+* The Hamburger family were of high status and their home was a meeting place for many leading academics, scientists and writers.
+* This cultivated conviviality in which he was brought up did much to develop Hans' character and determine the style with which he led his life.
+* At these universities Hamburger attended lectures by world-class mathematicians.
+* It was at Munich that Hamburger undertook research for his doctorate, advised by Alfred Pringsheim.
+* Hamburger then went to Paris to continue his studies at the Collège de France with Jacques Hadamard.
+* At this stage Hamburger was a German national in France with the two countries at war.
+* Hamburger fought there with the German troops until December 1916 when, because of health problems, he was brought back to Germany to undertake work in aerodynamics.
+* Hamburger was delighted to be back in Berlin for he was then able to continue undertaking research at the Friedrich-Wilhelm University of Berlin.
+* Hamburger taught at the University of Berlin as a docent from 1919, being promoted to Extraordinary Professor on 1 July 1922.
+* At this time there was only one chair of mathematics at Cologne but a second chair was created by the Prussian Ministry of Science, Art and Education and it was to this second chair that Hamburger was appointed.
+* On 15 October 1925 Hamburger married Martha Jessen, known as Malla.
+* Hamburger came under this exemption clause and so remained in his position in 1933.
+* Hamburger continued in post at Cologne until 14 November 1935 when he was granted leave.
+* On 12 June 1937, Hamburger and his wife were divorced.
+* Not surprisingly, Hamburger published nothing during the six years he spent in Germany after the Nazis came to power.
+* The National Socialist Executive Chairman of the Board, Erwin Fassl, put many obstacles in Hamburger's way.
+* Hamburger shortly thereafter changed his request to emigrate to the Netherlands.
+* Fassl's objections did not prevent Hamburger being given permission to move to the Netherlands, initially for a period of two years but subject to being recalled at any time.
+* On 14 August 1939 Hamburger left Germany and, instead of going to the Netherlands, travelled directly to Britain.
+* In January 1940 the Ministry in Cologne asked the Cologne University Administration for Hamburger's address.
+* Hamburger's mother, in an attempt to have the payments continue, told the Ministry that Hamburger had been travelling in England at the time that war broke out and had been prevented from returning.
+* On arriving in England, Hamburger was supported by the "Society for the Protection of Science and Learning" and he took up residence in Croydon where he continued his mathematical research.
+* However, in 1940 Hamburger, as a German citizen, was placed in an internment camp.
+* Let us record what happened to other members of Hamburger's family.
+* Margarethe Hamburger, the mother of Hans and Georg, died in hospital in April 1941 after falling down stairs in Berlin.
+* We return to describe Hans Hamburger's life in England.
+* In Cambridge, Hamburger had great moral support from G H Hardy.
+* Hamburger was not only undertaking research in mathematics after he reached England but he was also writing the pamphlet How Nazi Germany has mobilised and controlled labour.
+* Mr Hamburger's pamphlet is well documented.
+* After serving as a Temporary Lecturer at University College Southampton in 1941-42, Hamburger had his contract extended on 15 June 1942 to cover the following academic year 1942-43.
+* Despite the University of Cologne being unhappy that Hamburger tried to keep the Cologne position open while continuing to work in Ankara, he did return to Cologne and take up his former chair on 1 June 1953.
 
 Born 5 August 1889, Berlin, Germany. Died 14 August 1956, Cologne, Germany.
 

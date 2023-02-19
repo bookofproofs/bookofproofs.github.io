@@ -7,10 +7,10 @@ orderid: 1944
 title: Kuperberg, Krystyna Maria Trybulec
 born: 1944
 died: 0
-keywords: Krystyna Kuperberg, dynamical systems, geometry, topology, knot theory, low-dimensional topology, Algebraic and Geometric Topology
-description: Krystyna Kuperberg is a highly decorated Polish mathematician working in America, recognized for her work in dynamical systems, geometry, topology, knot theory and low-dimensional topology.
+keywords: krystyna kuperberg,kuperberg
+description: Krystyna Kuperberg is a Polish mathematician who works in America. She is known for her work in dynamical systems, geometry and topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Krystyna Kuperberg** is a Polish mathematician who works in America. She is known for her work in dynamical systems, geometry and topology.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the 2014 Ruth Lyttle Satter Prize in Mathematics by the American Mathematical Society.
-2. The first woman to serve as chair of the Department of Mathematics at Auburn University.
-3. Recipient of the 2002 Philip J. Bray Award from the Mathematical Association of America.
-4. Authored approximately 50 papers on knot theory and low-dimensional topology.
-5. Received an honorary doctorate from the Universidad Nacional de Tucumn.
-6. Awarded distinction as a fellow of the American Mathematical Society in 2012.
-7. Published two books: “Knots and Links” and “Open Book Decompositions and Effective Computations in 3-Manifolds.”
-8. Senior editor of the journal Algebraic and Geometric Topology.
+* Krystyna was brought up in Tarnów until she was 15 years old, when the family moved to Gdańsk on the northern coast of Poland.
+* Krystyna decided in high school that she would study mathematics at university.
+* Borsuk's lectures held another special significance for Krystyna, since a fellow student at these lectures was Wlodzimierz Kuperberg, whom Krystyna married.
+* After graduating, Krystyna Kuperberg undertook research at the University of Warsaw under Borsuk's supervision and, in 1966, she was awarded her Master's degree.
+* Her husband went on to complete his Ph.D. in mathematics but Krystyna stopped her studies with the Master's Degree.
+* Her first child Greg Kuperberg was born in 1967.
+* Two years later, in 1969, the Kuperberg family left Poland and went to live in Sweden.
+* Krystyna's second child, Anna, was born in 1969 not long after the family moved to Sweden.
+* In 1972 the Kuperberg family moved again, this time to the United States and Krystyna took up officially the graduate work she had begun in Warsaw under Borsuk's supervision.
+* In 1971 Krystyna and Wlodzimierz published the joint paper On weakly zero-dimensional mappings.
+* In 1972, the year Krystyna register as a research student at Rice University in Houston, Texas, she published An isomorphism theorem of the Hurewicz-type in Borsuk's theory of shape in Fundamenta Mathematicae.
+* Also in 1974 both Krystyna and her husband Wlodzimierz Kuperberg were appointed to permanent positions on the Faculty at Auburn University in Auburn, Alabama.
+* Krystyna Kuperberg has remained at Auburn University since she was appointed in 1974.
+* In 1988 Kuperberg solved a problem relating to question of Knaster as to whether every homogeneous space is bihomogeneous.
+* It was this question to which Kuperberg found a counter-example, announcing it in A homogeneous nonbihomogeneous continuum in 1988, and giving full details in On the bihomogeneity problem of Knaster published in the Transactions of the American Mathematical Society.
+* Kuperberg's most celebrated result, however, was discovered in 1993 and published in 1994 in A smooth counterexample to the Seifert conjecture in the Annals of Mathematics.
+* Having written papers with her husband, Kuperberg went on to write papers with her son Greg who had also become a mathematician.
+* In 1996 they published Generalized counterexamples to the Seifert conjecture which improved on Kuperberg's results from two years earlier.
+* Kuperberg has already received several awards for her outstanding work and it is certain that she will receive further awards.
 
 Born 17 July 1944, Tarnów, Poland.
 

@@ -7,10 +7,10 @@ orderid: 1798
 title: Gudermann, Christoph
 born: 1798
 died: 1852
-keywords: Christoph Gudermannian, geometry, special functions, Weierstrass, circular functions, hyperbolic trigonometry, law of cosines, Gudermannian formula, Catalan's constant, Riemann zeta function
-description: Christoph Gudermann developed Gudermannian function, Gudermannian integral, Gudermannian geometry, Gudermannian formula, Gudermannian problem, and Catalan's constant, revolutionizing geometry and related fields.
+keywords: christoph gudermann,gudermann
+description: Christoph Gudermann worked on geometry and special functions. He taught Weierstrass.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Christoph Gudermann** worked on geometry and special functions. He taught Weierstrass.
 
 ### Mathematical Profile (Excerpt):
-1. Christoph Gudermann developed the Gudermannian function, which expresses trigonometric functions in terms of circular functions.
-2. He introduced the Gudermannian integral and its application to spherical trigonometry.
-3. He defined a type of hyperbolic trigonometry, now known as Gudermannian geometry.
-4. He formulated an early version of what is now known as the law of cosines.
-5. He developed a generalization of the trigonometric identities for double angles, now known as the Gudermannian formula.
-6. He introduced the concept of the "bottom of the chord," which helped to calculate the lengths of chords in circles.
-7. He developed the addition theorem for elliptic functions.
-8. He discovered the Catalan's constant, which is closely related to the Riemann zeta function.
-9. He created the Gudermannian function table, a logarithmic table of Gudermannian functions.
-10. He solved the trigonometric problem of the "two right-angled triangles" (known as the Gudermannian problem).
+* Christoph was academically able in his schooling so, as many able boys at this time did, it was intended that he should train to became a priest.
+* Gudermann then followed in his father's footsteps by becoming a school teacher.
+* Gudermann worked almost exclusively on spherical geometry and special functions but he is not remembered for any original mathematical results in these areas.
+* For this reason and because of its constant curvature there exist many similarities between spherical geometry and plane geometry; yet at the same time Gudermann considered more interesting the study of cases where the similarity no longer holds.
+* In his more extensive work on the theory of special functions Gudermann published several papers beginning in 1830 which extended work which was developed by Euler, Landen, Legendre, Abel and Jacobi.
+* Gudermann is best known, however, as the teacher of Weierstrass between 1839 and 1841 while Weierstrass worked for his secondary school teacher's certificate.
+* Gudermann, at this time, was particularly interested in the theory of elliptic functions and in the expansion of functions by power series.
+* Not only did Gudermann undertake research in the theory of elliptic functions but he was one of the first to teach the topic.
+* Weierstrass spent the academic year 1839-1840 taking Gudermann's course on elliptic functions.
 
 Born 25 March 1798, Vienenburg (near Hildesheim), Germany. Died 25 September 1852, Münster, Germany.
 

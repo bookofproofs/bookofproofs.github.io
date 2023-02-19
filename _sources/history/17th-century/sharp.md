@@ -7,10 +7,10 @@ orderid: 1653
 title: Sharp, Abraham
 born: 1653
 died: 1742
-keywords: Abraham Sharp, Mathematics, π, Logarithmic Tables, Calculus, Integration, Geometry
-description: Abraham Sharp was an English mathematician who famously calculated π to 72 places, developed improved Logarithmic Tables, pioneered Calculus & Integration, and created mathematical theorems for Geometry.
+keywords: abraham sharp,sharp
+description: Abraham Sharp was an English mathematician who worked with Flamsteed. He calculated π to 72 places.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abraham Sharp** was an English mathematician who worked with Flamsteed. He calculated `$\pi$` to 72 places.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an improved version of Logarithmic tables, which allowed for a faster computation of equations. 
-2. Researched and developed a novel way to calculate the circumference of the Earth by using trigonometric principles and triangulation methods. 
-3. Demonstrated the principles of Differential Calculus and paved the way for its later application by Isaac Newton and Gottfried Wilhelm Leibniz. 
-4. Demonstrated the concept of integration with regards to telescopic sights and demonstrated its practical uses in warfare. 
-5. Published the first English text book on practical mathematics, a manual of calculation titled "The Doctrine of Interest, Discount, Annuities, &c" 
-6. Developed a series of mathematical proofs on the geometry of spheres, disputes Euclid’s Fifth Common Notion and created a new theorem for solving problems of solid quadrilateral geometry.
+* However, there is good reason from Sharp's own writing to believe that this inscription is wrong and the he was indeed born shortly before he was baptised.
+* His parents were John Sharp of Little Horton, and his wife, Mary Clarkson of Bradford.
+* John Sharp was quite well off.
+* Abraham was his parents sixth son and ninth child so he was brought up in a very large family.
+* Being fairly wealthy, his parents were able to give Abraham, and all their other sons, a good education.
+* The first formal education which Abraham received was in the village school in Little Horton, then he attended Bradford grammar school.
+* His father died in 1672 and Sharp received a small legacy.
+* We know nothing further of Sharp until 1684 by which time he was living in London and using the Hen and Chickens coffee house in the Strand as a mailing address.
+* From November 1690 Sharp taught mathematics as the resident mathematician of William Court at the Mariner and Anchor on Little Tower Hill in London.
+* Sharp remained unmarried and he led a fairly unstructured life often forgetting to take his meals.
+* After 1702 Sharp corresponded with Flamsteed and almost all of the correspondence has survived.
+* Subjects discussed by Sharp in his letters include mathematical and astronomical books, astronomical calculations, the aurora borealis, other observations, instruments, and the printing of Flamsteed's works.
+* Sharp claimed that his paper had been read by Halley who then used his methods and claimed them as his own.
+* In 1717 Sharp published Geometry Improved.
+* Sharp's papers were lost in a fire so unfortunately further details of his mathematical work will never be known.
+* Sharp would have liked to have trained someone to use the collection of instruments which he had built up.
+* In Bradford Cathedral there is a tablet commemorating Sharp.
 
 Born 1653, Little Horton, near Bradford, Yorkshire, England. Died 18 July 1742, Little Horton, near Bradford, Yorkshire, England.
 

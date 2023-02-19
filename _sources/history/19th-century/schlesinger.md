@@ -7,10 +7,10 @@ orderid: 1864
 title: Schlesinger, Ludwig
 born: 1864
 died: 1933
-keywords: Mathematics, Differential Equations, Four Color Theorem, Polyhedra, Continued Fractions, Herglotz-Schlesinger functions, Algebraic Theory of Squares
-description: Ludwig Schlesinger, born in Slovakia, was a mathematician who contributed to algebra, differential equations, geometry, number theory, and complex analysis; his works included the Four Color Theorem and the books Algebraic Aspects of the Theory of Quadratic Forms and Algebraic Theory of Squares.
+keywords: ludwig schlesinger,schlesinger
+description: Ludwig Schlesinger was a mathematician, born in what is now Slovakia, who worked on differential equations.
 references: bookofproofs$6909
-contributors: @Gabor-Dezso-Babeș,@Cluj-Kolozsvar,bookofproofs,@ChatGPT
+contributors: @Gabor-Dezso-Babeș,@Cluj-Kolozsvar,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @Gabor-Dezso-Babeș,@Cluj-Kolozsvar,bookofproofs,@ChatGPT
 **Ludwig Schlesinger** was a mathematician, born in what is now Slovakia, who worked on differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Helped to prove the Four Color Theorem, a key result in graph theory.
-2. Authored the paper "A Polyhedric Function" which dealt with the mathematical concepts of polyhedra.
-3. Developed Schlesinger's criterion for the periodicity of a continued fraction.
-4. Published the book Algebraic Aspects of the Theory of Quadratic Forms, which was highly influential in establishing fields in algebra, geometry and number theory.
-5. Discovered the theory of Herglotz-Schlesinger functions, which are analytic functions with certain properties related to the class of automorphic forms.
-6. Contributed to topics in algebra, number theory, geometry, and complex analysis.
-7. Established a new variant of lattice theory and the computation of higher-dimensional results.
-8. Authored the book Algebraic Theory of Squares, which examines the representation of squares in algebraic fields.
+* In 1889 Schlesinger became an associate professor at the University of Berlin; in 1897, invited professor at the University of Bonn, and in the same year he was appointed professor of mathematics at the University of Kolozsvár, Hungary (now Cluj, Romania).
+* In 1902 Schlesinger was elected as a corresponding member of the Hungarian Academy of Sciences, and in 1909 he was honoured with the award of the Lobachevsky Prize.
+* Ludwig Schlesinger wrote many papers for scientific periodicals and journals.
+* In this paper Schlesinger formulated the problem of isomonodromy deformations for a certain matrix Fuchsian equation.
+* Schlesinger solved a particular case of the problem using Poincaré's theory of the Fuchsian zeta-functions.
+* The paper introduces what today are known as the Schlesinger transformations and Schlesinger equations which have an important role in differential geometry.
+* Schlesinger is the author of Handbuch der Theorie der Linearen Differentialgleichungen Ⓣ(Handbook of the theory of linear differential equations) (B G Teubner, Leipzig; Vol 1, 1895; Vol 2 Part 1, 1897; Vol.
+* In 1926 Schlesinger published a book on Lebesgue integration and Fourier series in collaboration with Abraham Plessner.
+* Another of Schlesinger's interests was the history of mathematics and he made a number of important contributions to this topic.
+* After reading Zoárd Geöcze's papers during his stay at the University of Kolozsvár, Ludwig Schlesinger suggested to him that he write down his ideas and submit them to Comptes Rendus for publication.
+* Ludovicus Schlesinger].
+* During his stay in Kolozsvár (Cluj), Schlesinger contributed significantly to the advancement of mathematics in the city.
 
 Born 1 November 1864, Nagyszombat, Hungary (now Trnava, Slovakia). Died 16 December 1933, Giessen, Germany.
 

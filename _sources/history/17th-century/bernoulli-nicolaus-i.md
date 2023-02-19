@@ -7,10 +7,10 @@ orderid: 1687
 title: Bernoulli (3), Nicolaus
 born: 1687
 died: 1759
-keywords: Nicolaus Bernoulli, Law of Large Numbers, Probability, Statistics, Calculus, Conditional Probability, Electric Fluid Dynamics
-description: Nicolaus Bernoulli, a famous Swiss mathematician, developed the Law of Large Numbers, pioneered fields of probability and statistic, and made contributions to calculus, conditional probability, electric fluid dynamics and more.
+keywords: nicolaus (i) bernoulli,bernoulli
+description: Nicolaus Bernoulli was one of the famous Swiss family of mathematicians. He is most important for his correspondence with other mathematicians including Euler and Leibniz.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nicolaus Bernoulli** was one of the famous Swiss family of mathematicians. He is most important for his correspondence with other mathematicians including Euler and Leibniz.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the law of large numbers and pioneered the fields of probability and statistics.
-2. Introduced the Bernoulli numbers, as well as Bernoulli polynomials and Bernoulli's Principle.
-3. He and his brother Jakob were the first to systematize the study of calculus.
-4. Introduced the principle of conditional probability and the binomial distribution.
-5. Made significant contributions to the theories of calculus of variation and electric fluid dynamics.
-6. Authored the treatise Ars conjectandi, which contained questions regarding the law of large numbers and developed the first version of the law of probability.
-7. He was the first to fully develop and extend the theorem of limits of vanishing increments and of the quadrature of curves with regard to integration.
-8. Was an early developer of the calculus of probability.
-9. Made contributions to the field of analytic geometry.
-10. Was an early developer of the fundamental theorem of calculus.
+* In fact it was Jacob Bernoulli who supervised Nicolaus's Master's degree at the University of Basel which he was awarded in 1704.
+* In 1712 Nicolaus Bernoulli toured Europe visiting Holland, England and France.
+* Nicolaus Bernoulli was appointed to Galileo's chair at Padua in 1716 which Hermann had filled immediately prior to Nicolaus's appointment.
+* From Montmort's work we can see that Nicolaus formulated certain problems in the theory of probability, in particular the problem which today is known as the St Petersburg problem.
+* Nicolaus also corresponded with Leibniz during the years 1712 to 1716.
+* Nicolaus also corresponded with Euler.
+* Nicolaus Bernoulli assisted in the publication of Jacob Bernoulli's Ars conjectandi Ⓣ(The art of conjecturing).
+* Later Nicolaus edited Jacob Bernoulli's complete works and supplemented it with results taken from Jacob's diary.
+* As might be expected Nicolaus supported Leibniz but he did produce some good arguments in his favour such as observing that Newton failed to understand higher derivatives properly which had led him into errors in the problem of inverse central force in a resisting medium.
+* Nicolaus (I) Bernoulli received many honours for his work.
 
 Born 21 October 1687, Basel, Switzerland. Died 29 November 1759, Basel, Switzerland.
 

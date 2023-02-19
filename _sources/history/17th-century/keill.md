@@ -7,10 +7,10 @@ orderid: 1671
 title: Keill, John
 born: 1671
 died: 1721
-keywords: John Keill, Newtonian philosophy, calculus, Arithmetic of Infinitesimals, New Principles of Astronomy, Keill's theorem, optical illusions & refraction
-description: John Keill: Scottish mathematician promoting Newton's ideas, published landmark works incl. Arithmetic of Infinitesimals & New Principles of Astronomy, contributed to maths & optics incl. calculus, Keill's theorem & optical illusions.
+keywords: john keill,keill
+description: John Keill was a Scottish mathematician who acted as a propagator of Newton's philosophy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Keill** was a Scottish mathematician who acted as a propagator of Newton's philosophy.
 
 ### Mathematical Profile (Excerpt):
-1. Became a fellow of the Royal Society in 1708 for his work on the theory of production of infinitesimal arcs. 
-2. Developed a calculus of arcs, which is an improvement on the sources of calculus of Newton and Leibniz. 
-3. Published a series of treatises, including the Arithmetic of Infinitesimals which is known as the first textbook on the derivative and integral calculus. 
-4. Published 'New Principles of Astronomy' , a book which incorporated Newtonian dynamics, universal gravitation and geometrical principles. 
-5. Established Keill's theorem, which is used to calculate the centre of a planet's orbit and its velocity of revolution. 
-6. Discovered the properties of the tautochrone curve, which is the path along which a simple pendulum clock would keep accurate time. 
-7. Pioneered the study of optical illusions and made the first experimental measurements of the phenomenon. 
-8. Proposed laws that form the basis of the modern mathematical treatment of the refraction of light.
+* John's father was Robert Keill who was an Edinburgh lawyer.
+* James Keill who became a physicist, was John's younger brother born two years later.
+* John attended school in Edinburgh, then studied at Edinburgh University under David Gregory obtaining his degree in 1692 with distinction in both mathematics and physics.
+* Keill went to Oxford with David Gregory in 1692 and, after obtaining a scholarship to finance his studies, studied at Balliol College.
+* Keill was appointed deputy to the Sedleian professor of natural philosophy in 1699, a post he held until 1704.
+* Keill was elected a Fellow of the Royal Society in 1701 and remained at Balliol College until his scholarship ran out in 1703 when he transferred to Christ Church.
+* Many wished to settle in North America and Keill accompanied a party who sailed to New England.
+* In the following year the Savilian Professorship of Astronomy in Oxford became vacant again and this time Keill was appointed taking up the post in 1712.
+* Keill acted as a propagator of Newton's philosophy and argued against Whiston and others.
+* This did not provoke any reaction from Newton until 1711 when Keill suggested that this could be interpreted as suggesting that Newton's fluxions were a moving version of Leibniz's differentials.
+* Keill responded by accusing Leibniz of plagiarizing Newton in the Philosophical Transactions of the Royal Society and Leibniz wrote to the Royal Society asking that he withdraw his accusation.
+* Keill maintained his position and Leibniz wrote to Newton asking him to tell Keill to withdraw his accusations.
+* Keill did write a reply in the Journal Litéraire which he intended as a defence of national honour.
+* Although Keill and Newton seemed very friendly at this time it appeared that Newton grew tired of Keill's stirring up trouble.
+* Newton made it up with Johann Bernoulli although Keill never did.
+* In 1717 Keill married Mary Clements.
+* Perhaps the attraction for Keill was the fact that she was twenty-five years younger.
+* Keill's work Euclides elementorum libri priores sex Ⓣ(The first six books of Euclid's 'Elements') published in 1715 studies trigonometry and logarithms.
+* Two years before he died, Keill was left a fortune on the death of his brother James.
 
 Born 1 December 1671, Edinburgh, Scotland. Died 31 August 1721, Oxford, England.
 

@@ -7,10 +7,10 @@ orderid: 1799
 title: Gräffe, Karl
 born: 1799
 died: 1873
-keywords: Karl Gräffe, numerical solution, algebraic equations, field theory, groups, lattices, Galois theory
-description: Karl Gräffe was a German mathematician famous for pioneering abstract algebra, field theory and the numerical solution of algebraic equations.
+keywords: karl gräffe,gräffe
+description: Karl Gräffe was a German mathematician best remembered for his method of numerical solution of algebraic equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karl Gräffe** was a German mathematician best remembered for his method of numerical solution of algebraic equations.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the development of abstract algebraic concepts such as groups and lattices.
-2. Developed the theory of field theory and its applications to number theory.
-3. Discovered the structure of finite groups and studied the representation of abstract groups.
-4. Proved theorems in the fields of Galois theory and the transformation theory of linear differential equations.
-5. Developed the theory of quadratic forms and the theory of abstract lattices.
-6. Established the concept of the extended field and established the structure of linear extensions of fields.
-7. Proved the Gräffe-Dedekind theorem and the Gräffe Embedding theorem.
-8. Authored several influential mathematical textbooks and journal articles on algebra, group theory, and related topics.
+* His parents were of modest means, and could not provide much of an education for their son, but they was always intended that Karl would follow in his father's footsteps and become a jeweller.
+* However, at this point his father made a decision which meant that Karl's bid for education became much more difficult.
+* Dietrich Gräffe emigrated to America, leaving Karl to run the family jewellery business.
+* Karl was left with no choice since he had to bring in money to feed the impoverished family consisting of his mother and siblings.
+* Spehr, who was the same age as Gräffe and was also born in Brunswick, had suffered similar problems in having a father who was determined that his son should follow a trade rather than obtain an education.
+* Not only did Spehr's mathematical achievements give great encouragement to Gräffe but Spehr was also able to tutor his friend while he studied in the evenings.
+* After a lot of hard work, Gräffe managed to pass the entrance examinations of the Collegium Carolineum.
+* In 1824 Gräffe went to Göttingen where, like his friend Friedrich Wilhelm Spehr, he attended lectures by C F Gauss and Bernhard Thibaut.
+* While in Göttingen, Gräffe wrote a prize winning dissertation Die Geschichte der Variationsrechnung vom Ursprung der Differential und Integralrechnung bis auf die heutige Zeit zu schreiben Ⓣ(The history of the calculus of variations from the origin of differential and integral calculus to the present time)  which he submitted to the Faculty of Philosophy on 4 June 1825.
+* Gräffe taught at the University of Zürich as a privatdozent from 1833, becoming an extraordinary professor at the university in 1860.
+* Gräffe is best remembered for his "root-squaring" method of numerical solution of algebraic equations, developed to answer a prize question posed by the Berlin Academy of Sciences.
+* In the computation of the new coefficients, Gräffe uses logarithms.
+* Things did not go well for Gräffe, however, with his submission for the prize.
+* The astronomer Johann Franz Encke was the secretary of the Berlin Academy of Science, and he tried to arrange a special route through which Gräffe could submit his work.
+* Gräffe improved his method and, following Encke's advice, submitted it anonymously.
+* justifying Gräffe's principle and perfecting his method for finding the imaginary roots of an equation.
+* This should have been the perfect way to enable Gräffe to make a prize-winning submission but, sadly, his health did not allow him to put in the necessary hard work and he chose not to attempt a submission for the 1839 prize.
+* Several others then had the chance to take what Gräffe had presented and perfect it further.
+* As presented by Gräffe, the method is only applicable to the case where all the roots of the original equation are distinct but later improvements did away with this condition.
+* This method is today called the Dandelin-Gräffe method after the two mathematicians who independently investigated it.
+* Germinal Dandelin, in fact, gave a similar method in 1826, eleven years before Gräffe, but it is quite clear that Gräffe's work was done independently.
+* It is quite hard to see the benefits of Gräffe's approach over that of Dandelin but, it is clear that the "root-squaring" method is the primary objective of Gräffe's paper while it is rather more of an afterthought in Dandelin's work where his primary objective is to present Newton's method for approximating roots, and presents the root squaring as an add-on to speed the method up.
+* This means that his book appeared between the publication of the works of Dandelin and Gräffe on the topic.
+* The fact that he lost out because of errors in the way he submitted his solution for the prize was a major disappointment to Gräffe.
+* In 1836 the University of Zürich appointed a professor of mathematics but the chair had not been given to Gräffe but rather to Anton Müller, a somewhat undistinguished mathematician.
+* Not only was Gräffe passed over, but so was his fellow docent, the talented Joseph Raabe.
+* In the autumn of 1868 Gräffe retired from teaching at the Industrieschule and lived out the final years of his life alone; these years were often clouded by physical suffering.
 
 Born 7 November 1799, Brunswick, Germany. Died 2 December 1873, Zürich, Switzerland.
 

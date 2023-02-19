@@ -7,10 +7,10 @@ orderid: 1860
 title: Pullar, John Robertson
 born: 1860
 died: 1940
-keywords: Linear Systems, Numerical Methods, ICP Algorithm, Interpolation, Spline Theory, Integral Equations, Boundary Value Problems
-description: John Pullar developed numerical methods, such as the Pullar inverse matrix theorem, ICP algorithm, and more, to solve linear systems and various equations.
+keywords: john pullar,pullar
+description: John Pullar graduated from St Andrews and taught at Madras College St Andrews, at Hamilton Academy and at Montrose Academy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Pullar** graduated from St Andrews and taught at Madras College St Andrews, at Hamilton Academy and at Montrose Academy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Pullar inverse matrix theorem for solving finite-dimensional linear systems.
-2. Authored several papers on numerical methods for solving equations.
-3. Established a set of measures for the comparison and analysis of numerical algorithms.
-4. Developed the ICP algorithm for the numerical solution of Hankel equations.
-5. Published many seminal works on interpolation and spline theory.
-6. Invented the Pullar-Landau method for numerical solution of integral equations.
-7. Developed the dual purpose finite basis function for the numerical solution of boundary value problems.
-8. Constructed an accurate numerical scheme for solving differential equations numerically.
-9. Demonstrated the importance of eigenvalue accuracy in numerical solutions.
-10. Discovered varied models based on numerical linear algebra.
+* His father, James Pullar, was a farmer who worked in Caputh.
+* John had one brother Charles, born in February 1854, and one sister Margaret Ann, born on 3 January 1858.
+* John Pullar's secondary education was at Madras College, St Andrews.
+* The school had grown rapidly after its foundation and when Pullar attended the number of pupils there was many times the number of students at the University in St Andrews.
+* After completing his secondary education at Madras College, Pullar first matriculated at the University of St Andrews in October 1878, becoming a Pyper bursar.
+* In 1879-80, his second year of study, Pullar took the courses Logic, Greek 2, and Latin 2.
+* After graduating, Pullar was an Assistant Mathematics teacher at Madras College before moving to the west of Scotland where he was appointed to Hamilton Academy, again as a mathematics teacher.
+* Pullar joined the Edinburgh Mathematical Society in June 1898 when he was at the Academy in Montrose.
+* Pullar married Mary Scrimgeour who came from Surrey in England.
+* They had a son David Scrimgeour Pullar who was born on 13 November 1888 when Pullar was teaching in the west of Scotland.
+* Mary Pullar died in Edinburgh in 1940, and David Pullar, who was a mining engineer, also died in Edinburgh on 10 November 1967.
+* David Pullar was unmarried and left his home at 1 Ravelston Terrace, Edinburgh, to the Rev.
 
 Born 22 August 1860, Caputh, Perthshire, Scotland. Died 31 August 1940, Morningside, Edinburgh, Scotland.
 

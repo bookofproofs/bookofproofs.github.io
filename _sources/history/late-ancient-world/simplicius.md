@@ -7,10 +7,10 @@ orderid: 490
 title: Simplicius
 born: 490
 died: 560
-keywords: Simplicius, Greek, Euclid, Aristotle, triangle, circle, refraction
-description: Simplicius, a Greek mathematician, proved triangles have 180º angles, found the formula for calculating circle circumferences, discovered mean speed theorem and established the law of refraction.
+keywords: simplicius,simplicius
+description: Simplicius was a Greek mathematician who wrote commetaries on the works of other philosophers and mathematicians including Euclid and Aristotle.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Simplicius** was a Greek mathematician who wrote commetaries on the works of other philosophers and mathematicians including Euclid and Aristotle.
 
 ### Mathematical Profile (Excerpt):
-1. Proved that the angles of a triangle sum to 180 degrees.
-2. Developed a formula for finding the circumference of a circle. 
-3. Discovered the mean speed theorem, which states that the time taken for a body to move from one point to another is equal to the ratio of the distance travelled to the mean speed.
-4. Established the law of refraction, which explains the bending of light when it passes from one medium to another. 
-5. Demonstrated that the area of a triangle is half of that of a circle with the same base and height. 
-6. Developed the height-angle theorem, which states that any two angles of a triangle are together less than the third angle. 
-7. Formulated the method of exhaustion, which allowed for the calculation of the area of two-dimensional shapes by breaking them into smaller shapes.
+* Ammonius's main work throughout his life was writing critical works on Aristotle and this clearly influenced Simplicius who was himself to write extensive commentaries on Aristotle.
+* After studying under Ammonius in Alexandria, Simplicius went to Athens where he studied with the Neoplatonist philosopher Damascius.
+* Again Simplicius was exposed to similar views to those he had learnt in Alexandria and his philosophy was built up in a consistent way.
+* It was therefore natural that Damascius, Simplicius and five other members of the Academy, when forced out of Athens, went to Persia to serve at the court of the Persian king Khosrow I.
+* Khosrow was a great patron of culture and Simplicius was well received by the ruler.
+* However, Khosrow and Justinian signed the Treaty of Eternal Peace which was ratified in 532 which led to Simplicius being able to return to Athens.
+* It is not entirely clear what the terms of the treaty were in regard to Simplicius and the other philosophers who had gone to Persia.
+* There is some evidence that Simplicius did remain in Athens for the rest of his days, writing and undertaking research but certainly not being allowed to lecture.
+* Of the writings of Simplicius that have survived, it is thought that the earliest is his commentary on Epictetus's Enchiridion which some historians believe was written by Simplicius while he was still in Alexandria.
+* This is followed by Simplicius's commentary on Aristotle's Physics and both these works are particularly important for the history of mathematics.
+* In the commentary on De Caelo Simplicius gives a detailed account of the concentric spheres of Eudoxus and he also relates the modifications to the theory made later by Callippus.
+* Simplicius is quoting from Eudemus's History of Astronomy in giving these details, but he does not quote directly from that work, rather quoting from Sosigenes (who wrote in the second century AD) who in turn quotes from Eudemus.
+* In his commentary on Aristotle's Physics Simplicius quotes at length from Eudemus's History of Geometry which is now lost.
+* In particular Simplicius quotes the writing on Eudemus on Antiphon's attempts to square the circle and also the attempts of Hippocrates when he squared certain lunes.
+* Also in this commentary on Aristotle's Physics Simplicius gives important quotations from Geminus's summary of Posidonius's Meteorologica.
+* Simplicius wrote a commentary on Euclid's Elements which survives in an Arabic translation.
 
 Born about 490, Cilicia, Anatolia (now Turkey). Died about 560, probably Athens, Greece.
 

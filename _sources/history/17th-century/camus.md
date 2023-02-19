@@ -7,10 +7,10 @@ orderid: 1699
 title: Camus, Charles Étienne Louis
 born: 1699
 died: 1768
-keywords: Charles-Étienne Camus, mathematics, mechanics, cartography, countable continuity, functions, topological mapping
-description: Charles-Étienne Camus was a French mathematician who developed the concept of countable continuity of functions and the mathematical theory of polygons and polyhedra, as well as the first definition of convex functions. He also formulated the principle of least action and least curvature.
+keywords: charles-étienne camus,camus
+description: Charles-Étienne Camus was a French mathematician who worked on mechanics and cartography and published an important texbook: Cours de mathématiques.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles-Étienne Camus** was a French mathematician who worked on mechanics and cartography and published an important texbook: _Cours de mathématiques_.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the new concept of a "countable continuity" of functions, a fundamental part of topological mapping theory.
-2. Contributed significantly to the theory of curves, with particular interest in central projections and the theory of linear evolutes.
-3. Developed the mathematical theory of polygons and polyhedra which helped to explain the structure of molecular bonding.
-4. Was the first to define the concept of a convex function, an important tool in modern economics.
-5. Developed the theory of analytic functions and formulated the principle of least action which anticipated the concept of calculus of variations.
-6. Formulated a more general version of the principle of least action, known as the principle of least curvature, which has had immense impact in mathematics and physics.
+* Charles-Étienne showed a great talent for mathematics and he also showed a considerable mechanical skill.
+* After his studies at the Collège de Navarre, Camus continued to work on advanced topics in mathematics aided by Varignon.
+* Both Camus and Bouguer entered memoirs for the competition which were deemed worth of winning the prize and both the prize money and the award was split between the two.
+* Camus not only won a share of the prize, but he also became known to the Académie as a talented mathematician.
+* It was the beginning of a long association of Camus with the Académie des Sciences for he served the academy as an administrator for forty years and also took an active scientific role in many of the academy's projects.
+* Camus went with Maupertuis, Clairaut and Lemonnier to Lapland in 1736 on an expedition to determine the shape of the Earth.
+* Camus, Maupertuis, Clairaut and Lemonnier, after their joint work on the Lapland expedition, also worked on measuring the length of the arc of the meridian and examining Jean Picard's work.
+* With Bouguer, Pingré and Cassini de Thury, Camus was involved in another Académie des Sciences project relating to further work on the measurement of the earth.
+* Camus was involved with cartography helping to produce, again with Bouguer, Pingré and Cassini de Thury, the Carte de la France which the Académie des Sciences published between 1744 and 1787.
+* Many of Camus's publications appeared in the Mémoires de l'Académie royale des Sciences and they are both on mathematics and mechanics.
+* The Académie des Sciences was not the only academy which Camus was elected to, and which he served in an administrative capacity.
+* Camus wrote a Cours de mathématiques Ⓣ(A course of mathematics) for his teaching of the trainee architects.
+* Between 1749 and 1751 Camus published the first three parts of his Cours, but despite the fact that he lived for a further seventeen years after this, the fourth part was never published.
+* After Camus's death a work on hydraulics was found among his papers and it is believed that this was intended to be the final part of the Cours.
+* Perhaps the reason that Camus never published the final part of his Cours was his appointment in 1755 as examiner for artillery schools.
+* As examiner, Camus was able to base his examinations on the three parts of his Cours which were in print and this had, as one might expect, the result that his books sold widely and in great numbers.
+* due more to Camus's monopoly on examinations than to its intrinsic merit.
+* In fairness to Camus, he had never written the Cours for artillery students so one should not hold this against him scientifically but, of course, one can criticise him for using his position as examiner to force his own inappropriate Cours on artillery students.
 
 Born 25 August 1699, Crécy-en-Brie (near Paris), France. Died 4 May 1768, Paris, France.
 

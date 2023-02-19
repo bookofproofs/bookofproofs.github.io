@@ -7,10 +7,10 @@ orderid: 1792
 title: Ohm (2), Martin
 born: 1792
 died: 1872
-keywords: Martin Ohm, German, Mathematics, Arithmetic, Algebra, Geometry, Trigonometry, Ohm's Law
-description: Martin Ohm, a German mathematician, created a unified approach to teaching math and founded Ohm's Law, the relationship between conductance and potential difference.
+keywords: martin ohm,ohm
+description: Martin Ohm wa a German mathematician who attempted to put mathematics on to a rigorous basis. He was the brother of the better known Georg Ohm.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Martin Ohm** wa a German mathematician who attempted to put mathematics on to a rigorous basis. He was the brother of the better known Georg Ohm.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a unified approach to teaching algebra, geometry, and trigonometry based on the concept of arithmetical operations.
-2. Published "The Elements of Algebra" in 1826, which became the basis for teaching mathematics in many schools across Germany.
-3. Established an influential figure for teaching mathematics education at the University of Göttingen.
-4. Authored several books aimed at students learning mathematics, including "Der Mathematische Unterricht" (1833) and "Grundriss der Elementarabschnitte der Mathematik" (1832).
-5. Developed Ohm's Law, which states that the current (I) passing through a conductor is proportional to the potential difference (V) applied across its ends.
-6. Discovered the mathematical relationship between the conductance of a circuit, the potential difference applied to it, and the current that flows through it.
+* The Ohm family were, by tradition, a family of locksmiths.
+* Johann Wolfgang's father, Johann Vincentius Ohm was a locksmith who married Anna Fuchs in Cadolzburg, Bavaria, before moving to Erlangen in 1764.
+* Their eldest child was Georg Simon Ohm, who has a biography in this archive and is well-known through the electrical unit named after him.
+* When Martin was eight years old, in the late summer of 1799, his mother died and Martin, as well as his brother Georg Simon and sister Elisabeth Barbara (born 1794), were brought up by their father.
+* The mathematical ability of Martin (and his brother Georg) was recognized at an early age by Karl Christian von Langsdorff, the professor of mathematics at Erlangen, who gave him advice and encouragement.
+* Von Langsdorff told people that the Ohm brothers were a latter-day version of the Bernoulli brothers and they became known locally as budding geniuses.
+* Martin attended the Gymnasium attached to the Friedrich-Alexander University of Erlangen and he entered the university to study mathematics.
+* Ohm was to spend the whole of his career from 1821 onwards in Berlin; first he was appointed as a privatdozent at the Friedrich Wilhelm University of Berlin (founded in 1809 and renamed the Humbolt University of Berlin in 1949), promoted to extraordinary professor in 1824 and finally to full professor in 1839.
+* After settling in Berlin, Ohm married Sophie von Alten (1786-1852); they had a daughter Elisa Ohm who was born in Berlin in 1826.
+* It is quite difficult to assess the importance of Ohm's mathematical contributions.
+* At Crelle's house, there used to be a meeting of mathematicians, but he had to suspend it because of a certain Martin Ohm with whom nobody could get along due to his terrible arrogance.
+* There were basically two sides to Ohm's contributions.
+* Martin Ohm made a distinction between writing for mathematicians and writing for students, a distinction that many of his contemporaries, including Hermann Grassmann, did not consider appropriate.
+* In 1822 Ohm published the first two of nine volumes of Versuch eines vollkommen consequenten Systems der Mathematik Ⓣ(Attempt at a completely consequential system of mathematics).
+* Moreover, Ohm has a completely formalist conception which contributed a good deal to misunderstandings with research mathematicians of his time.
+* Ohm found that a systematic exposition of mathematics was necessary to solve the difficulties that the teaching of mathematics met in early 19th  century Germany.
+* Ohm believed that having put mathematics on a firm basis with his books, what was then necessary was to teach the teachers.
+* One member of the Academy declared that if any teacher considered he did not receive proper training then he could always be sent to Ohm in Berlin.
+* Ohm's contemporaries all accepted that he was a highly successful teacher but they were starkly divided as to whether this was because of the quality and approach of his books or whether he was such an inspiring teacher that he was successful despite what he put forward in his books.
+* Let us note that Ohm tried to put mathematics on a sound basis with a highly abstract approach in the same spirit as Bourbaki did many years later.
+* The "new maths" which became such a popular approach to teaching in the 1980s also developed along lines not dissimilar to those Ohm wanted to follow.
+* What is perhaps surprising is that Martin Ohm has received little recognition for his innovative ideas but perhaps this is because Ohm was unknown to Bourbaki and those who supported the "new maths".
+* Other books by Martin Ohm have had an impact, as least for a short while.
+* Ohm gives frequent references to Dirksen, and corrects some of his errors.
+* Ohm's book is very correctly printed, but from the highly condensed notation which he adopts, and from the want of illustrative problems, it is rather a difficult work for a student.
+* Ohm's view of a variation is similar to that of Euler and Lagrange.
+* Ohm endeavours to present this part of the subject under a novel aspect, but it does not appear that there is any real extension or improvement of the common methods.
+* We have already mentioned that Ohm was a fine teacher and a number of doctoral students at the University of Berlin benefited from this.
+* In particular we mention three mathematicians who have a biography in this archive who received advice from Ohm while undertaking research; Paul Bachmann, Eduard Heine and Rudolf Lipschitz.
+* In 1858 Ohm, together with Kummer, examined Lazarus Fuchs's doctoral dissertation.
+* By 1864 Ohm was one of only two full professors of mathematics at the University of Berlin (the other being Kummer).
+* This presented the university with problems since only full professors could act as examiners of theses yet by this time Ohm was almost blind and could not read a thesis.
+* Finally we note that from 1849 to 1852 Ohm was a member of the Prussian House of Representatives and that Ohmstrasse in Berlin-Mitte is named after Martin Ohm rather than after his now more famous brother.
+* Few persons have indeed pursued the study of Mathematical Analysis with the same anxiety and power to improve the foundations upon which it rests, as Professor Ohm.
 
 Born 6 May 1792, Erlangen, Bavaria (now Germany). Died 1 April 1872, Berlin, Prussia, German Empire.
 

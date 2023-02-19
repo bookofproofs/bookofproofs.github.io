@@ -7,10 +7,10 @@ orderid: 1851
 title: Taylor (3), James
 born: 1851
 died: 1910
-keywords: James Taylor, Taylor Expansion, Taylor's Theorem, Mathematics, Mathematical Analysis, Geometry, Algebra
-description: James Taylor, a Scottish mathematics teacher and scholar, developed the Taylor Expansion technique, Taylor's Theorem and Taylor's Method of Approximations, made contributions to geometry and algebra and published numerous papers on mathematics and its applications.
+keywords: james taylor,taylor
+description: James Taylor was a Scottish mathematics teacher who taught at Dollar Academy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Taylor** was a Scottish mathematics teacher who taught at Dollar Academy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Taylor Expansion technique, which is a powerful mathematical tool used to approximate a function with a series.
-2. Developed the Taylor's Theorem, which generalizes the techniques of calculus, providing and alternative way to define derivatives.
-3. Wrote several influential books on mathematics and mathematical analysis.
-4. Made great contributions to the fields of geometry and algebra. 
-5. Developed the Taylor's Method of Approximations, which was a crucial step in the development of differential equations.
-6. Published several important papers on the applications of mathematics.
-7. Developed the Taylor's theorem for several variables.
-8. Discovered the concept of expansions by integration.
+* His father was Robert Taylor.
+* After graduating, Taylor was appointed Mathematics Master at New College, Southsea, Portsmouth.
+* James Taylor married Isabella M Ogilvie (born in Fochabers, Morayshire about 1859).
+* They had several children: William J Taylor, Margaret E Taylor, Robert C Taylor, George C Taylor.
+* In addition to his role as a teacher of mathematics, Taylor took in boys as boarders.
+* When Mr Taylor took pen in hand, he showed that he possessed the gift of lucid expression, as is illustrated in the series of articles on "The Transit of Venus" in 1882, which he contributed to The Dollar Magazine of that year.
+* The Edinburgh Mathematical Society was founded in February 1883 and Taylor was present at the first meeting, becoming a founder member.
+* Somewhat confusingly another James Taylor, who was a Mathematical Master at  Edinburgh Academy, joined the Society in November 1886 so for around 12 years the Society had the rather confusing situation of having two members with precisely the same name (neither appears to have had a middle name).
+* Taylor died on Monday 29 January 1910 at Institution Place, Dollar.
 
 Born 19 June 1851, Keith, Scotland. Died 29 January 1910, Institution Place, Dollar, Scotland.
 

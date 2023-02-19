@@ -7,10 +7,10 @@ orderid: -460
 title: Democritus Of Abdera
 born: -460
 died: -370
-keywords: atomic theory, void, atoms, shapes, sizes, behavior, mathematics
-description: Democritus was a Greek scholar who proposed the atomic theory of matter and the existence of invisible atoms, used mathematics to explain physical phenomena, and laid the foundations of modern science.
+keywords: democritus,democritus
+description: Democritus was a Greek scholar who is best known for his atomic theory although he was also an excellent geometer.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Democritus** was a Greek scholar who is best known for his atomic theory although he was also an excellent geometer.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the atomic theory of matter in around 460 BC, which posited that all matter is composed of indivisible and indestructible particles.
-2. Developed various theories on the nature of void.
-3. Proposed the existence of an infinite number of invisible atoms that combined to form all physical objects.
-4. Proposed that atoms come in an infinite variety of shapes and sizes, with differing behavior.
-5. Devised a system of reasoning that seeks to explain natural phenomena by breaking them down into constituent components.
-6. Developed the idea of insignificance: that a single atom's behavior had no effect on that of the whole, thus establishing the concept of the conservation of matter.
-7. Used mathematics to explain all known physical phenomena, such as magnetism, light, and gravity.
-8. Proposed that all physical traits are predetermined by the shape, size, and motion of atoms.
-9. Developed a philosophical system based on the concept of "atomism" that laid the foundations of modern science.
+* Democritus certainly visited Athens when he was a young man, principally to visit Anaxagoras, but Democritus complained how little he was known there.
+* Democritus was disappointed by his trip to Athens because Anaxagoras, then an old man, had refused to see him.
+* Certainly Democritus made many journeys other than the one to Athens.
+* Firstly Aristotle discusses Democritus's ideas thoroughly because he strongly disagreed with his ideas of atomism.
+* The second source is in the work of Epicurus but, in contrast to Aristotle, Epicurus is a strong believer in Democritus's atomic theory.
+* Certainly Democritus was not the first to propose an atomic theory.
+* However Democritus produced a much more elaborate and systematic view of the physical world than had any of his predecessors.
+* With this as a basis to the physical world, Democritus could explain all changes in the world as changes in motion of the atoms, or changes in the way that they were packed together.
+* This was a remarkable theory which attempted to explain the whole of physics based on a small number of ideas and also brought mathematics into a fundamental physical role since the whole of the structure proposed by Democritus was quantitative and subject to mathematical laws.
+* Another fundamental idea in Democritus's theory is that nature behaves like a machine, it is nothing more than a highly complex mechanism.
+* There are then questions for Democritus to answer.
+* To Democritus atoms differ only in quantity, and all qualitative differences are only apparent and result from impressions of an observer caused by differing configurations of atoms.
+* Democritus's philosophy contains an early form of the conservation of energy.
+* Democritus explained the origin of the universe through atoms moving randomly and colliding to form larger bodies and worlds.
+* Democritus built an ethical theory on top of his atomist philosophy.
+* To Democritus freedom of choice was an illusion since we are unaware of all the causes for a decision.
+* Very little is known for certainty about Democritus's contributions to mathematics.
+* We do know that Democritus wrote many mathematical works.
+* This idea of Democritus may have led Archimedes later to apply the same idea to great effect.
+* Heath points out that if Democritus carried over his atomic theory to geometrical lines then there is no dilemma for him since his cone is indeed stepped with atom sized steps.
+* Heath certainly believed that to Democritus lines were infinitely divisible.
 
 Born about 460BC, Abdera, Thrace, Greece. Died about 370 BC.
 

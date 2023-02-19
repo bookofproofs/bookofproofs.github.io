@@ -7,10 +7,10 @@ orderid: 1918
 title: Rutishauser, Heinz
 born: 1918
 died: 1970
-keywords: Heinz Rutishauser, Zürich machine, Interpolation Technique, Gauss–Seidel method, recursive algorithms, fast Fourier transform (FFT), Institute for Theoretical Physics
-description: Heinz Rutishauserpioneered the use of computers in scientific applications, creating the Zürich machine, Interpolation Technique and Gauss–Seidel method, as well as proposing recursive algorithms and the FFT algorithm. He was also a founding member of the ETH Zurich Institute for Theoretical Physics.
+keywords: heinz rutishauser,rutishauser
+description: Heinz Rutishauser was a Swiss mathematician who worked in numerical mathematics and computer science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Heinz Rutishauser** was a Swiss mathematician who worked in numerical mathematics and computer science.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Zürich machine, a programmable calculator that was used to evaluate partial differential equations.
-2. Created the Interpolation Technique, a method used to accurately compute intermediate values in polynomials.
-3. Developed the Gauss–Seidel method, a numerical technique for solving partial differential equations.
-4. Proposed the use of recursive algorithms and vector notation, which revolutionized mathematical computation.
-5. Developed the fast Fourier transform (FFT) algorithm, which reduces the time required to calculate a discrete Fourier transform.
-6. Pioneered the use of computers for scientific applications and was one of the first to use computers to study complex data sets.
-7. Was a founding member of the Institute for Theoretical Physics at the ETH Zurich, where he published several major works on mathematical computation.
+* Heinz, together with his younger brother and sister, then went to live in their uncle's home.
+* Rutishauser served as Saxer's assistant for three years while undertaking research for his doctorate.
+* Eduard Stiefel's aim was to build an institute where the mathematical implications of computers could be studied and he employed two assistants, Heinz Rutishauser and Ambros Speiser.
+* So he sent Heinz Rutishauser and Ambros Speiser on a fact finding visit to the United States in January 1949.
+* Rutishauser and Speiser spent most of 1949 at Harvard with Howard Aiken and at Princeton with John von Neumann.
+* Returning to ETH in December 1949, Rutishauser discovered that plans had changed since Eduard Stiefel had managed to persuade ETH to rent the use of Konrad Zuse's Z4.
+* specifications of the Z4, as seen in 1949, were very convincing for Stiefel, Rutishauser and Speiser.
+* Rutishauser published two papers in 1950, Über Folgen und Scharen von analytischen und meromorphen Funktionen mehrerer Variabeln, sowie von analytischen Abbildungen Ⓣ(On results and sets of analytic and meromorphic functions of several variables, as well as analytical pictures) which continued his study of meromorphic functions and Eine Konvergenzverbesserung für die Newtonsche Methode Ⓣ(Improvement of convergence for Newton's Method)  which began his study of numerical methods.
+* Also in 1951 the first of a series of four papers by Rutishauser, Eduard Stiefel and Ambros Speiser, Programmgesteuerte digitale Rechengeräte (elektronische Rechenmaschinen) Ⓣ(Program-controlled digital computing devices (electronic calculators))  appearing in 1950 and 1951.
+* In 1955 Rutishauser was appointed extraordinary professor at ETH and, in 1962, he was named Professor of Applied Mathematics.
+* This had the consequence that we were forced to agree on language constructs, and again the lead of four years in practical programming Rutishauser had, thanks to the Z4, was his great asset.
+* Rutishauser was not less active than Samelson and myself: the first larger working meeting of the group, that meanwhile called itself ZMD-Gruppe, took place in autumn 1957 in Lugano, organized by Rutishauser.
+* The further course of development of ALGOL saw Heinz Rutishauser also taking part in the conference held January 11-16, 1960 with thirteen experts from the USA, Germany, Switzerland, Netherlands, England, Denmark, and France in Paris.
+* Rutishauser's share was more than a thirteenth.
+* Of all the algorithms which Rutishauser invented, the most famous if the qd-algorithm.
+* Rutishauser, however, did not live to see these later developments.
+* But when towards the end of the 60's a professorship was open for the Munich Leibniz Computing Center and Rutishauser was chosen by the Ludwig-Maximilians-Universität and the Bayerische Akademie der Wissenschaften, he did not accept.
 
 Born 30 January 1918, Weinfelden, Switzerland. Died 10 November 1970, Zürich, Switzerland.
 

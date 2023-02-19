@@ -7,10 +7,10 @@ orderid: 1867
 title: Sintsov, Dmitrii Matveevich
 born: 1867
 died: 1946
-keywords: Sintsov, conics, nonholonomic, Sintsov-Fenichel, Three Point, Gronwall Inequality, Poincare
-description: Russian mathematician Dmitrii Sintsov developed the Sintsov-Fenichel Theorem, the Three Point Method and Gronwall Inequality + discovered k-regular systems, Poincare section, uniform asymptotics, parametric resonance.
+keywords: dmitrii matveevich sintsov,sintsov
+description: Dmitrii Matveevich Sintsov was a Russian mathematician who worked on the theory of conics and the theory of nonholonomic differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Dmitrii Matveevich Sintsov** was a Russian mathematician who worked on the theory of conics and  the theory of nonholonomic differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Sintsov-Fenichel Theorem, proving the existence of a certain mathematical order.
-2. Constructed a Three Point Method to solve two point boundary value problems. 
-3. Coined the concept of k-regular systems, forming a basis from which various properties of systems of differential equations can be derived. 
-4. Proved the Gronwall Inequality which states that the solution to an inhomogeneous linear differential equation is bounded by an exponential function of time. 
-5. Established the concept of uniform asymptotic solutions in the study of nonlinear differential equations. 
-6. Successfully applied Liapunov's theory to the stability analysis of systems of differential equations.
-7. Managed to construct the well known parameters of the Poincare section of a differential equation. 
-8. Developed the classical modal interpretation of parametric resonance oscillations.
+* By the time Sintsov began his university studies he was already convinced that mathematics was the topic for him to concentrate on, and he became a member of the mathematics section of the Physics and Mathematics Faculty of the university.
+* Sintsov's first research was on Bernoulli functions of fractional order and he carried this out while taking his fourth year undergraduate courses.
+* Although Sintsov's interests moved away from the areas of his first scientific investigations, nevertheless he did undertake further research into Bernoulli functions and published further papers on this topic near the beginning of his career.
+* Sintsov was appointed to the staff of Kazan University and taught there from 1894 to 1899.
+* After leaving Kazan, Sintsov taught at the Odessa Higher Mining School, then, in 1903, he was appointed to Kharkov University where he taught until his death in 1946.
+* Sintsov also put considerable effort into maintaining the Kharkov Mathematical Society mathematical library which is still one of the most complete mathematical libraries in the Ukraine.
+* Sintsov had an outstanding research record, and published 267 works during his long and productive scientific and teaching career.
+* At Kharkov University, Sintsov created a school of geometry which became the leading school in this field in the Ukraine and has continued to flourish through the years still today being a leading centre.
+* The proof of Sintsov  is much simpler and elegant.
+* Sintsov also took an interest in the history of mathematics and one of the major projects which he undertook in this area was the detailed study of the work of previous mathematicians at Kharkov University.
+* The Ukrainian Academy of Sciences honoured Sintsov by electing him to membership on 22 February 1939.
 
 Born 21 November 1867, Viatka (now Kirov), Russia. Died 28 January 1946, Kharkov, Ukraine.
 

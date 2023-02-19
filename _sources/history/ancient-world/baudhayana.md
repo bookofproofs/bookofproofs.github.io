@@ -7,10 +7,10 @@ orderid: -800
 title: Baudhayana
 born: -800
 died: -740
-keywords: Baudhayana, Sulba Sutra, algebra, triangles, quadratic equations, circles, pi, astrology
-description: Baudhayana was the author of the oldest Sanskrit treatise on mathematics, the Sulba Sutra, which included topics such as algebra, triangles, quadratic equations, circles, pi and astrology.
+keywords: baudhayana,baudhayana
+description: Baudhayana was the author of one of the earliest Sulbasutras: documents containing some of the earliest Indian mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Baudhayana** was the author of one of the earliest _Sulbasutras_: documents containing some of the earliest [Indian mathematics][bookofproofs$1636].
 
 ### Mathematical Profile (Excerpt):
-1. Baudhayana was the author of the oldest known Sanskrit treatise on mathematics, the Baudhayana Sulba Sutra.
-2. He laid down important rules of algebra, such as the 'Pythagorean theorem' for determining the area of a triangle and the 'chakravala' method for solving quadratic equations.
-3. He also found the area of a circle and determined the value of pi accurately to three decimal places.
-4. He also wrote on various topics related to measurement of time, astronomy and astrology.
-5. He was the first ancient Indian mathematician to state that a square can be constructed through its diagonal.
-6. Baudhayana was the first to explain the placement of numbers on a number line and use it to calculate square and cube roots of numbers.
+* Undoubtedly he wrote the Sulbasutra to provide rules for religious rites and it would appear an almost certainty that Baudhayana himself would be a Vedic priest.
+* It is clear from the writing that Baudhayana, as well as being a priest, must have been a skilled craftsman.
+* Below we give one or two details of Baudhayana's Sulbasutra, which contained three chapters, which is the oldest which we possess and, it would be fair to say, one of the two most important.
+* The Sulbasutra of Baudhayana contains geometric solutions (but not algebraic ones) of a linear equation in a single unknown.
+* Several values of π occur in Baudhayana's Sulbasutra since when giving different constructions Baudhayana uses different approximations for constructing circular shapes.
+* An interesting, and quite accurate, approximate value for √2 is given in Chapter 1 verse 61 of Baudhayana's Sulbasutra.
+* Why then did Baudhayana feel that he had to go for a better approximation?
 
 Born about 800 BC, India. Died about 740 BC, India.
 

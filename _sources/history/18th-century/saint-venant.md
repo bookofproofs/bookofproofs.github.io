@@ -7,10 +7,10 @@ orderid: 1797
 title: Saint-Venant, Jean Claude
 born: 1797
 died: 1886
-keywords: Mechanics, Elasticity, Hydrostatics, Hydrodynamics, St-Venant's Principle, Virtual Velocities, Constitutive Equations
-description: Jean Claude Saint-Venant developed the theories of mechanics, elasticity, hydrostatics, hydrodynamics and laid the foundation for the St-Venant's Principle, Virtual Velocities, Constitutive Equations.
+keywords: jean claude saint-venant,saint-venant
+description: Jean Claude Saint-Venant worked mainly on mechanics, elasticity, hydrostatics and hydrodynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Claude Saint-Venant** worked mainly on mechanics, elasticity, hydrostatics and hydrodynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed Saint-Venant's principle in 1845, a major milestone in the field of structural mechanics.
-2. Established a rigorous theory of elasticity that formed the foundation for all subsequent theories.
-3. Discovered the principle of virtual velocities, now known as Saint-Venant's principle, in 1855.
-4. Proved the existence of a unique solution to the elasticity problem in 1874, defining the "Saint-Venant Problem".
-5. Developed the theory of strain-displacement relations, now known as the Saint-Venant equations, in 1883.
-6. Originated the mathematical theory of constitutive equations, now known as the Saint-Venant Principle.
-7. Pioneered endochronic theory, now also known as the Saint-Venant Principle, in 1895.
-8. Established the basic equations for the computation of stress, strain, and deformation in elastic bodies in 1911.
+* For the first seven of these 27 years Saint-Venant worked for the Service des Poudres et Salpêtres, then he spent the next twenty years working for the Service des Ponts et Chaussées.
+* Saint-Venant attended lectures at the Collège de France and the lecture notes he took in Liouville's 1839-40 class still survive.
+* Saint-Venant worked mainly on mechanics, elasticity, hydrostatics and hydrodynamics.
+* Saint-Venant got it right and recorded it.
+* We should remark that Stokes, like Saint-Venant, correctly derived the Navier-Stokes equations but he published the results two years after Saint-Venant.
+* Saint-Venant developed a vector calculus similar to that of Grassmann which he published in 1845.
+* Grassmann had published his results in 1844, but Saint-Venant claimed (and there is little reason to doubt him) that he had first developed these ideas in 1832.
+* Again it would appear that Saint-Venant was unlucky.
+* In this book Saint-Venant, a convinced atomist, presented forces as divorced from the metaphysical concept of cause and from the physiological concept of muscular effort, both of which, in his opinion, obscured force as a kinematic concept accessible to the calculus.
+* In the 1850s Saint-Venant derived solutions for the torsion of non-circular cylinders.
+* In 1868 Saint-Venant was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
+* At age 86 he translated (with A Flamant) Clebsch's work on elasticity into French and published it as Théorie de l'élasticité des corps solides Ⓣ(Theory of the elasticity of solids) and Saint-Venant added notes to the text which he wrote himself.
 
 Born 23 August 1797, Villiers-en-Bière, Seine-et-Marne, France. Died 6 January 1886, St Ouen, Loir-et-Cher, France.
 

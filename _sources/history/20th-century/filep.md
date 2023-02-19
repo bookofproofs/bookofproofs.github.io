@@ -7,10 +7,10 @@ orderid: 1941
 title: Filep, László
 born: 1941
 died: 2004
-keywords: mathematics, open problems, algebraic number theory, algorithms, cryptography, prime numbers, proof
-description: László Filep solved mathematical problems, authored books, developed algorithms, extended theories and pioneered a new era of math modeling, pioneering cryptography and proving prime number theory with novel techniques.
+keywords: lászló filep,filep
+description: László Filep was a Hungarian mathematician who specialised in history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **László Filep** was a Hungarian mathematician who specialised in history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Solved major open mathematical problems, such as the "elliptic curve discrete logarithm problem" and the "sum-product problem".
-2. Authored several books, including “A Course in Algebraic Number Theory” and “Basic Number Theory”.
-3. Established the “László Filep research group”, aimed at providing ongoing support of emerging number theorists.
-4. Developed groundbreaking algorithms spanning a variety of topics, including algebraic geometry, number theory, and algebraic curves.
-5. Extended the theories of fixed-parameter algorithms to quasipolynomial time, ushering in a new era of math modeling.
-6. Established a method of using mathematical models to analyze and simplify cryptography algorithms.
-7. Devised a novel algebraic technique for generating prime numbers in number theory.
-8. Achieved the first publicly accepted proof for a problem in additive number theory.
+* The elementary school in Csaszlo had a single room in which all pupils in different years were educated, and Filep studied at this school until he reached the age to attend secondary school.
+* Filep graduated from Mátészalka Secondary School and entered the Kossuth Lajos Tudományegyetem, or the Lajos Kossuth University in Debrecen as it is called in English.
+* Filep graduated from the Kossuth University in 1964, qualifying as a secondary teacher of mathematics and physics.
+* In 1973 Filep was appointed as a lecturer at the College of Nyíregyháza.
+* But this was not Filep's first publication, for he had published a number of articles in the prestigious Hungarian popular scientific magazine, Termeszet Vilaga (The World of Nature).
+* Let us look in slightly more detail at three of Filep's articles on the history of mathematics by quoting his own summary to these papers.
+* We must not give the impression that Filep's only research interest was in the history of mathematics for he also published a long series of papers on fuzzy groups, some written with his collaborator Gyula Iulius Maurer, beginning in 1987.
+* Changes in the Hungarian system of doctorates in the early 1990s meant that Filep felt the dr.
+* Filep brought Davis from Vienna to Miskolc so that he could attend both conferences.
+* Shortly after the Miskolc conference, Filep collapsed and died during a lecture that he was giving at the Sapientia College of Theology of Religious Orders in Budapest.
 
 Born 6 December 1941, Csaszlo, Szabolcs-Szatmar-Bereg, Hungary. Died 19 November 2004, Budapest, Hungary.
 

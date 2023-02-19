@@ -7,10 +7,10 @@ orderid: 1755
 title: Fuss, Nicolaus
 born: 1755
 died: 1826
-keywords: Fuss, Euler, elliptic integrals, Lagrange’s equation, integra equations, Fuss-Bessel Theorem, Fuss Transformation
-description: Nikolai Fuss was a Swiss mathematician renowned for his contributions to mathematics, such as the Fuss Theory for elliptic integrals, the Fuss-Bessel Theorem, and his two books.
+keywords: nikolai fuss,fuss
+description: Nikolai Fuss was a Swiss mathematician whose most important contribution was as amanuensis to Euler after he lost his sight.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nikolai Fuss** was a Swiss mathematician whose most important contribution was as amanuensis to Euler after he lost his sight.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new way of studying elliptic integrals that became known as the Fuss theory.
-2. Created a new form of Lagrange’s equation of motion.
-3. Established a new method of solving integra equations.
-4. Demonstrated how to relate integrals to differential equations.
-5. Formulated the Fuss-Bessel Theorem, which solved problems of series convergence. 
-6. Introduced the Fuss Transformation to solve integrations of second order linear partial differential equations. 
-7. Authored two books on mathematics, Analysis of Elementary Functions and Integration of Functions of a Complex Variable.
+* Fuss arrived in St Petersburg in Russia in May 1773 to take up this post and he spent the rest of his life in Russia.
+* In 1774, the year after Fuss arrived in St Petersburg to work with Euler, he published Instruction détaillée pour porter les lunettes de toutes les différentes espèces au plus haut degré de perfection dont elles sont susceptibles tirée de la théorie dioptrique de Mr Euler le père et mise a la portée de tous les ouvriers en ce genre.
+* Fuss's book was not a best seller and never ran to a second edition.
+* Fuss's first papers were written under Euler's direction and dealt with problems in insurance.
+* In 1776, in addition to his other duties, Fuss became an assistant at the St Petersburg Academy and, in 1783, academician in higher mathematics.
+* He gave a mathematics lesson to one of his grandchildren, did some calculations with chalk on two boards on the motion of balloons; then discussed with Lexell and Fuss the recently discovered planet Uranus.
+* From 1790 Fuss was professor of mathematics at the Marine Corps in Petersburg, then from 1800 to 1826 he was permanent secretary to the Academy of Sciences in Petersburg.
+* It was in this role that Fuss wrote to Gauss offering him a post at the Academy.
+* Most of Fuss's papers are solutions to problems posed by Euler on spherical geometry, trigonometry, series, differential geometry and differential equations.
+* Fuss also worked on geometrical problems of Apollonius and Pappus.
+* Fuss won other prizes from Sweden and Denmark.
 
 Born 30 January 1755, Basel, Switzerland. Died 4 January 1826, St Petersburg, Russia.
 

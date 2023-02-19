@@ -7,10 +7,10 @@ orderid: -428
 title: Archytas Of Tarentum
 born: -428
 died: -350
-keywords: Archytas, conic sections, ellipse, parabola, hyperbola, analytic geometry, Euclid
-description: Archytas was a Greek philosopher, mathematician, statesman and pioneer of conic sections, analytic geometry, arithmetic means and double-positioning, who rediscovered Euclid's works.
+keywords: archytas,archytas
+description: Archytas was a Greek mathematician, statesman and philosopher who worked on the harmonic mean and the problem of duplicating the cube.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Archytas** was a Greek mathematician, statesman and philosopher who worked on the harmonic mean and the problem of duplicating the cube.
 
 ### Mathematical Profile (Excerpt):
-1. Re-discovered the science of conic sections, and was the first to study the ellipse, parabola and hyperbola.
-2. Developed the mathematical theory of proportion, leading to the development of modern analytic geometry.
-3. Discovered the limit of ratio of the two shorter sides to the longer in a right triangle, which is known as Archytas' Theorem.
-4. Devised a system for deriving the four arithmetic means, which is a precursor to modern algebra.
-5. Introduced 'double-positioning' in geometry, which is a powerful tool for solving complicated problems in finite terms.
-6. Compiled a widely-used and respected geometric theorems, expanding on the works of Euclid and creating the foundations of Euclidean geometry.
+* Archytas led the Pythagoreans in Tarentum and tried to unite the Greek towns in the area to form an alliance against their non-Greek neighbours.
+* Plato wrote to Archytas who sent a ship to rescue him.
+* This is done, however, because of the style of Archytas's philosophy rather than the strict chronology.
+* Archytas was a pupil of Philolaus and so was a firm supporter of the philosophy of Pythagoras believing that mathematics provided the path to the understanding of all things.
+* Although Archytas studied many topics, since he was a Pythagorean, mathematics was his main subject and all other disciplines were seen as dependent on mathematics.
+* Archytas worked on the harmonic mean and gave it that name (it had been called sub-contrary in earlier times).
+* Archytas solved the problem with a remarkable geometric solution (not of course a ruler and compass construction).
+* One interesting innovation which Archytas brought into his solution of finding two mean proportionals between two line segments was to introduce movement into geometry.
+* We know of Archytas's solution to the problem of duplicating the cube through the writings of Eutocius of Ascalon.
+* Another interesting mathematical discovery due to Archytas is that there can be no number which is a geometric mean between two numbers in the ratio (n+1):n(n+1) : n(n+1):n.
+* Archytas built on this earlier work and his discoveries are then largely those presented by Euclid in the Elements Book VIII.
+* Archytas is sometimes called the founder of mechanics and he is said to have invented two mechanical devices.
+* When it came to a philosophy of politics and ethics, again Archytas based his ideas on mathematical foundations.
+* Finally we quote again from the writings of Archytas about his theory of how to learn.
 
 Born about 428BC, Tarentum, Magna Graecia (now Taranto, Italy). Died about 350 BC.
 

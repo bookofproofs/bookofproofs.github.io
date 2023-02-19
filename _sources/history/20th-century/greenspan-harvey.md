@@ -7,10 +7,10 @@ orderid: 1933
 title: Greenspan (2), Harvey
 born: 1933
 died: 0
-keywords: Applied Mathematics, Fluid Dynamics, Stochastic Calculus, Arbitrage Pricing, Options Valuation, Risk Measurement, Mathematical Finance
-description: Harvey Greenspan pioneered the development of stochastic calculus and contributed to the development of modern portfolio theory, establishing Applied Mathematics as a field of study.
+keywords: harvey greenspan,greenspan
+description: Harvey Greenspan played an important role in establishing Applied Mathematics as a subject in its own right in the United States. He studied fluid dynamics both from a theoretical and from an experimental perspective, making major contributions to fluid flow, wave motion and bio-fluid dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Harvey Greenspan** played an important role in establishing Applied Mathematics as a subject in its own right in the United States. He studied fluid dynamics both from a theoretical and from an experimental perspective, making major contributions to fluid flow, wave motion and bio-fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneering the development of stochastic calculus in the 1950s, which made possible the pricing of derivatives and hedging of market risks.
-2. Co-authoring the book Probability Theory and Stochastic Processes in 1960, which was the first comprehensive account of the theory of stochastic processes.
-3. Developing the foundations of the modern theory of arbitrage pricing in the late 1960s.
-4. Introducing the "state-price density" in the late 1960s, which is used to measure risk in financial markets.
-5. Devising a new type of valuation model for stock options in 1979.
-6. Creating the Greenspan-Rao theorem in 1979, which provides an effective method for analyzing stock options.
-7. Establishing the concept of a Greenspan-Urquhart Index in the 1980s, which is used to monitor stock market movements. 
-8. Founded the Mathematical Sciences Research Institute in the 1980s, which conducted research in the area of mathematical finance.
-9. Contributing to the development of modern portfolio theory in the 1980s and 1990s.
-10. Exploring the concept of "asymmetric information" in financial markets in the 1990s.
+* Louis Greenspan was born in New York City, New York on 21 January 1906, the son of parents who were both born in Russia.
+* Louis and Jessie Greenspan were married in Brooklyn, New York City, New York, on 9 March 1927.
+* They had two sons and one daughter: Donald Greenspan, born on 24 January 1928, who became a mathematician and has a biography in this archive; Harvey Greenspan, born 22 February 1933, the subject of this biography; and Rosalie Greenspan.
+* Greenspan was educated in Brooklyn where after his primary education, his secondary education was at the Thomas Jefferson High School, Brooklyn, New York.
+* His brother, Donald Greenspan, began his university studies of mathematics when Harvey was still at an early stage in his secondary school education.
+* Harvey graduated from the High School in 1950 and began studying mathematics at the City College of New York.
+* Greenspan was awarded a Ph.D. by Harvard University in 1956 for his thesis The generation of edge waves by moving pressure distributions.
+* Following the award of his doctorate, Greenspan was appointed as an Assistant Professor of Mathematics at Harvard University, a position he held from 1957 to 1960.
+* Greenspan was appointed as an Associate Professor of Applied Mathematics at the Massachusetts Institute of Technology in 1960.
+* This, then, was the problem which Greenspan faced at MIT.
+* In 1964 Greenspan was promoted to Professor of Applied Mathematics.
+* Another task that Greenspan took on at this time was setting up a computing laboratory.
+* In 1968 Greenspan published the monograph The Theory of Rotating Fluids.
+* Greenspan had a major impact on the teaching of applied mathematics at MIT, introducing around ten courses himself into the curriculum.
+* Greenspan retired from his chair at MIT in 2002 and was made Professor Emeritus.
+* We have seen how Greenspan tried over the years to put forward his own ideas about how applied mathematics should be taught.
 
 Born 22 February 1933, Brooklyn, New York, USA.
 

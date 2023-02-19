@@ -7,10 +7,10 @@ orderid: 1910
 title: Grünwald, Géza
 born: 1910
 died: 1942
-keywords: Géza Grünwald, Analysis, Holocaust, Lagrange's Theorem, Gauss-Lucas theorem, Dimension Theory, Matrix Group
-description: Géza Grünwald was a Hungarian mathematician who worked on analysis and perished in the Holocaust; he developed Lagrange's Theorem and Gauss-Lucas theorem and studied Dimension Theory, Matrix Group and more.
+keywords: géza grünwald,grünwald
+description: Géza Grünwald was a Hungarian mathematician who worked on analysis. He died in the Holocaust.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,43 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Géza Grünwald** was a Hungarian mathematician who worked on analysis. He died in the Holocaust.
 
 ### Mathematical Profile (Excerpt):
-1. He developed a generalization of Lagrange's Theorem called Binomial Theorem in algebra.
-2. He was able to prove the Gauss-Lucas theorem, which is important in complex analysis. 
-3. He established a new approach to the general theory of norms by introducing the basic principles of dimension theory. 
-4. He solved a number of open problems in number theory, including the problem of the divisibility of a prime number by the sum of its divisors. 
-5. He developed a unified approach to the theory of binary forms, which is a fundamental link between algebra and geometry. 
-6. He investigated the theory of quadratic reciprocity and extended it to higher powers. 
-7. He discovered a necessary and sufficient condition for the solvability of a quintic equation. 
-8. He also discovered a new criterion for idealness of a number field. 
-9. He worked on the notion of matrix group and its representation theory, which are important in algebra. 
-10. He studied the theory of Schur functions, which is an important result in representation theory.
+* Géza had a brother Gyula Grünwald, born in Pestszenterzsebet, a suburb of Budapest, in 1912.
+* Ármin Grünwald was a house painter who tried hard to educate his sons but struggled to bring in a sufficient income.
+* Géza attended the St Stephen's Gymnasium in Budapest where he was taught mathematics by Lajos Erdős, the father of Paul Erdős.
+* Lajos Erdős realised that his pupil Géza was very talented and he also realised that his family were not really able to financially support their son's education at this school.
+* Lajos supported Géza both with encouragement and with financial support.
+* There were two mathematicians in Budapest in the 1930s who were both named Grünwald, namely Tibor Grünwald and Géza Grünwald, the subject of this biography, but they were not related.
+* Our archive also contains a biography of Tibor Grünwald but he is listed under the name Tibor Gallai which he adopted during World War II.
+* Géza Grünwald and Paul Erdős, who was about 30 months younger than Géza, used to walk a great deal in Városliget public park surrounding Hero's Square close to the city centre of Budapest.
+* It contained a zoo and botanical gardens but Géza and Paul spent most of the time they were in the park trying to outdo each other in mental challenges and trying to beat each other in chess.
+* Grünwald was an exceptionally talented chess player.
+* While still at the High School in 1927, Grünwald contracted tuberculosis.
+* Grünwald's parents were not in a financial position to give him this type of sanatorium but Lajos Erdős offered the necessary financial support and Grünwald spent a whole year in a sanatorium, making a complete recovery.
+* Grünwald should have taken his final school examinations in 1928 but, of course, his illness and the year spent in the sanatorium meant this was not possible.
+* Since Grünwald was Jewish, the fact that his school examinations were not outstanding meant big problems in obtaining a university place.
+* Grünwald's examination results were not good enough for him to obtain a university place in Hungary with these severe restrictions.
+* He approached Alfréd Haar who was the professor of mathematics at the University of Szeged and explained to Haar that Grünwald was an outstanding mathematician yet unable to gain admission to university.
+* Following Lajos Erdős's recommendation, Haar invited Grünwald for an interview which went very well and he was accepted into the University of Szeged's mathematics programme.
+* The mathematical discussions which went on within this Circle were perhaps more significant in Grünwald's mathematical training than his studies at Szeged.
+* Grünwald regularly attended our weekly meetings which we held near the statue of Anonymous in the city park.
+* There was no equivalent opportunity in Szeged so that it was natural that Grünwald became interested in issues discussed in our group.
+* Grünwald's career at Szeged was highly successful.
+* The research laboratory of this electricity company was in Budapest and in September 1937 Grünwald was employed by Zoltán Bay as a mathematician in the research laboratory.
+* On 22 May 1938 Grünwald married Anna Szilágyi who had been born in Miskolc, Hungary, in 1911.
+* Anna, who had been a school friend of Grünwald's, was the daughter of Adolf Szilágyi and Ilona Kálmán.
+* Anna and Géza Grünwald had one child, a daughter Eva Grünwald born in Budapest in 1939.
+* Grünwald published 18 papers in his short life before he was murdered in 1942 or 1943.
+* Today Grünwald is best known for the Grünwald-Marcinkiewicz Theorem.
+* They proved in the same year (1935) the first version of their famous result (as today called) the Grünwald-Marcinkiewicz Theorem (G-M Theorem, for short).
+* And, finally, both were killed during the second world war: Géza Grünwald became a holocaust victim in 1942 while Józef Marcinkiewicz died in 1940 in the Katyn massacre.
+* The Grünwald-Marcinkiewicz Theorem shows that Lagrange interpolation based at the zeros of Chebyshev polynomials can diverge everywhere even for continuous functions.
+* Now we come to Grünwald's death and must say straight away that its date is unclear.
+* At the end of that meeting, Géza told me that he was called up for active military duty in the Labour Service Battalions.
+* Within a few months the entire Battalion was executed except for five lucky survivors, among whom was Mr István Kossa who was a good friend of Grünwald and who stayed with him until his execution According to Kossa and the official paperwork, Grünwald died on 7 September 1943, at the age of 31.
+* István Kossa (1904-1965) was elected Secretary General of the Hungarian Social Democratic Party in 1933 and served as secretary to the United Incandescent Lamp and Electricity Company where Grünwald worked.
+* An István Kossa biography states he escaped the Service Battalion in January 1943 which contradicts the statement that he was with Grünwald until his death on 7 September 1943.
+* We note that the Database also shows that Grünwald's brother Gyula also died after being drafted into a Hungarian Labour Service Battalion after being captured.
+* Some sources state that it was first awarded in 1953 by we have found that Lajos Takács won the second Géza Grünwald Memorial Prize in 1952 for his paper Investigation of waiting time problems by reduction to Markov processes.
 
 Born 18 October 1910, Budapest, Hungary. Died 16 September 1942, Ukraine.
 

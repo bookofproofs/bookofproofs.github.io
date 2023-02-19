@@ -7,10 +7,10 @@ orderid: 1935
 title: Srinivasan, Bhama
 born: 1935
 died: 0
-keywords: Bhama Srinivasan, representation theory, algebraic decision procedure, mathematical model, statistical methods, numerical analysis, data analytics, engineering systems
-description: Bhama Srinivasan, an Indian-born mathematician, developed advanced mathematical methods for engineering systems and gained recognition for her work in representation theory of finite groups.
+keywords: bhama srinivasan,srinivasan
+description: Bhama Srinivasan is an Indian-born mathematician who has worked in England and America and is known for her work in the representation theory of finite groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Bhama Srinivasan** is an Indian-born mathematician who has worked in England and America and is known for her work in the representation theory of finite groups.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algebraic decision procedure to analyze hybrid systems, an approach rarely used by mathematicians.
-2. Developed a mathematical model to describe and analyze the patterns of distributed systems on the web.
-3. Pioneered the use of statistical and topological methods for the study of dynamical systems.
-4. Developed a numerical analysis technique to solve non-linear equations involving large systems.
-5. Developed a novel computational algorithm to analyze data and optimize resource utilization.
-6. Developed novel data analytic models and algorithms to detect complex network patterns in large datasets.
-7. Demonstrated the significance of mathematics for engineering systems, an application rarely explored by mathematicians.
-8. Demonstrated the importance of algebraic topology for the design of efficient web-based systems.
-9. Initiated the use of machine learning and data mining techniques in mathematical modeling.
-10. Developed an algorithmic approach to identify optimal inference models in uncertainty and risk problems.
+* Bhama Srinivasan was their first child, with Viji Srinivasan and Prabha Kannan being younger children.
+* Srinivasan attended an all-girls' High School in Madras and soon mathematics became her favourite subject.
+* After the award of an M.Sc. from the University of Madras, Srinivasan married a mechanical engineer.
+* Srinivasan now had an opportunity to continue her mathematical development by registering as a Ph.D. student at Manchester.
+* Srinivasan was awarded a Ph.D. by the University of Manchester in 1960 after submitting her thesis Problems on Modular Representations of Finite Groups.
+* After the award of her doctorate, Srinivasan remained in England where she was appointed to the University of Keele, Staffordshire.
+* Srinivasan was awarded a Postdoctoral Fellowship by the National Research Council of Canada which funded her visit to the University of British Columbia in 1965-66.
+* After splitting up with her husband, Srinivasan went to the United States in 1970 when she was appointed as an associate professor at Clark University in Worcester, Massachusetts.
+* In 1980 Srinivasan moved to Chicago when she was appointed as a professor at the University of Illinois at Chicago.
+* In 1990 Srinivasan was invited to give the prestigious Noether lecture to the Association for Women in Mathematics.
 
 Born 22 April 1935, Madras, (now Chennai) India.
 

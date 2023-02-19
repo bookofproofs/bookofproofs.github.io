@@ -7,10 +7,10 @@ orderid: 1786
 title: Nicollet, Jean-Nicolas
 born: 1786
 died: 1843
-keywords: Joseph Nicollet, US, mapping, astronomer, mathematician, surveyor, trigonometry, Doctor of Philosophy
-description: Joseph Nicollet, US astronomer & mathematician, mapped US, producing most accurate map to date & introducing system of public land surveys.
+keywords: jean-nicolas nicollet,nicollet
+description: Joseph Nicolas Nicollet was a French cartographer, astronomer and mathematician known for his expeditions to map the USA.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Nicolas Nicollet** was a French cartographer, astronomer and mathematician known for his expeditions to map the USA.
 
 ### Mathematical Profile (Excerpt):
-1. He wrote a book in 1832 titled “The Geography of Minnesota and the Upper Mississippi Region” which contained geographical observations including the longest and most accurate survey of the Upper Mississippi River conducted to date.
-2. He is credited with producing the most detailed and accurate map of the United States created up to that time and for introducing the system of public land surveys still in use in the United States.
-3. He was the first to use the meridian and parallel of latitude in surveys.
-4. He was instrumental in developing the use of spatial geometry, trigonometry and surveying methods in U.S. cartography and mapping.
-5. He developed a topographical method of surveying which enabled early settlement and use of the land.
-6. He also developed a system of trigonometry that was used by surveyors in the United States and Europe.
-7. He was awarded an honorary degree of Doctor of Philosophy from Harvard University in 1843.
+* In 1805, at the age of nineteen, Nicollet became an assistant teacher of mathematics in Chambery.
+* Nicollet rapidly made a fine reputation for himself both as a teacher and as a mathematical astronomer at the Observatory, receiving the Legion of Honour for his excellent work.
+* Nicollet was ruined financially and, perhaps equally as bad in his eyes, he felt his mathematical skills would no longer be respected.
+* Although the stock market crash was the main reason for Nicollet setting out for the United States, there were other more minor reasons.
+* Nicollet had lost his patron when Laplace died in 1827 and he had quarrelled with François Arago who was becoming an increasingly important figure at the Observatory.
+* In 1832 Nicollet sailed to North America and went first to Washington where he met those members of the government who were interested in carrying out scientific surveys.
+* Immediately Nicollet began scientific work with the French born and educated Augustine Verot, Professor of Mathematics and Natural Philosophy in St Mary's College, Baltimore, the first Roman Catholic seminary to be established in the United States.
+* Ferdinand Rudolph Hassler was conducting the United States Coast Survey and he agreed to support Nicollet's explorations.
+* Nicollet did not spend longer than necessary in Washington for he wanted to plan his scientific work and to do this he needed to travel.
+* Some certainly did so and reported their results to Nicollet who published them along with his own observations.
+* There are two important aspects of Nicollet's travels.
+* Firstly there was the great scientific value that someone as skilful and highly trained as Nicollet could produce.
+* Nicollet quotes from a speech by their chief, Flat Mouth, who begged him to interest the king of France in their regard because "The French were the first to discover us." Such devotion to the French may explain why these Indians proved so ready to tell Nicollet the facts and significance of many customs indigenous to their native culture.
+* Nicollet was at Fort Snelling, Minnesota by October 1836 and he remained there until the summer of 1837.
+* It was the Nicollet expedition, which was sent to the Northwest by the United States government to explore and map the vast region between the upper Mississippi and the Missouri.
+* The leader of the party was the French explorer, Joseph N Nicollet, and his assistant was John C Frémont, then an unknown young lieutenant.
+* Again John Frémont was his assistant but of course today Frémont is better known than Nicollet; Frémont went on to lead major expeditions, and was the first candidate for the Republican Party for President of the United States.
+* Nicollet made an astronomical observation at his encampment, on the Coteau du Missouri, Yanktonan Indian country on 6 July 1839.
+* From this point, Nicollet and his companions set out for Devil's Lake, a region of confrontation between the Sioux and combined Chippewas and Metis allied to the Hudson's Bay Company post in the lower Red River valley.
 
 Born 29 July 1786, Cluses, Savoy, France. Died 11 September 1843, Washington, D.C., USA.
 

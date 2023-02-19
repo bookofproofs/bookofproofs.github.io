@@ -7,10 +7,10 @@ orderid: 1879
 title: Jourdain, Philip
 born: 1879
 died: 1919
-keywords: Philip Jourdain, set theory, algebra of logic, logical approach, axiom of reducibility, Prague school, foundations of mathematics
-description: Philip Jourdain was an English logician who worked on the foundations of set theory, contributing to the algebra of logic and the Prague school, and advocating a logical approach to the foundations of mathematics.
+keywords: philip jourdain,jourdain
+description: Philip Jourdain was an English logician who worked on the foundations of set theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Philip Jourdain**  was an English logician who worked on the foundations of set theory.
 
 ### Mathematical Profile (Excerpt):
-1. He published two books on the algebra of logic: Les Principes de la Logique Mathématique (1906) and Introduction à la Logique Mathématique (1912).
-2. He was an advocate of the logical approach to mathematics, encouraging the use of notation to promote clarity.
-3. He proposed the axiom of reducibility and the notion of generality in his 1906 book.
-4. He introduced the Prague school of mathematical logic in 1900, along with other founding members.
-5. He is credited with introducing mathematical logic into France, writing numerous papers on the subject.
-6. He made fundamental contributions to the study of mathematical logic, set theory, and the foundations of mathematics.
-7. He was a member of several prominent French universities, including the Sorbonne and the Collège de France.
-8. He lectured on the foundations of mathematics in 1916.
-9. He made contributions to the theory of definite functions and operations.
-10. He received the Prix Poncelet in 1927 for his work on the foundations of mathematics.
+* Philip was born into a large family in the vicarage at Ashbourne.
+* One of the highlights was a course on mathematical logic given by Russell which strongly influenced Jourdain.
+* Inspired by Russell, Jourdain worked mainly in mathematical logic.
+* In 1913 Jourdain proposed the card paradox.
+* Jourdain also applied logic to physics in papers such as On some Points in the Foundation of Mathematical Physics which was published in The Monist in 1908.
+* Jourdain was recognised as the leading authority on Newton, and had done a large amount of research, with a view to publication of a new edition.
+* We must, however, mention that Jourdain had in preparation a large work on "The History of Mathematical Thought".
+* Jourdain married Laura Insull on 26 June 1915.
+* Many sufferers of Friedreich's ataxia do not survive past their twenties so, given his condition, Jourdain did remarkably well to live until he was only days short of his 40th  birthday.
 
 Born 16 October 1879, Ashbourne, Derbyshire, England. Died 1 October 1919, Crookham, Hampshire, England.
 

@@ -7,10 +7,10 @@ orderid: 1923
 title: Olubummo, Adegoke
 born: 1923
 died: 1992
-keywords: Adegoke Olubummo, Nigerian, mathematician, Fields Medal, algebraic number theory, mathematical analysis, algebraic geometry
-description: Adegoke Olubummowas a Nigerian mathematician and the first to win a Fields Medal. He was an expert in algebraic number theory, mathematical analysis, and algebraic geometry and pioneered the use of computers for number-theoretic problems.
+keywords: adegoke olubummo,olubummo
+description: Adegoke Olubummo was a Nigerian mathematician who was the first Nigerian professor of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Adegoke Olubummo** was a Nigerian mathematician who was the first Nigerian professor of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Became the first Nigerian to win a Fields Medal, also known as the Nobel Prize of Mathematics, in 1966. 
-2. Was an accomplished mathematician and Professor who distinguished himself in the fields of algebraic number theory, mathematical analysis, and algebraic geometry.
-3. Pioneered the application of computers to solve number-theoretic problems, producing innovative results.
-4. Developed the now standard method for deriving the power series for exponential, logarithmic, and trigonometric functions.
-5. Proposed the Gauss–Olubummo conjecture which stated that every number, when represented in a prime factorization form, has at least two prime factors which differ in value by two. 
-6. Authored the book ‘Problems in Basic Mathematics’ which has become a standard reference textbook for high school mathematics in Nigeria.
+* This meant that he was born into one of the most important families in the district with the Olubummo family being one of two families, both descendants of Oba Olayisade, who, for over 200 years, produced the rulers of the town.
+* Being a child of such important parents meant that Adegoke received the best possible education.
+* Olubummo graduated from Christ's School in 1937 with the Standard Six Certificate.
+* Olubummo taught as a pupil/assistant teacher at the Methodist Primary School at Ifaki Ekiti in 1937.
+* While at Fourah Bay College, Olubummo met Michael Adekunle Ajasin (1908-1997) with whom he shared having been born in Ondo State, Nigeria.
+* He was keen to have top quality staff at Imade College and he persuaded Olubummo to take up a position there as a teacher of mathematics and English in 1949 after he had received a Bachelor of Arts degree from Fourah Bay College.
+* In 1951 Olubummo travelled to England to undertake research for a Ph.D. He enrolled at King's College, Durham University, and after studying for a Masters Degree in 1951-52 was awarded the degree of M.A. in Mathematics (1952).
+* Although Rogosinski was the official advisor of his thesis, nevertheless Olubummo was greatly influenced by Frank Bonsall who was a lecturer at King's College, Durham University, Newcastle-upon-Tyne, when he was studying there.
+* Bonsall was becoming a world leading expert on Banach algebras at this time and Olubummo benefitted from his advice as he undertook research in this area.
+* After the award of his Ph.D., Olubummo returned to Nigeria and was appointed as a lecturer in the Department of Mathematics of University College, Ibadan.
+* Olubummo married Edak Bassey Adam; they had there children, Yewande Olubummo born on 8 February 1960, Ronke Olubummo and Gboyega Olubummo  all of whom studied mathematics.
+* Yewande Olubummo became an exceptional mathematician and has a biography in this archive.
+* The Olubummo family lived on the campus of the University of Ibadan until around 1970 when they moved to live in a house in Bodija, a district of Ibadan.
+* In 1960, the year his eldest child was born, Olubummo's book The emergent university, with special reference to Nigeria was published.
+* At Ibadan, Olubummo was steadily promoted reaching full professor in 1964.
+* Let us note here two students who gained Ph.D. degrees from the University of Ibadan with Olubummo as their thesis advisor.
+* Professor Olubummo was someone with strong passion for traditional ceremonies and cultural events.
+* In addition to the book we mentioned above, Olubummo has published the book Introduction to Real Analysis (1979) and around 25 papers, the last two of which both appeared in 1989.
+* In 1985 Olubummo retired from the University of Ibadan, and became Dean of the Faculty of Science of Ondo State University, Ado-Ekiti.
 
 Born 19 April 1923, Orin Ekiti, Ondo State, Nigeria. Died 26 October 1992, Orin Ekiti, Ondo State, Nigeria.
 

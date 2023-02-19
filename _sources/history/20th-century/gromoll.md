@@ -7,10 +7,10 @@ orderid: 1938
 title: Gromoll, Detlef
 born: 1938
 died: 2008
-keywords: Detlef Gromoll, mathematician, differential geometry, characterization problem, Gromoll-Meyer manifold, Gibbons-Hawking Ansatz, ISCO-index, Cheeger-Gromoll Splitting Theorem, Constant Rank Theorem, Morse theory, Ricci flow
-description: Detlef Gromollwas an German mathematician who made groundbreaking contributions to differential geometry and its applications.
+keywords: detlef gromoll,gromoll
+description: Detlef Gromoll was an German mathematician who worked in America. He worked in differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Detlef Gromoll** was an German mathematician who worked in America.  He worked in differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Solved the characterization problem for 3-dimensional compact Riemannian manifolds that admit a metric of non-negative scalar curvature.
-2. Researched on a particular submanifold, now known as the Gromoll-Meyer manifold.
-3. Published a review article on the Gibbons-Hawking Ansatz in four dimensions.
-4. Developed ISCO-index, which is a numerical invariant from smooth structures of 4-manifolds.
-5. Proved the Cheeger-Gromoll Splitting Theorem.
-6. Formulated the Constant Rank Theorem, which gives a complete classification of Riemannian manifolds.
-7. Leveraged Morse theory to define the splitting of a Riemannian manifold into two parts.
-8. Established an early step towards understanding Ricci flow.
+* This work took him away from Berlin, and Detlef and his mother remained there in increasingly difficult circumstances as allied bombing raids intensified.
+* Gromoll's mother fled the capital with her son but they were forced to move from town to town as refugees.
+* After his secondary education in Rosdorf, Gromoll entered the University of Bonn.
+* During these years Gromoll published some important work.
+* Also in 1968, Gromoll published a joint work with Jeff Cheeger The structure of complete manifolds of nonnegative curvature.
+* This paper was in fact a sequel to On complete open manifolds of positive curvature which Gromoll had written with Wolfgang Meyer but did not appear in print until the following year.
+* This is a highly significant paper but an even more important one was published by Gromoll and Cheeger in 1972, namely On the structure of complete manifolds of non-negative curvature.
+* In 1970, a year after his appointment at Stony Brook, Gromoll was an invited speaker at the International Congress of Mathematicians in Nice, France.
+* Gromoll was married to Suzan: they had three children, Hans Christian, Stefan and Heidi.
 
 Born 13 May 1938, Berlin, Germany. Died 31 May 2008, Stony Brook, New York, USA.
 

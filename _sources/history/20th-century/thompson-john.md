@@ -7,10 +7,10 @@ orderid: 1932
 title: Thompson (3), John
 born: 1932
 died: 0
-keywords: Thompson, Feit, theorem, U group, J group, integral equations, group theory
-description: Thompson is an American mathematician famous for co-proving a theorem on finite simple groups, discovering U and J Groups, writing on growth and form, integral equations, and group theory.
+keywords: john thompson,thompson
+description: John Thompson is an American mathematician best known for his proof (with Walter Feit) of one of the most important theorems on finite simple groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Thompson** is an American mathematician best known for his proof (with Walter Feit) of one of the most important theorems on finite simple groups.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the idea of Thompson's lapse-time notation, which simplified the notation used in the calculus of finite differences.
-2. Discovered the group theory of U (Thompson group), which was an early example of a finitely presented infinite simple group.
-3. Co-wrote the book On growth and form: The complete revised edition, which employed the mathematical concept of power series to explain the branching and form of some plants.
-4. Discovered the group J, a larger group than Thompson group U, which was also an example of a finitely presented infinite simple group.
-5. Authored the book Divergence: A survey of classical integral equations and their solution, which discussed the analysis of classical integral equations using the calculus of variations
-6. Proved the theorem regarding the required conditions for an arbitrary integral equation to be replaced by a linear equation.
-7. Co-wrote Linear differential equations and group theory from Riemann to Poincaré, which discussed differential equations from the viewpoint of geometric group theory.
+* Thompson's thesis, as is clear from its title, proved Frobenius's conjecture that a finite group with an automorphism which does not fix any group element is necessarily nilpotent.
+* Thompson was an assistant at Harvard University in 1961-62, then, in 1962, he was appointed professor at the University of Chicago.
+* In 1968 Thompson accepted a fellowship at University College, Cambridge in England.
+* It is no coincidence that starting at the time of Thompson's thesis, group theory leapt into prominence as the mathematical topic which was attracting most attention and which was undergoing the most rapid development.
+* Thompson, working with Walter Feit, proved in 1963 that all nonabelian finite simple groups were of even order.
+* Both Thompson and Feit received the Frank Nelson Cole Prize in 1965 when the thirteenth award was made to them for this their joint paper.
+* Another major early step by Thompson towards the classification of finite simple groups was his classification of those finite simple groups in which every soluble subgroup has a soluble normaliser.
+* Thompson was awarded a Fields Medal for his work at the International Congress of Mathematicians in Nice in 1970.
+* It was only after the Feit-Thompson paper that one could be sure that the whole question was a reasonable one.
+* During the 1970s Thompson contributed to the understanding of these groups.
+* John Thompson's interests after 1970 became broader and over the 1970s he also made major contributions to coding theory.
+* During the 1980s much of Thompson's work was on the problem of which finite groups could occur as Galois groups.
+* In 1989 Thompson was one of the five main speakers at the Groups St Andrews meeting.
+* The picture of Thompson shown here was taken in St Andrews during the conference.
+* Thompson has received many awards for his outstanding contributions to mathematics.
+* Among the honorary degrees that Thompson has received are ones from Yale University (1980), the University of Chicago (1985), the University of Oxford (1987) and Ohio State University (2008).
+* In a major breakthrough, Feit and Thompson proved that every non-elementary simple group has an even number of elements.
+* Later Thompson extended this result to establish a classification of an important kind of finite simple group called an NNN-group.
+* Thompson and his students played a major role in understanding the fascinating properties of these sporadic groups, including the largest, the so-called Monster.
+* The achievements of John Thompson and of Jacques Tits are of extraordinary depth and influence.
 
 Born 13 October 1932, Ottawa, Kansas, USA.
 

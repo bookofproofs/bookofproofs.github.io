@@ -7,10 +7,10 @@ orderid: 1891
 title: Milne-Thomson, Louis Melville
 born: 1891
 died: 1974
-keywords: applied mathematics, hydrodynamics, integro-differential theorem, Fourier integral operators, Jacobi elliptic functions, Lagrangian method, Rayleigh-Ritz method
-description: Louis Milne-Thomson was an English applied mathematician known for his contributions to hydrodynamics, integral calculus, Fourier calculus, and more.
+keywords: louis melville milne-thomson,milne-thomson
+description: Louis Milne-Thomson was an English applied mathematician best known for his textbooks on applied mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Louis Milne-Thomson** was an English applied mathematician best known for his textbooks on applied mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored several mathematical texts, including “Calculus for Engineers” in 1902 and “Theoretical Hydrodynamics” in 1933.
-2. Won the Adams Prize from Cambridge University in 1905 for his work on hydrodynamics.
-3. Developed and proved the integro-differential theorem (1910), which is a major concept used in mathematics.
-4. Contributed to the development of Fourier integral operators.
-5. Helped to develop the theory of Jacobi elliptic functions.
-6. Received the Sylvester Medal from the Royal Society in 1930 for his work on hydrodynamics.
-7. Discovered Milne-Thomson Circle Theorem (1934), which outlines a method to compute integrals.
-8. Known for his Lagrangian method in hydrodynamics, which remains widely used.
-9. Co-developed the Rayleigh-Ritz method (1927), which is a way to approximate solutions to problems in calculus. 
-10. Transformed the field of numerical mathematics through improved methods for approximating equations.
+* Louis was the eldest of his parents' sons.
+* Milne-Thomson entered Clifton College in Bristol in 1906 as a classical scholar and in his final year at the College he won a scholarship to study mathematics at Corpus Christi College, Cambridge.
+* Milne-Thomson was appointed as an assistant mathematics master at Winchester College in 1914.
+* On 12 September 1914, shortly after he took up his appointment, Milne-Thomson married Gertrude Frommknecht; the marriage produced three daughters.
+* After teaching for seven years at Winchester College, Milne-Thomson left in 1921 to take up an appointment as professor of mathematics at the Royal Naval College in Greenwich.
+* The most important topic that Milne-Thomson undertook research on near the start of his career was compiling tables.
+* Of course the main mathematical tool used in constructing tables was the method of finite differences and in 1933 Milne-Thomson published his first textbook, The Calculus of Finite Differences, a text in which he set out to explain to students the techniques which he used in table making.
+* His next text was also to become a classic but it marked a change in direction in Milne-Thomson's research interests.
+* In 1956 Milne-Thomson reached the age of sixty-five years and retired from the Royal Naval College in Greenwich.
+* Let us now look briefly at some papers which Milne-Thomson published between 1940 and his final paper in 1972.
+* Two years later Milne-Thomson published a sequel entitled Antiplane elastic systems.
 
 Born 1 May 1891, Ealing, London, England. Died 21 August 1974, Sevenoaks, Kent, England.
 

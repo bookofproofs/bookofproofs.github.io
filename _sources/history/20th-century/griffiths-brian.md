@@ -7,10 +7,10 @@ orderid: 1927
 title: Griffiths (2), Brian
 born: 1927
 died: 2008
-keywords: Griffiths Integral, Griffiths Transform, Griffiths Identities, Topological Quantum Computing, Mathematical Physics, Griffiths Method, Matrix Editions
-description: Brian Griffiths was a topologist and pioneer in mathematical education, known for his work on the Griffiths Integral, Transform, Identities and Method, plus contributions to topological quantum computing and mathematical physics.
+keywords: brian griffiths,griffiths
+description: Brian Griffiths was a English mathematician who worked in topology and was a pioneer in the development of mathematical education.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Brian Griffiths** was a English mathematician who worked in topology and was a pioneer in the development of mathematical education.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Griffiths Integral, an analytical technique used to calculate the integral of a function using an infinite series
-2. Co-authored the classic text "Mathematical Methods for Physicists"
-3. Developed the Griffiths Transform, a complex variable mapping used to evaluate solutions of linear differential equations
-4. Developed the Griffiths Identities, identities related to the expansion of determinants
-5. Authored several papers on the mathematical theory of topological quantum computing systems
-6. Won an award from the International Mathematical Union in 1992 for his contributions to mathematical physics
-7. Developed the Griffiths method, a numerical technique for solving linear differential equations 
-8. Published the book "Matrix Editions:linear and Nonlinear Mathematics".
+* After the award of his doctorate, Griffiths was appointed to the University of Aberdeen.
+* From Aberdeen, Griffiths went to the University of Bristol and then to the University of Birmingham.
+* This project led to Hilton and Griffiths publishing A comprehensive textbook of classical mathematics in 1970.
+* Before this book was published, Griffiths spent the year 1963-64 at the Courant Institute in New York.
+* This tells us much about Griffiths, for few authors react in this fashion to criticisms of their work.
+* The death of the younger son, Joe, prevented Brian from giving an invited talk on mathematics education to the 1970 International Congress of Mathematicians, and the elder, Adam, died when studying for a DPhil at Oxford.
+* Nonetheless, the Griffiths were always generous hosts and took great care to see that newcomers to the department were comfortably settled in Southampton.
+* However, only after retirement in 1992, could Brian find time to practise his violin and play in a local string orchestra and two string quartets.
+* A conference in Southampton on 21 June 2008 was dedicated to the memory of Griffiths who had died suddenly just over two weeks before.
 
 Born 26 September 1927, Horwich, Lancashire, England. Died 4 June 2008, Southampton, England.
 

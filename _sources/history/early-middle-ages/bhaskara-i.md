@@ -7,10 +7,10 @@ orderid: 600
 title: Bhaskara
 born: 600
 died: 680
-keywords: Bhaskara I, Indian mathematicians, fractions, sine table, cyclic quadrilateral, π, algorithms, solar system, spherical triangle
-description: Bhaskara Iwas an Indian mathematicians who made significant advances in maths including fractions, the sine table, π, algorithms and the solar system.
+keywords: bhaskara i,bhaskara
+description: Bhaskara I was an Indian mathematicians who wrote commentaries on the work of Aryabhata I.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Bhaskara I** was an Indian mathematicians who wrote commentaries on the work of Aryabhata I.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concepts of the mathematical operations of addition and subtraction of fractions.
-2. Discovered the value of the sine table, known as the Bijaganita Table.
-3. Established the rule for calculating the area of a cyclic quadrilateral.
-4. Determined a rule for finding the sum of consecutive numbers from any starting value.
-5. Accurately calculated the value of π .
-6. Applied the concepts of differentiation and integration for the first time to calculate the area under a curve and calculate the radius of a circle.
-7. Used algorithms to accurately calculate the square root of a number.
-8. Proposed a mathematical model of the solar system which was the first of its kind.
-9. Proved the theorem of the spherical triangle.
-10. Showed that the sum of two odd numbers yields an even number.
+* There are other references to places in India in Bhaskara's writings.
+* For example he mentions Valabhi (today Vala), the capital of the Maitraka dynasty in the 7th  century, and Sivarajapura, which were both in Saurastra which today is the Gujarat state of India on the west coast of the continent.
+* Also mentioned are Bharuch (or Broach) in southern Gujarat and Thanesar in the eastern Punjab which was ruled by Harsa for 41 years from 606.
+* Harsa was the pre-eminent ruler in north India through the first half of Bhaskara I's life.
+* A reasonable guess would be that Bhaskara was born in Saurastra and later moved to Asmaka.
+* His works are the Mahabhaskariya Ⓣ(The big book of Bhaskara), the Laghubhaskariya Ⓣ(The small book of Bhaskara)  and the Aryabhatiyabhasya Ⓣ(Commentary on Aryabhata's work).
+* The Mahabhaskariya Ⓣ(The big book of Bhaskara) is an eight chapter work on Indian mathematical astronomy and includes topics which were fairly standard for such works at this time.
+* It discusses topics such as: the longitudes of the planets; conjunctions of the planets with each other and with bright stars; eclipses of the sun and the moon; risings and settings; and the lunar crescent.
+* These occur in Chapter 7 of the work.
+* The formula which Bhaskara gives is amazingly accurate and use of the formula leads to a maximum error of less than one percent.
+* The Aryabhatiya Ⓣ(The work of Aryabhata) contains 33 verses dealing with mathematics, the remainder of the work being concerned with mathematical astronomy.
+* He considers problems of indeterminate equations of the first degree and trigonometric formulae.
+* He was the first to open discussion on quadrilaterals with all the four sides unequal and none of the opposite sides parallel.
+* One of the approximations used for π for many centuries was √10.
+* He regretted that an exact measure of the circumference of a circle in terms of diameter was not available and he clearly believed that π was not rational.
 
 Born about 600, (possibly) Saurastra (modern Gujarat state), India. Died about 680, (possibly) Asmaka, India.
 

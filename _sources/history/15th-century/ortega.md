@@ -7,10 +7,10 @@ orderid: 1480
 title: De Ortega, Juan
 born: 1480
 died: 1568
-keywords: square root extraction, third-degree equations, polynomials, quadratic equations, surface area, algebra, mathematical operations
-description: Juan de Ortega developed a method for extracting square roots, proposed an approach for polynomials, and authored a treatise on quadratic equations; he explored advanced algebraic topics and refined mathematical operations.
+keywords: juan de ortega,de
+description: Juan de Ortega was a Spanish mathematician who devised an original method of extracting square roots.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Juan de Ortega** was a Spanish mathematician who devised an original method of extracting square roots.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a novel method for solving third-degree equations, which are particularly complex equations with three variables.
-2. Proposed an approach for approximating the roots of polynomials, which is a major breakthrough in the field of mathematics.
-3. Authored a well-regarded treatise on the study of quadratic equations.
-4. Introduced a new framework for calculating the surface area of a sphere.
-5. Conducted numerous experiments for understanding the properties of geometric figures and angles.
-6. Published several pieces of research on the advancement of mathematics and its application in everyday life.
-7. Contributed to the understanding of basic mathematical operations like addition and multiplication.
-8. Refined existing methods for solving systems of equations. 
-9. Explored advanced topics in algebra such as the study of powers and radicals.
-10. Compiled comprehensive datasets and records of his mathematical studies to aid in the development of future research.
+* It was one of the major Orders within the Roman Catholic Church, and it was very active in the universities where its members were soon concentrated.
+* The Dominican order was a collection of priests, organized in provinces under a master general.
+* Members of the Order were sent wherever they were needed.
+* Often those who wished to teach in universities in the fifteenth century would join the Dominican Order, for those in the Order taught not only theology but also philosophy and the other ancient branches of learning.
+* Juan de Ortega had no university education and, as a Dominican with a vow of poverty, needed little in the way of an income as a Friar.
+* Although we do not have details of his travels we do know that he was abroad at various times teaching both in Spain and Italy.
+* Almost certainly had a teaching post within the Dominican Order but he tutored privately as well.
+* Ortega's book A Tractado subtilisimo d'arithmetica y de geometria  published in Barcelona in 1512 covered commercial arithmetic and the rules of geometry.
+* The first part of the book contains practical rules for calculations necessary for trade and includes conversion tables between the different Spanish currencies.
+* In the second part of the book, devoted mostly to geometry, Ortega gives a method of extracting square roots very accurately using Pell's equation, which is surprising since a general solution to Pell's equation does not appear to have been found before Fermat over 100 years later.
+* Very little is known about Ortega and it appears that his importance rests entirely on the interesting method for taking square roots.
+* Chuquet also devised a similar algorithm which appears in Triparty which was probably written no later than May 1484.
+* Ortega also published Cursus quattuor mathematicarum artium liberalium  published in Paris in 1516.
 
 Born 1480, Palencia (now Spain). Died 1568.
 

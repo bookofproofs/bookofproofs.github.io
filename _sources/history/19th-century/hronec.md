@@ -7,10 +7,10 @@ orderid: 1881
 title: Hronec, Jur
 born: 1881
 died: 1959
-keywords: Jur Hronec, higher mathematics, algorithm, graph theory, game theory, operations research, optimization
-description: Jur Hronec contributed to higher mathematics and created innovative algorithms, graph theory solutions, game theory algorithms and mathematical methods for operations and optimization.
+keywords: jur hronec,hronec
+description: Jur Hronec was a Slovak mathematician who made extraordinary contributions to the development of higher mathematics in Slovakia. He was a major figure in establishing several universities in Slovakia.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,41 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jur Hronec** was a Slovak mathematician who made extraordinary contributions to the development of higher mathematics in Slovakia. He was a major figure in establishing several universities in Slovakia.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm for solving combinatorial problems in graph theory.
-2. Developed an efficient data structure for encoding abstract objects with implications for cryptography.
-3. Published numerous papers on various topics in mathematics, such as combinatorial theory, graph theory and decision theory.
-4. Successfully solved a long-standing open problem related to the Hamiltonian decomposition of graphs.
-5. Spearheaded research efforts that resulted in the discovery of potentially new classes of finite structures that could lead to new insights in graph theory.
-6. Demonstrated the value of game theory in solving challenging problems by developing several efficient algorithms to determine optimal solutions.
-7. Collaborated with a team of mathematicians to prove the upper bound of a previously unsolved problem in graph theory.
-8. Discovered several innovative mathematical methods used in operations research and optimization.
+* He always used the name Jur, never Juraj, so we will use Jur Hronec throughout this biography.
+* Ondrej and Zuzana Hronec had inherited land from their ancestors, so they were able provide for their family as farmers and operators of a small iron works.
+* They had five children, Zuzka, Jano, Miso, Duro and Jur, the subject of this biography.
+* Zuzka and Miso died young, so Jur had two older brothers.
+* Jur's mother found her young child difficult since as a baby he did not sleep much.
+* Jur Hronec grew up in harsh conditions.
+* Jur Hronec said he wanted to be a doctor but the teacher laughed at him and told him the best he could hope for was to kill and dissect pigs in the village, not treat people.
+* Jur was happy when the teacher left after one year.
+* Jur Hronec had to undertake this very hard work on a very poor diet.
+* When Jur Hronec was in the sixth grade, his father told him that he wanted him to become a furrier and a tailor in the winter and to be a stone mason in the summer.
+* This did not please Jur at all for he wanted to continue his studies at a secondary school.
+* Around this time Jur's father, Ondrej Hronec, became ill with pneumonia and when he was near to death he was visited by a teacher and a priest who persuaded him that he should encourage the family to support Jur's secondary education.
+* Ondrej Hronec died but left instructions that his wife and his elder sons should support Jur to attend secondary school.
+* Also when Jur was in the sixth grade he was confirmed into the Evangelical Church at a ceremony in the church in the nearby town of Vlachovo.
+* Supporting Jur Hronec's studies at a secondary school put a severe strain on the family's finances, especially given that his father had died.
+* Up to this time Jur had always worn homemade clothes but now his mother had to buy him an outfit for school.
+* Life had been hard for Hronec so he longed for an easier time and looked forward to studying at the Evangelical Grammar School in Roznava.
+* The director of the Evangelical Grammar School in Roznava was Michal Oravec and he was a kind man who looked after Hronec making sure his studies went well.
+* Things were not easy for him at first since instruction was in Hungarian, which was not Hronec's native language.
+* To help fund his studies in Roznava, Hronec began giving private tuition in mathematics and Latin to less able pupils whose parents were wealthy.
+* These visits were not only important financially, but they also gave Hronec a broad understanding of the different regions, their peoples and their customs.
+* In October 1901 Hronec's mother died and their family home and property was divided among the brothers.
+* This had quite a impact on Hronec who still had support from his brothers but somehow he felt he now had no home.
+* He became Hronec's dissertation advisor.
+* Hronec graduated from the University of Kolozsvár in 1906 with the dissertation Matematika ako prostriedok vychovy charakteru Ⓣ(Mathematics as a means of character education) and spent the following year qualifying as a mathematics teacher.
+* His method of teaching was never to write anything on the blackboard but to have the pupils do that, never with direct instructions but rather only with Hronec asking questions to help them.
+* Hronec loved teaching and wrote books on the subject including School teaching and the mentality of teaching.
+* Hronec undertook research advised by Schlesinger and was awarded a doctorate from Giessen after defending his dissertation Fuchssche Periodenrelationen für lineare Differentialsysteme Ⓣ(Fuchsian period relations for linear differential systems) there in 1912.
+* Hronec decided that he wanted to enter university teaching and work for the improvement of higher education in Slovakia.
+* From the autumn of 1936 Hronec was chairman of an action committee which aimed to establish a Slovak Technical University, a Faculty of Science and a University of Economics in Slovakia.
+* Hronec became the first rector of this new university on 4 August 1938 but the First Vienna Award signed on 2 November 1938 ceded Košice to Hungary so the Technical University in Košice was never officially opened.
+* Hronec also took part in the establishment of the Faculty of Science of the Slovak University in Bratislava on 1 October 1940, where he began working as an unpaid professor.
+* The University of Commerce was also established in Bratislava in October 1940 by the Department of Business Engineering of the Slovak Technical University and Hronec became its first dean.
+* Jur Hronec received many honours for his contributions to mathematics in Czechoslovakia.
+* Hronec died after a short illness in Bratislava but, according to his wishes, he was buried in his native village of Gocovo.
 
 Born 17 May 1881, Gocovo, Roznava District, Kingdom of Hungary (now Slovakia). Died 1 December 1959, Bratislava, Czechoslovakia (now Slovakia).
 

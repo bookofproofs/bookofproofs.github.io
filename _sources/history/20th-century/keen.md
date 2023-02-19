@@ -7,10 +7,10 @@ orderid: 1940
 title: Keen, Linda Goldway
 born: 1940
 died: 0
-keywords: Hyperbolic Geometry, Mathematical Sciences Research Institute, President's Award, AMS Fellow, Mathematics Award, CSU East Bay, Carnegie Institution
-description: Linda Keen is a renowned American mathematician renowned for her work in hyperbolic geometry, establishing renowned institutions and receiving prestigious awards.
+keywords: linda goldway keen,keen
+description: Linda Keen is an American mathematician who is known for her work in hyperbolic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Linda Keen** is an American mathematician who is known for her work in hyperbolic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Largely responsible for establishing the Mathematical Sciences Research Institute at Berkeley in the early 80s.
-2. Received the prestigious President's Award for Excellence in Science, Mathematics, & Engineering Mentoring in 1999.
-3. Authored six books and more than 90 research papers covering a wide range of topics in mathematics.
-4. Named as a Fellow of the American Mathematical Society in 1999.
-5. Established the Keen Mathematics Award at California State University East Bay in 2016.
-6. Named Distinguished Alumna of the University of California, Berkeley in 2008.
-7. Served as a Board Member of the Carnegie Institution of Washington from 1994 to 2000.
-8. Awarded the Gold Medal of the American Mathematical Society in 2009.
-9. Member of the National Commission on Mathematics and Science Teaching for the 21st Century from 1996 to 2000.
-10. Appointed as the Chairman of the Conference Board of the Mathematical Sciences in 2005.
+* Her father was an English teacher in New York but, despite his area of academic interest, he was happy to see his daughter Linda attend the Bronx High School of Science in New York City which of course specialised in science.
+* Graduating from the Bronx High School of Science, Goldway she entered the City College of New York, gaining a B.S. in 1960.
+* Her doctoral supervisor was Lipa Bers who had worked at the Courant Institute for about 10 years before he began to supervise Keen.
+* He left the Institute in 1964, the year in which Keen was awarded her Ph.D. Her research involved studying the interplay between the analytic and geometric aspects of classifying Riemann surfaces.
+* Keen defined the set of parameters for this space in terms of the hyperbolic structure of a given surface determined by the conformal structure.
+* After receiving her Ph.D. Keen spent a year at the Institute for Advanced Study at Princeton.
+* In it Keen showed that for each standard fundamental region for a finitely generated Fuchsian group, acting on the unit disk, there exists a convex Fricke polygon which has the same set of generators.
+* After spending 1964-65 at the Institute for Advanced Study, Keen took up posts in the City University of New York.
+* It became a fully coeducational autonomous College of the City University of New York in 1964, shortly before Keen took up her post there.
+* When Lehman College split from Hunter College, Keen joined it and has remained on the staff since that time.
+* We should mention some more important work undertaken by Keen.
+* Using powerful techniques developed by Thurston that involve hyperbolic three-manifolds, Keen and Series gave a geometric interpretation to Maskit's parameters.
+* Much of Keen's work has been done in collaborations with other mathematicians and after her work with Caroline Series she teamed up with Paul Blanchard, Robert Devaney, and Lisa Goldberg to produce important results on dynamical systems.
+* Keen, working with Nikola Lakic, wrote the book Hyperbolic geometry from a local viewpoint which was published in 2007 by Cambridge University Press in the London Mathematical Society Student Texts series.
+* Keen served as President of this organisation during 1985-1986.
+* Among other contributions made by Keen, we should mention her editorial work with publications such as the Journal of Geometric Analysis, the Annales of the Finnish Academy of Sciences, and the Proceedings of the American Mathematical Society.
 
 Born 9 August 1940, New York City, New York, USA.
 

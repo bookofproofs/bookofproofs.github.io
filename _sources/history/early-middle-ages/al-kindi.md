@@ -7,10 +7,10 @@ orderid: 805
 title: Al-Kindi, Abu Yusuf Yaqub ibn Ishaq al-Sabbah
 born: 805
 died: 873
-keywords: Al-Kindi, mathematics, Indian numerals, Euclidean geometry, algebraic groundwork, Archimedes, cryptology
-description: Al-Kindi was an Islamic mathematician who wrote on Indian numerals, Euclidean geometry, algebraic groundwork and Archimedes. He also developed methods in cryptology and mathematics.
+keywords: al-kindi,al-kindi
+description: Al-Kindi was an Islamic mathematician who wrote on the Indian mumber system as well as geometry and optics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Kindi** was an Islamic mathematician who wrote on the Indian mumber system as well as geometry and optics.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the first known book on pharmacology which was used for centuries to come.
-2. Introduced Indian numerals and Hindu–Arabic numeral system to Arabic civilization.
-3. Constructed Euclidean geometry around an algebraic groundwork.
-4. Pioneered mathematical logic through his exploration of Aristotle’s Organon and contributed to the Aristotelian school of logic. 
-5. Produced a translation and commentary of Archimedes texts.  
-6. Developed methods of solving cubic and quartic equations using the Pythagorean theorem. 
-7. Investigated conic sections and circles of the greatest diameter and least circumference. 
-8. Defined a set of basic geometric principles and theorems. 
-9. Developed early methodologies and theorems in the field of cryptology. 
-10. Discovered a method for finding the numerical value for pi and for calculating the area of a triangle.
+* This was certainly the right place for al-Kindi to get the best education possible at this time.
+* Although quite a few details (and legends) of al-Kindi's life are given in various sources, these are not all consistent.
+* Certainly all agree that al-Kindi was descended from the Royal Kindah tribe which had originated in southern Arabia.
+* After beginning his education in Kufah, al-Kindi moved to Baghdad to complete his studies and there he quickly achieved fame for his scholarship.
+* Al-Kindi was appointed by al-Ma'mun to the House of Wisdom together with al-Khwarizmi and the Banu Musa brothers.
+* The main task that al-Kindi and his colleagues undertook in the House of Wisdom involved the translation of Greek scientific manuscripts.
+* Al-Kindi continued to be in favour and al-Mu'tasim employed al-Kindi to tutor his son Ahmad.
+* Under both these Caliphs al-Kindi fared less well.
+* In fact most of al-Kindi's philosophical writings seem designed to show that he believed that the pursuit of philosophy is compatible with orthodox Islam.
+* It is claimed that the Banu Musa brothers caused al-Kindi to lose favour with al-Mutawakkil to the extent that he had him beaten and gave al-Kindi's library to the Banu Musa brothers.
+* Al-Kindi "was the most leaned of his age, unique among his contemporaries in the knowledge of the totality of ancient scientists, embracing logic, philosophy, geometry, mathematics, music and astrology.
+* Perhaps, rather surprisingly for a man of such learning whose was employed to translate Greek texts, al-Kindi does not appear to have been fluent enough in Greek to do the translation himself.
+* Clearly he was most influenced most strongly by the writings of Aristotle but the influence of Plato, Porphyry and Proclus can also be seen in al-Kindi's ideas.
+* We should certainly not give the impression that al-Kindi merely borrowed from these earlier writer, for he built their ideas into an overall scheme which was certainly his own invention.
+* Al-Kindi wrote many works on arithmetic which included manuscripts on Indian numbers, the harmony of numbers, lines and multiplication with numbers, relative quantities, measuring proportion and time, and numerical procedures and cancellation.
+* In geometry al-Kindi wrote, among other works, on the theory of parallels.
+* Perhaps al-Kindi's own words give the best indication of what he attempted to do in all his work.
+* Certainly al-Kindi tried hard to follow this path.
+* Much of al-Kindi's work remains to be studied closely or has only recently been subjected to scholarly research.
 
 Born about 801, Kufa, Iraq. Died 873, Baghdad, Iraq.
 

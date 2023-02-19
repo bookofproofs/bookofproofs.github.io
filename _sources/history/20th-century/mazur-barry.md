@@ -7,10 +7,10 @@ orderid: 1937
 title: Mazur (2), Barry
 born: 1937
 died: 0
-keywords: Barry Mazur, Mathematics, Geometric Topology, Differential Topology, Algebraic Geometry, Wolf Prize, National Medal of Science
-description: Barry Mazur, an award-winning American mathematician, has made seminal contributions to Arithmetic, Geometry and Topology.
+keywords: barry mazur,mazur
+description: Barry Mazur is an American mathematician who made contributions to geometric topology, differential topology and algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Barry Mazur** is an American mathematician who made contributions to geometric topology, differential topology and algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Received an American Academy of Arts and Sciences fellowship and the National Medal of Science in 2001.
-2. Spearheaded the development of the Arithmetic moduli varieties and the Theory of Elliptic Curves.
-3. Developed groundbreaking work in algebraic number theory, algebraic topology, and arithmetic geometry.
-4. Received the Wolf Prize in Mathematics in 2003.
-5. Discovered an algorithm to solve certain integral equations.
-6. Authored and co-authored several books on arithmetic geometry.
-7. Pioneered several new methods related to the Tate–Shafarevich group.
-8. Published numerous research and magazine articles on mathematics.
-9. Helped organize the Mathematical Sciences Research Institute in 1980.
-10. Member of the National Academy of Sciences.
+* A friend, who was somewhat older than Mazur, was interested in electronics and this sparked an interest in Mazur in the mathematics which was behind the physical phenomena that fascinated his friend.
+* Mazur did participate in the programme but he did not enjoy it and this was evident in his performance.
+* Fortunately Princeton was satisfied with evidence of mathematical ability rather than requiring a degree certificate which Mazur never received, so he was able to enter the graduate school at Princeton University.
+* While a Junior Fellow, Mazur met Grace Dane who was a postgraduate research biologist at Harvard studying the microarchitecture of silkworms.
+* Mazur received four prizes from the American Mathematical Society, namely the Veblen Prize for geometry in 1966, the Cole Prize for number theory in 1982, the Chauvenet Prize for exposition in 1994, and the Steele Prize for seminal contribution to research in 2000.
+* Mazur began his research career in geometric topology but has become one of the world's leading experts in number theory after working in algebraic geometry.
+* Mazur's work in topology was outstanding and it led to the award of the Veblen Prize in 1966 for his work on the generalized Schönflies theorem.
+* Rarely has a single paper given rise to such a wealth of important mathematics as has Mazur's paper on "Modular curves and the Eisenstein ideal".
+* Mazur had much earlier received the Cole prize for work which would prove important in the solution of Fermat's last Theorem.
+* Let us quote a beautiful description of 'number' which Mazur wrote in the Foreword to Tobias Dantzig's book Number: The Language of Science.
+* Mazur gives his views in poetic fashion in Number Theory as Gadfly.
+* Another honour given to Mazur which we have not mentioned above was his election as a member of the National Academy of Sciences in 1982.
+* Mazur has written several research books such as Étale homotopy  with Mike Artin in 1969, Smoothings of piecewise linear manifolds  with Morris Hirsch in 1974, and Arithmetic moduli of elliptic curves  with Nicholas Katz in 1985.
+* Mazur, however, is not the only member of his family writing popular books.
+* His wife Grace Dane Mazur left science in 1986 for writing fiction (unlike her husband whose work is definitely non-fiction!).
 
 Born 19 December 1937, New York, New York, USA.
 

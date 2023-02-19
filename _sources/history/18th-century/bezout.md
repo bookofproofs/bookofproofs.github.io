@@ -7,10 +7,10 @@ orderid: 1730
 title: Bézout, Étienne
 born: 1730
 died: 1783
-keywords: Étienne Bézout, mathematic, polynomial equations, algebraic geometry, analytic geometry, numerical integration, symbolic representation
-description: Étienne Bézout was a French mathematician known for pioneering new methods to solve polynomial equations, influential in algebraic & analytic geometry, numerical integration & symbolic representation.
+keywords: étienne bézout,bézout
+description: Étienne Bézout was a French mathematician who is best known for his theorem on the number of solutions of polynomial equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Étienne Bézout** was a French mathematician who is best known for his theorem on the number of solutions of polynomial equations.
 
 ### Mathematical Profile (Excerpt):
-1. Contributed to the development of the modern theory of equations, introducing new methods for solving polynomial equations.
-2. Developed the basic ideas of modern algebraic geometry, including the use of eliminating variables.
-3. Formulated a proof of the fundamental theorem of algebra.
-4. Developed a generalization of the calculation of prime numbers.
-5. Pioneered the subject of analytic geometry and the improvement of numerical integration techniques.
-6. Wrote a landmark book, "Cours de Mathématiques" which became a reference work for the generations to come.
-7. Introduced the notion of symbolic representation of algebraic equations.
-8. Developed methods for the integration of differential equations that are still used today.
-9. Streamlined the calculation of determinants on matrices using his “method of substitution”.
-10. Developed the method of least squares for curve fitting.
+* One might have expected Étienne to follow the same career, for his grandfather had also been a magistrate in Nemours.
+* Étienne's mother was Hélène-Jeanne Filz.
+* As we have already indicated the family tradition almost demanded that Étienne follow in his father and grandfather's footsteps.
+* However the remarkable mathematics of Leonard Euler proved stronger than his parents wishes, for once Bézout had read Euler's works he wished to devote himself to mathematics.
+* In 1758 Bézout was appointed an adjoint in mechanics of the Académie des Sciences and, in the same year, as royal censor.
+* Bézout is famed for the texbooks which came out of this assignment.
+* Bézout was appointed to succeed him becoming examiner of the Corps d'Artillerie.
+* As might be expected given this approach aimong at the readership for whom Bézout intended his texts, his books came in for a certain amount of criticism for lacking rigour.
+* Returning to give more information about Bézout's career, we should note that he was promoted to associé in mechanics at the Académie des Sciences in 1768 and then further promoted to pensionnaire in 1770.
+* As we have indicated Bézout is famed for being a writer of textbooks but he is famed also for his work on algebra, in particular on equations.
+* The way Bézout went about his research is interesting since still today it is a good approach for obtaining results.
+* Bézout had a name for this approach to mathematics, namely the "method of simplifying assumptions".
+* Of course on the face of it this does not help solve the equation but Bézout made the simplifying assumption that one of the two equations was of a particularly simple form.
+* Already this paper had introduced the topic to which Bézout would make his most important contributions, namely methods of elimination to produce from a set of simultaneous equations, a single resultant equation in one of the unknowns.
+* As a result of the ideas in this paper for solving systems of simultaneous equations, Sylvester, in 1853, called the determinant of the matrix of coefficients of the equations the Bézoutiant.
+* These and further papers published by Bézout in the theory of equations were gathered together in Théorie générale des équations algébraiques Ⓣ(General theory of algebraic equations) which was published in 1779.
+* By a complete equation Bézout meant one defined by a polynomial which contains terms of all possible products of the unknowns whose degree does not exceed that of the polynomial.
+* Despite this Bézout, who was prepared to enter long and difficult algebraic manipulations, proved his theorem with just a little hand waving over an inductive argument.
+* In this work Bézout also gave the first satisfactory proof of a result of Maclaurin on the intersection of two algebraic curves.
 
 Born 31 March 1730, Nemours, France. Died 27 September 1783, Basses-Loges (near Fontainbleau), France.
 

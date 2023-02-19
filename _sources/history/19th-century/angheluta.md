@@ -7,10 +7,10 @@ orderid: 1882
 title: Angheluta, Theodor
 born: 1882
 died: 1964
-keywords: Angheluță theorem, combinatorial structures, Homogeneous Algebraic Geometry, Angheluță Topological Model, Semidefinite Optimization, L-Clifford System, Diophantine equations
-description: Theodor Angheluțărevolutionized multiple branches of mathematics, making fundamental discoveries in algebraic and topological geometry, equations, and optimization.
+keywords: theodor angheluță,angheluta
+description: Theodor Angheluță was a Romanian mathematician who made important contributions to Function Theory, to Differential and Integral Equations, and to Functional and Algebraic Equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Theodor Angheluță** was a Romanian mathematician who made important contributions to Function Theory, to Differential and Integral Equations, and to Functional and Algebraic Equations.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Angheluță theorem on algebraic structures, the central theorem in algebraic geometry.
-2. Introduced the concept of combinatorial structures, the foundation of the modern theory of algebraic geometry.
-3. Developed methods of computing projective and affine varieties using linear algebra.
-4. Developed an algorithm to determine if a given structure is homogeneous, paving the way for a new branch of mathematics called Homogeneous Algebraic Geometry.
-5. Established a new way of thinking about curves, surfaces, and varieties known as the Angheluță Topological Model.
-6. Pioneered advances in Semidefinite Optimization, pushing the boundaries of current numerical methods.
-7. Solved problems in the topology of real algebraic varieties, unifying the fields of algebraic geometry and topology.
-8. Invented a new computational technique, the L-Clifford System, for finding polynomial equations defining sets in algebraic geometry.
-9. Developed an effective enumeration of line sets in projective spaces, a fundamental contribution to Algebraic Geometry.
-10. Constructed a numerical equation consisting of a pair of polynomials, an essential tool for solving Diophantine equations.
+* From 1910, Theodor Angheluță was a student at the Sorbonne in Paris, working mainly on the guidance of Émile Picard.
+* Theodor Angheluță was appointed associate professor in the Faculty of Sciences of the University of Bucharest in 1919.
+* On 16 June 1922 Angheluță defended his Ph.D. thesis On a general class of trigonometric polynomials and the approximation of a continuous function at the University of Bucharest.
+* After the award of his doctorate, in 1923 Angheluță was appointed as a full professor of Algebra in the Faculty of Sciences of the University of Cluj.
+* Angheluță was fully involved in the intense work of organizing mathematical education at the University.
+* Professor Theodor Angheluță was the dean of the Faculty of Sciences of the University of Cluj between 1931 and 1932.
+* All of them began operating in November 1940 and at this time Angheluță taught at Timișoara.
+* Angheluță retired on 1 September 1947, but then, at the end of 1950, he was appointed again as a full professor at the Faculty of Mathematics and Physics at the Victor Babeș University of Cluj.
+* From 1 October 1955 to September 1962, Professor Theodor Angheluță was a full professor in the Mathematics Department of the Technical Institute of Cluj.
+* Theodor Angheluță made important contributions to Function Theory, to Differential and Integral Equations, and to Functional and Algebraic Equations.
+* A special kind of functional equation is today named after him, namely the 'Angheluță type functional equation'.
+* We note that this represents only small selection from the papers that Angheluță published.
+* Theodor Angheluță died at Cluj in May 1964.
 
 Born 28 April 1882, Adam, Tutova county, Romania. Died 30 May 1964, Cluj, Romania.
 

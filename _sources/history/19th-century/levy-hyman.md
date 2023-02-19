@@ -7,10 +7,10 @@ orderid: 1889
 title: Levy, Hyman
 born: 1889
 died: 1975
-keywords: Hyman Levy, differential equations, calculus, trigonometry, optics, astronomy, Fermat's theorem
-description: Hyman Levy was a Scottish mathematician known for works on differential equations, calculus, trigonometry, optics, astronomy, and Fermat's theorem, and for moving mathematics teaching to an abstract basis.
+keywords: hyman levy,levy
+description: Hyman Levy was a Scottish mathematician whose main work was in the numerical solution of differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hyman Levy** was a Scottish mathematician whose main work was in the numerical solution of differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first mathematician in Britain to recognize the importance and power of calculus. 
-2. He published numerous works on differential equations and the calculus of variations, as well as works on trigonometry, optics, and astronomy.
- 3. He was among the first scholars to suggest that celestial mechanics follows mathematical principles. 
-4. He wrote several authoritative books on trigonometry and differential equations, which formed the basis of the teaching of mathematics in British universities throughout the 19th century. 
-5. He was the president of both the London Mathematical Society and the British Mathematical Association and he founded the British Society for the History of Mathematics. 
-6. He proposed a generalization of Fermat's theorem, now known as "Levy's theorem". 
-7. He moved the teaching of mathematics from a computational basis to one based on abstraction.
+* His mother was  Minna Levy (born in Germany about 1864) who was a draper.
+* Hyman had two older siblings: Joseph (born about 1885), Fanny (born about 1887), and several younger siblings: Sophia (born about 1892), Millie  (born about 1894), Morris  (born about 1895), and David  (born about 1897).
+* Hyman Levy was the third of eight children in the orthodox Jewish family.
+* The actual date of his birth seems a little hard to determine, given as 7 March in Who's Who and one has to assume that Levy himself supplied this information.
+* Levy attended George Heriot's School in Edinburgh, then entered the University of Edinburgh to study mathematics and physics.
+* In 1916 Levy was honoured by being elected a fellow of the Royal Society of Edinburgh.
+* Levy left the National Physical Laboratory in 1920 and became an assistant professor of mathematics at the Royal College of Science of the Imperial College of Science and Technology, London.
+* In 1954 Levy retired and became Professor Emeritus but he agreed to continue to act as head of the mathematics department at Imperial College for one further year until 1955.
+* Levy's main work was in numerical methods, numerical solution of differential equations, finite difference equations and statistics.
+* However, Levy was more than a mathematician.
+* His advice was followed and the Labour Party set up a Science Advisory Committee which Levy chaired from 1924 to 1930.
+* The persecution of Jewish intellectuals in Russia which he found in the investigation appalled Levy.
+* Rather than resign from the British Communist Party, Levy attacked the leadership of his own Party demanding to know whether they had been aware of the treatment of the Jews in Russia.
+* Levy had also suffered family problems because of his Jewish upbringing.
+* Marion was a devout Presbyterian and this caused a breakdown of relations between Levy and his own family.
+* A strong supporter of the London Mathematical Society during his career in London, Levy served the Society on its Council from 1929 to 1933, being vice-president of the Society during 1931-32.
 
 Born 28 February 1889, Edinburgh, Scotland. Died 27 February 1975, Wimbledon, London, England.
 

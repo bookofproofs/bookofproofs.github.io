@@ -7,10 +7,10 @@ orderid: 1823
 title: Amsler, Jacob
 born: 1823
 died: 1912
-keywords: Jakob Amsler-Laffon, Quadratic Reciprocity Law, Metric System, Iterative Method, Analysis of Configurations, Equation of Continuous Dependence, Pell-Fermat Theorem
-description: Jakob Amsler-Laffon developed a method for the Quadratic Reciprocity Law, spread the Metric System in Switzerland, invented an iterative method & analysis of configurations, & co-discovered the Pell-Fermat Theorem.
+keywords: jacob amsler,amsler
+description: Jakob Amsler-Laffon was a Swiss mathematician, physicist, engineer and inventor.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jakob Amsler-Laffon**  was a Swiss mathematician, physicist, engineer and inventor.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method of proving the quadratic reciprocity law for number fields.
-2. Helped popularize the metric system in Switzerland. 
-3. Introduced an iterative method to solve λ (lambda)-types of equations. 
-4. Developed a form of the analysis of configurations with two imaginary elements. 
-5. Found the equation of continuous dependence of the roots of an equation on its coefficients. 
-6. Proved that invariants of binary quintics are rational integers. 
-7. Co-discovered the Pell-Fermat theorem. 
-8. Solved several open problems in algebraic number theory.
+* Amsler studied theology first at the University of Jena and then at the University of Königsberg.
+* It was at Königsberg that Amsler changed his course from theology to mathematics and physics.
+* The teacher who changed Amsler's future was Franz Neumann whose lectures and laboratory sessions he attended at the University of Königsberg.
+* In 1848 Amsler was awarded his doctorate from the University of Königsberg and he then returned to Switzerland to continue his education.
+* Back in Switzerland, Amsler worked for a year at the observatory in Geneva.
+* In 1851, wishing to have more time to devote to his research, Amsler took a position at the Gymnasium in Schaffhausen, a town in northern Switzerland situated on the bank of the Rhine.
+* Amsler extended the theorems of both Ivory and Poisson on this topic.
+* In 1854 Amsler married and this may have been the turning point in his career.
+* His wife, Elsie Laffon, was the daughter of a well known Swiss scientist and, as was the custom in Switzerland at that time,  he was known as Amsler-Laffon from this time on.
+* Elsie and Jacob Amsler-Laffon's children were, however, always known by the name Amsler rather than Amsler-Laffon.
+* Shortly after his marriage Amsler changed his research interests and his career.
+* In 1856 Amsler published a paper Über das Planimeter Ⓣ(On the planimeter) in which he gave details of his idea.
+* In order to make money from his invention, Amsler set up a workshop in Schaffhausen in 1854 specially designed to produce his polar planimeter.
+* Amsler did not rest his fame on this single inspired idea but continued to invent new precision instruments.
 
 Born 16 November 1823, Stalden bei Brugg, Switzerland. Died 3 January 1912, Schaffhausen, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1843
 title: Pasch, Moritz
 born: 1843
 died: 1930
-keywords: Moritz Pasch, Euclid, Pasch Axiom, Jordan Curve, Pasch Limit Theorem, Non-Euclidean, Geometric Group
-description: Moritz Paschwas a German mathematician who developed foundational geometry concepts and a non-Euclidean definition of a line. He also pioneered a geometric group and formulated the Pasch Limit Theorem.
+keywords: moritz pasch,pasch
+description: Moritz Pasch was a German mathematician who worked on the foundations of geometry. He found a number of assumptions in Euclid that nobody had noticed before.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Moritz Pasch** was a German mathematician who worked on the foundations of geometry. He found a number of assumptions in Euclid that nobody had noticed before.
 
 ### Mathematical Profile (Excerpt):
-1. Pasch proved the first version of what is now known as the Pasch Axiom, which states that between any two points that lie on the same side of a line, there is at least one other point lying on the opposite side of the line.
-2. He also published his book Vorlesungen über neuere Geometrie (‘Lectures on Modern Geometry’) in 1882 which established the basis of modern synthetic geometry.
-3. Pasch was the first mathematician to use the concept of a Jordan curve, which is the path a continuously moving point takes throughout a 2D space, to prove theorems.
-4. Pasch developed his own definition of a ‘limit’, later known as the Pasch Limit Theorem; this was a precursor to the modern definition of a limit.
-5. He was a pioneer of non-Euclidean geometry in the 1880s; he developed the first ‘non-Euclidean’ definition of a ‘straight line’ which, he argued, was mutually exclusive from Euclidean definitions.
-6. He proved that the concept of the ‘curvature of a line’, which was a crucial component of the mathematical fields of topology and differential geometry, could be calculated from the size of a triangle.
-7. Pasch formulated the first definition of a 'geometric group'; a group of permutations operating on a space which does not shift the shape of the space.
+* Pasch attended the Elisabeth Gymnasium in Breslau, graduating in 1860.
+* Pasch was awarded his doctorate on 21 August 1865 for his thesis De duarum sectionem conicarum in circulos projectione Ⓣ(The two conic section in circular projection).
+* His thesis advisor was Schröter and Pasch dedicated his thesis to him and to Kambly his mathematics teacher at the Gymnasium.
+* Pasch's father died in Breslau on 24 October 1866 and he gave up his research towards his habilitation in order to help care for his family.
+* Pasch married Laura Reichenbach from Breslau on 15 September 1875, three weeks after being made a full professor.
+* In addition to remarkable research contributions which we mention below, Pasch was interested in the administration of the university and he devoted considerable effort as chairman of the committee responsible for the examination of prospective high school teachers.
+* Drawing on the work of his predecessors, Pasch was the first to explicitly state all the basic concepts and axioms necessary for his construction of projective geometry.
+* But no one before Pasch had laid a basis for dealing logically with such observations.
+* Pasch's Axiom is that if a line enters a triangle ABCABCABC through the side ABABAB and does not pass through CCC then it must leave the triangle either between BBB and CCC or between CCC and AAA.
+* Pasch argued in Vorlesungen über neuere Geometrie (1882) that geometers rely too heavily on physical intuition.
+* Pasch claimed that the principle of duality contradicted physical intuition about points and lines, nobody believed that these terms were interchangeable.
+* Hilbert was to be influenced by these ideas of Pasch.
+* Pasch explains the axiomatic method in mathematics in great detail.
+* According to Pasch, the mathematical language is often not clear, enough.
+* Pasch received a number of honours for his outstanding contributions including honorary degrees from the University of Frankfurt and from the University of Freiburg to mark his eightieth birthday.
+* After retiring in 1911 Pasch continued to live in Giessen.
+* Pasch was taking a holiday in Bad Homburg when he died.
 
 Born 8 November 1843, Breslau, Prussia (now Wrocław, Poland). Died 20 September 1930, Bad Homburg, Germany.
 

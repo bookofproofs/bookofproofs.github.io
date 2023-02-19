@@ -7,10 +7,10 @@ orderid: 1908
 title: Kuttner, Brian
 born: 1908
 died: 1992
-keywords: Brian Kuttner, English Mathematician, Fourier Series, Financial Modeling, Algorithms, Data Analysis, Risk Management
-description: Brian Kuttner, English mathematician, used his knowledge of Fourier Series to develop financial modeling, algorithms, data analysis & risk mgmt tools.
+keywords: brian kuttner,kuttner
+description: Brian Kuttner was an English mathematician who worked on Fourier Series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Brian Kuttner** was an English mathematician who worked on Fourier Series.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical framework for a new financial modeling process to optimize resource allocation decisions.
-2. Researched and published two groundbreaking papers on the use of algorithms for solving financial problems.
-3. Created mathematical models for efficiently analyzing large sets of data to identify trends and develop forecasts.
-4. Led a team of mathematicians and engineers in developing a sophisticated software program for predicting stock market performance.
-5. Developed a sophisticated algorithm for predicting events in the commodity market.
-6. Led a cross-team project that developed financial risk management tools.
-7. Created and implemented an advanced financial risk management system.
-8. Developed a framework for understanding the mechanisms behind stock market movements.
-9. Wrote two computer programs to assess portfolio risk and develop strategies for optimal investment.
-10. Developed a mathematical algorithm for forecasting foreign currency exchange rates.
+* His mother was Lilian Frances Kuttner (born in Stepney about 1875).
+* Brian Kuttner had a younger brother Conrad Adolph  and sister Elsa Marion (twins born 1910).
+* Brian Kuttner attended University College School in London and from there he won a scholarship to study at Christ's College Cambridge.
+* Kuttner spent a while in Göttingen studying with Edmund Landau and received his doctorate in 1934.
+* However, before the award of his doctorate Kuttner had been appointed in 1932 as an assistant lecturer at the University of Birmingham.
+* At Birmingham Kuttner joined the Mathematics Department headed by G N Watson.
+* Most of Kuttner's early work is on Fourier series and summability.
+* Hardy quotes some of these early results of Kuttner's in his treatise Divergent series (1949).
+* at the age of only 26, Kuttner proved a basic theorem in the general theory of trigonometric series, a result delightful for both the deceptive simplicity of its statement and the elegance of its proof.
+* Zygmund greatly admired this theorem of Kuttner, which now occupies an honoured place in Zygmund's monumental work on trigonometric series.
+* Kuttner's interests outside mathematics included travelling and walking.
 
 Born 11 April 1908, London, England. Died 2 January 1992, Birmingham, England.
 

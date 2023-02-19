@@ -7,10 +7,10 @@ orderid: 1819
 title: Fizeau, Armand-Hippolyte-Louis
 born: 1819
 died: 1896
-keywords: Hippolyte Fizeau, speed of light, double refraction, length contraction, optical metrology, annular eclipse, Theory of Relativity
-description: Hippolyte Fizeau first accurately measured the speed of light, determined the law of double refraction, studied length contraction, advanced optical metrology and proposed a model for annular eclipse, inspiring Einstein's Theory of Relativity.
+keywords: hippolyte fizeau,fizeau
+description: Hippolyte Fizeau was a French physicist, best known for measuring the speed of light.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hippolyte Fizeau**  was a French physicist, best known for measuring the speed of light.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first to accurately measure the speed of light by attempting to evaluate the length of a moving gear wheel.
-2. He constructed a device that measured the speed of light by shooting a narrow beam of light between two points, then measuring the time it took for the light to travel the distance.
-3. He determined the law of double refraction, or the dispersion of a light beam into two discs when it passes through a prism.
-4. He developed a method for analyzing the diffraction of light by an aperture that focused his research on frequency of light.
-5. He established the concept of length contraction (also known as Fizeau's paradox), which states that moving objects contract in the direction of motion relative to an observer.
-6. He made advances in the field of optical metrology, developing tools for accurate measurements of distances, angles, and light signals.
-7. He proposed a mathematical model for describing the annular eclipse, which later helped Einstein in making his Theory of Relativity.
+* His father Louis Fizeau, coming from a family many generations of which had been doctors, was Professor of Pathology at the Paris Medical School.
+* It was certainly expected that Hippolyte would follow in the family tradition and enter the medical profession - anything else would have been unthinkable.
+* An important event, which was to have a marked affect on Fizeau's future, happened in September 1839.
+* Louis-Jacques Daguerre put on a free course on his new photographic techniques in Paris and the two friends Fizeau and Foucault attended.
+* Although Fizeau and Foucault were impressed they also realised the limitations of the process - it would be wonderful to be able to take portraits, they thought, but the subject could not be expected to remain motionless for 30 minutes.
+* After the course ended they began to experiment to try to speed up the process, and Fizeau had the idea of sensitizing the plate using bromine.
+* After an excellent education at the Collège Stanislas, Fizeau entered the Paris Medical School in 1840.
+* Fizeau had another method of building up his knowledge of mathematics and physics, which was to make a deep study of the notebooks containing the lecture notes taken by his brother who attended courses at the École Polytechnique.
+* Arago was aware of the great scientific potential of the new methods of photography and, in particular, he was aware of the advances made by Fizeau and Foucault.
+* Arago was delighted with the success of Fizeau and Foucault in photographing the sun, and suggested to them that they try to calculate the speed of light with an earth based experiment.
+* Both Fizeau and Foucault had their own ideas how to proceed and after an initial period working on this together they split up.
+* In July 1849 Fizeau set up a mirror at his parents' home at Suresnes and another on Montmartre, the hill on the right bank of Paris.
+* In April 1850 Foucault became the first to show that light travelled more slowly in water than in air - Fizeau confirmed this result with his apparatus seven weeks later.
+* In 1851 Fizeau tried to measure the passage of the earth through the ether and achieved a negative result.
+* Since Einstein frequently referred to the Fizeau experiment (1851) which Michelson had repeated in 1886, but more recent literature often cites Hoek's experiment (1868) instead, we finally analyze these experiments and their historical significance.
+* reveals that Foucault once collaborated in his laboratory with Fizeau in testing ether drag by transparent bodies.
+* The integral text of Fizeau's memoir of September 29, 1851, when reread in the light of this first, unsatisfactory project, is indicative of a new approach.
+* Fizeau was made a knight of the Légion d'Honneur in 1849.
+* Fizeau was elected to the Academy of Sciences on 2 January 1860, rather surprisingly before Foucault who was not elected until 1865.
+* Thérèse died young and after this Fizeau retired to his home near Jouarre.
 
 Born 23 September 1819, Paris, France. Died 18 September 1896, Nanteuil-le-Haudouin, Seine-et-Marne, France.
 

@@ -7,10 +7,10 @@ orderid: 1922
 title: Speiser (2), Ambrosius Paul
 born: 1922
 died: 2003
-keywords: Ambros Speiser, Swiss engineer, mathematician, Foundations of Analysis, finite state sets, Riemannian geometry, partially ordered sets
-description: Swiss engineer and mathematician Ambros Speiser established a general approach to analysis and topology in his book "Foundations of Analysis", and developed a theory of partially ordered sets which has had an influence in many fields.
+keywords: ambros speiser,speiser
+description: Ambros Speiser was a Swiss engineer and mathematician who led the development of the first Swiss computer.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ambros Speiser** was a Swiss engineer and mathematician who led the development of the first Swiss computer.
 
 ### Mathematical Profile (Excerpt):
-1. Established a general approach to analysis and topology, culminating in his book Foundations of Analysis. 
-2. Developed a method of proving the existence of solutions to boundary-value problems for partial differential equations.
-3. Published several important and influential works on mathematical logic, including his 1929 paper "The Theory of Finite State Sets and their Use in the Theory of Logic".
-4. Made valuable contributions to the field of Riemannian geometry and published a book on the topic in 1935.
-5. Proved the Jordan Separation Theorem which was a major advancement in topology.
-6. Pioneered the formal study of the foundations of mathematics, including axiomatic set theory and model theory.
-7. Developed the theory of partially ordered sets, which has been influential in many branches of mathematics and computer science.
+* Ambros was the eldest of his parents' three children.
+* The family were living in Surbiton in Surrey, England and Ambros was brought up there, attending elementary school in Surbiton.
+* In 1931, when Ambros was eight years old, the family moved to Baden in the canton of Aargau in Switzerland.
+* Speiser entered the Eidgenössische Technische Hochschule Zürich (ETH) in 1944 where he studied electrical engineering.
+* Speiser completed his electrical engineering degree at ETH in 1948, specialising in low-voltage technology.
+* He then became one of two assistants to Stiefel at the new Institute for Applied Mathematics which was founded in the year Speiser graduated.
+* Stiefel decided that the Institute for Applied Mathematics at ETH should build its own electronic computer, so he sent Heinz Rutishauser and Ambros Speiser on a fact finding visit to the United States in January 1949.
+* Rutishauser and Speiser spent most of 1949 at Harvard with Howard Aiken and at Princeton with John von Neumann.
+* Returning to the ETH in December 1949, Speiser discovered that plans had changed since Stiefel had managed to persuade the ETH to rent the use of Konrad Zuse's Z4.
+* In the same year Speiser married the pianist Margrit Schenk; they had four children.
+* Since becoming Stiefel's assistant, Speiser had been working on his doctorate under Stiefel's supervision.
+* There followed a series of four papers by Stiefel, Rutishauser and Speiser, Programmgesteuerte digitale Rechengeräte (elektronische Rechenmaschinen) Ⓣ(Program-controlled digital computing devices (electronic calculators))  appearing in 1950 and 1951.
+* In 1952 Speiser habilitated at ERH and was appointed as a privatdozent.
+* Speiser had been actively working on the project to build a digital computer at ETH from the time he spent the year 1949 in the United States with Rutishauser.
+* Although much work was done with the Z4 at ETH, in parallel Speiser and Rutishauser were working on the construction of ETH's own computer ERMETH (Elektronische Rechenmaschine an der ETH).
+* Speiser was the chief engineer for the project and ERMETH became operational in 1955.
+* They decided that their first choice of director was Speiser, but at this stage he was unaware of this decision.
+* Samuel took the unusual step of talking to Speiser's father who was the representative of the canton of Aargau to the Swiss Council of the States or Ständerat as it is called (a role he held from 1948 to 1961).
+* Speiser was appointed Director of the IBM research laboratory in Zürich in 1956.
+* In the same year Speiser was appointed as Professor at ETH.
+* Speiser received a number of honours for his contributions including election as president of the International Federation for Information Processing from 1965 to 1968.
 
 Born 13 November 1922, Basel, Switzerland. Died 10 May 2003, Aarau, Switzerland.
 

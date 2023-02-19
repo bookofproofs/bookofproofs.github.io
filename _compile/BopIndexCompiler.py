@@ -162,8 +162,7 @@ class BopIndexCompiler:
         sortable_contributors = list()
         for bop_source in self._all_nodes.values():
             for contributor in bop_source.contributors:
-                if contributor not in distinct_contributors and \
-                        contributor.startswith("@") and contributor not in BopSource.ai_contributors:
+                if contributor not in distinct_contributors and contributor.startswith("@"):
                     # remove any html tags from contributor
                     sortable_contributor = re.sub(r'<[^<]+?>', '', contributor, flags=re.M)
                     distinct_contributors[sortable_contributor] = contributor
@@ -184,30 +183,6 @@ class BopIndexCompiler:
             ret = self._get_index_to_html()
         else:
             ret = "(no non-Github contributors found)"
-        return ret
-
-    def get_ai_contributors_index(self):
-        BopIndexNode.clear(self._index_tree)
-        distinct_contributors = list()
-        for bop_source in self._all_nodes.values():
-            for contributor in bop_source.contributors:
-                if contributor not in distinct_contributors and \
-                        contributor.startswith("@") and contributor in BopSource.ai_contributors:
-                    distinct_contributors.append(contributor)
-        distinct_contributors.sort()
-        for contributor in distinct_contributors:
-            contributor_node = BopIndexNode()
-            contributor_node.label = contributor
-            contributor_node.parent = self._index_tree
-            relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: contributor in x.contributors)
-            relevant_bop_sources.sort(key=lambda x: x.get_plane_title())
-            self._add_to_index_tree(contributor_node, relevant_bop_sources)
-
-        self._calculate_counts(self._index_tree)
-        if len(distinct_contributors) > 0:
-            ret = self._get_index_to_html()
-        else:
-            ret = "(no artificial intelligence contributors found)"
         return ret
 
     def get_widgets_index(self):

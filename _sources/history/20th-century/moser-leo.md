@@ -7,10 +7,10 @@ orderid: 1921
 title: Moser, Leo
 born: 1921
 died: 1970
-keywords: Leo Moser, Mathematics, Number Theory, Modular Forms, Finite Geometry, Graph Theory, Catalan Conjecture
-description: Leo Moser, an Austrian-born Canadian mathematician, was a prominent figure in the fields of number theory, modular forms, finite geometry, graph theory, and the Catalan Conjecture.
+keywords: leo moser,moser
+description: Leo Moser was an Austrian-born Canadian mathematician who worked in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leo Moser** was an Austrian-born Canadian mathematician who worked in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Making significant contributions to the development of the theory of modular forms, in particular discovering and proving the famous "Moser's formula".
-2. Pioneering research on mathematical problems related to finite geometries, particularly questions in linear programming.
-3. Formulating and proving the theorems established by Moser and coworkers in the field of graph theory, especially the celebrated "Four Color Theorem".
-4. Developing "Moser's Parallels", a tool used to generate and analyze large classes of strongly regular graphs, as well as establishing measurements for the asymptotic behaviour of 2-dimensional lattices.
-5. Providing viable solutions for the long-standing open problem in number theory known as the "Catalan Conjecture".
-6. Rewriting the research of another mathematician—Alexander Stern—about doubly periodic functions of a complex variable into a unified and more comprehensive form.
+* Leo attended primary school in Winnipeg, where his parents had set up home, and continued his secondary education there.
+* His younger brother Willy Moser also went on the become a mathematician and has his biography in this archive.
+* Remaining in Winnipeg, Leo then entered the University of Manitoba to study mathematics.
+* Moser married Eva on 10 September 1946; they had four children, Barbara, Melanie, David, and Sheryl.
+* For his doctoral studies, Moser went to the University of North Carolina at Chapel Hill.
+* Alfred Brauer's interests were in number theory and so this was the area in which Moser began his research.
+* Even before he had submitted his dissertation, Moser had several papers published.
+* Moser was appointed at Texas Technical College, but shortly after this he was offered a position in the University of Alberta, and he moved back to Canada to take up the job in 1951.
+* Although the department was small and had no separate building to itself, Leo Moser was the centre of activity discussing problems with any one who cared to listen.
+* Professor Moser was very hospitable and the evening parties at his home were always a treat.
+* Moser loved the problem based type of mathematical questions.
+* We mention above the heart problems which afflicted Moser all his life.
 
 Born 11 April 1921, Vienna, Austria. Died 9 February 1970, Edmonton, Alberta, Canada.
 

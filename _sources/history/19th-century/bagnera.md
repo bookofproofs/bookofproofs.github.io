@@ -7,10 +7,10 @@ orderid: 1865
 title: Bagnera, Giuseppe
 born: 1865
 died: 1927
-keywords: Giuseppe Bagnera, geometry, algebraic equations, curves, Pi, calculus, logarithms
-description: Giuseppe Bagneradeveloped innovative solutions in geometry and algebra, making profound discoveries in understanding curves, Pi, calculus and logarithms.
+keywords: giuseppe bagnera,bagnera
+description: Giuseppe Bagnera was an Italian mathematician who worked in geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giuseppe Bagnera** was an Italian mathematician who worked in geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed innovative methods of solution for algebraic equations, including the famous “indeterminate analysis” method.
-2. Drafted the treatise De Elegantiis Curvarum (On the Elegance of Curves), a comprehensive summary of higher mathematics of the day.
-3. Carried out computations of the maximum value of cubic curves.
-4. Conducted research on tide prediction and its application for bridge construction in Venice. 
-5. Discovered a formula for the approximation of Pi.
-6. Pioneered the use of differential calculus in astronomical studies.
-7. Demonstrated the existence of cycloid arches in nature.
-8. Conducted extensive research on the fundamentals of logarithms.
-9. Developed a method of integral calculus with stratagems for solving complex numerical equations.
-10. Investigated the properties of inverse functions and their derivatives.
+* Giuseppe senior and Dorotea were married in Santa Ninfa, Palermo, in Sicily on 1 September 1861.
+* However, Giuseppe, the subject of this biography, was orphaned at a young age and grew up in very difficult circumstances having little in the way of financial support.
+* At university, Bagnera was also taught by Ernesto Cesàro who lectured in Palermo from 1887 to 1891.
+* Cesàro had spent time in France and may well have influenced Bagnera to publish his 1888 article in French in a French journal.
+* In 1893 Bagnera, who was now studying mathematics, was appointed as Gerbaldi's assistant.
+* In 1895 Bagnera was awarded his laurea in mathematics by the University of Palermo and, in the following year, he published two papers Sul teorema di esistenza delle funzioni fuchsiane Ⓣ(On the existence theorem for Fuchsian functions), which further developed ideas which had been introduced by Henri Poincaré, and Sul luogo dei contatti tripunti delle curve di un fascio con le curve di una rete Ⓣ(On the place of three point contacts of the curves of a pencil with the curves of a network).
+* In 1899 Bagnera was appointed as a teaching assistant in algebraic analysis at the University of Palermo and Gerbaldi encouraged him to compete for chairs.
+* From 1906 to 1909 Bagnera worked in collaboration with Michele de Franchis on the study of irregular surfaces, obtaining fundamental results for the classification of hyperelliptic surfaces.
+* During these years Michele de Franchis, who was also a Sicilian, was professor of projective and descriptive geometry at the University of Parma, and Bagnera and de Franchis collaborated on an outstanding series of papers on the theory of hyperelliptic surfaces.
+* The remarkable papers Bagnera wrote with de Franchis over this period are: Sopra le superficie algebriche che hanno le coordinate del punto generico esprimibili con funzioni meromorfe quadruplamente periodiche di due parametri Ⓣ(On the algebraic surface that have the coordinates of the generic point expressed with meromorphic quadruply periodic functions of two parameters) (1907); Sur les surfaces hyperelliptiques Ⓣ(On hyperelliptic surfaces) (1907); Le superficie algebriche le quali ammettono una rappresentazione parametrica mediante funzioni iperellittiche di due argomenti Ⓣ(The algebraic surface which admit a parametric representation using hyperelliptic functions of two arguments) (1908); Sopra le funzioni algebriche che si lasciano risolvere con X,Y,Z funzioni quadruplamente periodiche di due parametri Ⓣ(On the algebraic functions that can be solved with X, Y, Z quadruply periodic functions of two parameters) (1909); and Intorno alle superficie regolari di genere zero che ammettono una rappresentazione parametrica mediante funzioni iperellittiche di due argomenti Ⓣ(On the regular neighbouhood of zero generally admitting a parametric representation using hyperelliptic functions of two arguments) (1909).
+* Bagnera was extremely fortunate to escape with his life when Sicily was hit with a 7.1 magnitude earthquake on 28 December 1908.
+* Bagnera had no home and no job to return to in Messina.
+* Bagnera was one of the members of the organising committee of this international event.
+* Bagnera was appointed to the chair of infinitesimal and higher analysis at the University of Rome in 1921, taking up the appointment at the beginning of the following year.
+* After the 1908 earthquake, Bagnera published little in the way of research papers but did publish his lecture notes (some in lithographed form).
+* In addition to the Bordin prize awarded by the Paris Académie des Sciences, which we mentioned above, Bagnera was honoured with election to the Accademia Nazionale dei Lincei (which awarded him their mathematical sciences prize in 1901).
+* We should also mention that he is remembered with the via Giuseppe Bagnera in his home town of Bagheria and the Scuole Primarie e Secondarie, Scuola Media Statale Bagnera, on the via Giuseppe Bagnera in Rome.
+* The Associazione Culturale "Giuseppe Bagnera", based in Bagheria, is named after Giuseppe Bagnera.
+* The Honorary President of the Association is the engineer Giuseppe Bagnera, who is the grandson of the subject of this biography.
 
 Born 14 November 1865, Bagheria, Sicily, Italy. Died 12 May 1927, Rome, Italy.
 

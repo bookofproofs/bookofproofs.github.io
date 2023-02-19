@@ -7,10 +7,10 @@ orderid: 1851
 title: Elliott, Edwin Bailey
 born: 1851
 died: 1937
-keywords: Algebra, Algebraic Geometry, Synthetic Geometry, Elliptic Functions, Invariant Theory, Imagery-Based Problem Solving, Mathematical Analysis
-description: Edwin Elliott, English mathematician, innovated higher math w/ imagery, wrote seminal works on math & analysis, developed methods of computing w/ graphs, earned many awards.
+keywords: edwin elliott,elliott
+description: Edwin Elliott was an English mathematician whose work included algebra, algebraic geometry, synthetic geometry, elliptic functions and invariant theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edwin Elliott** was an English mathematician whose work included algebra, algebraic geometry, synthetic geometry, elliptic functions and invariant theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an innovative approach to teaching higher mathematics, involving imagery-based problem solving. 
-2. Wrote “Elementary Mathematics: A Theory of Numbers,” a seminal work on the philosophy of mathematics. 
-3. Developed a series of papers on abstract algebra that became foundational in the field of algebraic topology. 
-4. Published “Mathematical Analysis,” a comprehensive look at the principles of modern mathematical reasoning.
-5. Credited with developing the 19th-century wave of enthusiasm for mathematical research. 
-6. Wrote several books on the applications of mathematics to engineering and architecture. 
-7. Devised several new methods of computing with graphical representations. 
-8. Earned several awards for achievements in mathematics, including the Copley Medal from the Royal Society.
+* After outstanding achievements at university, Elliott became a Fellow and Mathematical Tutor of Queen's College, Oxford, in 1874.
+* In addition to his Fellowship at Queen's College, Elliott was appointed a lecturer in mathematics at Corpus Christi College in Oxford in 1884.
+* These appointments came to an end in 1892 when Elliott became the first Waynflete professor of Pure Mathematics.
+* The Waynflete chair came with a Fellowship at Magdalen College so Elliott was again attached to his old College.
+* Elliott held the Waynflete chair for 29 years until his retirement in 1921.
+* In the book Elliott presented a wealth of material on invariant theory which had been developed on the Continent of Europe, but he presented it in a style which was more familiar to English mathematicians familiar with the work of Cayley and Sylvester.
+* It was a popular book and, in 1913, Elliott published a second revised edition.
+* All ageing mathematicians should be particularly pleased to learn that a second piece of work by Elliott, which was again of major importance, was his contribution to the theory of integral equations which he made after he retired.
+* Elliott wrote well and he always produced clear rigorous arguments.
+* Outside mathematics, Elliott had many interests.
 
 Born 1 June 1851, Oxford, England. Died 21 July 1937, Oxford, England.
 

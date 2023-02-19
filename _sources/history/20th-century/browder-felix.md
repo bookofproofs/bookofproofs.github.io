@@ -7,10 +7,10 @@ orderid: 1927
 title: Browder, Felix
 born: 1927
 died: 2016
-keywords: Browder, nonlinear, functional analysis, exact sequences, Browder-Minty theorem, stochastic processes, lift-off principle
-description: Felix Browder was a renowned mathematician who developed key concepts in nonlinear functional analysis, exact sequences, the Browder-Minty theorem, and stochastic processes, among others.
+keywords: felix browder,browder
+description: Felix Browder was a Russian-born American mathematician known for his work in nonlinear functional analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Felix Browder** was a Russian-born American mathematician known for his work in nonlinear functional analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Browder Fixed Point Theorem, which paved the way for the modern study of nonlinear operators.
-2. Established the foundations of nonlinear functional analysis and topological degree theory.
-3. Authored several influential books on Functional Analysis, including 'Mathematical Analysis and Applications'.
-4. Introduced the concept of exact sequences to Homological Algebra.
-5. Discovered a groundbreaking proof for the Browder-Minty theorem which solved an important open problem in optimization.
-6. Authored the book 'Theory of Nonlinear Operators' which resolved several outstanding problems in the study of partial differential equations.
-7. Developed a deep understanding of spectral theory that allowed him to study eigenvalue distributions in a single operator.
-8. Solved several previously unsolved problems in the study of stochastic processes.
-9. Developed the eigenvalue lift-off principle for the study of linear differential equations.
-10. Authored several papers exploring the links between functional analysis and differential equations.
+* Felix was the eldest of his parents' three children; the two younger are Andrew Browder and William Browder.
+* All three boys have become leading mathematicians and so we should begin by giving some details of their parents Earl and Raissa Browder.
+* Earl Browder (1891-1973), the eighth of ten children, was educated at home in Wichita by his unemployed schoolteacher father William Browder and from him received his first Socialist teachings.
+* Earl Browder had married in 1911 but was separated from his wife.
+* The first two of their three children were born in Moscow; Felix (the subject of this biography) in 1928 and Andrew in 1932.
+* Earl Browder returned to the United States in 1929 but Raissa remained in Moscow until 1933.
+* For the next sixteen years the Browders waged a legal battle to prevent her deportation.
+* In 1934 their third son, William Browder, was born in New York.
+* Felix was a child prodigy, reading at a very sophisticated level from the age of four and terrorising all his grade school teachers with his breadth of knowledge and sophistication.
+* In fact Felix is said to have read at least a book a day from the time he was five years old.
+* These family difficulties seemed to have little effect on Felix's school performance and, at the age of sixteen, he took part in the New York State competition for university scholarships.
+* After the award of his first degree, Browder entered Princeton where he undertook research advised by Solomon Lefschetz.
+* In 1948 Browder was appointed as a C L E Moore Instructor in Mathematics at the Massachusetts Institute of Technology.
+* In 1951, when his term as C L E Moore Instructor ended, Browder was appointed as an Instructor in Mathematics at Boston University.
+* In April 1953 Norman Levinson testified to the Committee on Un-American Activities of the United States House of Representatives concerning Felix Browder.
+* Leaving the army in 1955, Browder was appointed as an Assistant Professor of Mathematics at Brandeis University.
+* After retiring from the University of Chicago, Browder became a professor at Rutgers University where he was also Vice-President for Research from 1986 to 1991.
+* Felix Browder has been the dominant figure in this field since the early 1950s.
+* In the theory of linear elliptic partial differential equations, the work of Felix Browder and his school went well beyond the techniques first introduced by Russian analysts in establishing completeness theorems for the eigenfunctions of nonselfadjoint elliptic differential operators.
+* Browder's results on these fundamental issues remain definitive to this day.
+* Felix Browder proved a general theorem on monotone operators in reflexive Banach spaces, stating that a coercive continuous monotone operator from a reflexive Banach space to its dual space is subjective.
+* It is especially noteworthy that Browder's theory freed us from restrictive compactness assumptions and thereby led to a very substantial enlargement of the range of nonlinear problems to which exact analysis could be applied.
+* At a time when it was not popular within mathematical circles, Browder advocated including applied mathematics at the highest levels into mathematics departments and did so successfully at Rutgers and at the University of Chicago, where he is the Max Mason Distinguished Service Award Professor Emeritus.
+* Browder gave great service to the American Mathematical Society over many years.
 
 Born 31 July 1927, Moscow, Russia. Died 10 December 2016, Princeton, New Jersey, USA.
 

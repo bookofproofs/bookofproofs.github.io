@@ -7,10 +7,10 @@ orderid: 1908
 title: Vagner, Viktor Vladimirovich
 born: 1908
 died: 1981
-keywords: Viktor Vladimirovich Wagner, mathematics, differential geometry, semigroups, vector lattices, topological groups, abelian groups
-description: Viktor Vladimirovich Wagner was a Russian mathematician renowned for his work in differential geometry, semigroups and topological and abelian groups, including the invention of vector lattices.
+keywords: viktor vladimirovich vagner,vagner
+description: Viktor Vladimirovich Wagner was a Russian mathematician who worked in differential geometry and on semigroups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Viktor Vladimirovich Wagner** was a Russian mathematician who worked in differential geometry and on semigroups.
 
 ### Mathematical Profile (Excerpt):
-1. Viktor Vladimirovich Vagner was awarded a Medal of Merit for Mathematics for his outstanding paper on the theory of permutation groups.
-2. He developed a theory of vector lattices, which not only led to the improvement of the theory of Banach spaces, but also had practical applications in areas such as coding theory and the design of digital filters.
-3. He was the first to invent the notion of a topologically transitive group of operators and applied his theory to the characterization of homeomorphisms and convex polyhedra.
-4. He was successful in extending the concepts of connectedness and compactness to groups of operators, producing a valuable tool for dealing with group theoretic problems.
-5. He was able to use his analysis of the theory of local nilpotent groups to solve problems in commutative algebra and homological algebra.
-6. He was the first to prove several results in the field of abstract measure theory and topology, showing that particular settings of measurable functions have algebraic characterizations.
-7. He was among the first to establish a correspondence between topological and algebraic behavior.
-8. He proposed a conjecture connecting the categories of topological groups and abelian groups, which has since been proved.
+* Vagner took a job teaching in high schools but these were not schools with high educational aspirations, with one of the schools he taught at being a school for juvenile delinquents.
+* It is amazing that, given his background and the environment in which he worked, Vagner was able to pursue the study of mathematics and physics in his own time.
+* Vagner's interests were, at this time, mainly in theoretical physics.
+* Tamm had to supervise students on the physics of metals but after having discussions with Vagner he clearly saw how the young student had his heart set on studying relativity.
+* So Vagner tool Tamm's advice and approached Benjamin Fedorovich Kagan.
+* Vagner became his student in 1932 and wrote a thesis on the differential geometry of non-holonomic manifolds for his Candidate's Degree (equivalent to a Ph.D.).
+* Vagner's first paper Sur la géométrie différentielle des multiplicités anholonomes Ⓣ(On the differential geometry of anholonomic multiplicities)  was published in 1935 followed, remarkably, by eight papers in 1938 including A generalization of non-holonomic manifolds in Finslerian space.
+* Vagner was appointed to the Chair of Geometry at Saratov University after the award of the degree of Doctor of Science and he continued to work there until he retired in 1978.
+* All Vagner's research is connected with differential geometry and algebraization of its foundations.
+* Algebraic systems considered by Vagner were usually related to differential geometric structures.
+* Among Vagner's early papers we mention Differential geometry of non-linear non-holonomic manifolds in the three-dimensional Euclidean space (1940), The geometry of an (n-1)-dimensional non-holonomic manifold in an n-dimensional space (Russian) (1941), Geometric interpretation of the motion of non-holonomic dynamical systems (Russian) (1941), On the problem of determining the invariant characteristics of Liouville surfaces (Russian) (1941), and On the Cartan group of holonomicity for surfaces (1942).
+* Vagner published the book Geometria del calcolo delle variazioni Ⓣ(Geometry of the calculus of variations)  in Italian in 1965 in which he gave a systematic treatment of his own approach to the geometry of the calculus of variations, which he developed during the years 1942-1952.
+* The quote by Schein above indicates how geometry led Vagner to study algebraic systems.
+* This led Vagner to investigate inverse semigroups which he was the first to introduce (although he did not use that name) in the paper Generalised groups (Russian) paper in 1952.
+* Even specialists sought Vagner's advice in various questions of philosophy, history, linguistics, literature.
+* And also Vagner was a very decent man.
 
 Born 4 November 1908, Saratov, Russia. Died 16 August 1981, Brest, Belarus, USSR.
 

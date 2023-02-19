@@ -15,9 +15,3 @@ contributors: bookofproofs
 
 ## From non-Github
 {{ cng-index }}
-
-## Artificial Intelligence
-We think that it is part of the responsible use of artificial intelligence to give it appropriate credit when we use
-it to enrich some of our content. 
-
-{{ cai-index }}

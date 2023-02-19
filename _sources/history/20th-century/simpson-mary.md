@@ -7,10 +7,10 @@ orderid: 1901
 title: Simpson (2), Mary
 born: 1901
 died: 1985
-keywords: Mary Simpson, Edinburgh, Queen's College Dundee, Mathematics, Publications, Teaching Methods, NAS Award
-description: Mary Simpson graduated from Edinburgh, worked at Queen's College Dundee, published research in mathematics & teaching methods and was rewarded with a NAS Award.
+keywords: mary simpson,simpson
+description: Mary Simpson graduated from Edinburgh and then took up a post at Queen's College Dundee.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mary Simpson** graduated from Edinburgh and then took up a post at Queen's College Dundee.
 
 ### Mathematical Profile (Excerpt):
-1. Graduated Magna Cum Laude in Mathematics from UCLA in 2004.
-2. Became an Assistant Professor of Mathematics at UCLA in 2006.
-3. Discovered a new theorem in differential equations in 2007.
-4. Published two books in mathematical education in 2010 and 2012.
-5. Became an Associate Professor of Mathematics at UCLA in 2013.
-6. Developed new methods for teaching linear algebra in 2014.
-7. Won a prestigious research award in mathematics in 2016.
-8. Elected to the National Academy of Sciences for Mathematics in 2018.
+* Before she graduated with a B.Sc., Simpson had decided that she wanted to take an Honours M.A. degree and made an application to the Arts Faculty.
+* At this time she gave her Religious Denomination as Episcopalian and her Nearest Relative to be Mrs A Simpson (Mother).
+* For the Ordinary subject that she was required to take, Simpson chose English.
+* Simpson remained in that position until 1942.
 
 Born 7 July 1901, Gateshead-on-Tyne, England. Died 11 November 1985, Plymouth, England.
 

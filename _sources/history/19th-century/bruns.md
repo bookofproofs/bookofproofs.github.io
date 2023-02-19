@@ -7,10 +7,10 @@ orderid: 1848
 title: Bruns, Ernst Heinrich
 born: 1848
 died: 1919
-keywords: astronomy, mathematics, geodesy, Bruns' surfaces, cyclic polygon, quadric surface, algebraic equations
-description: German scientist Heinrich Bruns studied astronomy, mathematics and geodesy and developed theories related to Bruns' surfaces, cyclic polygons, quadric surfaces and algebraic equations.
+keywords: heinrich bruns,bruns
+description: Heinrich Bruns was a German scientist who was interested in astronomy, mathematics and geodesy and worked on the three body problem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Heinrich Bruns** was a German scientist who was interested in astronomy, mathematics and geodesy and worked on the three body problem.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for constructing a class of special surfaces now known as Bruns’ surfaces.
-2. Proved the fact that the angular momentum of a closed cyclic polygon cannot be strictly preserved in its movement.
-3. Discovered formulas for the second and third curves of the system of lines related to a quadric surface.
-4. Established a system of coordinates for studying the theory of curves of the second order.
-5. Presented a method for computing maxima and minima of certain expressions related to algebraic equations of any degree.
-6. Developed an approach to the general theory of surfaces that was widely adopted by many mathematicians.
-7. Devised a method for transforming arbitrary quartic equations into those possessing only certain real and imaginary roots.
-8. Showed that the algebraic curves of the fourth degree satisfy certain points and conditions.
-9. Provided applications of his studies in the areas of astronomy, physics, and philosophy.
-10. Completed his dissertation on the theory of curves and surfaces which established him as a professor of mathematics.
+* Bruns studied in Berlin from 1866 to 1871, obtaining a doctorate under Weierstrass and Kummer in 1871 for his thesis De proprietate quadam functionis potentialis corporum homogeneorum Ⓣ(The property of a potential function of a homogeneous body).
+* When Bruns worked there the director was Otto Vasiliyevich Struve, son of the first director.
+* At the Pulkovo Observatory Bruns met another calculator, Marie Wilhelmine Schleussner who was two years younger than Bruns, and the two married.
+* In 1873 Bruns left Pulkovo to take up the position of observer at the Dorpat Observatory (now Tartu, Estonia).
+* Peter Carl Ludwig Schwarz had taken over from Thomas Clausen when he retired as director in the year before Bruns arrived at the Observatory.
+* After three years at Dorpat, Bruns was appointed as Professor of Mathematics at the University of Berlin where he remained until 1882.
+* Bruns was the second director, the first being Carl Christian Bruhns who held the position from 1861 until his death in 1881.
+* Bruns held these positions until his death in 1919.
+* Bruns was interested in astronomy, mathematics and geodesy.
+* Bruns showed in 1887 that there could be no conserved quantities which could be expressible as algebraic functions of the positions and velocities of the three bodies.
+* A few years later Poincaré extended Bruns' work to show that no solution to the three-body problem was possible given by algebraic expressions and integrals.
+* In addition to this major contribution to the three-body problem, Bruns also published major contributions to potential theory.
 
 Born 4 September 1848, Berlin, Germany. Died 23 September 1919, Leipzig, Germany.
 

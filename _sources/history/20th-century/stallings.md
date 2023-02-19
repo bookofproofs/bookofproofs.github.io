@@ -7,10 +7,10 @@ orderid: 1935
 title: Stallings, John Robert
 born: 1935
 died: 2008
-keywords: Stallings, Group Theory, 3-Manifold Topology, Stallings-Sturm Theorem, Diophantine Equations, Modular Method, Algebraic Number Theory
-description: John Stallings, an American mathematician, developed the Stallings-Sturm Theorem and Diophantine algorithm, established the Standings-Sturm conjecture, and contributed to the Modular Method.
+keywords: john stallings,stallings
+description: John Stallings was an American mathematician who worked in geometric group theory and 3-manifold topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Stallings** was an American mathematician who worked in geometric group theory and 3-manifold topology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Stallings-Sturm Theorem, which provides a major breakthrough for the study of number theory and algebraic equations.
-2. Discovered the Stallings-Sturm algorithm for finding solutions to Diophantine equations.
-3. Established the Stallings-Sturm conjecture, a significant result regarding the behavior of solutions to Diophantine equations.
-4. Contributed to the development of the modular method of computing, greatly advancing the study of number theory.
-5. Led the development of a computational technique to simplify algebraic equations.
-6. Established theorems on cubic equations and quartic equations, providing insights and solutions to problems in algebraic number theory.
-7. Published the book Algebraic Number Theory, which has become an indispensable reference for those studying the field.
+* After graduating with his first degree, Stallings went to Princeton University where he undertook research supervised by Ralph Fox.
+* Without any idea how Smale had achieved this, Stallings was brave enough to try to prove the conjecture himself.
+* After returning from Oxford, Stallings taught at Princeton, first as an instructor in mathematics and later as assistant professor, before being appointed as a professor at the University of California at Berkeley in 1967.
+* In 1968 Stallings published his most famous paper On torsion-free groups with infinitely many ends in the Annals of Mathematics.
+* For this truly outstanding paper the American Mathematical Society awarded Stallings their Frank Nelson Cole Prize in Algebra in 1970.
+* The first of these introduced the 'Stallings subgroup graph' as a method to describe subgroups of free groups.
+* It also introduced a foldings technique now known as 'Stallings' foldings method' which has been the basis for much later work.
+* Stallings retired from his chair at Berkeley in 1994 but he continued to supervise doctoral students until 2005.
+* The special issue of volume 92 of Geometriae Dedicata dedicated to Stallings was another honour to mark his sixty-fifth birthday.
+* His ideas often inspired a great flurry of activity by other mathematicians, though, who would follow up and develop Stallings' methods.
+* Everyone loved Stallings.
+* Stallings had a dislike of authority, and made a point of playing by his own rules.
+* Stallings once wrote an entire paper in Interlingua, a universal language created in the mid-20th  century to facilitate world communication.
+* Interlingua was only one of the obscure languages Stallings studied, according to cousin Sylvia Shannon of Virginia.
 
 Born 22 July 1935, Morrilton, Arkansas, USA. Died 24 November 2008, Berkeley, California, USA.
 

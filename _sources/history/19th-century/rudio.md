@@ -7,10 +7,10 @@ orderid: 1856
 title: Rudio, Ferdinand
 born: 1856
 died: 1929
-keywords: Rudio, Differential Equation, Mathematical Biology, Computer Models, Competitive Exclusion Principle, Lotka-Volterra Model, Ecosystems
-description: Rudio, mathematician, Euler, Differential Equation, Mathematical biology, Computer models, & Lotka-Volterra model: pioneer in studying biological systems & the environment, developed groundbreaking theories & edited Euler's collected works.
+keywords: ferdinand rudio,rudio
+description: Rudio was a German mathematician who helped organise the first International Congress of Mathematicians at Zurich and edited the first volumes of Euler's collected works.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Rudio** was a German mathematician who helped organise the first International Congress of Mathematicians at Zurich and edited the first volumes of Euler's collected works.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first differential equation in mathematical biology known as the Rudio Equation. 
-2. Researched and published works on the dynamic behavior of biological systems. 
-3. Pioneered the use of computer models to describe population dynamics and behavior of mathematical biology. 
-4. Developed methods for studying the methods for studying the competitive exclusion principle.
-5. Collaborated with Alfred Lotka to develop the Lotka-Volterra model of predator-prey population dynamics.
-6. Investigated the dynamic behavior of ecosystems and studied the response of biological systems to environmental change.
-7. Conducted mathematical research on the interplay between organisms and their environment.
+* At the time that Ferdinand was born, the Duchy of Nassau was an independent region under the rule of the Duke of Nassau having Wiesbaden as its capital.
+* However, in 1866, when Ferdinand was ten years old, the Duke supported Austria in the Seven Weeks' War so, after they lost to Prussia, the district was taken over by Prussia becoming the Hesse-Nassau region of that country.
+* Ferdinand had a good upbringing in a stable, comfortably-off, middle-class family.
+* It was only in the year before Rudio entered the Polytechnikum that Geiser had been appointed to a full professorship of higher mathematics and synthetic geometry, with special responsibility for teaching mathematics to engineering students and to mathematics students.
+* Rudio also had Kurt Culmann (1821-1881), Wilhelm Fiedler and Hermann Schwarz as lecturers.
+* From 1877 until 1880 Rudio studied at the University of Berlin where he attended the seminar of Eduard Kummer and Karl Weierstrass.
+* After the award of his doctorate in 1880, Rudio followed the advice of Karl Geiser and returned to Zürich to work on his habilitation thesis.
+* In 1881 Rudio habilitated at the Eidgenössische Polytechnikum Zürich and became a privatdocent there.
+* Rudio gave a short biographical talk on Euler at the seminar, an event which in itself was pretty minor but would become much more significant 25 years later when Rudio published the text of his 1883 talk as part of the 1907 celebrations of the 200th  anniversary of Euler's birth.
+* In 1885, Rudio was promoted to extraordinary professor and, in 1889, he was appointed to a full professorship of mathematics.
+* Maria was from Rheinfelden, near Basle on the Swiss-German border; Ferdinand and Maria Rudio had three daughters.
+* He died in December 1893 and, in 1894, Rudio was appointed to fill this position as head of the library.
+* The chairman of the organising committee was Karl Geiser, who was elected president of the Congress, and Rudio was one of the two secretaries.
+* Rudio complemented this idea with the proposal of creating a biographical dictionary of current mathematicians, which would include portraits of the most important.
+* Rudio summarized all projects in a lemma: " Viribus unitis! sei unsere Losung".
+* This address by Rudio is contained in the proceedings of the Congress which Rudio edited.
+* The present stately octavo volume is the official report of the same, prepared by Professor Rudio, one of the two general secretaries.
+* The address of welcome by the president, Professor Geiser, and the paper by Professor Rudio "On the object and organization of international congresses" are given in full.
+* Mathematicians will be grateful to Professor Rudio for this very complete and attractive report.
+* Rudio worked on group theory, algebra and geometry.
+* Rudio proposed the project in 1883 since this was the centenary of Euler's death.
+* On every occasion, and most particularly at the First International Congress of Mathematicians, which was held at Zürich in 1897, Rudio had urged the worldwide community to honour its obligations toward the great scientist by undertaking the edition of Euler's complete works.
+* When the city of Basel commemorated Euler's 200th   birthday in 1907, Rudio delivered a thrilling speech in which he appealed to Swiss patriotism and to international solidarity in favour of an edition of Euler's works: "Switzerland will always be grateful to the academies of Berlin and St Petersburg for having given our Euler, to whom his native country was too narrow, the opportunity to perform his outstanding work".
+* The project was not approved until 1909, twenty six years after Rudio first proposed it.
 
 Born 2 August 1856, Wiesbaden, Germany. Died 21 June 1929, Zürich, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1812
 title: Göpel, Adolph
 born: 1812
 died: 1847
-keywords: Göpel, Incompleteness Theorems, Entscheidungsproblem, Herbrand-Gödel, Myhill Isomorphism, Recursion Theorem, Gödel Formula
-description: Adolph Göpel developed Incompleteness Theorems, proved Entscheidungsproblem, used Myhill Isomorphism and formulated Recursion Theorem, all leading to Gödel Formula.
+keywords: adolph göpel,göpel
+description: Adolph Göpel was a German mathematician who wrote an early paper on hyperelliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Adolph Göpel**  was a German mathematician who wrote an early paper on hyperelliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed Göpel’s Incompleteness Theorems, which showed that all axiom systems of number theory contain theorems that cannot be proven within the system itself.  
-2. Proved the undecidability of the Entscheidungsproblem, a long-standing open problem in mathematics.
-3. Developed the "Herbrand-Gödel procedure," which is used to transform logical terms from one form to another.
-4. Used his development of the myhill isomorphism theorem to prove that machines which have the same number of internal states and accept the same language are, in effect, the same.
-5. Demonstrated that the undecidability of a system did not depend on the number of axioms but rather on their form.
-6. Found the "Gödel Number" of any formula expressed in a certain formal language.
-7. Formulated and proved the Recursion Theorem, a fundamental result in mathematical logic.
-8. Established the fundamental concept of a "Gödel Formula" used in mathematical logic and computation theory.
+* This enabled Göpel to spend several years in Italy in his youth for, from the age of ten, he travelled around Italy with this uncle who was taking an interest in science.
+* Although he was only 13 years old at the time, Adolph attended mathematics and physics lectures at the University of Pisa during the winter of 1825-26, while his uncle was there on business.
+* In 1829 Göpel entered the University of Berlin where, in addition to his main area of study which was mathematics, he also took classes in physics, chemistry, and even philosophy, philology, history and aesthetics.
+* After completing his studies at the University, Göpel taught at the Werder Gymnasium and at the Royal Realschule.
+* Göpel's doctoral dissertation studied periodic continued fractions of the roots of integers and derived a representation of the numbers by quadratic forms.
+* This was done by Göpel and Johann Rosenhain in works published almost simultaneously.
+* Göpel linked four more of these quadratics through a homogeneous fourth degree relation, later named the 'Göpel relation' which coincides with the equation of the Kummer surface.
 
 Born 29 September 1812, Rostock, Germany. Died 7 June 1847, Berlin, Germany.
 

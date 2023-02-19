@@ -7,10 +7,10 @@ orderid: 1856
 title: Thomson (3), William
 born: 1856
 died: 1947
-keywords: William Thomson, vector analysis, Fourier analysis, thermodynamics, energy, temperature, gyroscope
-description: William Thomson studied mathematics, developed vector and Fourier analysis, founded thermodynamics, and researched energy, temperature, gyroscope and electricity.
+keywords: william thomson,thomson
+description: William Thomson was appointed Professor of Mathematics at Victoria College Stellenbosch in South Africa and went on to become Principal of the University of South Africa in Pretoria.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Thomson** was appointed Professor of Mathematics at Victoria College Stellenbosch in South Africa and went on to become Principal of the University of South Africa in Pretoria.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical techniques of vector analysis and Fourier analysis. 
-2. Founded the branch of mathematics known as thermodynamics.  
-3. Demonstrated that heat is a form of energy.
-4. Proposed the absolute temperature scale. 
-5. Developed the Thomson effect, which explains how an electric current can produce a temperature difference in a conductor. 
-6. Deduced the Second Law of Thermodynamics from his equations of motion. 
-7. Researched the properties of the gyroscope. 
-8. Made advances in hydrodynamics. 
-9. Established a comprehensive mathematical theory of electricity called the electromotive series. 
-10. Applied mathematical principles to the study of magnetism.
+* During his time in Edinburgh Thomson was an assistant to the professor who was, at that time, George Chrystal.
+* When Thomson left Edinburgh in 1883, Allardice succeeded him as Chrystal's assistant.
+* In 1883 Thomson was appointed as Professor of Mathematics at Victoria College, Stellenbosch (later incorporated with the University of Stellenbosch).
+* In 1895 Thomson moved out of the academic side of the university to become Registrar of the University of the Cape of Good Hope, Cape Colony.
+* Thomson was an assistant at Edinburgh University when the Edinburgh Mathematical Society was founded in 1883 but he did not join the Society at this time, rather he joined in December 1888 when he was Professor of Mathematics at Stellenbosch, Cape Colony.
+* He was elected to the Royal Society of Edinburgh on 6 March 1882, his proposers being George Chrystal, Peter Guthrie Tait, Alexander Crum Brown, Sir William Turner.
+* William Thomson married Annie C van der Riet in 1884, a year after moving to South Africa.
 
 Born 31 December 1856, Kirkton of Mailer, Perthshire, Scotland. Died 6 August 1947, Dunedin, Glencairn, Simonstown, South Africa.
 

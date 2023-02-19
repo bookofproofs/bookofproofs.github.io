@@ -7,10 +7,10 @@ orderid: 1893
 title: Ferrar, William Leonard
 born: 1893
 died: 1990
-keywords: Bill Ferrar, Mathematics, Graph Theory, Napier's Bones, Four-Color Problem, Singular points, "Graph-normal graph"
-description: Bill Ferrar was a renowned mathematician who made major contributions to the field of mathematics through the development of graph theory, solving the Travelling Salesman Problem and Four-Color Problem, and introducing the concept of singular points and the "graph-normal graph".
+keywords: bill ferrar,ferrar
+description: Bill Ferrar was an English mathematician who worked on the convergence of series. He is best known for his undergraduate text-books. He eventually became Principal of Hertford College Oxford.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Bill Ferrar** was an English mathematician who worked on the convergence of series.  He is best known for his undergraduate text-books. He eventually became Principal of Hertford College Oxford.
 
 ### Mathematical Profile (Excerpt):
-1. Bill Ferrar was a renowned mathematician and inventor who made significant contributions to the field of mathematics through the use of graph theory. 
-2. He developed an algorithm for the Travelling Salesman Problem which solved a mathematical problem for which no efficient algorithm had previously existed.
-3. His graph theory solution to the Napier's Bones Problem also revolutionized mathematics.
-4. Ferrar's solution to the Four-Color Problem was a landmark theoretical breakthrough, as it demonstrated the possibility of coloring any map with at most four distinct colors in a way that no two adjacent regions had the same color.
- 5. He published the book "Graphs and Their Significance to Mathematics" which has been recognized as a landmark work in its field.
-6. Bill Ferrar developed innovative methods in topology, optics, and psychology, which were influential in the development of modern mathematics.
-7. He was instrumental in developing the concept of singular points, which extended the application of mathematics to the field of analysis.
-8. He was also responsible for proposing the concept of the “graph-normal graph”, which revolutionized the field of graph theory.
+* His father was George William Parsons Ferrar, the son of a journeyman baker George Ferrar, who was born in St Pauls, Bristol in 1869, and died in Yarmouth, Norfolk on 31 October 1918.
+* Bill's mother was Maria Susannah Dale, who was also born in St Pauls, Bristol in 1869, and died in Bristol on 30 January 1965.
+* George and Maria Ferrar were married on 24 October 1892 at St Matthias, Bristol.
+* Bill Ferrar, the subject of this biography, was the eldest of their three children, all boys.
+* He had younger brothers Herbert Hugh Ferrar (1896-1990), born 20 January, and Arthur Marchant Ferrar (1904-1979), born 24 October.
+* The Ferrar family were not well off and Bill's good education was only possible as a result of winning scholarships.
+* Bill Ferrar began his schooling in Ashley Down Infant School, and progressed to Queen Elizabeth's Hospital School, Brandon Hill.
+* Ferrar entered Queen's College Oxford in 1912 after winning a scholarship to the College in the examinations of December 1911.
+* Ferrar's tutor at the Queen's College was C H Thompson and he was very impressed with his young student.
+* He sent Ferrar to Cambridge for six weeks in the summer vacation of 1913 to study with G Neville Watson.
+* Watson arranged for Ferrar to study infinite series and, in particular, theorems relating to their convergence.
+* This was a very important time for Ferrar since it set him up for the Junior Mathematical Scholarship examinations and also gave him an introduction to the topic on which he spent much time on research for the rest of his life.
+* Immediately Ferrar volunteered for service in the army.
+* On 31 October 1918, Ferrar's father died and he was given a few days compassionate leave and was in Bristol on 11 November 1918 when the war ended.
+* Edna had been born in Nottingham on 15 October 1898 and it had been in Nottingham that Ferrar had met her when he visited his uncle's widow.
+* The death of J E Campbell left a vacant fellowship at Hertford College, Oxford, which Ferrar was invited to fill and he took it up in September 1925.
+* At the Annual Meeting of the Mathematical Association on 3 January 1939, Ferrar gave the talk Algebra in the Higher School Certificate.
+* Ferrar wrote many research papers which deal with the convergence of series, an interest which came from working with G N Watson at Cambridge during a summer vacation while an undergraduate.
+* Ferrar attended the International Congress of Mathematicians in Oslo in July 1936.
+* In addition Ferrar published many papers in the Quarterly Journal of Mathematics during his period as editor.
+* And then there was my Ration Book which caused the Bursar, Dr W L Ferrar, some anxiety, being blue rather than the standard buff colour.
+* Dear Dr Ferrar was much absorbed in post-grad studies, writing his excellent maths text books and his bursar-ship.
+* The London Mathematical Society was also important for Ferrar who served on the Council from 1933 to 1942.
+* After he finished his period as secretary, Ferrar served a further four years on Council, two of them as Vice-President.
+* Ferrar is also famed for his ten outstanding textbooks including A textbook of convergence (1938), Algebra: a textbook of determinants, matrices and quadratic forms (1941), and Finite matrices (1951).
+* In 1947 Ferrar submitted 35 papers and 2 books for the degree of Doctor of Science at Oxford and made many of his colleagues, who had begun to think of him as solely an administrator, realise what an outstanding research record he had.
+* Edna Ferrar died in 1986 and was buried in Wolvercote Cemetery, Oxford.
+* Bill Ferrar died in 1990 and was buried with his wife.
 
 Born 21 October 1893, Bristol, England. Died 22 January 1990, Oxford, England.
 

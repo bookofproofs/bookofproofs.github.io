@@ -7,10 +7,10 @@ orderid: -380
 title: Menaechmus
 born: -380
 died: -320
-keywords: Menaechmus, Mathematician, Ellipse, Parabola, Hyperbola, Conic Section Theory, Irrational Numbers
-description: Menaechmus was a Greek mathematician who discovered conic sections, irrational numbers, and solved geometric problems.
+keywords: menaechmus,menaechmus
+description: Menaechmus was a Greek mathematician who tutored Alexander the Great in the subject. He was the first to investigate the ellipse, parabola and hyperbola as sections of a cone.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Menaechmus** was a Greek mathematician who tutored Alexander the Great in the subject. He was the first to investigate the ellipse, parabola and hyperbola as sections of a cone.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the fundamental theorem of parabolic conic sections (which states that a conic section is determined by four points).
-2. Discovered the Menaechmus' theorem, which states that any two distinct points in a parabola can be connected with a straight line.
-3. Discovered the Menaechmus' theorem for Ellipses, which states that any two distinct points of an ellipse can be connected with a straight line.
-4. Developed the doubling the cube problem, which involved the construction of two cubes with the same volume as a given cube, by means of two intersecting lines.
-5. Proposed the construction of a regular pentagon using compass and straightedge.
-6. Developed the method of solving the obtuse angle problem using the intersection of a circle and a straight line.
-7. Introduced the idea of "infinite magnitudes" or irrational numbers.
+* Alopeconnesus and Proconnesus are quite close, the first in Thrace and the second in the sea of Marmara, and both are not far from Cyzicus where Menaechmus's teacher Eudoxus worked.
+* The dates for Menaechmus are consistent with his being a pupil of Eudoxus but also they are consistent with an anecdote told by Stobaeus writing in the 5th  century AD.
+* Menaechmus is famed for his discovery of the conic sections and he was the first to show that ellipses, parabolas, and hyperbolas are obtained by cutting a cone in a plane not parallel to the base.
+* It has generally been thought that Menaechmus did not invent the words 'parabola' and 'hyperbola', but that these were invented by Apollonius later.
+* Menaechmus made his discoveries on conic sections while he was attempting to solve the problem of duplicating the cube.
+* Menaechmus's solution is described by Eutocius in his commentary to Archimedes' On the sphere and cylinder.
+* Of course we must emphasis that this in no way indicates the way that Menaechmus solved the problem but it does show in modern terms how the parabola and hyperbola enter into the solution to the problem.
+* Plutarch says that Plato disapproved of Menaechmus's solution using mechanical devices which, he believed, debased the study of geometry which he regarded as the highest achievement of the human mind.
+* Experts have discussed whether Menaechmus might have used a mechanical device to draw his curves.
+* it seems probable that someone who had Menaechmus's second solution before him worked to show how the same representation of the four straight lines could be got by a mechanical construction as an alternative to the use of conics.
+* Other references to Menaechmus include one by Theon of Smyrna who suggests that he was a supporter of Eudoxus's theory of the heavenly bodies based on concentric spheres.
+* In fact Theon of Smyrna claims that Menaechmus developed the theory further by adding further spheres.
+* There have been conjectures made as to where this information was written down by Menaechmus so that it was available to Theon of Smyrna.
+* One conjecture is that it appeared in Menaechmus's commentaries on Plato's Republic referred to in the quote above from the Suda Lexicon.
+* Another matter relating to the structure of mathematics which Menaechmus discussed was the distinction between theorems and problems.
+* Although many had claimed that the two were different, Menaechmus on the other hand claimed that there was no fundamental distinction.
 
 Born about 380BC, Alopeconnesus, Asia Minor (now Turkey). Died about 320 BC.
 

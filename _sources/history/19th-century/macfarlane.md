@@ -7,10 +7,10 @@ orderid: 1851
 title: Macfarlane, Alexander
 born: 1851
 died: 1913
-keywords: Alexander Macfarlane, Experimental Physics, Mathematics, Logic, British Mathematicians, Three-Dimensional Geometry, Quaternions
-description: Alexander Macfarlaneis known for advancing physics and mathematics research and his work on British mathematicians of the nineteenth century.
+keywords: alexander macfarlane,macfarlane
+description: Alexander Macfarlane began his research on experimental physics but moved to mathematics and logic. He is best known for his two famous posthumous publications on British mathematicians of the nineteenth century, many of whom he had personally known.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,36 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Macfarlane** began his research on experimental physics but moved to mathematics and logic. He is best known for his two famous posthumous publications on British mathematicians of the nineteenth century, many of whom he had personally known.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a system of three-dimensional geometry which described the properties of space and the structure of the universe.
-2. Advanced the study of linear differential equations.
-3. Pioneered the use of mathematical techniques to study astronomical phenomena.
-4. Developed the theoretical foundation for quaternions.
-5. Proved the Bolyai-Gauss-Volterra theorem, which is an important result in the theory of linear differential equations.
-6. Discovered the complex-component equation of motion for light.
-7. Proposed the foursquare theorem, which is a key result in the field of mathematical topology. 
-8. Established a mathematical theory of optics and acoustics.
-9. Devised a method of calculating geometrical properties of orthodontic teeth. 
-10. Collaborated with other mathematicians to develop the theory of Lie groups.
+* Daniel Macfarlane, the fourth of his parents' six children, was born on 29 November 1811 at Little Dunkeld, Perthshire, Scotland, the son of Alexander Macfarlane and Jeanette Small.
+* We believe that Alexander Macfarlane, the subject of this biography, was Daniel and Ann's only child.
+* Alexander was educated at the James Street Free Church school at Blairgowrie where he showed such outstanding abilities that, at the age of thirteen, he was employed as a pupil-teacher.
+* A very successful year in studying Greek, Latin and Mathematics, saw Macfarlane compete in the scholarships at the beginning of his third year and was awarded the prestigious Spence Scholarship.
+* Macfarlane took Kelland's course which introduced his students to the quaternions.
+* Macfarlane purchased Tait's Treatise on Quaternions believing that since Tait was Professor of Natural Philosophy, the book would be addressed to physicists but found that Tait approached the topic in a very mathematical way.
+* John Stevenson (1695-1775) was Professor of Logic and Metaphysics at Edinburgh University and he invited Macfarlane to present a paper criticising the statement of the law of the excluded middle given by William Stanley Jevons in his book Elementary Lessons on Logic (1870).
+* Macfarlane had been intending to take honours in logic but this experience made him realise that he needed a solid background in mathematics and science.
+* Tait was very impressed by his student's work in experimental physics and, in 1874, Macfarlane was awarded the Neil Arnott scholarship for Experimental Physics.
+* In 1875 Macfarlane graduated with an M.A. with First Class Honours in Mathematics and Physics.
+* It was followed in the same year by a paper, jointly authored by Macfarlane, Knott and Charles Michie Smith (1854-1922) (known as Michie), entitled On the Electric Resistance of Iron at a High Temperature.
+* Macfarlane was awarded a D.Sc. on 23 April 1878 for his thesis On the Disruptive Discharge of Electricity which was published in the Transactions of the Royal Society of Edinburgh.
+* This was one of six papers Macfarlane published in 1878, all in the Proceedings or the Transactions of the Royal Society of Edinburgh.
+* We note that by this time Macfarlane had both an M.A. and a B.Sc. In the same year, on 6 May, he was elected a fellow of the Royal Society of Edinburgh.
+* He was proposed by Peter Guthrie Tait, Philip Kelland, Alexander Crum Brown and John Hutton Balfour.
+* We note that Alexander Crum Brown was the Professor of Chemistry at Edinburgh, while John Hutton Balfour was the Professor of Botany.
+* In 1880 Macfarlane was appointed as temporary professor of physics at the University of St Andrews, a position he held for a year.
+* In 1885 Macfarlane was appointed to the chair of physics at the University of Texas in Austin, Texas, United States.
+* In fact Macfarlane's appointment came through his correspondence with Halsted on the algebra of logic.
+* Macfarlane read the paper On the definitions of the trigonometric functions to the International Mathematical Congress in Chicago in August 1893.
+* In 1894, Macfarlane resigned his chair of physics at the University of Texas.
+* Alexander and Helen Macfarlane had five children: Alexander Swearingen Macfarlane (1896-1918); Robert Harper Kirby Macfarlane (1901-1980); Henry Swearingen Macfarlane (1903-1907), James Donald Macfarlane (1906-1929), and Margaretta Macfarlane (1909-1909).
+* Notice the sad fact the only one of the five children lived beyond the age of 23; Alexander Swearingen Macfarlane was killed in action in France during World War I.
+* Macfarlane was appointed to Mathematical Physics and organised the programme from 1895 to 1897.
+* The family moved to Chatham, Chatham-Kent Municipality, Ontario, Canada where they continued to live, although Macfarlane continued to maintain strong links with Lehigh.
+* In the 1901 Canadian Census, Macfarlane gives 1885 as the date of his immigration to Canada, but his wife has 1897 as the date of her immigration.
+* This is not clarified by the fact that in 1900, when Macfarlane attended the International Congress of Mathematicians in Paris, he gave his address as Lehigh University, South-Bethlehem, Pennsylvania.
+* In Chatham, Ontario, Macfarlane devoted much time to writing and during the years 1901-1904 delivered at Lehigh University lectures on twenty-five British mathematicians of the nineteenth century.
+* Macfarlane attended the International Congress of Mathematicians in Paris in 1900, in Heidelberg in 1904, in Rome in 1908 and Cambridge, England, in 1912.
+* Macfarlane received widespread recognition for his contributions.
 
 Born 21 April 1851, Blairgowrie, Scotland. Died 28 August 1913, Chatham, Ontario, Canada.
 

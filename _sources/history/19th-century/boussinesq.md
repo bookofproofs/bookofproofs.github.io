@@ -7,10 +7,10 @@ orderid: 1842
 title: Boussinesq, Joseph Valentin
 born: 1842
 died: 1929
-keywords: Boussinesq, hydrodynamics, dimension analysis, wave propagation, solitons, fluid mechanics, oceanography
-description: French mathematician/physicist Joseph Boussinesq made significant contributions to hydrodynamics, wave, light & heat theories.
+keywords: joseph boussinesq,boussinesq
+description: Joseph Boussinesq was a French mathematician and physicist who made contributions to the theory of hydrodynamics, vibration, light, and heat.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,37 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph  Boussinesq**  was a French mathematician and physicist who made contributions to the theory of hydrodynamics, vibration, light, and heat.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical description of heat conduction that is now called the Boussinesq equations.
-2. Demonstrated the usefulness of dimensional analysis for solving physical problems.
-3. Constructed the first model that explains wave propagation in shallow water, which forms the basis of most wave models used today.
-4. Proposed mathematical models to describe the evolution of ocean tides, which are still used today.
-5. established the mathematical theory of solitons for nonlinear systems.
-6. Developed an important mathematical tool in the field of hydrodynamics known as Boussinesq scaling.
-7. Demonstrated that wave action can be represented using vector equations and identified the wave height-frequency relationship known as the Boussinesq Distribution.
-8. Utilized the fluid mechanics principles to explain the phenomenon of wave-induced currents, sediment transport, and bottom alignment of sedimentary structures.
-9. Provided the foundation for modern physical oceanography by introducing mathematical models of ocean circulation, waves, and tides.
-10. Developed a more accurate description of vertical turbulent exchanges in shallow seas than previous models.
+* His father, Jacques Boussinesq, was a farmer who owned a family farm in the district, while his mother, Anne-Marie Cavalier, was the daughter of an industrialist.
+* After completing his secondary education, Boussinesq wanted to study at Montpellier, the closest town where he could undertake higher education, but he required financial support to enable him to study there.
+* The problem was that Boussinesq's mother died in 1857 and his father made it very clear that his duty was to take over the running of the family farm.
+* Having been awarded a degree which qualified him to teach in secondary schools, Boussinesq followed a teaching career being appointed to the Lycée in Agde in 1862, that in Le Vigan in 1865, then in Gap in 1866.
+* These towns are all in the south of France: Agde is, like the town in which Boussinesq was born, in Hérault - in fact it is on the river Hérault, 4 km from the Mediterranean Sea; Le Vigan is 64 km north of Montpellier; but Gap is much further east - it is the capital of the Hautes-Alpes, about 800 metres above sea level on right bank of the Luye River.
+* It was while teaching at the first of these schools in Agde that Boussinesq became drawn towards research in mathematics when he read two texts by Gabriel Lamé, namely Théorie mathématique de l'Elasticité Ⓣ(Mathematical Theory of Elasticity) and Leçons sur la théorie analytique de la chaleur Ⓣ(Lectures on the analytic theory of heat).
+* However, Verdet died in 1866 before Boussinesq's thesis was completed.
+* He was then given another supervisor and, to suit his new supervisor's interests, Boussinesq changed the topic of his thesis and wrote Études sur la propagation de la chaleur dans les milieux homogènes Ⓣ(Studies on the propagation of heat in homogeneous media).
+* Lamé had played a major role in advising Boussinesq and the thesis clearly shows his influence in the way Boussinesq approached his subject.
+* The examining committee, however, comprised of Joseph Serret, Joseph Bertrand and Charles Auguste Briot and Boussinesq defended his thesis in Paris before this committee on 13 May 1867.
+* Boussinesq had not concentrated on his thesis to the exclusion of other research, for he had worked on the theory of linear elasticity at the same time.
+* In fact from this time on Saint-Venant was Boussinesq's staunchest supporter and became even more influential in 1868 when he was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
+* Boussinesq had married Jeanne Giscard de la Roque in 1867 and, but for Saint-Venant's support and advice, might well have settled down to teaching in secondary schools.
+* Saint-Venant understood the system well and was able to advise Boussinesq that to obtain a university position in mechanics would be very difficult unless he had both a mathematics and a physics qualification.
+* Boussinesq's research contributions up to this point had been very substantial.
+* In fact Boussinesq gave the first mathematical treatment of the problem of the stability of solitary waves in the first of these 1871 papers.
+* Boussinesq had been working on open-channel theory for some time.
+* In his first derivation of the solitary wave, published in 1871 in the 'Comptes rendus', Boussinesq sought an approximate solution of Euler's equations that propagated at the constant speed c without deformation in a rectangular channel.
+* A century later Boussinesq managed to include these terms.
+* Boussinesq taught at Lille for about fifteen years during which he continued to make major contributions to a wide variety of areas of applied mathematics.
+* A condition of this appointment was that Boussinesq move to Paris so he requested that he be given a transfer from the Faculty of Science in Lille to the Faculty of Science in Paris.
+* Saint-Venant, his former mentor, was not there to greet him because, by an unlucky stroke of fate, he who supported Boussinesq with so much perseverance from the start of his career in Agde up to the Academy of Sciences, had just died, on 6 January, at the age of 89, twelve days before his pupil's election.
+* Upon arrival among his new colleagues, Boussinesq proceeded to write his former mentor's obituary, in collaboration with Alfred Flamant, Saint-Venant's second favorite disciple.
+* Boussinesq remained Professor of Physical and Experimental Mechanics at the Sorbonne for ten years, until he inherited the more prestigious chair of Mathematical Physics and Theory of Probabilities, a position which he kept until his retirement in 1918 at the age of 76.
+* This led him to make 'Boussinesq's hypothesis' which gained him considerable credit when it was later confirmed experimentally by Bazin.
+* He also developed an analytical theory of heat and made what has been called the 'Boussinesq Approximation'.
+* Eight years after Boussinesq arrived in Paris, his wife Jeanne died; they had no children.
+* Boussinesq again married in the year following his wife's death, on this third occasion to Jeanne Le Bouteiller.
+* In his obituary in 1933, his colleague Émile Picard only talked about Boussinesq's last years as an academic.
+* Picard pointed out, however, that there was no bitterness in Boussinesq's solitude.
+* Boussinesq loathed the introduction of such monsters as continuous functions without derivatives and of non-Euclidean spaces.
 
 Born 13 March 1842, Saint-André de Sangonis, Hérault, France. Died 19 February 1929, Paris, France.
 

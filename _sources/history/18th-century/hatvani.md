@@ -7,10 +7,10 @@ orderid: 1718
 title: Hatvani, István
 born: 1718
 died: 1786
-keywords: Probability, Statistics, Calculus, Analysis, Algebra, Numerical Analysis, Differential Equations
-description: István Hatvani was a Hungarian mathematician whose pioneering work in probability, statistics, calculus, analysis, algebra, numerical analysis and differential equations advanced mathematical fields.
+keywords: istván hatvani,hatvani
+description: István Hatvani was a Hungarian mathematician who wrote a pioneering work on probability and statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **István Hatvani** was a Hungarian mathematician who wrote a pioneering work on probability and statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed new methods of calculus and analysis to solve systems of linear equations. 
-2. Authored seminal theoretical works on nonlinear equations and linear programming. 
-3. Researched and published several papers on algebraic system theory.
-4. Advanced the understanding of differential equations in a number of mathematical areas. 
-5. Enhanced the study of numerical analysis by proposing improved algorithms and methods. 
-6. Pioneered the development of algebraic structures and theoretical models for network structures.
-7. Established a mathematical approach to optimal control problems. 
-8. Developed innovative statistical models for analyzing experimental data in mathematics. 
-9. Pioneered the development of advanced mathematical models for the analysis of dynamic motion. 
-10. Pioneered the integration of algebraic and geometric methods in the study of linear algebra.
+* Hatvani's parents wanted him to become a priest and his initial education was designed with this in mind.
+* Hatvani attended schools in Rimaszombat which today is named Rimavská Sobota and is in central Slovakia, Losonc which today is named Lucenec and is also in central Slovakia, Kecskemét which is the county town of Bács-Kiskun in central Hungary 80 km southeast of Budapest, and Komárom which lies on the south bank of the Danube across from Komárno in present day Slovakia on the other side.
+* This College had an excellent reputation and was by Hatvani's time an ancient institution being founded in the middle of the 16th  century.
+* All who could afford to leave the town did so and most students at the College, including Hatvani, did just this.
+* By the first months of 1739 only thirty students remained at the College, and by this time Hatvani had moved back to Losonc (Lucenec) where he had been at school and there he worked as a tutor.
+* In Basel Hatvani studied theology and medicine and was awarded a doctorate in both these subjects.
+* They lectured on mathematics, physics and medicine and under their guidance Hatvani soon gained a reputation as an outstanding scientist.
+* Turning down offers of posts at the University of Heidelberg, at the University of Marburg, and at the University of Leiden, Hatvani returned to the Protestant College of Debrecen in 1748 and began his career as a lecturer there.
+* Hatvani made his most significant contribution when he published Introductio ad principia philosophicae solidioris Ⓣ(Introduction to the principles of solid philosophy) in 1757.
+* In this work Hatvani described the theory of probability, in particular basing his material on Jacob Bernoulli's Ars conjectandi Ⓣ(The art of conjecture).
+* For example Hatvani presents tables for the number of births in Debrecen for the years 1750 to 1753 inclusive.
+* In fact Hatvani used his medical skills not only in such investigations, but also in caring for the health of the students at the College of Debrecen.
 
 Born 21 November 1718, Rimaszombat, Hungary (now Rimavská Sobota, Slovakia). Died 16 November 1786, Debrecen, Hungary.
 

@@ -7,10 +7,10 @@ orderid: 1926
 title: Tims, Sydney Rex
 born: 1926
 died: 1971
-keywords: Rex Tims, Transience, Fields Medal, Cellular Automata, Nonlinear Dynamics, Elliptic PDES, Numerical Analysis
-description: Rex Tims, mathematician and teacher, won the Fields Medal for his work on dynamical systems and pioneered cutting-edge techniques for Cellular Automata and Nonlinear Dynamics. He also developed numerical methods for Elliptic PDES and authored texts on the related topics.
+keywords: rex tims,tims
+description: Rex Tims was an English mathematician and university teacher.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Rex Tims** was an English mathematician and university teacher.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical theory of transience, which is used to analyze the behavior of dynamical systems.
-2. Won the prestigious Fields Medal in 1975 for his work on the study of dynamical systems. 
-3. Pioneered advanced techniques for studying cellular automata. 
-4. Published major papers on nonlinear dynamics, chaos theory, and the foundations of numerical analysis. 
-5. Founded the International Conference on Nonlinear Dynamics, which is the largest conference of its kind.
-6. Developed innovative numerical methods for solving elliptic partial differential equations. 
-7. Authored numerous texts on the topics of dynamical systems, computational mathematics, and numerical analysis.
+* Rex attended a primary school in Watford and then, for his secondary education, studied at Watford Grammar School on Rickmansworth Road in Watford.
+* Tims devoted his efforts to teaching and did not publish any mathematical papers for nearly twenty years until he published (with J A Tyrrell) Approximate evaluation of Euler's constant (1971).
+* He was, however, the joint author of an excellent undergraduate textbook, namely Mathematical analysis: an introduction, by David Bernard Scott and Sydney Rex Tims (Cambridge University Press, 1966).
+* In 1961 Tims was elected to the Royal Astronomical Society, having been proposed by Hermann Bondi.
 
 Born 21 December 1926, London, England. Died 16 February 1971, Aldershot, Hampshire, England.
 

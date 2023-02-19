@@ -7,10 +7,10 @@ orderid: 1966
 title: Jitomirskaya, Svetlana
 born: 1966
 died: 0
-keywords: Svetlana Jitomirskaya, Fields Medal, Clay Research Award, von Neumann Theory, KAM theorem, Differential Equations, Trace Formula
-description: Svetlana Jitomirskaya is a mathematician who received the Fields Medal (2002) and Clay Research Award (2003) and worked on Differential Equations and Trace Formula.
+keywords: svetlana jitomirskaya,jitomirskaya
+description: Svetlana Jitomirskaya is a Ukranian-born American mathematician who is known for her work on dynamical systems and mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Svetlana Jitomirskaya** is a Ukranian-born American mathematician who is known for her work on dynamical systems and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Received the Fields Medal in 2002 for her major contributions to von Neumann Theory and to the study of differential equations.
-2. Received the Clay Research Award in 2003 for her work on the KAM theorem.
-3. Worked on partial differentials and the Schrödinger operator.
-4. Developed the multidimensional continued fraction algorithm.
-5. Developed the Polynomial Completion Principle for the Difficult Problem of Eigenvalues of Schrodinger Operator.
-6. Proved the density of quasimomentum in almost all cases.
-7. Made major progress on the One Frequency zone Conjecture.
-8. Provided substantial progress on the Bohr–Sommerfeld quantum conditions.
-9. Formulated the Trace Formula of Quantum Mechanics.
-10. Developed the Artin–Mazur zeta function.
+* Jitomirskaya completed her undergraduate studies in 1987, graduating with distinction having written the thesis Localization problems in the kicked rotor model.
+* Jitomirskaya was awarded a doctorate from Moscow State University in 1991 for her thesis Spectral and Statistical Properties of Lattice Hamiltonians.
+* In 1991 Jitomirskaya also published Singular spectral properties of a one-dimensional Schrödinger operator with almost periodic potential, Spectral properties of one-dimensional almost periodic operators and, with her husband Vladimir Mandelshtam, 1D-quasiperiodic operators.
+* Appointed as a Visiting Assistant Professor at the University of California at Irvine in 1992, Jitomirskaya published the joint paper Ising model in a quasiperiodic transverse field, percolation, and contact processes in quasiperiodic environments with Abel Klein in the following year.
+* Jitomirskaya has received prestigious awards for her outstanding contributions.
+* In January 2006 Jitomirskaya gave a plenary address to the Joint American Mathematical Society/Mathematical Association of America Annual Meeting in San Antonio and in August of that year she gave a plenary address to the XV International Congress of Mathematical Physics in Rio de Janeiro.
 
 Born 4 June 1966, Kharkov, Ukraine.
 

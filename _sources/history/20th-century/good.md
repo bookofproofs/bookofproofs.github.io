@@ -7,10 +7,10 @@ orderid: 1916
 title: Good, Irving John
 born: 1916
 died: 2009
-keywords: Irving John Good, mathematics, Bletchley Park, GCHQ, computers, statistics, quantum computing
-description: Irving John Good was an English mathematician who worked for Bletchley Park and GCHQ and made contributions to computers, statistics, and quantum computing.
+keywords: irving john good,good
+description: Irving John Good was an English mathematician who worked at Bletchley Park and at GCHQ and later went on to work with computers and statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Irving John Good** was an English mathematician who worked at Bletchley Park and at GCHQ and later went on to work with computers and statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the notion of a paradox of aggregation, also known as Good's paradox, which demonstrated that there can exist probability distributions whose expected expected values cannot be calculated.
-2. Founded the field of quantum computing, which is foundational for cryptography and artificial intelligence.
-3. Published a paper in 1952, “The mathematical foundations of quantum mechanics”, which is now recognized as a classic for its influence on contemporary quantum cryptography.
-4. Advanced the theory of the Pearson correlation coefficient and the coefficient of variation.
-5. Developed probabilistic methods for logical inference.
-6. Coauthored a paper with Alan Turing on the Entscheidungsproblem.
-7. Introduced the concept of the non-predictive learning machine. 
-8. Credited with coining the words “entropy”, “intelligence”, and “measurement” in the context of physics.
-9. Pioneered the use of coding theory in communication systems.
-10. Authored the paper “Strategy in chess” which was one of the first works of applied game theory.
+* His parents were Morris Edward Good (1885-1958) (also known by the Yiddish name Moshe Oved) and Sophia Polikoff.
+* Morris Good was born in Poland at a time when it was part of the Russian Empire, He learnt the trade of a watchmaker before emigrating to England at the age of seventeen.
+* Jack Good showed remarkable mathematical talents when he was still a child.
+* Good entered Jesus College, Cambridge where he attended lectures by A E Ingham, J C Burkill, F P White and G H Hardy.
+* He played a lot of chess, particularly with John Francis O'Donovan who played board one for Ireland.
+* Good won the Cambridgeshire Chess Championship in 1939.
+* One of those who interviewed him for the position at Bletchley was Hugh Alexander, who had twice been British Chess Champion and who Good knew, having played chess with him.
+* At first Good worked in Hut 8 headed by Alan Turing but after a year Turing moved to a different area and Hugh Alexander became head of Hut 8.
+* In 1943 Good moved to the "Newmanry", working under Max Newman.
+* The main users at first were Newman, Michie and Good, and some months later about twenty mathematicians.
+* Good was a main user and produced more than half the theory for the use of the Colossi.
+* After the war ended, Good was appointed as a lecturer in Pure Mathematics at the University of Manchester working for Max Newman who had been appointed as professor.
+* While at Manchester, Good was also involved in the project to develop an electronic computer.
+* One reason for Good leaving Manchester was that his book Probability and the Weighing of Evidence had been rejected by a publisher.
+* Good worked at GCHQ from 1948 until 1959.
+* In 1959 Good resigned from his position at GCHQ when offered a chair at the University of Chicago.
+* We mention two further books: (jointly with David B Osteyee) Information, weight of evidence, the singularity between probability measures and signal detection (1974) and Good thinking.
+* This last mentioned book collects together many of Good's more philosophical and less mathematical papers.
+* Good retired and was made Professor Emeritus in July 1994.
+* Good died of natural causes at the age of 92.
 
 Born 9 December 1916, London, England. Died 5 April 2009, Radford, Virginia, USA.
 

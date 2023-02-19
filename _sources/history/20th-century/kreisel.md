@@ -7,10 +7,10 @@ orderid: 1923
 title: Kreisel, Georg
 born: 1923
 died: 2015
-keywords: Georg Kreisel, mathematical logician, higher-order theory, informal proofs, Lowenheim-Skolem theorem, proof-theoretic interpretation, general recursive functions, Kreisel-Goodman paradox, Aesthetic Criterion
-description: Georg Kreisel was a mathematical logician who developed a wealth of ideas, including the notion of higher-order theory, proof-theoretic interpretation and general recursive functions, tightly connected with discoveries like the Kreisel-Goodman paradox, as well as the Aesthetic Criterion.
+keywords: georg kreisel,kreisel
+description: Georg Kreisel was an Austrian-born mathematical logician who studied and worked in the United Kingdom and America and chiefly studied proof and computation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georg Kreisel** was an Austrian-born mathematical logician who studied and worked in the United Kingdom and America and chiefly studied proof and computation.
 
 ### Mathematical Profile (Excerpt):
-1. Formulated the notion of a “higher-order theory”, which was the foundation for later developments in model theory and proof theory.
-2. Developed the notion of the “length” of informal proofs, which is now regarded as one of the earliest applications of complexity theory to mathematical reasoning.
-3. Proved the downward Lowenheim-Skolem theorem, which was the first proof of a fundamental result in model theory.
-4. Developed the proof-theoretic interpretation of intuitionistic logic.
-5. Discovered the notion of “general recursive functions”, which is the underlying foundation for Church’s thesis and the theory of computability.
-6. Established a standard axiomatic system for classical set theory, which is still in use today.
-7. Propounded the Kreisel-Goodman paradox, which challenged the traditional dogmas of classical logic. 
-8. Contributed to our understanding of the set-theoretic paradoxes, by suggesting modifications to major existing theories and systems.
-9. Formulated "The Aesthetic Criterion", which states that a proof should be logically adequate, constructively intuitive, and aesthetically pleasing.
+* Kreisel's parents saw the approaching political problems and, before Hitler took over Austria, they sent Georg and his brother to England.
+* Kreisel studied mathematics at Trinity College, Cambridge graduating with a B.A. in 1944.
+* During his undergraduate years Kreisel was influenced by Wittgenstein who was also at Trinity.
+* Kreisel was sent to do War Service with the Admiralty immediately his university courses were over and he began work at West Leigh near Havant and close to the naval base at Portsmouth.
+* After a while, Kreisel was moved to Fanum House in central London where he studied the effects of waves on the harbours which were being designed for the Normandy landings.
+* In 1946 Kreisel returned to Cambridge to undertake research, studying mathematical logic.
+* After the award of his doctorate Kreisel hoped for a Fellowship at Trinity but this was not forthcoming.
+* Freeman Dyson was an undergraduate at Cambridge in the same year as Kreisel and by the 1950s was at the Institute for Advanced Study.
+* He persuaded Gödel to invite Kreisel to the Institute for Advanced Study and Kreisel arrived there in the summer of 1955.
+* Kreisel returned to Reading in 1957 but kept up a mathematically important correspondence with Gödel.
+* In 1958-59 Kreisel was back in the United States, this time at Stanford.
+* In 1962 Kreisel returned to the United States and was appointed to Stanford where he remained on the staff until he retired in 1985.
+* One important aspect which Kreisel worked on over a period of 30 years was his "unwinding".
+* But, as with his work on constructivity, Kreisel also sought to replace those by a more sophisticated stance about foundations.
+* Kreisel was elected a fellow of the Royal Society of London in 1966.
 
 Born 15 September 1923, Graz, Austria. Died 1 March 2015, Salzburg, Austria.
 

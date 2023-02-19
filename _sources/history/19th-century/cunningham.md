@@ -7,10 +7,10 @@ orderid: 1881
 title: Cunningham, Ebenezer
 born: 1881
 died: 1977
-keywords: mathematics, relativity, electromagnet, organic geometry, momentum, probability, algorithms
-description: Ebenezer Cunninghamwas an English mathematician who pioneered the use of mathematics to solve challenging problems, authored numerous papers and a book on mathematics, and researched many complex topics.
+keywords: ebenezer cunningham,cunningham
+description: Ebenezer Cunningham was an English mathematician who worked in relativity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ebenezer Cunningham** was an English mathematician who worked in relativity.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new set of mathematical equations for calculating the magnetic force of an electromagnet.
-2. Researched the concept of organic geometry and discovered unique relationships between lines, angles and shapes.
-3. Investigated mathematical formulas for calculating the momentum of a particle.
-4. Authored a number of highly acclaimed papers on mathematical research topics.
-5. Developed a probability-based system for predicting the outcomes of experiments.
-6. Conducted research into new mathematical approaches for analyzing economic data.
-7. Pioneered the use of algorithms in the field of applied mathematics.
-8. Developed innovative methods of solving complex optimization problems.
-9. Authored a popular book on the history of mathematics.
-10. Advocated for the use of mathematics to solve challenging real-world problems.
+* Ebenezer had an older brother George (born about 1879) and a younger brother Charles  (born about 1884).
+* Ebenezer Cunningham was educated at Owen's School Islington and from there he won an open mathematical scholarship to St John's College, Cambridge, which he entered in 1899.
+* Although Cunningham's early papers were on analysis, he was soon to change topic.
+* Cunningham published The Principle of Relativity in 1914, the first English book on the topic.
+* In fact Cunningham had returned to St John's College Cambridge in 1911, at the invitation of Baker.
 
 Born 7 May 1881, Hackney, London, England. Died 12 February 1977, Corbridge Northumberland, England.
 

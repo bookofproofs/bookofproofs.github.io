@@ -7,10 +7,10 @@ orderid: 800
 title: Al-Jawhari, al-Abbas ibn Said
 born: 800
 died: 860
-keywords: Al-Jawhari, Islamic, Mathematics, Euclid, Miftah, Al-Khwarizmi, Arithmetic
-description: Al-Jawhari was an Islamic mathematician, author of Miftah al-Hisab and contributor to the works of Euclid, Ptolemy and Diophantus, known for his contributions to geometry, arithmetic, algebra, and trigonometry.
+keywords: al-jawhari,al-jawhari
+description: Al-Jawhari was an Islamic mathematician whose main work was a commentary on Euclid's Elements.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Jawhari** was an Islamic mathematician whose main work was a commentary on [Euclid's Elements][bookofproofs$621].
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the book Miftah al-Hisab, which became a key text in the world of mathematics.
-2. Compiled a comprehensive encyclopedia of mathematical terms, which was later updated by the mathematician al-Khwarizmi.
-3. Demonstrated expertise in arithmetic, algebra, geometry, and numerical analysis.
-4. Suggested new methods for the calculation of the volume of a cone.
-5. Used both the algebraic and geometric methods in his work.
-6. Discovered new formulas in algebra, geometry, and trigonometry.
-7. Provided detailed calculations of the distances and directions between different cities.
-8. Formulated new methods for calculating different shapes, such as the ellipse and hyperbola.
-9. Expanded upon the works of earlier mathematicians, such as Euclid, Ptolemy, and Diophantus.
-10. Provided explanations and proofs for mathematical theorems, including a proof of the Pythagorean Theorem.
+* Al-Jawhari was employed in the service of al-Ma'mun in Baghdad, although we do not know exactly when he began his work there.
+* Al-Jawhari, although best known as a geometer, made observations in Baghdad from 829 to 830 while working for al-Ma'mun.
+* The main work by al-Jawhari was Commentary on Euclid's Elements which is listed in the Fihrist (Index), a work compiled by the bookseller Ibn an-Nadim in 988.
+* Commentary on Euclid's Elements is almost the same work described by Nasir al-din al-Tusi (although al-Tusi gives a slightly different title for al-Jawhari's work: Emendation of the Elements).
+* This work contained nearly fifty propositions additional to those given by Euclid and included an attempt by al-Jawhari to prove the parallel postulate.
+* Al-Tusi quotes six of the nearly fifty propositions which together form what al-Jawhari believed was a proof of the parallel postulate.
+* This means that, as far as we are aware, al-Jawhari was the first Arabic mathematician to attempt such a proof.
+* In the short treatise al-Jawhari presents three additions to Book V of Euclid's Elements, which are meant prove Definition 5 which defines equal ratio, and Definition 7 which defines greater ratio.
+* Al-Jawhari's "proofs" are examples of early attempts by Muslim mathematicians to understand the difficult concepts in Euclid's Elements.
 
 Born about 800, possibly Baghdad, Iraq. Died about 860, possibly Baghdad, Iraq.
 

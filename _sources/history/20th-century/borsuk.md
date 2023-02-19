@@ -7,10 +7,10 @@ orderid: 1905
 title: Borsuk, Karol
 born: 1905
 died: 1982
-keywords: Karol Borsuk, topology, dimension, homology theory, algebraic topology, Heawood conjecture, vector fields
-description: Karol Borsuk was a Polish mathematician who made significant contributions to topology, introducing the notion of dimension, developing homology theory, pioneering the use of algebraic topology, and proposing the Heawood conjecture.
+keywords: karol borsuk,borsuk
+description: Karol Borsuk was a Polish mathematician who made important contributions to topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karol Borsuk** was a Polish mathematician who made important contributions to topology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a homology theory for cell complexes, providing a basis for algebraic topology.
-2. Introduced the notion of dimension in topology, leading to the Borsuk–Ulam theorem.
-3. Pioneered the use of algebraic topology to study projects in geometry and logic.
-4. Introduced homotopic delta-sets, which is the basis of homotopy theory.
-5. Contributed to the development of axiomatization of algebraic topology.
-6. Proposed the dimension equivalent of the Heawood conjecture, now known as the Borsuk–Ulam theorem.
-7. Developed a method for constructing limits of topological spaces, now referred to as the Borsuk–Hahn–Banach theorem. 
-8. Defined the notion of group-homotopy equivalence. 
-9. Developed the first obstruction theory for extending vector fields on a sphere.
-10. Made important contributions to mathematical foundations, such as the theory of continuity, measurement theory, and abstract computability theory.
+* When Borsuk entered the University of Warsaw to study mathematics it was an exciting centre for research in topology; Saks and Mazurkiewicz were both teaching at the University and making major advances in the topic.
+* Borsuk obtained his master's degree from the University of Warsaw in 1927 and then, from 1929, he taught at the University.
+* On 26 April 1936 Borsuk married Zofia Paczkowska.
+* Borsuk visited there and during one such visit began a collaboration with Ulam.
+* It was a joint paper with Borsuk, published in the Bulletin of the American Mathematical Society.
+* In Lwów Borsuk joined the mathematicians in the Scottish Café and contributed to the open problems which they wrote down in the famous book.
+* Borsuk's career was of course about to be interrupted by the start of World War II.
+* During the Nazi occupation Borsuk tried to keep the University of Warsaw functioning in the way that Kuratowski describes in the quote above.
+* Borsuk, however, escaped and was able to survive by remaining in hiding throughout the rest of the war.
+* Borsuk and Kuratowski both played important roles in this reconstruction.
+* Borsuk continued in his post in the University of Warsaw, a post he held throughout his career, being promoted to professor in 1946.
+* In Warsaw, Borsuk led a seminar in which he developed a unique atmosphere of successful international cooperation.
+* The notion had immediate impact on other topologists, and in particular on Borsuk's own students.
+* Many honours were given to Borsuk for his remarkable contributions.
 
 Born 8 May 1905, Warsaw, Russian Empire (now Poland). Died 24 January 1982, Warsaw, Poland.
 

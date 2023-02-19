@@ -7,10 +7,10 @@ orderid: 1920
 title: Kublanovskaya, Vera Nikolaevna
 born: 1920
 died: 2012
-keywords: Spectral Problems, 3-manifolds, Reidemeister Trace, Linking Number, 4-manifolds, Poincare Conjecture, Epimorphism
-description: Vera Kublanovskaya developed computational methods for spectral problems and introduced the concept of the Reidemeister trace and linking number. She made a significant contribution to the algebraic topology, solving the Poincare conjecture & proposing a simplified theorem of Krull and Schmid.
+keywords: vera kublanovskaya,kublanovskaya
+description: Vera Kublanovskaya was a Russian mathematician who developed computational methods for solving spectral problems of algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vera Kublanovskaya** was a Russian mathematician who developed computational methods for solving spectral problems of algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Solved an outstanding problem in topology in 1926, demonstrating that certain 4-manifolds with boundary can be bound by closed 3-manifolds.
-2. Contributed to the algebraic topology by introducing the concept of the Reidemeister trace.
-3. Was the first to propose the concepts of linking number and index of a link in 1927.
-4. Found a solution for the Poincare conjecture in three dimensions in 1930, arguing that any two simple closed curves in a compact, connected, orientable 3-manifold are isotopic.
-5. Pioneered the concept of an orientable 3-manifold, defining it in 1936.
-6. Contributed greatly to the study of algebraic curves, reviving the works of Karl Weierstrass, Gaston Darboux, Élie Cartan and Marston Morse in the 1930s
-7. Published the influential monograph “ Sous-groupes des groupes finis” in 1947, introducing a new notion of the epimorphism and proposing a simplified version of a theorem of Krull and Schmid.
-8. Developed a method for the construction of closed 3-manifolds using polyhedra in 1950.
+* Krokino, where Vera was born, was a small fishing village on the south east side of Ozero Beloye, a lake due east of St Petersburg (named Petrograd at the time that she was born, but becoming Leningrad in 1924) and due north of Moscow.
+* It was at the town of Belozersk that Vera Nikolaevna attended secondary school and, after graduating, she took a course to train to become a primary school teacher.
+* Accepted without any further examinations, Vera Nikolaevna began her studies at the Pedagogical Institute in 1939.
+* This had little effect on life in Leningrad where Vera Nikolaevna met Dmitrii Konstantinovich Faddeev who strongly advised her that she should follow a career in mathematics.
+* When Vera Nikolaevna's mother became seriously ill she left Leningrad and returned to her home village of Krokino.
+* However, in 1945 Vera Nikolaevna decided that she would investigate whether Faddeev's suggestion that she study for a degree in mathematics at Leningrad State University still applied.
+* After three years of study, Vera Nikolaevna graduated from Leningrad State University and was given an appointment as a junior researcher at the V A Steklov Mathematical Institute of the USSR Academy of Sciences in Leningrad.
+* Vera Nikolaevna worked with Kantorovich on this project in a secret Leningrad laboratory until 1955.
+* It is remarkable that, in addition to her family duties and her work with Kantorovich, Kublanovskaya found time to undertake research for her candidate's degree (equivalent to a Ph.D.).
+* Following this Kublanovskaya was promoted to a senior researcher at the Steklov Mathematical Institute.
+* He set up a research group, which Kublanovskaya joined, developing PRORAB, an abbreviation of the Russian for "task manager".
+* That was the beginning of Vera Nikolaevna's activities on developing algorithms of numerical linear algebra.
+* Kublanovskaya continued publishing significant papers on related topics (all written in Russian) such as: (with Vera Faddeeva) Computational methods for the solution of the general eigenvalue problem (1962); On a method of orthogonalizing a system of vectors (1964); Reduction of an arbitrary matrix to tridiagonal form (1964); A numerical scheme for the Jacobi process (1964); Some bounds for the eigenvalues of a positive definite matrix (1965); An algorithm for the calculation of eigenvalues of positive definite matrices (1965); On a certain process of supplementary orthogonalisation of vectors (1965); and A method for solving the complete problem of eigenvalues of a degenerate matrix (1966).
+* Also in 1966 she published a joint paper with Dmitrii Faddeev and Vera Faddeeva Sur les systèmes linéaires algébriques de matrices rectangulaires et mal-conditionnées.
+* In more recent work, Kublanovskaya has worked with Vladimir Borisovich Khazanov.
+* It is simply impossible to overestimate the role of V N Kublanovskaya in training students in the  field of numerical methods and computational mathematics.
 
 Born 21 November 1920, Krokino, Vologda Oblast, Russia. Died 21 February 2012, St Petersburg, Russia.
 

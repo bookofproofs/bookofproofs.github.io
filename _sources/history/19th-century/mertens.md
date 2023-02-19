@@ -7,10 +7,10 @@ orderid: 1840
 title: Mertens, Franz Carl Joseph
 born: 1840
 died: 1927
-keywords: Mertens, Math, Conjecture, Jordan Theorem, Conformal, Geometry, Affine
-description: Polish-born Math genius Franz Mertens proposed the Mertens Conjecture and worked to discover theorems related to curves, model geodesic flows, prove the Mertens Formula and more in the field of geometry.
+keywords: franz mertens,mertens
+description: Franz Mertens was a Polish-born mathematician who made contributions to a wide variety of areas. He formulated the Mertens conjecture which (had it been true) would have implied the Riemann Hypothesis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Franz Mertens** was a Polish-born mathematician who made contributions to a wide variety of areas. He formulated the Mertens conjecture which (had it been true) would have implied the Riemann Hypothesis.
 
 ### Mathematical Profile (Excerpt):
-1. Rediscovered and proved theorems related to curves such as the Jordan Theorem, companion curves, and the Mertens theorem.
-2. Developed the mathematical model for geodesic flows in projective geometry.
-3. Coined the term "pseudo-conformal" to refer to conformally invariant geometry.
-4. Derived the necessary and sufficient conditions for the existence and uniqueness of a conformal mapping.
-5. Explored connections between the boundary value problems in Euclidean geometry and the elliptic partial differential equations.
-6. Discovered and proved the Mertens Formula, which relates prime numbers, Euler's totient function, and the Riemann zeta function.
-7. Established the range of validity of the Borsuk-Ulam theorem in dimensions higher than three.
-8. Resolved the vanishing affine problem in algebraic geometry, providing a necessary and sufficient condition for a general affine hypersurface of given degree. 
-9. Proved the non-existence of rectilinear Steiner triple systems of order 11.
-10. Formulated the Mertens conjecture, which states that the partial sums of the Mertens function converge to a constant.
+* Sroda, the village in which Mertens was born, was close to Poznań in Prussia.
+* Mertens' family naturally identified with the German aspect of the country while for those of Polish culture the years of the 19th  century were a continual battle to struggle for their identity.
+* He was known, however, both by the German version of his name which is Franz and the Polish version which is Franciszek.
+* Mertens completed his university studies at the University of Berlin where he attended lectures by Weierstrass, Kronecker and Kummer.
+* This was the "golden period" for mathematics in Berlin and gave Mertens the best possible mathematical foundations.
+* It is worth noting that, in 1882, Mertens was offered the chair at Halle left vacant after the death of Heine.
+* He had been the third choice for this chair but after Dedekind and Heinrich Weber turned it down, Mertens (who was at that time in Cracow) also turned it down.
+* Mertens worked on a number of different topics including potential theory, geometrical applications to determinants, algebra and analytic number theory, publishing 126 papers.
+* Many people are aware of Mertens contributions since his elementary proof of the Dirichlet theorem appears in most modern textbooks.
+* However he made many deep contributions including Mertens' theorems, three results in number theory related to the density of the primes.
+* Here Mertens defines M(n)M(n)M(n) to be the sum of the numbers m(i)m(i)m(i) where iii runs from 1 to nnn and where mmm is the Möbius function.
+* It was known that there is no xxx with M(x)>xM(x) > xM(x)>x but Mertens' conjecture was stronger, namely that there is no xxx with M(x)>√xM(x) > √xM(x)>√x.
+* The result is important since a proof of Mertens' conjecture would imply the truth of the Riemann hypothesis.
+* Among Mertens other papers we mention: Invariante Gebilde ternärer Formen Ⓣ(Invariant structure of ternary forms) (1887); Invariante Gebilde quaternärer Formen Ⓣ(Invariant structure of quaternary forms) (1889); Dirichletscher Reihen Ⓣ(Dirichlet series) (1895); Zur linearen Transformation der q-Reihen Ⓣ(On linear transformation of q-series) (1901); and Beweis der Galois'schen Fundamentalsatzes Ⓣ(Proof of Galois's Fundamental Theorem) (1902).
 
 Born 20 March 1840, Schroda, Posen, Prussia (now Środa Wielkopolska, Poland). Died 5 March 1927, Vienna, Austria.
 

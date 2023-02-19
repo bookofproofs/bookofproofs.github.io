@@ -7,10 +7,10 @@ orderid: 450
 title: Geng, Zu
 born: 450
 died: 520
-keywords: Zu Geng, Mathematics, differential equations, optimization, theorems, algorithms, numerical analysis
-description: Zu Geng was a Chinese mathematician widely known for their works on mathematical topics such as differential equations, optimization, theorems and algorithms. They achieved success through numerical analysis.
+keywords: zu geng,geng
+description: Zu Geng was a Chinese mathematician whose greatest achievement was to compute the diameter of a sphere of a given volume.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zu Geng** was a Chinese mathematician whose greatest achievement was to compute the diameter of a sphere of a given volume.
 
 ### Mathematical Profile (Excerpt):
-1. Published over forty papers on mathematical topics, including principal solutions to certain sixth-order differential equations, complex analysis, and mathematical modeling. 
-2. Established a mathematical solution that allows optimization of problems in real world scenarios, based on a differential equations model. 
-3. Discovered a number of new theorems related to differential equations. 
-4. Developed an algebraic method for solving third-order linear differential equations leveraging numerical integration techniques. 
-5. Formulated more efficient algorithms for computing integral equations, allowing for the computation of solutions in a more efficient manner. 
-6. Pioneered a new kind of mechanical force fields, by developing a analytical approach to their modelling that was previously ignored by most mathematicians. 
-7. Developed a family of analytical methods to analytically handle non-trivial problems in higher dimensional geometries. 
-8. Elaborated a numerical analysis algorithm designed to solve certain nonlinear problems that are hard to solve with traditional methods.
+* He was the son of Zu Chongzhi and so came from a famous family who had for many generations produced outstanding mathematicians.
+* Zu Geng's great great grandfather was an official at the court of the Eastern Chin dynasty which had been established at Jiankang (now Nanking).
+* Zu Geng's great grandfather, grandfather, and father Zu Chongzhi, all served as officials of the Liu-Sung dynasty which also had its court at Jiankang (now Nanking).
+* The Zu family was an extremely talented one with successive generations being, in addition to court officials, astronomers with special interests in the calendar.
+* Zu Geng, in the family tradition, was taught a variety of skills as he grew up.
+* In particular he was taught mathematics by his talented father Zu Chongzhi.
+* Zu Geng's greatest achievement was to compute the diameter of a sphere of a given volume.
+* And, therefore, Zu suggested a new hypothesis himself.
+* Li Chunfeng then goes on to indicate how Zu Geng proved his result.
+* Zu cut his circumscribed cube into 8 small equal cubes.
+* This is significant, for Zu Geng has seen the link between squaring the circle and cubing the sphere, and has been able to translate progress on the first of these two problems into progress on the second.
+* As a final comment let us note that Zu Geng was certainly not the last member of the famous Zu family to make important contributions.
+* Zu Geng's son, Zu Hao, was also well known as a mathematical astronomer making contributions to the science of the calendar.
 
 Born about 450, Jiankang, (now Nanjing, Kiangsu province), China. Died about 520, China.
 

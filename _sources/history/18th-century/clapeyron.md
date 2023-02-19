@@ -7,10 +7,10 @@ orderid: 1799
 title: Clapeyron, Benoit Paul Émile
 born: 1799
 died: 1864
-keywords: thermodynamics, entropy, Clapeyron equation, Clausius-Clapeyron relation, exergy, chemical potential, Gibbs free energy
-description: Émile Clapeyron revolutionised the understanding of thermodynamics through his development of the Clapeyron equation, entropy, exergy and the Clausius-Clapeyron relation.
+keywords: émile clapeyron,clapeyron
+description: Émile Clapeyron was a French engineer who designed steam locomotives and worked on the theory of heat.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Émile Clapeyron** was a French engineer who designed steam locomotives and worked on the theory of heat.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the second law of thermodynamics, which states that the total entropic change of a thermodynamic system is always greater than or equal to zero. 
-2. Developed the Clapeyron equation, which describes the relationship between thermodynamic properties of a system. 
-3. Discovered the concept of the Clausius-Clapeyron relation, a result of the integration of the Clapeyron equation.
-4. Developed the concept of entropy, which is used to measure the disorder in a thermodynamic system. 
-5. Discovered the criteria for chemical equilibrium in a closed system, known as Clapeyron's equation. 
-6. Coined the term exergy, a measure of the maximum potential work a system can do.
-7. Established the theory of chemical potential, which describes the relationship between chemical potential and other thermodynamic properties of a system.
-8. Developed the Clausius-Duhem theorem, which relates chemical potential to the rate of change of internal energy.
-9. Applied mathematics to chemical thermodynamics, developing the Gibbs free energy equation.
-10. Utilized mathematics to describe mechanical thermodynamics, developing the Joule-Thomson coefficient and the Joule-Thomson effect.
+* Clapeyron and Lamé went together to Russia in 1820.
+* Clapeyron and Lamé went to St Petersburg where the École des Travaux Publics had been set up and these they taught both pure and applied mathematics.
+* Both Clapeyron and Lamé remained in Russia for 10 years.
+* Clapeyron proposed a railway line from Paris to St Germain and sought funding for the project.
+* In 1835 the construction of the line from Paris to St Germain was authorised and Clapeyron and Lamé were put in charge of the project.
+* Lamé was offered the chair of physics at the École Polytechnique shortly after they began their work and Clapeyron was left to head the venture.
+* In 1836 Clapeyron, who specialised in designing steam locomotives, went to England to arrange for the building of some specialist locomotives.
+* Clapeyron approached Stevenson, the most famous of the builders of locomotives, but Stevenson found Clapeyron's designs too difficult and declined the contract.
+* Clapeyron then approached Sharp, Roberts, and Company, a firm which made railway locomotives in one of the earliest applications of the use of interchangeable parts.
+* Continuing with his project on his return to France, Clapeyron extended his activities to the design of metal bridges.
+* In 1844 Clapeyron was appointed professor at the École des Ponts et Chaussées then, in 1848, he was elected to the Paris Academy of Sciences.
+* Clapeyron expressed Sadi Carnot's ideas on heat analytically, with the help of graphical representations, in 1834.
+* Sadi Carnot's work was virtually unknown before Clapeyron's paper in which the Carnot cycle is given in mathematical formulation.
+* This work of Clapeyron had important influences on Thomson and Clausius when its importance for the second law of thermodynamics became apparent.
+* The Clapeyron relation, a differential equation which determines the heat of vaporisation of a liquid, is named after him.
 
 Born 26 January 1799, Paris, France. Died 28 January 1864, Paris, France.
 

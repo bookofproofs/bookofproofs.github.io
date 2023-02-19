@@ -7,10 +7,10 @@ orderid: 1927
 title: Levin (2), Frank
 born: 1927
 died: 2011
-keywords: Frank Levin, mathematics, infinite group theory, real fields, analysis, geometry, number theory
-description: Frank Levin was an influential American mathematician who developed foundational methods for real fields, wrote seminal works on algebra and number theory, and earned numerous prestigious awards, including the National Medal of Science.
+keywords: frank levin,levin
+description: Frank Levin was an American mathematician who worked mainly in infinite group theory.
 references: bookofproofs$6909
-contributors: @Benjamin-Baumslag,bookofproofs,@ChatGPT
+contributors: @Benjamin-Baumslag,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @Benjamin-Baumslag,bookofproofs,@ChatGPT
 **Frank Levin** was an American mathematician who worked mainly in infinite group theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a reliable method for establishing totally real fields, which are essential for mathematical research. 
-2. Solved major problems in mathematical analysis, algebraic geometry, and algebraic number theory. 
-3. Proved a large number of major theorems in mathematics.
-4. Led the establishment of the mathematical sciences curriculum at the University of Chicago. 
-5. Authored a number of important books on algebra and number theory. 
-6. Received numerous prestigious awards and honors such as the Steele Prize and Doob Prize. 
-7. Elected to the National Academy of Sciences and the American Academy of Arts and Sciences. 
-8. Received the National Medal of Science in 1974.
+* Because Julie lacked a father, Frank was forced to be the father substitute, which he did well, so that his sister was always grateful to him.
+* It turned out the chief had given Frank the wrong data to begin with.
+* On his frequent trips to Belgrade, Frank took the opportunity of stopping in London, where he worked with me.
+* (Not surprisingly, the long intervals when he and Ossia were separated were not good for the marriage.) Frank had no children with Ossia, but did have a son Marc with Elke.
+* On retiring, Frank moved with his wife to Swansea in Wales, where Elke's children lived.
+* Frank was one of those few mathematicians who never gave up working on mathematics when he retired, and indeed, he was still working on a paper with Narain Gupta on the fateful day when he had a stroke.
+* It was a blessing that before his death, Frank saw his granddaughter, now aged 6 months.
+* Frank was a very quiet, modest man.
+* Frank did not swear, mainly because he had no violence in his make-up.
+* He did not even curse when he told me about a friend who had used Frank to guarantee a loan, and then decamped leaving the debt to Frank.
 
 Born 19 June 1927, Dayton, Ohio, USA. Died 2 October 2011, Swansea, Wales.
 

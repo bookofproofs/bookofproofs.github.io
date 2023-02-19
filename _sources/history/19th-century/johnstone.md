@@ -7,10 +7,10 @@ orderid: 1877
 title: Johnstone, David
 born: 1877
 died: 1935
-keywords: David Johnstone, Edinburgh University, Spier's School Beith, George Heriot's School Edinburgh, finite fields, partial differential equations, polynomial roots
-description: David Johnstone graduated from Edinburgh University and taught at multiple schools before becoming a pioneering mathematician in finite fields, partial differential equations, and polynomial roots, authoring numerous papers and winning awards for his work.
+keywords: david johnstone,johnstone
+description: David Johnstone graduated from Edinburgh University and taught at Spier's School Beith and George Heriot's School Edinburgh before moving to the Provincial Training College in Edinburgh.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Johnstone.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Johnstone.jpg?raw=true)
 
-**David Johnstone** graduated from Edinburgh University and taught at Spier's School Beith and George Heriot's School Edinburgh before moving to the Provincial Training College in Edinburgh. 
+**David Johnstone** graduated from Edinburgh University and taught at Spier's School Beith and George Heriot's School Edinburgh before moving to the Provincial Training College in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered efficient algorithms for factoring polynomials over finite fields.
-2. Developed numerical methods for solving non-linear partial differential equations.
-3. Contributed to the development of efficient algorithms for computing elliptic curve discrete logarithms.
-4. Introduced the powerful logic of dependence logic to mathematics.
-5. Discovered new effective algorithms for determining the roots of a polynomial over a finite field.
-6. Authored numerous papers on the algebraic properties of number fields.
-7. Pioneered the application of mathematical models to predict the behavior of complex engineering systems.
-8. Won multiple awards for his work in the field of mathematics.
+* His mother was  Helen Johnstone (born Perth, Perthshire about 1848).
+* David Johnstone had an older brother James  who, like his father, became a printer compositor.
+* David Johnstone entered St Leonard's Public School, Edinburgh, in 1883.
+* Johnstone gave his home address as 27 St Leonard Street when he first matriculated.
+* At George Heriot's, Johnstone sat the Leaving Certificate examinations and passed at Higher level English, Mathematics, French, and Latin (some in June 1894, some in June 1895).
+* Johnstone joined the Edinburgh Mathematical Society in December 1900 after he graduated.
+* 'Mr David M Johnstone M.A. B.Sc., Mathematical Master in George Heriot's School' was recommended to the Central Executive Committee for appointment.
+* Mr Johnstone remained at Moray House as Principal Lecturer Mathematics until 1935.
+* Mr William Taylor was recommended as the appointee to replace Mr Johnstone.
+* Johnstone joined the Edinburgh Mathematical Society in December 1900 after he graduated.
 
 Born June 1877, Edinburgh, Scotland. Died 28 December 1935, Edinburgh, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1861
 title: Molien, Theodor
 born: 1861
 died: 1941
-keywords: Theodor Molien, associative algebras, polynomial invariants, Gottfried Leibnitz, Fourier, elliptic functions, Lagrange identities
-description: Theodor Molien researched topics such as associative algebras and Fourier series, proving theorems of Liebermann and Leibnitz, as well as establishing a table of primes.
+keywords: theodor molien,molien
+description: Theodor Molien was born in what is now Latvia and studied associative algebras and polynomial invariants of finite groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Theodor Molien** was born in what is now Latvia and  studied associative algebras and polynomial invariants of finite groups.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the process of transforming a system of algebraic equations into a single differential equation, or "Molien series".
-2. Contributed to the development of elliptic functions and Fourier series.
-3. Proved Gottfried Leibnitz's generalization of Fermat's theorem.
-4. Established the first table of prime numbers, known as the "Molien table".
-5. Published important mathematical theories and works, such as the Theory of Equations, Differential and Integral Equations, Transformations of Integrals, etc. 
-6. Demonstrated the existence of a link between algebra and analysis.
-7. Discovered the properties of Lagrange identities and proved the theorems of Kronig, Thomae and Liebermann.
-8. Authored a book on Number Theory, titled "Compendium der elementar-mathematik".
+* Theodor attended the Gymnasium where his father taught, and from there he entered the Faculty of Physics and Mathematics at the University of Dorpat.
+* Well it is not strictly accurate to call it the University of Dorpat for, although this is its name today, this was not its name when Molien entered.
+* Molien graduated from the University of Dorpat in 1883 after studying astronomy under A Lindstedt as well as mathematics, and continued to work there to become a university professor.
+* Molien also attended lectures by Carl Neumann, E Study, W Killing and G Scheffers, before returning to Dorpat where he submitted his Master's thesis and was examined.
+* In his doctoral thesis On higher complex numbers which was examined in 1892, Molien classified the complex semisimple algebras; later Cartan classified the real semisimple algebras and Wedderburn in 1907 gave the result for semisimple algebras over an arbitrary field.
+* Molien introduced the idea of a group ring in his study of group representations.
+* Molien published important papers such as Über Systeme höherer complexer Zahlen Ⓣ(On systems of higher complex numbers) (1893) and Über die Invarianten der linearen Substitutionsgruppen Ⓣ(On the invariants of linear substitution groups) (1897).
+* It is not known whether Dedekind made any attempts to help Molien with his career in Dorpat.
+* While still in Dorpat, however, Molien studied Frobenius's work on character theory (as Frobenius had studied the work of Molien) and used it to study polynomial invariants of finite groups.
+* Molien studied how many times a given irreducible representation of a finite group appears in a complete reduction of the representation of the group on the vector space of homogeneous polynomials of degree nnn over the complex numbers.
 
 Born 10 September 1861, Riga, Russia (now Latvia). Died 25 December 1941, Tomsk, USSR.
 

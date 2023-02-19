@@ -7,10 +7,10 @@ orderid: 1616
 title: Wallis, John
 born: 1616
 died: 1703
-keywords: interpolation, indivisibles, continuity, integration, Wallis Product, binary, cycloid
-description: John Wallis was an English mathematician who developed innovative methods, such as interpolation and indivisibles, and formed the Wallis Product integral. His contributions to binary systems, cycloid, and other topics helped to shape modern mathematics.
+keywords: john wallis,wallis
+description: John Wallis was an English mathematician who built on Cavalieri's method of indivisibles to devise a method of interpolation. Using Kepler's concept of continuity he discovered methods to evaluate integrals.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,42 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Wallis** was an English mathematician who built on Cavalieri's method of indivisibles to devise a method of interpolation. Using Kepler's concept of continuity he discovered methods to evaluate integrals.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the early concepts of integration, including the integration of both algebraic and trigonometric equations.
-2. Developed the concept of infinity in mathematics with his work on the infinite series.
-3. Formulated the "Wallis Product," an important tool for numerical integration which is still in use today.
-4. Contributed to the development of calculus with his formula for calculating the area under a curve (the Wallis Integral).
-5. Developed the arithmetic underlying the binary system and studied the relationships between geometry and algebra.
-6. Published important treatises on subjects such as Fourier series, the conic sections, linear equations, and the calculus of variations.
-7. Showed how the cycloid can be used to solve a variety of problems in mathematics.
-8. Evaluated the works of other leading scientists of his day and wrote to them about math-related topics.
+* The Reverend Wallis married Joanna Chapman, who was his second wife, in 1612 and John was the third of their five children.
+* When young John was about six years old his father died.
+* John went to school in Ashford but an outbreak of the plague in the area led to his mother to decide that it would be best for him to move away.
+* He also studied logic at this school but mathematics was not considered important in the best schools of the time, so Wallis did not come in contact with that topic at school.
+* It was during the 1631 Christmas holidays that Wallis first came in contact with mathematics when his brother taught him the rules of arithmetic.
+* In 1637 Wallis received his BA and continued his studies receiving his Master's Degree in 1640.
+* one evening at supper, a letter in cipher was brought in, relating to the capture of Chichester on 27 December 1642, which Wallis in two hours succeeded in deciphering.
+* This was the time of the Civil War between the Royalists and Parliamentarians and Wallis used his skills in cryptography in decoding Royalist messages for the Parliamentarians.
+* In this same year his mother died and this left Wallis as a man of independent means since he inherited a major estate in Kent.
+* In 1644 Wallis became secretary to the clergy at Westminster and through this he was given a fellowship at Queen's College, Cambridge.
+* In this passage we have modernised Wallis's English a little to make it more easily understood.
+* We talked above about two events which shaped Wallis's future, the first being cryptography.
+* Wallis wrote a book Treatise of Angular Sections which remained unpublished for forty years.
+* He also discovered methods of solving equations of degree four which were similar to those which Harriot had found but Wallis claimed that he made the discoveries himself, not being aware of Harriot's contributions until later.
+* Cromwell held Wallis in high regard, not just for his political views but also for his scholarship.
+* Wallis held the Savilian Chair for over 50 years until his death and, even if he was appointed for the wrong reasons, he most certainly deserved to hold the chair.
+* This was not the only position which Wallis would hold at Oxford.
+* Certainly Wallis's opponents believed that he became keeper of the University archives because of his support for Cromwell.
+* Even if this were the case, as with the Savilian Chair, Wallis carried out his duties extremely well and fully deserved the post.
+* This was done in good faith for although Wallis used his undoubted political skills to gain what wanted at times, there was never any suggestion that he was anything other than an honest man.
+* Wallis contributed substantially to the origins of calculus and was the most influential English mathematician before Newton.
+* Wallis's most famous work was Arithmetica infinitorum which he published in 1656.
+* Wallis developed methods in the style of Descartes analytical treatment and he was the first English mathematician to use these new techniques.
+* This work is also famed for the first use of the symbol ∞ which was chosen by Wallis to represent a curve which one could traced out infinitely many times.
+* Wallis was also an important early historian of mathematics and in his Treatise on Algebra he gives a wealth of valuable historical material.
+* In Treatise on Algebra Wallis accepts negative roots and complex roots.
+* One highly controversial section in this work is one in which Wallis claims that Descartes' knowledge of algebra was gained directly from Harriot.
+* Wallis received criticism for these claims immediately the book was published, but the subject is still of interest to historians of mathematics today.
+* The claims made by Wallis on this topic have never been shown false to everyone's complete satisfaction.
+* Wallis made other contributions to the history of mathematics by restoring some ancient Greek texts such as Ptolemy's Harmonics, Aristarchus's On the magnitudes and distances of the sun and moon and Archimedes' Sand-reckoner.
+* Wallis became involved in a bitter dispute with Hobbes, who although a fine scholar, was far below Wallis's class as a mathematician.
+* Wallis's book Arithmetica infinitorum with his methods was in press at the time and he refuted Hobbes claims.
+* of Wallis with the pamphlet Six lessons to the Professors of Mathematics at the Institute of Sir Henry Savile.
+* Wallis replied with the pamphlet Due Correction for Mr Hobbes, or School Discipline for not saying his Lessons Aright to which Hobbes wrote the pamphlet The Marks of the Absurd Geometry, Rural Language etc.
+* One aspect of Wallis's mathematical skills has not yet been mentioned, namely his great ability to do mental calculations.
+* It was a feat which was rightly considered remarkable, and Oldenburg, the Secretary of the Royal Society, sent a colleague to investigate how Wallis did it.
 
 Born 23 November 1616, Ashford, Kent, England. Died 28 October 1703, Oxford, England.
 

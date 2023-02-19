@@ -7,10 +7,10 @@ orderid: 1831
 title: Beale, Dorothea
 born: 1831
 died: 1906
-keywords: Dorothea Beale, Queen's College, mathematical teaching, mathematics competitions, A History of Math, obligatory subject, British Society of Women in Math
-description: Dorothea Beale was a pioneering educator and mathematician, founding St Hilda's School in 1873, authoring A History of Mathematics, and establishing the British Society of Women in Mathematics in 1906.
+keywords: dorothea beale,beale
+description: Dorothea Beale studied at Queen's College, London where she became the first female mathematics tutor. She became Principal of Cheltenham Ladies' College and a founder of St Hilda's College, Oxford.
 references: bookofproofs$6909
-contributors: @Natalie-English,@J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @Natalie-English,@J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,40 @@ contributors: @Natalie-English,@J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGP
 **Dorothea Beale** studied at Queen's College, London where she became the first female mathematics tutor. She became Principal of Cheltenham Ladies' College and a founder of St Hilda's College, Oxford.
 
 ### Mathematical Profile (Excerpt):
-1. Founded St. Hilda's School for Girls in 1873, with a groundbreaking emphasis on teaching mathematics. 
-2. Initiated the Cambridge Local Examinations that allowed secondary school students to get certificates in mathematics – a revolutionary concept at the time. 
-3. Encouraged girls to participate in the same mathematical competitions as boys and to compete as equals. 
-4. Developed strong academic standards for mathematics that far exceeded the norm, providing a robust and challenging education for her students. 
-5. Co-wrote with Charlotte Angas Scott the four-volume A History of Elementary Mathematics in 1893. 
-6. Proposed making mathematics an obligatory subject for all female students in British schools. 
-7. Developed her own mathematical methods using logic and common sense in mathematics teaching.
-8. Founded the British Society of Women in Mathematics in 1906.
+* Miles Beale was enthusiastic about English literature, particularly Shakespeare, and he even delivered lectures on Shakespeare in Chelsea.
+* Miles Beale's wife, Dorothea, had relatives who had a strong influence of the education of the children.
+* Miles and Dorothea Margaret Beale had eleven children, six boys and five girls.
+* Dorothea, the subject of this biography, had two older sisters and one older brother.
+* Until the age of seven, Dorothea had lessons with her mother, then with a governess and, when this lady married, her father became her teacher.
+* Dorothea was fortunate as her mother had been brought up in an educated household and was able to assess the quality of a new governess.
+* Up to the age of thirteen, Dorothea was partly educated at home but she also attended a boarding school in Stratford, Essex.
+* From age thirteen to sixteen Beale educated herself at home.
+* Although Beale's father considered arithmetic to be a waste of time, Beale's parents did not actively prevent her from learning mathematics.
+* So, during her three years of self-education, Beale taught herself arithmetic with Bishop Colenso's Arithmetic Exercises with Answers (1843).
+* Beale also attended the lectures by the Gresham Professor of Astronomy, Joseph Pullen, at Crosby Hall.
+* Beale's younger brothers attended Merchant Taylor's School, where the education was no better or worse than the other public schools of the time.
+* At the age of 16, Beale and her two older sisters were sent to a school for English girls in Paris which was run by Mlle Bray.
+* Despite being considered as offering the best education at the time in both English and French, Beale found the rote learning boring and uninspiring.
+* When Beale returned to England, she began studying at Queen's College, London.
+* Mathematics was Beale's subject of predilection; she received first-class teaching in mathematics from Thomas Astley Cock (approx 1811-1885).
+* Beale had many ideas for reforms at the school, and she felt that her position of authority there should give her words some weight.
+* Instead of giving in to her demands, the school fired her, and Beale left in defeat.
+* In the summer of 1858, along with 50 other applicants, Beale applied for the position of Principal of Cheltenham Ladies' College.
+* However, Beale was of a different opinion, motivated by an ethic of service, she was determined to challenge the perception that girls were biologically incapable of academic study and provide them with the necessary education that would lead to employment.
+* Beale strongly believed that women were not destined solely for marriage and domesticity; for women as for men she felt it a sin to bury the talents that God had given them.
+* Beginning with only 69 students, Beale managed to double that number within four years and secure adequate financial support for the school.
+* When Beale arrived at Cheltenham in 1858, despite music and drawing being included for all pupils, neither mathematics nor science were taught.
+* Beale had her work cut out bringing these girls up to standard in mathematics.
+* Beale was also an advocate of sending the girls down the path of discovery that had been pursued by the original investigators.
+* This had been a large part of Beale's own mathematical education; she had read mathematics books, attended lectures she was interested in, and solved problems on her own.
+* Beale's method of teaching mathematics was to interest the class in a mathematical problem, leave the minds of the children at the end of the class impressed and roused but still unclear about the solution.
+* Under Beale's leadership Cheltenham Ladies' College flourished.
+* By the time of Beale's death in 1906 there were nearly 1000 pupils at the school.
+* In 1864 the Schools' Inquiry Commission was set up to inquire into the condition of post-elementary education in the country and Beale was summoned to give evidence before the Commission on 19 April 1866.
+* Cheltenham Ladies' College was one of the first colleges to establish courses to train secondary teachers and in 1885 Beale opened St Hilda's College, Cheltenham.
+* Beale was convinced of the need for proper training of teachers of all levels, therefore the Training Department offered three courses.
+* In 1893 Beale provided funds to establish St Hilda's Hall, Oxford, so that those training to be teachers could spend a year in Oxford.
+* Beale received a number of honours for her contributions including being invited to give evidence before the royal commission on secondary education (the Bryce commission) in 1894, being given the freedom of the borough of Cheltenham on 21 October 1901, and awarded an honorary doctorate from the University of Edinburgh on 11 April 1902.
 
 Born 21 March 1831, London, England. Died 9 November 1906, Cheltenham, England.
 

@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="description" content="D. R. Kaprekar was an Indian mathematician who developed the Kaprekar series, discovered the Constant and Number, and pioneered the Transformation, Change Process and Map. He also worked on recurrence relations and Automaton.">
-<meta name="keywords" content="Kaprekar,Series,Constant,Number,Transformation,Change Process,Map,Function,Recurrence Relations,Automaton">
+<meta name="description" content="D R Kaprekar was a largely self-taught Indian mathematician who worked in in number theory.">
+<meta name="keywords" content="d r kaprekar,kaprekar">
 <title>Kaprekar, Dattatreya Ramachandra</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
@@ -49,18 +49,79 @@
 <p><img alt="Kaprekar.jpg" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Kaprekar.jpg?raw=true" /></p>
 <p><strong>D R Kaprekar</strong> was a largely self-taught Indian mathematician who worked in in number theory.</p>
 <h3>Mathematical Profile (Excerpt):</h3>
-<ol>
-<li>Developed the Kaprekar series, a set of mathematical numbers characterized by an algorithmic process of arriving at the same pattern of numbers regardless of the initial number. </li>
-<li>Pioneered a process of breaking large numbers, like 99999, into sets of three and then reorganizing them in ascending sequence (9,999,5).</li>
-<li>Created the Kaprekar Constant, a unique number that is derived through a mathematics series.</li>
-<li>Discovered the Kaprekar Number, a special type of number in a given number base.</li>
-<li>Discovered the Kaprekar transformation, wherein a consistent number of digits can be added to any number and yield the same sum.</li>
-<li>Discovered the Kaprekar's Change Process, wherein a consistent number of digits can be subtracted from any given number and result in the same remainder.</li>
-<li>Developed the Kaprekar Map, a mathematical representation of Kaprekar's change process.</li>
-<li>Paved the way for future research in the field of digital computing through the concept of Kaprekar's Function, which is used in basic algorithmic programming.</li>
-<li>Established the concept of magical squares through his work in the field of recurrence relations.</li>
-<li>Developed the Kaprekar's Automaton, a mathematical system that simulates the sorting of numbers into sets of three which he discovered in the 1940s.</li>
-</ol>
+<ul>
+<li>He was brought up by his father after his mother died when he was eight years old.</li>
+<li>His father was a clerk who was fascinated by astrology.</li>
+<li>Although astrology requires no deep mathematics, it does require a considerable ability to calculate with numbers, and Kaprekar's father certainly gave his son a love of calculating.</li>
+<li>Kaprekar attended secondary school in Thane (sometime written Thana), which is northeast of Mumbai but so close that it is essentially a suburb.</li>
+<li>There, as he had from the time he was young, he spent many happy hours solving mathematical puzzles.</li>
+<li>He began his tertiary studies at Fergusson College in Pune in 1923.</li>
+<li>There he excelled, winning the Wrangler R P Paranjpe Mathematical Prize in 1927.</li>
+<li>This prize was awarded for the best original mathematics produced by a student and it is certainly fitting that Kaprekar won this prize as he always showed great originality in the number theoretic questions he thought up.</li>
+<li>He graduated with a B.Sc. from the College in 1929 and in the same year he was appointed as a school teacher of mathematics in Devlali, a town very close to Nashik which is about 100 km due east of Dahanu, the town of his birth.</li>
+<li>He spent his whole career teaching in Devlali until he retired at the age of 58 in 1962.</li>
+<li>The fascination for numbers which Kaprekar had as a child continued throughout his life.</li>
+<li>He was a good school teacher, using his own love of numbers to motivate his pupils, and was often invited to speak at local colleges about his unique methods.</li>
+<li>The same is the case with me in so far as numbers are concerned.</li>
+<li>Many Indian mathematicians laughed at Kaprekar's number theoretic ideas thinking them to be trivial and unimportant.</li>
+<li>He did manage to publish some of his ideas in low level mathematics journals, but other papers were privately published as pamphlets with inscriptions such as Privately printed, Devlali  or Published by the author, Khareswada, Devlali, India.</li>
+<li>Kaprekar's name today is well-known and many mathematicians have found themselves intrigued by the ideas about numbers which Kaprekar found so addictive.</li>
+<li>Let us look at some of the ideas which he introduced.</li>
+<li>Perhaps the best known of Kaprekar's results is the following which relates to the number 6174, today called Kaprekar's constant.</li>
+<li>One starts with any four-digit number, not all the digits being equal.</li>
+<li>Suppose we choose 4637 (which is the first four digits of EFR's telephone number!).</li>
+<li>Rearrange the digits to form the largest and smallest numbers with these digits, namely 7643 and 3467, and subtract the smaller from the larger to obtain 4167.</li>
+<li>Continue the process with this number - subtract 1467 from 7641 and we obtain 6174, Kaprekar's constant.</li>
+<li>Choose 3743 (which is the last four digits of EFR's telephone number!).</li>
+<li>In fact applying Kaprekar's process to almost any four-digit number will result in 6174 after at most 7 steps (so our last example was one where the process has maximal length).</li>
+<li>This was first discovered by Kaprekar in 1946 and he announced it at the Madras Mathematical Conference in 1949.</li>
+<li>He published the result in the paper Problems involving reversal of digits  in Scripta Mathematica  in 1953.</li>
+<li>Clearly starting with 1111 will yield 0 from Kaprekar's process.</li>
+<li>In fact the Kaprekar process will yield either 0 or 6174.</li>
+<li>Exactly 77 four digit numbers stabilize to 0 under the Kaprekar process, the remainder will stabilize to 6174.</li>
+<li>Anyone interested could experiment with numbers with more than 4 digits and see if they stabilise to a single number (other than 0).</li>
+<li>What about other properties of digits which Kaprekar investigated?</li>
+<li>Notice that when the square is split we can start the right-hand most part with 0s.</li>
+<li>are all Kaprekar numbers).</li>
+<li>Of course we have looked at Kaprekar numbers to base 10.</li>
+<li>The same concept is equally interesting for other bases.</li>
+<li>First we need to describe what Kaprekar called 'Digitadition'.</li>
+<li>Start with a number, say 23.</li>
+<li>The sum of its digits are 5 which we add to 23 to obtain 28.</li>
+<li>Again add 2 and 8 to get 10 which we add to 28 to get 38.</li>
+<li>These are all generated by 23.</li>
+<li>But is 23 generated by a smaller number?</li>
+<li>Yes, 16 generates 23.</li>
+<li>Try starting with 29.</li>
+<li>But 29 is generated by 19, which in turn is generated by 14, which is generated by 7.</li>
+<li>However, nothing generates 7 - it is a self-number.</li>
+<li>For example he notes that certain numbers are generated by more than a single number - these he calls junction numbers.</li>
+<li>He points outs that 101 is a junction number since it is generated by 100 and by 91.</li>
+<li>He remarks that numbers exist with more than 2 generators.</li>
+<li>The possible digitadition series are separated into three types: type A has all is members coprime to 3; type B has all is members divisible by 3 but not by 9; C has all is members divisible by 9.</li>
+<li>Kaprekar notes that if x and y are of the same type (that is, each prime to 3, or each divisible by 3 but not 9, or each divisible by 9) then their digitadition series coincide after a certain point.</li>
+<li>He conjectured that a digitadition series cannot contain more than 4 consecutive primes.</li>
+<li>We will not give the definition of these numbers but we note that the name comes from the station where he was changing trains on the Bombay to Thane line in 1923 when he had the idea to study numbers of that type.</li>
+<li>For the final type of numbers which we will consider that were examined by Kaprekar we look at Harshad numbers (from the Sanskrit meaning "great joy").</li>
+<li>These are numbers divisible by the sum of their digits.</li>
+<li>It will be noticed that 80, 81 are a pair of consecutive numbers which are both Harshad, while 110, 111, 112 are three consecutive numbers all Harshad.</li>
+<li>It was proved in 1994 that no 21 consecutive numbers can all be Harshad numbers.</li>
+<li>are all Harshad numbers.</li>
+<li>One would be tempted to conjecture that n!n!n! is a Harshad number for every nnn - this however would be incorrect.</li>
+<li>The smallest factorial which is not a Harshad number is 432!.</li>
+<li>Note that 2007 (the year in which this article was written) is both a self-numbers and a Harshad number.</li>
+<li>Harshad numbers for bases other than 10 are also interesting and we can ask whether any number is a Harshad number for every base.</li>
+<li>The are only four such numbers 1, 2, 4, and 6.</li>
+<li>We have taken quite a while to look at a selection of different properties of numbers investigated by Kaprekar.</li>
+<li>Let us finally give a few more biographical details.</li>
+<li>We explained above that he retired at the age of 58 in 1962.</li>
+<li>Sadly his wife died in 1966 and after this he found that his pension was insufficient to allow him to live.</li>
+<li>One has to understand that this was despite the fact that Kaprekar lived in the cheapest possible way, being only interested in spending his waking hours experimenting with numbers.</li>
+<li>He was forced to give private tuition in mathematics and science to make enough money to survive.</li>
+<li>We have seen how Kaprekar invented different number properties throughout his life.</li>
+<li>He was not well known, however, despite many of his papers being reviewed in Mathematical Reviews.</li>
+<li>International fame only came in 1975 when Martin Gardener wrote about Kaprekar and his numbers in his 'Mathematical Games' column in the March issue of Scientific American.</li>
+</ul>
 <p>Born 17 January 1905, Dahanu, India. Died 1986, Devlali, India.</p>
 <p>View full biography at <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kaprekar/">MacTutor</a></p>
 <h3 class='navigation'>Tags relevant for this person:</h3>
@@ -69,7 +130,7 @@
 <p>Origin India</p>
 </blockquote>
 <hr>
-<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/history/20th-century/kaprekar.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/history/20th-century/kaprekar.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@J-J-O'Connor</dd><dd>@E-F-Robertson<br></dd><dt><span class='navigation'>AI:</span></dt><dd></dd><dd>@ChatGPT<br></dl><br></p>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/history/20th-century/kaprekar.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/history/20th-century/kaprekar.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@J-J-O'Connor</dd><dd>@E-F-Robertson<br></dl><br></p>
 <hr>
 <h3>References</h3>
 <h4>Adapted from other CC BY-SA 4.0 Sources:</h4>

@@ -7,10 +7,10 @@ orderid: 1896
 title: Sokolov, Yurii Dmitrievich
 born: 1896
 died: 1971
-keywords: Yurii Dmitrievich Sokolov, International Mathematical Olympiad, Moscow Mathematical Society, algebraic geometry, differential equations, algebraic surfaces, Moscow State University
-description: Yurii Dmitrievich Sokolov, a Russian mathematician, represented the Soviet Union at the International Mathematical Olympiad (1978), founded the Moscow Mathematical Society, and authored books & over 100 research papers on algebraic geometry & differential equations.
+keywords: yurii sokolov,sokolov
+description: Yurii Dmitrievich Sokolov was a Russian mathematician who worked on the n-body problem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Yurii Dmitrievich Sokolov** was a Russian mathematician who worked on the _n_-body problem.
 
 ### Mathematical Profile (Excerpt):
-1. Represented the Soviet Union at the International Mathematical Olympiad in 1978 and won a silver medal.
-2. Established the Moscow Mathematical Society in 1981 and served as the president until 1986.
-3. Co-authored over 100 research papers in mathematics topics such as algebraic geometry and differential equations.
-4. Led a research group that classified algebraic surfaces over any field of positive characteristic.
-5. Created two books about current trends in algebraic geometry: "Algebraic Surfaces" and "Algebraic Varieties and the Geometry of Algebraic Varieties".
-6. Developed a method for deriving equations of algebraic surfaces.
-7. Obtained a PhD in mathematics in 1985 from Moscow State University.
-8. Received numerous awards and honors, including the prize of the Russian Academy of Sciences in 1997.
+* He supervised Sokolov's research in the area of mechanics of particles and this was the topic of his doctorate which in many ways followed on from Grave's Master's thesis.
+* Sokolov's first publication appeared in 1923.
+* From 1934 Sokolov taught at the Institute of Mathematics at the Academy of Sciences of Ukraine.
+* Sokolov's main work was on the nnn-body problem, which he worked on for nearly 50 years and he summarised his contributions in the book Singular trajectories of a system of free material points (Russian) which was published in 1951.
+* Sokolov also published on celestial mechanics and hydromechanics.
+* One of the topics which will always be associated with Sokolov's name is his method for finding approximate solutions to differential and integral equations.
+* The method which he introduced is now sometimes called 'the averaging method with functional corrections' or sometimes called 'the Sokolov method'.
+* E L Albasiny, reviewing Sokolov's textbook, first formally describes the approximations from averaging of functional corrections.
+* The first part of Sokolov's book discusses applications of his method to problems which can be modelled by linear integral equations with constant limits.
+* In the final part Sokolov examines applications of his method to integral equations of mixed type, then in a number of appendices he presents some generalisations of the method.
+* Sokolov died only a few months before his 75th  birthday and only a few months short of completing 50 years of scientific work in the Ukrainian Academy of Sciences.
 
 Born 26 May 1896, Labinskaya Stanitsa (now Labinsk), Russia. Died 2 February 1971, Kiev, Ukranian SSR (now Kyiv, Ukraine).
 

@@ -7,10 +7,10 @@ orderid: 1899
 title: Mandelbrojt, Szolem
 born: 1899
 died: 1983
-keywords: iteration theory, abstract space, fractal geometry, wavelets, terrains, invariance theorem, astronomy
-description: Szolem Mandelbrojt, a Polish-born French mathematician, developed iteration theory, wavelets, terrains, and the invariance theorem and applied mathematical geometry to astronomy.
+keywords: szolem mandelbrojt,mandelbrojt
+description: Szolem Mandelbrojt was a Polish-born French mathematician who specialized in mathematical analysis. He was an early Bourbakist and was the uncle of Benoit Mandelbrot.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Szolem Mandelbrojt** was a Polish-born French mathematician who specialized in mathematical analysis. He was an early Bourbakist and was the uncle of Benoit Mandelbrot.
 
 ### Mathematical Profile (Excerpt):
-1. He developed the iteration theory, an alternative to the Weierstrass theory of power series which improved on the original theory in terms of accuracy and range. 
-2. He also introduced the notion of an abstract space, which is the precursor to modern fractal geometry, and his pioneering work in complex dynamics played a key role in the development of chaos theory. 
-3. He popularized the use of the Weierstrass-Mandelbrot function to study iteration, and established it as a fundamental component of fractal geometry. 
-4. He introduced the concept of wavelets, a type of mathematical function used to analyze signals and images, which revolutionized the study of waveforms. 
-5. He paved the way for the study of fractal-like objects and patterns in nature through his work on “terrains”, which applied topology to investigate the shapes of land forms. 
-6. He developed the Invariance Theorem, which is used in dynamical systems to determine the stability of objects over time. 
-7. He applied ideas from mathematical geometry to astronomy and studied the motions of stars in the Milky Way galaxy.
+* Others who strongly influenced Mandelbrojt after he arrived in Paris were Édouard Goursat, Henri Lebesgue, Paul Montel, and Émile Picard.
+* Mandelbrojt and Hadamard jointly published La série de Taylor et son prolongement analytique Ⓣ(The Taylor series and analytic continuation), a monograph which covered the topics in classical analysis which Mandelbrojt had studied for his doctorate.
+* Mandelbrojt was awarded a Rockefeller Fellowship which enabled him to spend 1924-26 in the United States.
+* Returning to France, Mandelbrojt was appointed Maître de Conférences at the University of Lille during 1928-29.
+* Mandelbrojt made very considerable contributions to Bourbaki in its initial stages but later dropped out.
+* Mandelbrojt published an important book Séries de Fourier et classes quasi-analytiques de fonctions Ⓣ(Fourier series and quasi-analytic classes of functions)  in 1935.
+* In 1969 Mandelbrojt published Séries de Dirichlet.
+* Mandelbrojt retired from the Collège de France in 1972.
 
 Born 10 January 1899, Warsaw, Russian Empire (now Poland). Died 23 September 1983, Paris, France.
 

@@ -7,10 +7,10 @@ orderid: 1753
 title: Stewart (2), Dugald
 born: 1753
 died: 1823
-keywords: Dugald Stewart, mathematics, moral philosophy, Edinburgh University, Elements of the Philosophy of the Human Mind, British Empiricism, history of mathematics
-description: Dugald Stewartwas a mathematician and moral philosopher at Edinburgh University, whose works spanned British Empiricism, mathematics and history.
+keywords: dugald stewart,stewart
+description: Dugald Stewart was a Scottish mathematician who also worked in moral philosophy and held chairs in both these subjects at Edinburgh University.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Dugald Stewart** was a Scottish mathematician who also worked in moral philosophy and held chairs in both these subjects at Edinburgh University.
 
 ### Mathematical Profile (Excerpt):
-1. Published the three volume ‘Elements of the Philosophy of the Human Mind’ (1792 - 1827), which presented a panoramic view of mathematics, natural philosophy, politics, history, and ethics.
-2. Gave the first accurate account in English of the work of Swiss mathematician Leonhard Euler in his 1771 book ‘The Doctrine of Fluxions’.
-3. Authored a 1794 book called ‘An Outline of the Necessary Laws of Thought’, which sought to demonstrate logic was an exact science, based on mathematics and probability.
-4. Exhibited a firm grasp of British Empiricism while explaining and promoting the advantages of the Scottish School of Common Sense.
-5. Played a large role in introducing the works of French mathematicians Joseph-Louis Lagrange and Pierre-Simon Laplace to British readers.
-6. Produced a history of mathematics in his 1808 work ‘Mathematical Dissertations’.
-7. Published several papers on the foundations of mathematical theory and on the philosophy and methodology of the science.
+* Matthew Stewart had married Marjorie Stewart, the only daughter of Archibald Stewart, writer to the signet, on 20 May 1750.
+* Dugald was their only child who survived beyond childhood.
+* Advised by his moral philosophy professor Adam Ferguson to attend the lectures of Thomas Reid in Glasgow, Stewart spent the year 1771-72 there.
+* Stewart returned to Edinburgh in 1772 and by that time his father's health was deteriorating so Dugald Stewart assisted his father with teaching mathematics.
+* In fact Matthew Stewart was forced give up teaching and went to live on his estate at Catrine in Ayrshire.
+* Dugald completely took over the duties of mathematics professor and he performed these duties so well that in 1775 he was elected joint professor with his father.
+* Stewart taught mathematics at Edinburgh for 13 years until Adam Ferguson resigned in 1785 when he was appointed to the philosophy chair and resigned from the chair of mathematics.
+* Stewart's affinity for the scientific approach to philosophical problems is reflected in his mathematics career, and he often made analogies between the axioms of mathematics and the laws that govern human thinking.
+* In 1783 Stewart married Helen Bannatyne; they had one son Matthew.
+* On 29 July 1790 Stewart married Helen D'Arcy Cranstoun; they also had one son George who died in 1809.
+* After the death of George, Stewart was greatly affected and his health began to deteriorate.
+* Stewart had been involved in an interesting controversy in 1805 over the appointment of Leslie to the chair of mathematics at Edinburgh.
+* When they brought forward their own candidate, Thomas MacKnight, an Edinburgh clergyman, Stewart and Playfair protested against the uniting of clerical and academic posts and objected to the intended clerical domination of the University of Edinburgh on the pattern of St Andrews.
+* In fact Stewart, in his role as an elder, supported Leslie when he addressed the General Assembly where Leslie was charged with atheism.
+* Stewart was a staunch believer in intellectual freedom and his views supporting Leslie were set out in A short statement of some important facts (1805).
+* Stewart's publications include Outlines of Moral Philosophy (1793), Philosophical Essays (1810), and Philosophy of the Active and Moral Powers of Man (1828).
 
 Born 22 November 1753, Edinburgh, Scotland. Died 11 June 1823, Edinburgh, Scotland.
 

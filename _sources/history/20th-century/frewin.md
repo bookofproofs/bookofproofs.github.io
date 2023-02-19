@@ -7,10 +7,10 @@ orderid: 1902
 title: Frewin, Gilbert Leslie
 born: 1902
 died: 1998
-keywords: Leslie Frewin, Edinburgh, George Watson's College, Inverness, calculus, math education, research, University of Bristol
-description: Leslie Frewin developed a new method of teaching calculus, authored math books, conducted research, published articles, created a Chair in Math Education, led a research group, developed software, and received awards for his excellence in teaching and research.
+keywords: g leslie frewin,frewin
+description: Leslie Frewin graduated from the University of Edinburgh and taught at George Watson's College before moving to Inverness.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leslie Frewin** graduated from the University of Edinburgh and taught at George Watson's College before moving to Inverness.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new method of teaching calculus that increased the productivity of his students. 
-2. Authored multiple books on mathematics and mathematics education.
-3. Conducted ground-breaking research on teaching methods that improved student achievement.
-4. Published groundbreaking articles on mathematics education in top journals.
-5. Served as a consultant and advisor to numerous universities, colleges and other educational organizations.
-6. Established the Frewin Chair in Mathematics Education at the University of Bristol.
-7. Led the development of the Mathematics Education Research Group at the University of Bristol.
-8. Developed a wide range of mathematical software tools and applications.
-9. Participated in numerous keynote lectures and presentations on mathematics education.
-10. Received several awards for excellence in teaching and research in mathematics education.
+* Leslie was born in Glasgow but his family had moved to Portobello, near Edinburgh, before he entered George Watson's Boy's College, Edinburgh, in 1908 just before he was six years old.
+* He studied for twelve years at the school obtaining passes in the Scottish Higher Leaving Certificate examinations in Latin, French, English, Mathematics, Analytical Geometry, and Geometry of Conics.
+* He passed the Preliminary Examination for Edinburgh University in October 1920 and matriculated to begin his studies in session 1920-21.
+* At his first matriculation he gave his home address as 52 Duddingston Park, Portobello, and his religious denomination as Wesleyan Methodist.
+* In his first session Frewin studied Second Ordinary Mathematics, Natural Philosophy, and Latin.
+* After taking Honours courses in Mathematics and Natural Philosophy he gradeuated with an M.A. with First class Honours in his honours subjects in July 1923.
+* It is worth noting that Frewin was in the same class at university as W V D Hodge.
+* Frewin joined the Edinburgh Mathematical Society in December 1923, immediately following his graduation.
+* At the meeting of the Society on Monday 10 December 1923 the paper The Numerical Evaluation of Double Integrals, by Mr A C Aitken and Mr G L Frewin was read.
+* The paper was published as A C Aitken and G L Frewin, The Numerical Evaluation of Double Integrals, Proc.
+* Frewin the went to New College, Oxford where he undertook further study and returned to Edinburgh in 1925 when appointed to George Watson's College, Edinburgh.
+* After teaching for ten years at George Watson's College, Frewin moved to Inverness.
+* He married Ethel Gillespie and in June 1936 a son was born.
 
 Born 6 September 1902, Glasgow, Scotland. Died 6 June 1998, Leicester, England.
 

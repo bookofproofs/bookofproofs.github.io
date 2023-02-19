@@ -7,10 +7,10 @@ orderid: 1170
 title: Fibonacci, Leonardo Pisano
 born: 1170
 died: 1250
-keywords: Fibonacci, Hindu-Arabic, numerals, Liber Abaci, Golden Ratio, Pell's Equation, Nature
-description: Fibonacci made contributions to mathematics including introducing Hindu-Arabic numerals, writing Liber Abaci, studying the Golden Ratio, discovering Pell's Equation, and identifying many of Nature's patterns.
+keywords: fibonacci,fibonacci
+description: Leonard of Pisa or Fibonacci played an important role in reviving ancient mathematics and made significant contributions of his own. Liber abaci introduced the Hindu-Arabic place-valued decimal system and the use of Arabic numerals into Europe.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leonard of Pisa** or **Fibonacci** played an important role in reviving ancient mathematics and made significant contributions of his own. _Liber abaci_ introduced the Hindu-Arabic place-valued decimal system and the use of Arabic numerals into Europe.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Fibonacci sequence, a sequence of numbers in which each number is the sum of the two preceding numbers.
-2. Introduced the Hindu-Arabic numeral system to the Western world.
-3. Provided a mathematical model for the growth of a population of rabbits.
-4. Popularized the use of Arabic numerals in Europe.
-5. Developed a basic sequence of numbers that are related to each other in a specific way.
-6. Wrote a book, Liber Abaci, which was instrumental in introducing the Hindu-Arabic numeral system to Europe.
-7. Studied and applied the Golden Ratio, a mathematical ratio found throughout nature.
-8. Established a series of rules to calculate the square root of any number.
-9. Discovered the 'Pell's equation', a Diophantine equation used to find solutions to certain kinds of mathematical problems.
-10. Identified the sequence of Fibonacci numbers as they occurred throughout nature, including in the growth pattern of plants and the formation of shells.
+* Fibonacci himself sometimes used the name Bigollo, which may mean good-for-nothing or a traveller.
+* Fibonacci was born in Italy but was educated in North Africa where his father, Guilielmo, held a diplomatic post.
+* Fibonacci was taught mathematics in Bugia and travelled widely with his father and recognised the enormous advantages of the mathematical systems used in the countries they visited.
+* Fibonacci ended his travels around the year 1200 and at that time he returned to Pisa.
+* Fibonacci lived in the days before printing, so his books were hand written and the only way to have a copy of one of his books was to have another hand-written copy made.
+* One might have thought that at a time when Europe was little interested in scholarship, Fibonacci would have been largely ignored.
+* Fibonacci was a contemporary of Jordanus but he was a far more sophisticated mathematician and his achievements were clearly recognised, although it was the practical applications rather than the abstract theorems that made him famous to his contemporaries.
+* Frederick became aware of Fibonacci's work through the scholars at his court who had corresponded with Fibonacci since his return to Pisa around 1200.
+* These scholars included Michael Scotus who was the court astrologer, Theodorus Physicus the court philosopher and Dominicus Hispanus who suggested to Frederick that he meet Fibonacci when Frederick's court met in Pisa around 1225.
+* Johannes of Palermo, another member of Frederick II's court, presented a number of problems as challenges to the great mathematician Fibonacci.
+* Three of these problems were solved by Fibonacci and he gives solutions in Flos Ⓣ(Flower) which he sent to Frederick II.
+* After 1228 there is only one known document which refers to Fibonacci.
+* This salary was given to Fibonacci in recognition for the services that he had given to the city, advising on matters of accounting and teaching the citizens.
+* Liber abaci Ⓣ(Book of the abacus), published in 1202 after Fibonacci's return to Italy, was dedicated to Scotus.
+* The book was based on the arithmetic and algebra that Fibonacci had accumulated during his travels.
+* Certainly many of the problems that Fibonacci considers in Liber abaci Ⓣ(Book of the abacus) were similar to those appearing in Arab sources.
+* (Fibonacci omitted the first term in Liber abaci Ⓣ(Book of the abacus)).
+* The Fibonacci Quarterly is a modern journal devoted to studying mathematics related to this sequence.
+* Fibonacci treats numbers such as √10 in the fourth section, both with rational approximations and with geometric constructions.
+* Another of Fibonacci's books is Practica geometriae Ⓣ(Practical geometry) written in 1220 which is dedicated to Dominicus Hispanus whom we mentioned above.
+* Fibonacci proves that the root of the equation is neither an integer nor a fraction, nor the square root of a fraction.
+* Liber quadratorum, written in 1225, is Fibonacci's most impressive piece of work, although not the work for which he is most famous.
+* the Liber quadratorum  Ⓣ(Book of squares) alone ranks Fibonacci as the major contributor to number theory between Diophantus and the 17th -century French mathematician Pierre de Fermat.
+* Fibonacci's influence was more limited than one might have hoped and apart from his role in spreading the use of the Hindu-Arabic numerals and his rabbit problem, Fibonacci's contribution to mathematics has been largely overlooked.
+* Fibonacci was also the teacher of the "Cossists", who took their name from the word 'causa' which was first used in the West by Fibonacci in place of 'res' or 'radix'.
+* Fibonacci's work in number theory was almost wholly ignored and virtually unknown during the Middle ages.
 
 Born 1170, (probably) Pisa (now Italy). Died 1250, (possibly) Pisa (now Italy).
 

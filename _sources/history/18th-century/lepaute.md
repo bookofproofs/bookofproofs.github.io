@@ -7,10 +7,10 @@ orderid: 1723
 title: Lepaute, Nicole-Reine Etable de Labrière
 born: 1723
 died: 1788
-keywords: Nicole-Reine Lepaute, eclipses, Three-Body Problem, asteroids, Celestial Mechanics, Mathematical Astronomy, comets, Décade
-description: Nicole-Reine Lepaute developed methods for calculating & predicting eclipses, solved the Three-Body Problem, improved Celestial Mechanics & Mathematical Astronomy by introducing Décade & made accurate predictions of planet & comet movements.
+keywords: nicole-reine etable de labrière,lepaute
+description: Nicole-Reine Lepaute was a French noblewoman who helped Lalande with astronomical calculations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nicole-Reine Lepaute** was a French noblewoman who helped Lalande with astronomical calculations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for calculating and predicting eclipses, which was adopted by the Royal Observatory of Paris.
-2. Solved the Three-Body Problem and predicted the positions of the asteroids Ceres and Pallas.
-3. Wrote the important treatises on theoretical astronomy Théorie des satellites de Jupiter (1783) and Théorie des comètes (1784).
-4. Contributed to the development of the Theory of Celestial Mechanics and thus helped to develop the foundations of modern astronomy.
-5. Developed a new mathematical method for calculating Laplace coefficients to solve mathematical problems related to the motion of planets and comets.
-6. Enhanced the field of Mathematical Astronomy by introducing her own graphic and computing methods like the Décade.
-7. Discovered periodic comets and wrote the pioneering treatise on the subject, Exposé de la théorie des comètes, which helped to develop our understanding of their orbits.
-8. Successfully resolved certain algebraic equations with the use of iterative methods and was the first to solve a 4th-degree equation.
-9. Introduced a new form of the lunar theory which improved upon the accuracy of the predictions of the planet's motions.
-10. Established the first in France permanent observatory and built highly accurate astronomical instruments.
+* Nicole-Reine met Jean-Andre Lepaute on this occasion and their friendship blossomed.
+* Nicole-Reine helped her husband in his work, in particular keeping the Lepaute accounts.
+* It was not  long after Nicole-Reine married that Jérôme Lalande, who was at that time a law student, became fascinated by astronomy and was given a room above the porch of the Palais du Luxembourg to use as an observatory.
+* Lalande quickly became a friend of Nicole-Reine and Jean-Andre Lepaute.
+* He was sent to the Cape of Good Hope to make astronomical observations and, returning to Paris in 1753 after a very successful trip, he was elected to the Academy of Sciences.
+* Jean-Andre Lepaute had designed a clock with a new type of escapement and Lalande was asked by the Academy to evaluate it for astronomical use.
+* This work contains the first mathematical work by Nicole-Reine Lepaute who calculated the tables of oscillations of a pendulum which were contained in her husband's work.
+* In June 1757 Lalande decided that he would like to attempt to calculate a precise date for the return of Halley's comet.
+* It was known to have been seen in 1305, 1380, 1456, 1531, 1607 and 1682 and Halley, taking into account perturbations to the orbit caused by the gravitational effects of Jupiter, had predicted that the comet would return reaching perihelion in December 1758.
+* Lalande approached Alexis Clairaut for help and Clairaut provided a basic programme of work requiring an extraordinary amount of computation.
+* Lalande then asked Nicole-Reine Lepaute to assist him in the computations.
+* On 14 November 1758 Clairaut reported to the Academy of Sciences that they predicted the comet would reach perihelion by mid-April 1759.
+* In fact the team had completed the calculations just in time for, on 25 December 1758, the comet was sighted.
+* Clairaut published Théorie des comètes Ⓣ(Theory of comets) (Paris, 1760) describing how the calculations had been carried out.
+* He listed those who had assisted in the computations but did not put Nicole-Reine Lepaute's name on the list.
+* It has been claimed that this deliberate omission was to please his girlfriend Mademoiselle Goulier who was jealous of Lepaute.
+* Whatever the reason, the omission caused a rift between Lalande and Clairaut, and the two men never again collaborated on an astronomical project.
+* Lalande gave Nicole-Reine Lepaute the credit she deserved in his own publication; see the quote above.
+* In 1759 Lalande was asked if he would take over the editorship of the astronomical almanac Connaissance des temps.
+* He was editor from 1760 until 1776, and Nicole-Reine Lepaute assisted him in computing the tables in this annual publication of the Academy of Sciences.
+* Although her contributions are thought to have been substantial, we do not have any precise details of which part of the work she undertook.
+* The Ephémérides des mouvements célestes Ⓣ(Almanac of celestial movements) gave tables of the sun, the moon and planets covering a period of ten years.
+* This may have been one of the memoirs which Lalande says that she wrote for the l'Académie de Béziers but these have not been found.
+* Since she was elected a member of l'Académie de Béziers around this time it is likely that this information is correct.
+* Other specific tasks carried out by Lepaute that are specified by Lalande include calculations for elements of the comet observed in 1762.
+* She produced a chart giving the path of the eclipse across Europe which was published in the Jesuit journal the Mémoires de Trévoux in June 1762.
 
 Born 5 January 1723, Paris, France. Died 6 December 1788, Saint-Cloud, France.
 

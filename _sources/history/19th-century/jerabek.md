@@ -7,10 +7,10 @@ orderid: 1845
 title: Jerabek, Vaclav
 born: 1845
 died: 1931
-keywords: Vaclav Jerabek, Constructive Geometry, Spaces with Lattice Structure, Categorical Structures, Non-Abelian Groups, Congruences, Algebraic Groups, Equivalence Relations
-description: Vaclav Jerabek, a Czech mathematician, developed theory and applications of Constructive Geometry and Non-Abelian Groups.
+keywords: vaclav jerabek,jerabek
+description: Vaclav Jerabek was a Czech mathematician whose main research interest was in constructive geometry.
 references: bookofproofs$6909
-contributors: @<a href='http://web.math.muni.cz/biografie/vaclav_jerabek.html'>Pavel Šišma</a>,@Emil-Jerabek,@Francisco-Javier-García-Capitán,bookofproofs,@ChatGPT
+contributors: @<a href='http://web.math.muni.cz/biografie/vaclav_jerabek.html'>Pavel Šišma</a>,@Emil-Jerabek,@Francisco-Javier-García-Capitán,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @<a href='http://web.math.muni.cz/biografie/vaclav_jerabek.html'>P
 **Vaclav Jerabek** was a Czech mathematician whose main research interest was in constructive geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of Spaces with Lattice Structure (SLS) and the corresponding varieties of Boolean Algebras.
-2. Published the book "Categorical Structures and Their Applications in Algebra", which is the seminal work on the subject of SLS.
-3. Suggested several contributions to the theory and application of non-abelian groups.
-4. Discovered the automorphism type of a Boolean algebra,the unique homomorphism, and a nearly complete list of the varieties and lattices.
-5. Pioneered the development of techniques and methods for the study of congruences and satisfaction in algebra.
-6. Contributed to the clarification of completeness relations and varieties of Boolean algebras.
-7. Developed the theory of automorphisms of lattices and varieties of Boolean algebras.
-8. Optimized algorithms for the classification of algebras and lattices.
-9. Published a paper on the structure theory of algebraic groups, which advanced the understanding of the theory.
-10. Wrote the paper "Equivalence Relations and Algebraic Structures" which unified the theory of categories and Boolean algebras.
+* In 1881 Jerabek was appointed professor at a newly founded Czech Realschule in Brno.
+* Jerabek was a member of the Royal Bohemian Society of Sciences, the Moravian Society of Natural Sciences, and a honorary member of the Union of Czech Mathematicians.
+* He is best remembered by mathematicians for the Jerabek hyperbola.
+* The Jerabek hyperbola is the isogonal-conjugate image of the Euler line.
+* The centre of the Jerabek hyperbola lies on the nine-point circle.
+* Jerabek wrote over 50 papers, published mostly in Casopis pro pestovani matematiky a fysiky, some of them in the Belgian journal Mathesis.
 
 Born 11 December 1845, Kolodeje, Pardubice, Czech Republic. Died 20 December 1931, Telc, Czech Republic.
 

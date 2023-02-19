@@ -7,10 +7,10 @@ orderid: 1927
 title: Moiseiwitsch, Benjamin
 born: 1927
 died: 2016
-keywords: mathematics, differential equations, integral equations, abstract algebra, polynomial equations, theta functions, operational calculus
-description: Benjamin Moiseiwitsch was a renowned English mathematician, who, throughout his career, worked on differential and integral equations, abstract algebra, polynomial equations, theta functions and operational calculus.
+keywords: benjamin moiseiwitsch,moiseiwitsch
+description: Benjamin Moiseiwitsch was an English mathematician who worked on differential and integral equations and was interested in connections between art and mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Benjamin Moiseiwitsch** was an English mathematician who worked on differential and integral equations and was interested in connections between art and mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Co- authored three scholarly surveys on modern mathematics (1917, 1921 and 1930)
-2. Was a prolific early contributer to abstract algebra research, including his work on Boolean algebras (1932) 
-3. Solved a number of difficult problems in the field of algebraic number theory (1930-31)
-4. Contributed to the development of a unified algebraic system (1932-33)
-5. Developed a general-purpose algorithm for solving polynomial equations (1936)
-6. Gained a PhD in mathematics from the University of Berlin (1920)
-7. Authored numerous seminal works on the algebraic theory of linear equations, matrix algebra, and more (1923-45)
-8. Discovered a fundamental relation between theta functions (1926)  
-9. Established the operational calculus in functional analysis (1950)
-10. Was offered a position of Reader at the University of Manchester, which he held until he retired in 1956.
+* His parents were Jacob Moiseiwitsch and Chana Kotlerman.
+* Jacob and Chana Moiseiwitsch were Russians and their first child Daniel Moiseiwitsch was born in Russia in 1919.
+* They had two other children, Victoria, and Benjamin, the subject of this biography born in 1927.
+* Let us say a little about Daniel Moiseiwitsch at this point.
+* As we will see below, although Benjamin became an applied mathematician, he also had an interest in art, in particular in the connections between art and mathematics.
+* Benjamin grew up in Romford where he attended the Royal Liberty School, a grammar school in Upper Brentwood Road, founded in 1921.
+* Moiseiwitsch entered the school in 1940 and, after proving to be an outstanding pupil, graduated in 1946.
+* One of Moiseiwitsch's fellow students, also interested in mathematics and theoretical physics, was Alexander Dalgarno (1928-2015).
+* When Moiseiwitsch began his studies at University College London it was only one year after the war had ended and everything was still in a poor state.
+* Moiseiwitsch was awarded a B.Sc. from University College London in 1949 and continued studying there for a Ph.D. advised by Harrie Massey.
+* In 1950 Massey and Moiseiwitsch published The Scattering of Electrons by Hydrogen Atoms in the Physical Review.
+* This short paper announced results which they stated would be published later in full and, indeed, in August 1950, Massey and Moiseiwitsch submitted the paper The Application of Variational Methods to Atomic Scattering Problems.
+* In 1952 Moiseiwitsch graduated from University College London with a Ph.D. awarded for his thesis on quantum theory The Application of Variational Methods To Collision Problems.
+* On 20 June 1953 Moiseiwitsch married Sheelagh McKeon; they had four children: Tanya Moiseiwitsch (born 1954), Lisa Moiseiwitsch, Julian Moiseiwitsch and Nicholas Moiseiwitsch (born 1968).
+* Julian Moiseiwitsch studied dental surgery at University College London and was awarded a Ph.D. from the University of North Carolina at Chapel Hill.
+* He now works in Washington D.C. His wife Françoise Seillier-Moiseiwitsch is a mathematician.
+* Nicholas Moiseiwitsch studied electronic engineering at the University of Southampton and became Head of Engineering Policy at the Institute of Electrical Engineers.
+* Moiseiwitsch was promoted to Reader in Applied Mathematics at the Queen's University, Belfast in 1962 and Professor in Applied Mathematics and Theoretical Physics in 1968.
+* Moiseiwitsch was elected to the Royal Irish Academy in 1969.
+* Two projects by Moiseiwitsch after he retired are well worth mentioning.
 
 Born 6 December 1927, Romford, London, England. Died 16 September 2016, Belfast, Ireland.
 

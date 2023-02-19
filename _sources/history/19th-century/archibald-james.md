@@ -7,10 +7,10 @@ orderid: 1862
 title: Archibald, James
 born: 1862
 died: 1925
-keywords: James Archibald, Edinburgh University, Dalry School, Axiom of Archibald, Algebraic Equations, Axiom of Continuity, Involution, Euler's Identity
-description: James Archibald, a graduate from Edinburgh University, was appointed headmaster of Dalry School Edinburgh. He developed mathematical theories such as the Axiom of Archibald, the conversion of algebraic equations, the Axiom of Continuity, Involution, and a modified version of Euler's Identity.
+keywords: james archibald,archibald
+description: James Archibald graduated from Edinburgh University and eventually became headmaster of Dalry School Edinburgh.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Archibald** graduated from Edinburgh University and eventually became headmaster of Dalry School Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the “Axiom of Archibald”, a radical reformulation of Euclidean geometry. 
-2. Demonstrated the conversion of algebraic equations, by means of pure geometry.
-3. Proved the 'Axiom of Continuity', a fundamental theorem of topology.
-4. Developed the concept of the 'self-applied involution', a way to transform a polynomial into a higher order polynomial.
-5. Proposed a modified version of the Euler's Identity that linked algebra, geometry, and topology.
+* His mother was Jane Porteous Archibald (born in Yarrow, Selkirkshire about 1833).
+* Mr James Archibald, MA, F.R.S.E., until recently headmaster of Dalry School, Edinburgh, has been made the recipient of gifts from the pupils and staff of the school, and from associates during his career as a teacher Mr Herbert, acting head master, made the presentation.
+* Mr Archibald had a serious breakdown in health during the winter, and this has necessitated his giving up active service.
+* For many years Mr Archibald was an active and enthusiastic member of the Mathematical Society.
+* Archibald was educated at Northern District School for four years, then at Stockbridge School for two years, and finally two further years at North Canongate School.
+* The death occurred yesterday morning, at his residence, 31 Leamington Terrace, Edinburgh, of Mr James Archibald F.R.S.E., formerly headmaster of Dalry Road Public School.
+* Mr Archibald retired a year and a half ago, after spending 45 years as a teacher in Edinburgh.
 
 Born 16 July 1862, Edinburgh, Scotland. Died 16 November 1925, Edinburgh, Scotland.
 

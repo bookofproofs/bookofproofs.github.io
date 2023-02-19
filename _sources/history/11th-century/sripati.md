@@ -7,10 +7,10 @@ orderid: 1019
 title: Sripati
 born: 1019
 died: 1066
-keywords: Sripati, Astronomy, Arithmetic, Trigonometric Functions, Taylor Expansion, Fourier Series, Calculus
-description: Sripati was an Indian mathematician and astronomer who developed proof of trigonometric functions, Taylor Expansion, Fourier Series, and Calculus, as well as creating a decimal number system and suggesting that the Sun is the centre of the solar system.
+keywords: sripati,sripati
+description: Sripati was an Indian who wrote works on astronomy and arithmetic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sripati** was an Indian who wrote works on astronomy and arithmetic.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the theory of trigonometric functions in Sines and Cosines, the first book on trigonometric functions in the world.
-2. Developed proofs of mathematical identities such as the Taylor expansion of an arbitrary function and the Fourier series, as well as ideas regarding calculus and Newton-Leibniz's work.
-3. Developed a comprehensive system of trigonometry, which included an algorithm for computing the area of a triangle using its sides.
-4. Refined methods for the extraction of the cube root, which was later incorporated in Vedic mathematics.
-5. Came up with a method for solving numerical problems quickly by using odd and even numbers, which eventually enabled him to make several novel inventions related to trigonometry.
-6. Wrote the Aryabhatiya, which is considered to be the first treatise on mathematical astronomy in the world.
-7. Conceived the idea of a decimal number system.
-8. Suggested that the Sun was the centre of the solar system.
+* Sripati was a follower of the teaching of Lalla writing on astrology, astronomy and mathematics.
+* Sripati was the most prominent Indian mathematicians of the 11th  Century.
+* Among Sripati's works are: Dhikotidakarana written in 1039, a work of twenty verses on solar and lunar eclipses; Dhruvamanasa written in 1056, a work of 105 verses on calculating planetary longitudes, eclipses and planetary transits; Siddhantasekhara a major work on astronomy in 19 chapters; and Ganitatilaka an incomplete arithmetical treatise in 125 verses based on a work by Sridhara.
+* In verses 3, 4 and 5 of this chapter Sripati gave the rules of signs for addition, subtraction, multiplication, division, square, square root, cube and cube root of positive and negative quantities.
+* Sripati wrote a commentary on this work in Marathi and it is one of the oldest works to have survived that is written in that language.
+* There is one other work on astrology the Daivajnavallabha which some historians claim was written by Sripati while other claim that it is the work of Varahamihira.
 
 Born 1019, (probably) Rohinikhanda, Maharashtra, India. Died 1066, India.
 

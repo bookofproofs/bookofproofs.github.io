@@ -7,10 +7,10 @@ orderid: 1908
 title: Kline, Morris
 born: 1908
 died: 1992
-keywords: Morris Kline, mathematics, textbooks, professor, universities, president, award
-description: Morris Kline was an influential American mathematician, professor and president of mathematics-based organizations, best known for his textbooks and the "Kline Prize in Mathematics" yearly award.
+keywords: morris kline,kline
+description: Morris Kline was an American mathematician best known for his books popularising mathematics and on the history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Morris Kline** was an American mathematician best known for his books popularising mathematics and on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored several important mathematics texts including "Mathematics: The Loss of Certainty," "Calculus," and "Mathematics in Western Culture."
-2. Was traveling professor at several universities such as Johns Hopkins, Colgate, and Oxford.
-3. Served as president of both the Association of Mathematics Teachers of New York City and the Mathematical Association of America.
-4. Founded the Institute for the Interdisciplinary Study of Science and Religion at New York University.
-5. Was a professor at Courant Institute of Mathematical Sciences and New York University, where he taught mathematics and the history of science for more than 40 years.
-6. Published over 250 books, articles, book reviews, and addresses on mathematics and the history of mathematics and science.
-7. Created the "Kline Prize in Mathematics," an annual award given to an outstanding teacher in the field of mathematics.
+* Morris was brought up in New York City, first in Brooklyn and then in Jamaica in the borough of Queens.
+* In 1939 Kline married Helen Mann; they had two daughters, Elizabeth, Judith, and a son Douglas.
+* Kline's first research was in pure mathematics and following papers related to his doctoral thesis he published Representation of homeomorphisms in Hilbert space in 1939.
+* In 1959 Kline published Mathematics and the Physical World, a companion volume to Mathematics in Western Culture.
+* This book emphasises Kline's firm belief that mathematics underlies all of science, indeed all of natural knowledge.
+* A major book devoted to the history of mathematics Mathematical Thought From Ancient to Modern Times (1972) earned Kline much praise.
+* If these texts often contained ideas that were 'mildly controversial', then Kline's books attacking the teaching of mathematics at school and university level provoked a considerably stronger reaction: Why Johnny Can't Add: The Failure of the New Mathematics (1973) and Why the professor can't teach: Mathematics and the dilemma of university education (1977).
+* We should not give the impression that Kline only began to attack the way mathematics is taught as he approached retirement age.
+* We have only mentioned a selection of Kline's books in this biography but we have chosen to comment on typical examples which have all stimulated very worthwhile debate.
+* Kline retired from teaching in 1975 although, as the list of books above indicates, he continued to publish major texts.
 
 Born 1 May 1908, Brooklyn, New York City, New York, USA. Died 10 June 1992, Brooklyn, New York City, New York, USA.
 

@@ -7,10 +7,10 @@ orderid: 1860
 title: Muirhead, Robert Franklin
 born: 1860
 died: 1941
-keywords: Robert Muirhead, GPMC, MIMOSA, Matrix Inversion, Algorithms, Numerical Analysis, Linear Algebra
-description: Robert Muirheadmade groundbreaking contributions to matrix operations, numerical analysis & linear algebra, including the GPMC and Muirhead Inversion Algorithm.
+keywords: robert muirhead,muirhead
+description: Robert Muirhead studied at Glasgow, Cambridge and Göttingen. He taught in various schools and founded the Glasgow Tutorial College.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,48 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Muirhead** studied at Glasgow, Cambridge and Göttingen. He taught in various schools and founded the Glasgow Tutorial College.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the General Purpose Matrix Computer (GPMC), the first pure matrix computer in the world.
-2. Published multiple papers on matrix computers and designed several algorithms for matrix operations.
-3. Established the MIMOSA programming language for matrix operations, becoming the standard for many software packages.
-4. Created the first software libraries for numerical analysis.
-5. Developed the Muirhead Inversion Algorithm, which is still used today in scientific computing and data processing.
-6. Developed the Muirhead Theory of Matrix Inversion, the first comprehensive mathematics theory of matrix inversion.
-7. Made significant contributions to linear algebra, both in the theory of linear equations and in terms of algorithms for solving those equations.
-8. Popularized the use of matrices and matrix operations in both academia and industry.
+* Robert's mother was Isabella Florence Reid (born in Irvine, Ayrshire, 12 April 1828).
+* Andrew and Isabella Muirhead were married in Irvine, Ayrshire, on 13 March 1841.
+* Robert Franklin Muirhead (known as Bob) had three older siblings: Mary Jane (born 5 February 1854), Elizabeth Ann (born 22 January 1856), James Andrew Arthur (born 14 January 1858) and six younger siblings: Henry Alfred (born 3 January 1862), Isabella Jessie (born 17 January 1864), Alice Margaret (born 10 March 1866), Roland Eugene (born 24 July 1868), Florence Ellen (born 1 August 1870) and Arthur Montgomery (born 24 April 1873).
+* He himself was a fourth generation member of a family that had been involved in tanning leather since 1758 when his grandfather's uncle, John Muirhead, founded a tannery in partnership with Sir John Stirling Maxwell which produced glove leathers which he exported to the colonies in North America.
+* Andrew Muirhead purchased the Burnside Tannery from his father James Muirhead in 1840.
+* In the same year Andrew Muirhead purchased the Burngill Tannery in Bridge of Weir from the City of Glasgow Bank on 15 May 1870 and renamed it the Gryffe Tannery.
+* The Muirhead family home was at Meikle Cloak, near Lochwinnoch, and it was there that Robert Franklin Muirhead, the subject of this biography, was brought up.
+* This School has a long history dating back to its 16th century Royal Charter foundation, but when Muirhead studied there it consisted of two buildings, one dating from 1801 and a new building beside it opened in 1864.
+* In 1876, still only sixteen years old, Muirhead began his studies at Glasgow University.
+* The friendship thus formed continued unbroken throughout Muirhead's life.
+* While he was still an undergraduate, Muirhead became a member of the Royal Philosophical Society of Glasgow in 1879.
+* Muirhead graduated with a B.Sc. from the University of Glasgow in 1879 and with an M.A. in 1881, with the highest honours in mathematics and natural philosophy (physics).
+* Muirhead and Alexander Russell were the two First Class students.
+* The professor of mathematics was Hugh Blackburn when Muirhead began his studies but, from 1879, it was William Jack.
+* Muirhead was awarded a Ferguson Scholarship, which was open to all graduates from the four Scottish universities (there were only four at this time).
+* On 12 June 1881 Muirhead was admitted as a pensioner at St Catharine's College, University of Cambridge.
+* William Henry Young was studying the mathematical tripos in the same years as Muirhead, having also matriculated in 1881.
+* We need at this point say a little about Muirhead's political views.
+* Muirhead joined the Socialist Land and Labour League and the Socialist League in 1886.
+* Let us note at this stage that Muirhead was not the only member of his family to be active politically: his sister Alice was a suffragist and his brother Roland was a notable left-wing Scottish nationalist who became the first president of the National Party of Scotland.
+* Muirhead was sympathetic to all these views and, together with his brother Roland, he organised a visit by the Russian 'Anarchist Prince', Pyotr Alexeyevich Kropotkin, to Glasgow in November 1886.
+* Carpenter and Muirhead were together at 'Bloody Sunday' which took place in London on 13 November 1887.
+* The school, called Abbotsholme, in Rocester, Staffordshire opened in 1889 with Reddie as head master and Muirhead as one of the teachers.
+* There was a disagreement on the principles on which the school should operate and, after a year, Muirhead left.
+* On a visit to Carpenter's home, Muirhead met Olive Schreiner (1855-1920).
+* From that time on, Schreiner became close friends with Muirhead, and Carpenter.
+* In 1891 Muirhead became a lecturer on Mathematics in the Mason College, Birmingham.
+* They met while Robert Franklin Muirhead was teaching in Birmingham where Linnie was living at the time.
+* They had four children Waldo Hurndall Muirhead (born 11 November 1894), Ronald Hurndall Muirhead (born 29 June 1899), Ruth Hurndall Muirhead (born 9 November 1900) and Joyce Hurndall Muirhead (born 1905).
+* Muirhead and his wife left Birmingham in 1893 and returned to Scotland where he became a tutor in Edinburgh.
+* This was the first of 45 papers which Muirhead presented to the Society over the following years.
+* That Muirhead was interested in 'nature and landscape' is supported by the fact that he was a member of the Co-operative Holidays Association which was founded in 1893.
+* In March 1895 Muirhead moved from 59 Warrender Park Road, Edinburgh, Scotland to Bridge of Weir, Glasgow, Scotland.
+* His most famous paper was Inequalities relating to some algebraic means (1901) in which he described what today is known as 'Muirhead's Inequality'.
+* In about 1897 Muirhead returned to Glasgow; certainly in that year he was elected to the Council of the Royal Philosophical Society of Glasgow.
+* Dr Muirhead's Extra Academical Course in Mathematics is recognised by the Glasgow University Court for graduation purposes in the Faculty of Science, and is accepted as equivalent to the Intermediate Honours Class of Mathematics in the University.
+* On 24 February 1909, Muirhead address the Royal Philosophical Society of Glasgow on Some Considerations on Scottish Universities, with Special Reference to Needed Reforms.
+* We mentioned above that Muirhead was an active member of the Edinburgh Mathematical Society.
+* Robert Franklin Muirhead (1861-1941) was a graduate of Glasgow and Cambridge Universities and spent some time at the University of Göttingen.
+* Men like Muirhead, or his younger colleague John Dougall (1867-1960), who was President in 1925, would easily have obtained university posts in the golden 25 years following the last war, but they lived in times, rather like those we have moved into recently, when appropriate positions were not available to everyone of ability.
+* Between 1889 and 1890, the 'wonderfully handsome and athletic' Muirhead stayed with Carpenter at Millthorpe, enjoying what Carpenter termed a 'romance of affection' with James Brown, a tailor, poet and fellow member of the Scottish Socialist League, as well as sleeping with Carpenter, before three years later marrying and settling down in Glasgow.
+* Muirhead's wife died on 17 June 1940 and he died about six months later in January 1941.
 
 Born 22 January 1860, Shawlands, Glasgow, Scotland. Died 16 January 1941, Glasgow, Scotland.
 

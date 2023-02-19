@@ -7,10 +7,10 @@ orderid: 1835
 title: Jevons, Stanley
 born: 1835
 died: 1882
-keywords: Jevons, economics, logician, marginal utility, political economy, calculus, "Jevons' Law", logical machine, diminishing marginal utility
-description: Stanley Jevons pioneered groundbreaking economic theories, mathematical equations and developed a new system of logic and a logical machine, impacting the way economists view diminishing marginal utility.
+keywords: stanley jevons,jevons
+description: Stanley Jevons was an English mathematician, economist and logician.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Stanley Jevons** was an English mathematician, economist and logician.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the marginal utility theory of economics, showing how people make rational choices despite limited funds and resources.
-2. Published "The Theory of Political Economy" in 1871, a work that helped to establish economics as a scientific subject.
-3. Published "Logic" in 1864, introducing a new and original system of logic, defining basic terms and rules.
-4. Formulated and solved the "Jevons rules" in 1865, showing how to compare series of numbers of unequal duration, a predecessor of calculus.
-5. Published a revolutionary mathematical equation in 1865 known as "Jevons' Law", which determined the rate of imports into a country based on its population size.
-6. Developed the "Logical Machine" in 1869, a machine he used to graph algebraic equations.
-7. Established the important economic concept known as "diminishing marginal utility" in 1871, which stated that the value of a good or commodity was inversely related to its availability.
+* Thomas Jevons was an iron merchant but showed lots of talent both as an inventor of iron boats and as a writer on various legal and economic topics.
+* Thomas and Mary Roscoe had eleven children and Stanley was the ninth.
+* The family were Unitarians, a liberal branch of the Protestant Church that bases its religious beliefs on reason, and Stanley was brought up with these beliefs.
+* There is very clear evidence in Jevons later writings of the Unitarian influence.
+* Stanley was sent to London to became a boarder at University College School in 1850.
+* This involved determining the characteristics such as weight, measure, or quality of the coinage, and Jevons was offered the post because of his already impressive abilities at chemistry.
+* Jevons became interested in meteorology (writing a paper on the topic), geology and political economy.
+* To some extent his job in the mint, involved in actually making money, must have influenced Jevons interests in economics, as must the failure of his father's family business.
+* Now, filled with the feelings of mission he described, Jevons gave up his lucrative job and returned to England in 1859 to complete his education.
+* An important influence on Jevons while he was studying in London was De Morgan, not in terms of Jevons thoughts on economics but certainly in terms of his thoughts on logic and probability.
+* Jevons' developing thoughts on economics are evident in his correspondence.
+* After being awarded his Master's Degree, Jevons was appointed as a tutor at Owens College, which went on to become the University of Manchester.
+* In 1867 Jevons married Harriot Ann Taylor, one of the daughter's of the founder and first editor of the Manchester Guardian (founded in 1821 as the weekly, it had become a daily paper in 1855).
+* They had three children, one son Herbert Stanley Jevons following in his father's footsteps and becoming well known as an economist.
+* Jevons remained in Manchester until he moved to University College, London in 1876.
+* Jevons's main contributions outside economics are in mathematical logic.
+* It was Boole, particularly with his book The Laws of Thought (1854), who strongly influenced Jevons' ideas on mathematical logic.
+* On the one hand Jevons can be seen as a strong supporter of Boole's ideas, and someone who both worked on improving them and bringing them to a wider audience.
+* Jevons was fond of syllogistic methods.
+* In many ways this showed one weakness that Jevons had, namely that although he was advocating a mathematical approach to many problems, his lack of understanding of Boole's mathematics in particular shows that he could not fully appreciate it.
+* The 'logical piano', a machine designed by Jevons and constructed by a Salford watchmaker, had 21 keys for operations in equational logic.
+* Jevons claims in this work that absolute precision in observations is impossible, as is a complete correspondence between a theory and the physical situation that it models.
+* Jevons, writing in 1873, knew 64 chemical elements had been discovered of which 50 are metals.
+* We have already noted that Jevons left Manchester in 1876 when he moved to University College, London.
+* Jevons' work is very highly regarded by most.
+* Jevons was not a precursor of logical positivism despite his attempt to build up a unified science.
+* His mechanical reductionism was directed towards this project, and Jevons tried to found mathematics on logic through the development of a theory of number.
+* Although Jevons did not succeed in establishing a unified science, his flawed methodology resulted in one of the first applications of statistics to the social sciences.
 
 Born 1 September 1835, Liverpool, England. Died 13 August 1882, Hastings, England.
 

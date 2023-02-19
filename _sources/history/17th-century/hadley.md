@@ -7,10 +7,10 @@ orderid: 1682
 title: Hadley, John
 born: 1682
 died: 1744
-keywords: John Hadley, reflecting telescope, navigation, mathematics, astronomy, dialling, sundial, logarithmic tables, trigonometry, spherical astronomy, barometric level, Newton's Law, Gravity
-description: John Hadleywas an English physicist who pioneered the use of math, astronomy & instrumentation to measure inclination and advance navigation & astronomy.
+keywords: john hadley,hadley
+description: John Hadley was an English instrument maker who improved the Gregorian reflecting telescope and invented the quadrant for navigation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Hadley** was an English instrument maker who improved the Gregorian reflecting telescope and invented the quadrant for navigation.
 
 ### Mathematical Profile (Excerpt):
-1. John Hadley was the first to successfully integrate mathematics and astronomy to precisely measure the angle of inclination of a planet’s orbit. 
-2. He formulated Hadley’s Canon of dialling and developed the first sundial of the backstaff in 1683. 
-3. He was the first to use logarithmic tables for navigation and his efforts for trigonometry and spherical astronomy made navigation much simpler and systematic. 
-4. He is also noted for his experiments in barometric level that eventually led to the development of Newton’s Law of Gravity. 
-5. He is credited for developing the first reflecting telescope that allowed for narrower and brighter imagines.
+* George Hadley became high sheriff of Hertfordshire when John was nine years old.
+* John was the second of his parents' six children having an older sister and two younger brothers George and Henry.
+* John was five years older than Henry and three years older than George.
+* Hadley was elected a fellow of the Royal Society on 21 March 1717 and he attained high office in the Society when he was elected Vice President on 12 February 1728.
+* His father died in 1729 and, as the eldest son, Hadley inherited the estate near East Barnet as well as other land owned by the family.
+* They had one child, a son John born in 1738.
+* We have indicated above that Hadley had a financial position which enabled him to devote both time and money to science.
+* This motivated Hadley to tackle the problem and in 1730 he invented the reflecting octant which measured the altitude of the sun or of a star.
+* The construction of the octant was, as his telescope had been, undertaken jointly by Hadley together with his brothers George and Henry.
+* In 1731 Hadley showed his new quadrant to theRoyal Society and published a description in his paper Description of a new instrument for taking angles which appeared in the Philosophical Transactions of the Royal Society.
+* Hadley published A description of a new instrument for taking the latitude or other altitude at sea (1734).
 
 Born 16 April 1682, Bloomsbury, London, England. Died 14 February 1744, East Barnet, Hertfordshire, England.
 

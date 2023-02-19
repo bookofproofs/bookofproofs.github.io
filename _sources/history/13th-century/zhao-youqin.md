@@ -7,10 +7,10 @@ orderid: 1271
 title: Youqin, Zhao
 born: 1271
 died: 1335
-keywords: Chinese mathematics, computing, programming languages, Chinese Remainder Theorem, algorithms, Chinese Mathematical Society, Journal of the Chinese Academy of Sciences
-description: Zhao Youqin was a Chinese mathematician who authored five books and developed the "Chinese Remainder Theorem," bridging mathematics and computing, popularizing the field, and submitting the first Chinese article to a major mathematics journal.
+keywords: zhao youqin,youqin
+description: Zhao Youqin was a Chinese mathematician and astronomer who published work on the structure of the universe. He described how to calculate π.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zhao Youqin** was a Chinese mathematician and astronomer who published work on the structure of the universe. He described how to calculate `$\pi$`.
 
 ### Mathematical Profile (Excerpt):
-1. Authored five books on mathematical and computing topics, including Chinese mathematics, computers, and programming languages. 
-2. Developed a revolutionary computing technique, known as the "Chinese Remainder Theorem," which has since become a major problem-solving tool in computer science.
-3. Used his knowledge of arithmetic to create tools and algorithms to solve complex problems quickly.
-4. Pioneered mathematical studies in China and established various mathematical societies, helping to spread the study of mathematics among Chinese students.
-5. Promoted the fusion of mathematics and computing, successfully bridging the two disciplines and forming the basis for modern computer science.
-6. Instituted China's first collegiate mathematics competition.
-7. Co-founded China's equivalent of the Chinese Mathematical Society.
-8. Worked actively to popularize the field of mathematics across the Chinese mainland.
-9. Submitted an innovative article to the Journal of the Chinese Academy of Sciences which became the first article by a Chinese in a major international mathematics journal.
-10. Developed a powerful new computing algorithm to more efficiently solve mathematical problems.
+* One source suggests that Zhao was injured in the fighting surrounding these dramatic events.
+* This suggestion is reinforced by Zhao Youqin's remark in the section entitled 'Li fa gai ge' ('On Changes and Alterations (ge) of Calendrical Methods') of the first chapter of the treatise.
+* In this treatise, Zhao is concerned with the structure of the universe.
+* Zhao also looks at various instruments which can be used for surveying.
+* One of the most interesting features of the book, however, relates to Zhao's calculation of π.
 
 Born 26 July 1271, Poyang, now Jiangxi province, China. Died about 1335, Longyou Mountains, Zhejiang province, China.
 

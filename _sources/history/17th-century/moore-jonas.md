@@ -7,10 +7,10 @@ orderid: 1627
 title: Moore, Jonas
 born: 1627
 died: 1679
-keywords: Jonas Moore, mathematics, astronomy, earth curvatures, sea-surveying, navigation, logarithms
-description: Jonas Moore, a prominent English man of science, contributed significantly to mathematics, astronomy and navigation by inventing tools such as the sector, the equal hour line and logarithms.
+keywords: jonas moore,moore
+description: Jonas Moore was an English man of science important for his support of mathematics and astronomy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jonas Moore** was an English man of science important for his support of mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-1. Completed the first measurement of earth curvatures in 1676.
-2. Published a treatise on the science of sea-surveying and navigation in 1682.
-3. Developed an improved method of computing longitude at sea in 1683 that included an easy to use triangle methodology.
-4. Established the “Sector” for calculating formulas for passing through a bay or passage of unknown widths in 1683.
-5. Created a system for using the “equal hour” line for navigation in 1684.
-6. Proposed a way to multiply and divide complex numbers in his paper "On the Nature and Properties of Number" in 1684.
-7. Developed a method to measure angles from the meridian in 1685.
-8. Pioneered the use of logarithms for approach navigation to a coast in 1686.
+* Moore was greatly influenced by Oughtred in his mathematical studies.
+* However, he found it difficult to find sufficiently many pupils so Moore was happy to be appointed as a surveyor in 1649.
+* Moore made a reputation for himself in this job and soon was appointed to other surveying jobs.
+* The dedication of the republished work shows that Moore was working hard to find favour with the new regime.
+* In 1663 Moore was sent to Tangier to conduct a survey and to report on its fortifications.
+* However Moore is not particularly famous for the mathematics which he did: as a mathematician he is best known as the first to use the notation cot.
+* Rather Moore is famous for his strong support of mathematics and astronomy which made many other mathematical and astronomical advances possible.
+* Moore, together with the famous diary writer Samuel Pepys, founded the Royal Mathematical School within Christ's Hospital.
+* Moore became a governor of the school and together with Perkins, a master at the school, he wrote a major mathematical work intended for use at the Royal Mathematical School.
+* Moore died however before the work could be published.
+* Moore wrote the sections on arithmetic, geometry, trigonometry and cosmography while the sections on algebra, Euclid and navigation were written by Perkins.
+* Moore died in 1679 while on a journey from Portsmouth to London.
 
 Born 8 February 1627, Whitelee, Pendle Forest, Lancashire, England. Died 25 August 1679, Godalming, England.
 

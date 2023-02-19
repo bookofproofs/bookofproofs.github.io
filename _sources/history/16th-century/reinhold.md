@@ -7,10 +7,10 @@ orderid: 1511
 title: Reinhold, Erasmus
 born: 1511
 died: 1553
-keywords: Erasmus Reinhold, Astronomy, Mathematics, Planetary Tables, Eclipse Prediction, Celestial Sphere, Longitude Determination
-description: Erasmus Reinhold was a German astronomer and mathematician who catalogued stars, and improved astronomical models, planetary tables and techniques used in eclipse and longitude prediction.
+keywords: erasmus reinhold,reinhold
+description: Erasmus Reinhold was a German astronomer and mathematician who catalogued a large number of stars and published important astronomical tables.
 references: bookofproofs$6909
-contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,30 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Erasmus Reinhold** was a German astronomer and mathematician who catalogued a large number of stars and published important astronomical tables.
 
 ### Mathematical Profile (Excerpt):
-1. He produced the most accurate calculation of the lunar orbit thus far.
-2. He corrected and improved the existing planetary tables of Copernicus.
-3. He calculated the orbits of Mercury, Venus and Mars and published them in the Prutenic Tables of 1551.
-4. He also produced tables for predicting solar and lunar eclipses.
-5. He introduced a new method of using predictive equations for equators and meridian circles of the celestial sphere.
-6. He used trigonometric functions with angles measured in degrees to relate the positions of celestial bodies used in the prediction of eclipses and planetary motions.
-7. He proposed a new way to determine longitude.
-8. He contributed to the development of basic mathematical techniques such as the use of sines and tangents.
-9. He worked on the project of calendar reform during his lifetime.
-10. He made important contributions to the knowledge of early modern astronomical instruments, such as astrolabes, armillary spheres, and globes.
+* Little is known about Erasmus's youth and early education.
+* Both Erasmus and his brother died in 1553.
+* Erasmus studied at the Stadtschule in Saalfeld then, in 1530, he enrolled in the University of Wittenberg which was at that time a young institution having been founded in 1502.
+* After Professor Johannes Volmar's death in 1536, at the instigation of Philipp Melanchthon, Reinhold obtained the professorship of "Mathematum Superiorum" in the University of Wittenberg, which included astronomy, while his colleague Georg Joachim Rheticus became "Mathematum Inferiorum".
+* Melanchthon played a major role in getting both Reinhold and Rheticus appointed to teach mathematics and astronomy at the University of Wittenberg in 1536.
+* Reinhold was elected dean in the college of arts, holding the position during the winter of 1540-41, and then dean in the college of philosophy during the summer of 1549.
+* Reinhold, like the majority of those in Wittenberg, was a Lutheran.
+* Reinhold remained at the University attempting to continue his work during these dramatic events.
+* Reinhold, along with Rheticus, was one of the first scholars to draw attention towards the Copernican theories of heliocentrism in Germany.
+* However, Reinhold continued to recite Ptolemaic doctrine in his lectures.
+* This might have been in part due to the theological establishment in Wittenberg, which considered Copernicus's model to be heretical, but Reinhold's comments on his own copy of Copernicus's De Revolutionibus Ⓣ(On the revolutions (of the heavenly spheres)) seem to indicate that he was only interested in the mathematical aspects of the model and not in the cosmological theory.
+* The identification of Reinhold's annotations on his copy of De Revolutionibus Ⓣ(On the revolutions (of the heavenly spheres)) was made by Owen Gingerich in 1970 when he examined the copy of De Revolutionibus Ⓣ(On the revolutions (of the heavenly spheres)) held in the Royal Observatory in Edinburgh, Scotland.
+* Throughout, Reinhold proves remarkably aware of Copernicus's sources (such as Giorgio Valla, Johannes Werner, or Regiomontanus's 'Epitome'), even when Copernicus does not credit them explicitly.
+* Reinhold sums up his approach to Copernicus's opus by a motto inscribed on the title page, a paraphrase of the chapter title I,4 'The Axiom of astronomy: Celestial motion is uniform and circular, or composed of uniform and circular motions'.
+* Instead, Reinhold is fascinated by the use of pure circles to replace the Ptolemaic equant by an alternative mechanism.
+* The marginalia throughout the volume verify this interpretation of Reinhold's interests.
+* Others concern the observational basis for precession and the obliquity, where Reinhold regularly includes Johannes Werner, an antagonist whom Copernicus assiduously avoids mentioning.
+* The University of Wittenberg lacked an observatory so Reinhold had to make do with a wooden quadrant.
+* Reinhold was dissatisfied with the tables included in Copernicus's De revolutionibus Ⓣ(On the revolutions (of the heavenly spheres)), so he decided to remake them in a more useful form.
+* Reinhold married twice: first with Margaretha Bauer (died 7 October 1548), the daughter of a burgher from Saalfeld, on 22 January 1537; and later with Martha (died 1552) in 1550.
+* His first marriage gave him a son, also named Erasmus (1538-92).
+* In 1552, Reinhold moved to stay with his parents in Saxony, fleeing from the bubonic plague, but he eventually succumbed to it.
+* In 1575, Tycho Brahe visited Reinhold's son in Wittenberg and studied his annotated copy of the De Revolutionibus Ⓣ(On the revolutions (of the heavenly spheres)).
+* Reinhold's notes inspired Brahe to consider alternative arrangements of planetary circles that led to his own geo-heliocentric system.
 
 Born 22 October 1511, Saalfeld, Thuringia (now Germany). Died 19 February 1553, Saalfeld, Thuringia, Germany.
 

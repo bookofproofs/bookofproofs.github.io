@@ -7,10 +7,10 @@ orderid: -200
 title: Katyayana
 born: -200
 died: -140
-keywords: Katyayana, mathematics, geometry, Pythagorean theorem, algorithm, Chakravala, metric notation
-description: Katyayana, a Hindu mathematician and astronomer from the 3rd century BCE, was an influential figure in the development of mathematics including geometry, the Pythagorean theorem, algorithms, and the metric notation system.
+keywords: katyayana,katyayana
+description: Katyayana was the author of one of the Sulbasutras: documents containing some of the earliest Indian mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,17 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Katyayana** was the author of one of the Sulbasutras: documents containing some of the earliest [Indian mathematics][bookofproofs$1636].
 
 ### Mathematical Profile (Excerpt):
-Katyayana was a Hindu mathematician and astronomer who flourished in the 3rd century BCE. He is best known for his work on the Sulba Sutras, a collection of mathematical rules under the Vedic religions.
-
-1. Katyayana's most notable achievements in the field of mathematics include:
-- the development of geometry, including formulae for calculating areas and volumes of rectangles and squares.
-- the discovery of the Pythagorean theorem
-- the development of the algorithm for finding approximate solutions for equations, known as the Katyayana algorithm
-- the invention of numerical methods for solving linear and quadratic equations
-- the formulation of the Chakravala method for factorization
-- the development of the table of sines
-- the creation of the metric notation system 
-- the discovery of the point-type method for calculating sums.
+* It would also be fair to say that Katyayana's Sulbasutra is the least interesting from a mathematical point of view of the three best known Sulbasutras.
+* We do not know Katyayana's dates accurately enough to even guess at a life span for him, which is why we have given the same approximate birth year as death year.
+* Katyayana was neither a mathematician in the sense that we would understand it today, nor a scribe who simply copied manuscripts like Ahmes.
+* Katyayana would have been a priest instructing the people in the ways of conducting the religious rites he describes.
+* Katyayana lived in a period when the religious rites that the Sulbasutras were written to support were becoming less influential.
+* People were turning to other religions and perhaps this lack of vigour in the religion at this time partly explains why several hundreds of years after Apastamba Katyayana adds little of importance to the Sulbasutra which he wrote.
 
 Born about 200 BC, India. Died about 200 BC, India.
 

@@ -7,10 +7,10 @@ orderid: 1903
 title: Tinbergen, Jan
 born: 1903
 died: 1994
-keywords: Tinbergen Rule, Welfare Theory, General Equilibrium Theory, Dual Approach, Stochastic Modeling, Projection Method, Dynamic Economic Model
-description: Jan Tinbergen, Nobel Laureate in Economics, developed Tinbergen Rule, Welfare Theory, General Equilibrium Theory, Dual Approach, Stochastic Modeling, Projection Method & Dynamic Economic Model.
+keywords: jan tinbergen,tinbergen
+description: Jan Tinbergen was a Dutch economist who was awarded the first Nobel Prize in Economics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jan Tinbergen** was a Dutch economist who was awarded the first Nobel Prize in Economics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Tinbergen Rule to investigate econometric models and drive efficient decision making.
-2. Developed the First Welfare Theory for macroeconomics to optimize the use of limited resources.
-3. Developed General Equilibrium Theory, which explains the interrelations of economic and price variables.
-4. Developed the Dual Approach to study economic models using linear programming.
-5. Contributed to the development of stochastic modeling and linear programming.
-6. Developed the Projection Method, a mathematical program to study inventory and forecasting.
-7. Developed the Dynamic Economic Model, a tool to predict future economic trends.
-8. Authored numerous publications on economic theory and mathematical models.
+* Dirk Tinbergen married Jeannette van Eek (1877-1960), who was a primary school teacher before the marriage, in Scheveningen in 1902.
+* Jan, the subject of this biography, was the eldest of his parents' five children, four boys and one girl.
+* One of his younger brothers, Nikolaas Tinbergen (1907-1988), became a famous physiologist and won the Nobel Prize for physiology in 1973.
+* His youngest brother, Luuk Tinbergen (1916-1955), became a famous ornithologist.
+* Jan's other two siblings were Jacomiena (born 1905) and Dik (born 1909).
+* The mother, Jeanette van Eek, personified the order and regularity of the family in terms of both her modest way of conducting the Tinbergen household and her mathematical interest.
+* Jan attended primary school gaining a certificate stating he was "a most excellent pupil".
+* These schools allowed entry to the university system after passing additional examinations in Latin and Greek and this Tinbergen did.
+* However, Tinbergen also had political interests associated with his left wing views.
+* In fact some of Tinbergen's first publications were articles he wrote for the socialist newspaper Het Volk in which he examined the effects of the economic depression of 1920-22 on unemployment and how the lives of the poor had been affected.
+* After completing his undergraduate degree at Leiden, Tinbergen continued to study at Leiden for his doctorate under Ehrenfest's supervision.
+* Tinbergen was assigned to an administrative position at Rotterdam State prison where he was to serve for fifteen months.
+* His father, however, tried to get a better and more satisfying position for his son and, due to his intervention, it was agreed that Tinbergen could transfer to the Dutch government's Central Bureau of Statistics in The Hague.
+* Tinbergen submitted his thesis Minimumproblemen in de natuurkunde en de ekonomie Ⓣ(Minimum problems in physics and in economics) in 1929.
+* In the introduction Tinbergen thanks Ehrenfest for pointing out to him a topic which could allow him to combine mathematical theories with his political interests.
+* The importance of this work of Tinbergen was that it was one of the first examples of a new idea in mathematics, namely mathematical modelling.
+* Of course mathematical physics had been studied throughout the history of mathematics but Tinbergen's work saw a new path for the applications of mathematics, where the applications could be to a wide variety of areas.
+* Tinbergen, who had only just finished his dissertation and entered the staff of statisticians, was given charge of this new unit.
+* Clearly influenced by the German business cycle research institutes in Berlin and Frankfurt, Tinbergen gradually tried to develop an empirical approach to dynamic problems in economics.
+* This plan was based on Tinbergen's mathematically based principles of economics.
+* In his contribution to the debate Tinbergen projected a 'quantitative stylising of the Dutch economy' to isolate the important factors and their effects by means of a set of definitions and equations.
+* In the late 1930s Tinbergen worked as a scientific advisor for the League of Nations.
+* Tinbergen was given two years leave of absence from the Central Bureau of Statistics in which to undertake this work.
+* It is a pity that Tinbergen's work received such shabby critical treatment by Keynes (in 1939), but being the kind person that he was, he expressed no ill will towards Keynes.
+* Tinbergen's reply to Keynes was in his paper On a Method of Statistical Research.
+* Tinbergen later developed other econometric models, in particular he constructed an econometric model of the USA.
+* That man is Jan Tinbergen.
+* Jan Tinbergen is an unassuming man, who does not trumpet his achievements to the world.
 
 Born 12 April 1903, The Hague, The Netherlands. Died 9 June 1994, The Hague, The Netherlands.
 

@@ -7,10 +7,10 @@ orderid: 1873
 title: Hardie (2), Patrick
 born: 1873
 died: 1943
-keywords: Patrick Hardie, Edinburgh University, Mathematics, Statistics, Fulbright Fellowship, European Mathematical Society, International Congress of Mathematics
-description: The Scotsman Patrick Hardie graduated from Edinburgh University and has since had a distinguished career in teaching and research in mathematics, culminating in a prestigious European Mathematical Society Prize and keynote address at the International Congress of Mathematics.
+keywords: patrick hardie,hardie
+description: Patrick Hardie graduated from Edinburgh University. He spent most of his career teaching in Egypt at Alexandria and Cairo.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Patrick Hardie** graduated from Edinburgh University. He spent most of his career teaching in Egypt at Alexandria and Cairo. 
+**Patrick Hardie** graduated from Edinburgh University. He spent most of his career teaching in Egypt at Alexandria and Cairo.
 
 ### Mathematical Profile (Excerpt):
-1. He was awarded a Bachelor of Science degree in Mathematics and Statistics from the University of Warwick in 2002.
-2. He received an International Fulbright Fellowship Award in 2011 to pursue a joint research project in mathematical modeling with the Institute of Technical Physics in Stuttgart, Germany.
-3. In 2015, he was honored with the prestigious European Mathematical Society Prize.
-4. He was appointed Fellow of the Royal Society of Arts in 2017. 
-5. He was appointed to the Board of Directors of the European Mathematical Society in 2018.
-6. His research in algebraic-geometric modeling was published in the proceedings of the 2017 International Symposium on Computational Geometry. 
-7. He was a keynote speaker at the 2019 International Congress of Mathematics in Rio de Janeiro, Brazil.
+* His mother was  Jane Hardie (born Culross, Perthshire (now in Fife) about 1837).
+* Patrick Hardie had siblings: James (born about 1860), George (born about 1864), Jane (born about 1866), and Alexander (born about 1875).
+* Patrick Hardie's school education was at Newington School, Edinburgh, followed by George Heriot's School, Edinburgh.
+* Hardie studied Chemistry and Practical Chemistry with Crum Brown, Botany and Practical Botany with Balfour, Zoology and Practical Zoology, Mathematics with Chrystal, and Natural Philosophy with Tait.
+* Hardie then went to Egypt where he worked as a Lecturer in Physics.
+* Hardie joined the Edinburgh Mathematical Society in February 1900 while at Sharp's Institution in Perth, Scotland.
 
 Born 13 January 1873, Edinburgh, Scotland. Died 7 March 1943, Edinburgh, Scotland.
 

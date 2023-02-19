@@ -7,10 +7,10 @@ orderid: 1900
 title: Ingham, Albert
 born: 1900
 died: 1967
-keywords: Ingham-Karamata theorem, Tauberian theorem, prime number theorem, Regular Variation, A Tauberian Theory, Abelian Integrals, Abel summation formula
-description: Albert Ingham was an English mathematician who made significant contributions to the fields of number theory and real analysis, notably proving the Ingham-Karamata theorem and publishing books on Tauberian Theory.
+keywords: albert ingham,ingham
+description: Albert Ingham was an English mathematician who worked in number theory and in particular on the prime number theorem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Albert Ingham** was an English mathematician who worked in number theory and in particular on the prime number theorem.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered and proved the Ingham-Karamata theorem, which was a fundamental result in the field of Tauberian theorem.
-2. Awarded the Böttcher Memorial Prize in 1983 in recognition of his original contributions to Tauberian Theory.
-3. Contributed significantly to the field of real analysis, in particular to the study of the distribution of prime numbers.
-4. Authored two books: Regular Variation and A Tauberian Theory, which provided a comprehensive overview of his achievements and future directions in mathematics.
-5. Appointed as a Lecturer at Clarkson University in 1958, where he conducted research on Abelian Integrals.
-6. Awarded the Leroy P. Steele Prize for Seminal Contributions to Research in 1998 for his work in real analysis.
-7. Devised a method of measuring the numerical behavior of functions that involved the use of linear programming.
-8. Helped George Pólya reformulate the Abel summation formula and created a glimpse of the contemporary theory of summability.
+* His mother was Annie Gertrude Ingham (born about 1876 in Northampton).
+* Albert Edward Ingham (our mathematician) had an older brother Christopher Augustus (born about 1897), and two younger sisters Phyllis Gertrude (born about 1904) and Lilian Grace (born about 1910).
+* Albert Ingham was educated at Stafford Grammar School, and from there he won a scholarship to Trinity College, Cambridge, in December 1917.
+* In 1926 Ingham was appointed a Reader at Leeds University but four years later returned to Cambridge as a university lecturer and a fellow of King's College, on the death of Ramsey, and remained there for the rest of his life.
+* Many of the ideas here, as in other work of Ingham's, came from the joint work undertaken by Harald Bohr and Littlewood.
+* ran out of print, Ingham could never be persuaded to prepare a second edition.
+* Ingham's work was on the Riemann zeta function, the theory of numbers, the theory of series and Tauberian theorems.
+* Ingham, in 1942, was able to find an ingenious method to show how a counterexample could be constructed.
+* Some of Ingham's work on number theory was carried further by Linnik.
+* Ingham led a life of great simplicity.
 
 Born 3 April 1900, Northampton, England. Died 6 September 1967, Chamonix, France.
 

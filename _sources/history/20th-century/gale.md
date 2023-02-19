@@ -7,10 +7,10 @@ orderid: 1921
 title: Gale, David
 born: 1921
 died: 2008
-keywords: Mathematical Economics, Game Theory, Convex Analysis, Gale-Shapley Algorithm, Matching Pennies, Stable Roommates Problem, Shapley Value
-description: David Gale, mathematician and economist, developed algorithms, theories, and measures to revolutionize the study of mathematical economics and game theory, and was inducted into the National Academy of Sciences.
+keywords: david gale,gale
+description: David Gale was an American mathematician and economist who worked in mathematical economics, game theory, and convex analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Gale** was an American mathematician and economist who worked in  mathematical economics, game theory, and convex analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Gale-Shapley algorithm for matching in two-sided markets, notably in the field of matching medical students to hospitals.
-2. Researched and wrote extensively on the game of matching pennies, and his work clarified the mathematics behind the difference between cooperative and non-cooperative games.
-3. Discovered the relationship between the Gale-solitary game and linear programming to bridge economic theory with models of social choice.
-4. Developed the stable roommates problem and its associated solution algorithm, which provided a major optimization tool for industries.
-5. First introduced the concept of a differential game and its mathematical solution, as well as co-founded the field of potential games theory. 
-6. Established the theory of voting games, which provided a mathematical framework for analyzing fair and effective voting mechanisms. 
-7. Established the Shapley value to measure the effectiveness of different voting systems, which is used in computational social choice. 
-8. Inducted into the National Academy of Sciences, the American Academy of Arts and Sciences, and the Econometric Society for his contributions to mathematics.
+* In 1950 Gale published a number of papers with various coauthors.
+* We mention one further paper which in many ways is typical of the delightfully simple yet deep questions that Gale often investigated.
+* Following the award of his doctorate from Princeton, Gale spent the year 1949-50 as an Instructor in Mathematics at Princeton.
+* Let us look now at some of Gale's books since this gives a good overview of both his research interests and of courses he taught.
+* In 1960 Gale published The theory of linear economic models.
+* Gale wrote the Mathematical Entertainments column of The Mathematical Intelligencer from 1991 to 1997.
+* Gale received many honours and prizes for his outstanding contributions.
+* Gale's research is known for its mathematical elegance.
+* Many paid tribute to Gale after his death.
+* In fact Alvin Roth, professor of economics at Harvard University, had nominated Gale for the Nobel Prize in economics.
+* But David's work will be remembered for generations to come, in books and journal articles and seminars and workshops, as well as in the very concrete allocation procedures that have been built upon his insights.
+* Throughout his life, Gale would insist that visitors look at the newest puzzle he was working on.
+* In addition to his fascination with mathematical puzzles, Gale had several hobbies.
 
 Born 13 December 1921, Manhattan, New York, USA. Died 7 March 2008, Berkeley, California, USA.
 

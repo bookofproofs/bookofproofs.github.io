@@ -7,10 +7,10 @@ orderid: 1903
 title: Birnbaum, Zygmunt William
 born: 1903
 died: 2000
-keywords: Functional Analysis, Non-Parametric Testing, Estimation, Probability, Reliability Theory, Large Sample Sizes, Monte Carlo Simulation
-description: Zygmunt Wilhelm Birnbaum a Polish-American mathematician developed innovative theories to aid data analysis relied on today.
+keywords: william birnbaum,birnbaum
+description: Zygmunt Wilhelm Birnbaum was a Polish-born American mathematician and statistician who contributed to functional analysis, nonparametric testing and estimation, probability inequalities, survival distributions, competing risks, and reliability theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zygmunt Wilhelm Birnbaum** was a Polish-born American mathematician and statistician who contributed to functional analysis, nonparametric testing and estimation, probability inequalities, survival distributions, competing risks, and reliability theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the "Normal Binomial Distribution" which allowed for the analysis of large sets of data with many unique values.
-2. Pioneered the use of relatively large sample sizes (over 600) in studies of probability.
-3. Introduced a fundamental concept in probability theory, called the "binomial theorem," which is essential to understanding modern probability models.
-4. Conducted the first mathematical study of the effects of mean values on variance.
-5. Developed a computer simulation of the "Central Limit Theorem" which established the averaging out of large numbers of independent variables.
-6. Developed a new method for calculating probability in large data sets, called the "Significance Test," which is used extensively in the contemporary practice of statistics.
-7. Established innovative methods of calculating confidence levels through the use of "chebyshev's inequality."
-8. Developed the "coconut theorem," which provides a mathematical explanation of maximum-likelihood estimation.
-9. Pioneered statistical methods of analyzing trends, and wrote a book on the subject which is still widely used today.
-10. Developed "Monte Carlo Simulation," a method of stochastic simulations which are used to model complex systems.
+* His parents, Izak Birnbaum and Lina Nebenzahl, were Jewish but not particularly religious.
+* When Birnbaum, the subject of this biography, was born, the town of Lwów was in the Austria-Hungarian region (with the German name of Lemberg; it is now Lviv in Ukraine) although the family spoke Polish in their comfortable five-room apartment.
+* Birnbaum entered elementary school at the age of six and spent four years in the school.
+* The Birnbaum family decided that they were safer in Vienna so they moved there.
+* In Vienna, Birnbaum entered a gymnasium which had been set up for Polish speaking refugees so had lessons in Polish.
+* The tutor spent one hour per day with Birnbaum and he was able to take examinations each year which the Viennese State set specifically for home educated pupils.
+* Due to the war, the Birnbaum family's financial position was by now much less favourable so it was decided that Birnbaum needed to get a degree in a practical subject - certainly mathematics was not considered to be in this category.
+* However, Birnbaum was Jewish and there was a strict quota which severely limited the number of Jewish students who could enrol.
+* It was not a successful year for Birnbaum who failed to keep order in his classes.
+* During these years Birnbaum was working towards his doctorate advised by Hugo Steinhaus.
+* Birnbaum, aware of the high reputation that Göttingen had in mathematics, had been saving up his teacher's salary so that he could spend two years there and, on the day after he was awarded his doctorate, he boarded a train in Lwów travelling to Göttingen.
+* Soon Birnbaum was undertaking research on topics different from those he worked on for his doctorate.
+* Also with Władysław Orlicz he published the influential work Über die Verallgemeinerung des begriffes der zueinander konjugierten Funktionen Ⓣ(On a generalization of the concept of mutually conjugate functions) (1931) where spaces now called Birnbaum-Orlicz spaces were studied.
+* Arriving in New York in June 1937, Birnbaum wrote news reports for the Cracow paper for a couple of months, but he actively looked for work as a mathematician or as an actuary.
+* Courant was helpful but had nothing to offer Birnbaum while Neugebauer was keen that he wrote reviews for Mathematical Reviews which he was on the point of founding.
+* Indeed Birnbaum began to write reviews and waited for Felix Bernstein, who was out of town, to return to New York.
+* He offered Birnbaum a research assistant position in his department which he gladly accepted.
+* Later in 1937, Birnbaum began attending Harold Hotelling's seminar at Columbia University.
+* However, after a year working for Felix Bernstein, the research funding came to an end and Birnbaum was left without an income.
+* Birnbaum got Richard Courant, Edmund Landau and Albert Einstein to act as his referees and, after an interview in New York by the president of the New School for Social research and by the chief executive of the Sun Oil Company, he was offered an assistant professor position at the University of Washington.
+* Birnbaum's appointment in 1939 at the University of Washington involved him in teaching mathematics but at the same time was given the task of setting up a mathematical statistics group.
+* She married Birnbaum in 1940; they had two children Ann, born in 1941, and Richard, born in 1945.
+* Hilde Birnbaum took a Master's Degree in economics at the University of Washington and looked for an academic position.
+* Birnbaum remained at the University of Washington until his retirement in 1974, working for these 35 years in the statistics group within the Department of Mathematics.
+* Birnbaum received a number of honours including being elected a fellow of the Institute of Mathematical Statistics in 1949, the American Statistical Association, and the International Statistical Institute.
 
 Born 18 October 1903, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 15 December 2000, Seattle, USA.
 

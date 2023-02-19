@@ -7,10 +7,10 @@ orderid: 1881
 title: Dávid, Lajos
 born: 1881
 died: 1962
-keywords: Dávid, arithmetic/geometric mean, Bolyai, algebraic geometry, hyperbolic, polynomials, continuous
-description: Lajos Dávid was a Hungary mathematician known for his work on arithmetic/geometric mean, Bolyai, and developing algebraic geometry, hyperbolic, polynomials, and continuous theory.
+keywords: lajos dávid,dávid
+description: Lajos Dávid was a Hungarian mathematician known for his work on the arithmetic/geometric mean and as a historian of mathematics, particularly on Bolyai.
 references: bookofproofs$6909
-contributors: @Tünde-Kántor,bookofproofs,@ChatGPT
+contributors: @Tünde-Kántor,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @Tünde-Kántor,bookofproofs,@ChatGPT
 **Lajos Dávid** was  a Hungarian mathematician known for his work on the arithmetic/geometric mean and as a historian of mathematics, particularly on Bolyai.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of so-called Regular Mixing Sets, which made real-algebraic algebraic geometry available for an even wider range of applications. 
-2. Developed the theory of hyperbolic algebraic geometry, resulting in works such as the Quadric-Surface Tables. 
-3. Established the Weighted Regular Polytopic Theory and invented the notion of specific types of planes. 
-4. Developed the theory of algebraic varieties and the notion of triangles. 
-5. Created the Dávid Polynomials system and introduced a new technique for finding root nodes of algebraic equations. 
-6. Laid the foundations for the modern theory of algebraic equations and the theory of algebraic functions. 
-7. Discovered a number of new results in continuous algebraic geometry. 
-8. Pioneered the field of convex algebraic geometry and established methods for describing algebraic curves in 3D. 
-9. Developed the symbolic method for solving group theory problems, which provided an easier way to solve group problems. 
-10. Investigated the properties of linear systems, discovering novel conditions for the existence of specific systems.
+* The Dávid family came from Transylvania which is now part of Romania.
+* Lajos Dávid himself was educated at Kolozsvár, attending first the elementary school of the Reformed College.
+* He attended mathematics courses by Gyula Farkas, Lajos Schlesinger and later took a course by Frigyes Riesz who was only one year older than Dávid.
+* He undertook research at the university for his doctorate advised by Lajos Schlesinger and submitted his thesis The Gauss-type medium arithmetico-geometricum in 1903.
+* Between 1905 and 1906 Dávid studied in Göttingen, attending courses by David Hilbert and Felix Klein, and then in Paris.
+* In 1911 Lajos Schlesinger left Kolozsvár when he was appointed as a Professor at the University of Giessen in Germany.
+* Schlesinger invited Dávid to take part in writing commentaries on the works of Gauss for the Mathematics Seminars in Göttingen and Giessen.
+* Today Dávid he is best known for his work as a devoted Bolyai researcher.
+* As early as 1924, Lajos Dávid pointed out that the work of János Bolyai contained the seeds of the theory of relativity.
+* Besides, the writing of Lajos Dávid is an important source-book because of the accuracy of its data.
+* Dávid was a dedicated professional in teacher training.
+* Many of the topics concerned related to Dávid's projects, to the research of the Bolyais and to the Gauss-type 'medium arithmetico-geometricum'.
+* There were only a few to assist him at the Mathematics Seminar, so Lajos Dávid himself held lectures on a very wide variety of topics: descriptive geometry, infinite series, infinitesimal calculus and geometry, analysis, the practical solution of equations, the theory of differential equations, surface theory, probability theory, and practical mathematics.
 
 Born 28 May 1881, Kolozsvár, Hungary (now Cluj-Napoca, Romania). Died 9 January 1962, Leányfalu, near Budapest, Hungary.
 

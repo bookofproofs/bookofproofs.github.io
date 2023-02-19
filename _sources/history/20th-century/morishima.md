@@ -7,10 +7,10 @@ orderid: 1903
 title: Morishima, Taro
 born: 1903
 died: 1989
-keywords: Taro Morishima, algebraic geometry, Cohen–Macaulay modules, Gröbner bases, line bundles, sheaves, Japan Academy
-description: Taro Morishima was a renowned mathematician who made significant contributions to algebraic geometry, commutative algebra and related fields, such as Cohen–Macaulay modules and Gröbner bases.
+keywords: taro morishima,morishima
+description: Taro Morishima was a Japanese mathematician who worked in algebra and number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Taro Morishima** was a Japanese mathematician who worked in algebra and number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Provided groundbreaking progress in the field of algebraic geometry by developing the theory of Cohen–Macaulay modules for non-singular projective varieties.
-2. Developed the theory of direct images in conjunction with David Cox and refined the existing theory of Gröbner bases.
-3. Discovered numerous conditions for the finiteness of line bundles, as well as of essential extensions of locally free sheaves.
-4. Received the highest award from the Japan Academy for his outstanding contributions to mathematics.
-5. Published over 150 articles and monographs on algebraic geometry, commutative algebra, and related fields.
+* There was a major earthquake and fire in 1923 and when Morishima entered the Department of Mathematics of the College of Science of the university it had been reconstructed.
+* Morishima married Ei Miyamoto in 1927 while he was studying at university; they had three sons.
+* Morishima had been very active in mathematical research from the time he graduated in 1928.
+* All his papers are full of good ideas but they are extremely difficult to read since Morishima did not present enough detail.
+* Morishima's high research activity seems to have greatly lessened after 1935.
+* In 1942 Morishima was appointed as professor at the Army Military Academy.
+* We mentioned above that Morishima published one paper on Fermat's Last Theorem in 1952.
+* Finally let us mention Morishima's 1966 paper On the second factor of the class number of the cyclotomic field.
 
 Born 22 April 1903, Wakayama, Japan. Died 8 August 1989, Tokyo, Japan.
 

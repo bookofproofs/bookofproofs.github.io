@@ -7,10 +7,10 @@ orderid: 1861
 title: Clark, John
 born: 1861
 died: 1947
-keywords: Edinburgh University, George Heriot's School, equations, complex algebraic, Princeton University, mathematics, Ostrowski Prize
-description: John Clark, mathematician and educator, solved an equation that had eluded others for over a century, earning him accolades and awards, including the Ostrowski Prize.
+keywords: john clark,clark
+description: John Clark graduated from Edinburgh University and became a teacher at George Heriot's School in Edinburgh. He went on to become Rector of this school.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Clark** graduated from Edinburgh University and became a teacher at George Heriot's School in Edinburgh. He went on to become Rector of this school.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a system of equations for solving complex problems involving multiple equations.
-2. Solved an equation that had remained unsolved for over a century.
-3. Published research papers on topics related to complex algebraic equations.
-4. Developed a new system for solving differential equations.
-5. Served as an Associate Professor of Mathematics at Princeton University for over 12 years.
-6. Co-authored a book on the fundamentals of mathematics with another mathematician.
-7. Won several awards for his work in mathematics, including the ‘Ostrowski Prize’.
+* His father was George Clark from Newbigging, Lanarkshire.
+* John Clark was born in West Linton, a town about 22 km south of the centre of Edinburgh, on the road to Biggar.
+* After four years at Abbeyhill, Clark attended the Established Church Training College, Edinburgh.
+* Clark graduated M.A. from the University of Edinburgh in July 1889 with Honours.
+* Clark married Mary Mackay in 1891.
+* Among the honours Clark received was an LL.D. and an C.B.E. in 1935.
+* Clark was an active participant in a number of organisations.
+* Clark was elected to the Royal Society of Edinburgh on 2 February 1891, his proposers being Sir John Murray, David Fowler Lowe, Peter Guthrie Tait, George Chrystal.
 
 Born 30 April 1861, West Linton, Peebleshire, Scotland. Died 19 July 1947, Edinburgh, Scotland.
 

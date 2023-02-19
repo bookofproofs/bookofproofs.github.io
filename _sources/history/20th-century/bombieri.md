@@ -7,10 +7,10 @@ orderid: 1940
 title: Bombieri, Enrico
 born: 1940
 died: 0
-keywords: Fields Medal, Analytic Number Theory, Algebraic Geometry, Several Complex Variables, Riemann Hypothesis, Wolf Prize, Langlands Program
-description: Enrico Bombieri won the Fields Medal in 1974 for his work in Analytic Number Theory, and received Wolf Prize in 1995, establishing the mathematical foundation for the fundamental lemma of the Langlands Program.
+keywords: enrico bombieri,bombieri
+description: Enrico Bombieri is an Italian Fields medal winner, known for his work in analytic number theory, algebraic geometry, theory of several complex variables, minimal surfaces and the theory of finite groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Enrico Bombieri** is an Italian Fields medal winner, known for his work in analytic number theory, algebraic geometry, theory of several complex variables,  minimal surfaces and the theory of finite groups.
 
 ### Mathematical Profile (Excerpt):
-1. Won the Fields Medal in 1974 for his work in analytic number theory.
-2. Established the circle method, an original method of attack in analytic number theory, with which he solved various outstanding problems in the field.
-3. Helped prove the Riemann Hypothesis in the 1970s.
-4. Founded the field of arithmetic geometric complexity theory.
-5. Constructed a bridge between number theory and algebraic geometry.
-6. Resolved the dual form of a conjectured trace formula.
-7. Received the Wolf Prize in 1995 for his contributions to Number Theory.
-8. Established the mathematical foundation for the fundamental lemma of the Langlands program.
+* Bombieri studied with G Ricci in Milan and then went to Trinity College, Cambridge where he studied with H Davenport.
+* Bombieri was awarded a Fields Medal for his outstanding work at the International Congress of Mathematicians held in Vancouver in 1974.
+* Then, in 1965, Klaus Roth and Bombieri independently sharpened Rényi's results.
+* Bombieri applied his improved large sieve method to prove what is now called "Bombieri's mean value theorem", which concerns the distribution of primes in arithmetic progressions.
+* In 1966 Bombieri was appointed to a chair of mathematics at the University of Pisa.
+* Bombieri, working with de Giorgi and Giusti, proved in 1969 that for n≥8n ≥ 8n≥8 there is a minimal hypersurface with an essential singularity.
+* Bombieri's versatility and strength have combined to create many original patterns of ideas which are both rich and inspiring.
+* Bombieri was awarded the Balzan International Prize in 1980.
+* Bombieri was elected a foreign member of the French Academy of Sciences in 1984.
+* Bombieri now works in the United States.
+* In 1996 Bombieri was elected to membership of the National Academy of Sciences.
+* In addition to the awards mentioned above, Bombieri received the Feltrinelli Prize in 1976, the Cavaliere di Gran Croce al Merito della Repubblica, Italy in 2002, and the Premio Internazionale Pitagora from the City of Crotone in Italy in 2006.
+* Jointly with Walter Gubler, Bombieri was awarded the 2008 Doob Prize at the 114th  Annual Meeting of the American Mathematical Society in San Diego in January 2008.
+* The award was made for the book Heights in Diophantine Geometry jointly authored by Bombieri and Gubler.
 
 Born 26 November 1940, Milan, Italy.
 

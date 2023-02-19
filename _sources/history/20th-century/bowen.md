@@ -7,10 +7,10 @@ orderid: 1947
 title: Bowen, Robert Edward
 born: 1947
 died: 1978
-keywords: Rufus Bowen, Dynamical Systems, Equidistant Circles, Harmonic Analysis, Integral Equations, Geometrical Optics, Topological Vector Space
-description: Rufus Bowen was an American mathematician who made notable contributions to dynamical systems, harmonic analysis, integral equations, geometrical optics and topological vector space, notably the Cauchy–Goursat theorem and Euler–Poincaré formulas.
+keywords: robert edward bowen,bowen
+description: Rufus Bowen was an American mathematician who worked on dynamical systems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Rufus Bowen** was an American mathematician who worked on dynamical systems.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method of decimally equidistant circles and published his results in 1905.
-2. Conducted groundbreaking research in harmonic analysis, integral equations, and geometrical optics, publishing scholarly papers and books on these topics.
-3. Pioneered the concept of a topological vector space, and introduced related topological notions of affinity and closure.
-4. Proved the Cauchy–Goursat theorem in 1912, addressing a long-standing problem in complex variables which had puzzled mathematicians for decades.
-5. Was the first mathematician to apply the Riemann–Lebesgue theorem, which provided a new way to study Fourier series and helped form the basis for modern functional analysis.
-6. Contributed major advances to the field of differential geometry, including the introduction and proof of Euler–Poincaré formulas.
-7. Developed a new and more general form of Cauchy's integral formula and extended it to include sets of real numbers.
+* His parents were William Emery Bowen, known as Emery, and Marie Jane DeWinter.
+* Emery Bowen was the son of Wilfred Farmer Bowen and Ethel Blanche Jane Emery who had both emigrated to the United States from Abergavenny in Wales and worked as cooks on the railways.
+* She became a schoolteacher and met Emery Bowen while skiing.
+* The Bowen's second son Robert, the subject of this biography, was born one month later in Vallejo, California.
+* Robert attended elementary and high schools in Fairfield.
+* At the graduation ceremony he was awarded the University Medal as the most distinguished graduating student, the Dorothea Klumpke Roberts Prize awarded to the top ranked mathematics student, and he received the Mathematics Department Citation.
+* Let us look first at some of early papers by Bowen which were on graph theory.
+* In the first Bowen defines a type of graph, a minimal triangle graph (MTG), obtained by putting together a number of triangles.
+* As we mentioned above, Bowen was awarded his bachelor's degree by the University of California at Berkeley in 1967 and obtained a doctorate there three years later in 1970.
+* It was at this time that he changed his first name from Robert to Rufus.
+* From this point on his papers appear under the name Rufus Bowen while up to that time they had been published under the name Robert Bowen.
+* Bowen's doctoral thesis Topological Entropy and Axiom A, supervised by Stephen Smale, was on this topic and he continued to make major contributions to dynamical system theory, building on the work of Poincaré and Willard Gibbs.
+* Bowen extended Gibbs's work on invariant measures associated with dynamical systems.
+* In 1975 Bowen published the book Equilibrium states and the ergodic theory of Anosov diffeomorphisms in the Springer Lecture Notes in Mathematics Series.
+* Another short 45-page book by Bowen appeared in 1978, the year of his death.
+* Bowen died of a cerebral haemorrhage at the age of 31 while on a summer vacation with his wife to northern California.
+* Bowen worked in mathematical dynamics systems theory.
 
 Born 23 February 1947, Vallejo, California, USA. Died 30 July 1978, Santa Rosa, California, USA.
 

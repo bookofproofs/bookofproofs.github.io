@@ -7,10 +7,10 @@ orderid: 1917
 title: Fomin, Sergei Vasilovich
 born: 1917
 died: 1975
-keywords: Sergei Fomin, mathematics, topology, dynamical systems, mathematical biology, Lenin Prize, Functions Analysis
-description: Sergei Fomin, a renowned Russian mathematician, received the Lenin Prize for contributions to topology, dynamical systems and mathematical biology, including the theory of Functions Analysis.
+keywords: sergei fomin,fomin
+description: Sergei Fomin was a Russian mathematician who worked in topology and also in dynamical systems and mathematical biology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sergei Fomin** was a Russian mathematician who worked in topology and also in dynamical systems and mathematical biology.
 
 ### Mathematical Profile (Excerpt):
-1. Received a Ph.D. in Mathematics from the Moscow State University in 1950.
-2. Was awarded the Lenin Prize in 1968 for his work on the theory of singularities and the theory of real and complex functions.
-3. Developed the contemporary theory of elementary functions and proposed an algorithm to build geometric objects with required properties.
-4. Founded the theory of qualitative systems of differential equations with application to goal-seeking systems.
-5. Established the analytical theory of linear systems of differential equations and successfully applied it to the theory of optimal processes and control systems.
-6. Co-authored the famous textbook "Elements of the Theory of Functions and Functional Analysis".
-7. Created the theory of the set of limit cycles which is utilized in the theory of dynamical systems in the problems of chaos.
-8. Received the Order of the Red Banner of Labour in 1980.
+* While Fomin was still at school Chaplygin, who had spotted his talents at a young age, advised Fomin to attend lectures at Moscow University.
+* When he was still 15 years old Fomin decided that he did not wish to study at school any longer and that he would enter Moscow University at the age of 16.
+* It was not long before Fomin had proved some new results in the theory of infinite abelian groups, examining conditions for such a group to be the direct product of a periodic subgroup and a torsion free subgroup.
+* Fomin graduated in 1939 and began to undertake research at the University of Moscow under Kolmogorov's supervision.
+* Kolmogorov suggested problems in the theory of dynamical systems for Fomin to investigate, but Fomin was also advised by Aleksandrov to look at some problems in point-set topology and he also began to work in this area.
+* Aleksandrov asked Fomin to try to find a simpler proof and he succeeded with this task, the result becoming his second publication which appeared in 1940.
+* While Fomin was in Kazan in 1942 he managed to arrange with the Steklov Mathematical Institute for him to defend his thesis and he did so brilliantly.
+* When the war ended Fomin returned to Moscow University and joined Tikhonov's Department.
+* In 1964 Fomin became professor in the Department of the Theory of Functions and Functional Analysis and two years later he was appointed as a professor in the Department of General Control Problems.
+* We have already mentioned Fomin's work on topology.
+* Fomin wrote a couple of papers with Gelfand and in the first of these, also published in 1950, they apply the theory of infinite dimensional representations of Lie groups to the theory of dynamical systems.
+* In 1959 Fomin began to look at applications to mathematical biology.
+* While he was carrying out his work in mathematical biology, Fomin was also studying global analysis which he did from 1966 until his death.
+* A number of important texts written by Fomin ran into several editions and have been translated into English.
 
 Born 9 December 1917, Moscow, Russia. Died 17 August 1975, Vladivostok, Russia.
 

@@ -7,10 +7,10 @@ orderid: 1806
 title: Graves, John T
 born: 1806
 died: 1870
-keywords: John Graves, quaternions, octonions, Grapher, calculus, optimization, NCTM lifetime award
-description: Irish lawyer and mathematician John Graves inspired Hamilton's quaternions, discovered octonions, wrote and published Grapher, authored 30+ books, developed math programming, courses, and teaching approaches, and was honored with the NCTM Lifetime Award.
+keywords: john t graves,graves
+description: John Graves was an Irish lawyer and mathematician who is credited with inspiring Hamilton to discover the quaternions and with personally discovering the octonions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,93 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Graves** was an Irish lawyer and mathematician who is credited with inspiring Hamilton to discover the quaternions and with personally discovering the octonions.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote and published “Grapher”, a mathematical graphing tool developed for personal computer users. 
-2. Authored more than 30 books, including “Calculus: Graphical, Numeric, Algebraic”. 
-3. Spearheaded a college mathematics textbook series that emphasized application-oriented problem solving. 
-4. Developed online courses for mathematics instruction and textbooks for mathematics classes.
-5. Developed innovative teaching approaches for high school and college-level mathematics classes. 
-6. Performed mathematical research on topics such as mathematics education reform, linear programming, and optimization theory. 
-7. Received several awards and honors, including the National Council of Teachers of Mathematics’ Lifetime Achievement Award in 2013.
+* John and Helena Graves were married in 1806 and they had six children: John Thomas Graves, the subject of this biography; Helena Clarissa Graves (1808-1871); Robert Perceval Graves (1810-1893); James Perceval Graves (1811-1852); Charles Graves (1812-1899), who also has a biography in this archive; and Caroline Graves (1819-1855).
+* We note that Robert Perceval Graves was the author of the 3-volume work Life of Sir William Rowan Hamilton (Hodges, Figgis and Co., Dublin, 1882-1889).
+* In 1814, when John was seven years old, the family moved into a new home, a magnificent Georgian house at 12 Fitzwilliam Square, Dublin.
+* A plot on Fitzwilliam Square had been leased by Viscount Fitzwilliam to the merchant Nathaniel Calwell who employed the builder and master carpenter Richard Knight to build the houses 9 to 12.
+* The Graves family acquired number 12 and members of the family lived there throughout the 19th  century.
+* John, like his younger brother Charles Graves, was educated at a school run by the Rev Samuel Field at Westbury-on-Trym, near Bristol, Gloucestershire in England, where he was prepared for university.
+* Returning to Ireland, he entered Trinity College, Dublin, in 1823.
+* One of his fellow students was William Rowan Hamilton and the two soon became friends.
+* Hamilton had studied Clairaut's Algebra, Laplace's Mécanique Céleste Ⓣ(Celestial Mechanics) and Newton's Principia Ⓣ(Mathematical Principles of Natural Philosophy) before entering Trinity College.
+* He had also come to the attention of John Brinkley, the Andrews Professor of Astronomy at Trinity who was an excellent mathematician having studied the latest continental mathematics.
+* This friendship with Hamilton rapidly brought Graves into contact with the latest mathematics.
+* Graves was also fortunate to benefit from the mathematical reforms that Bartholomew Lloyd had introduced at Trinity almost ten years before he began his studies there.
+* Bartholomew Lloyd had become professor of mathematics at Trinity in 1813 and, taking over a department in which the teaching had been very old-fashioned with no calculus taught, he had quickly introduced the continental approach to calculus teaching from Lacroix's textbook Traité élémentaire de calcul differéntiel et du calcul intégral Ⓣ(Elementary treatise on differential and integral calculus), from Poisson's Traité de mécanique Ⓣ(Treatise on mechanics), and from Laplace's Mécanique Céleste Ⓣ(Celestial Mechanics).
+* As an undergraduate, Graves excelled in science and classics but after graduating from Trinity College, Dublin, with a B.A. in 1827 he decided that he wanted a career in law.
+* However, in 1826, while still an undergraduate, Graves had began to study complex logarithms and produced an extension of Euler's formulas for logarithms given in Introductio in Analysin Infinitorum Ⓣ(Introduction to the analysis of infinitesimals) (1748).
+* Graves felt that he had answered problems that had arisen concerning complex logarithms which had been argued over by Gottfried Leibniz and Johann Bernoulli, Leonhard Euler and Jean d'Alembert.
+* He did not publish this work until 1829 when his paper An Attempt to Rectify the Inaccuracy of some Logarithmic Formulae was published in the Philosophical Transactions of the Royal Society of London.
+* The paper, communicated by John Frederick William Herschel, was read on 18 December 1828.
+* Accordingly, the end proposed in the present investigation is the exhibition in an amended form of two fundamental developments, as principles employed in their establishment admit of application in expanding by different methods various similar functions, and tend to elucidate other parts of the exponential theory.
+* This paper produced a considerable reaction from a number of mathematicians supporting his results, and a number who objected to them.
+* Alexandre Vincent, a professor at the Royal College at Reims in France, claimed that earlier, in 1825, he had found the same results as Graves but had not published them.
+* Vincent's proof was published in 1832.
+* Martin Ohm also claimed to have arrived at the same results earlier than Graves but he had published them in Versuch eines volkommen consequenten Systems der Mathematik Ⓣ(Attempt at a perfectly consistent system of mathematics) (1823).
+* However, this work only became known in Britain when the second edition appeared in 1829.
+* Graves was disappointed to find that others had found the results earlier but even more disappointed to find that several British mathematicians claimed that his results were incorrect.
+* Both George Peacock and John Herschel expressed doubts concerning the validity of Graves' results and Peacock printed his objections in his Report to the British Association for the Advancement of Science in 1833.
+* Hamilton, however, strongly supported Graves' results and when he spoke at the 1834 meeting of the British Association for the Advancement of Science in Edinburgh, he offered another proof of the results.
+* Hamilton presented the paper On Conjugate Functions or Algebraic Couples, as tending to illustrate generally the Doctrine of Imaginary Quantities, and as confirming the Results of Mr Graves respecting the existence of Two independent Integers in the complete expression of an Imaginary Logarithm.
+* which is more general than the usual expression.
+* Augustus De Morgan expressed doubts about the correctness of the results in 1836 and, in the same year Graves replied to De Morgan by publishing in the Philosophical Magazine an alternative and shorter proof in his paper On the lately proposed logarithms of unity, in reply to Professor De Morgan.
+* However, Peacock was still not convinced and had published a "proof" that Graves was wrong in his Treatise on Algebra of 1830.
+* Duncan Farquharson Gregory pointed out the error in Peacock's "proof" in 1837 so, in the second edition of his Treatise on Algebra in 1845, Peacock admitted his error and gave a proof of Graves' result.
+* We have moved well ahead to complete the story of Graves' 1826 results on complex logarithms which took nearly 20 years before all were happy with it.
+* Let us return to looking at Graves' career after he graduated and had decided to study law.
+* After graduating from Trinity College, Dublin, he moved to the Inner Temple in London to gain legal qualifications.
+* He gave his address as the Inner Temple when he submitted his logarithm paper to the Royal Society of London in 1828.
+* Back in Ireland, he continued his legal training and entered the King's Inns, Dublin in 1830.
+* Moving to Oxford, he became an incorporated member of Oriel College on 11 November 1830 and was awarded an M.A. in the following year.
+* Later in 1831 he was called to the English bar as member of the Inner Temple.
+* In 1832 he was awarded an M.A. by Trinity College, Dublin.
+* For the next few years Graves practised law.
+* Graves was not too happy as a lawyer and applied for a position with the Irish Society.
+* He was unsuccessful and wrote a letter to James David Forbes (1809-1868), who was at that time professor of Natural Philosophy at the University of Edinburgh.
+* The letter, dated 11 March 1838, was sent from Graves' chambers at 20 Southampton Buildings, Chancery Lane, London.
+* In 1839 Graves was appointed as a Professor of Jurisprudence at University College, London.
+* In the same year he was elected a fellow of the Royal Society of London.
+* Soon after taking up his professorship, Graves was elected as an examiner in laws for the University of London.
+* Working at University College London, Graves was now a colleague of Augustus De Morgan and the two became close friends.
+* The Society for the Diffusion of Useful Knowledge had been set up by the same reformers who founded London University and De Morgan was an enthusiast for the Society.
+* Graves and De Morgan served together on the Society's committee.
+* Graves had certainly not given up mathematics but had continued to correspond with Hamilton.
+* In fact his early work on logarithms was undertaken since he believed that it might lead to the discovery of new imaginary numbers.
+* Graves' ideas regarding possible new complex numbers continued and he tried to multiply lines in space given by triples.
+* In corresponding with Hamilton and telling him about his ideas in this area, he kept Hamilton's interest in generalising complex numbers to three dimensions.
+* The reason that it was Graves that he turned to first was, as Hamilton explained in a letter to the Philosophical Magazine on 20 November 1844, because his discussions with Graves had played an important role in the discovery.
+* In this letter Hamilton mentions some extensions of the quaternions which had been discovered by Graves.
+* In a letter of somewhat earlier date, but evidently written in haste, upon a journey, and dated December 26th , 1843, analogous expressions had been given, containing, however, some errors in the signs, which were soon afterwards corrected as above.
+* The octaves, which are mentioned in this quote, are today called the octonions or Cayley numbers and not, as one might expect, the Graves numbers.
+* The events which led to this are as follows.
+* Hamilton was too busy to report on Graves' findings until after the same 8-dimensional system had been constructed by Arthur Cayley and published in March 1845.
+* The quote above, which shows Graves' priority, was not published until 14 June 1847.
+* This note contains Graves' Eight Squares Identity but even this remarkable result, which generalised Euler's Four Squares Identity, had been discovered before.
+* The Danish mathematician Ferdinand Degen (1766-1825) seems to have been the first to discover this result in Adumbratio demonstrationis theorematis arithmeticae maxime generalis Ⓣ(Outline of the demonstration of the most general arithmetical theorem) (1818) which he published in the Mémoires de l'Académie Impériale des Sciences de St Pétersbourg.
+* As an aside, we note that Degen was the mathematician to whom the young Niels Henrik Abel submitted his "solution" of the quintic equation.
+* Degen asked Abel to give an example of his method and at that stage Abel himself discovered his error.
+* Graves seems to be one of those people who made remarkable discoveries but luck was against him and he has almost been forgotten.
+* At University College, London, Graves continued to seek systems of algebraic triplets even after Hamilton had discovered the quaternions.
+* On 25 April 1845 the first of twelve lectures by Graves on the law of nations were published in the Law Times.
+* two elaborate articles contributed to the 'Encyclopaedia metropolitana' on Roman law and canon law.
+* He was also a contributor to Smith's 'Dictionary of Greek and Roman Biography', his articles including very full lives of the jurists Cato, Crassus, Drusus, and Gaius, and one on the legislation of Justinian.
+* On 24 March 1846 Graves married Amelia Tooke, the daughter of William Tooke and Amelia Shaen.
+* They had no children.
+* William Tooke was a lawyer who become President of the Society of Arts.
+* Before his marriage Graves had resigned his chair of Jurisprudence at University College, London, giving as the reason for his resignation the 'discouragingly low enrolment for his classes'.
+* He stated that his lectures on Roman law, on international law and on general jurisprudence had been poorly attended in contrast with his lectures on practical topics such as the law of equity.
+* In the same year that he married he was appointed as an assistant poor-law commissioner.
+* In 1847 he was promoted to one of the poor-law inspectors of England and Wales, a position which came into existence because of the Poor Laws that came into force in that year.
+* He is immensely strong on your point of teaching the science of Observation to all men, especially the young of all classes, and he has reported the same to the Government in perhaps the very words you would have used.
+* This letter by Hooker does not mean that Graves had changed his profession since we see that Graves continued to write reports as a poor-law inspector up to at least 1866.
+* There is one aspect of Graves' life which we have not mentioned so far and that was his life-long hobby as a collector of ancient mathematical texts.
+* He bequeathed his collection to University College London, three days before he died at his home, Thirlestaine Lodge in Cheltenham at the age of sixty-three.
+* Described as probably the most important private mathematical collection ever made, it contains many rare and possibly unique items.
+* Probably the most important single collection within the Graves material is the Euclid collection, which contains eighty-three of the editions of Euclid's works printed before 1640.
+* The collection includes the 'editio princeps' published by Erhard Ratdolt at Venice in 1482, and amongst the translations are the first into any modern language, the Italian of 1543, the first German translation (1562), the first French (1564), John Day's edition of the first English translation with John Dee's preface of 1570, the first edition in Arabic (1594) and later translations into Turkish, Chinese, Persian, Hebrew, Finnish and many other languages.
+* The Graves collection includes seventy-five of the Library's incunabula and many famous books such as first editions of Copernicus's 'De revolutionibus' of 1543, Newton's 'Principia' and 'Opticks', and Thomas Salusbury's 'Mathematical Collections' of 1661-65.
+* There are first editions of fascinating "association copies" of the works of Priestley, Boyle, Kepler, Galileo, and Napier and important runs of early scientific periodicals.
+* There are also many treasures such as Henry Cavendish's copy of Pascal's 'Traité de l'équilibre des liqueurs' of 1663 and, of special note, a copy of Galileo's 'Il Saggiatore', published in Rome in 1623 and inscribed to Galileo's friend Morandi.
 
 Born 4 December 1806, Dublin, Ireland. Died 29 March 1870, Cheltenham, England.
 

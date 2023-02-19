@@ -7,10 +7,10 @@ orderid: 1915
 title: Povzner, Aleksandr Yakovlevich
 born: 1915
 died: 2008
-keywords: spectral theory, nonlocal problems, Reynolds number, convex analyticity, Ostrogradsky equation, interval analysis, Galois theory
-description: Aleksandr Povzner developed mathematical theories for nonlocal problems such as convex analyticity and Ostrogradsky equation, and also used interval analysis and Galois theory to formulate theorems.
+keywords: aleksandr yakovlevich povzner,povzner
+description: Aleksandr Povzner was a Ukranian-born mathematician who worked in the spectral theory of differential operators.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Aleksandr Povzner** was a Ukranian-born mathematician who worked in the spectral theory of differential operators.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered mathematical results for the study of nonlocal problems, such as those in electrochemical processes and the flow of incompressible fluids.
-2. Developed the idea of decomposing the flow into two components, which enabled the study of viscous flows with a high Reynolds number.
-3. His ideas on the theory of convex analyticity laid the groundwork for the development of modern geometrical methods for nonlinear analysis.
-4. Formulated a special algebra for the treatment of systems of linear second-order differential equations.
-5. Developed an intuitive method that relies on graphical representations of solutions to the Ostrogradsky equation.
-6. Demonstrated the use of interval analysis to solve the problem of computing capillary pressure.
-7. Established the structure of universal algebra and the associated Galois theory. 
-8. Proved the double-periodicity theorem, demonstrating that the Riemann zeta function was periodic in the complex number space. 
-9. Formulated a new branch of mathematics called “normal algebra” that links algebraic and analytic concepts.
-10. Developed the Morozov theorem, a fundamental result in differential topology relating the structure of homology groups to the structure of spaces.
+* At this time Poltava had a large Jewish community of which the Povzner family were a part.
+* Aleksandr was brought up in Poltava where he attended a seven-year school and then a school for metal workers.
+* Povzner spent much time with Chebotaryov in Kazan while undertaking research in algebra.
+* Povzner solved this in the case of abelian groups in his first published paper.
+* Chebotaryov gave Povzner and interest in Lie groups and he published On binomial Lie groups (1938) which gave a system of axioms defining a binomial Lie group.
+* Following the award of his Master's degree, Povzner was appointed as a lecturer in the Department of Algebra of the University of Kharkov in 1938.
+* Levitan, who was one year older than Povzner, had been both an undergraduate and a graduate student at the University of Kharkov before being appointed as a professor in 1941.
+* Both Levitan and Povzner were serving in the army when they collaborated on their joint paper.
+* After being demobilised from the army, Povzner returned to take up his teaching position at the University of Kharkov and submitted his doctoral dissertation (equivalent to the German habilitation) to Moscow State University.
+* After his appointment to the University of Kharkov in 1946, Povzner continued to teach there until 1960 when he took up a position in the Institute of Chemical Physics of the USSR Academy of Sciences.
+* The years during which he worked at Kharkov were ones during which the mathematical school there blossomed due not only to Povzner but also to Naum Il'ich Akhiezer and Vladimir Aleksandrovich Marchenko.
+* In addition to the work we have already mentioned, we note that Povzner was the first to apply the technique of transformation operators of Volterra type to spectral theory in 1948.
+* Let us look now at an important book which Povzner wrote in collaboration with V N Bogaevskii, namely Algebraic methods in nonlinear perturbation theory.
 
 Born 27 June 1915, Poltava, Ukraine. Died 21 April 2008, Washington, D.C., USA.
 

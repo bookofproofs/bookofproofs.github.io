@@ -7,10 +7,10 @@ orderid: 1939
 title: Swart, Hendrika
 born: 1939
 died: 2016
-keywords: Henda Swart, Mathematics, Stellenbosch University, KwaZulu-Natal, Utilitas Mathematica, Afrikaans, IMO
-description: Henda Swart was the first person with a doctorate in mathematics from Stellenbosch University; she developed Afrikaans mathematics publications, led teaching for international students, judged the IMO, wrote textbooks, and founded the SA Mathematical Society.
+keywords: hendrika swart,swart
+description: Henda Swart was the first person to be awarded a doctorate in mathematics from Stellenbosch University. She worked on the geometry of projective planes and graph theory. She became professor of mathematics at the University of KwaZulu-Natal and served as editor-in-chief of the journal Utilitas Mathematica.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Henda Swart** was the first person to be awarded a doctorate in mathematics from Stellenbosch University. She worked on the geometry of projective planes and graph theory. She became professor of mathematics at the University of KwaZulu-Natal and served as editor-in-chief of the journal _Utilitas Mathematica_.
 
 ### Mathematical Profile (Excerpt):
-1. Hendrika Swart wrote the first mathematics textbook in Afrikaans, titled "Mathematics Simple Explanations", in 1965.
-2. She was the founding editor of the Afrikaans mathematics journal, "Gedenkboek", in 1966.
-3. She established a mathematics education division at the University of Pretoria, which conducted mathematics education research, in 1973.
-4. She pioneered work in the teaching of mathematics for foreign students and developed a course for these students at the University of Pretoria, in 1974.
-5. She was part of the first South African acceptance of the International Mathematical Olympiad, as a judge in 1977.
-6. She co-authored the book “Mathematics For Everyman”, which served as a pioneering textbook in the field of mathematics, in 1982.
-7. She served as the first President of the SA Mathematical Society, in 1983.
-8. She established the G.A. Swart Mathematics Prize, an annual mathematics award sponsored by the University of Pretoria, in 1993.
+* She was named Hendrika Cornelia Scott and only became known as Henda Swart after her marriage to the mathematician John Henry Swart (1940-2012).
+* It was at university that she met John Henry Swart who, after undergraduate studies, earned an M.Sc. from the University of Stellenbosch.
+* Let us note at this point that Henda and her husband John Henry Swart had three children, Christine, Sandra and Gustav.
+* In addition to teaching at the University of Natal, Swart undertook part-time studies at the University of Stellenbosch aiming at writing a geometry thesis to obtain her doctorate.
+* Swart's degree was the first D.Sc. in mathematics awarded by the University of Stellenbosch.
+* Swart spent a sabbatical leave at the University of New Mexico, Albuquerque, New Mexico, USA.
+* Swart thought that these were exercises for the class and attempted to solve them but was surprised to find that she could not solve some of them.
+* Entringer was, however, very impressed with the progress that she had made and this led to a joint publication by Swart and Entringer, Spanning cycles of nearly cubic graphs (1980).
+* The date on this paper is slightly confusing since the two authors submitted it for publication in July 1977 while Swart was at the University of New Mexico.
+* While on sabbatical at Westfield College, London, Swart met a mathematics student Klaus Vedder.
+* The two papers we have just mentioned are the first of nearly 100 papers on graph theory which Swart has written.
+* The Society's website gives the following information about Swart.
+* Many of Swart's students have explained how positive she was in their development as mathematicians.
+* This special person was Professor Henda Swart of the mathematics department of the University of Natal.
+* From 2014 until her death, Swart lectured part-time at the University of Cape Town.
 
 Born 1939, South Africa. Died 23 February 2016, South Africa.
 

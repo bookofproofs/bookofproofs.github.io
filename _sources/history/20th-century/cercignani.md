@@ -7,10 +7,10 @@ orderid: 1939
 title: Cercignani, Carlo
 born: 1939
 died: 2010
-keywords: Carlo Cercignani, kinetic theory, hyperbolic geometry, Euler equations, Boltzmann's equation, gas dynamics, finite-difference
-description: Carlo Cercignaniwas an Italian mathematician renowned for his groundbreaking work on kinetic theory, hyperbolic geometry, Euler equations, Boltzmann's equation and gas dynamics.
+keywords: carlo cercignani,cercignani
+description: Carlo Cercignani was an Italian mathematician known for his work on the kinetic theory of gases.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Carlo Cercignani** was an Italian mathematician known for his work on the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote “Lectures on Hyperbolic Geometry” (1959) and “Boltzmann's Gift to Science” (1976), providing insights on non-Euclidean geometries.
-2. Pioneered work on the Euler equations of gas dynamics (1962-1964), gaining a deep understanding of the mathematical models underlying the motion of a compressible viscous fluid.
-3. Developed a method to solve the problem of Boltzmann's equation (1964-1966) which allowed for a better understanding of phenomenon at the molecular level.
-4. Authored over 70 mathematical papers, dealing with the stability theory and numerical methods of the solutions of gas dynamics equations.
-5. Systematized the mathematical theory for a broad range of transport equations necessary to describe the behavior of a fluid (1968).
-6. Developed the theory of finite-difference methods for the Boltzmann equation (1971-1980).
-7. Published “Mathematical Theory of Dilute Gases” (1972) which opened the use of mathematical models to understand the behavior of gases.
+* Carlo's brother, Fausto, who became a renowned essayist, poet and professor of German literature, was born in 1941 also in Sardinia.
+* However the family soon returned to Tuscany and Carlo spent his early years in Pisa, where he attended a Liceo classico, before moving to Milan where he undertook university studies.
+* Interrupting his work on a difficult theorem, he would suddenly begin to translate Jorge Luis Borges, William Shakespeare, Raymond Queneau, Charles Baudelaire, Stéphane Mallarmé or the Milanese dialect of "La Ninetta del Verzee" by Carlo Porta.
+* Cercignani met Silvana Galdabini, a physics student, while she was studying at Milan.
+* Returning to Carlo Cercignani's career, he was appointed as a teaching and research assistant at the University of Milan, but over the following few years spent time at a number of foreign institutions, in particular at the Massachusetts Institute of Technology, the University of California, Berkeley, and the Courant Institute of Mathematical Sciences in New York.
+* As a mathematician, Cercignani obtained important results in the theory of Partial Differential Equations, Semigroup Theory, Monte-Carlo Methods, Spectral Theory, Riemann-Hilbert Problems, Fourier Analysis, and Functional Analysis.
+* Cercignani devoted a particular attention to the H-theorem, and to the problem of how macroscopic, irreversible evolution equations can follow from microscopic, reversible motion equations.
+* Cercignani has been one of the most active researchers of the Boltzmann equation and related topics.
+* The second half of the last century were very auspicious for kinetic theory and Carlo Cercignani was always among its most important contributors.
+* Since Cercignani published eight books and over 300 research articles, it is impossible here to give an adequate overview of the range of his contributions.
+* In 45 years of research, the Boltzmann equation led Carlo to work in theoretical mechanics, partial differential equations, numerical analysis, semigroup theory, spectral theory, Riemann-Hilbert problems, Fourier analysis, and many other areas.
+* Let us look at some of Cercignani's books which he began to write surprisingly early in his career.
+* Cercignani moved to writing historical and biographical material in Ludwig Boltzmann e la meccanica statistica (1997).
+* Cercignani received many honours for his wide-ranging contributions to mathematics and physics.
+* Carlo Cercignani has contributed much to the international life of the science community, especially during his terms on the Council of the European Society of Mechanics (EUROMECH) and the General Assembly of the International Union of Theoretical and Applied Mechanics (IUTAM).
+* Carlo describes how after death he very joyfully goes to heaven.
+* But strangely enough, the chorus of the angels he hears is a little monotonous, and Carlo cannot refrain from telling them.
+* Requested by Beethoven to give his opinion about his music, Carlo refrains from speaking, but then, as Beethoven insists, with great humility admits he would have expected some more sublime music.
 
 Born 17 June 1939, Teulada, Sardinia, Italy. Died 7 January 2010, Milan, Italy.
 

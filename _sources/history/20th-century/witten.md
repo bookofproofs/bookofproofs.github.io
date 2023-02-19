@@ -7,10 +7,10 @@ orderid: 1951
 title: Witten, Edward
 born: 1951
 died: 0
-keywords: Edwards Witten, Fields Medal, mathematics, quantum field theory, M-theory, Calabi-Yau Manifold, quantum gravity
-description: Edward Witten: Mathematician, Fields Medal recipient (1990), Crafoord Prize (2008) and National Medal of Science (1999). Creative in quantum field theory and quantum gravity.
+keywords: edward witten,witten
+description: Edward Witten is an American mathematician who won a Fields Medal for his work on quantum field theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Witten** is an American mathematician who won a Fields Medal for his work on quantum field theory.
 
 ### Mathematical Profile (Excerpt):
-1. Received the Fields Medal in 1990 for his work in mathematics.
-2. Received the Crafoord Prize in 2008 for his work in fields of mathematics and physics.
-3. Awarded the National Medal of Science in 1999 for his contributions in mathematics and physics.
-4. Founded the proposal of M-theory in 1995, which is a theory that unifies all the five superstring theories.
-5. Solved a three-decade-old mathematical dilemma using a theory based on a combination of algebraic geometry and topology.
-6. Constructed the solution of the Calabi–Yau Manifold Transformation. 
-7. Introduced a new perspective on the orthodox formulation of quantum field theory in the early 1980s. 
-8. Contributed significantly to the current understanding of quantum gravity.
+* His mother was Lorraine W Witten while his father, Louis Witten, was a theoretical physicist specializing in gravitation and general relativity.
+* His brother, Matt Witten, has achieved fame as a screenwriter and television producer.
+* Witten studied at Brandeis University and received his B.A. in 1971.
+* After completing his doctorate, Witten went to Harvard where he was postdoctoral fellow during session 1976-77 and then a Junior Fellow from 1977 to 1980.
+* In September 1980 Witten was appointed professor of Physics at Princeton.
+* Basically Witten is a mathematical physicist and he has a wealth of important publications which are properly in physics.
+* In his study of these areas of theoretical physics, Witten has achieved a level of mathematics which has led him to be awarded the highest honour that a mathematician can receive, namely a Fields Medal.
+* The Proceedings of the Congress contains two articles describing Witten's mathematical work which led to the award.
+* The first major contribution which led to Witten's Fields Medal was his simpler proof of the positive mass conjecture which had led to a Fields Medal for Yau in 1982.
+* Witten explains that "supersymmetric quantum mechanics" is just Hodge-de Rham theory.
+* It is a measure of Witten's mastery of the field that he has been able to make intelligent and skilful use of this difficult point of view in much of his subsequent work.
+* Another piece of new mathematics stemmed from Witten's papers on global gravitational anomalies.
+* In recent years, Witten focused his attention on topological quantum field theories.
+* This is the case with Witten's work.
+* Witten has received an amazingly long list of awards, in addition to the Fields Medal, which shows the exceptionally high regard in which his contributions are held.
 
 Born 26 August 1951, Baltimore, Maryland, USA.
 

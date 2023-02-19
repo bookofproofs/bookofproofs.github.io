@@ -7,10 +7,10 @@ orderid: 1906
 title: Roy, Samarendra Nath
 born: 1906
 died: 1964
-keywords: Samarendra Nath Roy, mathematics, statistics, gravitation, mathematical physics, Indian Mathematical Society, Royal Society of London
-description: Samarendra Nath Roy was a mathematical genius; he developed a new math system and a theory of gravitation, solved complex problems in mathematical physics and was recognised by the Indian Mathematical Society and the Royal Society of London.
+keywords: samarendra nath roy,roy
+description: Samarendra Nath Roy was an Indian-born American mathematician and an applied statistician.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Samarendra Nath Roy** was an Indian-born American mathematician and an applied statistician.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an entirely new mathematical system, which was used to theoretically estimate the mass of a star.
-2. Developed a theory of gravitation which later became an important part of the general theory of relativity.
-3. Solved a range of complicated problems in mathematical physics, including topics on energy and motion of stars.
-4. Published several groundbreaking papers on new mathematical techniques in international scientific journals.
-5. Received recognition from the Indian Mathematical Society for his outstanding work on mathematics. 
-6. Was the first Indian to be elected as a fellow of the Royal Society of London in recognition of his mathematical discoveries.
+* Samarendra Nath was the oldest of his parents two children.
+* Kali Nath Roy was brought before the Martial Tribunal under Lieutenant Colonel Irvine and was sentenced to rigorous imprisonment for two years and a fine of Rs 1,000.
+* All this occurred while Samarendra Nath was studying at the Khulna District School.
+* After completing work for his Master's Degree, Roy was appointed as a Research Associate in the Applied Mathematics Department of Calcutta University to work on cosmology with N R Sen.
+* Roy was allowed to use the computing facilities in the Indian Statistical Institute, which were the only such facilities available in Calcutta.
+* The Institute was run by P C Mahalanobis and soon Roy became interested, not only in solving his cosmological problems, but also in the statistical work of the Institute.
+* Roy soon gained important positions within the Statistical Institute and the Statistics Department, being assistant director of the former from 1946 to 1949 and acting Head of the Statistics Department during 1947-48.
+* Roy travelled to the United States in the spring of 1949 to take up a Visiting Professorship of Statistics at Columbia University in New York.
+* He published Some aspects of multivariate analysis in 1957, a book which brought together many of the ideas Roy had published.
+* Roy made it his duty to visit my family to tell them of my progress and to reassure them of my well-being and a reasonable future.
+* Roy received many honours for his outstanding contributions.
+* In 2007 a special issue of the Journal of Statistical Planning and Inference was published in celebration of the centennial of the birth of Samarendra Nath Roy.
+* Roy was married to Bani Roy; they had four children, Prabir, Subir, Tapon and Sunandra Roy.
 
 Born 11 December 1906, Calcutta, (now Kolkata) India. Died 23 July 1964, Jasper, Canada.
 

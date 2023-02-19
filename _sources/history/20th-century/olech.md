@@ -7,10 +7,10 @@ orderid: 1931
 title: Olech, Czeslaw
 born: 1931
 died: 2015
-keywords: Czesław Olech, non-standard analysis, continued fractions, algebroid, measure theory, orthogonal functions, Olech-Sierpiński theorem
-description: Czesław Olech is a Polish mathematician remembered for his discoveries of the Olech-Sierpiński theorem and introducing algebroid to analytic geometry. He also worked in differential equations, control theory and trigonometry.
+keywords: czesław olech,olech
+description: Czesław Olech was a Polish mathematician who worked in differential equations and control theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Czesław Olech** was a Polish mathematician who worked in differential equations and control theory.
 
 ### Mathematical Profile (Excerpt):
-1. Czesław Olech is best remembered for his 1964 discovery of the Olech-Sierpiński theorem, which states that any simply connected region in the Euclidean plane is bounded by a set of curves.
-2. Olech was an early pioneer in the study of non-standard analyses, an alternative form of analysis which broadens the scope of the traditional Calculus. 
-3. He also developed a new method of representing functions with continued fractions.
-4. Olech among the first to use multidimensional continued fractions and studied their applications in approximating real functions. 
-5. He is also credited with introducing the concept of algebroid, or polynomial limbors, to analytic geometry and the study of automorphic functions. 
-6. He solved a thirty year old problem concerning the uniqueness of orthogonal functions in an open set. 
-7. Olech is credited with developing the theory of measure, producing important work on the theory of trigonometric functions, and is remembered for discovering the Olech-Sierpinski theorem.
+* The two-pronged attack - the Germans from the west and the Russians from the east - quickly defeated the Polish army and the district that Olech was living in was occupied by German forces.
+* It was in Kielce that Olech attended the specialist mathematical school, entering the Stefan Zeromski High School there in 1947.
+* After passing the maturity examination, Olech still had no very definite aims concerning the subjects he wanted to study.
+* Olech enjoyed all three courses, which were well delivered, but he had special praise for Ważewski's style of lecturing: the most vibrant of the three, and the class had to be very alert since he often addressed questions to his audience.
+* Olech not only had excellent teachers, he also had some exceptionally talented fellow students.
+* After completing the three-year first degree, Olech was accepted onto the course leading to a Master's Degree (essentially equivalent to a doctorate).
+* He worked at the University of Science and Technology in Kraków and he offered Olech a job as his assistant.
+* Olech accepted and began working for  Gołąb on 18 August 1952.
+* Let us add that the joint  Gołąb-Olech paper, entitled Contribution à la théorie de la formule simpsonienne des quadratures approchées Ⓣ(Contribution to the theory of approximate Simpson's quadrature formula), was published in French and appeared in 1954.
+* Also note that the Rector of the University of Science and Technology, who presented Olech with his award, was the engineer and geologist Zygmunt Kowalczyk (1908-1985).
+* After being awarded a three-year scholarship to undertake research, Olech had to give up his position as an assistant at the University of Science and Technology.
+* This aspect of the doctoral course put some students off completing their doctorates, for example Olech's fellow student Jan Bochenek gave up his doctorate rather than study these lectures.
+* Olech married Jadwiga Jastrzebska, who was a mathematician and teacher.
+* This led to Lefschetz inviting Olech to spend a year in the United States.
+* Olech spent the academic year 1960-61 at the Research Institute of Advanced Studies (RIAS) in Baltimore where Lefschetz was director.
+* During Olech's year at Princeton, Lawrence Markus lectured on problems of global stability of differential equations and Olech was able to generalise some of the results.
+* Returning to Poland in 1961, Olech worked on his habilitation thesis which he submitted in the following year.
+* However, we mentioned above that Olech and his wife had five children.
+* Olech became the first director of this International Mathematical Centre, a position he held until 1991.
+* In 1979 Olech became a member of the Executive Committee of the International Mathematical Union.
+* Olech was chairman of the Polish Organizing Committee for the Congress which was responsible for all the arrangements.
+* Olech had not only succeeded in ensuring that the Congress go ahead as planned in 1983 but he had also saved the International Mathematical Union from a damaging situation.
+* At the opening ceremony of the Congress, which took place in the Palace of Culture on 16 August 1983, Olech was elected President of the Warsaw Congress.
+* In the case of Czeslaw Olech's results one should not ask for the number of citations (although some of them have an impressive number), because some of his results are already treated as being classic so do not require precise references.
+* Olech has received many honours for his outstanding contributions to mathematics.
 
 Born 22 May 1931, Pińczów, Poland. Died 1 July 2015, Warsaw, Poland.
 

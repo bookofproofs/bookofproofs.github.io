@@ -7,10 +7,10 @@ orderid: 1842
 title: Basso, Giuseppe
 born: 1842
 died: 1895
-keywords: Giuseppe Basso, Basso-Lax Theorem, spin angular momentum, algebraic geometry, quantum mechanics, heat transfer, harmonic mappings
-description: Giuseppe Basso was an Italian physicist and mathematician who developed the Basso-Lax Theorem and made important discoveries in spin angular momentum, algebraic geometry, quantum mechanics, heat transfer, and harmonic mappings.
+keywords: giuseppe basso,basso
+description: Giuseppe Basso was an Italian physicist and mathematician who produced some important results in mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giuseppe Basso** was an Italian physicist and mathematician who produced some important results in mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Basso-Lax Theorem, which determines the total average spin angular momentum of a system of ferromagnets.
-2. Discovered a new method for calculating the spin angular momentum of an atomic system.
-3. Established the relationship between algebraic geometry and quantum mechanics.
-4. Created a mathematical theorem which established a closed form solution of a particular system of equations.
-5. Investigated the dynamics of spin systems in a number of different disciplines, such as magnetism and particle physics.
-6. Developed a new theory of heat transfer in the presence of electromagnetic fields. 
-7. Extended the theory of conformal mappings and established the concept of ordered harmonic mappings. 
-8. Applied harmonic analysis and partial differential equations to the study of electromagnetic fields in infinite domains. 
-9. Constructed a representation of arbitrary harmonic mappings and established conditions for their existence. 
-10. Proved the existence of an outer solution to the Navier-Stokes equation which describes the large-scale motion of fluids.
+* Giuseppe's father was a tailor and their home was also the tailor's workshop.
+* Giuseppe's determination to succeed at his studies and the encouragement of his teachers persuaded his parents to make the necessary sacrifices to allow him to continue beyond the stage where he could have left school and become a full-time worker in the tailor's workshop.
+* When there were no courses over the summer, Basso would return to Chivasso and help out in the tailor's workshop much to his father's relief.
+* As an undergraduate Basso had gained a high reputation among his fellow students and also among the professors who taught him.
+* Once he began teaching at the University, Basso's career progressed rapidly and he published Sull'uffizio della matematica nelle scienze sperimentali Ⓣ(On using mathematics in the experimental sciences) in 1895.
+* The professor of experimental physics at the University of Turin was Gilberto Govi (1825-1889) and he was frequently absent from the University and on these occasions Basso substituted for Govi.
+* The help he was able to give Govi quickly added to their warm friendship and so Basso was given the opportunity of doing some experimental physics in Govi's laboratory.
+* In 1866 a decree of the Minister of War allowed Basso a few month's leave from the Military Academy which gave him the opportunity to work on a Nota intorno alla determinazione di temperature molto elevate mediante un procedimento calorimetrico analogo a quello seguito da Byström Ⓣ(Note on the determination of very high temperatures using a similar calorimetric procedure to that followed by Bystrom) which he published in the Memoirs of the Turin Academy of Sciences in 1867.
+* Chiò had kept the style of the mathematical physics courses much as Avogadro, and the material covered was relatively elementary with many topics considered as part of mathematical physics by the time Basso was appointed not being included.
+* Basso took over responsibility for teaching mathematical physics, being appointed a temporary professor of that topic in 1866.
+* Basso was able to make many significant changes, however, but his efforts on teaching meant that for some time he was not able to find the necessary time for major research projects.
+* In fact, not only was physical optics brought into the syllabus, but it also became the main research topic for Basso.
+* Chiò died in 1871 and in the following year Basso was appointed to be the permanent head of mathematical physics, having held the professorship for the previous five years only on a temporary basis.
+* Basso, in addition to heading the department of mathematical physics, also acted as a substitute for Govi in experimental physics.
+* The two years 1876-78 were particularly difficult for Basso who, in addition to being in charge of Mathematical Physics and of Experimental Physics at the University, was recalled to teaching at the Military Academy in January 1876.
+* Remarkably, these two years of very heavy teaching and administrative duties saw the beginning of a period of intense research activity by Basso.
+* One of the reasons for this was that with Govi having left Turin, Basso had full use of the physics laboratory.
+* Between 1877 and 1880 Basso had ten papers published, three in 1877, two in 1879, and five in 1880.
+* Not only did Basso's career move forward at the University of Turin, but he was also promoted at the Military Academy.
+* In addition to important papers on optics and other branches of mathematical physics including magnetism, Basso wrote a number of important obituaries including those of Victor Regnault (1810-1878), Gustav Robert Kirchhoff, Rudolf Clausius, Gilberto Govi (1825-1889) Wilhelm Weber, James Prescott Joule (1818-1889), and Enrico Betti.
+* However, Galileo Ferraris explains that Basso denied himself the comforts and luxuries he might have sought and, despite his love of beauty and culture, he denied himself the pleasures offered by theatres and other city art institutions.
+* Basso received many honours.
+* And we, still astonished and disbelieving, oh! how often we feel in our hearts a gasp, and a shudder in our veins, if in the evening, at the bend in the road, there is present in the shadow, a figure that we remember, the one that always we expect to see, the figure of our poor friend Basso!
 
 Born 9 November 1842, Chivasso, Turin, Kingdom of Sardinia (now Italy). Died 28 July 1895, Turin, Italy.
 

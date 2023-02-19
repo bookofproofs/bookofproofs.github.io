@@ -7,10 +7,10 @@ orderid: 1859
 title: Heun, Karl
 born: 1859
 died: 1929
-keywords: Heun differential equation, numerical method, Heun's series, linear differential equations, Abel's equation, potential theory, Heun transformation
-description: Karl Heun (1880) developed Heun's Method to solve nonlinear differential equations and made contributions to the theory of linear differential equations, Abel's equation and potential theory. He also discovered the Heun transformation, a geometric transformation.
+keywords: karl heun,heun
+description: Karl Heun was a German mathematician best known for the Heun differential equation which generalises the hypergeometric differential equation.
 references: bookofproofs$6909
-contributors: @Wolf-Dieter-Lang,bookofproofs,@ChatGPT
+contributors: @Wolf-Dieter-Lang,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @Wolf-Dieter-Lang,bookofproofs,@ChatGPT
 **Karl Heun** was a German mathematician best known for the _Heun differential equation_ which generalises the hypergeometric differential equation.
 
 ### Mathematical Profile (Excerpt):
-1. Developed Heun's Method, a numerical method for solving nonlinear differential equations, in 1880.
-2. Researched elliptic functions and complex functions as they related to group theory.
-3. Developed Heun's series, an analytical approach to solving certain differential equations.
-4. Contributed to the theory of linear differential equations and their applications to mathematics problems.
-5. Discovered a special case of Abel's equation, now referred to as "Heun's equation," in 1890.
-6. Published several papers related to potential theory, which provided a basis for theoretical physics.
-7. Discovered the Heun transformation, a geometric transformation used in the study of algebraic curves.
-8. Introduced the use of polynomials to solve different types of equations.
-9. Developed a method of solving linear differential equations using series expansions.
-10. Contributed to the study of elliptic functions and their integrals.
+* Heun stayed in Halle only between April and October 1880, probably due to the deteriorating health of Heine who died in 1881.
+* Heun then moved to England and taught for two and a half years (1883-1885) at the Public School in Uppingham.
+* In 1900 Heun was honoured with the title professor, and in 1902 he was nominated as first candidate for the vacant chair in technical mechanics at Technische Hochschule Karlsruhe.
+* Heun accepted this offer and stayed in Karlsruhe until his death in 1929.
+* In 1883 Heun had married a widow Henriette Jatho (née Bock) with two children Alfred and Paul Jatho; together they had a son Howard (1884-1902) and a daughter Charlotte (1891-1948).
+* His assistants in Karlsruhe were Georg Hamel (from 1902 to 1905), Max Winkelmann (from 1905 to 1911) and Fritz Noether (from 1911 to 1918).
+* Kurt von Sanden was his student from 1905 to 1909, and he became Heun's successor in 1923.
+* Heun did not recover from a stroke he suffered in 1921 and retired in 1922.
+* The Heun equation is a second order linear differential equation of the Fuchsian type with four singular points.
 
 Born 3 April 1859, Wiesbaden, Germany. Died 10 January 1929, Karlsruhe, Germany.
 

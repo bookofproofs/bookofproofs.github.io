@@ -7,10 +7,10 @@ orderid: 1889
 title: Daniell, Percy John
 born: 1889
 died: 1946
-keywords: mathematics, integration, equations, linear, Laplace transform, probability, number theory
-description: Percy Daniell was an English mathematician who made significant contributions in pure and applied mathematics, such as integration, equations, linear theory, Laplace transform and probability.
+keywords: percy daniell,daniell
+description: Percy Daniell was a Chilean-born English mathematician who worked in both pure and applied mathematics. He is best known for his work on integration.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Percy Daniell** was a Chilean-born English mathematician who worked in both  pure and applied mathematics. He is best known for his work on integration.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a simplified two-variable system of equations to solve the cubic equation.
-2. Pioneered an improved system of linear equations, now known as Cramer’s rule.
-3. Demonstrated the use of the reciprocal determinant to solve linear equations.
-4. Made significant progress in the theory of elliptic integrals and prime number theory.
-5. Helped inform the development of the Laplace transform.
-6. Proposed the concept of continuous measurement in limit theory.
-7. Was one of the first to apply the theory of probability to gambling problems.
-8. Established a foundation in number theory which helped to further discoveries in the field.
-9. Explored the application of algebraic techniques to solve a particular case of the general equation of the second degree in two variables.
-10. Investigated the convergence of infinite series of polynomials.
+* William Daniell worked as an export merchant's buyer and the family were living and working in Valparaiso, Chile when Percy, the subject of this biography, was born.
+* In fact Percy spent the first six years of his life in Chile, only returning to live in Birmingham in 1895 when his parents settled back in England.
+* In fact Percy's younger brother Eric became a Baptist minister in the same Birmingham church where the family had worshiped as the children were growing up.
+* As part of his primary school education, Percy spent a couple of years at a private school at Fladbury, Worcestershire.
+* When Percy began his education there, the school was in New Street in the centre of the city.
+* In 1903, halfway through Daniell's time at King Edward's School, Levett retired but his approach was very successfully carried on by his successor Charles Davison.
+* Daniell excelled academically and also participated fully in school life being a school prefect and a member of the school Rugby XV.
+* Lovett, himself a mathematician, wrote to J J Thomson at Cambridge asking for advice on who to appoint and Thomson recommended Daniell as an assistant professor of applied mathematics.
+* Lovett approached Daniell who was very interested in the position but, since he was inexperienced in research, it was arranged that he would spend a year studying in Germany.
+* Daniell was awarded a travelling fellowship and spent the period from July 1912 to October 1913 at Göttingen.
+* It is highly likely that Daniell attended these (and other courses) and certainly he undertook research on a problem in the theory of relativity which Hilbert discussed in his course Theory of the Electron.
+* In 1914, before leaving for the United States, Daniell married Nancy Hartshorne who, like Daniell, had been brought up in Birmingham.
+* Nancy and Percy Daniell, who went on to have two sons and two daughters, sailed from Liverpool on 18 August 1914.
+* Two weeks later, Britain was at war with Germany, but this had no direct effect on Daniell although the disruption in communications and the draft after the United States entered the war in 1917 certainly affected him, at least indirectly.
+* The department that Daniell joined at Rice was small.
+* Daniell was, as we noted, an assistant professor of applied mathematics and had as his only colleague Griffith Evans who was assistant professor of pure mathematics.
+* Up to the time he moved to the United States Daniell had not published a single paper.
+* The paper gives an abstract definition of integration now known as the Daniell integral.
+* This work represents a remarkable achievement but, amazingly, Daniell also made a highly innovative contribution to a totally different area of mathematics at the same time as he was working on the Daniell integral.
+* by the English mathematician P J Daniell.
+* It could in fact be claimed that Daniell was at least thirty years ahead of his time, for it took that long for his major results to be rediscovered.
+* After this remarkable period, Daniell was promoted to full professor at the Rice Institute in 1920.
+* By the time the war ended, Daniell was seriously ill and he died at the age of fifty-seven.
 
 Born 9 January 1889, Valparaiso, Chile. Died 25 May 1946, Sheffield, England.
 

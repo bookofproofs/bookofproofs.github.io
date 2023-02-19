@@ -7,10 +7,10 @@ orderid: 1916
 title: Atkinson, Frederick Valentine
 born: 1916
 died: 2002
-keywords: Frederick Atkinson, Functional Analysis, Orientation, Navigation, Tables, Telegrahic, Electric, Bearing
-description: Frederick Atkinson, a functional analysis mathematican, developed orientation & navigation methods, advocated tables to facilitate computation, established the Cambridge Philosophical Society and applied a new technique of automatic compensation to preserve the bearing accuracy.
+keywords: frederick atkinson,atkinson
+description: Frederick Atkinson was an English mathematician who worked in functional analysis and spent most of his career in Nigeria, Australia and Canada.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Frederick Atkinson** was an English mathematician who worked in functional analysis and spent most of his career in Nigeria, Australia and Canada.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new mathematical method for orientation and navigation of ships and aircraft.
-2. Developed a method for determining longitude with precision.
-3. Advocated for the use of mathematical tables to facilitate computation.
-4. Contributed to mathematical surveying calculations.
-5. Pioneered the use of the telegraphic and electric gear for educating the Royal Naval Academy.
-6. Established the Cambridge Philosophical Society.
-7. Applied a new technique of automatic compensation to pitching and heaving to preserve the accuracy of bearings.
-8. Developed a new system of instrumentation that enabled the navigator to determine a highly precise time signal while at sea.
+* His father was George Arthur Atkinson, a journalist and film critic on the Daily Telegraph, and his mother was Dorothy Boxer.
+* Dorothy was George Atkinson's second wife and they had two children with Derick having a sister Anne four years his junior.
+* In the summer of 1929 Atkinson was accepted into St Paul's School in West Kensington.
+* It was a famous school with an outstanding reputation and Atkinson flourished as a mathematician there.
+* Atkinson graduated B.A. with First Class Honours in Mathematics in 1937.
+* Atkinson was interested in languages and spoke Urdu, German, Hungarian and Russian.
+* Ladislav and Agnes had two daughters and, after a couple of years, Atkinson proposed to Dusja Haas.
+* Atkinson resigned his Oxford post and accepted the professorship in Ibadan.
+* Atkinson held the chair at Ibadan for seven years before moving to Australia in 1956 to Canberra College.
+* We noted above that Atkinson's doctoral dissertation was on the Riemann zeta function.
+* Atkinson received many honours for his contributions including election to fellowship in the Royal Society of Canada (1967), election to fellowship in the Royal Society of Edinburgh (1975), and the McDougall- Brisbane Prize of the Royal Society of Edinburgh for 1974-76 for his paper Limit-n criteria of integral type (1974).
+* In August 1992, after returning from Europe where he was presented with the Humboldt Prize, Atkinson suffered a massive stroke.
 
 Born 25 January 1916, Pinner, Middlesex, England. Died 13 November 2002, Toronto, Canada.
 

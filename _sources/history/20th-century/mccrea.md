@@ -7,10 +7,10 @@ orderid: 1904
 title: Mccrea, William Hunter
 born: 1904
 died: 1999
-keywords: William Hunter McCrea, English, Astronomy, Math, Big Bang, University of St Andrews, Royal Society of Edinburgh
-description: William Hunter McCrea was an English Astronomer & Maths scholar whose research led to the Big Bang theory. He studied at University of St Andrews & Royal Society of Edinburgh, writing a textbook & being President of the London Mathematical Society.
+keywords: william mccrea,mccrea
+description: William Hunter McCrea was an English astronomer and mathematician whose research on the composition of the Sun and on star formation led to the development of the big bang theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Hunter McCrea** was an English astronomer and mathematician whose research on the composition of the Sun and on star formation led to the development of the big bang theory.
 
 ### Mathematical Profile (Excerpt):
-1. Won a scholarship to the University of St Andrews, where he studied mathematics and physics.
-2. Obtained a Masters of Science in mathematics from the University of Edinburgh.
-3. Authored a paper on the "Ultraspherical Function", a mathematical technique for solving differential equations.
-4. Won the Thales Prize for mathematics from the French Mathematics Society for his research in the field.
-5. Developed a paper on the subject of "The Uniqueness of Covariant Integral Equations", which was published in the Journal of the London Mathematical Society.
-6. Authored a textbook titled "Introduction to the Theory of Multi-Dimensional Analysis", which became a seminal work in mathematical sciences.
-7. Served as the President of the London Mathematical Society from 1949 to 1951.
-8. Was awarded an honorary fellowship of the Royal Society of Edinburgh in 1966.
+* His parents were Robert Hunter McCrea and Margaret Hutton; Bill was the eldest of their children.
+* Robert McCrea was a schoolmaster who moved to England when Bill was two years old.
+* In 1928 McCrea followed up a suggestion by Cecilia Payne and by the German astronomer Albrecht Unsöld that in fact hydrogen was dominant.
+* However, Whittaker was not the person in the department to interact most closely with McCrea, rather it was George McVittie who was undertaking research under Whittaker's supervision.
+* McCrea was elected a fellow of the Royal Society of Edinburgh in 1931.
+* In 1935 McCrea published Relativity Physics, a little book of less than 100 pages.
+* In 1936 McCrea was named Professor of Pure Mathematics at Queen's University Belfast.
+* McCrea's later books are Physics of Sun and Stars (1950), Cosmology (1969), The Royal Greenwich Observatory (1975), and History of the Royal Astronomical Society, 1920 to 1980 (1987).
+* We have already mentioned McCrea's work on the mechanical equilibrium of the solar chromosphere and in more generally on solar atmospheres.
+* McCrea convincingly showed there is no paradox, and the space-travelling twin would indeed age less (something now verified by experiments of sending accurate clocks into space and back).
+* McCrea received many honours and we can list only a few in what follows.
 
 Born 24 December 1904, Dublin, Ireland. Died 25 April 1999, Lewes, Sussex, England.
 

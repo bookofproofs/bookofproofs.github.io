@@ -7,10 +7,10 @@ orderid: 1935
 title: Kumano-Go, Hitoshi
 born: 1935
 died: 1982
-keywords: Hitoshi Kumano-Go, PDEs, Solovay-Kitaev, Jones Polynomial, Ricci Surfaces, Extended Affine Weyl, Poincaré Conjecture
-description: Hitoshi Kumano-Go: Mathematician specializing in PDEs, solved Poincaré Conjecture & proved Solovay-Kitaev for quantum computing, developed tools for Jones polynomials, Ricci surfaces & extended affine Weyl.
+keywords: hitoshi kumano-go,kumano-go
+description: Hitoshi Kumano-Go was a Japanese mathematician who specialised in partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hitoshi Kumano-Go** was a Japanese mathematician who specialised in partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Solovay-Kitaev theorem which has revolutionized quantum computing. 
-2. Developed powerful computational tools to compute the Jones polynomial in knot theory. 
-3. Derived rigorous estimates in the theory of Ricci surfaces. 
-4. Solved the longstanding open question on the Kolmogorov-Arnol'd-Moser theorem in integrable systems. 
-5. Described the space of tamely-ramified representations of a surface group in terms of the extended affine Weyl group. 
-6. Showed that a potential reduction of the 6j-symbol can be achieved in the theory of quantum groups. 
-7. Demonstrated that singularity theory plays a crucial role in the theory of symplectic mappings. 
-8. Developed the solution to the Poincaré conjecture in dimension three.
+* Entering Osaka University after graduating from high school, Kumano-Go studied mathematics and graduated in 1958.
+* As is frequently the case, the problem which Kumano-Go studied was to extend work which had been completed earlier by his supervisor.
+* In 1962 Kumano-Go was appointed as an assistant at Osaka University.
+* During these years Kumano-Go published a series of papers which studied the local and global uniqueness of the solutions of the Cauchy problem for partial differential equations.
+* In two papers Kumano-Go also studied non-uniqueness of solutions of the Cauchy problem.
+* Kumano-Go spent the two academic years 1967-69 visiting the Courant Institute of Mathematical Sciences at New York University.
+* These were years of great benefit to Kumano-Go who was able to develop many ideas in conversations with Kurt Friedrichs, Peter Lax, Louis Nirenberg and others.
+* In 1971 Kumano-Go was promoted to full professor.
+* One other important monograph written by Kumano-Go should be mentioned.
+* In addition to his work on pseudo-differential operators, Kumano-Go published a series of papers on the product of Fourier integral operators.
+* Kumano-Go suffered ill health and was admitted to Osaka Hospital in May 1981.
+* At the height of his mathematical contributions at the age of 46, Kumano-Go sadly died.
 
 Born 4 October 1935, Arita, Wakayama Prefecture, Japan. Died 24 August 1982, Osaka, Japan.
 

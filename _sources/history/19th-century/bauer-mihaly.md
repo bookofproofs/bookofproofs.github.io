@@ -7,10 +7,10 @@ orderid: 1874
 title: Bauer, Mihály
 born: 1874
 died: 1945
-keywords: Mihály Bauer, mathematics, number theory, calculus of variations, integral calculus, Bauer Surface, Bauer Equation
-description: Mihály Bauer, a Hungarian mathematician, was known for his contributions to number theory, calculus of variations, integral calculus and Bauer Surface. He also developed the Bauer Equation, Bauerian Geometry, and more.
+keywords: mihály bauer,bauer
+description: Mihály Bauer was a Hungarian mathematician who worked in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mihály Bauer** was a Hungarian mathematician who worked in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a Hungarian version of the calculus of variations and integral calculus.
-2. Introduced the concept of the validity of a theorem for a specific set of arguments.
-3. Discovered the Bauer Surface, a form of a non-Euclidean surface named after him.
-4. Developed a special type of nonlinear differential equation that is now known in the field of mathematical physics as the Bauer Equation.
-5. Originated the branch of mathematics known as "Bauerian Geometry".
-6. Formulated the concept of the mean curvature of a surface and applied it to study the stability of hexagons.
-7. Found ways to solve integral equations and developed techniques for dealing with mathematical optimization problems.
-8. Co-made important contributions to the development of analytical mechanics.
+* Bauer published two important papers in 1903.
+* What Bauer proved was that if two finite Galois extensions of the rationals have the property that, with at most a finite number of exceptions, the same primes split completely in both extensions, then the two extensions are equal.
+* In 1909 Bauer was appointed as a privatdozent at the Technical University of Budapest having submitted a habilitation thesis on analytic number theory and function theory.
+* Kürschák was himself a mathematician but it was as rector of the university that welcomed Bauer.
+* It was fitting that Bauer, who was a student of König, should be the first recipient of the prize in 1922.
+* The insults he had to suffer caused much long-lasting pain to Bauer.
+* Bauer had other problems to contend with in addition to the disgraceful anti-Semitic behaviour of his students.
+* Bauer celebrated his 70th  birthday on 20 September 1944 forced to wear a yellow star and forced to share his home.
+* Immediately he moved his forces against the Hungarian Jews and Bauer was sent to Tattersaal camp.
 
 Born 20 September 1874, Budapest, Hungary. Died February 1945, Budapest, Hungary.
 

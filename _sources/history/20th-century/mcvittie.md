@@ -7,10 +7,10 @@ orderid: 1904
 title: Mcvittie, George Cunliffe
 born: 1904
 died: 1988
-keywords: George McVittie, Relativity, Cosmology, Numerical Analysis, Computational Physics, Galaxies, Stellar Structure
-description: George McVittie made groundbreaking contributions to Relativity, Cosmology and Numerical Analysis, including the development of new algorithms, models of galactic halos, and a system for measuring distances.
+keywords: george mcvittie,mcvittie
+description: George McVittie studied at Edinburgh and Cambridge. He then held posts at Leeds, Edinburgh and London and became Professor of Astronomy at the University of Illinois. His main work was in Relativity and Cosmology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George McVittie** studied at Edinburgh and Cambridge. He then held posts at Leeds, Edinburgh and London and became Professor of Astronomy at the University of Illinois. His main work was in Relativity and Cosmology.
 
 ### Mathematical Profile (Excerpt):
-1. George McVittie made pioneering contributions to numerical analysis and computational physics, including the development of a new type of numerical algorithm (called McVittie's algorithm) and the development of the first practical numerical simulation method for calculating the motion of dense stellar systems.
-2. He published several papers on the theory of relativity—including a mathematical analysis of the rotation curve of a galaxy—which contributed significantly to the development of modern astrophysics.
-3. He developed an analytical solution for the potential of a two-dimensional disk of matter, an advance that helped form the basis for models of galactic halos and dark matter distribution.
-4. He developed an analytical solution to the problem of gaseous equilibrium in stars, which was a key advance in obtaining an understanding of stellar structure
-5. He developed the first mathematical explanation of why stellar disks tend to rotate rapidly.
-6. He developed a widely-used system for measuring distances in astronomical space. 
-7. He proposed the concept of a galactic midplane, which provided an accurate way to measure distances in galaxies.
-8. He developed an analytical solution for the Jeans equation that improved the model of “turbullence” in interstellar space.
+* George entered the University of Edinburgh in 1923.
+* In 1934 McVittie married Mildred Bond Strong.
+* McVittie held appointments as follows: Assistant Lecturer at Leeds University 1930-34; Lecturer at the University of Edinburgh 1933-34; Reader at King's College, University of London 1936-48; Professor at Queen Mary's College, University of London 1948-52; Professor at Illinois University Observatory 1952-1972; and Honorary Professor at the University of Kent at Canterbury 1972-1988.
+* McVittie was elected to the Royal Society of Edinburgh on 1 March 1943, having been proposed by David Gibb, Ivor M H Etherington, Robert Schlapp, and Alexander C Aitken.
+* An obituary, written by M A H MacCallum, appeared in: George Cunliffe McVittie (1904-1988) (obituary), Quarterly Journal of the Royal Astronomical Society 30 (3) (1989), 119-122.
+* Another obituary of George Cunliffe McVittie, this time written by William McCrea, appeared in The Independent on Friday 11 March 1988.
 
 Born 5 June 1904, Smyrna, Turkey (now Izmir). Died 8 March 1988, Canterbury, Kent, England.
 

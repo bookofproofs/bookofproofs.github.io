@@ -7,10 +7,10 @@ orderid: 1923
 title: Morawetz, Cathleen Synge
 born: 1923
 died: 2017
-keywords: Morawetz, Wave Motion, Hyperbolic Systems, Conservation Laws, National Medal of Science, Morawetz Multiplier, Steele Prize
-description: Cathleen Morawetz was a Canadian mathematician known for her work on partial differential equations related to wave motion, conservation laws, and hyperbolic systems. She won numerous awards, including the National Medal of Science, Morawetz Multiplier, Steele Prize, and Losch Medal.
+keywords: cathleen morawetz,morawetz
+description: Cathleen Morawetz was a Canadian mathematician who worked on the partial differential equations governing fluid flow, particularly those of mixed type occurring in transonic flow.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Cathleen Morawetz** was a Canadian mathematician who worked on the  partial differential equations governing fluid flow, particularly those of mixed type occurring in transonic flow.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new theory for the extension and simplified interpretation of Exton's method for studying wave motion, thereby creating a new and unified approach for solving equations related to wave motion. 
-2. Used the techniques of asymptotic analysis to develop a novel technique for solving nonlinear hyperbolic systems of equations in two dimensions. 
-3. Authored several papers on the solution of problems related to the wave equation, including a proof of the Lax-Phillips conjecture. 
-4. Worked in the field of conservation laws and showed that non-characteristic boundary value problems can be solved by applying appropriate boundary conditions. 
-5. Received the National Medal of Science in 1974 and was the first woman president of the American Mathematical Society. 
-6. Credited with the invention of the Morawetz multiplier which helps in the study of exact solutions to equations with vortical fluid flows.
-7. Received the Georgia Tech AIChE Founder’s Award in 1991 for her contributions to the understanding of wave motion. 
-8. Won the L"osch Medal for her pioneering work in acoustic wave equations. 
-9. Received the Steele Prize for Mathematical Exposition in 1988 for her highly innovative use of ideas in her work on wave equations. 
-10. Appointed Fellow of the American Mathematical Society in 1974.
+* Both Cathleen's parents were Irish but she was born in Toronto while her father held the position of assistant professor of mathematics at the University of Toronto.
+* When Cathleen was seven years old the family returned to Toronto and it was in Toronto that she attended school.
+* Cathleen won a scholarship and entered the University of Toronto to study mathematics.
+* Cecilia Krieger, who taught Cathleen mathematics while she was an undergraduate, had been a family friend for many years.
+* She strongly encouraged Cathleen continue her study of mathematics.
+* Cathleen married Herbert Morawetz, who was a chemist, on 28 October 1945.
+* However, strongly encouraged by Cecilia Krieger to study for her doctorate, Morawetz went to New York University to undertake research.
+* During this period Morawetz applied for US citizenship and she was granted this in 1950.
+* In 1978 Morawetz became the associate director of the Courant Institute of Mathematical Sciences a position which she held until 1984 when she was appointed Director of the Courant Institute.
+* Morawetz's predictions have been confirmed subsequently through both actual experiments and careful numerical simulation which indicate the appearance of shock waves in the flow past the purturbed profile.
+* In the 1960s Morawetz worked on the scattering of sound waves and electromagnetic waves striking objects.
+* Morawetz showed that, for a medium with constant light speed outside a reflecting star-shaped object, high frequency waves are, asymptotically, streams of particles moving along the rays.
+* In 1998 Morawetz was awarded the National Medal of Science.
+* The list of honours which Morawetz has received certainly does not stop at those already mentioned above.
+* In 2001 Morawetz was made an honorary member of the London Mathematical Society.
 
 Born 5 May 1923, Toronto, Canada. Died 8 August 2017, New York City, New York, USA.
 

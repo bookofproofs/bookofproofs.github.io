@@ -7,10 +7,10 @@ orderid: 1487
 title: Lax, Gaspar
 born: 1487
 died: 1560
-keywords: Gaspar Lax, Mathematics, Prime Numbers, Arithmetic Progressions, Binary Forms, Elliptic Curves, Polynomial Equations, Field Theory
-description: Gaspar Lax was a Spanish scholar who published numerous works on Mathematics, including theories on Prime Numbers, Arithmetic Progressions, Binary Forms, Elliptic Curves, and Polynomial Equations, leading to Field Theory.
+keywords: gaspar lax,lax
+description: Gaspar Lax was a Spanish scholar who published several mathematics books based on the work of earlier mathematicians.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gaspar Lax** was a Spanish scholar who published several mathematics books based on the work of earlier mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of prime numbers and named the hypothesis now known as the Lax Prime Number Conjecture.
-2. Showed that every natural number is a sum of six or fewer triangular numbers.
-3. Explained Euclid's theorem for infinite primes and its implications. 
-4. Researched arithmetic progressions and divisor functions in number theory, as well as the use of exponential sums and prime numbers in Diophantine equations.
-5. Published extensive work on the theory of binary and ternary quadratic forms.
-6. Explored the unique properties of elliptic curves, Pell's equation, and Fermat's Last Theorem.
-7. Discovered the method of iterated linear functions for writing down solutions to polynomial equations. 
-8. Found ways to solve polynomial equations with coefficients given in radicals and establish the Abel-Ruffini theorem.
-9. Wrote groundbreaking work on the theory of algebraic numbers, introducing the concept of field theory and the Modern Abelian Theory.
-10. Developed the Lax-Milgram theorem, also known as the numerical method of successive approximations.
+* Lax remained in Paris and taught there at the Collège de Calvi during 1507 and 1508.
+* After these two years at the Collège de Calvi, Lax transferred to the Collège de Montaigu, one of the leading theological colleges of Paris, where he studied under Maior but also was an important teacher at the College.
+* In 1517 Lax returned to teach again at the Collège de Calvi which he did for the next six years.
+* In that year foreigners were asked to leave the Collège de Calvi and shortly after this Lax decided to return to his native land.
+* In 1524 Lax left France and returned to Spain.
+* Lax published several good mathematics books based on works by Boethius, Euclid, Jordanus and Campanus.
+* This school seems to have originated with Lax and other students of Maior who studied in Paris, then returned to Spain.
+* Lax was also known as a philosopher, often called the 'Prince of Sophists'.
+* However, one of Lax's students wrote that he heard Lax express regret late in his career that he had spent so much time on 'such trivialities'.
 
 Born 1487, Sarinena, Aragon (now Spain). Died 23 February 1560, Zaragoza, Spain.
 

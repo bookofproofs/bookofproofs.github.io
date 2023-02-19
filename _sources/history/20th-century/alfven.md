@@ -7,10 +7,10 @@ orderid: 1908
 title: Alfvén, Hannes
 born: 1908
 died: 1995
-keywords: Alfvén, MHD, Plasma Physics, Nobel Prize, Solar Wind, Spiral Galaxies, Alfven Waves
-description: Nobel Prize-winning Swedish physicist Hannes Alfvén developed the theory of MHD and discoveries in plasma physics, solar wind, spiral galaxies, and Alfven Waves.
+keywords: hannes alfvén,alfvén
+description: Hannes Olof Gösta Alfvén was a Swedish electrical engineer, plasma physicist and winner of a Nobel Prize in Physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hannes Olof Gösta Alfvén** was a Swedish electrical engineer, plasma physicist and winner of a Nobel Prize in Physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of nonlinear magnetohydrodynamics (MHD), which formed the basis of modern plasma physics.
-2. Received the Nobel Prize in Physics in 1970 for his fundamental work and discoveries in the field of plasma physics.
-3. Proved regular and stochastic solutions to a variety of magnetohydrodynamic equations.
-4. Developed the general theory of relativistic magnetohydrodynamics and its application to astrophysics.
-5. Established how energy is ejected from the sun in the form of the solar wind.
-6. Discovered spiral galaxies and explained the spiral structure of astronomical objects.
-7. Discovered Alfven waves, which are fundamental to the study of the Sun and other astrophysical objects.
-8. Developed a mathematical model of turbulence.
-9. Developed the mathematical theory of geomagnetic field generation.
-10. Developed a mathematical theory of turbulent diffusion of cosmic rays.
+* Other members of Hannes' family also achieved distinction: his uncle Hugo Alfvén was a famous composer while two other uncles achieved fame, one as an inventor, the other an agronomist.
+* After graduating from the High School, Alfvén studied mathematics and physics at the University of Uppsala, beginning his undergraduate studies in 1926.
+* Having been awarded his doctorate, Alfvén was appointed a docent in physics at both the University of Uppsala and the Nobel Institute for Physics in Stockholm.
+* In 1967 Alfvén spoke out against difficulties he was experiencing obtaining financial support from Sweden for projects on peaceful uses of thermonuclear energy.
+* Despite making remarkable contributions to an understanding of the structure of the universe, Alfvén's ideas have proved controversial.
+* Alfvén's discovery of hydromagnetic waves in 1942 took less time to become accepted as correct.
+* Perhaps the greatest difficulty encountered by Alfvén, however, was due to the firm rejection of his ideas by Sydney Chapman who was at the time the acknowledged leader in space physics.
+* When, for example, Alfvén put forward his theory of magnetic storms and auroras in 1939, the paper he wrote on the topic was rejected for publication since the results did not agree with those based on Chapman's mathematical model.
+* Alfvén was awarded the Nobel Prize in Physics in 1970.
+* In particular, Alfvén discovered the existence of hitherto unsuspected magneto-hydrodynamical waves, the so-called Alfvén waves.
+* In cosmic physics, Alfvén's fundamental contribution has been the introduction of the magnetic field of force and the application of magneto-hydrodynamics.
+* Alfvén also received a large number of other prestigious awards such as the Gold Medal of the Royal Astronomical Society (1967), the Lomonosov Medal of the USSR Academy of Sciences (1971), The Gold Medal of the Franklin Institute (1971), the Bowie Gold Medal of the American Geophysical Union (1988), and the Dirac Medal of the Australian Institute of Physics.
+* One result of these interests was a series of books that Hannes wrote, some together with Kerstin.
+* When nuclear power first became a possibility, Alfvén supported its development for commercial use.
+* However, within a few years, when disadvantages emerged, Alfvén became a vigorous opponent.
 
 Born 20 May 1908, Norrköping, Sweden. Died 2 April 1995, Djursholm, Sweden.
 

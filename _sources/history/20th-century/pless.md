@@ -7,10 +7,10 @@ orderid: 1931
 title: Pless, Vera
 born: 1931
 died: 2020
-keywords: Pless, combinatorics, coding, power, matrix theory, stability, simulation programming
-description: Vera Pless, an American mathematician, developed numerous theories related to combinatorics, coding, power, matrix theory, stability and simulation programming.
+keywords: vera pless,pless
+description: Vera Pless was an American mathematician who specialized in combinatorics and coding theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vera Pless** was an American mathematician who specialized in combinatorics and coding theory.
 
 ### Mathematical Profile (Excerpt):
-1. Created the Pless power moment measure, a numerical representation of power in transmission lines.
-2. Developed a theory of matrix theory for analyzing the stability of linear systems.
-3. Discovered a new mathematical theorem related to error-correcting codes.
-4. Developed an efficient and effective method, called “ring-sizing”, for determining the design of transformers used in electronic circuits.
-5. Developed the principles of simulation programming which is now widely used in engineering simulations.
-6. Developed a method to determine the boundaries of matrices and introduced the concept of an skew-symmetric matrix.
-7. Contributed to the development of the theory of optimal expansion in signal processing.
-8. Published a book on the application of linear algebra to signal processing. 
-9. Developed an efficient algorithm for detecting problems in digital communications systems.
-10. Published multiple journal articles on the applications of linear algebra and signal processing to electrical engineering.
+* When Vera was about 12 years old she was taught calculus by a family friend who was a graduate student at the University of Chicago.
+* He saw that she had a real mathematical talent but Vera was not at this stage interested in mathematics.
+* Vera continued her studies at the University of Chicago working for her Master's degree.
+* After the award of her Master's degree, Pless took a job with a physics group at the University of Chicago while her husband continued to work for his doctorate.
+* Pless was awarded her doctorate in 1957.
+* In this paper Pless looks at dual vector spaces of countable dimension over a division ring and studies the ring LLL of all continuous linear transformations on such a space.
+* Times have changed, but one has to realise that Pless followed the expectations of her day when she did not think to look for a job after receiving her doctorate, rather she stayed at home to look after her daughter.
+* Once her youngest boy Ben was old enough to begin primary school, Pless began to look for full-time posts.
+* Pless worked at Air Force Cambridge Research Laboratory from 1963 to 1972 with a short break for maternity leave when her third child was born.
+* The result, based on the MacWilliams' identities, is used to determine the complete weight distributions of several quadratic residue codes.
+* Carrying out basic research in the Department of Defense establishments was banned by the United States government and in 1972 Pless left and for three years she worked at the Massachusetts Institute of Technology as a research associate before being appointed a full professor at the University of Illinois at Chicago in 1975.
+* This is one of about 100 publications which Pless has up to the present time.
 
 Born 5 March 1931, Chicago, Illinois, USA. Died 2 March 2020, Oak Park, Illinois, United States.
 

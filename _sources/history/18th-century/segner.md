@@ -7,10 +7,10 @@ orderid: 1704
 title: Von Segner, Johann Andreas
 born: 1704
 died: 1777
-keywords: Jan Segner, Hungarian, Göttingen, Dynamics, Segment Wheel, Snell Cubics, Miscellanea Curiosa Mathematica
-description: Jan Segner was a Hungarian mathematician known for contributions on Dynamics, discovering the Segment Wheel and Snell Cubics, writing the book "Miscellanea Curiosa Mathematica".
+keywords: johann segner,von
+description: Jan Segner was a Hungarian mathematician who was the first professor of mathematics at Göttingen. He made substantial contributions to the theoery of Dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jan Segner** was a Hungarian mathematician who was the first professor of mathematics at Göttingen. He made substantial contributions to the theoery of Dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the 'Segner Wheel' in 1746, which was the first machine to perform multiple calculations simultaneously.
-2. Developed the mathematical concept of 'Snell Cubics', which are an equation to describe the intersection of two circles.
-3. Discovered that the volume of a rotating solid body was proportional to its radius to the power of three.
-4. Determined the constant for the centrifugal force of a liquid in a cylindrical container.
-5. The 'Segner Numbers' are a sequence of numbers he computed from a diagonal series of squares.
-6. Wrote the book "Miscellanea Curiosa Mathematica" which explores higher mathematics.
+* There is genuine reason for both German and Hungarian versions, for Segner was from a family of German origins, and although he spent about 25 years of his life in Hungary he spent most of his career in Germany.
+* Segner attended school at Pozsony's Lyceum where he showed special talents for medicine and mathematics.
+* Segner's was therefore the first to fill what was to become one of the foremost chairs of mathematics in the world.
+* In 1743 Segner was put in charge of the construction of the university observatory which was finished in 1751.
+* While at Göttingen Segner discovered that every solid body has three axes of symmetry.
+* In 1751 Segner introduced the concept of the surface tension of liquids and made an unsuccessful attempt to give a mathematical description of capillary action.
 
 Born 9 October 1704, Pozsony, Hungary (now Bratislava, Slovakia). Died 5 October 1777, Halle, Prussia (now Germany).
 

@@ -7,10 +7,10 @@ orderid: 1926
 title: Haselgrove, Colin Brian
 born: 1926
 died: 1964
-keywords: Number Theory, Pólya Conjecture, Mathematics, Professor, Lectures, Research Papers, Mentored, Royal Society, Whitehead Prize
-description: Brian Haselgrove was an English mathematician, Professor of Mathematics, mentor and Royal Society member. He disproved the Pólya conjecture, and lectured, published and received awards for his research in number theory.
+keywords: brian haselgrove,haselgrove
+description: Brian Haselgrove was an English mathematician who worked in number theory and is best known for his disproof of the Pólya conjecture.
 references: bookofproofs$6909
-contributors: @Jenifer-Leech,@Edmund-Robertson,bookofproofs,@ChatGPT
+contributors: @Jenifer-Leech,@Edmund-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @Jenifer-Leech,@Edmund-Robertson,bookofproofs,@ChatGPT
 **Brian Haselgrove** was an English mathematician who worked in number theory and is best known for his disproof of the Pólya conjecture.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored the 1976 book "The Logic of Elementary Mathematics", which is widely regarded as a "timeless classic".
-2. Served as a visiting professor at the Hebrew University of Jerusalem.
-3. Appointed as professor of mathematics in a NPI project at Cambridge University.
-4. Appointed a Professor of Mathematics at the University of Sussex.
-5. Delivered numerous lectures, including the Harleian lectures at the British Mathematical Colloquium.
-6. Published multiple mathematical research papers on axiomatic set theory, algebraic logic, and geometric measure theory.
-7. Successfully supervised and mentored a number of PhD students in mathematics.
-8. A member of the Royal Society since 1984.
-9. Served as Chairman of the British Mathematical Colloquium Board.
-10. Received the London Mathematical Society's Whitehead Prize in 1995.
+* Because of the move Brian went to Blundell's School, Tiverton for the last part of his schooldays.
+* Brian also caught tuberculosis and was away from Cambridge for two years.
+* Haselgrove's first published research paper was on number theory.
+* Among the results proved by Haselgrove in the 1951 paper is an extension of Linnik's method for proving the Goldbach-Vinogradov three prime theorem, namely that any sufficiently large odd integer is the sum of at most three primes.
+* However Haselgrove was involved in much more than number theory.
+* Haselgrove's wife Jenifer and his fellow mathematics student John Leech were also working in the Laboratory at the time.
+* In 1953 Haselgrove implemented the first computer program to carry out coset enumeration of subgroups of finite index in a finitely presented group.
+* ACE includes an implementation of the HLT method of coset enumeration named after the work by Haselgrove, Leech and Trotter.
+* Another topic which Haselgrove worked on at this time was the problem of stellar evolution, collaborating with Fred Hoyle.
+* One night even the rheostat adjustment wasn't enough and Fred Hoyle, with whom my husband Brian Haselgrove was working on stellar evolution, rang up the electricity board and said "Can you hike your volts up a bit?".
+* In 1958 Haselgrove published his most famous number theory result in A disproof of a conjecture of Pólya.
+* R S Lehman and W G Spohn had verified the conjecture for all numbers xxx up to 800,000 but Haselgrove found a counterexample using methods based on those developed by Ingham with the help of computations carried out on the EDSAC 1 computer at Cambridge.
+* In the same paper Haselgrove announced that he had also disproved a number theory conjecture of Turán.
+* Also in 1958 Haselgrove published Applications of digital computers in mathematics  in The Mathematical Gazette.
+* At Manchester Haselgrove continued his interest in coset enumeration, and implemented a new version of the Todd-Coxeter procedure on the Mercury computer there in 1960.
+* In The solution of non-linear equations and of differential equations with two-point boundary conditions (1961) Haselgrove suggests general iterative techniques, based on an nnn-dimensional extension of the Newton-Raphson process.
+* Haselgrove also introduced an undergraduate course in numerical methods and computer programming, but it was not possible to include realistic practical work until autocodes were designed.
 
 Born 26 September 1926, Chingford, Essex, England. Died 27 May 1964, Manchester, England.
 

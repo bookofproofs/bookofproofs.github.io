@@ -7,10 +7,10 @@ orderid: 1856
 title: Hobson, Ernest William
 born: 1856
 died: 1933
-keywords: Ernest Hobson, Measure Theory, Integration, Baire-Borel-Lebesgue, Hobson Transformation, Hobson Problem, Special Relativity
-description: Ernest Hobson developed the Hobson Transformation and Solved the Hobson Problem, plus discovered Special Relativity, innovated Layered Mapped Spatial Data Structures, and advanced Mathematical Physics.
+keywords: ernest hobson,hobson
+description: Ernest Hobson wrote the first English book on the measure theory and integration of Baire, Borel and Lebesgue.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernest Hobson** wrote the first English book on the measure theory and integration of Baire, Borel and Lebesgue.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of the ‘Hobson Transformation’ which is a method of reducing the number of complex integrals which arise in mathematical physics. 
-2. Solved the ‘Hobson Problem’ which deals with the minimum deviating force required to return a body to its original orbit. 
-3. Investigated the Laplace transform, its applications to differential equations, and on its numerical evaluations. 
-4. Discovered the ‘Hobson Equation’ which calculates the behavior of the curvature of surfaces in hypersonic flow.
-5. Formulated and derived new analytic solutions to stiff equations. 
-6. Pioneered the field of 'special relativity' with his contributions to the relativistic bolometric theory of light. 
-7. Made significant advances in the application of the theory of infinite sets and computability to the study of real numbers. 
-8. Developed the conceptual basis of 'Layered Mapped Spatial Data Structures' which is used to develop Geographic Information Systems today.
+* His father, William Hobson, was the editor of the Derbyshire Advertiser, jointly owning the paper and also playing a large role in local politics.
+* Hobson then won a mathematics scholarship to Christ's College, Cambridge, entering in 1874.
+* Hobson was the first appointment to the Stokes lectureship.
+* Probably mainly due to this particularly influential work, Hobson was elected Sadleirian professor at Cambridge in 1910.
+* The leisure which Hobson enjoyed after his election to the Sadleirian Professorship enabled him to devote himself to its complete rewriting, and the second edition (1922-25) was double the size of the first.
+* Hobson was elected a fellow of the Royal Society in 1893, serving as a member of its council, and being awarded the Society's Royal Medal in 1907.
+* To many Hobson is better known for the Gifford lectures he gave on The domain of natural science at the University of Aberdeen in 1921-22 than for his mathematical contribution.
 
 Born 27 October 1856, Derby, England. Died 19 April 1933, Cambridge, England.
 

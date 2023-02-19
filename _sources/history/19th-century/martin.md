@@ -7,10 +7,10 @@ orderid: 1835
 title: Martin (2), Artemas
 born: 1835
 died: 1918
-keywords: Artemas Martin, mathematics, books, logarithmic sines, least squares, polynomials, Pi, tower theorem, transformation theory
-description: Artemas Martin was a self-taught mathematician and book-collector who authored influential books, developed logarithmic sines and least squares, solved polynomials and higher equations analytically, created theories such as ‘tower theorem’ and ‘transformation theory’, and introduced a highly accurate value to approximate Pi.
+keywords: artemas martin,martin
+description: Artemas Martin was a self-taught mathematician and book-collector whose output covered a wide range of mathematical problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Artemas Martin** was a self-taught mathematician and book-collector whose output covered a wide range of mathematical problems.
 
 ### Mathematical Profile (Excerpt):
-1. Authored several influential books on mathematics, including "A Treatise on Plane Algebraic Analysis" (1810) and "A Systematic Treatise on Astronomical Mathematics" (1817).
-2. Developed a set of table of logarithmic sines and tangents, which helped geometers and engineers calculate the angles and lengths of arc accurately.
-3. Was the first to use the method of least squares for curves of higher orders, allowing for a more accurate calculation of the parameters of curves.
-4. Established methods for linearizing parameters of functions, which allowed for more precise determination of roots.
-5. Showed how to solve polynomials and higher equations analytically, which then allowed for the study of topics such as the stability of certain types of equations
-6. Developed the ‘martin's theorem’, which proved helpful in the algebraic analysis of circles and conic sections.
-7. Created formulas for finding equations of circles and conic sections with known characteristic points.
-8. Was the first to introduce a highly accurate value to approximate Pi using the arithmetical-geometric mean.
-9. Developed theories such as ‘tower theorem’ and ‘transformation theory’, which influenced the development of scientific calculations and mathematical analysis.
+* Artemas had very little in the way of formal education with the total being only three terms at a district school in Venango County and a few months at the Franklin Academy when he was seventeen years old.
+* As the above quote states, Martin lived in rural Pennsylvania until he was fifty, mostly in Erie.
+* He turned this down but in 1885, at the age of fifty, he did accept the offer of a job as librarian with the United States Coast and geodetic Survey in Washington, D.C. In taking the position of librarian Martin was following the second passion of his life, namely that of being a book collector.
+* Martin was the first American subscriber to the Educational Times and the first American to contribute to its mathematical section.
 
 Born 3 August 1835, Steuben County, New York, USA. Died 7 November 1918, Washington, D.C., USA.
 

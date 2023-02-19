@@ -7,10 +7,10 @@ orderid: 1618
 title: Horrocks, Jeremiah
 born: 1618
 died: 1641
-keywords: Jeremiah Horrocks, solar eclipse, ellipse, transit of Venus, year, gravitational forces, lunar eclipse
-description: Jeremiah Horrocks revolutionized astronomy, improving Kepler's tables, discovering a new method of solar eclipse calculation, accurately predicting the transit of Venus, hypothesizing gravitational forces, showing a lunar eclipse was caused by Earth's shadow, and developing a new method for treating planetary orbits.
+keywords: jeremiah horrocks,horrocks
+description: Jeremiah Horrocks was an English astronomer who improved Kepler's tables and worked on the lunar theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jeremiah Horrocks** was an English astronomer who improved Kepler's tables and worked on the lunar theory.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered a new method to calculate the solar eclipse.
-2. Discovered that the Moon's orbit was an ellipse rather than a circle.
-3. Predicted the first transit of Venus in 1639 and successfully observed it.
-4. Calculated a more accurate value for the length of the year than was previously known.
-5. Developed a hypothesis for gravitational forces between the Earth and the Sun.
-6. Showed that a partial lunar eclipse was caused by the shadow of the Earth.
-7. Developed a new method for treating planetary orbits.
-8. Became the first to calculate a true astronomical forecast.
+* There is some evidence that Horrocks' father came from the Deane district of Bolton, although this is far from certain, but we do know that his mother was from a notable Toxteth Park family.
+* Certainly some members of the family were watchmakers and it is said that a watchmaker brother of Mary Aspinwall first interested Jeremiah in astronomy.
+* We have no certain information concerning the size of the family, although we do know that Jeremiah had a brother named Jonas.
+* We know nothing of Horrocks' early education, but we do know that he entered Emmanuel College, Cambridge, on 11 May 1632.
+* Although no record of Horrocks' university education exists, we know that at this time all students studied a set course which covered classical languages, literature, and divinity.
+* Since Horrocks left Cambridge with a deep knowledge of the latest ideas in astronomy due to Copernicus and Kepler, as well as the expertise in mathematics to further develop their ideas, this tells us that he studied mathematics and astronomy in his own time.
+* Soon after his return to Lancashire, Horrocks began a scientific correspondence with William Crabtree a merchant in Broughton, near Manchester.
+* Chapman suggests that John Worthington of Manchester, who had been an undergraduate at Cambridge at the same time as Horrocks, probably introduced Horrocks and Crabtree.
+* By 8 June 1639 Horrocks was in the village of Much Hoole, near Preston, since we have copies of correspondence he wrote from that village.
+* In 1635 Horrocks began to use Lansberge's tables to compute planetary positions and to compare the answers with his own observations.
+* Horrocks then proposed that the planets had a tendency to fall towards the sun.
+* Now with his greater understanding, Horrocks set to work improving Kepler's tables.
+* Horrocks, after correcting Kepler's tables realised that a transit of Venus would occur on 24 November 1639, and that it would be visible from England.
+* Horrocks purchased a simple telescope which he set up to project an image of the sun onto a graduated circle six inches in diameter.
+* Horrocks was able to make some deductions from his observations which gave greatly improved data.
+* Although he had only been able to make three observations of the transit from the same site, Horrocks was able to compute the distance of the earth to the sun far more accurately than any previously found.
+* The last letter we have from Horrocks written in Much Hoole was on 20 April 1640.
+* Although he is best known for his observations of the transit of Venus in 1639, Horrocks' most important work was his lunar theory.
+* In fact Horrocks' lunar theory was used for around 100 years, a remarkable achievement.
+* The remainder passed into the hands of an antiquary, who also managed to obtain letters by Horrocks from the Crabtree family.
+* From the late 1650's until their eventual publication, Horrocks' manuscripts were widely circulated.
 
 Born 1618, Toxteth, Liverpool, England. Died 3 January 1641, Toxteth, Liverpool, England.
 

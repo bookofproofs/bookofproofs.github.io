@@ -7,10 +7,10 @@ orderid: 1744
 title: Da Cunha, José Anastácio
 born: 1744
 died: 1787
-keywords: Anastácio da Cunha, Mathematics, University of Campinas, Mathematical Analysis, Rational Spline Approximation, Malgrange-Ehrenpreis, Frechét Spaces
-description: Anastácio da Cunha was a Portuguese mathematician who contributed to multiple areas in mathematics, founding university departments and writing books such as "Mathematical Analysis". He was highly respected in the international community.
+keywords: anastácio da cunha,da
+description: Anastácio da Cunha was a Portuguese mathematician who wrote an encyclopaedia of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Anastácio da Cunha** was a Portuguese mathematician who wrote an  encyclopaedia of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Faculty of Mathematics of the University of Campinas in 1958.
-2. Authored the book "Mathematical Analysis" in 1962, which has been a reference work for mathematicians since.
-3. Developed the theory of rational spline approximation in the 1950s.
-4. Established the new mathematics department of the Faculty of Engineering of the University of São Paulo in 1958.
-5. Contributed to the development of the theory of Malgrange-Ehrenpreis in the 1950s.
-6. Wrote several papers on the properties of Frechét Spaces and the Mathematical Analysis of Splines.
-7. Published the book "Fundamentals of Classical Precipitated Analysis" in 1965.
-8. Was highly respected in the international mathematical community and was elected to the Brazilian Academy of Sciences in 1968.
-9. Developed the concept of "integral curvature" and its application in the field of elasticity.
-10. Authored an extensive monograph on the history of mathematics in Brazil in 1976.
+* Da Cunha was educated in the town of his birth, studying at the Congregation of the Oratory in Lisbon.
+* When da Cunha was nineteen years old, in 1763, he volunteered for military service and he became a lieutenant of artillery giving ten years' of service.
+* Da Cunha supported these religious reforms by de Pombal and also the later reforms he put in place such as the reform of university education, the beginning of commercial education, the creation of trading companies, and the reorganisation of the army.
+* As part of his university reforms de Pombal appointed da Cunha professor of geometry in 1773.
+* Da Cunha was arrested and imprisoned by the Inquisition.
+* Da Cunha wrote a 21 part encyclopaedia of mathematics Principios Mathemáticos Ⓣ(Mathematical principles) which he began to publish in parts from 1782 (it was published as a complete work in 1790) which contained a rigorous exposition of mathematics, in particular a rigorous exposition of the calculus.
+* In all areas da Cunha paid unusual attention to methodology as well as rigour.
+* Da Cunha develops a criterion for the convergence of a series which he uses to define the exponential function in a rather modern way, and from these develops the binomial series.
+* In Principios Matemáticos da Cunha also gave a definition of the convergence of a series which is equivalent to Cauchy's convergence criterion.
+* Many historians discuss the influence of da Cunha's remarkable, yet little known, work.
+* In the same year, Gauss wrote a letter to Bessel in which he commented positively on da Cunha's definitions of the exponential and logarithmic functions.
+* Despite this da Cunha's work was not widely known and, sadly, had little influence on the development of mathematics.
 
 Born 11 May 1744, Lisbon, Portugal. Died 1 January 1787, Lisbon, Portugal.
 

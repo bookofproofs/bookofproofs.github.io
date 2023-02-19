@@ -7,10 +7,10 @@ orderid: 1930
 title: Kellogg (2), Bruce
 born: 1930
 died: 2012
-keywords: Bruce Kellogg, maths, partial diff eqns, Lester Ford Award, numerical analysis, dynamic systems, endowment
-description: Bruce Kellogg, renowned mathematician, author, educator & recipient of Lester Ford Award, pioneered research in dynamic systems & numerical analysis in diff eqns.
+keywords: bruce kellogg,kellogg
+description: Bruce Kellogg was an American mathematician who worked in partial differential eequations (both theoretical and in the modelling of real phenomena).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Bruce Kellogg** was an American mathematician who worked in partial differential eequations  (both theoretical and in the modelling of real phenomena).
 
 ### Mathematical Profile (Excerpt):
-1. Authored more than 130 papers in the field of mathematics, particularly in the areas of dynamical systems and differential equations.
-2. Awarded the prestigious (and rarely given) Lester R. Ford Award in 1970 for his work on differential equations 
-3. Developed innovative designs for teaching numerical analysis 
-4. Proposed the method of piecewise-linear approximation for the numerical solutions of differential problems.
-5. Developed a new approach for numerical approximations to partial differential equations.
-6. Authored the influential textbook "Dynamic Systems and Differential Equations: Theory and Applications".
-7. Served as the director of the Center for Applied Mathematics at Cornell University in the early 1970s.
-8. Established the Bruce Kellogg Endowment at the University of California in 1997.
-9. He also served on the editorial boards of numerous journals and was a member of numerous committees and societies devoted to mathematics.
+* Ernest Kellogg (born 1902), whose parents were Royal S Kellog and Clara Fry, was from Yonkers, New York.
+* On 21 January 1929 Helen and Ernest Kellogg's daughter Alice Elizabeth was born.
+* By 1930 the family were living in Chicago, Cook, Illinois when their son Royal Bruce Kellogg was born.
+* He did not use the name Royal, but was always known as Bruce.
+* Kellogg spent part of his youth in Washington and graduated from the Western High School in 1948.
+* After graduating, Kellogg worked for the Westinghouse Electric Corporation as a research scientist in the nuclear power industry before joining the Mathematics Department of the University of Maryland in 1966.
+* While working at Westinghouse's Bettis Atomic Power Laboratory, Kellogg published papers such as: (with L C Noderer) Scaled iterations and linear equations (1960); Another alternating-direction-implicit method (1963); Difference equations on a mesh arising from a general triangulation (1964); An alternating direction method for operator equations (1964); and (with J Spanier) On optimal alternating direction parameters for singular matrices (1965).
+* In 1966 Kellogg was appointed to the Institute for Fluid Dynamics and Applied Mathematics of the University of Maryland, College Park.
+* Charles R Johnson, whose middle name was Royal, was a colleague of Bruce Kellogg at Maryland.
+* A major theme in Bruce's opus is the numerical solution of singular perturbation problems.
+* Kellogg published over 100 papers having 46 co-authors and, by June 2013,  they had received 837 citations by 661 authors.
+* Kellogg's own introduction to Higher order singularities for interface problems.
+* Here are a few examples of his post-retirement papers, mostly with Kellogg's own summary.
+* Kellogg had married Claire White; they had four children Louise, Gregory, David, and Renée.
+* While he was working at the University of Maryland, Kellogg had lived at 7504 Hancock Avenue, Takoma Park, which is a suburb of Washington D.C. The Kelloggs sold their home in Takoma Park in March 2001.
+* Kellogg died at the Smith Phayer Hospice House of the Carolina Foothills in Landrum, South Carolina.
 
 Born 28 December 1930, Chicago, Illinois, USA. Died 30 April 2012, Landrum, South Carolina, USA.
 

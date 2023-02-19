@@ -7,10 +7,10 @@ orderid: 1835
 title: Casorati, Felice
 born: 1835
 died: 1890
-keywords: Casorati-Weierstrass theorem, invertible, multivariate polynomial, quasi-conformal, holomorphic functions, Casorati derivatives, general relativity, mapping
-description: Felice Casoratideveloped a range of theories and techniques including the Casorati–Weierstrass theorem, invertibility criteria, mapping of elementary functions and theories of holomorphic functions.
+keywords: felice casorati,casorati
+description: Felice Casorati is best remembered for the Casorati-Weierstrass theorem characterising the behaviour of a function near an essential singularity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Felice Casorati** is best remembered for the Casorati-Weierstrass theorem characterising the behaviour of a function near an essential singularity.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Casorati–Davenport theorem, which provides a criterion for a system to be invertible.
-2. Identified the necessary conditions for a multivariate polynomial to possess a certain group of symmetries.
-3. Developed the theory of quasi-conformal regularity and the first examples of quasi-conformal automorphs.
-4. Developed a new approach to the theory of holomorphic functions of several variables, such as the notion of maximal monomials and the convergence of multiple series.
-5. Developed a new technique for the calculation of partial derivatives of holomorphic functions, now known as Casorati derivatives.
-6. Made contributions to the mathematical foundations of general relativity and quantum mechanics.
-7. Developed a theorem on which basis the topological structure of surfaces and the logic of the mapping of elementary functions can be studied.
-8. Developed a series of papers on the theory of complex differential equations and their applications to the study of algebraic varieties.
+* Francesco Casorati was a medical man who researched in physiology at the University of Pavia.
+* Felice was a student at Pavia and initially his interests were in engineering and architecture.
+* While in Germany in 1864, Casorati became familiar with he ideas of Riemann and Weierstrass on complex function theory and then spread these ideas through his lectures and contacts.
+* After returning from the first of his journeys in 1859, Casorati was appointed as extraordinary professor of algebra and analytic geometry at the University of Pavia.
+* Casorati wrote one major book and published 49 research papers.
+* Casorati is best remembered for the Casorati- Weierstrass theorem which says that an analytic function comes arbitrarily close to any given value in any neighbourhood of an essential singularity.
+* Weierstrass proved this in a paper of 1876 and, although he had proved it some time before publication, Casorati had already included it in his 1868 treatise Teoria delle funzioni di variabili complesse Ⓣ(Theory of functions of a complex variable).
+* Although Neuenschwander shows that priority rests with Casorati, nevertheless Weierstrass did prove a lemma in 1841 which was needed by Casorati in his proof.
+* Casorati was an energetic correspondent and much still survives that gives an inside picture of the scientific and academic life in Italian universities in the second half of the 19th  century.
+* Among the mathematicians with whom Casorati corresponded we find Eneström, Fuchs, Hermite, Kronecker, Schwarz, Prym, Mittag-Leffler and Schläfli (no fewer than 108 letters with him).
+* Casorati, in these papers, is seen clearly as one of the principal figures in the transmission of German and French mathematics to the new generation of Italian mathematicians such as Betti, Beltrami and others.
+* Casorati received many honours.
 
 Born 17 December 1835, Pavia (now Italy). Died 11 September 1890, Casteggio, Italy.
 

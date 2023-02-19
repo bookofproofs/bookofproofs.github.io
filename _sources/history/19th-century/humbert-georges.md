@@ -7,10 +7,10 @@ orderid: 1859
 title: Humbert, Georges
 born: 1859
 died: 1921
-keywords: Georges Humbert, mathematics, geometry, hyperelliptic functions, number theory, group theory, diophantine approximation
-description: Georges Humbert was a French mathematician who worked on geometry, hyperelliptic functions, number theory, group theory, and diophantine approximation.
+keywords: georges humbert,humbert
+description: Georges Humbert was a French mathematician who worked on geometry and hyperelliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georges Humbert ** was a French mathematician who worked on geometry and hyperelliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. First to identify the successive minima of a positive definite quadratic form and to prove a relationship between them; 
-2. Discovered the mass formula for the number of positive-definite integral binary quadratic forms of a given discriminant; 
-3. Worked on uniformization theory, foundational to modern number theory;
-4. Formulated theorems of class field theory, required to prove Fermat's Last Theorem in algebraic form;
-5. Established an integral basis for the imaginary quadratic fields;
-6. Contributed to the study of group theory;
-7. Proved a theorem on the largest prime divisor of a given number; 
-8. Developed a theory of the condensation of ideals in certain number fields;
-9. Provided key contributions to the field of diophantine approximation.
+* His grandparents sent Georges to the Oratorian College of Juilly to become a boarder there.
+* Humbert obtained a doctorate in mathematics in 1885 for his thesis Sur les courbes de genre un Ⓣ(On curves of genus one).
+* Humbert married Marie Jagerschmidt in 1890 and in the following year his son Pierre was born.
+* Pierre Humbert grew up to be a mathematician and has a biography in this archive.
+* Georges Humbert's delight at the birth of his son was short-lived, however, for his wife died in 1892.
+* Humbert married again in 1900 and with his second wife Suzanne Lambert-Caillemar had two further children.
+* On the death of Hermite in 1901, Humbert was elected to fill his place in the Académie des Sciences.
+* Georges Humbert would be better known today if the area of mathematics in which he worked had remained in favour.
 
 Born 7 January 1859, Paris, France. Died 22 January 1921, Paris, France.
 

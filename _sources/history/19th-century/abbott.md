@@ -7,10 +7,10 @@ orderid: 1838
 title: Abbott, Edwin
 born: 1838
 died: 1926
-keywords: Flatland, mathematical reasoning, non-Euclidean geometry, higher arithmetic, logical symbolism, differential equations, mathematical analysis
-description: Edwin Abbott wrote the influential book Flatland, helping to develop mathematical reasoning, non-Euclidean geometry, higher arithmetic and logical symbolism. He advocated for the use of symbolic algebra, published works on differential equations and mathematical analysis and established a mathematical school.
+keywords: edwin abbott abbott,abbott
+description: Edwin Abbott was an English schoolmaster who wrote the popular book Flatland as an introduction to higher dimensions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edwin Abbott** was an English schoolmaster who wrote the popular book _Flatland_ as an introduction to higher dimensions.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the influential book Flatland: A Romance of Many Dimensions, which greatly enhanced the study of multidimensional geometry and drew attention to the mathematical basis for physical theoretical models.
-2. Developed an innovative system of logical symbolism which helped to elevate mathematical reasoning and description.
-3. Helped to establish the theological and philosophical implications of non-Euclidean geometry.
-4. Developed a new system of teaching mathematics that made the subject more accessible and attractive to a wider range of students.
-5. Contributed to the development of 'higher arithmetic', a system of algebraic thought which helped to revolutionize the wider scientific community.
-6. Co-founded the journal Mind and wrote over 200 essays on education, logical grammar, and philosophy.
-7. Advocated for the use of symbolic algebra in mathematics education. 
-8. Established a mathematical school in Stepney, where he used his new methods to teach students. 
-9. Content of his book on mathematics, The Elements of Algebra, allowed it to become an essential reference for school teachers and students for generations. 
-10. Published several works on differential equations, mathematical analysis, and other branches of mathematics.
+* His mother Jane was a first cousin of his father, so both had the name of Abbott which explains Edwin Abbott Abbott having 'Abbott' as both a surname and a middle name.
+* Edwin Abbott was headmaster of the Philological School at Marylebone.
+* Abbott was educated at the City of London School which had gained a fine reputation under Dr G F W Mortimer who was headmaster throughout the years during which he studied there.
+* Following a fine school education, Abbott entered St John's College, Cambridge, in 1857.
+* At this time College fellows were not allowed to marry so, when Abbott wished to marry Mary Elizabeth Rangeley from Unstone, Derbyshire, in 1863, he had to resign the fellowship.
+* Edwin and Mary had one son and one daughter.
+* After leaving Cambridge, Abbott taught at King Edward's School, Birmingham, and then at Clifton College.
+* It was a post which Abbott held for 24 years until he retired in 1889.
+* Of course Abbott was relatively young when he retired being only 50 years old.
+* As a scholar, Abbott was very broad writing excellent works on a wide variety of topics.
+* This was Flatland: a romance of many dimensions (1884) which Abbott wrote under the pseudonym of A Square.
+* In it Abbott tries to popularise the notion of multidimensional geometry but the book is also a clever satire on the social, moral, and religious values of the period.
+* In Abbott's Flatland, the more sides you have then the higher is your class.
+* It is worth noting that this remarkable piece of writing by Abbott predated by many years Einstein's four dimensional world of relativity.
+* Abbott died of influenza at his home, Wellside, Well Walk in Hampstead, and was buried in Hampstead cemetery.
 
 Born 20 December 1838, Marylebone, Middlesex, England. Died 12 October 1926, Hampstead, London, England.
 

@@ -7,10 +7,10 @@ orderid: 1876
 title: Eisenhart, Luther Pfahler
 born: 1876
 died: 1965
-keywords: Eisenhart Lift, Mach, Atomic Model of Matter, Gauss-Eisenhart Theorem, Lagrangian/Hamiltonian, Painlevé equation, Eisenhart Method
-description: Eisenhart developed key methods in mathematical & physical sciences: Eisenhart Lift, Atomic Model of Matter, Gauss-Eisenhart Theorem & Eisenhart Method, connecting Lagrangian/Hamiltonian & solving the Painlevé equation.
+keywords: luther eisenhart,eisenhart
+description: Luther Eisenhart was an American mathematician who worked in differential geometry and relativity theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Luther Eisenhart** was an American mathematician who worked in differential geometry and relativity theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for differential geometry known as "Eisenhart Lift" which allows one to turn any problem in ordinary differential equations into one in Hamiltonian mechanics. 
-2. Established a collaboration between physics and mathematics by introducing the mathematics of Ernst Mach into the theory of relativity.
-3. Developed the Atomic Model of Matter in the 1920s, which was one of the first attempts to explain the physical properties of matter using wave mechanics.
-4. Developed the Gauss-Eisenhart Theorem, an important result in Riemannian geometry which laid the groundwork for Einstein’s General Theory of Relativity. 
-5. Established a fundamental connection between Lagrangian and Hamiltonian dynamics. 
-6. Found a way to quantize the harmonic oscillator. 
-7. Pioneered the use of tensor analysis to find connections between various branches of mathematics. 
-8. Developed a proof for the Darboux Theorem, an important result in symplectic geometry. 
-9. Solved the Painlevé equation in the 1930s, providing insight into the behavior of non-linear differential equations. 
-10. Developed a high-accuracy averaging procedure for solving Hamilton's equation, a technique now known as the Eisenhart Method.
+* Luther was the second of his parents' six sons.
+* He was brought up in a religious home with much of the family's social life being centred around St Paul's Lutheran Church.
+* He also excelled at baseball, a sport that the young Eisenhart boys had been passionate about as they grew up.
+* As Eisenhart indicated in the above quote, this work was heavily influenced by Darboux's treatise on the subject and he received little supervision for his doctorate.
+* Eisenhart spent most of his career at Princeton where he became an instructor in mathematics taking up his appointment in September 1900.
+* In 1908 he married Anna Maria Dandridge Mitchell; they had one son Churchill Eisenhart.
+* After Henry Fine died following a bicycle accident in December 1928, Eisenhart became Head of Mathematics at Princeton and Dod Professor of Mathematics, continuing in these roles until he retired in 1945.
+* The plan was adopted in 1923 and, as we can see from the details we gave above of Eisenhart's own education, it was very much based on the experiences he had gone through.
+* However Eisenhart was prepared to fight for what he believed in, and his arguments won the day.
+* Let us now look at Eisenhart's research contributions.
+* The second stage started after 1921 when Eisenhart, prompted by Einstein's general theory of relativity and the related geometries, studied generalisations of Riemannian geometry.
+* The book gave a presentation of the existing theory of Riemannian geometry after a period of considerable study and development of the subject by Levi-Civita, Eisenhart, and many others.
+* In 1933 Eisenhart published Continuous Groups of Transformations  which continues the work of his earlier books looking at Lie's theory using the methods of the tensor calculus and differential geometry.
+* Eisenhart has thus developed a remarkable body of original material and has notably served his colleagues by frequent surveys of fields in which he had become a specialist.
+* After he retired, Eisenhart continued to undertake research.
+* Eisenhart had a long association with the American Mathematical Society being vice president in 1914, and Colloquium lecturer in 1925 when he lectured on non-Riemannian geometry.
+* Eisenhart was essentially a most modest man.
+* The intimate atmosphere which surrounded him, its very serenity, was due in large measure to the care and devotion which he received from Mrs Eisenhart.
 
 Born 13 January 1876, York, Pennsylvania, USA. Died 28 October 1965, Princeton, New Jersey, USA.
 

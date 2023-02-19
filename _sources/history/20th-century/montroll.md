@@ -7,10 +7,10 @@ orderid: 1916
 title: Montroll, Elliott Waters
 born: 1916
 died: 1983
-keywords: Elliott Montroll, tree structure, winding numbers, Riemann-Roch theorem, generating functions, spanning trees, Dvoretzky-Erdoes inequality
-description: Elliott Montroll, mathematician and scientist, developed the 'tree' structure and the 'excess' formula, used winding numbers and proved the Riemann-Roch and Dvoretzky-Erdoes theorems.
+keywords: elliott montroll,montroll
+description: Elliott Montroll was an American scientist and mathematician who worked in a variety of applied mathematical and statistical areas.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Elliott Montroll** was an American scientist and mathematician who worked in a variety of applied mathematical and statistical areas.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the 'tree' structure used to classify and study combinatorial problems.
-2. Pioneered the concept of winding numbers and used it to prove the Riemann-Roch theorem.
-3. Published numerous research papers on the topics of generating functions, large deviations, and probability theory.
-4. Co-authored the influential book ‘Studies in Combinatorial Theory’ with William Tutte. 
-5. Developed the ‘excess’ formula, which is used to calculate the number of spanning trees in a graph.
-6. Proved the Dvoretzky-Erdoes inequality in discrete probability.
+* Adolph was an artist who dealt in furs and together with his wife Esther provided a loving home in which Elliott grew up.
+* They taught Elliott to read and write before he entered school for the first time at the age of five.
+* It was clear that given his passion for chemistry that was the subject Montroll would study at university.
+* Montroll was now in the unusual position of being able to work in mathematics, physics or chemistry departments.
+* During 1942-43 Montroll was an instructor in physics at Princeton University and in 1943 he married Shirley Abrams; they had ten children, five boys and five girls.
+* In 1943 Montroll was appointed as Head of the Mathematics Research Group at the Kellex Corporation in New York.
+* During his time at Maryland, Montroll published Topics in statistical mechanics of interacting particles  which was 86 pages of mimeographed notes of a lecture series, written jointly with G F Newell.
+* At the Third Berkeley Symposium on Mathematical Statistics and Probability 1954-1955, Montroll gave a paper Theory of the vibration of simple cubic lattices with nearest neighbor interactions  in which described vibrations of a cubic lattice with 1, 2, 3, and nnn dimensions where nnn is large.
+* Montroll was not someone who was happy to remain in one place for a long time and by 1960, having been at the University of Maryland for nine years, he felt it was time to move on.
+* Montroll's work led to him receiving many honours and prizes.
 
 Born 4 May 1916, Pittsburg, Pennsylvania, USA. Died 3 December 1983, Chevy Chase, Maryland, USA.
 

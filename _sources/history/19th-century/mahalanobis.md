@@ -7,10 +7,10 @@ orderid: 1893
 title: Mahalanobis, Prasanta Chandra
 born: 1893
 died: 1972
-keywords: Mahalanobis, Statistics, Indian Statistical Institute, Meteorology, Anthropology, Sample Survey, Structural Analysis
-description: Prasanta Mahalanobis was a trailblazer in Statistics and its applications, founding the Indian Statistical Institute and developing new measures and techniques such as Mahalanobis distance, Structural Analysis and Sample Survey.
+keywords: prasanta chandra mahalanobis,mahalanobis
+description: Prasanta Mahalanobis was an Indian mathematiccian who made important contibutions to statistics and to its application in meteorology and anthropology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Prasanta Mahalanobis** was an Indian mathematiccian who made important contibutions to statistics and to its application in meteorology and anthropology.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Indian Statistical Institute in 1931 and served as its director until 1972.
-2. Developed and popularized the 'Mahalanobis distance', a statistical measure of similarity between data sets.
-3. Played a major role in the design and execution of the first sample survey to collect economic data in India in the 1930s.
-4. Worked on the theory of sequential estimation,which is the foundation for sample survey techniques adopted even today.
-5. Introduced sampling techniques for controlling quality in production during World War II.
-6. Developed the Method of Structural Analysis, a multivariate technique for analyzing data.
-7. Formulated an exact test for the standardized normal deviates, which is now known as the Mahalanobis “T" square test.
-8. Helped develop India’s first satellite, Aryabhata, in 1975.
+* Probodh Chandra (1869-1942) worked for a while in his father's (Gurucharan (1833-1916)) chemist's shop before starting up his own business as a dealer in sports goods.
+* Probodh Chandra and Nirodbashini had two sons and four daughters, the eldest child being Prasanta Chandra the subject of this biography.
+* The poet Rabindranath Tagore was a significant influence on Mahalanobis when he was a young boy.
+* Even at a very early age he came under the influence of Rabindranath Tagore who took a liking to young Mahalanobis, being particularly impressed by the combination in him of a love of literature with a flair for logical analysis.
+* Mahalanobis attended the Brahmo Boys School in Calcutta, passing the matriculation examination in 1908, his final year at the school.
+* Entering Presidency College, Calcutta in 1908, where his uncle Subodh Chandra Mahalanobis was professor of physiology, Mahalanobis passed the Intermediate Examination in science two years later and graduated with a B.Sc. with honours in physics in 1912.
+* In the summer of 1913 Mahalanobis went to England where his intention was to study for a B.Sc. at the University of London.
+* In the friend's house he met a student who was studying at King's College and, hearing that Mahalanobis found the chapel so attractive, suggested he apply to study there.
+* In the natural sciences tripos, Mahalanobis had specialised in physics and he set up a research project at the Cavendish Laboratory.
+* However, once back in India his uncle, Subodh Chandra Mahalanobis the professor of physiology at Presidency College Calcutta, introduced him to the Principal of the College who was trying to fill a temporary vacancy in the physics department.
+* Asked if he would take on a temporary teaching role in physics at the College to help out, Mahalanobis agreed but he was still intent on returning to Cambridge to undertake his research project once the temporary position ended.
+* Now Mahalanobis's involvement in statistics came about, as many aspects of his life did, through a chance happening.
+* This interest in statistics did not change the career path of Mahalanobis who was appointed as Professor of Physics at Presidency College in 1922.
+* However, before we give some details of the setting up of the Indian Statistical Institute by Mahalanobis, let us note that he married Nirmalkumari, the daughter of the Principal of City College, Calcutta, and, like Mahalanobis, an important member of the Brahmo Samaj religion.
+* MathSciNet lists 144 papers in which the Mahalanobis distance plays a significant role and is mentioned in the title or review of the paper.
+* As a result of seeing this paper, the Director General of Observatories asked Mahalanobis if he would be interested in examining some meteorology problems.
+* These were the first of over 200 papers which Mahalanobis published covering a vast range of topics from agriculture to drinking tea among middle class Indian families in Calcutta.
+* Perhaps the two most important contributions by Mahalanobis, other than his scientific papers, were setting up the Indian Statistical Institute and the founding of the journal Sankhya.
+* It soon acquired the name of the Statistical Laboratory and was located in Mahalanobis's room in the Physics Department.
+* The official setting up of the Indian Statistical Institute was on 17 December 1931 when Mahalanobis, together with the Professor of Economics and the Professor of Applied Mathematics at Presidency College met under the chairmanship of the industrialist Sir Rajendranath Mukherjee and passed a resolution formally setting up the Indian Statistical Institute.
+* Basically through the 1920s and up to 1931 almost all statistical work done in India was by Mahalanobis.
+* For example, in December 1932 Mahalanobis offered R C Bose a part-time post at the Indian Statistical Institute.
+* Mahalanobis gave him a list of papers to read and he soon became a world-class statistician.
+* Under Mahalanobis's leadership the Institute flourished.
+* The other major achievement of Mahalanobis was the founding of the statistics journal Sankhya in 1933 as a publication of the Indian Statistical Institute.
+* Mahalanobis received many honours for his remarkable contributions to the development of statistics and to life in India.
+* The 'Mahalanobis Era' in statistics which started in the early twenties has ended.
 
 Born 29 June 1893, Calcutta (now Kolkata), India. Died 28 June 1972, Calcutta (now Kolkata), India.
 

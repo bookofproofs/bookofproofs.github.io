@@ -7,10 +7,10 @@ orderid: 1861
 title: Peddie, William
 born: 1861
 died: 1946
-keywords: William Peddie, Edinburgh University, Professor Physics, Royal Society, Quaternions, Integral Calculus, Theta Functions
-description: William Peddie was a Professor of Physics at Edinburgh University. He won the Hutton Medal from the Royal Society of Edinburgh and published works on mathematical physics and quaternions. He devised numerical methods and elaborated on theta functions.
+keywords: william peddie,peddie
+description: William Peddie graduated from Edinburgh University and then lectured in Physics. He was appointed Professor of Physics at Queen's College Dundee and held this post for 37 years.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Peddie** graduated from Edinburgh University and then lectured in Physics. He was appointed Professor of Physics at Queen's College Dundee and held this post for 37 years.
 
 ### Mathematical Profile (Excerpt):
-1. Won the Hutton Medal from the Royal Society of Edinburgh for his important contributions to mathematical physics in 1889. 
-2. Published major works on mathematics and mathematical physics, including the book entitled "On Quaternions," which contained mathematical quaternion notation. 
-3. Developed a system for the calculation of extended numerical tables. 
-4. Published his book "A Treatise on the Integral Calculus" in 1902. 
-5. Proposed the existence of quaternion-time subspace. 
-6. Created an elaborate graphical presentation of the theta functions of Jacobi. 
-7. Constructed numerical integration methods based on derivatives. 
-8. Served as a mathematics lecturer at Edinburgh University from 1884-1900.
+* William Peddie had an older sister Marion (born 1860) and a younger brother David (born 1963).
+* William Peddie attended Kirkwall Grammar School, Orkney, and then studied at the University of Edinburgh, being awarded a B.Sc. in 1887 and then a D.Sc. in the following year.
 
 Born 31 May 1861, Papa Westray, Orkney, Scotland. Died 2 June 1946, Ninewells, Dundee, Scotland.
 

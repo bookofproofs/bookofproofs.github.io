@@ -7,10 +7,10 @@ orderid: 1926
 title: Eells, James
 born: 1926
 died: 2007
-keywords: James Eells, Mathematics, Analysis, Geometry, Calculus, Topology, Algebraic
-description: American mathematician James Eells authored classic textbooks, edited the "Handbook of Mathematical Functions", developed and published on topology, pioneered algebraic geometry, and demonstrated the "Eells–Samuel space-filling curve".
+keywords: james eells,eells
+description: James Eells was an American mathematician who worked in mathematical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Eells** was an American mathematician who worked in mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the classic textbook, Analytic Geometry and Calculus of Several Variables, in 1927.
-2. Was an editor of the first three editions of the "Handbook of Mathematical Functions".
-3. Helped develop the modern field of topology and was the first mathematician to publish a paper on its axiomatic definition.
-4. Pioneered the study of algebraic geometry, which is the study of algebraic equations and their geometric properties.
-5. Authored several foundational papers in multiple branches of mathematics, including algebraic geometry, topology, and analytic geometry.
-6. Demonstrated the concept of the "Eells–Samuel space-filling curve" which is a space-filling curve that passes through all points of an n-dimensional cube.
+* Eells had not undertaken graduate studies up to this time but after two years teaching at Amherst he decided that he wanted to make a career in mathematics.
+* In these early years of his career, Eells published a number of papers including Geometric aspects of currents and distributions (1955), (with Charles B Morrey) A variational method in the theory of harmonic integrals (1955), (with Richard F Arens) On embedding uniform and topological spaces (1956), and (with Charles B Morrey) A variational method in the theory of harmonic integrals (1956).
+* For a few years Eells taught at the Columbia University, New York.
+* Eells was keen to find a permanent appointment at Warwick and in 1969 he was appointed as the first Professor of Analysis.
+* The year 1967 in which Eells ran the symposium at Warwick was also the year that he published Singularities of smooth maps  which mainly deals with on Morse theory.
+* A prime example is Eells's most famous article, "Harmonic Mappings of Riemannian Manifolds", published in the American Journal of Mathematics in 1964.
+* Eells had first been attracted to Warwick through the mini summer symposium he ran in 1967 so once on the permanent staff at Warwick it was natural that he should run year long symposia.
+* However, despite being fully committed to Warwick, Eells took on another role in addition, namely one at the International Centre for Theoretical Physics at Trieste.
+* The success of Eells symposium led to the setting up of a Mathematics Division of the Centre and Eells became its first director in 1986.
+* The work of the Centre is particularly aimed at helping scientist in Third World countries to participate fully in their specialities and Eells' role as Director of the Mathematics Division reflected his passion to support mathematicians working in low income countries.
+* We should say more about Eells substantial and deep contributions to mathematics.
+* In fact Eells went on to publish two definitive surveys on the topic with Luc Lemaire who studied for a doctorate under Eells' supervision.
+* In 1992 a selection of Eells' papers on Harmonic maps was published as a book with this title in 1992.
+* Other books written by Eells on this topic were Selected topics in harmonic maps (1983) with Luc Lemaire, Harmonic maps and minimal immersions with symmetries (1992) with Andrea Ratto (another PhD student of Eells' who received his doctorate in 1987), and Harmonic maps between Riemannian polyhedra (2001) with the Danish mathematician B Fuglede.
+* In 1992 Eells retired from his professorship at the University of Warwick and ended his role as director of the Mathematics Division of the International Centre for Theoretical Physics at Trieste.
 
 Born 25 October 1926, Cleveland, Ohio, USA. Died 14 February 2007, Cambridge, England.
 

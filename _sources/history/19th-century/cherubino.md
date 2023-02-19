@@ -7,10 +7,10 @@ orderid: 1885
 title: Cherubino, Salvatore
 born: 1885
 died: 1970
-keywords: Salvatore Cherubino, algebraic geometry, probability theory, Fields Medal, Bockstein Prize, Faber Award, European Mathematical Society, Annals of Mathematics
-description: Italian mathematician Salvatore Cherubino won major awards, presented at international congresses and published in prestigious journals for his work in algebraic geometry and probability theory.
+keywords: salvatore cherubino,cherubino
+description: Salvatore Cherubino was an Italian mathematician who worked on algebraic geometry and probability theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Salvatore Cherubino** was an Italian mathematician who worked on algebraic geometry and probability theory.
 
 ### Mathematical Profile (Excerpt):
-1. He won the prestigious Fields Medal for his work in algebraic geometry.
-2. He received the Bockstein Prize for his contributions to algebraic geometry in 2019. 
-3. He was an invited speaker at the International Congress of Mathematicians in 2010. 
-4. He was awarded the Faber Award 2018 for his accomplishments in mathematics. 
-5. He became a Laureate of the European Mathematical Society in 2017. 
-6. He published a paper on algebraic geometry in the Annals of Mathematics in 2001. 
-7. He presented his doctoral thesis at the University of Helsinki in 1997.
+* The family was not well-off and could not afford to give their son Salvatore the solid education that his talents clearly deserved.
+* Immediately after he graduated, Cherubino attended a course given by Pascal on classical binary forms.
+* This led to Cherubino publishing the paper Ampliamento di un sistema completo alle cui forme fondamentali si aggreghi una nuova forma di ordine n Ⓣ(Addition of a complete system to whose basic forms aggregates is a new form of order n) (1911) in Battaglini's Giornale di matematiche.
+* Cherubino was awarded a government scholarship for advanced study which allowed him to attend the courses of Levi-Civita and Veronese while, advised by Severi, he devoted himself to the study of algebraic geometry.
+* This led to Cherubino publishing Sulle curve iperellittiche con trasformazioni birazionali singolari in sé e sui loro moduli algebrici Ⓣ(On hyperelliptic curves with singular birational transformations in themselves and their algebraic forms) (1913-14).
+* In 1913 Cherubino was appointed as an assistant to the Chair of Infinitesimal Calculus at the University of Naples but he continued to teach in secondary schools.
+* Cherubino was drafted into the military, first as a private soldier and then, at his request, as an officer in the Territorial Militia where he served as an telegraphic engineer.
+* Cherubino remained with his unit until the end of the war.
+* At Naples, Cherubino was influenced by Gaetano Scorza who taught at the University of Naples from 1920 to 1934.
+* Cherubino was again influenced by Pascal and he began to undertake research on a new topic, publishing Sulle varietà abeliane reali e sulle matrici di Riemann reali Ⓣ(On Abelian  real varieties and real Riemann matrices) in 1922.
+* However, Cherubino now studied Civil Engineering and was awarded his laurea in that topic in 1923 and began lecturing in mathematics at the industrial technical institute in Naples.
+* Cherubino published several important memoirs on matrix theory around this time such as Le matrici riemanniane sottonormali (1927), Le matrici caratteristiche delle simmetrie sulle varietà abeliane reali Ⓣ(The matrices characteristics of symmetries on the real Abelian varieties) (1928) and Una applicazione del calcolo delle matrici alla teoria delle forme quadratiche Ⓣ(An application of the calculation of the matrices to the theory of quadratic forms) (1929).
+* In 1933, approaching the age of fifty, Cherubino won the competition for the Chair of Analytical, Projective and Descriptive Geometry and Drawing at the University of Messina.
+* After retiring, Cherubino published the monograph Calcolo dell Matrici Ⓣ(Calculation of matrices) (1957).
+* We should also mention that Cherubino did some work on probability theory, for example he published a work on probability suggested by the theory of gases Una quistione di probabilità suggerita dalla teoria dei gas Ⓣ(A question of probability suggested by the theory of gases) (1923).
+* The memory of Salvatore Cherubino remains deep in the hearts of all his students and we regret losing his counsel but we are committed to follow his example.
+* As well as the gold medal which Passaquindici mentions, Cherubino was honoured with election to the Accademia Pontaniana di Napoli in 1928 and to the Accademia Leonardo da Vinci di Napoli in 1932.
 
 Born 3 June 1885, Naples, Italy. Died 2 August 1970, Pisa, Italy.
 

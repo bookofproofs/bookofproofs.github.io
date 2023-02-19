@@ -7,10 +7,10 @@ orderid: 1868
 title: Tweedie (2), Charles
 born: 1868
 died: 1925
-keywords: Edinburgh, Göttingen, Berlin, Mathematics, Physics, Teaching, Research
-description: Charles Tweediewas an educator and scholar in Mathematics and Physics who studied in Europe and led groundbreaking research in Belfast.
+keywords: charles tweedie,tweedie
+description: Charles Tweedie studied at Edinburgh, Göttingen and Berlin. He returned to Edinburgh as assistant to Chrystal. He served as a Schools Inspector and published works on the History of Mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,18 +20,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Charles Tweedie** studied at Edinburgh, Göttingen and Berlin. He returned to Edinburgh as assistant to Chrystal. He served as a Schools Inspector and published works on the History of Mathematics. 
+**Charles Tweedie** studied at Edinburgh, Göttingen and Berlin. He returned to Edinburgh as assistant to Chrystal. He served as a Schools Inspector and published works on the History of Mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Named the first professor of Mathematics at Queen’s College, Belfast (1845).
-2. Promoted the teaching of mathematics and physics at Queen’s College (1859–1904).
-3. Published several textbooks, including An Elementary Treatise on Algebra (1873), Mathematical Apparatus (1881), Differential and Integral Calculus (1884), and Graphical Algebra (1888).
-4. Conducted original research in analytic geometry, bridge and laminar flow internal-circulation dynamics, and elasticity.
-5. Demonstrated the importance of laboratory instruction for mathematics students.
-6. Established a mathematical society which provided the opportunity for students to discuss mathematics problems. 
-7. Authored a paper on elliptic integrals, which was published in the Cambridge Mathematical Journal (1863).
-8. Organised an international mathematics conference in Belfast (1893). 
-9. Became the first President of the Belfast Natural History and Philosophical Society (1853).
+* His father was George Tweedie (1837-1905) and his mother was Charlotte Lugton (1836-1909).
+* It was a large family with Charles the third child having younger brothers and sisters Euphemia (born 1870), Charlotte Elizabeth (born 1875), William Alexander (born 1877) and Jessie Isabella (born 1879).
+* Charles also had an older sister Annie Jane (born 1866) and an older brother David (born 1865) who, like Charles, also went on to become a member of the Edinburgh Mathematical Society.
+* Charles was a pupil at George Watson's College, Edinburgh and while there he was awarded a Sibbald Bursary to study at the University of Edinburgh.
+* Tweedie decided to study mathematics abroad and went to the leading centre for mathematics in the world at that time, namely the University of Göttingen, in 1891.
+* An obituary of Tweedie, written by E M Horsburgh, appeared in the Mathematical Gazette.
 
 Born 27 June 1868, Swinton, Berwickshire, Scotland. Died 14 September 1925, Edinburgh, Scotland.
 

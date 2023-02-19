@@ -4,13 +4,13 @@ categories: history,13th-century
 parentid: bookofproofs$606
 tags: ancient-arab,astronomy,origin-spain
 orderid: 1220
-title: Al-Maghribi, Muhyi l'din
+title: Al-Maghribi, Muhyi l&amp;#x27;din
 born: 1220
 died: 1283
-keywords: Muhyi l'din al-Maghribi, arithmetic, algebra, trigonometry, Fermat’s theorem, divisors, equations
-description: Muhyi l'din al-Maghribi was a Spanish Islamic astronomer whose treatise on Arabic arithmetic and works on mathematics, algebra, trigonometry, divisors, equations, and Fermat’s theorem advanced the field.
+keywords: muhyi l'din al-maghribi,al-maghribi
+description: Muhyi l'din al-Maghribi was a Spanish-born Islamic astronomer who is most famous for his work on trigonometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Muhyi l'din al-Maghribi** was a Spanish-born Islamic astronomer who is most famous for his work on trigonometry.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote an influential treatise on Arabic arithmetic entitled “al-Fakhri” which contained solutions to complex algebraic equations.
-2. Developed a procedure for extracting roots of numbers beyond the scope of traditional methods.
-3. Developed a special rule for subtracting two numbers of the same denomination utilizing a coefficient of 10 and a coefficient of 1.
-4. Developed a method for extracting square and cube roots from any given number.
-5. Proved a special case of Fermat’s little theorem called “Fermat’s Last Theorem”.
-6. Answered certain algebraic questions that were previously unsolvable.
-7. Advanced the concept of composite numbers and their properties.
-8. Developed a method for determining the number of divisors of a given number.
-9. Published several works on the theoretical and practical aspects of mathematics.
-10. Developed a method for solving Third Order equations.
+* Muhyi l'din went to Maragha in 1258 as a guest of Hulegu.
+* Al-Tusi and Muhyi l'din were involved in the construction of an Observatory.
+* There is a unique manuscript by Muhyi l'din in which he lists precise observations made at the Maragha Observatory between 1262 and 1274.
+* Perhaps Muhyi l'din is most famous for his work on trigonometry.
+* In doing this work Muhyi l'din also found an approximate value for π which he compared with the bounds obtained by Archimedes using 96 inscribed and circumscribed polygons.
+* Muhyi l'din also considered the classical problem of doubling the cube which he approached by Hippocrates' method of finding two mean proportionals between two given lines.
+* Another important aspect of Muhyi l'din's work was the critical commentaries which he produced on some of the classic Greek works such as Euclid's Elements, Apollonius's Conics, Theodosius's Spherics, and Menelaus's Spherics.
+* A particularly important commentary by Muhyi l'din is that on Book XV of the Elements (which was not written by Euclid).
+* The original Arabic version of Book XV is lost but there are four surviving manuscripts containing Muhyi l'din's commentary on it.
+* We know that there was more than one version of the Arabic Book XV, for recently a Hebrew translation of Book XV has been discovered which has been translated from a different version to that which Muhyi l'din used for his commentary.
 
 Born about 1220, Spain. Died about 1283, Maragha, Iran.
 

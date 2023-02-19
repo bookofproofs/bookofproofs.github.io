@@ -7,10 +7,10 @@ orderid: 1883
 title: Gibb, David
 born: 1883
 died: 1946
-keywords: David Gibb, Edinburgh University, Mathematics, Teaching, Assessment, Publications, Instructors
-description: David Gibb graduated from Edinburgh University, established an innovative teaching system, and developed successful programs adopted in 25,000+ schools. Trained instructors and authored publications, boosting student math performance by 10%.
+keywords: david gibb,gibb
+description: David Gibb graduated from Edinburgh University and went on to become a lecturer and reader there.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Gibb** graduated from Edinburgh University and went on to become a lecturer and reader there.
 
 ### Mathematical Profile (Excerpt):
-1. Established an innovative teaching and assessment system based on mathematics problem solving.
-2. Developed individualized instructional plans for students based on their specific needs and goals.
-3. Developed successful programs for mathematics instruction and practice that have been adopted by over 25,000 students worldwide.
-4. Boosted student performance in math subjects by up to 10% with his unique approach to teaching.
-5. Received multiple awards and recognition from professional organizations for his work in mathematics education.
-6. Authored numerous publications on mathematics education and related topics.
-7. Trained hundreds of mentor teachers and mathematics instructors worldwide in new strategies for teaching math.
-8. Developed digital products to support and promote mathematics education, including a popular app series.
+* His mother was  Joanna Gibb (born Largo, Fife about 1855).
+* David Gibb had younger siblings: Edith (born about 1881), William (born about 1886) and Annabella (born about 1890).
+* David Gibb's home was Bellavue, Innerleven, Methil, Fife.
+* In his first year of study at university, Gibb took courses in Mathematics and Natural Philosophy at the Ordinary level passing Mathematics with the excellent mark of 89% but finding Natural Philosophy somewhat harder with a pass at 57%.
+* Following his graduation, Gibb was a mathematics teacher in a school until Chrystal appointed him a Lecturer in Mathematics at the University of Edinburgh in 1909.
+* Gibb was elected a Fellow of the Royal Society of Edinburgh on 24 January 1910 having been proposed by George Chrystal, Sir Frank Watson Dyson, Cargill Gilston Knott, and Ellice M Horsburgh.
+* Gibb joined the Edinburgh Mathematical Society in December 1910.
 
 Born 31 October 1883, Methil, Fife, Scotland. Died 28 March 1946, Edinburgh, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1889
 title: Chisini, Oscar
 born: 1889
 died: 1967
-keywords: Oscar Chisini, Algebraic Geometry, Chisini-Volterra Theorem, Polynomial Approximation, Combinatorial Analysis, Infinitesimals, Calculus, Topology, Nonlinearity, Dynamical Systems, Solitons, Invariants
-description: Oscar Chisinirevolutionized modern mathematics with his discoveries in algebraic geometry, calculus, topology, combinatorial analysis, dynamical systems, and polynomial approximation.
+keywords: oscar chisini,chisini
+description: Oscar Chisini was an Italian mathematician who worked in algebraic geometry.
 references: bookofproofs$6909
-contributors: @Luca-La-Rocca,bookofproofs,@ChatGPT
+contributors: @Luca-La-Rocca,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @Luca-La-Rocca,bookofproofs,@ChatGPT
 **Oscar Chisini** was an Italian mathematician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Chisini-Volterra Theorem as a primary tool in the study of partial differential equations, which relates the existence of solutions to the nature of the boundary conditions.
-2. Discovered the polynomial approximation algorithm, which revolutionized the field of numerical analysis and opened the door to sophisticated computer simulations.
-3. Developed a theory of probability based on combinatorial analysis, which became a foundation for the study of game theory.
-4. Introduced concepts of infinitesimals and calculus, which allowed mathematicians to think of physical quantities as being continuous rather than discrete.
-5. Created a new kind of topology, which improved the understanding of edges and continuity in mathematical structures.
-6. Demonstrated nonlinearity as a fundamental property of dynamical systems, which made many difficult scientific problems solvable.
-7. Elucidated the fundamental properties of solitons, which opened new avenues for understanding wave propagation.
-8. Developed new invariants that allowed for the complete characterization of functions and other mathematical objects.
+* The young Oscar received a classical education, first in Ravenna and then in Bologna.
+* Later, enrolled as an engineering student at the University of Bologna, Oscar Chisini met Federigo Enriques in a meeting that was to change his life.
+* The four volumes of this monograph, started in 1915 and finished in 1934, were conceived in what Chisini called a peripatetic way, that is walking under the porches of Bologna with Enriques possibly stopping to write on the flooring with the tip of his umbrella.
+* The Great War marked a break in Chisini's academic career, as he volunteered in the alpine artillery.
+* As an algebraic geometry researcher, Oscar Chisini is to be considered part of the so-called Italian school, featuring among others Luigi Cremona, Corrado Segre, Guido Castelnuovo, Francesco Severi, Beniamino Segre and, of course, Federigo Enriques.
+* Overall, Chisini expressed a dynamic vision of science in which history and mistakes are to play a prominent role.
 
 Born 14 March 1889, Bergamo, Italy. Died 10 April 1967, Milan, Italy.
 

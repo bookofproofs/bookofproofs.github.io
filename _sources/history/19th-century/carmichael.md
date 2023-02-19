@@ -7,10 +7,10 @@ orderid: 1879
 title: Carmichael, Robert Daniel
 born: 1879
 died: 1967
-keywords: Carmichael Numbers, pseudoprimes, cryptography, Fields Medal, Euler Totient, Mordell Conjecture, Diophantine Approximation, Divisibility, Primality, Riemann Hypothesis, Prime Number Theorem
-description: Robert Carmichael, Fields Medal recipient, developed the foundational Carmichael Numbers theory & Conjecture and established connections between prime numbers & pseudoprimes; solved Mordell & Diophantine problems & founded the Riemann hypothesis & prime number theorem.
+keywords: robert carmichael,carmichael
+description: Robert Carmichael was an American number theorist best known for discovering what are now called Carmichael numbers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Carmichael** was an American number theorist best known for discovering what are now called Carmichael numbers.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Carmichael Numbers theory, which established an important link between prime numbers and the theory of pseudoprimes which is the basis of modern cryptography.
-2. Established the Carmichael Conjecture, which identifies certain types of consecutive integers that can be expected to be composite.
-3. Awarded the Fields Medal in 1948 for his work on the Carmichael Numbers theory.
-4. Showed that the Euler Totient function is multiplicative, and discovered Fermat's converse.
-5. Solved the Mordell conjecture, an ancient problem that led to the development of elliptic curves.
-6. Developed a general theory of Diophantine approximation, which provides new approaches to the study of diophantine equations.
-7. Created foundations for the modern theory of divisibility and primality, which are essential tools in number theory.
-8. Founded the Riemann hypothesis and worked out the proof of the prime number theorem.
+* Amanda was the daughter of Robert Alexander Lessley (whose parents were Irish) and Frances Elizabeth Thompson, while Daniel was the fifth child of Daniel Carmichael (whose father was born in Argyllshire, Scotland) and Margaret Monroe (whose father was also born in Scotland).
+* Robert was the oldest of his parents' ten children.
+* Carmichael attended Lineville College in Lineville, Clay County, Alabama and graduated with an A.B. in 1898.
+* He married Eula Smith Narramore (1872-1953) from Randolph, Alabama, on 24 November 1901; they had four children, Eunice Annie (born 1902), Erdys Lucile (born 1904), Gershom Narramore (born 1905), and Robert Leslie.
+* Carmichael trained as a Presbyterian Minister and was living in Hartselle, Alabama, in early 1905 when he began submitting problems to the American Mathematical Monthly.
+* Following the award of his doctorate, Carmichael was appointed as an Assistant Professor of Mathematics at Indiana University.
+* Carmichael was promoted to Associate Professor at Indiana in 1912 and in the autumn of that year he delivered a short course on the theory of relativity.
+* Based on these papers and his lecture course, Carmichael published a 74-page book The theory of relativity in 1913.
+* Of course this work was on what is now called the special theory of relativity and after Einstein published the general theory of relativity, Carmichael brought out a second edition of his book in 1920.
+* Between the publication of the two editions, Carmichael published two further books: The Theory of Numbers (1914) and Diophantine analysis (1915).
+* In fact the 'proof' Carmichael had of this result appeared in the paper On Euler's φ-function that he published in 1907.
+* Whether the conjecture is true is still an open question, now known as Carmichael's conjecture, despite considerable efforts being made by many mathematicians.
+* In 1915 Carmichael left Indiana University.
+* We have already mentioned several of the outstanding books written by Carmichael.
+* In May 1926 a debate on the theory of relativity was held at Indiana University and Carmichael both participated in the debate and edited the resulting volume A Debate on the Theory of Relativity (1927).
+* Also in 1927, in collaboration with James Henry Weaver (1883-1942), Carmichael published The Calculus.
+* In 1930 Carmichael, in collaboration with Edwin R Smith, published Plane and Spherical Trigonometry based on lectures the authors had given.
+* Also in 1930, Carmichael published The Logic of Discovery.
+* One thus derives unusual satisfaction in the perusal of Professor Carmichael's book since one is never on a single page uncertain as to the meaning of the author.
+* In 1931 Mathematical Tables and Formulas, compiled by Carmichael and Edwin Smith, appeared.
+* Finally, let us mention another outstanding text by Carmichael Introduction to the Theory of Groups of Finite Order.
+* The reader of this biography may have heard of Carmichael only because of the Carmichael numbers, and have wondered why they have not yet been mentioned.
+* A 'Carmichael number' is a non-prime nnn satisfying this condition for any xxx coprime to nnn.
+* It was given this name since Carmichael discovered the first such number 561 in 1910.
+* For many years it was an open problem as to whether there were infinitely many Carmichael numbers, but this was settled in 1994 by W R Alford, A Granville, and C Pomerance in their paper There are infinitely many Carmichael numbers.
+* Carmichael was elected a fellow of the American Association for the Advancement of Science.
+* Carmichael was Vice President of Section A in 1934.
+* In addition to the very considerable mathematical output by Carmichael, he also served the mathematical community by undertaking editorial duties.
 
 Born 1 March 1879, Goodwater, Coosa County, Alabama, USA. Died 2 May 1967, Merriam, Northeast Johnson County, Kansas, USA.
 

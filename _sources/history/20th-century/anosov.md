@@ -7,10 +7,10 @@ orderid: 1936
 title: Anosov, Dmitrii Viktorovich
 born: 1936
 died: 2014
-keywords: Anosov, dynamical systems, lemma, attractor, theorem, stability, genericity
-description: Dmitri Anosov was a Russian mathematician who made significant contributions to dynamical systems theory, including the Anosov closing lemma, theory of Lorenz attractors and Anosov-Hopf theorem.
+keywords: dmitrii viktorovich anosov,anosov
+description: Dmitri Anosov was a Russian mathematician who worked in dynamical systems theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Dmitri Anosov** was a  Russian mathematician who worked in dynamical systems theory.
 
 ### Mathematical Profile (Excerpt):
-1. He proved the Anosov closing lemma, which is of vital importance in ergodic theory.
-2. He developed a qualitative theory of Lorenz attractors in 1967, which has since become a cornerstone of chaos theory.
-3. He initiated the study of hyperbolic dynamical systems, a field of mathematics valuable in understanding physical processes, in 1960.
-4. He formulated the Anosov-Hopf theorem, which links topology, geometry, and dynamics and is regarded as a fundamental work of modern geometry.
-5. He developed a theory of robust structural stability, a fundamental concept in dynamical systems theory.
-6. He demonstrated that periodic orbits of hyperbolic systems are dense in parts of the phase space and showed exponential instability of homoclinic orbits in hyperbolic systems in 1969. 
-7. He discovered the special type of hyperbolic attractor known as the Anosov-Bowen-Franks attractor.
-8. He created the Anosov-Kashevskaya theorem, which describes the existence of two recurrent directions in a hyperbolic flow with two-dimensional surfaces. 
-9. He formulated the Anosov-Tunyev genericity theorem, and developed the concept of uniform approximability in dynamical systems.
+* Dmitrii Viktorovich showed his abilities while at high school, entering the Physics Moscow Olympiad and the Mathematics Moscow Olympiad on several occasions.
+* His work was supervised by Pontryagin and during this period Anosov published a number of papers including: On stability of equilibrium states of relay systems (Russian) (1959); Averaging in systems of ordinary differential equations with rapidly oscillating solutions (Russian) (1960); and Limit cycles of systems of differential equations with small parameters in the highest derivatives (Russian) (1960).
+* Anosov defended his thesis on averaging in systems of ordinary differential equations at Moscow University in 1961.
+* An event happened in 1961 which changed the direction of Anosov's research.
+* At the same time, Smale met with a group of young Soviet mathematicians, among them Dmitrii Anosov, a student of Pontryagin, and mentioned some difficult unsolved problems, in particular, the problem of structural stability of hyperbolic automorphisms of a torus and geodesic flows on closed manifolds of negative curvature.
+* It should be noted that Anosov was already the author of several papers, of which one, on averaging in multi-frequency systems, is still highly regarded today.
+* Nevertheless, he easily switched his interests to Smale's problems, and in a year he had solved them as particular cases in his investigation of the U-systems he introduced, now called Anosov systems.
+* Smale's discovery and its development by Anosov marked the beginning of the 'hyperbolic revolution' in mathematics.
+* Anosov discovered a fundamental fact concerning the ergodic theory of smooth dynamical systems, namely the absolute continuity of transversal foliations.
+* In 1968 Anosov became a professor in the Department of Mechanics and Mathematics at Moscow State University where he taught for the rest of his career.
+* In the 1970s Anosov published papers such as Existence of smooth ergodic flows on smooth manifolds (Russian) (1974) and was an invited speaker at the International Congress of Mathematicians at Vancouver in 1974 when he gave the lecture Geodesics and Finsler geometry.
+* Let us note that, in addition to his work on the analysis of manifolds, Anosov has written many historical and biographical articles.
+* Anosov has received many honours for his achievements.
 
 Born 30 November 1936, Moscow, Russia. Died 7 August 2014, Moscow, Russia.
 

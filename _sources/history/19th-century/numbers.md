@@ -7,10 +7,10 @@ orderid: 1897
 title: Numbers, Annie Hutton
 born: 1897
 died: 1988
-keywords: Annie Hutton Numbers, Edinburgh University, Chemistry, Tannakian, Noncommutative Geometry, Algebraic Symbols, Whitehead Prize, Royal Society
-description: Annie Hutton Numbers was a mathematician, who studied at Edinburgh University and developed the Tannakian & Noncommutative Geometry, being awarded Whitehead Prize & Royal Society in 1999 & 2002.
+keywords: annie hutton numbers,numbers
+description: Annie Hutton Numbers graduated from Edinburgh University and worked in the Chemistry department in Edinburgh. She taught in schools in Ipswich and High Wycombe.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Annie Hutton Numbers** graduated from Edinburgh University and worked in the Chemistry department in Edinburgh. She taught in schools in Ipswich and High Wycombe.
 
 ### Mathematical Profile (Excerpt):
-1. Published a number of papers on algebra and number theory, including her best-known work on the Tannakian category theory in 2003.
-2. Developed the concept of noncommutative geometry, which has since been applied to a number of areas of mathematics.
-3. Developed the first general theory of algebraic symbols and equations, which was published in 2002. 
-4. Led several conferences that focused on the algebraic aspects of number theory, which are still held annually.
-5. Earned a Ph.D. in mathematics from the University of Cambridge in 1983.
-6. Became the first female professor of mathematics at the University of Edinburgh in 1999.
-7. Served on the board of the American Mathematical Society from 1996 to 2002.
-8. Was awarded multiple prestigious awards such as the London Mathematical Society Senior Whitehead Prize in 1999 and the Fellow of the Royal Society in 2002.
+* Her father was Alexander Anderson Numbers (1864-1939), born in Dysart, Fife on 26 June 1864, who was a joiner and cabinetmaker.
+* Alexander and Maggie Numbers were married in Dunfermline in 1893.
+* Annie Numbers had a younger sister Isabella Anderson Numbers (born 10 July 1898, died 14 February 1933 in Edinburgh).
+* In addition to her parents and sister, the 56-year old Helen Numbers, who was a cousin of Alexander, is living with them.
+* By the time of the 1911 census two further siblings of Annie have been born, a brother Alexander Numbers, born 20 June 1906 and a sister Elizabeth "Lizzie" C Numbers born 11 January 1902.
+* Annie Numbers began her education at Mrs Steele's Private School in Upper Gray Street in Edinburgh.
+* After graduating from Edinburgh Ladies' College, Annie Numbers then went to Edinburgh University, beginning her studies in 1914 and graduating with the degrees of MA (Hons), Mathematics and Natural Philosophy, in 1918.
+* After completing her undergraduate studies, Annie enrolled on a course of professional training, to become a Specially Qualified Teacher of Science in Intermediate and Secondary Schools.
+* Continuing on the staff of the University, Numbers undertook research towards the degree of Ph.D. At this time she was living with her parents at 6 Ventnor Terrace, Edinburgh.
+* In 1926 Annie Numbers was awarded a Ph.D. for her thesis The influence of substituents on the optical rotatory power of compounds.
+* With both staff and students Dr Numbers was persona grata.
+* On 2 August 1929, Annie Numbers sailed from Glasgow to Montreal in Canada on the ship the Melita.
+* Numbers left her post at the Department of Chemistry at the University of Edinburgh after 1930 to become a teacher in Ipswich and then in High Wycombe.
+* Annie Hutton Numbers joined the Edinburgh Mathematical Society in January 1917 when living at 16 West Savile Terrace, Edinburgh.
+* Finally, let us record two tributes to Numbers.
+* The second tribute is the Annie Hutton Numbers Room named for her in Argyle House, 3 Lady Lawson Street, Edinburgh.
 
 Born 6 March 1897, Edinburgh, Scotland. Died 10 April 1988, High Wycombe, England.
 

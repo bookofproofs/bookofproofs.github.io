@@ -7,10 +7,10 @@ orderid: 1880
 title: Insolera, Filadelfo
 born: 1880
 died: 1955
-keywords: Insolera, mathematics, statistics, financial mathematics, elliptical functions, Fibonacci, polynomial equations
-description: Italian mathematician Filadelfo Insolera made major contributions to mathematics, particularly in statistics and financial mathematics, extending the Fibonacci sequence, and developing algorithms for polynomial equations.
+keywords: filadelfo insolera,insolera
+description: Filadelfo Insolera was an Italian mathematician best known for his work on statistics and financial mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Filadelfo Insolera** was an Italian mathematician best known for his work on statistics and financial mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored and published numerous papers on mathematics, including papers on the theory of elliptical functions, number theory, and the theory of integration. 
-2. Proposed and developed a method for calculating the residues for elliptical integrals. 
-3. Conducted extensive research on continued fractions and published a book on the subject.  
-4. Developed the Insolera Family ofNumbers, an extension of the Fibonacci Numbers. 
-5. Investigated the area of polynomial equations and explored their application to mathematical problems.
-6. Developed an algorithm for solving high-degree polynomial equations which was later adopted by NASA and other government organisations. 
-7. Discovered the Insolera-Lebesgue Inversion Formulas, which provide a new mathematical insight into calculus and analysis. 
-8. Established the Insolera-Goldbach Conjecture and solved it, providing a new approach to tackling prime numbers.  
-9. Found a new method for calculating the number of shortest paths in discrete graphs.  
-10. Developed several new theorems in integration, applying them to the study of integral curves.
+* The name Filadelfo is, in fact, quite typical of the region where he was born.
+* He attended elementary school in Lentini and showed such promise, particularly in mathematics, that his parents moved to Catania, Sicily, so that Filadelfo could spend time attending a school specialising in science and technology.
+* Insolera was awarded his first degree by the University of Rome in 1902.
+* Throughout his life, Insolera was full of admiration for his two teachers.
+* The first appointment of his scientific career was at the University of Rome as an assistant to Tullio Bagni, an expert in actuarial science, and through him Insolera became interested in the subject which from that time on became the main focus of his academic interests.
+* Insolera, guided by Bagni, quickly distinguished himself in actuarial science and he was appointed Head of the Actuarial Department in the National Institute of Social Security.
+* One of the students that Insolera taught at the Institute in Turin was Maria Luisa Mazzetta.
+* Filadelfo and Maria had three children: Delfino who graduated in engineering and philosophy; Melina who after graduating in humanities taught in high schools; and Italo who became an architect and urban planner being appointed to chairs at the Universities of Venice and Geneva.
+* Insolera published most of his work in the Giornale di Matematica Finanziaria from that time onwards.
+* It was in 1932 that Insolera moved to Rome with his family, spending two years working at the Ministry there.
+* Insolera published an impressive 105 works, nearly all in the Giornale di Matematica Finanziaria.
+* Although this was published in 1947, Insolera completed the work several years earlier while suffering extraordinary difficulties due to World War II.
+* It is interesting to compare the rather different reception that Insolera's work received in different countries.
+* The book by Filadelfo Insolera is an integral part of his Treatise on actuarial science, excellently written and very useful for financial experts, demographers and academics.
+* On a high mathematical level - which is the evident sign of all actuarial analysis - Insolera's theory takes us away from some dry constructions; it is enriched and embellished with a permanent sociological contribution.
+* Insolera died while making a visit to Milan where he was presiding over a committee for the qualifying examination of the Technical Institute S.
 
 Born 29 February 1880, Lentini, near Syracuse, Sicily. Died 1 October 1955, Milan, Italy.
 

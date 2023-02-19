@@ -7,10 +7,10 @@ orderid: 1930
 title: Suzuki (2), Satoshi
 born: 1930
 died: 1991
-keywords: Satoshi Suzuki, Algebraic Geometry, Quantum Computing,Graph Theory, Group Theory,Combinatorial Optimization,Goedel Prize
-description: Satoshi Suzuki, a Japanese mathematician, contributed to algebraic geometry, quantum computing, graph theory, group theory, and combinatorial optimization. He authored multiple papers, won the Goedel Prize in 2006, and was awarded the Best Student Paper Award in 2004.
+keywords: satoshi suzuki,suzuki
+description: Satoshi Suzuki wa a Japanese mathematician who worked in algrabraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Satoshi Suzuki** wa a Japanese mathematician who worked in algrabraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Suzuki-Trotter formula, which allows for the study of quantum systems using classical computer algorithms. 
-2. Published over 20 research articles and 3 books related to quantum computing, graph theory, group theory, and combinatorial optimization. 
-3. Submitted a paper on approximating weight enumerator polynomials of BCH codes to the International Symposium on Information Theory, which was awarded the Best Student Paper Award in 2004. 
-4. Authored a paper on 'Determinant Approximation Algorithms' which received the Goedel Prize in 2006. 
-5. Discovered a novel connection between the spectral gap of certain group algebras and the isoperimetric properties of the corresponding graphs. 
-6. Developed a quantum computing simulation algorithm that was able to accurately reproduce the performance of some quantum computations. 
-7. Established new results on the computational complexity of approximating unitary transformations using classical computers.
+* For five years, from 1953 to 1958, Suzuki attended graduate level courses but in 1958 he left the university to take up a teaching position.
+* Suzuki taught at Kyoto Women's University during the academic year 1958-59 and he then taught at Momoyama Gakuin in Sakai, Osaka until 1961.
+* Even before he submitted his doctoral dissertation, in 1963, Suzuki had been promoted to associate professor and he became a full professor in 1970.
+* Suzuki married Suzuyo and they had two daughters, Harue and Masae.
+* Although he was on the staff at Kyoto University for his whole career, Suzuki spent several years working at other universities.
+* These notes, based on Suzuki's lectures at  Queen's University, Kyoto University and Florida State University, were published as Differentials of commutative rings  by Queen's University in 1971.
+* Among the papers which Suzuki published before these lecture notes are: On torsion of the module of differentials of a locality which is a complete intersection (1964); Note on formally projective modules (1966); On the flatness of complete formally projective modules (1968); Differential modules and derivations of complete discrete valuation rings (1969); and Modules of high order differentials of topological rings (1970).
+* Among other places where Suzuki taught are Rutgers University, New Brunswick, USA, where he spent six months in 1971 and another six months in 1988.
+* Suzuki's later work includes Higher differential algebras of discrete valuation rings (1974); Some types of derivations and their applications to field theory (1981); and On extensions of higher derivations for algebraic extensions of fields of positive characteristics (1989).
+* Anyway, many people were surprised by what Suzuki said at meetings or in casual conversations.
 
 Born 24 June 1930, Nagoya, Japan. Died 11 August 1991, Kyoto, Japan.
 

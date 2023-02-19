@@ -7,10 +7,10 @@ orderid: 1863
 title: Cannon, Annie Jump
 born: 1863
 died: 1941
-keywords: Annie Jump Cannon, American Astronomer, Harvard Stellar Classification Scheme, Stellar Classification System, Henry Draper Catalog, Spectral Type, Absolute Magnitude
-description: Annie Jump Cannon, an American Astronomer, developed a stellar classification system and cataloged over 225,000 stars. She was pivotal in the development of the Henry Draper Catalog and demonstrated the correlation between spectral type and absolute magnitude of stars.
+keywords: annie jump cannon,cannon
+description: Annie Jump Cannon was an American astronomer whose work led to the Harvard Stellar Classification Scheme.
 references: bookofproofs$6909
-contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,29 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Annie Jump Cannon** was an American astronomer whose work led to the Harvard Stellar Classification Scheme.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the stellar classification system that arranged stars from hottest to coolest. 
-2. Developed a system for cataloging stars; cataloged over 225,000 stars.
-3. Assisted in the production of the Henry Draper Catalog, which contains images and descriptions of over 10,000 stars.
-4. Was the first woman to be elected to the American Astronomical Society.
-5. Demonstrated a correlation between spectral type and absolute magnitude of stars.
+* Wilson Cannon was a Delaware shipbuilder and state senator who had four children with his first wife Ann Scotten (1818-1859), namely Henry White Cannon (born 1845), Ella Cannon (born about 1847), Mary Elizabeth Cannon (born 1850) and Hattie Hester Cannon (born 1856).
+* Annie, the subject of this biography, was the eldest of Wilson's three children with his second wife, Mary Jump, having two younger brothers, Wilson Lee Cannon (born about 1866) and Robert Barrett Cannon (born about 1869).
+* Mary Jump had a childhood interest in star-gazing and is credited with having initially inspired daughter Annie to pursue an interest in astronomy.
+* It was with Mary's encouragement of the subject that Annie would, in the attic of their house using an old astronomy textbook, learn the constellations and identify stars.
+* It was also from her mother that Annie learnt household economics, something she would later put to use in the organisation of her research.
+* One of the first to enrol, from 1880 Annie attended Wellesley College in Massachusetts, one of the top academic schools for women at the time.
+* Annie returned to Wellesley for graduate study in mathematics, physics and astronomy.
+* Under the guidance of Professor Sarah Frances Whiting (1847-1927), one of the few female physicists in the United States at the time, Annie gained an interest in the spectroscopic analysis of light.
+* To advance her work, and access a better telescope, Cannon enrolled at Radcliffe College in Cambridge, Massachusetts as a 'special student'.
+* She added Annie to the team in 1896.
+* The Second Catalogue of Variable Stars was produced by Annie Cannon and published in 1907 in the Annals of the Astronomical Observatory at Harvard College as Volume 55 Part I.
+* It was here that Annie would conduct the work for which she would be remembered.
+* Cannon saw an easier way.
+* Soon it was realised that Cannon's scheme of stellar classification was based upon the stars' temperatures, where the ordering is from O the hottest to M the coolest, and it was established that it was a suitable method.
+* It was with this classification method that Cannon et al.
+* With only minor adaptations, the method of classification Cannon implemented is still used today.
+* Miss Cannon sailed for Europe on June first and received the degree in person.
+* And it is to Miss Cannon's untiring work during the past thirty years that much of the present knowledge of stellar spectra owes its existence.
+* She turned over this money to the American Astronomical Society allowing the establishment of the Annie Jump Cannon Award, a prize given to a female astronomer, within five years of her receiving her doctorate, for her distinguished contribution to astronomy.
+* One of the other women working in the observatory who also made significant contributions was Henrietta Swan Leavitt, who, like Annie, was deaf.
+* Other than her work in the observatory, Cannon played a major role in the development, and the gain in popularity, of astronomy.
+* Cannon officially retired from the observatory in 1940, but continued researching until her death the following year.
+* Over a career of more than 40 years, Annie not only boosted the reputation of astronomy, but also helped women gain acceptance and respect within the scientific community.
 
 Born 11 December 1863, Dover, Delaware, USA. Died 13 April 1941, Cambridge, Massachusetts, USA.
 

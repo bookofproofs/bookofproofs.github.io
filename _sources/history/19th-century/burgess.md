@@ -7,10 +7,10 @@ orderid: 1872
 title: Burgess, Alexander George
 born: 1872
 died: 1932
-keywords: Alexander Burgess, Edinburgh, Merchiston Castle School, Rothesay Academy, Primality, Dirichlet series, Derivative Rules
-description: Alexander Burgess graduated from Edinburgh and taught in the area, later becoming Rector of Rothesay Academy. He made many mathematical discoveries, such as rules for approximations and a theorem to improve prime number computations.
+keywords: alexander burgess,burgess
+description: Alexander Burgess graduated from Edinburgh and taught at Merchiston Castle School Edinburgh and at Rothesay Academy. He became Rector of the latter school.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Burgess** graduated from Edinburgh and taught at Merchiston Castle School Edinburgh and at Rothesay Academy. He became Rector of the latter school.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Primality of Fermat's Little Theorem.
-2. Developed an algorithm for improving the convergence of Dirichlet series.
-3. Discovered the Derivative Rules for Approximations of Poisson Integers.
-4. Developed the Burgess Function that approximates Ψ(x) and ζ(x) for large x values.
-5. Worked on the problem of classification of primitive prime divisors.
-6. Developed the Burgess Theorem to improve the accuracy of computations in the Prime Number Theorem.
-7. Developed a new method for obtaining the asymptotic behavior of the prime number function.
-8. Established a rigorous numerical analysis of the Riemann zeta-function.
-9. Found the connection between the number-theoretic functions and the Dirichlet series.
-10. Established connections between the Chebyshev series and prime numbers.
+* His mother was  Annie McIntosh Burgess (born in Cullen, Banffshire in about 1840).
+* Alexander Burgess had an older sister Annie (born about 1871) and three younger sisters Frances (born about 1875), Mabel (born about 1877), and Elizabeth (born about 1880).
+* Alexander Burgess attended Wishaw Academy, then spent four years at George Watson's College, Edinburgh, before entering the University of Edinburgh in October 1890.
+* In his first year of study Burgess took courses in Latin, Greek and Mathematics.
+* In addition to taking Honours courses in Mathematics and Natural Philosophy over the next two sessions, Burgess also took the Ordinary course in Logic and Metaphysics.
+* Dr Burgess gave his school a signal example of devotion to knowledge, industry, kindliness of heart, high ideals.
+* Burgess was an active member of the Edinburgh Mathematical Society, serving on the Committee from November 1906, serving as an editor of the Proceedings in 1907-08, then Secretary during 1908-11, vice-President in 1911-12, and as President of the Society in 1912-13.
+* Mr Burgess ventured the prediction that this, the first, Colloquium would not be the last, and suggested the possibility of a similar meeting at the time of the Napier celebrations next year.
+* Burgess also contributed papers to the Society.
+* In addition Burgess was a member of the Educational Institute for Scotland and the Bute Natural History Society.
 
 Born 24 December 1872, Wishaw, Lanarkshire, Scotland. Died 29 March 1932, Rothesay, Bute, Scotland.
 

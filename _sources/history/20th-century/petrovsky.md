@@ -7,10 +7,10 @@ orderid: 1901
 title: Petrovsky, Ivan Georgievich
 born: 1901
 died: 1973
-keywords: Petrovsky, Partial Differential Equations, Recurrence, Method, Condition, Stability, Hamilton-Jacobi
-description: Ivan Petrovsky, Russian mathematician, made major contributions in Partial Differential Equations with various methods and discoveries such as the Petrovsky Recurrence, Hamilton-Jacobi method, and Petrovsky Condition.
+keywords: ivan georgievich petrovsky,petrovsky
+description: Ivan Petrovsky was a Russian mathematician who worked in the field of partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ivan Petrovsky** was a Russian mathematician who worked in the field of partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Created the Petrovsky Recurrence, a solution to the partial differential equations of mathematical physics.
-2. Co-developed the so-called 'Petrovsky method' for solving multi-dimensional problems.
-3. Discovered the Petrovsky condition for the stability of solutions in equilibrium.
-4. Published numerous papers on the properties of determinants and linear algebra equations.
-5. Devised a method for solving the boundary value problem in partial differential equations.
-6. Established the Fundamentals of Partial Differential Equations, a classic text in the field.
-7. Developed the Hamilton-Jacobi method for solving variational problems.
-8. Contributed to the body of knowledge on hyperbolic equations.
-9. Pioneered the use of Green's functions in solving partial differential equations.
-10. Significantly contributed to the theory of linear and nonlinear equations.
+* Ivan Georgievich, however, decided to study science at university.
+* After graduating from the Sevsk high school in 1917, Petrovsky entered Moscow University with the intention of studying biology and chemistry.
+* Petrovsky returned to Sevsk and then in 1918 the whole family moved to Yelizavetgrad in the Ukraine (the city was renamed Zinovyevsk in 1924, Kirovo in 1936, and Kirovograd in 1939).
+* Petrovsky worked for a while as a clerk and then entered the technical school for machine construction.
+* With the ending of the Russian Civil War in November 1920 and stability returning, Petrovsky returned to Moscow University in 1922 but by now his interests were so firmly in mathematics that he did not take up the course he had been intending to follow five years earlier, but read for a degree in mathematics.
+* Arriving at the given address, Ivan Georgievich learned that the position of stoker was already taken by another student.
+* Working at the orphanage had one very positive result, however, for while there he met Olga Afanasyevna Kornilaeva who, like Petrovsky, was a student at Moscow University; they later married.
+* Charles de la Vallée-Poussin's text based on his course on mathematical analysis was one of Petrovsky's favourite.
+* It is remarkable that Petrovsky did not have a catalogue but knew his way round the library very well and was able to find his favourite books quickly.
+* Petrovsky taught at Moscow University beginning in 1929 and, in 1933, he was appointed as a professor.
+* Ivan Georgievich worked at home.
+* Petrovsky's main mathematical work was on the theory of partial differential equations, the topology of algebraic curves and surfaces, and probability.
+* Petrovsky also worked on the boundary value problem for the heat equation and this was applied to both probability theory and work of Kolmogorov.
+* One of the main streets in Moscow is named after Petrovsky.
 
 Born 18 January 1901, Sevsk, Orlov guberniya, Russia. Died 15 January 1973, Moscow, USSR.
 

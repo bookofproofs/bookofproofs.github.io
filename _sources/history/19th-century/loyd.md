@@ -7,10 +7,10 @@ orderid: 1841
 title: Loyd, Samuel
 born: 1841
 died: 1911
-keywords: Sam Loyd, mechanical puzzles, Fifteen Puzzle, dissection puzzles, transformation puzzles, chess problems, recreational mathematics
-description: Sam Loyd revolutionized recreational mathematics, inventing mechanical puzzles and chess problems in the mid-1800s, like the Fifteen Puzzle, the "Eight Queens Puzzle" and the Pyraminx.
+keywords: samuel loyd,loyd
+description: Sam Loyd was an American amateur mathematician best known for his invention of puzzles as well as chess problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sam Loyd** was an American amateur mathematician best known for his invention of puzzles as well as chess problems.
 
 ### Mathematical Profile (Excerpt):
-1. Established the foundations for mechanical puzzles in the mid-1800s, and developed the popular Fifteen Puzzle. 
-2. Introduced the concepts of dissection puzzles and transformation puzzles. 
-3. Developed a chess problem known as "The Eight Queens Puzzle". 
-4. Introduced two simplified forms of algebraic notation into recreational mathematics and invented the game Cyclopedia. 
-5. Wrote one of the first books on recreational mathematics, Cyclopedia of Puzzles. 
-6. Proposed a theoretical chess problem called, "The Endgame in Chess". 
-7. Was one of the first to create sliding block puzzles in the form of cube puzzles and originated the Pyraminx puzzle.
+* While still at school, Loyd won prizes for his chess problems.
+* Loyd's first chess problem was published in the New York Saturday Courier on 14 April 1855.
+* After leaving school Loyd began to study engineering, intending to become a steam and mechanical engineer, but he found he could make his living from his puzzles and chess problems.
+* Loyd's interests were by now rather diverse for as well as earning money as a plumbing contractor he had purchased a chain of music stores.
+* He continued to compose chess problems, write newspaper columns, and edit papers such as Sam Loyd's Puzzle Magazine and even a mechanics journal.
+* By 1870 Loyd had become more interested in composing mathematical puzzles than chess problems.
+* As well as chess problems of the type "White to play and mate in three", Loyd also produced mathematical problems involving chess boards.
+* Loyd discussed this in the April 1908 edition of Sam Loyd's Puzzle Magazine.
+* Loyd contributed the following problems to the first part of the American Chess Journal.
+* These show Loyd's genius very clearly - particularly d) which is an incredible achievement.
+* Loyd's most famous puzzle was the 15 Puzzle which he produced in 1878.
+* Of course, Loyd knew his $1000 was safe for the puzzle cannot be solved.
+* Another of Loyd's famous puzzles was called "Get off the Earth" and was produced many years after the 15 Puzzle.
+* We have talked about mathematical puzzles invented by Loyd.
+* At first sight one would not expect there to be a unique solution to this problem, but Loyd was well aware that a logical argument would find the one and only one solution.
+* Not only did Loyd produce puzzles, he also gave performances of tricks.
+* He was a skilled ventriloquist and later in his life performed on stage with his son who appeared able to read his mind, but actually mimed while Loyd used his ventriloquist skills to make his son appear to give correct answers.
+* Loyd produced over 10 000 puzzles in his lifetime many involving sophisticated mathematical ideas.
 
 Born 31 January 1841, Philadelphia, Pennsylvania , USA. Died 10 April 1911, New York, USA.
 

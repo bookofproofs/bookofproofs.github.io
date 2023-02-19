@@ -7,10 +7,10 @@ orderid: 1819
 title: Bashforth, Francis
 born: 1819
 died: 1912
-keywords: Bashforth Chronograph, air resistance, mathematician, Philosophical Transactions, trajectory calculation, projectile motion, air pressure
-description: Francis Bashforth was an applied mathematician who invented the Bashforth Chronograph and made significant discoveries regarding air resistance, trajectory calculation and pressure equations, as published in the Philosophical Transactions of the Royal Society.
+keywords: francis bashforth,bashforth
+description: Francis Bashforth was an applied mathematician who invented the Bashforth Chronograph and conducted experiments to determine air resistance. He became the leading British authority on ballistics in the late 19th and early 20th centuries.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,19 +22,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Francis Bashforth **was an applied mathematician who invented the Bashforth Chronograph and conducted experiments to determine air resistance. He became the leading British authority on ballistics in the late 19th and early 20th centuries.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Created a method for solving the motion of a projectile in a vacuum which was later published in the Philosophical Transactions of the Royal Society.
-2. Found a direct connection between the deviation from the deceleration of a projectile during flight and the air-density of the atmosphere.
-3. Advanced the theory of trajectory calculation, making improvements to range tables in ballistics.
-4. Conducted experiments on fired projectiles, exploring the dynamics of their motion by adjusting the angle of elevation for a given charge.
-5. Created a method for calculating the average resistance of the air to projectiles, providing a means for improving accuracy in artillery fire.
-6. Developed a consistent theory of the trajectory of a body moving in a resisting medium.
-7. Discovered an equation that showed a direct relationship between air pressure, air density and air temperature.
-8. Established a solid foundation for modern trajectory and wind tunnel research.
-9. Extrapolated his equations and developed theories on a wide range of topics including the resistance of bodies in fluids, lift coefficients, supersonic flow, and boundary layer characteristics.
+* John Bashforth, born on 24 May 1792 in Bolton Upon Dearne, Yorkshire, was a farmer who farmed land owned by the church in Thurnscoe.
+* He married Ann Haigh, also from Bolton Upon Dearne, on 9 April 1818 with witnesses Jane Caroline Bashforth, William Bashforth, Sarah Haigh and Francis Haigh.
+* Francis, the subject of this biography, was John and Ann Bashforth's eldest child, having younger siblings Elizabeth Bashforth (born about 1822), Charles Bashforth (born about 1825), John Bashforth (born about 1826), Thomas Bashforth (born about 1827), Timothy Bashforth (born about 1829), William Bashforth (born about 1831), Henry Bashforth (born about 1833), Ann Bashforth (born about 1836), and Catharine Bashforth (born about 1839).
+* There are still minor inconsistencies, however, in some of the available information about Bashforth's family which may be due to incorrect transcription from census forms or errors in filling in these forms.
+* Francis attended school in Brampton Bierlow, about 7 km south west of Thurnscoe, before entering Doncaster Grammar School.
+* Bashforth matriculated and began his studies of the mathematical tripos at the start of the Michaelmas term in October 1839.
+* Bashforth's excellent undergraduate performance led to him becoming a scholar and he was Second Wrangler in the tripos examinations of 1843 when he was awarded a B.A. The Senior Wrangler that year was John Couch Adams whose performance was said to have been one of the best ever.
+* Not surprisingly Adams was the 1st Smith's Prizeman but both Bashforth and Adams were elected fellows of St John's College, Bashforth being elected on 26 March 1844.
+* After graduating, Bashforth followed two distinct paths.
+* As a Tutorial Fellow at St John's College, Bashforth was concerned about the welfare of the undergraduates he was teaching and, in 1849-50, he led a call by twenty-two of the teaching staff of the College for an increase in the number of staff involved in teaching.
+* Turton was, like Bashforth, a mathematician who had various clerical appointments.
+* When Mr Bashforth arrived at Minting he found the Church in a dilapidated condition.
+* In the 1861 Census, Bashforth is recorded as rector and vicar of Minting, living in the parsonage there.
+* He invented the Bashforth Chronograph, beginning experiments with it in April 1864.
+* He reported on these experiments in a series of works: Description of a Chronograph adapted for measuring the varying velocity of a body in motion through the air and for other purposes (1866), A mathematical treatise on the motion of Projectiles founded chiefly on the results of experiments made with the author's chronograph (1873), and Revised account of the experiments made with the Bashforth Chronograph, to find the resistance of the air to the motion of projectiles, with the application of the results to the calculation of trajectories according to J Bernoulli's method (1890).
+* On 14 September 1869 Bashforth married Elizabeth Jane Piggott (1841-1916), daughter of the Revd Samuel Rotton Piggott, vicar of Bredgar, Kent, and his wife Catherine Elizabeth Debaufer.
+* They had one son, Charles Piggott Bashforth, born at Minting on 14 July 1872, who like his father became a priest in the Church of England.
+* In the 1871 Census, Bashforth is recorded as vicar of Minting, Lincolnshire, but he is living at 15 Campbell Terrace, Plumstead, Kent.
+* The only other person living with him is his wife Elizabeth Bashforth.
+* Bashforth died in Woodhall Spa, aged 93, after three weeks' illness.
 
 Born 8 January 1819, Thurnscoe, near Doncaster, Yorkshire, England. Died 13 February 1912, Brunnen, Woodhall Spa, Lincolnshire, England.
 

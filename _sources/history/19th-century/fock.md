@@ -7,10 +7,10 @@ orderid: 1898
 title: Fock, Vladimir Aleksandrovich
 born: 1898
 died: 1974
-keywords: Fock Space, positronium, special relativity, second quantization, adiabatic theorem, Thomas-Fermi theory, Hartree-Fock theory
-description: Russian physicist Vladimir Fock developed Fock Space and explored quantum mechanics, positronium, special relativity, second quantization, adiabatic theorem, Thomas-Fermi & Hartree-Fock theories.
+keywords: vladimir aleksandrovich fock,fock
+description: Vladimir Fock was a Russian physicist who worked in quantum mechanics and quantum electrodynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vladimir Fock** was a Russian physicist who worked in quantum mechanics and quantum electrodynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Fock space, an abstract mathematical tool for describing quantum systems.
-2. Established the concept of positronium, which is a bound state of an electron and a positron.
-3. Explored the connection between quantum mechanics and special relativity.
-4. Introduced the concept of second quantization, which extends the classical concept of particle-like objects to quantum mechanics.
-5. Developed the adiabatic theorem, which describes the behavior of a quantum system that is slowly subjected to external perturbation.
-6. Discovered the Thomas-Fermi theory, which is used to describe the state of a many-electron system.
-7. Contributed to the development of Hartree-Fock theory, which is used to calculate the ground state of a many-electron system.
-8. Proposed a nuclear-renormalization theory of the atom, an early step in the development of quantum chemistry.
+* Aleksandr Fock was later employed as an inspector of forests in the south of Russia.
+* At this time St Petersburg was renamed Petrograd so when Fock completed his school education in 1916 it was the department of Physics and Mathematics of Petrograd University that he entered.
+* Shortly after beginning his university course Fock volunteered for the army so that he could fight for his country.
+* Fock was, of course, one of the most outstanding of all the students and was in this special group.
+* Fock had already published two papers, one on quantum mechanics and one on mathematical physics, before he graduated from Petrograd University in 1922.
+* Schrödinger published his two fundamental papers on quantum theory in the spring of 1926 and Fock immediately started to develop the ideas and by the end of the year two of his own important papers on the Schrödinger equation had been published.
+* Also in 1932 Fock was elected a corresponding member of the USSR Academy of Sciences.
+* Further in 1932 Fock published an important paper with Podolsky and Dirac on quantum electrodynamics in which the concept of multiple time formalism was introduced, and in the same year Fock introduced the concept of the Fock space in another classical paper.
+* Despite Fock's great scientific achievements, the 1930s proved extremely difficult time for him.
+* Fock had strong views on general relativity which he interpreted somewhat differently from Einstein.
+* In a review of the book Freeman Dyson sets out Fock's views as well as adding his own thoughts on them.
+* Fock's name is attached to a large number of concepts and results.
+* Some we have mentioned but now let us list a few: Fock space; Fock vacuum; the Fock method of quantisation; the Fock proper time method; the Hartree-Fock method; Fock symmetry; the Klein-Fock-Gordon equation; the Fock-Krylov theorem; and Dirac-Fock-Podolsky formalism.
 
 Born 22 December 1898, St Petersburg, Russia. Died 27 December 1974, Leningrad, USSR (now St Petersburg, Russia).
 

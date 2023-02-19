@@ -7,10 +7,10 @@ orderid: 1903
 title: Goldstein, Sydney
 born: 1903
 died: 1989
-keywords: Sydney Goldstein, fluid dynamics, univalent functions, differential equations, nonlinear PDEs, hyperbolic/parabolic equations, approximation theory
-description: Sydney Goldstein was a renowned British mathematician whose pioneering work included the study of univalent functions and development of differential equations, nonlinear PDEs and hyperbolic/parabolic equations. He was honored with prestigious awards.
+keywords: sydney goldstein,goldstein
+description: Sydney Goldstein was a British mathematician best known for his contribution to fluid dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sydney Goldstein** was a British mathematician best known for his contribution to fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the study of univalent functions, a powerful tool for solving complex problems in mathematics and theoretical physics.
-2. Established the theory of differential equations and integral equations in the 1950s and 1960s.
-3. Developed a universal behavior of solutions to nonlinear partial differential equations.
-4. Demonstrated the existence of ultraparabolic equations and their connection to mathematical physics.
-5. Played a key role in the development of hyperbolic and parabolic equations. 
-6. Proposed several solution methods for various types of differential equations.
-7. Contributed theorems in the field of approximation theory. 
-8. Founded the Australian Institute of Mathematics. 
-9. Won a number of awards and honors, including the King Faisal International Prize in Mathematics, the Cole Prize of the American Mathematical Society, and the Talbert Olin Award.
+* When he first arrived in Leeds, Goldstein had not found any student accommodation so, for his first month, he was given accommodation by Selig Brodetsky who had, one year earlier, been promoted to Reader in Applied Mathematics.
+* He was to strongly influence Goldstein in both these areas, not only during the month that Goldstein lodged with Mania and Selig Brodetsky but also after he found his own accommodation since their friendship continued with frequent meetings.
+* From this time on Goldstein, like Brodetsky, was to have the twin passions of mathematics and Zionism.
+* Brodetsky quickly saw that Goldstein had exceptional mathematical talents which could not be fully realised by taking a degree at Leeds.
+* After one year at Leeds, Goldstein moved to St John's College, Cambridge, graduating in 1925.
+* Based on his very successful undergraduate career, Goldstein was awarded the Isaac Newton Studentship to continue undertaking research in applied mathematics under Harold Jeffreys.
+* Goldstein won the Smith's Prize in 1927 and was awarded his doctorate in 1928 for a thesis on the Mathieu functions (named after Émile Mathieu) entitled The Theory and Application of Mathieu Functions.
+* Manchester had a profound influence on Goldstein.
+* Leslie Howarth was a student at Manchester, where he was taught by Goldstein during 1929-31, then he followed Goldstein to Cambridge.
+* Apart from reading and digesting every word, it was an education in itself for me to observe the skill that Sydney Goldstein applied to creating a unified, stimulating and accurate work.
+* In 1940 the Goldsteins decided that, because of threats from the Nazis towards Jewish children, Rosa would move to the United States with David John and Ruth.
+* During the six war years Goldstein worked at the National Physical Laboratory he made excellent use of the computing facilities, advanced electric calculating machines operated by bright girls, and the wind tunnels used for experiments.
+* In 1945, the University of Manchester made two inspiring appointments to the Department of Mathematics, Max Newman to the Fielden Chair of Pure Mathematics and Goldstein to the Beyer Chair of Applied Mathematics.
+* However in 1950, Goldstein who, as we have already noted, had strong Jewish beliefs, accepted a professorship in Applied Mathematics and the chairmanship of the department of Aeronautical Engineering at Technion in Haifa, Israel.
+* However, the death of the President of the university shortly after he arrived there meant that Goldstein came under strong pressure to take over this administrative role.
+* Goldstein's work in fluid dynamics is of major importance.
+* His work was important in aerodynamics, a subject in which Goldstein was extremely knowledgeable.
+* The Annual Review of Fluid Mechanics began publication in 1969 and they invited Goldstein to be write an historical survey to be the first article in the new journal.
+* By inviting Professor Goldstein to write our opening chapter, we acknowledge our great debt to him.
+* Goldstein retired from his Harvard chair in 1970.
+* During his career, Goldstein gave many lectures series, some of which were written up and published.
+* Finally let us note that Goldstein also wrote on his other passion, namely Zionism, along with applied mathematics.
+* On 15 February 1972, Goldstein gave a lecture at the University of Leeds which was published in the following year as Views on the meaning of Zionism and of applied mathematics fifty years ago and now (1973).
+* Goldstein received many honours in addition to his election to the Royal Society of London mentioned above.
 
 Born 3 December 1903, Hull, England. Died 22 January 1989, Brockton, Massachusetts, USA.
 

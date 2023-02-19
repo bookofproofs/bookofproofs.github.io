@@ -7,10 +7,10 @@ orderid: 1917
 title: Mendelsohn, Nathan Saul
 born: 1917
 died: 2006
-keywords: Nathan Mendelsohn, mathematics, discrete mathematics, perfect score, algorithms, models, outreach initiatives
-description: Nathan Mendelsohn, an American-born Canadian mathematician, achieved a perfect score in the William Lowell Putnam Mathematical Competition and published numerous research findings. He also founded a company and wrote two books to explain mathematical concepts and led outreach initiatives.
+keywords: nathan mendelsohn,mendelsohn
+description: Nathan Mendelsohn was an American-born Canadian mathematician who worked in several areas of discrete mathematics, including group theory and combinatorics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nathan Mendelsohn** was an American-born Canadian mathematician who worked in several areas of discrete mathematics, including group theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-1. Represented Princeton University in the William Lowell Putnam Mathematical Competition, garnering a perfect score on the competition.
-2. Developed algorithms and models to increase the efficiency of delivery route optimization.
-3. Published his research findings in numerous journals, including The Proceedings of the National Academy of Sciences, The Annual Review of Control, Robotics and Autonomous Systems, and the IEEE Robotics and Automation Letters.
-4. Wrote two popular mathematics books, A Primer on Mathematical Patterns in Nature and The Nature Within, to explain mathematical concepts to a wider audience.
-5. Founded his own company, Mendelsohn Mathematics, which focuses on data analytics and optimization.
-6. Led numerous educational outreach initiatives with organizations such as the Boys & Girls Clubs of America, the Ryer Pedestrian Education Foundation, and the Society of Hispanic Professional Engineers.
+* Nathan was born into a modern Orthodox Jewish family at a time when there was considerable anti-Semitism in the United States.There was an upsurge of anti-Jewish feeling as part of a general wave of resentment of minority groups, especially in New York, around the time he was born.
+* They settled in Euclid Avenue, a particularly appropriate place for the future mathematician Nathan! As a high school student, he quickly understood his own mathematical abilities when he realised he knew far more mathematics than his teacher.
+* With a four-year scholarship, Mendelsohn entered the University of Toronto to study mathematics.
+* After completing his first degree, Mendelsohn remained in Toronto to study for a Master's Degree.
+* After completing his doctorate Mendelsohn undertook war work.
+* he settled in Winnipeg, where the University of Manitoba welcomed any and all to build its fledgling math department, and where Prof Mendelsohn became deeply involved in the city's vibrant Jewish community.
+* This paper is particularly singled out when Mendelsohn was awarded the Henry Marshall Tory Medal of the Royal Society of Canada in 1979.
+* However there was much more to say about Mendelsohn's contributions to mathematics, particularly in Canada, beyond research contributions.
+* Mendelsohn's interests outside mathematics were, like his mathematical interests, varied.
+* Mendelsohn married Helen and they had two sons Eric and Alan.
+* Eric Mendelsohn obtained his doctorate in mathematics from McGill University in 1968 and is currently Professor of Mathematics at the University of Toronto.
+* Three great heroes of mine were Donald Coxeter, Willie Moser and Nathan Mendelsohn who all had made stunning contributions to producing algorithms to study groups given by generators and relations.
 
 Born 14 April 1917, Brooklyn, New York, USA. Died 4 July 2006, Toronto, Canada.
 

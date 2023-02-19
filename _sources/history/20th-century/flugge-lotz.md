@@ -7,10 +7,10 @@ orderid: 1903
 title: Flügge-Lotz, Irmgard
 born: 1903
 died: 1974
-keywords: Irmgard Flügge-Lotz, Nuclear Reactions, Differential Equations, Mathematics, Algebraic Methods, Nuclear Physics, Los Alamos
-description: Irmgard Flügge-Lotz was a pioneering physicist and mathematician who made major contributions in nuclear reactions, differential equations and mathematics. She collaborated on the Los Alamos nuclear bomb project and opened the door to understanding nuclear power.
+keywords: irmgard flügge-lotz,flügge-lotz
+description: Irmgard Flügge-Lotz worked on numerical methods for solving differential equations especially in fluid dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Irmgard Flügge-Lotz** worked on numerical methods for solving differential equations especially in fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of nuclear reactors in collaboration with other physicists, laying the groundwork for today's nuclear power.
-2. Helped develop the Los Alamos nuclear bomb project.
-3. Pioneered numerical calculation of nuclear reactions and the ability to calculate cross-sections of the bombardment of the nucleus.
-4. Calculated and tabulated energy states of different elements, before computers had been invented.
-5. Created a mathematical system for the description and solution of complex problems.
-6. Used algebraic methods to solve differential equations in areas such as nuclear physics, hydrodynamics and crystal physics.
-7. Developed new mathematics methods that allow for the handling of resulting equations from physical models.
-8. Put forth the hypothesis that nuclei were ellipsoids in nature and helped measure their shape with experiments.
-9. Published numerous papers on the numerical solutions of differential equations.
-10. Won numerous awards and honors in recognition of her achievements in mathematics.
+* However, there were other significant influences on the young Irmgard who visited building sites as a child with different members of her mother's family who were construction engineers.
+* By this time Irmgard was studying at a Girls' Gymnasium in Hanover but in order to help out with money to support herself, her mother and younger sister, she began to tutor mathematics and Latin to bring in some much needed cash.
+* Several years later, when Osark returned to Hanover he was in poor health and so Irmgard continued to work to bring in extra money for the family.
+* In 1938 Irmgard Lotz and Wilhelm Flügge were married, and in the following year they moved to Berlin where Flügge was appointed to the Deutschland Versuchsanstalt Luftfahrt.
+* Flügge-Lotz, as she was known after her marriage, became a consultant on aerodynamics and flight dynamics at the Deutschland Versuchsanstalt Luftfahrt.
+* In 1947 Wilhelm Flügge and Irmgard Flügge-Lotz moved with many of their co-workers to Paris, to become part of the Office National d'Études et de Recherches Aéronautiques.
+* Although Flügge-Lotz and her husband were happy living in Paris, the positions they held there gave them little hope of progressing in their careers.
+* At Stanford, Flügge-Lotz undertook research in numerical methods to solve boundary layer problems in fluid dynamics.
+* Working on automatic control devices brought Flügge-Lotz into contact with the Department of Electrical Engineering at Stanford since the devices were almost always of an electrical nature.
+* Flügge-Lotz became Stanford's first woman Professor of Engineering in 1961.
+* Despite what she had to bear, Flügge-Lotz remained cheerful and kept in touch with friends and colleagues.
+* The spirit of Irmgard was always present.
 
 Born 16 July 1903, Hameln, Germany. Died 22 May 1974, Stanford, USA.
 

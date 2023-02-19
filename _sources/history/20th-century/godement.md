@@ -7,10 +7,10 @@ orderid: 1921
 title: Godement, Roger
 born: 1921
 died: 2016
-keywords: Functional Analysis, Expository Books, Bourbaki, Math, Theorem, Homology, Cohomology
-description: Roger Godementwas a French mathematician, known for his work in Functional Analysis, his expository books, and membership in Bourbaki. He established theorems in math, homology, cohomology, and more.
+keywords: roger godement,godement
+description: Roger Godement was a French mathematician, known for his work in functional analysis and for his expository books. He was an active member of Bourbaki.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Roger Godement** was a French mathematician, known for his work in functional analysis and for his expository books. He was an active member of Bourbaki.
 
 ### Mathematical Profile (Excerpt):
-1. Established the homogeneous theory of Hilbert modular forms. 
-2. Proved Hochschild–Serre and Tate's local duality theorem. 
-3. Proved a theorem concerning the structure of semi-simple Lie algebras.
-4. Discovered a new proof for Artin's reciprocity law, the key theorem underlying class field theory. 
-5. Developed the correspondance between fields of cohomology and coherent sheaves. 
-6. Developed analytic continuation methods for generalising the functions of a single complex variable to several variables. 
-7. Developed a representation theory of Lie Groups. 
-8. Developed an abstract theory of algebraic homology. 
-9. Contributed to the Weil conjectures, which concern the topology of algebraic varieties.  
-10. Developed a theory for partial differential equations on Riemannian manifolds.
+* For the first 19 years of his life Roger lived about 10 km away from the city of Le Havre.
+* Godement graduated with his Agrégé de Mathématiques in 1943 and continued to undertake research at the university for his doctorate.
+* Godement published three further papers in 1945, namely: Sur la presque-périodicité des fonctions spectrales Ⓣ(On the almost-periodicity of the spectral functions); Sur les fonctions de type positif Ⓣ(On the positive type functions); and Sur les propriétés ergodiques des fonctions de type positif Ⓣ(On the positive properties of ergodic type functions).
+* Let us note that the "functions of positive type" that Godement was studying in these papers were members of a special class of functions defined on a Banach space of bounded, complex-valued continuous functions on a locally compact group.
+* Godement defended his thesis Les fonctions de type positif et la théorie des groupes Ⓣ(The positive type functions and group theory) in Paris in July 1946.
+* Following the award of his doctorate, Godement was appointed to the University of Nancy in 1946.
+* Godement was married to Sonia who even attended a Bourbaki meeting.
+* Godement is an exception to this, for he took a strong ethical position against the military; in particular he hated to see mathematics being used to develop weapons and other means of war.
+* Godement had published nine books: Topologie Algébrique et théorie des faisceaux Ⓣ(Algebraic topology and sheaf theory) (1958); Variétés différentiables.
+* On 1 October 2011, Godement celebrated his ninetieth birthday.
 
 Born 1 October 1921, Le Havre, France. Died 21 July 2016, Paris, France.
 

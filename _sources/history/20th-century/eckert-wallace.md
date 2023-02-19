@@ -7,10 +7,10 @@ orderid: 1902
 title: Eckert, Wallace J.
 born: 1902
 died: 1971
-keywords: Wallace J Eckert, astronomy, computers, calculations, Milky Way, Mark I Computer, ENIAC, rubber mathematical sheets
-description: Wallace J Eckert, American astronomer, was instrumental in development of computers and calculations, from Milky Way Galaxy to iconic Mark I & ENIAC computers, & the invention of rubber mathematical sheets.
+keywords: wallace j eckert,eckert
+description: Wallace J Eckert was an American astronomer whose work was important in the development of computers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Wallace J Eckert** was an American astronomer whose work was important in the development of computers.
 
 ### Mathematical Profile (Excerpt):
-1. Collaborating with Harvard astronomer Harlow Shapley on the calculations that determined the size and shape of the Milky Way Galaxy.
-2. Pioneering the application of IBM technology to astrometry and other calculation intensive scientific problems.
-3. Developing the numerical integration algorithm that allowed astronomers to greatly increase the accuracy of computation of planetary orbits.
-4. Contributing to the development of Harvard's Mark I Computer, a precursor to modern digital machines.
-5. Publishing The Calculation of the Solar System and the Milky Way Galaxy, the first book to explain the use of computing machines for celestial mechanics calculations.
-6. Developing a coordinate system for astronomy known as the “eckert ii” projection, a telescope mount known as the "Ecko-mount" and a map projection system called Eckert IV suitable for world maps as well as star maps.
-7. Developing mathematical techniques to assist in the programming of ENIAC, the first electronic computer, which allowed it to successfully predict the orbits of planets and their satellites. 
-8. Developing several "rubber mathematical sheets" (also known as 'flexible computing') which used sets of punch cards to perform and store calculations at a time before transistors and integrated circuit computers.
+* At that time Ernest Brown was a member of the astronomy department and Brown's work on the Moon was an important ingredient of Eckert's later work.
+* Eckert had joined the Faculty at Columbia University in 1926 and later he became professor there.
+* Eckert was an early user of IBM punch card equipment to reduce astronomical data and solve numerically planetary orbits.
+* In 1937 Columbia University and IBM established the Thomas J Watson Astronomical Computing Bureau as a result of the collaboration with Eckert.
+* In fact the work which led to this development was published by Eckert in Punched card methods in scientific computation (1940).
+* In 1940 Eckert became director of the US Nautical Almanac Office and produced work vital to navigation during World War II.
+* In 1945 Eckert became director of the Watson Scientific Computing Laboratory at Columbia University.
+* Eckert directed the construction of a number of innovative computers.
+* Eckert applied computers, in particular the SSEC and NORC, to compute precise planetary positions and contribute to the theory of the orbit of the Moon.
+* In particular he used the SSEC to compute the positions of Jupiter, Saturn, Uranus, Neptune and Pluto, publishing the results in 1951 in Coordinates of the five outer planets.
+* The NORC was used by Eckert to work on the problem of the position of the Moon.
+* Eckert therefore decided not to recompute new tables but to compute the ephemerides directly from Brown's equations.
+* The accuracy of Eckert's calculations of the Moon's orbit was so good that in 1965 he was able to correctly show that there was a concentration of mass near the lunar surface.
 
 Born 19 June 1902, Pittsburgh, Pennsylvania, USA. Died 24 August 1971, Englewood, New Jersey, USA.
 

@@ -7,10 +7,10 @@ orderid: 1236
 title: Ibn Tibbon, Jacob ben Machir
 born: 1236
 died: 1305
-keywords: Jacob ben Tibbon, French, Jewish, medical doctor, Aristotle, Euclid, geometry, trigonometry, astronomy, sexagesimal system
-description: Jacob ben Tibbon, a French Jewish medical doctor, translated Arabic versions of Greek mathematics into Hebrew. He is known for translating Aristotle & Euclid, plus writing own works on mathematics and astronomy, with a new sexagesimal system.
+keywords: jacob ben tibbon,ibn
+description: Jacob ben Tibbon was a French Jewish medical doctor who translated Arabic versions of Greek mathematics into Hebrew.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jacob ben Tibbon** was a French Jewish medical doctor who translated Arabic versions of Greek mathematics into Hebrew.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first Jewish translator of Aristotle’s works into Hebrew, greatly enhancing the knowledge Jews had of the Greek mathematical theories. 
-2. He is credited with translating Euclid’s Elements into Hebrew, giving more exposure to the field of geometry and trigonometry. 
-3. He also wrote his own works on mathematics and astronomy, including a commentary on the work of Euclid and an introduction to astronomy.
-4. He is also believed to have rewritten Euclid’s calculations in a more precise way, adding in Hebrew symbols for various elements of the equations.
-5. He is credited with the adoption by Jews of a sexagesimal system for calculating the circumference of circles and the areas of circles.
+* The ibn Tibbon family were famed over several generations so we begin by looking at the ancestors of the subject of this biography.
+* We begin with Judah ben Saul ibn Tibbon (1120-1190) who was the great-grandfather of Jacob ben Tibbon.
+* The Almohads expelled the Jews from Muslim Spain in 1148, and Judah ben Saul ibn Tibbon together with many other learned refugees, went to the south of France.
+* His son, Samuel ben Judah ibn Tibbon, was born in Lunel and continued his father's work of translating although he, like his father, was a medical doctor.
+* Samuel ben Judah ibn Tibbon's son, Moses ben Samuel ibn Tibbon, was born in Marseilles.
+* Jacob ben Machir ibn Tibbon, the subject of this biography, was the son of Machir ben Judah ibn Tibbon, Samuel ben Judah ibn Tibbon's brother.
+* Jacob was educated in Lunel and then studied medicine in the medical faculty of the University of Montpellier.
+* Jacob ben Tibbon is himself known as a translator as well as a mathematician and an astronomer.
+* Now Tibbon was much more than a translator, for he was a fine mathematician and astronomer writing original works in addition to the translations.
+* For example, he wrote Jacob's Quadrant  in which he describes a quadrant of his own invention.
+* Jacob ben Tibbon also wrote Luhot (Tables) a book of astronomical tables giving ascensions of certain stars at Paris.
+* The Italian astronomer Andalo di Negro wrote Canones Super Almanach Profatii  in 1323 which dealt with Jacob ben Tibbon's tables in Luhot .
+* Another work by Jacob ben Tibbon was Almanach Perpetuum  which, as the title indicates, was a work on the almanac.
+* At the time Tibbon wrote the work both the Toledan Tables of Arzachel and the newer Alfonsine Tables created for King Alfonso X of Castile were in use.
+* Tibbon appears to state that he used the Toledan Tables but Pierre Duhem criticised him for using 'old' tables instead of the latest available to him.
+* Tibbon's work was used by Copernicus in forming his theories.
 
 Born 1236, Marseilles, Spain (now France). Died 1305, Montpellier, France.
 

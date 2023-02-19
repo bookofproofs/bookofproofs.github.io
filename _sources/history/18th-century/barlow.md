@@ -7,10 +7,10 @@ orderid: 1776
 title: Barlow, Peter
 born: 1776
 died: 1862
-keywords: Peter Barlow, mathematics, tables, theorem, number, calculus, Barlow-Cox Series
-description: Peter Barlowwas an influential English mathematician who authored books, developed theorems and number systems, and contributed to mathematics education.
+keywords: peter barlow,barlow
+description: Peter Barlow was an English mathematician who produced important mathematical tables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Peter Barlow** was an English mathematician who produced important mathematical tables.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored the breakthrough book "Mathematical Analysis and Its Applications" in 1885.
-2. Developed Barlow’s World theorem, which states that the components of any vector can be transformed independently and the magnitude of the resulting vector is constant.
-3. Discovered the Barlow number, a unit of measurement used to measure curvature.
-4. Developed theories in the fields of differential and integral calculus, trigonometry, and algebra.
-5. Demonstrated the origin of the solution of three simultaneous linear equations using matrices.
-6. Published several papers on the calculus of variations, integrals, and other mathematical topics.
-7. Played a role in the development of the Barlow–Cox Series.
-8. Developed the Barlow Circle Theory which is used to study elastic material.
-9. Demonstrated numerous theorems in differential and integral calculus, including the Leibniz formula.
-10. Advocated for more resources to be devoted to mathematics education.
+* In addition to these articles, Barlow also published several important books, for example in 1811 he published An elementary investigation of the theory of numbers and three years later he published A new mathematical and philosophical dictionary.
+* These soon became known as Barlow's Tables and this work gives factors, squares, cubes, square roots, reciprocals and hyperbolic logarithms of all numbers from 1 to 10 000.
+* Barlow's second major contribution makes his name still well known by amateur astronomers today.
+* However when there was a move to demolish and replace this old bridge in the 1820s, Barlow was consulted to compute how the tides on the Thames would be affected by the removal of this structure.
+* Barlow was appointed as royal commissioner for railways and in the 1830s and 1840s he conducted several experiments to see if the limitation on gradients and radius of curvature proposed by Stephenson was correct.
 
 Born 15 October 1776, Norwich, England. Died 1 March 1862, Kent, England.
 

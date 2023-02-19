@@ -7,10 +7,10 @@ orderid: 1954
 title: Escobar, José
 born: 1954
 died: 2004
-keywords: Mathematics, Problem-solving, Algebra, Number Theory, Artificial Intelligence, Textbooks, Chilean National Science Prize
-description: José Escobar was a Colombian mathematician who achieved groundbreaking breakthroughs in mathematics, aiming to solve difficult problems with number theory and AI, producing influential textbooks and winning Chile's National Science Prize in 2014.
+keywords: josé escobar,escobar
+description: José Escobar was a Colombian mathematician who made outstanding contributions to the Yamabe problem. He worked most of his life in the United States but made decisive contributions to developing and improving the mathematical level in Colombia.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,17 +22,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **José Escobar** was a Colombian mathematician who made outstanding contributions to the Yamabe problem. He worked most of his life in the United States but made decisive contributions to developing and improving the mathematical level in Colombia.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Developed mathematical theories and problem-solving techniques to solve a variety of mathematical problems.
-2. Broke new ground in algebra and number theory, introducing new concepts and proving previous conjectures.
-3. Published groundbreaking journal articles and monographs on the use of number theory and algebra to solve intricate mathematical problems.
-4. Established the Escobar Research Centre at the Chilean Institute of Mathematics to study and promote new and innovative mathematical techniques.
-5. Pioneered the use of artificial intelligence in mathematics, leading to new and efficient problem-solving algorithms.
-6. Authored several textbooks on mathematics, algebra, and number theory that continue to be widely used today.
-7. Won the Chilean National Science Prize in 2014 for his work in mathematics and computer science.
+* José was widely known by the nickname 'Chepe', a common Spanish nickname for José.
+* Gustavo and Yadira had three children, Maria Victoria Escobar (born 1951), Arturo Escobar (born 1952) and José Escobar, the subject of this biography.
+* Arturo Escobar became a professor of anthropology and political ecology at the University of North Carolina, Chapel Hill, United States.
+* When José was very young, his parents moved from Manizales, about 120 km west of Bogotá in the mountainous coffee-growing region of western Colombia, to Cali, about 200 km south east of Manizales.
+* Cali is famous for salsa dancing and, indeed, José would become an enthusiastic salsa dancer.
+* Escobar was educated at the Colegio Lacordaire, a school in Cali which had been founded in 1956 by the Dominicans.
+* Escobar was awarded an M.Sc. in 1979 for his thesis Equações elíticas de 2ª ordem: soluções C* ao problema de Dirichlet Ⓣ(Elliptic Equations of the 2nd Order: C* Solutions to the Dirichlet Problem.).
+* The exceptional quality of his work at the Instituto Nacional de Matemática Pura e Aplicada led to the award of a scholarship by the Brazilian National Council of Scientific and Technological Development to allow Escobar to undertake research at the University of California at Berkeley.
+* Escobar was, however, diagnosed with lymphatic cancer and spent two years being treated by Stanford's Medical Center.
+* After his recovery, Escobar made two research visits in 1985, one to the Mittag-Leffler Institute in Sweden which was holding a non-linear analysis year, and the other to the Institut des Hautes Études Scientifiques at Bures-sur-Yvette, south of Paris.
+* Of course, the very serious health problem meant that Escobar did not complete his Ph.D. until 1986 when he was awarded the degree for his thesis Linear and Non-Linear Partial Differential Equations with Applications to Geometry.
+* This result was published in a joint paper of Escobar and Schoen, Conformal metrics with prescribed scalar curvature which was published in Inventiones mathematicae in 1986.
+* This was one of two papers Escobar published in 1986, the other being On the spectrum of the Laplacian on complete Riemannian manifolds.
+* Following the award of his doctorate, Escobar spent the rest of his career in the United States.
+* Escobar is outstanding among the best, even within that group.
+* Escobar then spent the years 1990 to 1994 as an associate professor at the University of Indiana at Bloomington before becoming a full professor at Cornell University in 1994.
+* Although Escobar was employed in the United States, his influence on Colombian mathematics was enormous and decisive: for example after the award of his doctorate in 1986 he visited Colombia at least once a year, guided and worked with the Geometry and Topology Group of Universidad del Valle, collaborated actively with researchers from the National University in Bogotá and Medellín, and the Universidad de los Andes, organised Summer Schools in Differential Geometry, Partial Differential Equations and Numerical Analysis, as well as giving numerous lectures and workshops.
+* In 1992 Escobar was awarded a Presidential Faculty Fellowship.
+* Escobar visited the White House on 21 June 1992 to receive the award in person from President George Bush.
+* Escobar produced further outstanding results on the Yamabe Problem on compact manifolds with boundary in his 1996 paper Conformal deformation of a Riemannian metric to a constant scalar curvature metric with constant mean curvature on the boundary.
+* We have looked at Escobar's outstanding research but we should note that he was also a charismatic teacher.
+* At the Universidad del Valle in Cali, Colombia, Escobar had met the mathematician María Mercedes Franco.
+* She moved to the United States in 1994 to join her partner and future husband José Fernando Escobar Velásquez.
+* In early 2000, Escobar visited the Instituto de Matemática Pura e Aplicada in Rio de Janeiro where he was beginning a sabbatical year.
+* By the time this 2004 paper was published in the June part of the Journal of Functional Analysis, Escobar had already died.
+* It was in the second semester of 2003 that Escobar began to feel his health deteriorating again.
+* In 2005, Escobar's wife María Mercedes Franco published the book Existence and Regularity of Minimizers for a One-dimensional Elasticity Problem Without Convexity.
+* In 2017 the Colombian Mathematical Society instituted the "José Fernando Escobar" Prize for Research in Mathematics.
 
 Born 20, December, 1954, Manizales, Colombia. Died 3, January, 2004, Cali, Colombia.
 

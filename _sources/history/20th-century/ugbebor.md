@@ -7,10 +7,10 @@ orderid: 1951
 title: Ugbebor, Olabisi
 born: 1951
 died: 0
-keywords: Olabisi Ugbebor, Mathematics, Brownian motion, Economics, AI, Network Security, Datasets
-description: Olabisi Ugbebor is the first female professor of mathematics in Nigeria, authorsing multiple papers and books on topics such as Brownian motion, Economics and AI. She's developed many applications and algorithms to support research in these fields.
+keywords: olabisi ugbebor,ugbebor
+description: Olabisi Ugbebor is the first female professor of mathematics in Nigeria. She has written many papers on Brownian motion and on economics, and is a co-author of books such as Further Mathematics, Analytical Geometry and Mechanics, and Fundamentals of Abstract Algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Olabisi Ugbebor** is the first female professor of mathematics in Nigeria. She has written many papers on Brownian motion and on economics, and is a co-author of books such as _Further Mathematics, Analytical Geometry and Mechanics_, and _Fundamentals of Abstract Algebra_.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical application that supports research in the field of Artificial Intelligence.
-2. Developed a software for helping forecasting in logistics for shipping companies.
-3. Authored “Mathematical Analyses for Computer Networks” to facilitate effective experimentations in the field of Network Security.
-4. Developed models for effective reduction of energy costs in infrastructure systems.
-5. Designed and implemented several sophisticated algorithms for efficiently managing large datasets.
-6. Developed a system to support the analysis and classification of massive data sets.
-7. Authored several peer-reviewed articles on topics related to mathematics and computer science.
-8. Consulted for several well-known companies on issues related to mathematics, automation, and analytics.
-9. Developed an advanced mathematics algorithm application for predicting market trends.
-10. Published a book titled “Mathematics for Optimal Computing” to aid scientists in using optimization techniques for developing more efficient solutions.
+* For the sake of simplicity we will refer to her as Ugbebor throughout this biography.
+* Three children of the firm competed for this first scholarship, two boys and Ugbebor.
+* Ugbebor had top marks in French and her French teacher wanted her to take A level French but, since Ugbebor was equally good at science, the government policy determined that she take A levels in science subjects.
+* In the same year of 1972 she married the engineer Curtis Ugbebor.
+* In the above quote Ugbebor is describing the time she attended the University of London Institute of Education Course for Lecturers, held from 15-19 September 1975 and was awarded the Certificate of the University Teaching Methods Unit in 1976.
+* Ugbebor has published papers and books on a wide variety of topics.
 
 Born 29 January 1951, Lagos, Nigeria.
 

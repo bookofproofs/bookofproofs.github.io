@@ -7,10 +7,10 @@ orderid: 1893
 title: Ostrowski, Alexander Markowich
 born: 1893
 died: 1986
-keywords: Ostrowski, linear equations, determinants, matrices, inverse matrix, integral equations, Ostrowski theorem
-description: Alexander Ostrowski developed theories in linear equations, determinants, matrices, inverse matrices and integral equations, among others, and his algorithms are still used today.
+keywords: alexander ostrowski,ostrowski
+description: Alexander Ostrowski was a Ukranian-born mathematician who worked on a wide variety of topics in both analysis and algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Ostrowski** was a Ukranian-born mathematician who worked on a wide variety of topics in both analysis and algebra.
 
 ### Mathematical Profile (Excerpt):
-1. He advanced the theory of linear equations, which is fundamental to the field of mathematics and has had a significant impact on modern research.
-2. He developed the theory of determinants and the concept of summation and product of matrices.
-3. He introduced the concept of inverse matrix, which has since been fundamental to mathematical research.
-4. He established the first general theorem on the properties of linear equations, now known as the Ostrowski-Hadamard Theorem.
-5. He developed the Ostrowski-Hadamard inequality and its generalized version, which is widely used in various branches of mathematics.
-6. He created integral equations which are now recognized as fundamental equations for mathematical examination.
-7. He developed the Ostrowski theorem, which states that any linear system of equations can be expressed as a certain combination of rank-one systems.
-8. He also proposed some of the first-ever methods for solving linear systems of equations, including the Ostrowski algorithm.
+* Alexander's mother was Vera Rashevskaya.
+* For three years Ostrowski participated in Grave's seminar while completing his course at the School of Commerce.
+* Ostrowski had not been a mere observer in Grave's seminar during these years, however, for by the time he completed his studies at the College of Commerce he had already found original results on Galois fields and had written his first paper with Grave's assistance.
+* Ostrowski did poorly in this lottery and permission was not granted so Grave wrote to Edmund Landau and Hensel in Germany asking for their help.
+* Both Landau and Hensel offered to help solve Ostrowski's problem and invited him to Germany.
+* Ostrowski accepted Hensel's offer of a place at the Marburg University and in 1912 he began his studies there under Hensel's supervision.
+* In the autumn of 1914, after the outbreak of war, Ostrowski was interned as a hostile foreigner.
+* Hensel pleaded with the authorities on Ostrowski's behalf and although his movements remained severely restricted, he was allowed to use the library at Marburg University.
+* When the war ended in 1918, Ostrowski was free to move around Germany and he went to Göttingen where Klein, Hilbert and Landau were major influences on him.
+* After being awarded a Rockefeller Research Fellowship, Ostrowski spent the academic year 1925-26 in Britain, spending periods at each of the universities of Oxford, Cambridge and Edinburgh.
+* Ostrowski married Margaret Sachs in 1949.
+* From this time onwards Ostrowski concentrated fully on his mathematics while his wife completely organised the rest of their lives.
+* It was an arrangement which suited Ostrowski very well indeed.
+* When we remarked above that Ostrowski "remained at Basel until he retired" this was not meant to imply that he did not travel.
+* Ostrowski had an impressive publication record of around 275 works.
+* Ostrowski's persistence manifested itself in the fact that, once he selected a topic, he investigated it exhaustively, not leaving any open questions.
+* Other work of Ostrowski was on the Cauchy functional equation, the Fourier integral formula, Cauchy-Frullani integrals, and the Euler-Maclaurin formula.
 
 Born 25 September 1893, Kiev, Russian Empire (now Kyiv, Ukraine). Died 20 November 1986, Montagnola, Lugano, Switzerland.
 

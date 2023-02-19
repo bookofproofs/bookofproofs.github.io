@@ -7,10 +7,10 @@ orderid: 1835
 title: Newcomb, Simon
 born: 1835
 died: 1909
-keywords: Mathematical Astronomy, Theory of Least Squares, Natural Logarithms, Harmonic Method, Cubic Equation, Nautical Almanac, Gravity Mapping
-description: Simon Newcomb developed law of error, proposed models, and discovered principles in math, trig, calculus, and astronomy, solving the cubic equation, establishing accuracy in the Nautical Almanac, and creating a gravity mapping simulator.
+keywords: simon newcomb,newcomb
+description: Simon Newcomb was a Canadian-born mathematician whose work on mathematical astronomy was very important. He also wrote on economics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Simon Newcomb** was a Canadian-born mathematician whose work on mathematical astronomy was very important. He also wrote on economics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a fundamental law of error in 1877, which formalized the theory ofleast squares. 
-2. Authored multiple textbooks on algebra, trigonometry, and calculus.
-3. Proposed a model for the frequency distribution of errors in scientific measurements in 1884.
-4. Constructed a statistical analysis of the moon’s motion in 1899 which improved the accuracy of astronomical calculations. 
-5. Discovered the principles of natural logarithms, which are essential in science and engineering.
-6. Developed a ‘harmonic’ approach to solving certain types of equations (a method of solving equations using a polynominal equation), thus practically solving the famous cubic equation.
-7. Established a system of internal standards for accuracy in Nautical Almanac office. 
-8. Impacted the field of mathematical analysis through his multi-volume book entitled ‘Principles of Form and Order in the Univere’ in which he developed methods for solving non-linear equations. 
-9. Developed a gravity mapping simulator that could be used to accurately measure the Earth’s gravity from a spacecraft.
+* His father, John Burton Newcomb, was a school master in Canada.
+* John moved around teaching in different parts of the country, particularly in different villages in Nova Scotia and Prince Edward Island, and Simon received no formal education other than from his father.
+* When he was sixteen years old Simon took a job with a herbalist, called Dr Foshay, in New Brunswick.
+* They entered an agreement that Newcomb would serve a five year apprenticeship during which time Foshay would train him in using herbs to treat illnesses.
+* Indeed he did literally walk out, for Newcomb walked about 120 miles to the port of Calais in Maine where he met the captain of a ship who agreed to take him to Salem in Massachusetts if he was prepared to work as a sailor on board ship.
+* In about 1854 he joined his father in Salem (John Newcomb had moved earlier to the United States), and the two journeyed together to Maryland.
+* After arriving in Maryland, Newcomb taught for two years from 1854 to 1856; for the first year in a country school in Massey's Cross Roads, Kent County, then for a year at a school not far south in Sudlersville.
+* Newcomb had arrived in the United States at a very difficult time with tensions rising between the southern and northern states.
+* In 1861 Newcomb was appointed as professor of mathematics and astronomer at the Naval Observatory at Washington to fill a vacancy created by one of these resignations.
+* Hansen had used observations dating back to 1750 in order to compile the tables but Newcomb felt that using older observations would be valuable.
+* In fact Newcomb was in Paris at a very difficult period for, following humiliation by the Prussians in the previous year, the victorious German armies marched through Paris.
+* The Observatory was caught in the midst of the fighting but, fortunately for Newcomb, he had been able to leave the city three weeks earlier in the midst of the mounting crisis.
+* Once Newcomb was able to study the pre-1750 observational data, he discovered that Hansen's tables were badly in error for the period before 1750.
+* In 1877 Newcomb became director of the American Nautical Almanac Office (by this time in Washington) and this did indeed give him a position where the emphasis was on computation rather than observation.
+* Newcomb was appointed professor of mathematics and astronomy at Johns Hopkins University in 1884, holding this position until 1893.
+* Although most of Newcomb's work was in mathematical astronomy, some of his papers were purely theoretical.
+* Newcomb showed how to extend Laplace's series to give a perturbing function in the case of elliptical orbits by introducing differential operators which act on the Laplace coefficients.
+* These differential operators became known as 'Newcomb operators'.
+* Newcomb, helped by his assistant Hill, computed values for the astronomical constants which were all major improvements on the previous accepted values.
+* In a rather remarkable international agreement in Paris in 1896, it was decided that the ephemerides of every country in the world should use Newcomb's values for these constants.
+* The Paris conference at which the agreement was reached also gave Newcomb the task of completing a catalogue of the positions and motions of the bright stars and also with computing a new value for precession.
+* This task was made rather more difficult since Newcomb reached compulsory retiring age one year later, but arrangements were made to allow for the work to be completed, and he was given a consulting role.
+* It was not only in mathematics and astronomy, however, that Newcomb made major contributions.
 
 Born 12 March 1835, Wallace, Nova Scotia, Canada. Died 11 July 1909, Washington, D.C., USA.
 

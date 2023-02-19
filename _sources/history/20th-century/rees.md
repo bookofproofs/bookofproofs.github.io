@@ -7,10 +7,10 @@ orderid: 1902
 title: Rees, Mina Spiegel
 born: 1902
 died: 1997
-keywords: Mina Spiegel Rees, mathematics, computing, pioneer, Office of Naval Research, National Science Foundation, John Price Wetherill Medal
-description: Mina Spiegel Rees was a pioneer in mathematics and computing; she was the first woman chief at the Office of Naval Research and achieved significant advancements in the field through NSF and private donations. She was awarded the John Price Wetherill Medal in 1959.
+keywords: mina rees,rees
+description: Mina Spiegel Rees was an American mathematician and a pioneer in the history of computing. She had a major impact on the academic and research culture of the United States.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,42 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mina Spiegel Rees** was an American mathematician and a pioneer in the history of computing. She had a major impact on the academic and research culture of the United States.
 
 ### Mathematical Profile (Excerpt):
-1. Appointed Chief of the Division of Mathematical, Physical and Engineering Sciences at the Office of Naval Research in 1952, becoming the first woman to hold a chief's position at the agency.
-2. Drafted a proposal for a federal mathematics program in 1956, which eventually was approved by the National Science Foundation (NSF) and became the Mathematical Sciences Education Board.
-3. Achieved significant advancements in the mathematical sciences through increased funding from the NSF, as well as from private and corporate donations.
-4. Established the National Research Council’s Mathematical Policy Board in 1955, strengthening the role of mathematics in government research.
-5. Supported the establishment of the Applied Mathematical and Computational Sciences Program at the NSF in 1978, which resulted in the publication of numerous books and monographs.
-6. Published over a dozen articles and book reviews in various mathematical journals, including The Mathematics Teacher and Mathematics Magazine.
-7. Advocated for increased funding and recognition of mathematical research, helping to make it a priority in the U.S. government’s research agenda.
-8. Received the John Price Wetherill Medal in 1959, the first woman to be so honored by the Franklin Institute of Philadelphia.
+* Moses Rees was born in New York on 26 July 1858 to parents Herman Rees and Mina Spiegel who had emigrated from Germany.
+* Moses Rees became an insurance agent.
+* Moses Rees met Alice Stackhouse in Lebanon Pennsylvania and they were married there on 1 September 1892.
+* Moses and Alice Rees had five children: Elsie Isabella Rees (1893-1975), Albert L Rees (1894-1992), Clyde Harvey Rees (1896-1967), Clarence Eugene Rees (1898-1966), and Mina Spiegel Rees (1902-1997), the subject of this biography.
+* Let us note here (where dates refer to the US census) that: Elsie Isabella Rees was a stenographer in publishing (1910), and had no occupation (1920 and 1930); Albert L Rees was a clerk in a steel company (1910) and was foreman in a gravel company (1920); Clyde Harvey Rees was a shipping clerk in a steel company (1910) and a salesman in a millinery company (1920); and Clarence Eugene Rees was a manager in an electric company (1920 and 1930).
+* When Mina was two years old the family moved from Cleveland to the Bronx in New York City.
+* Mina grew up in New York City and attended public school there but life was quite hard.
+* Rees, however, had already formed the opinion that the lecturers at the College were not well enough qualified.
+* Appointed as an assistant teacher at Hunter High School, Rees continued her studies at Columbia University.
+* After receiving her M.A. in 1925, Rees returned to Hunter College where she was appointed to the post of instructor.
+* In fact Rees had some good fortune for, within a month of her arrival in Chicago, the new president of the University of Chicago, Robert Maynard Hutchins, was inaugurated.
+* Rees represented the Hunter College Mathematics Department at the inauguration and was a guest of honour at the dinner given by the Chicago Mathematics Department to celebrate the occasion.
+* Despite these difficulties, in 1931 Rees graduated with her doctorate for a thesis entitled Division algebras associated with an equation whose group has four generators.
+* Mina's thesis was finished in the spring of 1931.
+* From Mina's subsequent accomplishments we know that she would have understood these notions and made use of them to simplify her earlier proof.
+* We also know about Mina and so can imagine many splendid research results.
+* The opportunity was missed, however, and Rees returned to Hunter College where she was promoted to assistant professor in 1932 and then to associate professor in 1940.
+* For her work with the Applied Mathematics Panel, Rees received the President's Certificate of Merit at the end of the war.
+* In 1946 the US Navy invited Rees to become Head of the mathematics branch of the Office of Naval Research to support scientific and mathematical research.
+* That nothing of the sort happened is beyond any doubt traceable to one person - Mina Rees.
+* No greater wisdom and foresight could have been displayed and the whole post-war development of mathematical research in the United States owes an immeasurable debt to the pioneer work of the Office of Naval Research and to the alert, vigorous and farsighted policy conducted by Miss Rees.
+* It is well known that in these more recent organisations Mina Rees was constantly appealed to for counsel and guidance.
+* In 1953 Rees returned to Hunter College, the institution she had left on extended leave 10 years previously to undertake war work.
+* Rees also acted as a consultant on the machine handling of data for the 1960 census.
+* Graduate studies at CUNY were very much directed by Rees during her 11 years there as she was appointed provost of the graduate division for 1968-1969 and then president of the Graduate School and University Center from 1969 until she retired in 1972.
+* Although Rees did not continue with the algebra research she undertook for her doctoral thesis, she made major contributions to mathematical education and to the development of computers.
+* As more and more women, at all stages in their lives, started attending college and graduate school, Rees clearly saw the need for flexibility.
+* Rees strove to build a program at CUNY that nurtured instead of alienated these new types of students, and advocated for similar programs across the country.
+* Rees received many awards for her outstanding contributions.
+* She tried to hide the fact she had even been nominated from her husband, Dr Leopold Brahdy, a physician.
+* In addition Rees was awarded honorary degrees from around twenty universities and colleges.
+* Mina Rees was eminently intelligent.
+* Mina Rees was eminently civilised.
+* Among Rees's interests other than her academic work we mention oil painting, music, dance, literature, bird watching, travel and cooking.
+* Leopold Brahdy, Rees's husband, died on 30 November 1977.
+* Rees had retired in 1972 and died in the Mary Manning Walsh Home in Manhattan at the age of ninety-five.
 
 Born 2 August 1902, Cleveland, Ohio, USA. Died 25 October 1997, New York City, USA.
 

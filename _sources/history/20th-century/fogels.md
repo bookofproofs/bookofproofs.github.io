@@ -7,10 +7,10 @@ orderid: 1910
 title: Fogels, Ernests
 born: 1910
 died: 1985
-keywords: Number Theory, Linear Associative Algebra (LAA), Matroids, Directed Trees, Fuchs-Fogel Algorithm, Lattice Theory, Dimensional Reduction
-description: Ernests Fogels was a Latvian mathematician who made groundbreaking contributions to number theory, linear associative algebra, matroids, directed trees, the Fuchs-Fogel algorithm, lattice theory, and dimensional reduction.
+keywords: ernests fogels,fogels
+description: Ernests Fogels was a Latvian mathematician who worked in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernests Fogels** was a Latvian mathematician who worked in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new general theory of linear associative algebra (LAA) in 1949.
-2. Established the algebraic theory of matroids in 1959, creating a new field of study. 
-3. Founded parts of the theory of directed trees, creating foundations for the application of matroids in graph theory.
-4. Pioneered the invention of the Fuchs-Fogel algorithm in the early 1960s.
-5. Wrote a comprehensive book on the theory of functions of several variables in the 1970s.
-6. Authored two influential books on lattice theory, which served as an introduction to the subject.
-7. Wrote a series of papers that uncovered several important algebraic and topological aspects of complex functions. 
-8. Published papers that demonstrated new results in abstract algebra and algebraic number theory. 
-9. Proposed a novel method for dimensioality reduction in 1995. 
-10. Developed a criterion for constructing matrices which have the memory capacity for basic operations.
+* However Fogels was able to attend one of the best secondary schools in Latvia when he entered the Second Gymnasium in Riga.
+* But Fogels had special talents for subjects other than mathematics at the Gymnasium for he had a wonderful talent for painting.
+* After leaving school, Fogels wanted to continue with both his interest in mathematics and that in painting.
+* After graduating in 1933 Fogels joined the staff of the University of Latvia.
+* During this extremely difficult period Fogels continued to teach and undertake research at the University of Latvia being appointed as an associate professor in 1940.
+* During these difficult years Fogels had been researching for his thesis On mean values of arithmetical functions which he submitted to the University of Latvia in 1947.
+* This was a very productive time for Fogels who published twelve papers on number theory over the three years 1947-1950.
+* Using such finite methods Fogels proved a number of the classical theorems of number theory.
+* In 1950 the Latvian Academy of Sciences closed down mathematics and Fogels moved to the Riga Pedagogical Institute.
+* In 1958 the Riga Pedagogical Institute was closed down and since Fogels' health was rather poor by this time so he did not seek another position until 1961 when he was appointed as a research fellow at the Radio Astrophysical Observatory of the Latvian Academy of Sciences.
+* Fogels retired in 1966 but continued to undertake research and from 1967 until his death he was on the editorial board of Acta Arithmetica.
 
 Born 12 October 1910, Nigrande, Saldus, Latvia. Died 22 February 1985, Latvia.
 

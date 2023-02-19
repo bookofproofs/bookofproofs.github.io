@@ -7,10 +7,10 @@ orderid: 1659
 title: Saurin, Joseph
 born: 1659
 died: 1737
-keywords: Joseph Saurin, French mathematician, algebra, equations, multiple unknowns, rule of three, probability, cyclic equation
-description: Joseph Saurin was a French mathematician who made major contributions to the development of algebra, equations with multiple unknowns, the rule of three and probability, and he successfully solved a cyclic equation.
+keywords: joseph saurin,saurin
+description: Joseph Saurin was a French mathematician who made contributions to the calculus.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Saurin** was a French mathematician who made contributions to the calculus.
 
 ### Mathematical Profile (Excerpt):
-1. He published a major treatise on algebra in 1636, one of the first works on the subject in the French language.
-2. He developed a concept of general equations and equations with multiple unknowns, later called Saurin's curves.
-3. He discovered the rule of three, a method of solving proportionality problems using algebraic equations.
-4. He developed new techniques to simplify and solve equations of higher-degree polynomials.
-5. He did pioneering work on redefining the notion of probability and worked on a method to solve binomial equations.
-6. He successfully solved a cyclic equation, which was a form of equations with multiple unknowns.
-7. He was appointed by King Louis XIV to teach mathematics to his son, Louis de Bourbon, later known as the Duc de Bourbon.
+* Joseph was the youngest of his parents three children, who were all boys.
+* His brother, Élie Saurin, went on to become a famous Protestant theologian.
+* Pierre Saurin was the only tutor for all three of his sons and he wanted them all to enter the ministry.
+* Saurin entered the Calvinist ministry as a curate in Eure in 1684 but was soon in trouble for his outspoken views which he delivered in sermons from the pulpit.
+* Saurin, always someone with strong opinions of his own, did not accept the doctrine of predestination as presented in the Consensus.
+* This now put Saurin in a very difficult position, unable to return to France as a Protestant minister.
+* Saurin had married a daughter of the noble family de Crouzas in Switzerland; they had at least one son Bernard-Joseph who became a poet and writer of plays.
+* Saurin now, however, found himself in difficulties since in October 1688 a French army marched into the Palatinate and a war had begun.
+* He appealed to the Académie Royal des Sciences but, although Saurin was correct, they had no wish to come out against Rolle who was a member.
+* Perhaps to be diplomatic, Saurin was elected to the Académie Royal des Sciences in 1707.
+* Saurin made contributions to the calculus, wrote on Jacob Bernoulli's problem of quickest descent and Huygens' theory of the pendulum.
+* It is clear from the biographical details that we have related above that Saurin fell out with many people around him.
 
 Born 1 September 1659, Courthézon, Vaucluse, France. Died 29 December 1737, Paris, France.
 

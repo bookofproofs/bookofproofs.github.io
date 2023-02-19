@@ -7,10 +7,10 @@ orderid: -130
 title: Hong, Luoxia
 born: -130
 died: -70
-keywords: Luoxia Hong, Chinese, mathematician, Columbia Univ, National Math Contest, Annals of Math, Hua Loo-Keng Prize, Johns Hopkins Univ
-description: Luoxia Hong: Chinese mathematician & astronomer - earned doctorate from Columbia Univ, National Math Contest win, mathematics journals publications, Hua Loo-Keng Prize & Johns Hopkins asst. prof.
+keywords: luoxia hong,hong
+description: Luoxia Hong was a Chinese astronomer who was involved in calendar reform.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Luoxia Hong** was a Chinese astronomer who was involved in calendar reform.
 
 ### Mathematical Profile (Excerpt):
-1. First Chinese mathematician to earn a doctorate in mathematics from Columbia University (2003).
-2. Developed a novel approach to solving complex mathematical equations that won the 2004 National Mathematical Contest in Modeling (2004).
-3. Received recognition from the Chinese Mathematical Society, winning their Math Achievement Award (2007).
-4. Published papers in various prestigious mathematics journals, including the Annals of Mathematics and the Journal of Differential Geometry (2008–2013).
-5. Won the Hua Loo-Keng Prize for excellent mathematical research contribution in the areas of algebra, geometry, and topology (2009). 
-6. Developed new techniques in representation theory and applied them to deduce and prove theorems on Lie algebras, hyperkahler manifolds and complex surfaces (2013).
-7. Appointed to the Johns Hopkins University Department of Mathematics, as the first female associate professor and the first Asian female professor in the department (2015).
+* In 140 BC, probably before Luoxia Hong was born, Emperor Wu-ti came to power and ruled from his capital Chang'an.
+* Luoxia Hong was one of the astronomers who went to Chang'an in answer to Emperor Wu-ti's request.
+* Luoxia, however, lived in the southwest of China.
+* Emperor Wu-ti received eighteen proposals for a new calendar, and he judged the best one was that received from Luoxia Hong and one of his colleagues Deng Ping.
+* Luoxia Hong's calendar was much more than simply an attempt to bring the sun and moon into a common system for he also gave predictions for the positions of the planets and predictions of eclipses.
+* All this was only possible with good observations and the reason that they were good is that Luoxia Hong made an equatorial armillary sphere to make observations for his new calendar.
+* Emperor Wu-ti was delighted with Luoxia Hong's achievements and offered him an official position in Chang'an.
+* This offer, however, was refused, and Luoxia Hong returned to live a solitary life.
 
 Born about 130 BC, Southwest China. Died about 70 BC, China.
 

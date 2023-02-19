@@ -7,10 +7,10 @@ orderid: 1803
 title: Bellavitis, Giusto
 born: 1803
 died: 1880
-keywords: Giusto Bellavitis, analysis situs, topology, geometry, functions, calculus, linear art
-description: Giusto Bellavitis, an Italian mathematician, is credited with developing the theory of analysis situs (or topology) to study geometric figures, and applying algebraic methods & calculus to a range of questions. He also wrote textbooks and established a school of higher mathematics.
+keywords: giusto bellavitis,bellavitis
+description: Giusto Bellavitis was an Italian mathematician who worked on a large range of mathematical topics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giusto Bellavitis** was an Italian mathematician who worked on a large range of mathematical topics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of analysis situs (or topology), enabling the study of relationships between properties of geometric figures and their curves and surfaces. 
-2. Wrote the first Italian textbook on analysis situs, summarizing his research on the topic. 
-3. Was among the first to apply algebraic methods to geometry and to recognize the importance of functions as fundamental elements in mathematical investigations. 
-4. Established the first Italian school of higher mathematics and wrote a series of mathematics texts for this education. 
-5. Was among the earliest mathematicians to apply the ideas of calculus to a wide range of scientific and technical questions. 
-6. Developed a theory of linear art, which served as the basis for the development of perspective and the basis for later work on axiomatic geometry.
+* Bassano had been a dependency of Venice since 1405 but in 1796, just seven years before Giusto was born, Napoleon defeated the Austrians at a battle there.
+* Ernesto Bellavitis had come from a family that was part of the nobility of the Bassano but, by the time that Giusto was growing up in the town, his parents (his mother was Giovanna Navarini) were not wealthy.
+* Giusto did not attend any educational establishments but was taught at home by his father.
+* Ernesto Bellavitis gave his son a good appreciation and liking for mathematics but before long Giusto had greatly exceeded his father's knowledge of the subject.
+* In 1822, at the age of 18, Bellavitis began to work for the municipal government of Bassano like his father.
+* Given that he was receiving no pay it is remarkable how conscientious he was in carrying out his duties! Bellavitis did spend most of his free time working on mathematics, however, and he published important papers starting from 1834.
+* It was in that year that Bellavitis gave formulae for the areas of polygons which were discovered independently by von Staudt in 1842.
+* Bellavitis believed that algebra had to be founded on geometry, and that number systems could only be defined through geometric concepts.
+* According to Bellavitis, the plane does not just provide a means to represent complex numbers.
+* Starting in 1832 Bellavitis developed geometrically the algebra of complex numbers.
+* Later on, in 1858, Bellavitis included the system of quaternions into his geometric calculus.
+* Bellavitis was appointed professor of mathematics and mechanics at Vicenza in 1843.
+* Maria Tavelli, whom he then married, had faithfully stood by Bellavitis for fourteen years waiting for him to become financially secure.
+* In 1867, Bellavitis moved from the chair of geometry at Padua to take the chair of complementary algebra and analytic geometry there.
+* In addition to the work described above, Bellavitis made significant contributions to algebraic geometry, where he classified curves in particular completing Newton's classification of cubic curves, and descriptive geometry with an important textbook on the topic.
+* It will be seen from this that Bellavitis worked on a large range of mathematical topics.
+* As a young man, Bellavitis weighted the problem of a universal scientific language and published a paper on this subject in 1863.
+* Bellavitis received many honours after the difficult start to his career.
 
 Born 22 November 1803, Bassano, Vicenza (now Italy). Died 6 November 1880, Tezze (near Bassano) Italy.
 

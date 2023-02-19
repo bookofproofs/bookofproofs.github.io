@@ -4,13 +4,13 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-russia
 orderid: 1894
-title: Frenkel, Jacov Il'ich
+title: Frenkel, Jacov Il&amp;#x27;ich
 born: 1894
 died: 1952
-keywords: Frenkel, Wolf Prize, Chern Medal, Bieberbach conjecture, duality, differential equations, correlation theory, pseudorandom generator, probability theory, quantum field theory
-description: Jakov Il'ich Frenkel was a Russian physicist honored with the Wolf and Chern Medals for his work in number theory, cellular automata, correlation theory, and quantum field theory.
+keywords: jacov il'ich frenkel,frenkel
+description: Jakov Il'ich Frenkel was a Russian physicist who worked in the field of condensed matter physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jakov Il'ich Frenkel** was a Russian physicist who worked in the field of condensed matter physics.
 
 ### Mathematical Profile (Excerpt):
-1. He was awarded the prestigious Wolf Prize in Mathematics in 1992 for developing his theory of self-organizing mathematical structures.
-2. He also received the Chern Medal from the International Mathematical Union in 2010 for his "great contribution to mathematics and related fields."
-3. He solved several important problems in number theory, including the Bieberbach conjecture, the first proof of which dates back to 1916.
-4. He is widely known for introducing the theory of duality for cellular automata in 1969.
-5. He was the first to state and prove the theorem of two-dimensionally periodic differential equations in 1971.
-6. He is credited with the discovery of analytical functions of finite order in 1974.
-7. He was a leading figure in the development of correlation theory, soon becoming its popularizer.
-8. He introduced the concept of a "pseudorandom generator," and he established links between probability theory and algebra.
-9. He was renowned for his work on partial differential equations, in particular, the theory of self-similar solutions and quasiconformal mappings.
-10. He also achieved success in the field of quantum field theory and quantum statistical systems.
+* Jacov Il'ich Frenkel was the eldest of their children.
+* After one year in a Gymnasium, Jacov Il'ich was sent to Switzerland in 1905 because of the situation in Russia.
+* There Frenkel entered the K May Gymnasium.
+* By 1910 Frenkel was discovering mathematics for himself and working extremely hard.
+* His work was shown to J V Uspenskii, a student of A A Markov, who saw that Frenkel had discovered many results on finite differences for himself.
+* Frenkel graduated from the K May Gymnasium in 1913 with distinction and was awarded the Gold Medal.
+* Frenkel married Sarra Isaakovna Gordina in the Crimea in December 1920.
+* In November 1925 Frenkel set out on a European tour, spending a year visiting Germany, France, and England.
+* If you think this means that a whole year went by without Frenkel publishing a book then you would be wrong for between the two volumes of Wave mechanics he published Statistical physics in 1933.
 
 Born 10 February 1894, Rostov-on-Don, Russia. Died 23 January 1952, Leningrad, USSR (now St Petersburg, Russia).
 

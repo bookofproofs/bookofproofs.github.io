@@ -7,10 +7,10 @@ orderid: 1887
 title: Smirnov, Vladimir Ivanovich
 born: 1887
 died: 1974
-keywords: Vladimir Smirnov, Almost Periodic Functions, Hilbert Spaces, Quasi-Conformal Mappings, Polynomials, Fourier Series, Majorant
-description: Vladimir Smirnov made notable contributions to applied and pure mathematics, including developments in Almost Periodic Functions, Hilbert Spaces, Quasi-Conformal Mappings, Polynomials, Fourier Series and Majorant.
+keywords: vladimir smirnov,smirnov
+description: Vladimir Smirnov was a Russian mathematician who made important contributions in both pure and applied mathematics, and also in the history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vladimir Smirnov** was a Russian mathematician who made important contributions in both pure and applied mathematics, and also in the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Vladimir Smirnov developed the theory of almost periodic functions, resulting in the well-known result known as Smirnov's theorem.
-2. He made significant contributions to the theory of integral equations and linear operators in Hilbert spaces.
-3. He was the first to recognize the fundamental importance of compact operators.
-4. His work in approximate methods of solving certain integral equations laid the foundation for the theory of quasi-conformal mappings.
-5. He formulated and proved a theorem on a realization of a certain class of periodic functions by polynomials.
-6. He developed the theory of Fourier series of entire functions.
-7. He introduced an analytic approach to the study of summability methods, introducing the concept of the “majorant”.
-8. He showed how Riesz means and fractional parts can be used in the study of approximation methods.
-9. He formulated the method of nonlinear integral equations, which is now commonly known as the Smirnov method.
-10. He was the first to examine problem of the approximation of functions by conjugate fractions, proposing to solve them analytically.
+* Smirnov had become friends with a number of outstanding mathematicians while at the Second Gymnasium.
+* In 1910 Smirnov graduated from St Petersburg and remained at the University to study for the higher degrees which would allow him to become a university teacher.
+* Smirnov was a very active member of this circle, for example lecturing on the theory of algebraic equations, particularly the work of Goursat and Appell.
+* Smirnov worked jointly with his friends from the Second Gymnasium.
+* From 1912 Smirnov taught at the St Petersburg Institute of Railway Engineering.
+* Smirnov was awarded his doctorate in 1936 and he became head of the Institute of Mathematics and Mechanics.
+* In 1953 Smirnov organised the Leningrad Mathematical Seminar.
+* Smirnov had been an active member of the Leningrad Mathematical Society through the 1920s and he was a strong believer in relaunching the Society.
+* In 1959, mainly due to the efforts of Smirnov, it became possible to restart the Leningrad Mathematical Society and Smirnov was elected the honorary president of the Society.
 
 Born 10 June 1887, St Petersburg, Russia. Died 11 February 1974, Leningrad, USSR (now St Petersburg, Russia).
 

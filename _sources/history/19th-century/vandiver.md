@@ -7,10 +7,10 @@ orderid: 1882
 title: Vandiver, Harry Schultz
 born: 1882
 died: 1973
-keywords: Vandiver, mathematics, number theory, Sturm separation theorem, Eberlein-Vandiver theorem, Vandiver Conjecture, Galois group, abc conjecture
-description: Harry Vandiver, renowned American mathematician, made great contributions to the fields of number theory, computer algebra, and algebraic geometry, achieving recognition for his work on the Sturm separation theorem, the Eberlein-Vandiver theorem, and the Vandiver Conjecture.
+keywords: harry vandiver,vandiver
+description: Harry Vandiver was an American mathematician, known for work in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Harry Vandiver** was an American mathematician, known for work in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Worked extensively on the sturm separation theorem for ODEs and the corresponding Sturm-Hurwitz algorithm for solving them. 
-2. Developed the Eberlein-Vandiver theorem which showed the necessary and sufficient conditions for a polynomial to be irreducible. 
-3. Devised the Vandiver Conjecture which sought to prove the existence of certain classes of Diophantine equations. 
-4. Quantified fundamental relationships between the coefficients of certain polynomial equations and their roots. 
-5. Made significant contributions to the field of algebraic computational complexity theory. 
-6. Provided an algorithm which could accurately calculate the Galois group of a given polynomial.
-7. Studied the abc conjecture and gave a new proof of Dirichlet's theorem. 
-8. Advised students in the fields of number theory, computer algebra, and algebraic geometry.
+* Harry developed an antagonism towards public education and left Central High School at an early age to work as a customshouse broker for his father's firm.
+* Also in the year 1904, Vandiver published On Some Special Arithmetic Congruences  in the American Mathematical Monthly  and, although still working as an agent for his father's firm, he did attend some graduate lectures at the University of Pennsylvania.
+* Vandiver joined the United States Naval Reserve and continued to serve until 1919 when the war had ended.
+* After leaving the Naval Reserve, Birkhoff persuaded Vandiver to become a professional mathematician and to accept a post at Cornell University in 1919.
+* It is his life-long work on Fermat's Last Theorem for which he is best known, but Vandiver also wrote papers on cyclotomic fields, Bernoulli numbers, the reciprocity laws, finite fields, techniques for factorisation, semigroups, semirings, and algebras.
+* A conjecture, now known as 'Vandiver's conjecture', concerning the class group of cyclotomic fields was so named since Vandiver frequently posed it.
+* Although the Cole Prize might be considered Vandiver's greatest distinction, we should also mention that he was vice-president of the American Mathematical Society in 1934-35 and was the Colloquium Lecturer at Ann Arbor in 1935 when he lectured on Fermat's Last Theorem.
+* Vandiver married Maude Folmsbee in 1923; they had one son, Frank Vandiver, who became president of Texas A&M.
+* It is worth noting that Vandiver continued to hold strong views against public education and Frank was privately tutored to first degree level without attending high school or university.
+* Vandiver never owned a house and lived with his wife in the Alamo Hotel in Austin where he had a large collection of classical recordings.
 
 Born 21 October 1882, Philadelphia, Pennsylvania, USA. Died 9 January 1973, Austin, Texas, USA.
 

@@ -7,10 +7,10 @@ orderid: 598
 title: Brahmagupta
 born: 598
 died: 670
-keywords: Brahmagupta, mathematics, astronomy, algorithms, zero, negative numbers, quadratic equations
-description: Brahmagupta applied mathematics in astronomy and number systems, defining algorithms, negative numbers, and formulae to solve quadratic equations.
+keywords: brahmagupta,brahmagupta
+description: Brahmagupta was the foremost Indian mathematician of his time. He made advances in astronomy and most importantly in number systems including algorithms for square roots and the solution of quadratic equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Brahmagupta** was the foremost Indian mathematician of his time. He made advances in astronomy and most importantly in number systems including algorithms for square roots and the solution of quadratic equations.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the influential book Brahmasphutasiddhanta, which expounded the mathematical system of the ancient Hindus and provided the first ever use of zero and negative numbers.
-2. Developed the notion of an algorithm and expressed fractions as sums of unit fractions.
-3. Established the basic number theory and arithmetic, including the rules of the add, multiply, subtract and divide operations.
-4. Discovered the Brahmagupta’s formula for area of cyclic quadrilateral, formulas for right and oblique triangles, formulas for perimeter, area and surface area of a sphere.
-5. Devised the rule of three and the use of the quadratic equation.
-6. Defined the concept of place value in the decimal numbering system and developed modern methods for simplifying and solving linear and quadratic equations.
-7. Developed and extended the use of base-10 numerals.
-8. Developed rules for handling zero or negative numbers.
-9. Derived the integral form of the volume of a pyramidal frustum.
-10. Solved quadratic equations with positive and negative values.
+* The work was written in 25 chapters and Brahmagupta tells us in the text that he wrote it at Bhillamala which today is the city of Bhinmal.
+* Brahmagupta became the head of the astronomical observatory at Ujjain which was the foremost mathematical centre of ancient India at this time.
+* In addition to the Brahmasphutasiddhanta Ⓣ(Correctly Established Doctrine of Brahma) Brahmagupta wrote a second work on mathematics and astronomy which is the Khandakhadyaka Ⓣ('edible bite' or 'morsel of food') written in 665 when he was 67 years old.
+* We look below at some of the remarkable ideas which Brahmagupta's two treatises contain.
+* The Brahmasphutasiddhanta Ⓣ(Correctly Established Doctrine of Brahma) contains twenty-five chapters but the first ten of these chapters seem to form what many historians believe was a first version of Brahmagupta's work and some manuscripts exist which contain only these chapters.
+* Brahmagupta's understanding of the number systems went far beyond that of others of the period.
+* Really Brahmagupta is saying very little when he suggests that nnn divided by zero is n/0n/0n/0.
+* The first method we describe is called "gomutrika" by Brahmagupta.
+* Brahmagupta developed some algebraic notation and presents methods to solve quardatic equations.
+* No proofs are given so we do not know how Brahmagupta discovered these formulae.
+* In the Brahmasphutasiddhanta Ⓣ(Correctly Established Doctrine of Brahma) Brahmagupta gave remarkable formulae for the area of a cyclic quadrilateral and for the lengths of the diagonals in terms of the sides.
+* The only debatable point here is that Brahmagupta does not state that the formulae are only true for cyclic quadrilaterals so some historians claim it to be an error while others claim that he clearly meant the rules to apply only to cyclic quadrilaterals.
+* Brahmagupta believed in a static Earth and he gave the length of the year as 365 days 6 hours 5 minutes 19 seconds in the first work, changing the value to 365 days 6 hours 12 minutes 36 seconds in the second book the Khandakhadyaka Ⓣ('edible bite' or 'morsel of food').
+* Of particular interest to mathematics in this second work by Brahmagupta is the interpolation formula he uses to compute values of sines.
 
 Born 598, (possibly) Ujjain, India. Died 670, India.
 

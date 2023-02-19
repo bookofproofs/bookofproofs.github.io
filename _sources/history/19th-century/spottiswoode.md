@@ -7,10 +7,10 @@ orderid: 1825
 title: Spottiswoode, William
 born: 1825
 died: 1883
-keywords: William Spottiswoode, mathematics, physics, equations, calculus, books, sculpture
-description: William Spottiswoode was an English mathematician, physicist, and publisher who developed the Spottiswoode System, pioneered matrix calculus, wrote books, and invented the Spottiswoode Circle.
+keywords: william spottiswoode,spottiswoode
+description: William Spottiswoode was an English mathematician, physicist and publisher.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Spottiswoode** was an English mathematician, physicist and publisher.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Spottiswoode system for solving equations numerically.
-2. Pioneered the use of matrix calculus in mathematical analysis.
-3. Contributed to the development of a general theory of elliptic functions.
-4. Published his work on partial differential equations and the calculus of variations.
-5. Authored a number of important books that developed the field of modern mathematics.
-6. Conducted new research on electricity and magnetism, equations of motion and thermodynamics.
-7.Invented the Spottiswoode Circle, considered one of the earliest success stories in mathematical sculpture.
+* A year after William was born Andrew Spottiswoode became member of parliament for Saltash and four years later member of parliament for Colchester.
+* William's mother, Mary Longman, was the daughter of the publisher Thomas Longman.
+* William attended school in Laleham, then went to Eton College, one of the most prestigious schools in England situated on the Thames near London.
+* Certainly this episode proved an advantage to Spottiswoode, who received better teaching in his favourite subject of mathematics in Harrow.
+* From Harrow, Spottiswoode was awarded a Lyon Scholarship to attend Balliol College, Oxford, which he entered in 1842.
+* In 1846 his father had financial problems and Spottiswoode took over the firm of Eyre and Spottiswoode so becoming Queen's Printer.
+* On 2 June 1853 Spottiswoode was elected a fellow of the Royal Society.
+* Spottiswoode married Eliza Taylor Arbuthnot on 27 April 1861.
+* Their son, William Spottiswoode, was born in 1864.
+* He became a partner, and later a director, of his father's publishing firm of Eyre and Spottiswoode.
+* Certainly Spottiswoode was always a keen traveller and he visited a number of countries which were certainly somewhat unusual for the period.
+* In 1861, the year of his marriage, Spottiswoode published On typical mountain ranges: an application of the calculus of probabilities to physical geography, which attempted to use statistical methods to determine whether the mountain ranges of Asia had been formed by one or several causes.
+* Around 1870 there were major changes to the direction of Spottiswoode's research.
+* In 1878 Spottiswoode was elected president of the Royal Society and remained president until his death in 1883.
+* We mentioned the change in direction of Spottiswoode's research which turned to physical topics.
+* Spottiswoode published over 100 papers and several books including, in addition to the one on determinants mentioned above: The Polarisation of Light (1874), Polarised Light (1879), and A Lecture on the Electrical Discharge, its Form and Functions (1881).
+* It is remarkable that Spottiswoode was able to undertake the amount of work that he did, both scientific and administrative.
+* We have mentioned above many honours which Spottiswoode received in election to learned societies and particularly to high office in these societies.
 
 Born 11 January 1825, London, England. Died 27 June 1883, London, England.
 

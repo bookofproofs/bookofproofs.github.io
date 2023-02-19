@@ -7,10 +7,10 @@ orderid: 1862
 title: Lacombe, Marius
 born: 1862
 died: 1938
-keywords: Mathematician, International Congress of Mathematicians, Algorithm, Theorem, Linear Algebra, Vector Spaces, Abstract Topology
-description: Marius Lacombe was a Swiss Mathematician who developed an algorithm, proved a theorem, and discovered vector spaces, abstract topology, and other mathematical structures.
+keywords: marius lacombe,lacombe
+description: Marius Lacombe was a Swiss schoolteacher who helped organise the first International Congress of Mathematicians.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Marius Lacombe** was a Swiss schoolteacher who helped organise the first International Congress of Mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm that enabled the calculation of integrals on arbitrary curves in three-dimensional space.
-2. Proved a theorem regarding mappings between invariant subspaces of matrix pairs.
-3. Developed a method for efficiently solving linear algebraic equations.
-4. Investigated the properties of various classes of matrices and vector spaces.
-5. Discovered the properties of abstract topological spaces and their associated linear spaces.
-6. Characterized the structure and geometry of algebraic varieties.
-7. Identified and solved more than a dozen computational problems in mathematics.
-8. Helped develop new algorithms for use in data analysis and Decision Science.
-9. Studied the relationships between algebraic structures and invariant subspaces.
-10. Discovered a method for computing the general solutions of a system of linear equations.
+* Lacombe studied mathematics at the Polytechnic's Engineering Department and became a professor at the University of Lausanne in 1892.
+* In 1894 he was appointed to a professorship at the Polytechnic in Zürich: Lacombe filled the newly created chair of descriptive geometry in French.
+* Lacombe stayed in Zürich for 14 years.
+* Lacombe stayed in Lausanne for the rest of his life.
+* Lacombe was more teacher than research mathematician.
+* Lacombe also received an honorary doctorate from the University of Lausanne.
+* Lacombe joined the enlarged organising committee of the first International Congress of Mathematicians in December 1896.
 
 Born 7 February 1862, Lausanne, Switzerland. Died 19 March 1938, Chexbres, Vaud canton, Switzerland.
 

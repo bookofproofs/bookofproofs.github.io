@@ -7,10 +7,10 @@ orderid: 1823
 title: Davidov August Yulevich
 born: 1823
 died: 1885
-keywords: differential equations, definite integrals, probability, matrix transformations, projective geometry, Davidov-Steinitz, surface transformations
-description: August Yulevich Davidov developed theories related to differential equations, matrix transformations, projective geometry, and surface transformations, proving the Davidov-Steinitz theorem.
+keywords: august yulevich davidov,davidov
+description: August Yulevich Davidov was a Russian mathematician and engineer who worked on differential equations, partial derivatives, definite integrals and the application of probability theory to statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **August Yulevich Davidov** was a Russian mathematician and engineer who worked on differential equations, partial derivatives, definite integrals and the application of probability theory to statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of matrix transformations and lays the foundation for modern linear algebra.
-2. Discovered the canonical form for quadratic forms, now known as Davidov's canonical form.
-3. Proved the fundamental theorem of projective geometry, which states that any projective transformation of a plane can be written as the composition of four perspectivities.
-4. Established the geometric equivalent of Cramer's rule for solving a system of linear equations.
-5. Discovered non-Euclidean forms of projective geometry, now known as Davidov geometry.
-6. Published the influential Davidov-Steinitz theorem on the invariance of projective properties under a linear transformation. 
-7. Observed the centrally symmetric configurational invariants of vectors and projective invariants in his work on plane curves. 
-8. Developed the theory of surface transformations, including the Surfaces of the Second Order paper.
+* Davidov studied at the University of Moscow, enrolling in 1841 and graduating four years later.
+* In 1845 Davidov submitted a thesis The theory of equilibrium of bodies immersed in a liquid for his Master's degree.
+* Before leaving the topic of Davidov's two theses on fluids we note that the quality of these can be judged by the fact that they were both awarded the Demidov Prize by the St Petersburg Academy of Sciences.
+* One of Davidov's colleagues at the Moscow University was Nikolai Dmetrievich Brashman (who had himself been awarded the Demidov Prize fifteen years earlier).
+* He greatly influenced Davidov's career and his mathematical research.
+* Together Davidov and Brashman were joint founders of the Moscow Mathematical Society in 1866, the year of Brashman's death.
+* Davidov the became the first president of the Society and held this role for nearly twenty years until his death in 1885.
+* As well as his work on the equilibrium of a floating body, Davidov also worked on partial differential equations, elliptic functions and the application of probability to statistics.
 
 Born 15 December 1823, Libav, Russia (now Liepaja, Latvia). Died 22 December 1885, Moscow, Russia.
 

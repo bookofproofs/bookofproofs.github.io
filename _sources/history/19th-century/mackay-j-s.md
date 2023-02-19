@@ -7,10 +7,10 @@ orderid: 1843
 title: Mackay, John S
 born: 1843
 died: 1914
-keywords: John S Mackay, Mathematics, Education, Research, International Conference, Mackay Lecture, Computer Programming
-description: John S Mackay championed mathematics research, education, and computer programming, founding the Australian Mathematical Society, organising an international conference on mathematics education, developing equations to explain galactic motion and giving the first Mackay Lecture.
+keywords: john s mackay,mackay
+description: John S Mackay was a Scottish school teacher who was the first President of the Edinburgh Mathematical Society. He published numerous papers on Geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John S Mackay** was a Scottish school teacher who was the first President of the Edinburgh Mathematical Society. He published numerous papers on Geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Australian Mathematical Society in 1956, which made mathematics education more accessible in Australia.
-2. Published papers and books on topics such as algebra, calculus and topology.
-3. Advocated for mathematics as a major field of research and established several bursaries for postgraduate students to pursue mathematics-related course study.
-4. Served as visiting scholar at Memorial University of Newfoundland, Cambridge University and Framingham State College.
-5. Organised the first international conference on mathematical education in 1968, which was attended by mathematicians and educators from around the world.
-6. Presented the first Mackay Lecture which was devoted to the relationship between mathematics education and research.
-7. Spearheaded the introduction of computer programming into the mathematics curriculum in Australia.
-8. Developed a series of equations used to help explain the motion of galaxies and stars.
+* He was brought up in Perth were he attended Perth Academy.
+* He entered the University of St Andrews in 1959 and he graduated with an M.A., completing the course in 1863, but only graduating formally two years later.
+* Mackay was appointed as a Mathematics Master at Perth Academy in 1863, spending three years in this post while he attended the Theological Hall with the intention of entering the United Presbyterian Church.
+* However, he decided that he would make teaching his career and in 1866 he was appointed as a Mathematics Master at the Edinburgh Academy; he held this post until he retired in 1904.
+* He was elected a Fellow of the Royal Society of Edinburgh on 6 February 1882 having been proposed by Peter Guthrie Tait, George Chrystal, H C Fleeming Jenkin, Alexander Dickson.
+* He served the Royal Society of Edinburgh as a Councillor from 1895 to 1898, and again from 1900 to 1903.
+* Mackay was an active member of the Edinburgh Mathematical Society.
+* He is famed as the first President of the Society in 1883.
+* His obituary, written by George A Gibson, was published in the Proceedings of the Edinburgh Mathematical Society.
+* He was also a member of the Franco-Scottish Society.
+* He was honoured by the University of St Andrews when he was awarded an honorary LL.D. in 1884.
+* Mackay was unmarried.
+* He lived at 69 Northumberland Street, Edinburgh, where he died at the age of 70.
 
 Born 22 October 1843, Auchencairn near Kirkcudbright, Kirkcudbrightshire, Scotland. Died 26 March 1914, Edinburgh, Scotland.
 

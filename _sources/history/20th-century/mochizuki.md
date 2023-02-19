@@ -7,10 +7,10 @@ orderid: 1937
 title: Mochizuki, Horace Yomishi
 born: 1937
 died: 1989
-keywords: Horace Mochizuki, group theory, Burnside conjecture, abstract minimal surfaces, harmonic structure theory, decomposition theory, American Mathematical Society
-description: Horace Mochizuki achieved success in mathematics, authoring influential papers, advising students, teaching at UO and founding the Oregon Mathematics Project. He was also honored with awards from the American Mathematical Society and Northwestern Univ.
+keywords: horace mochizuki,mochizuki
+description: Horace Mochizuki was an American mathematician who worked in group theory and is particularly known for his work on the Burnside conjecture.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Horace Mochizuki** was an American mathematician who worked in group theory and is particularly known for his work on the Burnside conjecture.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical fields of abstract mimimal surfaces, harmonic structure theory and decomposition theory. 
-2. Advised many students who achieved success in their own mathematical careers. 
-3. Authored ground-breaking mathematics papers such as his 1961 paper entitled "On the Clifford Group". 
-4. Instituted a Mathematical Seminar at the University of Rochester which led to the study programs related to harmonic map theory. 
-5. Appointed a professor of mathematics in 1968 at the University of Oregon, a post he held for the next 20 years. 
-6. Was one of the initial members of the American Mathematical Society’s Research Section on Nonlinear Analysis. 
-7. Received The Mathematical Association of America Award for Distinguished Service to Mathematics  in 1996. 
-8. Received the highly prestigious Nemmers Prize in Mathematics from Northwestern University in 1999. 
-9. Founded the Oregon Mathematics Project, which is dedicated to promoting the mathematics education of Oregon's low-income students.
-10. Established the Horace Mochizuki Mathematics Prize, which is awarded annually to a senior who excels in mathematics at the University of Oregon.
+* Horace was brought up on a farm in the Great Central Valley, in California, U.S.A. Horace was only four years old when over 180 Japanese aircraft attacked Pearl Harbour on 7 December 1941.
+* When the war ended Horace was eight years old and for a short while the family lived in New York.
+* Mochizuki was very musical and while at high school he also attended the Music Academy of the West in Santa Barbara where he played the violin.
+* Mochizuki's first three papers were on ring theory.
+* When Mochizuki arrived in Santa Barbara he soon met another young mathematician Seymour Bachmuth and in December 1965 they began a collaboration.
+* From this time on Mochizuki contributed to the theory of groups.
+* We should make special mention of Mochizuki's paper Unipotent matrix groups over division rings (1978) where he presented a non-commutative version of "Kolchin's Theorem" which solved a famous problem of Kaplansky.
+* Four years later Mochizuki did not attend the Groups St Andrews conference but contributed an important survey paper Automorphisms of solvable groups II.
+* The junior faculty especially appreciated Horace's advice and encouragement.
+* Horace loved teaching and doing mathematical research and felt fortunate to be able to do these things.
 
 Born 18 May 1937, California, USA. Died 9 June 1989, Santa Barbara, California, USA.
 

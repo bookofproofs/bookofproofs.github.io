@@ -7,10 +7,10 @@ orderid: 1917
 title: Scott (5), Elizabeth
 born: 1917
 died: 1988
-keywords: Elizabeth Scott, mathematician, statistics, university of Washington, mathematical economics, books, Great Depression
-description: Elizabeth Scott, a mathematician, became the first female professor of mathematical economics at University of Washington and authored numerous books related to economics and mathematics. During the Great Depression, she used mathematics to analyze US Congress budget decisions.
+keywords: elizabeth scott,scott
+description: Elizabeth Scott was an American mathematician who worked in statistics.
 references: bookofproofs$6909
-contributors: @Francesca-Webb,@Edmund-Robertson,bookofproofs,@ChatGPT
+contributors: @Francesca-Webb,@Edmund-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,38 @@ contributors: @Francesca-Webb,@Edmund-Robertson,bookofproofs,@ChatGPT
 **Elizabeth Scott** was an American mathematician who worked in statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Became the first female professor of mathematical economics at the University of Washington in 1920.
-2. Awarded in 1921 with the University of Washington Medal of Merit that was awarded annually to one woman in recognition of her significant contributions to the university.
-3. Pioneered the field of mathematical economics through her use of mathematical models to analyze economic phenomena.
-4. Authored multiple books related to economics and mathematics, including 'Mathematical Economics' (1918) and 'Economic Analysis' (1924).
-5. Established the Washington Mathematics Institute, the first women’s mathematics institute in the US, in 1927.
-6. Led the department of mathematical economics at the University of Washington for 17 years, from 1920 to 1937.
-7. Used mathematics to understand the implications of budget decisions made by the US Congress during the Great Depression.
-8. Published several key papers on equilibrium analysis and the stability of economic systems.
+* When she was four years old Scott's father retired and the family moved to Berkley, California, where she lived for the rest of her life.
+* In Berkeley the family were close to the university where her father enrolled on a Law degree, and Scott's life quickly became centred round the University.
+* When she was old enough, Scott entered the university high school located in Oakland only four miles south of Berkley.
+* As the only girl enrolled in the advanced mathematics courses, Scott quickly stood out as exceptional among the student body and, even at such a young age, was already considering a career in astronomy.
+* In California, Scott's family, like most others, struggled financially at a time when she was completing high school and preparing to enter university.
+* The University of Berkeley was the logical choice for Scott as the tuition fees were low and she could save the family money by living at home.
+* During her time as an undergraduate Scott had no female professors except in physical education.
+* There were times, however, when women would substitute for absent permanent staff and it was on one of these occasions that Elizabeth met one of only two women in the mathematics department, Pauline Sperry.
+* Later when she was a graduate student at Berkeley Scott, with a few other female graduate students, was invited by Sperry to attend lunch at the Women's Faculty Club.
+* Scott later became a life long active member of the Club after joining the faculty at Berkeley and developing an interest in women's issues that would encompass much of her later work.
+* In 1939 Scott had her first paper published at the age of only 22.
+* Scott continued to write about a range of topics in astronomy throughout the rest of her lifetime.
+* Despite having a supportive Head of Department who arranged summer assistantships for her at the Lick Observatory where she was allowed to use the telescopes, Scott became increasingly convinced that those who had urged her not to pursue a Ph.D. were right.
+* The move led to her developing a fascination with statistics which greatly altered the course of Scott's career.
+* Scott decided to combine her two interests and use statistical tools in order to answer questions in astronomy.
+* Subsequently Scott became involved in a long-range study being carried out by the famous astronomer and director of the Lick Observatory Charles D Shane who wanted to know if there existed any statistical laws that could explain the apparent phenomena of what he termed the 'lumpy' nature of the distribution of galaxies.
+* Scott went on to publish over ten articles on this subject up to 1960, some in collaboration with Jerzy Neyman and with Charles Shane.
+* In 1958, in collaboration with Jerzy Neyman, Scott presented a major paper Statistical approach to the problems of cosmology to the Royal Statistical Society in London highlighting a succession of studies which attempted to build a stochastic theory of the distribution of galaxies in space.
+* During the 1960's and 70's the core focus of Elizabeth Scott's research turned to weather modification, mainly investigating experiments on rain stimulation by cloud seeding.
+* Scott's first contact with this topic had been as early as 1951 and her involvement ran concurrently with her studies in astronomy through the 1950's and early 60's.
+* Scott produced over twenty papers on cloud seeding, nearly all with Jerzy Neyman and the rest of the Berkeley group.
+* Scott continued her research into the applications of weather modification (and various other sciences) for the rest of her life.
+* One of Elizabeth Scott's greatest contributions came from her service as a charter member of the committee on National Statistics of the National Research Council, National Academy of Sciences.
+* It was at the request of a separate academy committee, which had become concerned with the environmental effects of supersonic planes, that Scott became involved in reconciling the conflicting and fragmentary evidence relating to the possible increase in skin cancer.
+* Throwing herself into the problem, Scott hunted down all kinds of ambiguous, incomplete data.
+* In 1970 Elizabeth co-chaired a subcommittee of the Berkeley Senate which published a 78-page comprehensive study of the status of women in academia.
+* Considerable disparities in treatment were documented and Scott promptly turned her attention to finding remedies.
+* What Scott was doing here was unique.
+* While most faculty women spent their time simply turning out evidence that they were paid less than their male counterparts, Scott was collaborating in studies, employing multiple regressions, that soon were used by universities in making salary adjustments and came to be widely accepted as evidence in lawsuits.
+* Published in 1981, Scott's paper (written with N C Ahern) Career outcomes in a matched sample of men and women Ph.D.'s : An analytical report  analysed career outcomes based on a sample survey of about 50,000 Ph.D.'s (not just mathematicians but also scientists, engineers and humanists) conducted in 1979 by the National Research Council.
+* Scott's last professional presentation was the keynote address at a workshop for young women researchers in August 1988, just four months before her death.
+* In 1992 the Committee of Presidents of Statistical Societies established The Elizabeth Scott Award, to be presented every two years at the Joint Statistical Meetings.
 
 Born 23 November 1917, Fort Sill, Oklahoma, USA. Died 20 December 1988, Berkeley, California, USA.
 

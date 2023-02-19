@@ -7,10 +7,10 @@ orderid: 1806
 title: Weisbach, Julius Lugwig
 born: 1806
 died: 1871
-keywords: Weisbach, Theorem, Differential Equations, Partial Derivatives, Calculus, Series, Motion
-description: Julius Weisbach developed the Weisbach Theorem and Induction Theorem, wrote on mechanics, hydraulics & surveying, as well as works on differential equations, calculus & series.
+keywords: julius weisbach,weisbach
+description: Julius Weisbach was a German mathematician who wrote on mechanics, hydraulics and surveying as well as mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Julius Weisbach** was a German mathematician who wrote on mechanics, hydraulics and surveying as well as mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Weisbach Theorem, which states that the acceleration of a moving body is directly proportional to the intensity of the motive force and inversely proportional to its mass.
-2. Discovered the reduction formula for the Dirichlet series, an important mathematical tool for analyzing the behavior of certain types of series.
-3. Wrote “A Treatise on Differential Equations”, a critically acclaimed book that introduced the concept of “fundamental solutions”.
-4. Published two of the earliest works on differential equations of partial derivatives.
-5. Produced “The Differential Calculus” which provided a systematic approach to the use of derivatives in solving problems.
-6. Devised a method to solve partial differential equations by making use of power series expansions.
-7. Developed a formula to determine the position, velocity, and acceleration of a particle in motion.
-8. Established the Weisbach Induction Theorem, which explains the relationship between derivatives and integrals.
+* Julius's father was the foreman at a mine, so the family were not well off, particularly since there were nine children.
+* Of the children, Julius was the second youngest.
+* Weisbach was educated at the lyceum in Annaberg near his home town, then at the Bergschule in Freiberg.
+* Having completed the courses at these schools by 1822, Weisbach wanted to continue his education.
+* In 1827 Weisbach was advised by Friedrich Mohs to study at Göttingen.
+* Weisbach followed Mohs' advice and spent two years in Göttingen before moving to the University of Vienna.
+* In Vienna, Weisbach studied mathematics, physics and mechanics.
+* During 1830 Weisbach travelled on foot for six months through Hungary, the Tyrol, Bavaria, and Bohemia.
+* In this same year of 1832, Weisbach married Marie Winkler and they would have a son who was to became the Professor of Mineralogy at the Bergakademie in Freiberg.
+* In 1836 Weisbach was promoted to professor, and his expertise was now such that in addition to mathematics he was professor of mine machinery and of surveying.
+* This interest in hydraulics seems to have been as a result of Weisbach visiting the Paris Industrial Exposition in 1839.
+* His interests were always wide and this is reflected in the range of courses that Weisbach was teaching around this time: descriptive geometry, crystallography, optics, mechanics and machine design.
+* For example they appointed Clausius as professor of physics, but Weisbach was not tempted by the offer that was made to him and preferred to remain in Freiberg.
+* In 1855 Weisbach was back in Paris, this time visiting the World Exposition which was held there.
+* We have indicated the range of Weisbach's interests and this can be seen from the topics of the fourteen books and 59 papers he wrote on mechanics, hydraulics, surveying, and mathematics.
+* Among the honours Weisbach received for his contributions to science were honorary degrees from Leipzig, and election to membership of various learned societies such as the St Petersburg Academy of Sciences, the Royal Swedish Academy of Sciences and the Accademia dei Lincei.
 
 Born 10 August 1806, Mittelschmiedeberg (near Annaberg), Germany. Died 24 February 1871, Freiberg, Germany.
 

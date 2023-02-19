@@ -7,10 +7,10 @@ orderid: 1626
 title: Mengoli, Pietro
 born: 1626
 died: 1686
-keywords: Mengoli, Calculus, Geometry, Indivisibles, Lines, Surfaces, Solids
-description: Pietro Mengoli was an Italian mathematician, working on infinite series and developing the theory of indivisibles and the concept of integral calculus with respect to lines, surfaces, and solids.
+keywords: pietro mengoli,mengoli
+description: Pietro Mengoli was an Italian mathematician who worked on infinite series and limits of geometric figures.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pietro Mengoli** was an Italian mathematician who worked on infinite series and limits of geometric figures.
 
 ### Mathematical Profile (Excerpt):
-1. He developed and applied the theory of indivisibles (calculus) to problems in geometry.
-2. He wrote the influential book, Geometria Indivisibilibus Continuorum, which developed the basic concepts of integral calculus.
-3. He also extended the work of his teacher, Bonaventura Cavalieri, introducing the concept of the integral with respect to lines, surfaces, and solids, which is now known as the "Mengoli Line".
-4. He helped to develop the modern methods of solving cubic equations and discovered relationships between certain polynomials that are now called Mengoli Curves.
-5. He discovered the first example of a demiclosed curve that is now known as the Mengoli Ellipse.
-6. He proposed the "Mengoli Problem" which provided an extension to the theory of closed curves.
-7. He developed an infinite series for logarithms, known as the "Mengoli Series", which is used in calculus and trigonometry.
-8. He also wrote important works on the theory of triangles and quadrilaterals, as well as on the ratio of the areas of circles and spheres.
+* After Cavalieri died in November 1647, Mengoli had been appointed to his chair at the University of Bologna.
+* Mengoli held a number of chairs at the University of Bologna where he taught all his life.
+* His books were nevertheless widely distributed in the seventeenth century, and were known to Collins, Wallis, and Leibniz; they were then almost forgotten, so that Mengoli's work has been studied again only recently.
+* Mengoli used infinite series to good effect in Novae quadraturae arithmeticae, seu de additione fractionum Ⓣ(New arithmetic of areas, and the addition of fractions) published in Bologna in 1650, developing ideas which had first been investigated by Cataldi.
+* Mengoli also wrote Geometriae speciosae elementa Ⓣ(Special elements of geometry) (1659) on limits of geometrical figures.
+* By examining the limits of sums, products and quotients of variable quantities, Mengoli was setting up the basic rules if the calculus thirty years before Newton and Leibniz.
+* Both of these were influenced by his contribution, in the case of Leibniz the influence was direct as he read Mengoli's work while in the case of Newton he knew of it indirectly through studying Wallis.
+* Other work by Mengoli included work on astronomy, work on refraction in the atmosphere and a book Speculazioni musicali (1670) on the theory of music.
+* In this Mengoli's criticises of the theory of resonance set out by Galileo.
+* This gives new insight into Mengoli's mathematics.
+* analyse a little-known aspect of Pietro Mengoli's mathematical activity: the difficulties he faced in trying to solve some problems in Diophantine analysis suggested by J Ozanam.
+* Mengoli's recently published correspondence reveals how he cherished his prestige as a scholar.
 
 Born 1626, Bologna, Papal States (now Italy). Died 1686, Bologna, Papal States (now Italy).
 

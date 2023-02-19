@@ -7,10 +7,10 @@ orderid: 1872
 title: Vacca, Giovanni Enrico Eugenio
 born: 1872
 died: 1953
-keywords: Italian, mathematics, history, Chinese, symbolic evaluation, Vacca Conjecture, Vacca polynomials
-description: Giovanni Vacca, an Italian mathematician and historian of science, developed new methods and theories, focusing on Chinese science and the symbolic evaluation of integrals. He created the Vacca Conjecture and Vacca polynomials.
+keywords: giovanni vacca,vacca
+description: Giovanni Vacca was an Italian mathematician and historian of science. He was interested in the history of Chinese science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giovanni Vacca** was an Italian mathematician and historian of science. He was interested in the history of Chinese science.
 
 ### Mathematical Profile (Excerpt):
-1. Developed new methods for the calculation of integrals, particularly their symbolic evaluation.
-2. Established the Vacca Conjecture, which is the generalisation of the concept of higher order linear recurrences.
-3. Used contemporary computational algebraic methods to prove mathematical results in probability theory.
-4. Developed a fast algorithm for the symbolic integration of algebraic functions.
-5. Discovered a new family of orthogonal polynomials called the Vacca polynomials.
-6. Conducted research on functional equations and diophantine equations.
-7. Improved numerical methods for solving differential equations.
-8. Improved the speed of computation for integral operations by exploiting the available analytic structure.
+* Vacca entered the University of Genoa to study mathematics.
+* However in 1894 Crispi dissolved the Party and the leaders of the Party, including Vacca were banished from Genoa.
+* The banishment was in 1897 and, fortunately, this allowed Vacca to graduate that year before moving away from Genoa.
+* In 1899 Vacca went to Hannover to study the unpublished manuscripts of Leibniz.
+* The following year Vacca attended the First International Congress of Philosophy which was held in Paris in 1900.
+* In 1903 Vacca published a collection of short works by Leibniz and some of his papers which had not been previously published.
+* However before this, in 1902, Vacca's position as Peano's assistant came to an end and he had returned to Genoa.
+* Vacca, on his return to Genoa in 1902, worked for the Party again becoming a member of the Socialist Council and also a member of the national party administration.
+* However Vacca continued his mathematical work and gave a course at the University of Genoa on mathematical logic.
+* In 1904 Vacca returned to Turin and was assistant to Peano for one further year.
+* However Vacca had by this time yet a third interest in addition to mathematics and politics.
+* In 1905, this interest in Chinese became the road that Vacca decided to follow.
+* They shared mathematical interests and certainly Vacca continued his mathematical research and interest in the history of mathematics.
+* In fact Vacca would be one of the editors of Vailati's collected works, published in 1911, two years after Vailati's death.
+* Vacca spent 1907-08 in western China, spending a year in the city of Cheng-tu.
+* In 1922 Vacca succeeded his old professor of History and Geography of East Asia to the chair at Florence.
+* Vacca taught Chinese language and literature there until he retired in 1947.
+* Despite his change of topic in mid career, Vacca continued his Chinese and mathematical studies in parallel.
+* For example in 1928 Peano presented a paper by Vacca on Fermat's method of descent to the Academy of Sciences of Turin.
 
 Born 18 November 1872, Genoa, Italy. Died 6 January 1953, Rome, Italy.
 

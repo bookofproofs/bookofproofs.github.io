@@ -7,10 +7,10 @@ orderid: 1681
 title: Juecheng, Mei
 born: 1681
 died: 1763
-keywords: Mei Juecheng, linear equations, sphere volume, Chinese Remainder Theorem, Nine Chapters, e, notation system, pi, new moons
-description: Mei Juecheng was a Chinese mathematician who contributed to many important mathematical fields, ranging from linear equations to the Nine Chapters and pi approximation.
+keywords: mei juecheng,juecheng
+description: Mei Juecheng was a Chinese mathematician who edited and extended the works of his grand-father Mei Wending.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mei Juecheng** was a Chinese mathematician who edited and extended the works of his grand-father Mei Wending.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered a method of solving linear equations, which have been widely used in modern mathematics.
-2. Discovered a method of computing the volume of a sphere using a new geometric formula.  
-3. Developed an improved version of the Chinese Remainder Theorem, which is known as Hue-Cheng's Lemma. 
-4. Was a pioneer in the development of The Nine Chapters on the Mathematical Art, a 300-chapter mathematical treatise which was widely used for centuries in China and Japan. 
-5. Developed the number (e) which is the mathematical constant representing the base of natural logarithms. 
-6. Devised a system of notation and published it in a treatise, resulting in an easier way of writing complex mathematical equations. 
-7. Created an algorithm for approximating pi which was more accurate than any prior algorithm.
-8. Improved the accuracy of Chinese calendars by developing a new formula for calculating the time and period of new moons.
+* Mei Juecheng and Li Guangdi's son had both been taught mathematics at Baoding by Mei Wending and so Mei Juecheng's mathematical skills were known to the highest officials in the land.
+* He asked Li Guangdi to find the best mathematics books and in 1703 Li gave the Emperor Kangxi a copy of Lixue yiwen (Inquiry on Mathematical Astronomy) written by Mei Wending in 1701.
+* Emperor Kangxi was greatly interested and summoned Mei Wending to an audience in 1703.
+* By this time Mei Wending was seventy years old and he went to Baoding to meet Emperor Kangxi taking his grandson Mei Juecheng with him.
+* From this time on Mei Juecheng played a major role in the compilation of mathematical and astronomical works.
+* Li Guangdi and the Emperor's son Yunzhi were both part of an editorial team comprising largely of men trained by either Li Guangdi or Mei Wending.
+* Mei Juecheng was appointed as Court Mathematician in 1712.
+* In the following year the Emperor Kangxi established the Mengyangzhai (the Academy of Mathematics) and Mei Juecheng joined the team of people working on the compilation Yuzhi shuli jingyun  (Treasury of Mathematics) which was published in 1723.
+* Mei Juecheng and Chen Houyao (1648-1722) were the chief editors and they were assisted by He Guozong, Ming Antu and, in the early stages of the project, by Mei Wending.
+* In particular, studying Western algebra enabled Mei Juecheng to decipher older Chinese mathematical treatises from the Song (920-1279) and Yuan (1206-1368) dynasties whose methods had been lost.
+* Again Mei Juecheng was the leading academic in this project which, like the Treasury, followed the style of European works.
+* The first part was a general introduction to mathematical astronomy but then Mei Juecheng was able to make use of his grandfather Mei Wending's study of the motion of the moon to provide improved predictions of eclipses of the moon.
+* In 1759 Mei Juecheng published Chishui yizhen (Pearls recovered from the Red River).
+* In fact the Jesuit missionary Pierre Jartoux (1669-1720) (known in China as Du Demei) introduced the infinite series for the sine into China in 1701 and it was known there by the name 'formula of Master Du'.
+* In fact Pearls recovered from the Red River was one of two chapters that Mei Juecheng appended to the works of Mei Wending that he was editing and republishing.
+* Important work of Mei Wending on mathematics published in this collection included: Bisuan Ⓣ(Pen calculations), Chou suan  Ⓣ(Napier's bones)), Du suan shi li Ⓣ(Proportional dividers) , Shao guang shi yi Ⓣ(Supplement to 'What width'), Fang cheng lun  Ⓣ(Theory of rectangular arrays), Gougu ju yu  Ⓣ(Right-angled triangles), Jihe tong jie  Ⓣ(Explanations in geometry), Ping san jiao ju yao  Ⓣ(Elements of plane trigonometry), Fang yuan mi ji Ⓣ(Circles and squares, cubes and spheres), Jihe bu bian  Ⓣ(Supplement to geometry), Hu san jiao ju yao  Ⓣ(Elements of spherical trigonometry), Huan zhong shu chi  Ⓣ(Geodesy) and Qiandu celiang  Ⓣ(Surveying solids).
 
 Born 19 May 1681, Xuangcheng, now Xuanzhou City, Anhui province, China. Died 20 November 1763, China.
 

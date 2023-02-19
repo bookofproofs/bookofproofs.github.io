@@ -7,10 +7,10 @@ orderid: 1831
 title: Routh, Edward John
 born: 1831
 died: 1907
-keywords: Edward Routh, Canadian, England, Mathematics, University of Cambridge, Rigid Bodies, Differential Equations
-description: Edward Routh, a Canadian-born English mathematician, was a renowned coach for Cambridge's Mathematical Tripos and developed rigorous rational mechanics, Routh's equations and Routh's laws for rigid body motion and stability criteria of differential equations.
+keywords: edward routh,routh
+description: Edward Routh was a Canadian-born English mathematician, best-known as an outstanding coach of students preparing for the Mathematical Tripos examination of the University of Cambridge.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Routh** was a Canadian-born English mathematician, best-known as an outstanding coach of students preparing for the Mathematical Tripos examination of the University of Cambridge.
 
 ### Mathematical Profile (Excerpt):
-1. Published the first set of rigorous rational mechanics in 1877, known as Routh's Mechanics. 
-2. Developed Routh's stability criterion in 1877, an important tool in the development of control theory.
-3. Introduced Routh's principal solution in 1877, an algorithm for finding approximate roots of coupled algebraic equations.
-4. Established the basic relations between energy and virtual work, now known as the ‘Routh’s Equations’ in1877.
-5. Formulated several equations regarding the motion of three-dimensional rigid bodies and planes, now known as the ‘Routh’s Laws’ in1881.
-6. Constructed and solved a differential equation for the motion of a second-order pendulum, which is now known as ‘Routh's Equation’ in 1883.
-7. Developed the mathematical theory of rotating a rigid body in three dimensions, known as the ‘Routh’s Stability Criterion’ in 1899. 
-8. Discovered the 'Routh–Hurwitz Theorem' which is related to the stability criteria of solutions of ordinary linear differential equations, in 1905.
+* In 1826 Randolph was made Commissary-General of the British Army and was serving in Canada at the time Edward was born.
+* Edward's mother, Marie Louise Taschereau, was Randolph Routh's second wife, his uncle was Cardinal Taschereau, his maternal grandfather father Chief Justice of Quebec.
+* Edward attended University College School and then entered University College, London, in 1847 having won a scholarship.
+* However, Maxwell transferred to Trinity College (perhaps because he felt Routh was too strong competition!).
+* Routh obtained his M.A. from London in 1853, being awarded at that time the Gold Medals for Mathematics and for Natural Philosophy.
+* In January 1854 Routh graduated with a B.A. from Cambridge.
+* In 1855 Routh was elected a fellow of Peterhouse and was appointed as a College lecturer in Mathematics.
+* In 1857 the post of first assistant at the Royal Greenwich Observatory became vacant and Routh was invited by George Airy, the Astronomer Royal and President of the Royal Society, to visit the Observatory so that he might be offered the post.
+* Edward Airy Routh was commissioned a Lieutenant in the Royal Garrison Artillery but died age 24, George Richard Randolph Routh became H.M. Inspector of Schools, Arthur Lionel Routh also commissioned in the Royal Garrison Artillery rose to the rank of Colonel, Harold Victor Routh became Professor of Latin at the University of Toronto, and Rupert John Routh served in the Indian Civil Service.
+* Daughter Mary Elizabeth Hilda Routh carried on at Cambridge by marrying a lecturer there.
+* Routh became the most famous of the Cambridge coaches for the Mathematical Tripos.
+* Over a period of 22 years from 1862 Routh coached the Senior Wrangler in every year.
+* When he retired as a coach in 1888 a presentation was held at which Routh's portrait, painted by Sir Hubert von Herkomer, was presented to his wife.
+* In fact the impact of this prize winning work was very significant since Thomson and Tait rewrote for the second edition of their text Natural philosophy treatise the part dealing with equations of motion using Routh's developments.
 
 Born 20 January 1831, Quebec, Canada. Died 7 June 1907, Cambridge, England.
 

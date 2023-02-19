@@ -7,10 +7,10 @@ orderid: 1700
 title: Braikenridge, William
 born: 1700
 died: 1762
-keywords: William Braikenridge, Binomial Theorem, Law of Fallacies, Irregular Figure, Optics, Astronomy, Abbée-Cauchy Theorem
-description: William Braikenridge, Scottish mathematician and theologian, discovered the Binomial Theorem, Law of Fallacies, and Abbée-Cauchy theorem, worked on Integral calculus and developed modern age approximation formula.
+keywords: william braikenridge,braikenridge
+description: William Braikenridge was an Scottish mathematician and theologian who worked on geometry and independently discovered many of the same results as Maclaurin.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Braikenridge** was an Scottish mathematician and theologian who worked on geometry and independently discovered many of the same results as Maclaurin.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Binomial Theorem, a key result in algebraic calculus that led to a general solution for powers of an algebraic expression.
-2. Published The Law of Fallacies in 1710, a treatise on the laws of probability.
-3. Established a method for calculating the area of an irregular figure by comparing it with a known circle.
-4. Used calculus to address problems in optics and astronomy, such as the calculation of the velocity of light.
-5. Explored the field of integral calculus, providing the first definitive solutions for integrating polynomial equations.
-6. Discovered the Brachistochrone curve, a path between two points that minimizes the time of descent.
-7. Proved the Abbée-Cauchy theorem by demonstrating the solutions to a special class of equations known as integrals.
-8. Developed the modern age approximation formula for integration, which is widely used in various fields.
-9. Created a system for evaluating integrals through the application of trigonometry and algebra.
-10. Investigated ways to calculate the area of a triangle, including methods involving differentiation and integration.
+* William Braikenridge taught mathematics in Edinburgh in the 1720s.
+* The Braikenridge-Maclaurin theorem appeared in Exercitatio geometrica de descriptione linearum curvarum published in 1733 but there followed a dispute regarding priority with Maclaurin.
+* Braikenridge claimed to have discovered the theorem, and many other results, in 1726 when he was living in Edinburgh and that Maclaurin had learnt of them.
+* This was a rather sad affair and one has to feel sorry for both Braikenridge and Maclaurin but it is an affair that is worth expanding on since in many ways this is the main way in which Braikenridge enters the history of mathematics.
+* However, Braikenridge does then go on to attack Maclaurin's letter to Machin more violently.
+* Braikenridge then says that indeed he did get some of the ideas from reading the work of others but that it was not Maclaurin's work, but rather it was the work of de la Hire that inspired him.
+* Maclaurin composed a long letter in reply to Braikenridge, then decided not to send it.
+* Other works published by Braikenridge in the Philosophical Transactions of the Royal Society include A general method of describing curves, by the intersection of right lines, moving about points in a given plane.
+* Braikenridge gained an Honorary MA from Marischal College, Aberdeen in 1735, and a DD in 1739 while he was vicar of New Church, Isle of Wight.
 
 Born about 1700, Scotland. Died 30 July 1762, London, England.
 

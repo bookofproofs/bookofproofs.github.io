@@ -7,10 +7,10 @@ orderid: 1890
 title: Dingle, Herbert
 born: 1890
 died: 1978
-keywords: Herbert Dingle, physics, philosopher, mathematical theory, Doppler effect, Royal Astronomical Society, Doctor of Science
-description: Herbert Dinglewas a renowned physicist & philosopher who revolutionized mathematical physics & won an honorary Doctor of Science degree.
+keywords: herbert dingle,dingle
+description: Herbert Dingle was an English physicist and philosopher of science who wrote a number of influential books. He was involved in several long-running disputes with other physicists.
 references: bookofproofs$6909
-contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,34 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Herbert Dingle** was an English physicist and philosopher of science who wrote a number of influential books. He was involved in several long-running disputes with other physicists.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical theory of space-time, now known as Dingle's Theory.
-2. Developed an award-winning paper on the subject of mathematical physics.
-3. Was one of the first to consider the physical effects of the Doppler effect in relativity.
-4. Researched the calibration of high-precision atomic clocks.
-5. Developed fundamental theories in analytical dynamics and hyperbolic geometry.
-6. Served as president of the Royal Astronomical Society.
-7. Made significant contributions to the philosophy of mathematics.
-8. Published numerous papers on the topic of mathematical physics in leading journals.
-9. Helped revolutionize the mathematical understanding of black holes.
-10. Awarded a Doctor of Science degree from Cambridge University for his outstanding contributions to mathematical physics.
+* James Henry Dingle, born in Liskeard, Cornwall, the son of the shoemaker James Henry Dingle (1834-1915) and Rebecca Davy (1834-1919), married Emily Jane Goddard (1864-1942) in Liskeard, Cornwall in 1888.
+* They had two children, Reginald James Dingle (born 24 June 1889, died 27 October 1973) and Herbert Dingle, the subject of this biography.
+* At the time of the 1891 census Reginald was living with his paternal grandparents in Liskeard, Cornwall while Herbert was living with his widowed mother Emily Jane Dingle, his aunt Harriet F Goddard, and his maternal grandparents Joseph and Sophia Goddard in Plymouth.
+* Reginald Dingle became an editor and author, writing books such as Democracy in Spain (1905) and Russia's Work in France (1938).
+* Herbert was not able to finish school and started working as a clerk at age 14.
+* Dingle kept studying on his own, however, and earned a Royal Scholarship for Physics at Imperial College of Science and Technology, London, in 1915 at age 25.
+* Alice died in 1947 and Dingle never remarried.
+* Studying under R H Fowler, Dingle became interested in spectroscopy and its applications to astronomy.
+* Dingle participated in two failed expeditions to observe the Sun's spectrum during a total solar eclipse: the first in 1927 to Colwyn Bay when there was complete cloud cover and rain,  and the second in 1932 to Montreal when again it was cloudy.
+* Dingle also showed an early interest in relativity.
+* Dingle had a great interest in the philosophy of science.
+* Because of his philosophical ideas, Dingle clashed with some modern approaches to the study of cosmology.
+* Dingle went so far as to say that Milne's method was completely separate from reality, and called it a treachery to Newton's methods.
+* This was controversial and occasioned a special fifteen-page supplement of Nature (12 June 1937, No. 3528) in which sixteen scientists responded to Dingle's article, among which were Milne, Eddington and McCrea.
+* Dingle's ideas eventually faded away and are not widely accepted today, while Milne's method became the norm (Milne was awarded the James Scott prize in 1943 and became the President of the Royal Astronomical Society in the same year).
+* Dingle published the book Through Science to Philosophy (1937) in which he continued to put forward the ideas of his Modern Aristotelism article.
+* Dingle scarcely recognises the existence of a route by which the scientific study of the universe has, through its own practical development, independently reached conclusions comparable with those of philosophy.
+* Dingle rather goes out of his way to give the impression that his hand is against every man.
+* The criticism that he received seemed only to encourage Dingle to double his efforts in putting his ideas across.
+* It would seem that Dingle is still living in the afterglow of pre-Einstein physics, for his methods are intrinsically of a similar type to those of FitzGerald and Lorentz.
+* During the Second World War, Dingle was in charge of the Physics Department at Imperial, in the absence of Sir George Thompson.
+* Nineteen of Dingle's essays on the history and philosophy of science were published in 1952 under the title The Scientific Adventure.
+* Throughout his life, Dingle held a great appreciation for English literature.
+* Nevertheless, Dingle, not satisfied with the discussion, wrote Science at the Crossroads (1972), where he reinstated his questions about the paradox, considering they had been avoided by critics.
+* After a lengthy correspondence, Synge concluded that the contradiction described by Dingle is due to the incompatibility of special relativity with "the concept of clocks that run regularly, as understood by Professor Dingle".
+* McCrea's rejection of Dingle's argument was based, inter alia, on his contention that Dingle had invoked the notion of distant simultaneity which is illegitimate in special relativity.
+* Now it is important to make the point that there remains controversy on points raised by Dingle.
+* Dingle died in Hull, at 88 years of age.
 
 Born 2 August 1890, Brixton, London, England. Died 4 September 1978, Hull, England.
 

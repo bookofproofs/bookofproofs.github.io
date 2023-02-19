@@ -7,10 +7,10 @@ orderid: 1913
 title: Goldstine, Herman Heine
 born: 1913
 died: 2004
-keywords: Herman Goldstine, ENIAC, mathematical model, computer languages, Goldstine-Gill Differential Analyzer, Goldstine-von Neumann Iterative Procedure, computer based training simulation
-description: Herman Goldstine developed the first mathematical model of a computer, ENIAC, co-authored a book, created programming languages, developed tools, devised algorithms and methodologies to enable computer based training simulation.
+keywords: herman goldstine,goldstine
+description: Herman Goldstine was an American mathematician and computer scientist who helped to develop ENIAC, an early electronic digital computer.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Herman Goldstine** was an American mathematician and computer scientist who  helped to develop ENIAC, an early electronic digital computer.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first mathematical model of a computer, ENIAC, a general-purpose electronic digital computer. 
-2. Co-authored the highly influential book, The Computer from Pascal to von Neumann with J. von Neumann in 1972. 
-3. Created mathematical models for programming languages that formed the basis for later computer languages such as FORTRAN, Lisp and Algol. 
-4. Developed the Goldstine-Gill Differential Analyzer, a mechanized tool for practical calculations involving differential equations. 
-5. Devised algorithms for solving linear and nonlinear equations, the so-called Goldstine-von Neumann Iterative Procedure. 
-6. Pioneered research in machine-oriented logic and speculations on artificial intelligence. 
-7. Developed methodologies to run electronic computers and increased their capabilities of computer based training simulation.
+* The first publication of Goldstine's was Minimum problems in the functional calculus which was based on results in his thesis.
+* Goldstine joined the US army and in July 1942, with the rank of lieutenant, he was posted to the Ballistics Research Laboratory at the Aberdeen Proving Ground, Maryland.
+* When Herman was called into the army in July of 1942, Bliss wrote to Veblen.
+* Bliss suggested to Veblen that he should get Herman assigned to the Ballistics Research Laboratory.
+* Goldstine was already in the army at Stockton, California, when he received two sets of orders.
+* Goldstine was given the task of liaising with the mathematicians at the Moore School.
+* After Mauchly wrote a report towards the end of 1942 detailing the ideas for a better computer that he had been working on with Eckert, Goldstine quickly saw the potential in what was being proposed.
+* Various committees then considered the proposal before money could be assigned to the project of building the computer, and in April 1943 Goldstine persuaded Veblen, who was the chief scientist at the Ballistics Research Laboratory in Aberdeen, to approve the idea.
+* In that year Herman and his wife Adele published the joint paper The electronic numerical integrator and computer (ENIAC).
+* Goldstine had been promoted from Instructor to Assistant Professor at the University of Michigan in 1942 and continued to hold this post while undertaking army work at the Ballistics Research Laboratory in Maryland.
+* Goldstine was appointed Associate Project Director of the Electronic Computer Project at the Institute for Advanced Study, Princeton University, and with von Neumann worked on their own ideas for a new computer.
+* There was Preliminary Discussion of the Logical Design of an Electronic Computing Instrument (1947) by Arthur Bucks, John von Neumann and Herman Goldstine.
+* In the same year Goldstine and von Neumann published Planning and Coding of Problems for an Electronic Computing Instrument  which discusses the general philosophy of coding problems for a large scale digital computers, then the same two authors published Numerical inverting of matrices of high order, again in 1947.
+* Goldstine and von Neumann also produced papers using computation to attack mathematical question, such as their application to number theory in A numerical study of a conjecture of Kummer (1953).
+* In 1955 a joint work by Goldstine and von Neumann Blast wave calculation was published as well as On the stability of two superposed compressible fluids which was joint work by Goldstine and J Gillis.
+* Goldstine became Project Director in 1954.
+* After von Neumann's death in 1957, Goldstine left Princeton and in 1958 was appointed research administrator at IBM.
+* Goldstine's wife Adele died in 1964 and two years later he married Ellen Watson.
+* Goldstine wrote a number of outstanding books.
+* Goldstine received many honours for his outstanding contributions to the development of the computer and its applications to mathematics.
+* Dr Herman H Goldstine by renaming a major postdoctoral fellowship for the mathematician.
 
 Born 13 September 1913, Chicago, Illinois, USA. Died 16 June 2004, Bryn Mawr, Pennsylvania, USA.
 

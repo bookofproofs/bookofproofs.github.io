@@ -7,10 +7,10 @@ orderid: 1848
 title: Günther, Adam
 born: 1848
 died: 1923
-keywords: Mathematics, Physics, Geophysics, Meteorology, Astronomy, Topology, Hamilton-Jacobi
-description: Adam Günther researched the application of topological methods to a variety of fields and developed equations and theories for nonlinear systems.
+keywords: adam günther,günther
+description: Adam Günther wa a German mathematician who published on pure mathematics and its history, and physics, geophysics, meteorology, geography, and astronomy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Adam Günther** wa a German mathematician who published on pure mathematics and its history, and physics, geophysics, meteorology, geography, and astronomy.
 
 ### Mathematical Profile (Excerpt):
-1. Researched the application of topological methods to the study of quaternionic and Clifford analysis and published a series of papers on the subject.
-2. Pioneered the study of symplectic structures, Hamilton-Jacobi theory, and control theory.
-3. Developed a new type of partial differential equation which later became known as the Günther equation.
-4. Was the first mathematician to completely classify the Lie algebras of symplectic and partial Hamiltonian systems.
-5. Developed rigorous numerical methods for solving nonlinear partial differential equations.
-6. Established a systematic approach to the analysis of multi-body systems.
-7. Laid the foundations for the modern theory of topological solitons and their applications to nonlinear systems.
-8. Made fundamental contributions to the theory of signal processing and information theory, specifically in the areas of band-limited signals and signal spectra.
+* Günther began his university studies of mathematics and physics in 1865.
+* It was common at this time for students in Germany to study at several different universities, and indeed Günther carried this out with enthusiam for he studied at the universities of Erlangen, Heidelberg, Leipzig, Berlin and Göttingen.
+* Günther participated in the war which ended in the defeat of France in 1871.
+* At the end of the war Günther returned to complete his doctoral dissertation and the degree was awarded by Erlangen for Studien zur theoretischen Photometrie Ⓣ(Studies in theoretical photometry) in 1872.
+* With his qualification to teach in universities, Günther became a docent at Munich Polytechnicum in 1874.
+* After holding this position for ten years, Günther moved back to Munich in 1886 when he was appointed as professor of geograghy at the Technische Hochschule there.
+* Günther served on the Reichstag from 1878 to 1884 as a member of the Liberal Party, then he served on the Bavarian Landtag, the state parliament of Bavaria, from 1884 to 1899 and again from 1907 to 1918 again as a Liberal.
+* Günther's contributions to mathematics include a treatise on the theory of determinants (1875), hyperbolic functions (1881), and the parabolic logarithm and parabolic trigonometry (1882).
 
 Born 6 February 1848, Nuremberg, Germany. Died 3 February 1923, Munich, Germany.
 

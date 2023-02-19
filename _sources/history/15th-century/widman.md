@@ -7,10 +7,10 @@ orderid: 1462
 title: Widman, Johannes
 born: 1462
 died: 1498
-keywords: +/- signs, cubic equations, square roots, logarithms, exponents, functions, integrals
-description: Johannes Widmanwas a German mathematician who pioneered the use of +/- signs, developed algorithms for square roots and logarithms, and introduced exponents, functions and integrals to the world.
+keywords: johannes widman,widman
+description: Johannes Widman was a German mathematician who is best remembered for an early arithmetic book which contains the first appearance of + and – signs.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Johannes Widman** was a German mathematician who is best remembered for an early arithmetic book which contains the first appearance of + and – signs.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical framework for solving cubic equations in 1535.
-2. Published the oldest surviving mathematical work in German in 1534.
-3. Discovered a method for determining approximations for square roots in 1525.
-4. Created an algorithm for computing logarithms in 1544.
-5. Developed formulas for calculating areas and volumes of various shapes, such as pyramids and cones in 1535.
-6. Was the first to introduce the plus, minus, and multiplication signs into mathematics in 1544.
-7. Developed a rudimentary form of integral calculus in 1526.
-8. Was among the first mathematicians to use exponents and symbols to write equations.
-9. Gave the concept of a function a precise meaning in 1534.
-10. Was the first to evaluate integrals using a limit approach in 1528.
+* Widman's 1486 algebra lecture is the first to be given in Germany on that topic, and amazingly still survives in a notebook of a student who attended.
+* Widman used Cossist notation, as was usual at that time, discussing 24 different types of equations.
+* It is, however, for an early arithmetic book Behende und hupsche Rechnung auf allen kauffmanschafft Ⓣ(Nimble and smart calculation for all merchants),  published in German in 1489, that Widman is best remembered.
+* in the treatises of Widman, Pellos, Pacioli, De la Roche, Ries, Rudolff, Tartaglia, and Cardan.
+* was also described by Widman.
+* The popularity of Widman's book can be seen from the fact that it was reprinted in 1508 in Pforzheim, in 1519 in Hagenau and in 1526 in Augsburg.
+* There are no direct references to Widman after 1489 but it is believed that he was still working on mathematical topics as late as 1498.
+* Widman was probably the author of the book Algorithmus Linealis published in Leipzig  in 1489.
+* Widman's importance is that he provided one of the first practical applications of mathematical knowledge which, because of the recent invention of printing, was made accessible to a very much wider circle of readers than had ever been achieved before.
 
 Born 1462, Eger, Bohemia (now Cheb, Czech Republic). Died 1498, Leipzig, Germany.
 

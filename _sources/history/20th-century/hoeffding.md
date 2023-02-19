@@ -7,10 +7,10 @@ orderid: 1914
 title: Hoeffding, Wassily
 born: 1914
 died: 1991
-keywords: W
-description: Hoeffding, probability theory, law of large numbers, central limit theorem, inequality theory, nonparametric, Econometrics, Ustat Medal
+keywords: wassily hoeffding,hoeffding
+description: Wassily Hoeffding was a Finnish statistician and probability theorist.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Wassily Hoeffding** was a Finnish statistician and probability theorist.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first proof of the law of large numbers and the central limit theorem, two important principles of probability theory, in the early 1900s.
-2. Pioneered the development of what is now called classical inequality theory, a field that is still of considerable importance in statistics. 
-3. Established the modern foundation for nonparametric methods, including his pioneering work on the rank order and sign tests. 
-4. Played a key role in the early development of Econometrics. 
-5. Wrote one of the first books on probability theory, “Probability: An Introduction” (1928). 
-6. Received the Rietz Prize of the Repräsentations-Blatt für die Deutsche Mathematiker in 1914 and the Ustat Medal of the Swedish Academy of Sciences in 1931. 
-7. Served as professor of mathematics at the University of Copenhagen and at Columbia University.
+* However, they spent the summer in Mustamäki, at that time part of the Russian Empire, and it was there that Wassily was born.
+* An uncle of my father's was Harald Hoeffding, the philosopher.
+* Wassily was one of his parents' three sons, having an older brother Waldemar and a younger brother Oleg.
+* Hoeffding attended an Oberrealschule in Berlin where he received a good training in natural sciences and languages.
+* Although these laws did not affect Hoeffding personally, they had a major consequence on his education at the University of Berlin.
+* The other consequence of the "Restoration of the civil service" as far as Hoeffding was concerned was the difficult atmosphere that resulted around the university with some inferior academics gaining high positions because of their strong support for the Nazis.
+* Hoeffding took this course but also studied, among other, advanced calculus with Erhard Schmidt and number theory with Alfred Brauer (whom he considered the best of all his lecturers).
+* For his doctorate Hoeffding studied properties of bivariate distributions which are invariant under certain transformations.
+* Of course, by this time Germany was at war but Hoeffding was not liable to be called up at this time since he was not a German citizen.
+* The Danish name Hoeffding was sufficient to qualify under the 'related blood' clause but when he went for a medical it was realised that he suffered from diabetes so he was excused military service in the army.
+* Harald Geppert, the editor of the Jahrbuch, suggested that Hoeffding should work on mathematics with military applications and so that he be seen to be contributing towards the war effort.
+* However, Hoeffding told him that his conscience would not allow him to contribute to the Nazi cause - a very dangerous statement to make in Nazi Germany, particularly to Geppert who was sympathetic to the Nazi cause.
+* In February 1945 Hoeffding and his mother left Berlin.
+* Hoeffding and his parents were fortunate to escape with their lives in these bombing raids but the irony was that Hoeffding's brother Oleg spent the war working for the Economic Division of the U.S. Embassy in England and was involved in the planning of this devastating raid which almost killed his family.
+* Of course, the Hoeffding family in Berlin only realised the involvement of Oleg in planning the raid much later.
+* Hoeffding and his mother went to a small town in Hanover where a Swiss friend of the family were living.
+* Hoeffding's father remained in Berlin and was captured by the Russians when Berlin fell.
+* Since Hoeffding's father had worked as an economist for the American Commercial Attaché, the Russians treated him as a spy and he was imprisoned.
+* Hoeffding remained there for over a year while he tried to have his father released - they did not succeed.
+* While living there Hoeffding and his mother were visited by Oleg, wearing American uniform.
+* Hoeffding asked his brother to send him Maurice Kendall's The Advanced Theory of Statistics.
+* Although written in Hanover in 1946, by the time of its publication in 1947, Hoeffding was in the United States.
+* By the summer of 1946 Hoeffding had no idea where his father was being held prisoner (he was actually being held in Potsdam and would eventually escape) so, with his mother, he left Germany for Switzerland.
+* Arriving in New York without any prospect of a job, Hoeffding attended statistics lectures at Columbia University.
+* Hoeffding had gone to New York to join his brother Oleg who had been appointed as an Instructor in Economics at Columbia University in the summer of 1946.
+* This offer was made without any visit or interview taking place, simply on the merits of Hoeffding's doctoral thesis.
+* Hoeffding spent the rest of his career at Chapel Hill.
+* While Hoeffding was in Chicago, he had given a talk on his latest work on U-statistics (the U stands for 'unbiased estimator') and he published this highly significant idea in the paper A class of statistics with asymptotically normal distribution (1948).
+* This was not the only paper Hoeffding published in 1948 for another two of his papers appeared that year, namely A non-parametric test of independence, and (with his colleague Herbert Robbins) The central limit theorem for dependent random variables.
+* Also, there are three articles reviewing (i) Hoeffding's work during the sixties, the impact of his work on (ii) sequential analysis, and (iii) on nonparametric inference.
+* It is clear that Hoeffding's remarkable contributions to statistics would result in him receiving the highest honours.
+* After he retired the University of North Carolina's College of Arts and Sciences honoured him by establishing the Wassily Hoeffding Professorship.
 
 Born 12 June 1914, Mustamäki, Finland (now Mukhino, Russia). Died 28 February 1991, Chapel Hill, North Carolina, USA.
 

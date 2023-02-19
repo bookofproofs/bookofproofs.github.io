@@ -7,10 +7,10 @@ orderid: 1611
 title: Pell, John
 born: 1611
 died: 1685
-keywords: John Pell, Pell's equation, Fermat's last theorem, polynomial power series, cycloid, sphere area/volume, ellipse/roots/cubic equation
-description: John Pell: mathematician who solved many mathematical problems, inc. Fermat's last theorem & cubic equation.
+keywords: john pell,pell
+description: John Pell was an English mathematician best known for Pell's equation which in fact he had little to do with.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Pell** was an English mathematician best known for _Pell's equation_ which in fact he had little to do with.
 
 ### Mathematical Profile (Excerpt):
-1. He developed Pell's equation, which is a type of mathematical statement that can be used to solve a wide range of mathematical problems.
-2. He was the first to prove Fermat's last theorem for the j=4 case.
-3. He developed a way to calculate the sum of the power series of a polynomial.
-4. He provided a numerical solution to the cycloid that was used by Galileo Galilei.
-5. He solved the problems of finding the area and volume of a sphere.
-6. He solved a centuries-old problem related to the division of an ellipse.
-7. He developed a method to find the rational roots of an equation.
-8. He developed a numerical method to solve a cubic equation.
+* Mary was from Halden in Kent and her husband was from Southwick where their son John, the subject of this biography, was born.
+* John Pell senior had a fine library and this proved valuable to John junior as he grew up.
+* Pell spent five years from 1638 teaching mathematics in London.
+* Pell realised that war was imminent and that he would be in an extremely difficult position in Breda once war broke out.
+* After his return, Pell was appointed by Oliver Cromwell to a post teaching mathematics in London.
+* Pell spent the years 1654 to 1658 holding a government post in Zürich.
+* However Pell's negotiations were long drawn out and he returned to England to give his report to Cromwell only shortly before Cromwell's death.
+* After his return to England Pell was ordained a deacon, then a priest in 1661.
+* Pell worked on algebra and number theory.
+* Its complete theory was worked out by Lagrange, not Pell.
+* It is often said that Euler mistakenly attributed Brouncker's work on this equation to Pell.
+* However the equation appears in a book by Rahn which was certainly written with Pell's help: some say entirely written by Pell.
+* Pell published a number of works, for example Idea of Mathematics (1638) and the two page A Refutation of Longomontanus's Pretended Quadrature of the Circle (1644) (reprinted in Latin as Controversiae de vera circuli mensura (1647)).
+* The Refutation was written because of a dispute Pell was involved in over the value of π.
+* Pell also translated Lansberge's tables, which were published in 1632, and worked on astronomy.
+* Pell was elected to the Royal Society on 20 May 1663.
+* When in London, Pell lived for a while with Collins.
+* The king and court fled from London in June and that summer Pell also left London being invited to Brereton Hall in Cheshire as the guest of William Brereton whom he had tutored while in the Netherlands.
 
 Born 1 March 1611, Southwick, Sussex, England. Died 12 December 1685, Westminster, London, England.
 

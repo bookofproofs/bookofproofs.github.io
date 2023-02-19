@@ -7,10 +7,10 @@ orderid: 1859
 title: Franel, Jérôme
 born: 1859
 died: 1939
-keywords: analytic number theory, representations of primes, Cauchy's sum theorem, prime number theorem, Coxeter–Franel theorem, exponential sums, diophantine approximation
-description: Jérôme Franel was an influential Swiss mathematician whose work involving analytic number theory solved a difficult problem about representations of primes, proved Cauchy's sum theorem, proposed a theorem of his own, and developed entire functions.
+keywords: jérôme franel,franel
+description: Jérôme Franel was a Swiss mathematician who specialised in analytic number theory.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Jérôme Franel**  was a Swiss mathematician who specialised in analytic number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Solved one of the most difficult problems in number theory concerning the representations of primes by special binary forms.
-2. Found a novel proof for "Cauchy's sum theorem" for polynomial expansions which opened the door to modern analytic number theory. 
-3. Proposed new "exactly computable" versions of the prime number theorem.
-4. Proposed the Coxeter–Franel theorem on the number of reflections in a surface.
-5. Authored many influential papers contributing to the development of analytic number theory.
-6. Developed a new method of testing the intractability of problems in number theory.
-7. Discovered various properties of exponential sums.
-8. Established a method of efficient computation of sums involving powers of arithmetic functions.
-9. Generated formulas and theorems on the diophantine approximation of algebraic numbers.
-10. Led the development of the theory of entire functions of the second kind.
+* Franel co-supervised (at least) four PhD students, three jointly with Hurwitz and one with Hermann Weyl.
+* Franel served as the Polytechnic's Director from 1905-1909.
+* On several occasions Franel acted as intermediary between the Polytechnic and secondary schools or the Gesellschaft ehemaliger Polytechniker.
+* As Director, Franel was heavily involved in organising the celebrations.
+* Franel was first and foremost a teacher and not a researcher.
+* Franel wrote a couple of papers on problems in geometry, but then turned to analysis and number theory.
+* Franel also regularly contributed to the French journal L'Intermédiaire des mathématiciens.
+* The German mathematician Edmund Landau, who held a professorship at the University of Göttingen at the time, then wrote a few papers on the same topic based on and expanding Franel's ideas.
+* Franel joined the organising committee of the first International Congress of Mathematicians in July 1896, where he was responsible for the French translations.
+* Franel did not give a talk himself, but he read out Poincaré's talk in the first general meeting, which he is remembered for.
+* Despite having been general secretary, Franel never had the chance to edit the congress proceedings in French.
+* Franel was a member of the organising committee of the 1932 ICM in Zürich again, but did not give a talk at the congress.
+* Franel was married and he had two daughters, Jeanne (born 1889) and Marie-Louise (born 1893).
 
 Born 29 November 1859, Travers, Neuchâtel canton, Switzerland. Died 21 November 1939, Zürich, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1923
 title: Hamill, Christine Mary
 born: 1923
 died: 1956
-keywords: Christine Hamill, mathematics, group theory, finite geometry, teaching, education, research
-description: English mathematician Christine Hamill developed innovative ways to teach mathematics and led extensive research, resulting in the book, "Creative Mathematics Teaching".
+keywords: christine hamill,hamill
+description: Christine Hamill was an English mathematician who specialised in group theory and finite geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Christine Hamill** was an English mathematician who specialised in group theory and finite geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed innovative ways to teach mathematics to students of different learning styles and levels. 
-2. Developed a system of inquiry-based learning that decreases student frustration and builds mathematical knowledge. 
-3. Published articles on mathematics education that have been widely read by educators and students alike. 
-4. Served as a mathematics coach in schools, leading workshops on creative approaches to teaching math. 
-5. Led research on mathematics teaching for the Office of Education and Training, contributing to new policy on math instruction. 
-6. Led the implementation of a project to enhance mathematics instruction for students with disabilities. 
-7. Assisted in the design of a graduate-level mathematics course to prepare pre-service teachers to effectively teach mathematics. 
-8. Authored the book 'Creative Mathematics Teaching: A Resource Guide'.
+* Philip and Louisa Hamill had four children: Bernard John Hamill (1920-1996), who became a management consultant; Olivia Ann Hamill (1921-2006), who became a teacher; Christine Mary Hamill, the subject of this biography, and one younger boy.
+* Christine studied first at St Paul's Girls' School where she won a foundation scholarship.
+* When Hamill studied there the head teacher was the classics scholar Ethel Strudwick (1880-1954).
+* Hamill moved to Perse School for Girls in Cambridge, a school which had been founded in 1881 to provide quality education for women.
+* In 1950, the year before she received her doctorate, Hamill was offered an Assistant Lectureship in Mathematics at the University of Sheffield which she accepted.
+* While an assistant lecturer at Sheffield, Hamill attended the Edinburgh Mathematical Society's St Andrews Colloquium held in St Andrews from 18 to 28 July 1951.
+* While at Sheffield, Hamill undertook research with Herbert D Deas, who was also a lecturer in mathematics at the University of Sheffield.
+* In fact the paper did not appear in print until 1957, the year after Hamill died.
+* It had been submitted to Acta Crystallographica on 2 August 1955 but it was revised by Herbert Deas on 8 March 1957, almost exactly a year after Hamill's death.
+* In 1954 Hamill accepted a post as lecturer in the University of Ibadan in Nigeria.
+* Two of the lecture courses at the St Andrews Colloquium were of particular interest to Hamill, namely Philip Hall's course on Symmetric Functions in the Theory of Groups and Michael Atiyah's course on Topological Methods in Algebraic Geometry.
+* After four terms in Ibadan, Hamill contracted poliomyelitis and her death was rapid occurring only two days after she became ill.
 
 Born 24 July 1923, London, England. Died 24 March 1956, Ibadan, Oyo State, Nigeria.
 

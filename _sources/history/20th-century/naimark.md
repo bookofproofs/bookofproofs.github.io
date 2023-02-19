@@ -7,10 +7,10 @@ orderid: 1909
 title: Naimark, Mark Aronovich
 born: 1909
 died: 1978
-keywords: Naimark, functional analysis, mathematical physics, C*-algebras, K-theory, von Neumann algebras, measure theory
-description: Mark Aronovich Naimarkwas a Ukranian mathematician who made significant contributions to functional analysis, mathematical physics and structures such as C*-algebras, K-theory, von Neumann algebras, measure theory and more.
+keywords: mark aronovich naimark,naimark
+description: Mark Aronovich Naimark was a Ukranian mathematician who worked in functional analysis and mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mark Aronovich Naimark**  was a Ukranian mathematician who worked in functional analysis and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Proved in 1936 that every separable C*-algebra is isomorphic to a direct sum of matrix algebras.
-2. Founded an early form of what is now known as K-theory in 1941.
-3. Proved existence of von Neumann algebras in 1943.
-4. Researched representation theory of topological groups in 1944.
-5. Developed measure theory in 1945.
-6. Achieved significant progress in the theory of rings of operators in 1948.
-7. Invented the theory of types, which establishes the structure of projections and factors in matrix algebras in 1949.
-8. Demonstrated the uniqueness of the embedding of a von Neumann algebra into a larger algebra, known as the Naimark dilation theorem in 1936.
+* Mark Aronovich was brought up by his Jewish parents Aron Iakovlevich and Zefir Moiseevna in Odessa where he showed an outstanding talent for mathematics while at school.
+* At Odessa State University Naimark's studies were supervised by Mark Grigorievich Krein who, although only two years older than Naimark, had completed his doctorate in 1929 and had begun to build up a functional analysis research group.
+* With Krein, Naimark worked on applying Bezout's determinant to the problem of separating the roots of an algebraic equation.
+* Naimark defended his candidate's dissertation (equivalent to a Ph.D. thesis) The theory of normal operators in Hilbert space in 1936 then moved to Moscow in 1938.
+* We have already noted that Naimark's first work was on the separation of roots of algebraic equations but, once he had established himself in Moscow, he worked on functional analysis and group representations.
+* In 1943 he proved the Gelfand-Naimark theorem on self-adjoint algebras of operators in Hilbert space.
+* Naimark also made substantial contributions to Banach algebras.
+* In 1958 Naimark published Linear representations of the Lorentz group.
+* In all Naimark wrote 123 papers and 5 books but he also put considerable effort into the translations and further editions of the books.
+* By the time this book was written Naimark was suffering from heart disease, a problem which afflicted him during the last ten years of his life.
+* The book only covers finite-dimensional group representations but, despite his illness, Naimark states in the Preface that he hoped to write a sequel on the analytic and infinite-dimensional theory.
+* He had a remarkable gift for explaining things simply and intelligibly.
 
 Born 5 December 1909, Odessa, Ukraine. Died 30 December 1978, Moscow, USSR.
 

@@ -7,10 +7,10 @@ orderid: 1872
 title: Meiklejohn, John George Brotchie
 born: 1872
 died: 1951
-keywords: John Meiklejohn, Mathematics, Curriculum, Textbook, Canada, International Congress, Alberta Council
-description: John Meiklejohn developed mathematics curriculum, textbooks & advocated for mathematics in Canada; he represented Canada at the International Congress & developed a mathematics syllabus.
+keywords: john meiklejohn,meiklejohn
+description: John Meiklejohn graduated from Edinburgh and taught at Dundee High School.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,19 +20,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Meiklejohn.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Meiklejohn.jpg?raw=true)
 
-**John Meiklejohn** graduated from Edinburgh and taught at Dundee High School. 
+**John Meiklejohn** graduated from Edinburgh and taught at Dundee High School.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a series of mathematics curricula and textbooks for primary and secondary students, including Basic Mathematics and Applied Mathematics.
-2. Served as the first superintendent of mathematical instruction for the Province of Alberta, increasing the quality of mathematical education across the province.
-3. Published numerous research papers on topics ranging from numerical analysis to statistics.
-4. Represented Canada at the International Congress of Mathematics and the Colloque International des Mathématiciens.
-5. Spearheaded the 'Meiklejohn Project,' a program designed to improve teachers' knowledge and understanding of mathematics.
-6. Advocated for the development and implementation of an 'advanced' mathematics track for secondary schools.
-7. Collaborated with colleagues in the Commonwealth countries to design a mathematics syllabus applicable to all educational jurisdictions.
-8. Organized the Canadian Mathematical Congress in 1940 and 1941, marking the first such event in Canada.
-9. Helped develop a comprehensive mathematics certification program in Alberta while serving on the Alberta Council of Education.
-10. Established a mathematics honour society at the University of Alberta, recognizing the accomplishments of mathematics students.
+* His mother was  Janet Meiklejohn (born in Walls, Orkney about 1831).
+* John Meiklejohn attended Weydale Public School for five years, followed by the Miller Institution for four and a half years.
+* It is perhaps worth noting that Meiklejohn did not seem particularly fond of his middle names since he gave 'John Meiklejohn' as his 'Name in full' when he matriculated.
+* If there were any doubts as to his rapid promotion to the headship after only four years of teaching, these were soon dispelled, for three years later there began an almost unbroken sequence of highly-placed John Welsh Mathematical Bursars at his old University.
+* Meiklejohn joined the Edinburgh Mathematical Society in December 1898, in the year in which he graduated from Edinburgh University.
 
 Born 5 November 1872, Weydale, Thurso, Caithness, Scotland. Died 19 January 1951, Dundee, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1906
 title: Lopatynsky, Yaroslav Borisovich
 born: 1906
 died: 1981
-keywords: Differential Equations, Moscow Mathematical Society, Math Education, 100+ Books/Papers, Notation, Mathematical Institute, Math Dictionary
-description: Yaroslav Lopatinskii was a Ukrainian mathematician, renowned for founding the Moscow Mathematical Society and making critical contributions to the theory of differential equations, math education, and notation.
+keywords: yaroslav borisovich lopatynsky,lopatynsky
+description: Yaroslav Lopatinskii was a Ukrainian mathematician known for his contributions to the theory of differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Yaroslav Lopatinskii** was a Ukrainian mathematician known for his contributions to the theory of differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Moscow Mathematical Society in 1912, which was the first organization in Russia devoted to mathematics. 
-2. Played a key role in the establishment of mathematical education in Russia.
-3. Raised awareness of the importance of mathematics research and scholarship, and made great efforts to promote the spread and popularity of mathematics. 
-4. Published more than 100 books and papers about mathematics, many of which contain important contributions to the field.
-5. Developed a system of mathematical notation and conventions, which is still widely used in Russian mathematics today. 
-6. Established the Mathematical Institute of the Academy of Sciences of the USSR. 
-7. Published a mathematical dictionary that represented the common terminology and notation of the field.
+* Lopatynsky worked at both the Azerbaidzhan University and the Baku Polytechnic Institute.
+* Lopatynsky's first papers were on analysis: On uniform convergence (1929); Embedding of a Riemannian space in a Euclidean space (1934); (with L P Fridolina) The justification of mathematics, a critical situation (1934); and Limiting values of an analytic function on a set of singular points of measure greater than zero on a rectified curve (1935).
+* In 1945 Lopatynsky moved to Lvov where he was appointed to the chair of differential equations at Lvov University.
+* Lopatynsky's research continued to impress as he continued to prove major results in the theory of systems of linear differential equations of the elliptic type.
+* Lopatynsky's contributions to the theory of differential equations are particularly important, with important contributions to the theory of linear and nonlinear partial differential equations.
+* This is now known as the Lopatynsky Condition.
+* In 1980 Lopatynsky published an important book Introduction to the Contemporary Theory of Partial Differential Equations.
+* Yaroslav Borisovich has won the deep admiration and respect of his many students, as well as those closely associated with him professionally and socially.
+* Lopatynsky received many honours for his achievements.
+* The conference is named after an outstanding mathematician, talented pedagogue and organiser, Academician of National Academy of Sciences of Ukraine Yaroslav Borisovich Lopatinskii who was a founder of both the Department of Differential Equations in Donetsk National University and the Department of Partial Differential Equations in the Institute of Applied Mathematics and Mechanics of National Academy of Sciences of Ukraine.
 
 Born 9 November 1906, Tbilisi, Georgia, Russia. Died 10 March 1981, Donetsk, USSR.
 

@@ -7,10 +7,10 @@ orderid: 1861
 title: Heath, Thomas Little
 born: 1861
 died: 1940
-keywords: Thomas Heath, History of Mathematics, Greek, Euclidean Geometry, Middle Eastern, Joseph Fourier, Treatise on Algebra
-description: Thomas Heath was a historian of mathematics, authoring works on the mathematical thought of the ancient Greeks, integrating partial differential equations, mentoring major figures and publishing seminal works like his Treatise on Algebra.
+keywords: thomas heath,heath
+description: Thomas Heath wrote important works on the History of Mathematics: in particular on the mathematics of the ancient Greeks.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Thomas Heath** wrote important works on the History of Mathematics: in particular on the mathematics of the ancient Greeks.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the four volumes of "Mathematics in Aristotle", which became the standard work on the mathematical thought of the ancient Greeks.
-2. Published mathematical works on Euclidean Geometry and the application of mathematics to natural philosophy. 
-3. Engaged in pioneering studies of the history of Greek mathematics and the relationships between Greek mathematics and its successors in the Middle Eastern and European world. 
-4. Invested much of his early career developing mathematical techniques for integrating partial differential equations.
-5. Mentored several of the major figures in mathematics of the day including Joseph Fourier, Adrien-Marie Legendre, and Carl Friedrich Gauss. 
-6. Conducted two successful expeditions to remote areas of Greece to make archaeological and scientific surveys.
-7. Published many seminal works on mathematics, including of the Calculus of Attraction, his Contributions to the Analytical Theory of Heat, and his Treatise on Algebra.
+* Thomas was the youngest of the three boys and he, like all the children, was musical and academically gifted.
+* Thomas Little Heath was named after his grandfather on his mother's side, who was Thomas Little.
+* Heath was then private secretary to various financial secretaries at the Treasury up to 1907 when he was appointed Assistant secretary to the Treasury.
+* However Heath had two separate careers, one as a civil servant, the other as one of the leading world experts on the history of mathematics.
+* Archimedes was published in 1897 but at this stage the important work called The Method had not been discovered, so Heath added a translation of this in an edition he brought out in 1912.
+* In 1908 Heath's three volume work on Euclid appeared.
+* Heath was elected a Fellow of the Royal Society in 1912 and served for two terms on its council.
+* One might think that having a career in the Civil Service and yet being a leading historian of mathematics would leave Heath little time for other hobbies but in fact this was not so.
+* He was always interested in music and he had married Ada Mary Thomas in 1914, who was a professional musician, reinforcing his interest.
 
 Born 5 October 1861, Barnetby le Wold, Lincoln, England. Died 16 March 1940, Ashtead, Surrey, England.
 

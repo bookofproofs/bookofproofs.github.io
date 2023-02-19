@@ -7,10 +7,10 @@ orderid: 1925
 title: Gupta, Shanti Swarup
 born: 1925
 died: 2002
-keywords: Gupta, Mathematics, Quantum Mechanics, Electrodynamics, Radiation, Nuclear Reactions, Theorems
-description: Shanti Gupta was an Indian mathematician in America who developed theories on Quantum Mechanics, Electrodynamics, Radiation, Nuclear Reactions and Theorems.
+keywords: shanti swarup gupta,gupta
+description: Shanti Gupta was an Indian mathematician who worked in America. He worked in statistics and decision theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Shanti Gupta** was an Indian mathematician who worked in America. He worked in statistics and decision theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Gupta-Bleuler Formula which described how electrons interact with photons and provided a basis for quantum electrodynamics. 
-2. Discovered the Gupta-Bleuler equation, a mathematical description of the electromagnetic interaction between matter and radiation. 
-3. Established the Gupta-Bloch formalism of non-relativistic Quantum Mechanics. 
-4. Developed the Gupta-Basu transformation which solved many non-magnetic Hamiltonians. 
-5. Co-developed the Gupta-Sidharth-Lahiri formalism for non-relativistic Quantum Mechanics. 
-6. Worked on a theory of compound nucleus, calculating excitation energy of different states and developing a unified model to explain angular distributions of gamma-rays arising from nuclear reactions. 
-7. Discovered the Gupta-Ter-Veldius effect which applied to trilinear interactions of radiation, matter and electricity. 
-8. Established the Gupta-Raman interaction formula which described the interaction between radiation and a magnetic field. 
-9. Developed the Gupta-Friedel-Lekner formalism, which described the interaction between two linearly polarized light waves in a vacuum. 
-10. Generated new proofs for theorems concerning general integral equations.
+* For example in the year which Gupta was awarded his doctorate, three scientists at the Bell Laboratories were awarded a Nobel Prize in Physics for inventing the transistor.
+* Gupta's first publications include the following with Milton Sobel: On a statistic which arises in selection and ranking problems (1957); On selecting a subset which contains all populations better than a standard (1958); On the distribution of a statistic based on ordered uniform chance variables (1958); and Selecting a subset containing the best of several binomial populations (1960).
+* Gupta publication record is exceptional containing over 200 items.
+* Gupta held academic posts at universities such as the University of Alberta and New York University where he worked at the Courant Institute.
+* For his many contributions to statistics, Gupta was honoured by election as a fellow of several societies such as the American Association for the Advancement of Science, the American Statistical Association, and the Institute of Mathematical Statistics (for which he served a term as president).
+* Gupta married Marianne Heinicke; they had one daughter Maya.
 
 Born 15 January 1925, Saunasi, Mainpuri, India. Died 11 January 2002, West Lafayette, Indiana, USA.
 

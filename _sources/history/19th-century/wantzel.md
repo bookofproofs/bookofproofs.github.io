@@ -7,10 +7,10 @@ orderid: 1814
 title: Wantzel, Pierre Laurent
 born: 1814
 died: 1848
-keywords: mathematician, geometric, ruler, compass, number theory, polynomials, cubic equations
-description: French mathematician Pierre Wantzel proved that certain geometric problems were unsolvable, advanced the study of number theory, found a solution for the double counting problem, contributed to the theory of polynomials, developed creative proof methods and solved cubic equations by radicals.
+keywords: pierre wantzel,wantzel
+description: Pierre Wantzel was a French mathematician who proved that several ancient geometric problems were impossible to solve using only ruler and compass constructions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pierre  Wantzel** was a French mathematician who proved that several ancient geometric problems were impossible to solve using only ruler and compass constructions.
 
 ### Mathematical Profile (Excerpt):
-1. Proved that there was no solution to the general equation of the form X^n = Y in 1837, thereby establishing the impossibility of constructing regular polygons with an odd number of sides using compass and straightedge.
-2. Advanced the study of number theory by providing several new proofs for the theorem of perfect numbers.
-3. Found a solution for the double counting problem of point-line geometry.
-4. Made significant contributions to the theory of polynomials, including the Wantzel–Lehmus theorem.
-5. Developed creative, new methods for proving theorems, including the use of recurrence relations.
-6. Demonstrated the solvability of all cubic equations by radicals.
+* Pierre Wantzel attended primary school in Ecouen, near Paris, where the family lived.
+* He soon surpassed even his master, who sent for the young Wantzel, at age nine, when he encountered a difficult surveying problem.
+* In 1826, while still only 12 years old, Wantzel entered the École des Arts et Métiers de Châlons.
+* Unhappy with the less academic nature of the school in 1828, Wantzel entered the Collège Charlemagne after being coached in Latin and Greek by a M Lievyns (whose daughter he was later to marry).
+* Wantzel was not one to take life easy and he took on additional duties taking charge of the entrance examinations at the École Polytechnique in 1843 and in addition taught various mathematics and physics courses at various schools around Paris, including at the Collège Charlemagne.
+* Wantzel is famed for his work on solving equations by radicals.
+* In this 1837 paper Wantzel was the first to prove these results.
+* In 1845 Wantzel, continuing his researches into equations, gave a new proof of the impossibility of solving all algebraic equations by radicals.
+* Wantzel certainly published some important results, although it must be understood that his proofs of the impossibliity of solving the classical ruler and compass problems were built on the work of others.
+* Wantzel improvised more than he elaborated, he probably did not give himself the leisure nor the calm necessary to linger long on the same subject.
 
 Born 5 June 1814, Paris, France. Died 21 May 1848, Paris, France.
 

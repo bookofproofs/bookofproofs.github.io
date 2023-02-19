@@ -7,10 +7,10 @@ orderid: 1954
 title: Krejčí, Pavel
 born: 1954
 died: 0
-keywords: tropical geometry, algebraic geometry, combinatorics, convex geometry, polytopes, enumerative algebraic geometry, mathematical genetics
-description: Pavel Krejčí applied differential equations to hysteresis problems, pioneering the study of tropical geometry, discovering new properties of polytopes, and introducing methods to study phylogenetic trees and mathematical genetics.
+keywords: pavel krejčí,krejčí
+description: Pavel Krejčí is a Czech mathematician who is known for his work on the applications of differential equations to hysteresis problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pavel Krejčí** is a Czech mathematician who is known for his work on the applications of differential equations to hysteresis problems.
 
 ### Mathematical Profile (Excerpt):
-1. Pavel Krejčí pioneered the study of tropical geometry, a new field of mathematics combining algebraic geometry, combinatorics, and convex geometry.
-2. He was the first to solve a series of problems concerning the classification of structures that arise in algebraic geometry and tropical geometry. 
-3. He discovered new properties of polytopes, which are convex figures in a Euclidean space. 
-4. He developed techniques to produce tropical fans and cones of convex polytopes. 
-5. He solved several problems in enumerative algebraic geometry and tropical geometry regarding the number and structure of solutions of polynomial equations. 
-6. He established a new connection between tropical geometry and algebraic number theory. 
-7. He introduced new methods for studying phylogenetic trees and mathematical genetics.
+* After the award of his Master's degree, Krejčí became a computer programmer at the Poldi Steel Company, Kladno, Czechoslovakia.
+* Krejčí continued to work at the Institute of Mathematics in Prague until December 1996 but during these years spent part of his time visiting other institutions.
+* In February 2015, MathSciNet lists 120 publications by Krejčí.
+* Krejčí has received prestigious awards such as the Research Award of the Minister of Education of the Czech Republic (2001), the John von Neumann Guest professorship at Munich (2010), and the Bernard Bolzano Honorary Medal for Merit in Mathematical Sciences from the Czech Academy of Sciences (2014).
+* beyond any doubt, Pavel Krejcci is worthy of this honour, and the Czech Academy of Sciences can only be congratulated for the wise decision to bestow on him the Bernard Bolzano Honorary Medal for Merit in Mathematical Sciences.
 
 Born 21 June 1954, Decin, Czechoslovakia (now Czech Republic).
 

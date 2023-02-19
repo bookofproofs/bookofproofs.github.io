@@ -7,10 +7,10 @@ orderid: 1904
 title: Mcshane, Edward James
 born: 1904
 died: 1989
-keywords: Edward J McShane, mathematics, books, Alberta Mathematical Society, topology, calculus of variations, MIT quantity surveying, Abel Prize, Cole Prize, Wicksell Prize
-description: Edward J McShane was an American mathematician renowned for his books, founding of the Alberta Mathematical Society and advancing the calculus of variations. He won the Cole, Wicksell and Abel Prizes, and received honorary doctorates.
+keywords: edward mcshane,mcshane
+description: Edward J McShane was an American mathematician noted for his work in the calculus of variations and integration theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward J McShane** was an American mathematician noted for his work in the calculus of variations and integration theory.
 
 ### Mathematical Profile (Excerpt):
-1. Published groundbreaking mathematical books, such as "The Theory of Functions of a Complex Variable" (1924) and "Introduction to the Theory of Functions of a Real Variable" (1931).
-2. Founded the Alberta Mathematical Society in 1944.
-3. Developed an approach to topology using linear algebra for undergraduate courses in 1938.
-4. Made significant contributions to the development of calculus of variations.
-5. Established an MIT graduate program on quantity surveying.
-6. Established the Abel Prize in mathematics in 2001.
-7. Awarded the American Mathematical Society's Cole Prize for Algebra in 1936 and the Wicksell Prize for mathematical research in 1952.
-8. Received honorary doctorates from the University of Alberta, Yale, and the University of Utah.
+* After attending school in New Orleans, McShane entered Tulane University.
+* After completing his first degrees (for he had two!), McShane continued to study at Tulane for his Master's degree in mathematics while teaching mathematics as an instructor.
+* With the award of a Master's degree from Tulane in 1927, McShane went to the University of Chicago to undertake studies for his doctorate.
+* McShane spent part of the following two years at Princeton, part at Ohio State, part at Harvard and part at Chicago.
+* McShane and his wife spent the session 1932-33 at Göttingen, but if 1932 was a bad year in the United States, 1933 was certainly a bad year in Germany with Hitler coming to power and bringing in his first anti-Jewish legislation.
+* Having seen the frightening start of the Nazi rise to power, the McShane family returned to the United States where McShane spent the next two years at Princeton.
+* In 1935 McShane was appointed to a professorship at the University of Virginia at Charlottesville, where, except for temporary appointments elsewhere, he was to remain for the rest of his life.
+* McShane had been asked to complete a questionnaire.
+* McShane is famous for his work in the calculus of variations, Moore-Smith theory of limits, the theory of the integral, stochastic differential equations, and ballistics.
+* In 1974, the year he retired and was made Professor Emeritus at Virginia, McShane published Stochastic calculus and stochastic models which again reflected his work on the mathematical setting for quantum mechanics.
+* McShane was much involved with both the American Mathematical Society and with the Mathematical Association of America.
 
 Born 10 May 1904, New Orleans, Louisiana, USA. Died 1 June 1989, Charlottesville, Virginia, USA.
 

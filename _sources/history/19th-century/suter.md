@@ -7,10 +7,10 @@ orderid: 1848
 title: Suter, Heinrich
 born: 1848
 died: 1922
-keywords: Swiss, Historian, Islamic, Differential Equations, Suter's Formula, Unilateral Theory, Mathematical Society
-description: Heinrich Suter, Swiss historian of Islamic mathematics and astronomy, achieved great feats: introducing differential equations, founding mathematical society, formulating Suter's Formula etc.
+keywords: heinrich suter,suter
+description: Heinrich Suter was a Swiss historian of science specializing in Islamic mathematics and astronomy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Heinrich Suter** was a Swiss historian of science specializing in Islamic mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-1. Achieved the title of 'instructor' at the Swiss Federal Institute of Technology in Zurich, where he introduced the subject of differential equations to students.
-2. Published a paper in 1885 on what would become known as Suter's Formula, a solution to a nonlinear differential equation which had puzzled mathematicians for centuries.
-3. Organized and conducted research on the use of mathematics to study the behavior of future trajectories of celestial bodies.
-4. Created and mathematically described an entire branch of mathematics, known as the “unilateral theory of aerial navigation”, which is still widely used today in relation to aircraft and rocket navigation.
-5. Supported and fostered the development of modern mathematics in Switzerland by founding the Swiss Mathematical Society and serving as its first president.
-6. Published papers and articles on analytical geometry, mechanics, and integral equations.
-7. Collaborated with other mathematicians of his time, including Roger Cotes and Joseph-Louis Lagrange.
+* In 1863 Suter entered the high school for Zürich Canton where he studied Latin and Greek.
+* Although Suter set forth the goal of treating the history of mathematics in terms of the history of ideas, he was prevented from attaining it because of the paucity of available data.
+* Suter taught mathematics and physics in Swiss schools and became the leading expert on Muslim mathematics.
+* This was the year in which Suter married Hermine Frauenfelder.
+* Heinrich and Hermine Suter had three daughters.
+* In the year 1876 Suter received a full-time appointment in the cantonal school of Aargau as a teacher of mathematics and physics.
+* Suter's doctoral dissertation Geschichte der mathematischen Wissenschaften.
+* For around ten years after this Suter produced no research papers but he began to publish on the history of mathematics again in 1884.
+* The most important of Suter's works is the book Die Mathematiker und Astronomen der Araber und ihre Werke Ⓣ(The Arabic mathematicians and astronomers and their works) (1900).
+* in 1900, Swiss historian of mathematics and astronomy Heinrich Suter published the bio-bibliographical survey Die Mathematiker und Astronomen der Araber und ihre Werke.
+* Suter's book contained information on scholars not only in the Arab countries but in all the Islamic countries from the 8th  to the 17th  centuries.
+* A Latin translation of one version has survived and was published by Suter in 1914 in Die astronomischen Tafeln des Muhammad ibn Musa al-Khwarizmi.
+* Suter was awarded an honorary doctorate from the University of Zürich in the final year of his life.
 
 Born 4 January 1848, Hedingen (2, km N of Affoltern), Zürich Canton, Switzerland. Died 17 March 1922, Dornach, Switzerland.
 

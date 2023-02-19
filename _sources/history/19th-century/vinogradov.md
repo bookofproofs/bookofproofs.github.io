@@ -7,10 +7,10 @@ orderid: 1891
 title: Vinogradov, Ivan Matveevich
 born: 1891
 died: 1983
-keywords: Vinogradov, Čebyšev inequality, Waring–Goldbach problem, integral, trigonometric sums, A-value, whole numbers
-description: Vinogradov used trigonometric series for deep analytic number theory, like Čebyšev inequality, Waring–Goldbach problem, integral, trigonometric sums, A-value and whole numbers.
+keywords: ivan matveevich vinogradov,vinogradov
+description: Vinogradov used trigonometric series to attack deep problems in analytic number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vinogradov** used trigonometric series to attack deep problems in analytic number theory.
 
 ### Mathematical Profile (Excerpt):
-1. He proved the Čebyšev inequality and introduced the Vinogradov mean value theorem. 
-2. He proved the three-primes theorem and the Waring–Goldbach problem. 
-3. He developed Vinogradov's integral, an oscillatory integral. 
-4. He established the method of trigonometric sums, used in his attack on Goldbach's conjecture. 
-5. He developed Vinogradov's A-value, a method related to the Riemann hypothesis. 
-6. He helped to develop the theory of whole numbers and Diophantine equations. 
-7. He established Vinogradov's system of definitions and axioms, the basis for modern additive number theory. 
-8. He published works typically spanning several hundred pages. 
-9. He applied Fourier analysis to the binomial coefficient and Lota's problem. 
-10. He authored many books related to mathematics including “Elementary Number Theory”.
+* The usual education for the son of a priest was in a special ecclesiastic school, but because Ivan showed scientific skills his parents decided in 1903 to send him to school were he would receive a scientific rather than classical education.
+* By 1903 Ivan's father was a priest at the Church of the Holy Shroud in Velikie Luki, and it was in that town that Ivan attended school from 1903 to 1910.
+* Two of his teachers there, A A Markov and Ya V Uspenskii, both had interests in probability and number theory and Vinogradov's interest in number theory stems from this period.
+* Mainly these concerned the lack of communication between Russia and the West so that he was unaware of results of Weyl and others which was highly relevant to his work and, similarly, mathematicians in the West were largely unaware of Vinogradov's results.
+* During his time as head of the Steklov Institute, Vinogradov discussed with Luzin the research areas which should be emphasised in the Soviet mathematical Institutes.
+* Let us now look a little at the main mathematical contributions made by Vinogradov.
+* However it was Vinogradov who, in a series of papers in the 1930s, brought the method to its full potential.
+* In it Vinogradov proved that every sufficiently large odd integer can be expressed as the sum of three primes.
+* Recent research on the type of problems studied by Vinogradov shows that his methods are still the most powerful available to obtain yet further results.
+* Vinogradov made many other contributions, for example to the theory of distribution of power residues, non-residues, indices and primitive roots.
+* Even in Edmund Landau's three volume work on number theory, published in 1927, prominence is given to Vinogradov's methods.
+* Vinogradov headed the Soviet delegation again at the 5th  General Assembly at Dubna in 1966.
+* Vinogradov gave a dinner for the participants at his own expense and personally addressed the invitation cards.
+* The proceeding of the conference were published in 1973 with Vinogradov as editor-in-chief.
+* Vinogradov received many honours for his mathematical achievements.
+* One hundred years after his birth, on 14 September, a conference on analytic number theory was organised, followed by 'Vinogradov lectures'.
 
 Born 14 September 1891, Milolyub, Velikie Luki, Pskov province, Russia. Died 20 March 1983, Moscow, Russia.
 

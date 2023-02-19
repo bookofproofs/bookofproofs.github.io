@@ -7,10 +7,10 @@ orderid: 1863
 title: Zaremba, Stanislaw
 born: 1863
 died: 1942
-keywords: Zaremba, linear equations, linear programming, inequalities, sequences, inverse matrix, functional analysis
-description: Stanisław Zaremba was a Polish mathematician who developed a method to solve linear equations and programming problems, contributed to the theory of inequalities and sequences, and published several important papers on functional analysis.
+keywords: stanisław zaremba,zaremba
+description: Stanisław Zaremba was a Polish mathematician who worked in partial differential equations and classical analysis, particularly on harmonic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Stanisław Zaremba** was a Polish mathematician who worked in partial differential equations and classical analysis, particularly on harmonic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for solving linear equations that is known today as the Zaremba method. 
-2. Developed a method for solving linear programming problems. 
-3. Contributed to the Linear Programming Problem theory. 
-4. Established a theory of inequalities with absolute values. 
-5. Constructed a special type of bounded sequences in mathematics. 
-6. Implemented an iterative method for calculating an inverse matrix. 
-7. Published a number of important papers on functional analysis and algebraic systems. 
-8. Developed a model to study the functional-analytical theory of differential equations. 
-9. Developed a theory of parabolic equations. 
-10. Contributed to the mathematical theory of numerical methods.
+* Zaremba attended secondary school in St Petersburg then, after graduating, he studied engineering at the Institute of Technology in that city.
+* As a topic for his doctorate Zaremba looked to build on ideas introduced by Riemann in 1861.
+* Zaremba made many contacts with mathematicians of the French school at this time which would provide him with international collaborators after returning to Poland.
+* Zaremba returned to Poland in 1900 where he was appointed to a chair in the Jagiellonian University in Kraków.
+* Stanisław Gołąb, a differential geometer, wrote on the history of mathematics in Poland.
+* Always taking a philosophical view of a problem, Zaremba combined physical intuition with enormous erudition, a method that enabled him to connect seemingly unrelated problems.
+* When the Mathematical Society of Kraków was set up in 1919, Zaremba chaired the inaugural meeting and was elected as the first President of the Society.
+* Zaremba played a crucial role in this transformation.
+* The political circumstances of the period were such that, for a decade or more, Stanisław Zaremba and Kazimierz Żorawski were the only representatives of Polish mathematics in contact with foreign countries.
+* Much of Zaremba's research work was in partial differential equations and potential theory.
+* By this time Zaremba was essentially retired from normal teaching duties but still came to give special lectures and was often seen by the students who held him in great respect and in some awe.
+* There was another side to him, however, for despite this reputation as a hard examiner, Zaremba showed great kindness and understanding to students who approached the oral examination in fear and trembling.
+* Zaremba received many honours.
 
 Born 3 October 1863, Romanówka, Trembowla, Galicia, Austria-Hungary (now Ukraine). Died 23 November 1942, Kraków, Poland.
 

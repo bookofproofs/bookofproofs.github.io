@@ -7,10 +7,10 @@ orderid: 1819
 title: Serret, Joseph Alfred
 born: 1819
 died: 1885
-keywords: Joseph Serret, Serret-Frenet, Cauchy-Riemann, differential equations, calculus, physics, astronomy, differential geometry
-description: Joseph Serret, famous mathematician, proved a version of the Cauchy-Riemann differential equations, wrote influential textbooks and published papers on calculus and analytic geometry. He also solved problems in physics and astronomy, contributed to differential geometry and used theory of curves.
+keywords: joseph serret,serret
+description: Joseph Serret was a French mathematician best remembered for the Serret-Frenet formulas for a space-curve.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Serret** was a French mathematician best remembered for the Serret-Frenet formulas for a space-curve.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered and proved a version of the Cauchy-Riemann differential equations, which showed a fundamental connection between complex analysis and calculus.
-2. Wrote influential textbooks on topics in calculus and analytic geometry.
-3. Published important papers on mathematical topics such as differential equations, higher algebra, and higher geometry.
-4. Proved that the tangent line at a given point on an algebraic curve is determined by the equation of the curve.
-5. Was among the first to apply calculus to solve problems in physics and astronomy such as the problem of calculating the moon's orbit around the Earth.
-6. Showed that the apsidal precession (the change in the orientation of an orbital ellipse as it rotates around its focus as time passes) is consistent with the principle of energy conservation.
-7. Contributed to the development of differential geometry.
-8. Used the theory of curves to study the motion of a planet under an inverse-square law of attraction.
+* Joseph was born at 397 Rue St Honoré, Paris.
+* He had an older sister who was also born in Paris; Marie Ernestine Serret was born on 12 September 1812.
+* Serret graduated entered the École Polytechnique in Paris in 1838 and, after two years of study, graduated in 1840.
+* From 1836 the École des tabacs took students exclusively from the École Polytechnique and Serret was in one of the six classes of classes of students which they recruited, namely the mathematics and mechanics class.
+* However, after working in the tobacco factory for a while Serret resigned his position and returned to Paris.
+* For his two theses, following an oral examination, Serret was awarded his doctorate in 1847 and, in the following year, he was appointed as an entrance examiner for the École Polytechnique; he held this position until 1862.
+* Serret took over some of his duties although Francoeur's chair was given to Jean-Marie Duhamel.
+* On 26 November 1853, Serret married Cecile Marie Amélie Thomas, the daughter of Charles Jules Thomas and Cécile Herpin.
+* In 1856 Serret took over some of Urbain Le Verrier's lecturing duties, and he did so again from 1861 to 1863.
+* In 1860 Serret was elected to the Académie des Sciences, the position having become vacant following the death of Louis Poinsot in December of the previous year.
+* Jean-Claude Bouquet took over Serret's lecture courses at the Faculty of Science in 1871 and was appointed professor of differential and integral calculus in 1874.
+* However, Serret became a member of the Bureau des Longitudes in 1873.
+* Serret did important work in differential geometry.
+* Together with Pierre Bonnet and Joseph Bertrand he made major advances in this topic.
+* The fundamental formulae in the theory of space curves are the Frenet-Serret formulae.
+* Serret also published papers on number theory, calculus, the theory of functions, group theory, mechanics, differential equations and astronomy.
+* A second edition of the text only differed slightly from the first edition but, in 1866, a third edition was published which contained much new material, a lot of which was a consequence of Serret's only researches.
+* Several of Serret's books were translated into German and proved popular textbooks.
+* During his lifetime Serret was honoured with election to the Paris Academy of Sciences and, after his death, he has been honoured with a Paris street named for him.
 
 Born 30 August 1819, Paris, France. Died 2 March 1885, Versailles, France.
 

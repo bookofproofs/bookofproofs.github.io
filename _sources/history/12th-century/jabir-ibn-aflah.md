@@ -7,10 +7,10 @@ orderid: 1100
 title: Jabir Ibn Aflah
 born: 1100
 died: 1160
-keywords: Jabir ibn Aflah, cyclic quadrilateral, mean speed theorem, decimal system, algebra, mu`adad, geometric progression, proof by contradiction
-description: Jabir ibn Aflah was an Islamic mathematician who developed theorems for the cyclic quadrilateral, the decimal system and geometric progression, and was the first to use both algebra on positives and negatives, and proof by contradiction.
+keywords: jabir ibn aflah,jabir
+description: Jabir ibn Aflah or Geber was an Spanish Islamic mathematician whose works were translated into Latin and so became available to European mathematicians.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jabir ibn Aflah** or **Geber** was an Spanish Islamic mathematician whose works were translated into Latin and so became available to European mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theorem relating the lengths of the sides of a cyclic quadrilateral to its opposite angles.
-2. Developed the concept of a mean speed theorem.
-3. Developed the decimal system of numbers and the operation of division.
-4. Was the first to use algebraic operations on both positive and negative numbers.
-5. Developed the concept of mu`adad into the Hindu-Arabic numerals.
-6. Developed a method for solving second-order algebraic equations.
-7. Developed theorems on determining the centers of gravity of various plane and solid figures.
-8. Developed the notion of a geometric progression.
-9. Was the first to use 'proofs by contradiction' in geometry.
-10. Developed methods for finding the area of a triangle and a trapezoid by computing the parameters of their bases.
+* Very little information is available regarding Jabir ibn Aflah's life.
+* Moses Maimonides, whose Arabic name was Abu 'Imran Musa ibn Maymun ibn 'Ubayd Allah, was a Jewish philosopher, jurist, and physician who was born in Córdoba in 1135.
+* These criticisms appears in Jabir ibn Aflah's most famous work Islah al-Majisti Ⓣ(Correction of the Almagest).
+* One sees that ibn Aflah even puts his argument regarding errors made by Ptolemy into the title of the work.
+* Ptolemy claimed that these planets could never be on a line between an observer on Earth and the sun., but ibn Aflah states that this is an error, and that Venus and Mercury are above the Sun.
+* Both may be based on the work of Thabit ibn Qurra, or the work of ibn Aflah, Abu'l-Wafa, and Thabit ibn Qurra may all be based on some still unknown source.
+* The influence of ibn Aflah is quite remarkable.
+* In particular the author looks at his influence on the Persian astronomer Qutb al-Din al-Shirazi, who was a pupil of Nasir al-Din al-Tusi; on the Hispano-Arabian philosopher ibn Rushd, who is often known as Averroes, was born in Córdoba in 1126 and integrated Islamic traditions and Greek thought; and on Levi ben Gerson (sometimes known as Gersonides).
+* One of ibn Aflah's more infamous influences was on Regiomontanus who copied large parts of ibn Aflah's work in the fourth book of his publication De triangulis.
+* Regiomontanus did not acknowledge that ibn Aflah was the source of the material and this caused Cardan to strongly criticise Regiomontanus.
 
 Born about 1100, possibly Seville (now Spain). Died about 1160.
 

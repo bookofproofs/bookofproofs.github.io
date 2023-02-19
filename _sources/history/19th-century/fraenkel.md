@@ -7,10 +7,10 @@ orderid: 1891
 title: Fraenkel, Adolf Abraham Halevi
 born: 1891
 died: 1965
-keywords: Abraham Fraenkel, Axiomatic Set Theory, Mathematical Logic, Measure Theory, Transcendental Numbers, Automorphic Functions, Grundlagen der Mengenlehre
-description: Abraham Fraenkelwas a mathematician who revolutionized axiomatic set theory and mathematical logic with contributions such as measure theory and transcendental numbers.
+keywords: abraham fraenkel,fraenkel
+description: Abraham Fraenkel was a German-born mathematician who made contributions to axiomatic set theory. He is the F in the ZFC axioms for set theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,44 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abraham Fraenkel** was a German-born  mathematician who made contributions to axiomatic set theory. He is the **F** in the **ZFC** axioms for set theory.
 
 ### Mathematical Profile (Excerpt):
-1. Devised a method for constructing models of set theory, which facilitated a deeper understanding of the mathematical concept of infinity.
-2. Pioneered a systematic approach to axiomatic set theory.
-3. Founded the modern axiomatization of infinite set theory.
-4. Published a foundational paper on mathematical logic, in the area of axiomatics, which remains a standard reference in set theory today.
-5. Pioneered and advanced the approach to measure theory of functions.
-6. Developed the concept of automorphic functions and Ramanujan tau functions.
-7. Contributed to the study of transcendental numbers and algebraic equations.
-8. Achieved the solution of the continuum hypothesis in set theory.
-9. Co-authored a definitive work on abstract set theory, entitled "Grundlagen der Mengenlehre" (Foundations of Set Theory).
+* Abraham, the subject of this biography, was known as Adolf until later in his life when he went to Palestine and from that time on called himself Abraham.
+* However, to avoid confusion, we will refer to him as Abraham throughout this biography.
+* Fraenkel began his education at the age of five when his parents employed a private tutor for the young child.
+* He entered the Luitpold Gymnasium which had been founded by Prince Luitpold of Bavaria in 1891, the year in which Fraenkel was born.
+* Fraenkel was an outstanding pupil, receiving the grade "very good" in every subject he studied.
+* In common with most students in Germany in his time, Fraenkel studied for periods at different universities.
+* Fraenkel served in the German army, mostly involved in the medical corps but also for a short time in the meteorological service.
+* Finding a home in which to live was very difficult in post-war Germany and Fraenkel and his wife lived in a flat in Kurt Hensel's Marburg home.
+* Fraenkel had submitted his set theory book Einleitung in die Mengenlehre Ⓣ(Introduction to set theory) to the publisher Teubner, but it had been rejected.
+* In 1921 Fraenkel published Die neueren Ideen zur Grundlageng der Analysis und Mengenlehre Ⓣ(The newer ideas in the basics of calculus and set theory) and, in the following year, Über den Begriff "definit" und die Unabhängigkeit des Auswahlaxioms Ⓣ(On the notion of 'definite' and the independence of the  axiom of choice), Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre Ⓣ(On the foundations of  Cantor-Zermelo set theory) and Axiomatische Begründung der transfiniten Kardinalzahlen Ⓣ(Axiomatic justification of transfinite cardinal numbers).
+* This work presented in these papers came out of Fraenkel's research on the independence of Zermelo's set theory postulates.
+* Fraenkel was promoted to professor in Marburg in 1922.
+* Fraenkel was a fervent Zionist and he left Kiel to teach at the Hebrew University of Jerusalem from 1929, joining the university four years after its foundation.
+* Now one might imagine that Fraenkel, as a Zionist, would be enthusiastic about accepting an invitation from the Hebrew University of Jerusalem but this would be an over simplification.
+* He wrote to Rabbi Abraham Isaac Kook asking for advice on whether, because of its secular nature, he should accept an invitation to teach the Hebrew University.
+* Fraenkel changed his first name from Adolf to Abraham after his arrival in Palestine.
+* At the Hebrew University, Fraenkel became dean of the faculty.
+* Einstein also gave Fraenkel advice on physics appointments to the Hebrew University.
+* At this time there were many difficulties at the Hebrew University regarding its future direction, and Fraenkel had many battles over these issues.
+* Back in Kiel, he was approached by Erhard Tornier who asked Fraenkel for a position in Kiel so that he might learn from him.
+* Fraenkel agreed but, in 1932, Tornier joined the Nazi party and, after Hitler came to power in the early part of 1933, Tornier made it clear that he wanted to inherit Fraenkel's chair.
+* Fraenkel qualified under this exemption clause but, on 25 April, he applied for leave of absence.
+* Fraenkel was to spend the rest of his career at the Hebrew University, being appointed the first Dean of the Faculty of Mathematics, and serving as the rector of the university during 1938-40.
+* It was during these years that Abraham Robinson, who had emigrated from the United States to Palestine when a high school pupil in 1933, was his student.
+* It could not afford to continue to pay Fraenkel's salary but it was saved by the American Friends of the Hebrew University in New York who stepped in to subsidise Fraenkel's chair.
+* On 2 February 1947, Fraenkel wrote to Erich Kamke (1890-1961) who had been dismissed from his professorship in 1937 because his wife was Jewish.
+* Fraenkel had been a member of the German Mathematical Society from 1914 until his membership was terminated in 1939.
+* Fraenkel refused and, later in January 1951, he again wrote to Kamke acknowledging receipt of the restarted Jahresbericht with its memorial table of those mathematicians who had died since 1933, saying that the memorial table and the new democratic spirit pleased him, but he still could not rejoin.
+* As we saw above, Fraenkel's first work was on Hensel's ppp-adic numbers and on the theory of rings, but he is best known for his work on set theory, publishing his first major work on the topic Einleitung in die Mengenlehre Ⓣ(Introduction to set theory) in 1919.
+* This is named after Zermelo, Fraenkel and Skolem.
+* Fraenkel wrote several important books.
+* Fraenkel also published many articles relating to Jewish mathematics and Jewish mathematicians, for example Jewish mathematics and astronomy (1960).
+* A number of Fraenkel's students have made important contributions to mathematics including Abraham Robinson who succeeded him when he retired from his chair at the Hebrew University in 1957.
+* Fraenkel's time at the Hebrew University had been one of many difficulties, particularly in the last ten years of his career.
+* After retiring Fraenkel did not give up teaching, continuing to lecture at Bar Ilan University, near Tel Aviv.
+* We have already mentioned that Fraenkel was a fervent Zionist.
+* Fraenkel was also a member of the Merkaz Ruhani religious movement within Zionism.
+* Finally, let us mention that Fraenkel's brother Joel Eugen married Esther and they had a son Aviezri who became a mathematician making major contributions to combinatorial game theory.
 
 Born 17 February 1891, Munich, Germany. Died 15 October 1965, Jerusalem, Israel.
 

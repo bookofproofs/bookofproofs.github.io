@@ -7,10 +7,10 @@ orderid: 1914
 title: Baiada, Emilio
 born: 1914
 died: 1984
-keywords: analysis, topology, differential equations, mathematics, education, Poincare Conjecture, non-linear processes
-description: Emilio Baiada performed mathematical research in analysis, topology, differential equations, and wrote articles on mathematics education and the Poincare Conjecture. He also established an institute and conducted research in non-linear processes.
+keywords: emilio baiada,baiada
+description: Emilio Baiada was an Italian mathematician who worked in analysis, topology and differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Emilio Baiada** was an Italian mathematician who worked in analysis, topology and differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Served as an adjunct professor of mathematics at the University of Guadalajara in Mexico for two years (1998 - 2000).
-2. Developed two research papers on the mathematics of human cognition for the American Mathematical Society (AMS) in 1998.
-3. Participated in The International Congress on Mathematical Education (ICME) in 1998.
-4. Published a book on the mathematical education of elementary and middle school children in Mexico in 2002.
-5. Established the Interdisciplinary Institute of Mathematics in Mexico in 2002 to promote mathematics education among teachers in the country.
-6. Became the first Mexican mathematician to receive the Mexican National Award of Mathematics in 2004.
-7. Authored numerous articles in mathematics journals, including a groundbreaking piece on the Poincare Conjecture in 2004.
-8. Supervised and mentored graduate research projects in mathematics at the National Autonomous University of Mexico from 2004 - 2010.
-9. Developed an non-linear equation through the study of non-linear processes in 2009.
-10. Conducted semester long research fellowship at the Mathematical Research Institute (MRI) in Oberwolfach, Germany from 2013 - 2014.
+* Not only did Baiada receive the laurea but he was awarded the Michel Prize for best dissertation.
+* After the war ended, Baiada returned to his position at the Scuola Normale Superiore in Pisa.
+* Baiada attended the four hundred sixty-fifth meeting of the American Mathematical Society which was held at the University of Cincinnati on Friday and Saturday 23-24 February 1951.
+* In 1952, after taking part in a competition for the Chair of Analysis at the University of Palermo, Baiada took up the position.
+* This was a very active period for Baiada who, also in 1955, published the single-authored paper La limitatezza, gli zeri di una funzione e i coefficienti di Eulero-Fourier Ⓣ(Limits, the zeroes of a function and the Euler-Fourier coefficients).
+* Baiada also did important work with Vinti on perimeters of sets.
+* It is worth noting that this was just one of three jointly authored papers that Baiada published in the Proceedings of this Syracuse conference.
+* Baiada left Palermo in 1961 and moved to Modena in when he was appointed Professor of Mathematical Analysis at the University of Modena.
+* We have mentioned some of Baiada's publications above but we note that his output totals 60 scientific publications on a wide range of different fields in analysis: ordinary and partial differential equations, Fourier series and the series expansion of orthonormal functions, topology, real analysis, functional analysis, calculus of variations, measure and integration, optimisation, and the theory of functions.
 
 Born 12 January 1914, Tunis, Tunisia. Died 14 May 1984, Modena, Italy.
 

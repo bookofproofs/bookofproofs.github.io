@@ -7,10 +7,10 @@ orderid: 1130
 title: Al-Samawal
 born: 1130
 died: 1180
-keywords: Al-Samawal, arithmetic, polynomials, induction, equations, geometry, pi
-description: Al-Samawal developed theories related to arithmetic, polynomials, induction, equations, geometry, and pi, making key discoveries and laying the groundwork for philosophers like Euclid.
+keywords: al-samawal,al-samawal
+description: Al-Samawal was an Islamic mathematician who was able to extend the arithmetic operations to handle polynomials. He used an early form of induction.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Samawal** was an Islamic mathematician who was able to extend the arithmetic operations to handle polynomials. He used an early form of induction.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote a treatise on the theory of equations, known as “Al-Fakhri”. 
-2. Developed a new way of solving quadratic equations by completing the squares.
-3. Developed rules to determine when a quartic equation is solvable by radicals.
-4. Developed the basic properties of ratios and proportions, which was later used by philosophers like Euclid and others.
-5. Provided geometric means between two given numbers.
-6. Introduced the concepts of the negation of a number and the sum of infinitely many numbers.
-7. Gave an improved version of Euclid’s proof of the Pythagorean theorem.
-8. Developed an important method for determining the area of a triangle.
-9. Provided the first known approximate value for pi.
+* Abul-Abbas was born in Fez in Morocco and later moved to Baghdad where he was living at the time of al-Samawal's birth.
+* Al-Samawal's mother, Anna Isaac Levi, had moved from Basra in Iraq.
+* Certainly al-Samawal was brought up in a family where learning was highly valued and the first topic which interested him was medicine.
+* At about the same time as he began to study medicine, al-Samawal also began to study mathematics.
+* Baghdad at this time was not a great centre for mathematical learning, and al-Samawal had soon mastered all the mathematics which his teachers knew.
+* In order to take his mathematical studies further, al-Samawal had to study on his own.
+* His most famous treatise al-Bahir fi'l-jabr, meaning The brilliant in algebra, was written when al-Samawal was only nineteen years old.
+* Al-Samawal's predecessors had begun to develop what has been called by historians today the "arithmetisation of algebra".
+* This will strongly suggest to mathematicians today that al-Samawal was developing the study of polynomial rings and indeed this is a fair description of the work he was undertaking.
+* After defining polynomials, al-Samawal describes addition, subtraction, multiplication and division of polynomials.
+* Al-Samawal could not have described arithmetic operations on powers of the unknown without having developed an understanding of negative numbers.
+* Multiplication of negative numbers was also completely understood by al-Samawal.
+* In Book 2 of al-Bahir al-Samawal describes the theory of quadratic equations but, rather surprisingly, he gave geometric solutions to these equations despite algebraic methods having been fully described by al-Khwarizmi, al-Karaji, and others.
+* Also in this book is al-Samawal's description of the binomial theorem where the coefficients are given by the Pascal triangle.
+* The method is attributed by al-Samawal to al-Karaji and provides the only surviving account of this remarkable work.
+* Perhaps one of the most remarkable achievements appearing in Book 2 is al-Samawal's use of an early form of induction.
+* Al-Karaji had failed to solve this problem, which explains why al-Samawal was particularly pleased to solve it.
+* Of course such a system of 210 equations need not be consistent and al-Samawal gave the 504 conditions which are necessary for the system to be consistent.
+* After writing the al-Bahir al-Samawal travelled in many countries including Iraq, Syria, Kohistan (a mountainous area in Pakistan and Afghanistan) and Azerbaijan (northwestern of Iran).
+* We know from his own writings that he was in Maragheh in Azerbaijan on 8 November 1163, for on that date al-Samawal made a commitment to the faith of Islam.
+* This decision was not taken without a great deal of thought by al-Samawal.
+* Of course al-Samawal's father, being Jewish, would have found his son's conversion to Islam a painful experience and al-Samawal, not wishing to hurt his father, delayed his conversion for four years.
+* After this time al-Samawal wrote to his father setting out his reasons for changing his religion from the Jewish faith to Islam.
+* At this time the much travelled al-Samawal was in Aleppo, in northern Syria, and his father set out at once to see him on receiving the letter.
+* However, al-Samawal's father died on the journey before seeing his son.
+* We mentioned that al-Samawal was trained in medicine in his youth.
+* Several rulers, always keen to have the best possible doctors, became patients of al-Samawal.
+* The only medical work by al-Samawal which has survived is essentially a sex manual which includes many erotic stories.
+* The work exhibits the fact that al-Samawal was a good scientific observer in his descriptions of various diseases.
+* In particular al-Samawal shows that he is interested in the psychological aspects of disease.
+* Most of the works of al-Samawal have not survived, but he is reported to have written 85 books or articles.
+* Some other of al-Samawal's mathematical writings have survived but these are elementary works of relatively little importance.
+* Al-Samawal's elementary texts were clearly teaching books.
+* Another of al-Samawal's surviving works is The exposure of the errors of the astrologers which, as the title suggests, argues against the scientific value of astrology.
 
 Born about 1130, Baghdad, Iraq. Died about 1180, Maragha, Iran.
 

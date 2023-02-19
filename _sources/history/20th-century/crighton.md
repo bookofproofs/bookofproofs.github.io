@@ -7,10 +7,10 @@ orderid: 1942
 title: Crighton, David George
 born: 1942
 died: 2000
-keywords: Crighton's Theorem, Euler equations, partial differential equations, Navier-Stokes equations, Hamiltonian systems, Royal Society, Royal Medal
-description: David Crighton was a Welsh mathematician notable for developing Crighton's Theorem, solving the Euler and Navier-Stokes equations, and other pioneering work contributing to fluid flow and acoustics theories.
+keywords: david crighton,crighton
+description: David Crighton was a Welsh mathematician who worked on fluid flow and acoustics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Crighton** was a Welsh mathematician who worked on fluid flow and acoustics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an important mathematical theory called Crighton's Theorem, which is integral to understanding partial differential equations.
-2. Solved the two-dimensional Euler equations for incompressible fluids, resulting in Crighton's Theorem.
-3. Provided a counterexample to the Lindemann-Weierstrass theorem, ultimately proving the theorem.
-4. Pioneered the study of partial differential equations, which forms the backbone of many physics equations.
-5. Solved the Navier-Stokes equations of fluids, generalizing the works of Augustin-Louis Cauchy and Navier.
-6. Encouraged the development of Hamiltonian systems, which have applications to many physics problems.
-7. Published over 160 influential papers in mathematics and related fields.
-8. Authored three textbooks, including a popular one on partial differential equations.
-9. Awarded the Fellow of the Royal Society and the Royal Medal in recognition of his work in mathematics.
-10. Received the De Morgan Medal from the London Mathematical Society for his work on flow theory.
+* Crighton related later in his life that it was this challenge which made him change from his intended career in classics, and switch to mathematics and physics for his main school subjects over his final two years at secondary school.
+* After completing his studies at Watford Grammar School, Crighton entered St John's College, Cambridge, in 1961.
+* We should note that Woolwich Polytechnic has since then became the University of Greenwich, but at the time Crighton joined it, it did not have university status.
+* A chance meeting with John Ffowcs Williams, who was an expert in aeroacoustics on the mathematics staff at Imperial College, London, changed Crighton's career.
+* Crighton's first publication was in 1970 when Radiation from turbulence near a composite flexible boundary appeared in the Proceedings of the Royal Society of London.
+* This paper Crighton studied the sound wave associated with a turbulent fluid flow over a discontinuous surface formed by two semi-infinite flexible planes.
+* Crighton's successive spells as head of department, chairman of school, and chairman of the science board (effectively Dean), left in every case indelible marks of his imagination and effectiveness, tough decisions being invariably coupled with a genuine concern for the individuals affected.
+* David looked at his diary and said: "How about Mondays at 7 o'clock?" "Am or pm," the student inquired - to which the reply was: "Whichever you prefer".
+* In 1986 Batchelor retired as professor of applied mathematics at Cambridge and Crighton was appointed to succeed him.
+* Crighton became Head of the Department of Applied Mathematics and Theoretical Physics at Cambridge in 1991.
+* In 1993 Crighton was elected to a Fellowship of the Royal Society.
+* We have described above the contents of Crighton's first research paper.
+* At that meeting Crighton talked on Lighthill and acoustics.
+* In fact Crighton's mathematical work was very much in the same area as that of Lighthill and he shared with Lighthill another passion, namely music and opera.
 
 Born 15 November 1942, Llandudno, Wales. Died 12 April 2000, Cambridge, England.
 

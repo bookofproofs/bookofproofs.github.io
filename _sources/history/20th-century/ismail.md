@@ -7,10 +7,10 @@ orderid: 1950
 title: Ismail, Gamal
 born: 1950
 died: 0
-keywords: Gamal Ismail, Mathematics, Math Models, Algorithms, Quantum Theory, Fractal Math, Dynamical Systems Theory
-description: Gamal Ismail is an Egyptian mathematician known for developing math models and algorithms, quantum theory, fractal math, and dynamical systems theory.
+keywords: gamal ismail,ismail
+description: Gamal Ismail is an Egyptian mathematician who became Professor of Pure Mathematics at the University College of Women for Art, Science and Education at Ain Shams University in Cairo in 1995.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gamal Ismail** is an Egyptian mathematician who became Professor of Pure Mathematics at the University College of Women for Art, Science and Education at Ain Shams University in Cairo in 1995.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a series of highly advanced mathematical models for predicting natural disasters.
-2. Developed powerful algorithms for simulating chaotic dynamical systems.
-3. Published numerous influential papers on quantum theory, making him one of the leading mathematicians in the field.
-4. Discovered a novel method for solving complex equations, which led to the development of powerful numerical methods.
-5. Developed a new mathematical theory of complexity, which was instrumental in the development of artificial intelligence.
-6. Led the development of an entirely new mathematical form known as Fractal Mathematics.
-7. Played a major role in the development of dynamical systems theory and chaos theory.
-8. Developed advanced mathematical models for forecasting currency markets.
-9. Developed a unique mathematical system for quantifying risk in stock markets.
-10. Created revolutionary new methods for solving differential equations.
+* They had three children, Assmaa Ismail, Ayman Ismail and Ihab Ismail.
+* After being awarded a Master of Science Degree, Ismail was appointed as an assistant lecturer in mathematics at Ain Shams University in 1976.
+* Ismail was awarded a Ph.D. in 1985 for her thesis Accuracy of the multi-step methods for solving differential equations.
+* No papers by Ismail appear to have been published for ten years after the award of her thesis, but in 1995 she was promoted to associate professor and appointed as manager of the Computer Unit at the Women's College of Ain Shams University.
+* Further papers by Ismail followed: A new higher order effective P-C methods for stiff systems (1998); Stability of nonequidistant variable order multistep methods for stiff systems (2000); A numerical technique for the 3-D Poisson equation (2003), Efficient numerical solution of 3D incompressible viscous Navier-Stokes equations (2004) and A new approach to construct linear multistep formulae for solving stiff ODEs (2005).
+* Also in 2005 Ismail published Modified technique for solving advance-delay differential systems in the journal Mathematical and computer modelling.
+* After this unfortunate publication, sadly Ismail does not appear to have published any further papers.
+* Let us end this biography by noting that Ismail is a member of the Egyptian Mathematics Society and gives her other interests as reading, listening to music, tennis and travel.
 
 Born 29 October 1950, Zagazig, El Sharkia, Egypt.
 

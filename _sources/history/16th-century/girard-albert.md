@@ -7,10 +7,10 @@ orderid: 1595
 title: Girard, Albert
 born: 1595
 died: 1632
-keywords: Albert Girard, trigonometry, logarithms, equations, probability theory, decimal fraction, analytic geometry
-description: Albert Girardwas a French mathematician-musician: first to use trigonometry abbreviations, developed logarithms, equations, probability theory & fraction integration, and wrote a treatise on calculus.
+keywords: albert girard,girard
+description: Albert Girard was a French mathematician and musician. His work on trigonometry is the first to use the abbreviations sin, cos, tan.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Albert Girard** was a French mathematician and musician. His work on trigonometry is the first to use the abbreviations sin, cos, tan.
 
 ### Mathematical Profile (Excerpt):
-1. He introduced the concept of logarithms in 1625.
-2. He developed mathematics related to equations and probability theory. 
-3. He wrote 'Logarithmorum Chilias Prima', a book in which he expanded on his work on logarithms.
-4. He was the first person to use a decimal fraction in his work.
-5. He developed a table of logarithms, which was a major advance in mathematical calculation and made calculation much faster and easier.
-6. He was the first mathematician to use the symbols in equations instead of words.
-7. He made significant contributions to the development of analytic geometry and the integration of fractions.
-8. He also worked on the Triple Bar Theorem, and wrote a treatise on it, which was integral to developing calculus.
+* Jacob Golius was about the same age as Girard but began studying mathematics at the University of Leiden some years earlier.
+* When Constantijn Huygens (Christiaan Huygens' father) wrote a congratulatory note to Golius on his mathematics appointment, he praised the work of Girard, particularly on refraction, which certainly suggests that the two had continued to exchange ideas.
+* We know however that by the time Huygens wrote this letter, Girard was serving as an engineer in the army of the Prince of Orange, Frederick Henry of Nassau.
+* Girard worked on algebra, trigonometry and arithmetic.
+* Stevin had produced tables of sines, tangents and secants which were greatly improved by Girard who published his version in 1626.
+* Girard gives the triangle later known as Pascal's triangle and uses it as the basis for developing a theorem on symmetric functions, although he has no idea of them as such.
+* Girard calls Pascal's triangle the "triangle of extraction".
+* Since the highest power of the unknown is 4, Girard states clearly that there are four roots "neither more nor less".
+* Like many mathematicians of his day Albert Girard was interested in military applications of mathematics and in particular studied fortifications.
+* It appears that Girard spent some time as an engineer in the Dutch army although this was probably after he published his work on trigonometry.
+* Girard worked on producing Les Oeuvres mathématiques de Simon Stevin augmentées par Albert Girard but died in 1632 before the work was published; this happened in 1634.
+* Hence the 'Oeuvres' can be used to study Stevin's own thought, but one must be careful not to ascribe Girard's unmistakable interpolations to Stevin.
+* Sarton notes that Girard wrote a "strange commentary" on Stevin's ideas on the "age of wisdom".
+* The second thing which Albert Girard mentions, is a way of exhibiting a series of rational fractions, that converge to the square root of any number proposed, and that very fast.
+* Girard cannot be credited with the invention of continued fractions as a result of his brilliant observations but again his genius shines through.
+* In fact one is left with a little sadness that Girard's name is not today well-known yet one feels that things could have been different if he had taken the time to fully explain the things he obviously understood and also taken some time to push a little further some of his amazing insights.
 
 Born 1595, St Mihiel, France. Died 8 December 1632, Leiden, Netherlands.
 

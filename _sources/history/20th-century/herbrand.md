@@ -7,10 +7,10 @@ orderid: 1908
 title: Herbrand, Jacques
 born: 1908
 died: 1931
-keywords: mathematical logic, Gödel's incompleteness theorems, Herbrand's theorem, Herbrand models, Tarski, Cut Elimination Theorem, Herbrand Disjunction, Boolean functions
-description: Jacques Herbrand was a French mathematician who made key contributions to mathematical logic, like proving Herbrand's theorem, formulating Herbrand models, and showing Boolean functions can be expressed as disjunctions.
+keywords: jacques herbrand,herbrand
+description: Jacques Herbrand was a French mathematician who died young but made contributions to mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jacques Herbrand** was a French mathematician who died young but made contributions to mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. He provided foundational work in mathematical logic and was a major contributor to Gödel's incompleteness theorems.
-2. Proved Herbrand's theorem, an important result in first-order logic.
-3. Formulated and applied the concept of Herbrand models in the study of the completeness and decidability of theories in first-order logic.
-4. Developed a completeness theorem for first-order predicate logic that was later expanded upon by Alfred Tarski.
-5. Showed in his doctoral dissertation how the Cut Elimination Theorem can be used for proving the normalization theorem for first-order logic.
-6. Formulated Herbrand Disjunction which states that any formula of first-order logic can be written as a disjunction of a finite number of clauses.
-7. Showed how any Boolean function can be expressed as a finite disjunction of clauses.
+* However, Herbrand had already made major breakthroughs in the topic while an undergraduate so his success in the area was well established.
+* In October of the same year Herbrand joined the army for his military service.
+* After his spell in the army, Herbrand was awarded a Rockefeller fellowship to allow him to study at various places in Europe.
+* From Berlin, Herbrand went to Hamburg where he spent the month of June working with Artin.
+* After leaving Göttingen, Herbrand decided on a holiday in the Alps before his intended return to France.
+* See the newspaper reports of the accident in the article Herbrand's accident.
+* It is incredible how much Herbrand achieved in the short time he had to undertake mathematical research.
+* He made contributions to mathematical logic where Herbrand's theorem on the theory of quantifiers appears in his doctoral thesis.
+* Herbrand's theorem establishes a link between quantification theory and sentential logic which is important in that it gives a method to test a formula in quantification theory by successively testing formulas for sentential validity.
+* Since testing for sentential validity is a mechanical process, Herbrand's theorem is today of major importance in software developed for theorem proving by computer.
+* Herbrand also worked on field theory considering abelian extensions of algebraic number fields.
+* In the few months on which he worked on this topic, Herbrand published ten papers.
+* Herbrand also generalised some of the results by these workers in class field theory as well as proving some important new theorems of his own.
+* For more information about Chevalley writings on Herbrand's thought see the article Chevalley on Herbrand.
 
 Born 12 February 1908, Paris, France. Died 27 July 1931, La Bérarde, Isère, France.
 

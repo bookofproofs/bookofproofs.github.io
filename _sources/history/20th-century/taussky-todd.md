@@ -7,10 +7,10 @@ orderid: 1906
 title: Taussky-Todd, Olga
 born: 1906
 died: 1995
-keywords: Olga Taussky-Todd, algebraic number theory, matrix theory, numerical analysis, Jordan–Gauss elimination, zero-one principle, quadrature formulae
-description: Olga Taussky-Todd, an Austrian-born mathematician, developed theories in algebraic number theory and matrix theory, such as the Jordan–Gauss elimination and the zero-one principle. She also authored numerous scholarly articles and supervised two Ph.D. students.
+keywords: olga taussky-todd,taussky-todd
+description: Olga Taussky-Todd was an Austrian born mathematician who worked on algebraic number theory and matrix theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Olga Taussky-Todd** was an Austrian born mathematician who worked on algebraic number theory and matrix theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first comprehensive introduction to numerical analysis, titled Introduction to Numerical Analysis.
-2. Developed an efficient method for solving systems of linear equations using iterative methods.
-3. Pioneered numerical linear algebra, developing the Jordan–Gauss elimination to solve systems of equations.
-4. Co-developed the Euler–Taussky matrix polynomial, which is widely used in areas of applied mathematics and engineering.
-5. Developed the “zero-one principle” for problem-solving, which is related to the application of linear algebra to determine optimal solutions.
-6. Authored over fifty scholarly papers in the fields of algebra and number theory.
-7. Supervised the thesis of two Ph.D. students.
-8. Co-developed the Tauberian theory for asymptotic expansions of integrals. 
-9. Developed a theory of capacity for integral equations based on quadrature formulae.
-10. Co-developed a theory of cyclotomic algebraic functions to solve Diophantine equations.
+* Olga was the middle child of three girls, with three years separating her both from her older sister and from her younger sister.
+* When Olga was three years old the family moved to Vienna.
+* There Olga attended primary school and although she did well, her older sister was the star pupil.
+* Olga received the top or second top grade for arithmetic but her favourite subjects were essay writing and grammar.
+* In 1916 the Taussky family moved again, this time to Linz where Olga's father had a job as director of a vinegar factory which, in addition to vinegar made jams and soft drinks.
+* When she was 14 years old Olga entered the high school where she spent a year before studying at the Gymnasium.
+* Olga's father died when she was in her final year at school so she increased her tutoring to try to help out the family finances.
+* At Vienna Olga was taught by Furtwängler, Hahn, Wirtinger, Menger, Helly and others, while she was a fellow student of Gödel.
+* They spent some time in Belfast with Jack's mother and some time in Oxford where Taussky-Todd's College had moved to avoid the London air raids.
+* At this time Taussky-Todd wrote some papers on group theory, for example studying groups in which, in today's terminology, every subnormal subgroup is normal.
+* Given leave of absence from her College to undertake war work, Taussky-Todd worked at the National Physical Laboratory ay Teddington between 1943 and 1946.
+* Just to illustrate this let us note that during this time Taussky-Todd wrote several papers which were published by the Ministry of Aircraft Production in London.
+* These papers she published under the name Olga Todd, while most of her other papers she wrote under the name Olga Taussky, with a few latter papers written under the name Olga Taussky-Todd.
+* In 1947 Olga and Jack when to the United States, with the original intention of spending a year there, and they worked at the National Bureau of Standards' National Applied Mathematics Laboratory after spending a while at the Institute for Advanced Study at Princeton working on von Neumann's computer project.
+* In 1955 Taussky-Todd and her husband spent a year's leave at the Courant Institute in New York where she taught a matrix theory course and her husband taught a numerical analysis course.
+* In 1957 Olga and Jack both accepted appointments at the California Institute of Technology.
+* Olga's best-known and most influential work was in the field of matrix theory, though she also made important contributions to number theory.
+* Finally we should mention some of the many honours Taussky-Todd received for her mathematical contributions.
+* Taussky-Todd served on the Council of the London Mathematical Society (1946-47 and she served on the Council of the American Mathematical Society (1972-78).
 
 Born 30 August 1906, Olmütz, Austro-Hungarian Empire (now Olomouc, Czech Republic). Died 7 October 1995, Pasadena, California, USA.
 

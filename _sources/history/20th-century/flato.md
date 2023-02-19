@@ -7,10 +7,10 @@ orderid: 1937
 title: Flato, Moshé
 born: 1937
 died: 1998
-keywords: Moshé Flato, mathematics, physics, partial differential equations, Frobenius theorem, quantum mechanics, functional analysis
-description: Moshé Flato, Israeli-born French mathematician and physicist, applied mathematics, physics and partial differential equations to research quantum mechanics and other fields.
+keywords: moshé flato,flato
+description: Moshé Flato was an Israeli-born French mathematician and theoretical physicist. He applied group theoretic methods to problems in physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Moshé Flato** was an Israeli-born French mathematician and theoretical physicist. He applied group theoretic methods to problems in physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of partial differential equations in three-dimensional space. 
-2. Established the Frobenius theorem for infinite-dimensional Lie algebras and applied it to the study of representations of Lie algebras.
-3. Discovered Lie-theoretic and differential geometric methods applicable to the microscopic description of certain physical systems. 
-4. Found and studied general solutions for certain types of partial differential equations and related equations of mathematical physics.
-5. Helped to develop a framework for understanding quantum mechanics and its application to quantum field theory.
-6. Researched the use of nonlocal continuum systems of equations in mathematical physics, hydrodynamics and thermodynamics.
-7. Wrote several textbooks on mathematical analysis, including one on nonlinear partial differential equations. 
-8. Contributed to the advancement of the field of functional analysis.
+* She was a student of psychology when she met Shlomo Flato in a Tel Aviv cafe.
+* Moshé's mother wanted to continue her career after her child was born and so a governess was employed to look after Moshé.
+* However, Moshé did not appreciate the arrangement so eventually his mother had to give up her ambitions regarding a career, and bring up her child.
+* Moshé's parents spoke to him in Hebrew but he was surrounded by family members who spoke Polish and Russian.
+* Other family friends spoke German so Moshé grew up speaking many languages.
+* However Moshé was not the 'ideal pupil' and continued to play pranks which led to frequent punishments.
+* Flato survived but insisted on telling the truth about the operation rather than giving an 'official version'.
+* After the award of his Master's degree, Flato served as a lieutenant in the Israeli Air Force.
+* The theme of these papers is to connect the external symmetry properties of a physical system as represented by its invariance under the inhomogeneous Lorentz group (called by Flato the Poincaré group) or its Lie algebra, and the internal symmetry properties as represented by various unitary groups.
+* Flato became a French citizen on 10 March 1967 and in 1968 he was appointed as Professor of Mathematics at the University of Dijon.
+* In 1977 Flato was appointed to the Gevrey's chair of mathematics at Dijon.
 
 Born 17 September 1937, Tel Aviv, British Mandate for Palestine (now Israel). Died 27 November 1998, Paris, France.
 

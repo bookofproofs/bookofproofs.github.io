@@ -7,10 +7,10 @@ orderid: 420
 title: Domninus Of Larissa
 born: 420
 died: 480
-keywords: Domninus, Greek, 19th Century, Pentagonal Numbers, Pythagorean Theorem, Irrational Quantities, Cubic Equations, Euclidean Algorithm
-description: Domninus, a Greek philosopher, made several mathematical contributions in the 19th Century, such as proving pentagonal numbers and discovering the Pythagorean Theorem.
+keywords: domninus,domninus
+description: Domninus was a Greek philosopher whose mathematical work was not appreciated until it was published in the 19th Century.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Domninus** was a Greek philosopher whose mathematical work was not appreciated until it was published in the 19th Century.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the main theorem of pentagonal numbers, which states that the sum of any two adjacent pentagonal numbers is equal to the sum of the two numbers preceding them.
-2. Discovered the Pythagorean Theorem with a new proof that did not involve the construction of any triangles.
-3. Demonstrated the theorem of irrational quantities, which states that any ratios of two irrational numbers must either be irrational, a whole number, or a simple fraction. 
-4. Developed a method for solving cubic equations algebraically. 
-5. Proposed the Euclidean Algorithm for finding the greatest common divisor of two numbers.
+* Proclus, although slightly older than Domninus, was also a pupil of Syrianus at the Academy at the same time.
+* If at first Domninus and Proclus were merely student rivals, certainly it grew into a more serious disagreement centred on how Plato's philosophy should be interpreted.
+* Proclus succeeded Syrianus as head of the Academy in Athens while, a short while later, Domninus left Athens and returned to his home town of Larissa.
+* The mathematical work of Domninus only came to light after the publication of his Manual of Introductory Arithmetic in 1832, and its importance was not realised until Paul Tannery began publishing a number of works on Domninus in 1884.
+* At the end of the book Domninus says that he intends to treat some of the subjects more fully in Elements of Arithmetic but it is not known if he ever wrote it! Certainly he would not be the first or last mathematician to refer to a future work which never materialised.
+* Heath casts some doubt as to whether this book is actually by Domninus.
+* if it not by Domninus, it probably belongs to the same period.
+* We do have some indications of the character of Domninus, but these may be very unfair since they are related to us by Damascius, the last head of the Academy.
+* Since Domninus's philosophy was considered old-fashioned and out of favour by the Academy the claims made by Damascius may have been aimed at discrediting him.
 
 Born about 420, Larissa (now Shaizar), Syria. Died about 480.
 

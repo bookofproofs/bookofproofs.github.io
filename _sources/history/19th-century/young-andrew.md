@@ -7,10 +7,10 @@ orderid: 1891
 title: Young (5), Andrew
 born: 1891
 died: 1968
-keywords: Andrew Young, Edinburgh, St Andrews, London Universities, theorem, polynomial, linear equations, mathematical system, proof, analytic geometry, integral equation, optimization, differential equations, physical system
-description: Andrew Young graduated with degrees from Edinburgh & St Andrews & London Universities, then trained as a lawyer & worked as a solicitor in Edinburgh. He also explored various mathematics fields such as theorem, polynomial, linear equations and more.
+keywords: andrew young,young
+description: Andrew Young graduated from Edinburgh and taught at St Andrews and London Universities. He then trained as a lawyer and worked as a solicitor in Edinburgh for the rest of his career.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Andrew Young** graduated from Edinburgh and taught at St Andrews and London Universities. He then trained as a lawyer and worked as a solicitor in Edinburgh for the rest of his career.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theorem relating to the fundamental equations of a mathematical structure. 
-2. Discovered a process for computing the magnitude of an nth-order polynomial.
-3. Proved the existence and uniqueness of a solution to a system of linear equations.
-4. Derived an expression characterizing the behavior of a mathematical system in a special set of circumstances.
-5. Constructed a proof regarding the properties of a particular mathematical equation.
-6. Investigated the properties of a particular analytic geometry problem.
-7. Developed an algorithm for calculating the values of a certain integral equation.
-8. Developed a new method for solving a specific type of optimization problem.
-9. Explored the relationship between a certain set of differential equations and the behavior of the system.
-10.Studied the behavior of a certain physical system in terms of the underlying mathematics.
+* Andrew was educated at Townshead Public School, Montrose, where he spent trhree months, Broughton Public School, Edinburgh, where he spent two and a half years, then at George Watson's College, Edinburgh where he spent seven years.
+* Young was appointed a Lecturer at the University of St Andrews in 1914 and then he moved to the University of London, again as a lecturer.
+* In 1919, Young left the academic world and became the representative in Bremen, Germany, of Messrs S M Bulley & Son, Cotton Merchants of Liverpool.
+* This major change in career was not the only one which Young made for, in 1926, he decided to change again, this time taking up law.
+* In December 1913 Young joined the Edinburgh Mathematical Society.
+* Young was elected to the Royal Society of Edinburgh on 1 March 1937, his proposers being Charles H O'Donoghue, Alexander Craig Aitken, Sir Ernest M Wedderburn,Sir Edmund T Whittaker.
+* Andrew Young married Margaret Macgregor in 1920.
 
 Born 10 October 1891, Lanton, Jedburgh, Roxburghshire, Scotland. Died 20 July 1968, Edinburgh, Scotland.
 

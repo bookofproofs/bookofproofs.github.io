@@ -7,10 +7,10 @@ orderid: 1899
 title: Herzberger, Maximilian Jacob
 born: 1899
 died: 1982
-keywords: Maximilian Herzberger, optics, trigonometric functions, elliptic integrals, polynomials, quantum theory, calculus
-description: Maximilian Herzberger, a German-American mathematician and physicist, contributed to optics and developed new mathematical algorithms, researched elliptic integrals, and found solutions to number theory issues, contributing to modern calculus and quantum theory.
+keywords: maximilian herzberger,herzberger
+description: Maximilian Herzberger was a German-American mathematician and physicist who made impoertant contributions to optics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Maximilian Herzberger** was a German-American mathematician and physicist who made impoertant contributions to optics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed new mathematical algorithms to determine the behavior of certain trigonometric functions.
-2. Conducted extensive research into elliptic integrals, contributing to a better mathematical understanding of this field.
-3. Created a new method for finding the roots of polynomials, which has been cited in numerous publications by other mathematicians.
-4. Assisted in the development of the modern quantum theory by providing important contributions to its mathematics.
-5. Discovered a new family of equations related to hypergeometric functions.
-6. Pioneered the application of calculus to celestial mechanics.
-7. Devised new methods for calculating pi and other constants in Euclidean space.
-8. Discovered innovative solutions to problems in number theory, including Fermat's Last Theorem.
-9. Demonstrated the integral theorem, greatly contributing to the development of calculus.
-10. Enhances the understanding of spherical and hyperbolic surfaces by providing a general description of these geometric forms.
+* His father was the merchant Leopold Herzberger (born 1870) and his mother was Sonja Behrendt (1876-1945).
+* There seems some confusion as to his date of birth (some give 17 March) but the date we give is the date which Herzberger himself gives in his doctoral thesis.
+* However, Herzberger expressed heartfelt thanks to Professor Pahl, his mathematics teacher.
+* Despite being excused lessons, Herzberger took the final examinations at the end of each year and his performance was outstanding.
+* Herzberger hated the idea of law so, eventually after much argument, a compromise was reach and he entered the Friedrich-Wilhelm University of Berlin at Easter 1917 on the chemistry course.
+* In addition to those just mentioned, Herzberger states in his thesis that he had been taught by Belovsky, Blasius, E Fischer, Gabriel, Grau, Henning, Fr Koehler, Liebisch, and H Maier.
+* When Herzberger graduated in 1923 the situation in Germany was extremely difficult with daily living dominated by hyperinflation.
+* Herzberger had to decide which industry would suit him best with his outstanding mathematical skills, yet with a lack of laboratory experience and a dislike of the chemistry practical work that he had experienced at university.
+* Obtaining these positions allowed Herzberger to marry Edith Kaufmann in 1925; they had three children, all born in Jena, Ruth (born 1928), Ursula (born 1931) and Hans (born 1932).
+* His attempt to habilitate at the University of Jena in 1930 was rejected by the Thuringian Ministry, despite strong support from the Jena faculty, almost certainly because Herzberger was Jewish.
+* However, worse was to follow for Herzberger.
+* In fact Herzberger was the only mathematician dismissed from the University of Jena under the 1933 Civil Service Law.
+* In 1962 Herzberger was awarded the Frederic Ives Medal by the Optical Society of America.
+* In the citation for the award, Herzberger's achievements are described.
+* Dr Herzberger, with the algebraic approach, has the ambition to make clear the entire phenomena of optical imagery in such a manner that the required lens design will follow logically and even obviously from prescribed performance requirements.
+* Not only did Herzberger solve the correction for colour distortion with a combination of only three glasses or lens.
+* In 1965 Herzberger retired from his position as Head of Optical Research at Eastman Kodak but he certainly did not give up his scientific work.
+* With the help of physicist George Loup and the UNO computer, Herzberger proceeded to wade through the approximate 30 million combinations of the more than 300 commercially available glasses, taken three at a time, in order to arrive at the most practical combinations for his triplet lens.
+* Herzberger continued to hold the position at the University of New Orleans until 1978 when he retired for the final time.
 
 Born 7 March 1899, Charlottenburg, Berlin, Germany. Died 9 April 1982, New Orleans, USA.
 

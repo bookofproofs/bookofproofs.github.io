@@ -7,10 +7,10 @@ orderid: 1845
 title: Brocard, Pierre René Jean Baptiste Henri
 born: 1845
 died: 1922
-keywords: Brocard, French Mathematician, Triangle, Bretschneider’s Theorem, Euler's Theorem, Prime Numbers, Binary Quadratic Forms
-description: Henri Brocard, a French mathematician, discovered properties of triangles, prime numbers & binary quadratic forms. He further developed theorem like Bretschneider’s and Euler's to study tangents & circles.
+keywords: henri brocard,brocard
+description: Henri Brocard was a French mathematician best known for his discovery of the so-called Brocard points of a triangle.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Henri Brocard** was a French mathematician best known for his discovery of the so-called _Brocard points_ of a triangle.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Brocard–Rais Rajabii theorem, a generalization of the Bretschneider’s theorem on arithmetic triangle centers.
-2. Researched "Euler's theorem on homogeneous polynomials" and the property of its solutions known as Euler's totient function.
-3. Discovered certain properties of prime numbers, now known as Brocard's theorem.
-4. Proved the Pauli–Hermann theorem; this was in relation to the Brocard's problem, where given an integer m, the problem is to find a triangle whose side lengths are in arithmetic progression with a common difference of m.
-5. Developed the theory of binary quadratic forms and formulas which relate prime numbers to their binary representations.
-6. Formulated a theorem which gives an upper bound for the number of cyclotomic divisors for a given positive integer.
-7. Published a paper on the number of intersecting points when two circles are inscribed in a square.
-8. Investigated a problem involving tangents to circles known as  "Brocard’s problem of four circles”.
+* Brocard studied at the École Polytechnique from 1865 to 1867.
+* Most graduates at this time became technical officers in the military forces and indeed that is exactly the route which Brocard took, joining the Engineering Corps in the French Army.
+* Brocard taught for a short while in Montpellier.
+* Brocard was with the 120,000 French troops under Marshal MacMahon accompanied by Napoleon III.
+* Brocard was one of 83,000 French soldiers taken as prisoners of war at Sedan.
+* After Brocard was released he returned to his army life of teaching and research.
+* The French Mathematical Society, Société Mathématique de France, was founded in 1872 and Brocard joined the Society in the year after it was founded.
+* Brocard took part in the scientific life of Algiers, being a cofounder of the Meteorological Institute there, and a member of the local committee of the meeting of the  French Association for the Advancement of Science in Algiers in 1881.
+* At this meeting Brocard delivered a paper Études d'un nouveau cercle du plan du triangle Ⓣ(Studies of a new circle related to the triangle)  which contains what is known today as the 'Brocard circle' (see below).
+* During his ten years in North Africa, Brocard also spent time in Oran, which was occupied by the French in 1831 and turned by them into a modern port and major naval base.
+* In 1884 Brocard returned to France where he served with the Meteorological Commission in Montpellier, Genoble and Bar-le-duc.
+* Let us look at the triangle for which Brocard is famed.
+* The Brocard points of a triangle ABCABCABC are V,WV, WV,W where VAB,VAB,VAB, VBCVBCVBC and VCAVCAVCA and the angles WBAWBAWBA, WCBWCBWCB and WACWACWAC are equal.
+* The Brocard circle is that drawn on a diameter, the end points of which are the circumcentre and symmedian point of the triangle.
+* It passes through the Brocard points.
+* Although best known through this work on the triangle, Brocard also made other contributions which have proved important.
+* In 1880 Brocard showed that each dog's pursuit curve would be that of a logarithmic spiral and that the dogs would meet at a common point.
+* This point is now known as the Brocard point of the triangle.
+* Brocard spent the last years of his life in Bar-le-Duc as a somewhat solitary figure.
 
 Born 12 May 1845, Vignot (part of Commercy), France. Died 16 January 1922, Bar-le-Duc, France.
 

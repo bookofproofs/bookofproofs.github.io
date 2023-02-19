@@ -7,10 +7,10 @@ orderid: 1808
 title: Kelland, Philip
 born: 1808
 died: 1879
-keywords: Philip Kelland, Edinburgh, Mathematics, Invariants, Algebraic Geometry, Texts, Harvard
-description: Philip Kellanddeveloped the modern theory of invariants and wrote influential texts at Edinburgh and Harvard, unifying algebra and geometry.
+keywords: philip kelland,kelland
+description: Philip Kelland became professor of mathematics at Edinburgh and worked on heat, light and water waves.
 references: bookofproofs$6909
-contributors: @Alex-D-D-Craik,bookofproofs,@ChatGPT
+contributors: @Alex-D-D-Craik,bookofproofs
 
 ---
 
@@ -23,12 +23,12 @@ contributors: @Alex-D-D-Craik,bookofproofs,@ChatGPT
 **Philip Kelland** became professor of mathematics at Edinburgh and worked  on heat, light and water waves.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the modern theory of invariants, which helped unify the fields of algebra and geometry.
-2. Pioneered the study of the algebraic foundations of calculus.
-3. Used the theory of invariants to solve many problems in classical algebraic geometry.
-4. Authored several influential texts on the subject of mathematics, including "An Introduction to Invariant Theory" and "An Introduction to the Theory of Differential Invariants".
-5. Founded the influential lectures at Harvard University known as the "Kelland Lectures".
-6. Served as an editor of Philosophical Magazine and The Cambridge Mathematical Journal.
+* Phillip Kelland (died 1847), curate of Dunster, Somerset and then rector of Landcross, Devon.
+* Kelland was ordained in the Church of England and was a fellow of Queens' College during 1834-38.
+* In Edinburgh, Kelland joined with James D Forbes, the Professor of Natural Philosophy, in supporting reforms of the Scottish university system.
+* For many years, Kelland served as secretary of the Senatus of Edinburgh University.
+* Kelland produced a much-revised edition of John Playfair's Elements of Geometry and a successful textbook of Algebra.
+* Though not a research mathematician of the highest rank, Kelland had a great influence on the development of education in Scotland, and he attained a high standard of mathematical instruction.
 
 Born 17 October 1808, Dunster, Somerset, England. Died 7 May 1879, Bridge of Allen, Stirlingshire, Scotland.
 

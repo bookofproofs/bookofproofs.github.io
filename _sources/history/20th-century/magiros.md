@@ -7,10 +7,10 @@ orderid: 1912
 title: Magiros, Demetrios G
 born: 1912
 died: 1982
-keywords: Demetrios Magiros, mathematician, algebraic equations, calculus, probability, number theory, analytical geometry
-description: Demetrios Magiros was a Greek-American mathematician known for his contributions to algebraic equations, calculus, probability, number theory, and analytical geometry.
+keywords: demetrios magiros,magiros
+description: Demetrios Magiros was a Greek-born American mathematician whose main interest was on the stability of dynamical systems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Demetrios Magiros** was a Greek-born American mathematician whose main interest was on the stability of dynamical systems.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the general theory of algebraic equations based on the concepts of algebraic geometry.
-2. Instituted a reform in the teaching of mathematics in Greece, introducing calculus and analytical geometry in the classroom.
-3. Founded the journal "Mathematical Courier" and published numerous research papers on mathematical topics such as probability theory, number theory, and analytic geometry.
-4. Pioneered the practice of using equations to solve geometric problems.
-5. Developed an original method of solving algebraic equations.
-6. Researched and published on irrational numbers, algebraic functions, and transcendental equations.
-7. Developed theoretical solutions to the problem of conic sections.
-8. Established the foundations of higher mathematics to the Greek scientific community.
-9. Used algebraic techniques to prove the famous problem of the transfer of tangents.
-10. Discovered and proved the theory of the approximation of real numbers by rationals.
+* In 1949 Magiros went to the United States where he studied applied mathematics at Brown University, then the Courant Institute of Mathematical Sciences in New York, and finally at the Massachusetts Institute of Technology.
+* Magiros was then appointed as professor of mathematics and mechanics at Hofstra University in Hempstead, New York (founded in 1935 on land donated by businessman William S Hofstra).
+* In 1960 Magiros left his position at Hofstra University to take up full time research activities at the Space and Missile Center of the General Electric Company.
+* One of Magiros' main interests was on the stability of dynamical systems.
+* Magiros wrote other papers on stability such as The stability in the sense of Lyapunov, Poincaré and Lagrange of some precessional phenomena (1970) and Remarks on stability concepts of solutions of dynamical systems (1974).
+* Other papers which Magiros wrote include these all published in 1976: On the linearization of nonlinear models of the phenomena.
+* Two papers which Magiros published in 1977 are: Nonlinear differential equations with several general solutions  in which he gives specific devices for finding solutions of some nonlinear ordinary differential equations; and The general solutions of nonlinear differential equations as functions of their arbitrary constants  presenting some nonlinear differential equations for which, surprisingly, some superposition does occur, that is, there are families of solutions depending linearly on arbitrary constants.
 
 Born 19 December 1912, Euboia Island, Greece. Died 19 January 1982, Philadelphia, Pennsylvania, USA.
 

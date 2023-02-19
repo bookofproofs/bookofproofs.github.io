@@ -7,10 +7,10 @@ orderid: 1907
 title: Chowla, Sarvadaman
 born: 1907
 died: 1995
-keywords: Chowla, Number Theory, Algebra, Cauchy-Davenport Theorem, Sieve Theory, Riemann Hypothesis, Indian Institute of Science
-description: Sarvadaman Chowlawas a British-born Indian mathematician awarded the Padma Bhushan, elected Fellow of the Royal Society, and Founding Father of Analytic Number Theory.
+keywords: sarvadaman chowla,chowla
+description: Sarvadaman Chowla was a British-born Indian American mathematician, specializing in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sarvadaman Chowla**  was a British-born Indian American mathematician, specializing in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. He was awarded the Padma Bhushan award for his services to science and literature in 1959. 
-2. He was the first Indian to be an elected Fellow of the Royal Society.
-3. He made significant contributions to the fields of Number Theory and Algebra. 
-4. He proved several well known theorems, including the Cauchy-Davenport Theorem, the Siegel-Sato Theorem, and the Chowla-Richert Conjecture. 
-5. He developed several novel approaches to solving problems in number theory, including the use of sieve theory. 
-6. He was a founding father of analytic number theory and made significant contributions to the Riemann Hypothesis. 
-7. He was the first person to prove the infinitude of primes in any arithmetical progression. 
-8. He became the first professor of mathematics at the Indian Institute of Science in Bangalore. 
-9. He established the Indian Mathematical Society and served as its president. 
-10. He founded the Journal of Number Theory in 1970.
+* Gopal Chowla visited England with his wife Shankuntala so that he could study at Cambridge University.
+* It was during the visit to England that Sarvadaman Chowla was born.
+* At the age of 21 Chowla was awarded his master's degree from Government College in Lahore.
+* After returning to India, Chowla was appointed professor of mathematics at St Stephen's College in Delhi, then at Benares Hindu University in Benares, then at Andhra University in Waltair, and finally at Government College of Punjab University in Lahore where he was Head of the Department of Mathematics from 1936 to 1947.
+* This period while Chowla was Head of Mathematics at Lahore was a very difficult one.
+* The Punjab, where Chowla worked, was in one of the most difficult positions being a Muslim majority province with a large Sikh community that had become anti-Muslim.
+* Chowla was in Lahore which the Indian Independence Act put in Pakistan, close to the new border with India.
+* There Chowla became a visitor at the Institute for Advanced Study in Princeton, where he remained until the autum of 1949 when he was appointed as professor at the University of Kansas at Lawrence.
+* After three years at the University of Kansas, Chowla moved to the University of Colorado at Boulder where he remained until 1963.
+* Chowla produced a remarkably rich research output, and his results in many of areas of number theory and combinatorics are of the greatest significance.
+* Among the theorems to which Chowla's name have been attached are the Bruck-Chowla-Ryser theorem on designs (1950); the Ankeny-Artin-Chowla theorem on the class number of real quadratic number fields (1952); the Chowla-Mordell theorem on Gauss sums (1962); and the Chowla-Selberg formula for the product of certain values of the Dedekind eta function.
+* Among the many honours given to Chowla were the Padmabhushan Award from the Indian National Academy of Sciences, to which he had been elected a member; and an honorary membership of the Royal Norwegian Society of Sciences and Letters.
 
 Born 22 October 1907, London, England. Died 10 December 1995, Laramie, Wyoming, USA.
 

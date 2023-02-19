@@ -7,10 +7,10 @@ orderid: 1952
 title: Cafaro, Emilio
 born: 1952
 died: 2015
-keywords: Cafaro, Integral Calculus, Transformations, Integration, Mathematics, Differential Equations, Galileo Prize
-description: Emilio Cafaro published papers, authored books, presented lectures, devised methods and applied mathematical concepts, earning him the Galileo Prize in 1939.
+keywords: emilio cafaro,cafaro
+description: Emilio Cafaro was an Italian mathematician who was an expert on thermo fluid dynamics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Emilio Cafaro** was an Italian mathematician who was an expert on thermo fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new form of calculus in 1936 entitled, "Cafaro Integral Calculus."
-2. Published three papers related to mathematics in 1938, 1942, and 1948 entitled "On the Transformations of Potential Functions," "A New Method of Integration," and "Geometric Theory of Surfaces."
-3. Authored the book, "Cafaro Calculus", in 1945, which was used as a textbook in mathematics classes for many years.
-4. Presented a series of lectures on different branches of mathematics from 1936 to 1946.
-5. Developed new techniques for solving differential equations using integral calculus.
-6. Devised a method for obtaining a numerical solution to integral equations which revolutionized mathematics at the time.
-7. Successfully applied mathematical concepts to various fields such as physics, engineering, mathematics and physics.
-8. Won the Galileo Prize for mathematical athletics in 1939.
+* Emilio Cafaro graduated in Physics at Pisa and then in Nuclear Engineering at the Politecnico di Torino in 1980.
+* Cafaro began publishing in 1984 when, in collaboration with N Bellomo and G Rizzi, he published On the mathematical modelling of physical systems by ordinary differential stochastic equations.
+* By the time Cafaro received his Ph.D. in 1989 he already had twelve publications.
+* Cafaro married Fiammetta Volterri on 30 March 1993; they had one daughter.
+* Cafaro was an expert on thermo fluid dynamics and had studied many aspects of fires.
+* For information about Cafaro's work on fires in enclosed spaces see the Abstract and the excerpt from the Introduction to his paper Deterministic-stochastic approach to compartment fire modelling (2009).
+* Among Cafaro's interests outside science, we mention his love of music.
+* His death has affected much the Turin university structure as Cafaro was known both for his collaborations with the Ministry of Infrastructure and for his studies carried out with researchers in the field of fire (he also collaborated with the Corpo dei Vigili del Fuoco).
+* Cafaro Emilio leaves his wife and a daughter.
 
 Born 14 July 1952, Lecce, Italy. Died 29 March 2015, Turin, Italy.
 

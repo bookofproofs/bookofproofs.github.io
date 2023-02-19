@@ -7,10 +7,10 @@ orderid: 1845
 title: Gubler, Salomon Eduard
 born: 1845
 died: 1921
-keywords: Eduard Gubler, Bessel functions, Riemannian Geometry, differential equations, complex and real analysis, harmonic morphisms, Gold Medal
-description: Eduard Gubler was a Swiss school teacher who dedicated his research to Bessel functions and Riemannian Geometry and was awarded the Gold Medal for his accomplishments.
+keywords: eduard gubler,gubler
+description: Eduard Gubler was a Swiss school teacher. His research interest was in the theory of Bessel functions.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Eduard Gubler** was a Swiss school teacher. His research interest was in the theory of Bessel functions.
 
 ### Mathematical Profile (Excerpt):
-1. Received the Grand Prix of the Swiss Mathematical Society in 1993 for his outstanding research results in the field of differential geometry.
-2. Authored the book "Global Riemannian Geometry" which is considered one of the main references for differential geometry.
-3. Published more than 50 research articles in international journals on topics ranging from Riemannian geometry to complex and real analysis.
-4. Established the several important tools for the study of Riemannian Geometry, including the theory of harmonic morphisms and the natural boundary calculus for harmonic maps.
-5. His research also includes applications of differential equations and partial equations, harmonic morphisms and singularity theory.
-6. Gave a lecture on Real holomorphic curves and differential equations in the Oregon Research Institute in 2002.
-7. Received a number of academic honors, such as the Gold Medal of the Basel Mathematical Society.
-8. Presented over 80 invited lectures and seminars at a wide range of international conferences, universities, and scientific societies.
+* His supervisor was Graf, which suggests that Gubler received his doctorate from the University of Bern.
+* In 1896 Gubler habilitated as Privatdozent at the University of Zürich with the paper Über ein discontinuirliches Integral Ⓣ(On a discontinuous integral) .
+* At the university, Gubler mainly lectured on algebraic analysis, number theory, higher algebra, planar and spherical trigonometry, integral calculus, and methodology of mathematics teaching at secondary schools.
+* Gubler's research interest was in the theory of Bessel functions, following the school of thought established by Schläfli's student Graf.
+* Together with Graf, Gubler published Einleitung in die Theorie der Bessel'schen Funktionen Ⓣ(Introduction to the theory of Bessel functions) (1898-1900).
+* Gubler co-founded the Swiss Society of Mathematics Teachers in 1901.
+* Gubler joined the enlarged organising committee of the first International Congress of Mathematicians in December 1896.
+* Gubler attended both the 1904 ICM in Heidelberg and the 1908 ICM in Rome, but did not give any talks.
 
 Born 7 July 1845, Wila, Zürich canton, Switzerland. Died 6 November 1921, Zürich, Switzerland.
 

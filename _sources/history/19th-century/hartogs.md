@@ -7,10 +7,10 @@ orderid: 1874
 title: Hartogs, Friedrich Moritz
 born: 1874
 died: 1943
-keywords: Hartogs, set theory, complex variables, Hartogs-Friedrichs theorem, Lusin's theorem, Urysohn metrization theorem, topological spaces
-description: Belgian mathematician Friedrich Hartogs made key contributions to set theory, complex variables, partial differential equations, and topological spaces, such as the Hartogs-Friedrichs and Lusin's theorems, and Urysohn metrization theorem.
+keywords: friedrich hartogs,hartogs
+description: Friedrich Hartogs was a Belgian mathematician, known for his work on set theory and foundational results on several complex variables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Friedrich  Hartogs** was a Belgian mathematician, known for his work on set theory and foundational results on several complex variables.
 
 ### Mathematical Profile (Excerpt):
-1. Hartogs established the Hartogs–Friedrichs theorem, which is used in partial differential equations to show that solutions to a hyperbolic equation depend continuously on the initial data.
-2. He contributed to the development of abstract measure theory, including the proof of Lusin's theorem, which has been referred to as the Hartogs–Lusin theorem.
-3. He also developed modern point-set topology and axiomatic set theory.
-4. He proved the Urysohn metrization theorem, a fundamental result in the study of topological spaces, in 1923. 
-5. Hartogs also made contributions to the fields of set theory, tensor calculus and calculus of variations.
+* His parents were Elise Feist and Gustav Hartogs, who was a businessman.
+* Despite being born in Brussels, Hartogs' family were German Jews and he was brought up in Frankfurt am Main in Germany.
+* At this time the standard university career for German students involved moving between different institutions and Hartogs followed this route.
+* In 1900, while still a student at the University of Berlin, Hartogs married in Hamburg; the couple had four children.
+* It was in 1901 that Pringsheim became a full professor at Munich and he became Hartogs's thesis advisor.
+* Hartogs submitted his thesis Beiträge zur elementaren Theorie der Potenzreihen und der eindeutigen analytischen Funktionen zweier Veränderlichen Ⓣ(Contributions to the elementary theory of power series and single valued analytic functions of two variables)  to the Ludwig-Maximilians-Universität Munich in 1903 and was awarded his doctorate with distinction in July of that year.
+* Following the acceptance of his habilitation thesis, Hartogs became a privatdozent at the University of Munich.
+* In session 1909-10 he taught Abraham Fraenkel who, years later, wrote in his memoirs that Hartogs was by nature a consistently shy and a rather anxious person.
+* Hartogs was indeed a very cautious person and he turned down the offer of this chair because, in the difficult financial climate of the time with hyperinflation gripping Germany, he did not feel confident that a privately owned institution, which the University of Frankfurt was, offered the security that he required to support his wife and four children.
+* At Frankfurt, Hartogs had several outstanding colleagues.
+* These three professors all made representations to the university arguing that Hartogs be appointed to a full professorship and in 1927, five years after turning down the full professorship at Frankfurt, he had at last reached the top of his profession.
+* Like all Jewish academics, after the Nazi Party came to power in 1933 Hartogs' life became increasingly difficult.
+* An attempt by the students at the University of Munich to unseat him was not successful as the Bavarian Secretary of Cultural Affairs upheld the conditions of the law and retained Hartogs.
+* This little victory for Hartogs was only temporary, however.
+* The consequences for Hartogs were swift for, on 22 October, he was forced to retire from his professorship.
+* To continue with their visits would have meant that his colleagues would suffer severe consequences, so Hartogs became completely isolated.
+* Hartogs was one of those arrested and he was taken to the Dachau concentration camp.
+* Hartogs had always done his utmost to protect his family as we have already seen with his decision not to accept the chair at Frankfurt in 1922.
+* Hartogs' wife was a Aryan so he hoped that this would ensure that their home was safe.
+* In 1941 the Nazis introduced the compulsory yellow star badge that identified the wearer as a Jew causing Hartogs further distress.
+* It was in 1941 that Hartogs and his wife were given advice by a lawyer that in order to protect Hartogs' wife she should divorce him.
+* This was a painful process for Hartogs and the process was deliberately drawn out to be as lengthy as possible.
+* In early 1943 the divorce was finalised but Hartogs continued to live in his wife's house and the authorities turned a blind eye.
+* The indignity and humiliation that Hartogs had suffered for ten years finally became too much for him and in August 1943 he took his own life by taking an overdose of barbiturates.
+* Hartogs is best known for his results on the representation of analytic functions of several variables by means of power series.
+* In particular 'Hartogs' Theorem', which he included in his habilitation thesis and the resulting major 1906 paper, concerns the removability of compact singularities for holomorphic functions in n>1n > 1n>1 complex variables.
+* One special case of Hartogs' Theorem is known as 'Hartogs' Ball Theorem' which shows that any holomorphic function on an annular region of complex space of dimension greater than 1 can be extended to the disk containing that annulus.
+* Through his contributions to several complex variables, Hartogs became the founding father of the theory of complex analysis in several variables.
+* We end this biography by giving a few examples of Hartogs' publications: Über neuere Untersuchungen auf dem Gebiete der analytischen Funktionen mehrerer Variablen Ⓣ(On recent studies in the field of analytic functions of several variables) (1907); Über die aus den singulären Stellen einer analytischen Funktion mehrerer Veränderlichen bestehenden Gebilde Ⓣ(On the structure of singular points of an analytic function of several variables) (1909); Über die Bedingungen, unter welchen eine analytische Funktion mehrerer Veränderlichen sich wie eine rationale verhält Ⓣ(On the conditions under which an analytic function of several variables behaves like a rational) (1911); Über das Problem der Wohlordnung  Ⓣ(On the problem of well-ordering) (1915); Beweis des Jordanschen Kurvensatzes Ⓣ(Proof of the Jordan curve theorem) (1925); Über die Grenzfunktionen beschränkter Folgen von analytischen Funktionen Ⓣ(On the limited effects of limit functions of analytic functions) (1928); (with A Rosenthal) Über Folgen analytischer Funktionen Ⓣ(On the effects of analytic functions) (1928); (with A Rosenthal) Über Folgen analytischer Funktionen Ⓣ(On the effects of analytic functions) (1931); Zur Darstellung und Erweiterung der Baireschen Funktionen Ⓣ(On the presentation and extension of Baire functions) (1937); and Bemerkung zu meiner Arbeit über Bairesche Funktionen Ⓣ(Comments on my work on Baire functions) (1937).
 
 Born 20 May 1874, Brussels, Belgium. Died 18 August 1943, Munich, Germany.
 

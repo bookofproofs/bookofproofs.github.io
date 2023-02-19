@@ -2,14 +2,15 @@ layout: person
 nodeid: bookofproofs$Baumslag
 categories: history,20th-century
 parentid: bookofproofs$604
+tags: 
 orderid: 1933
 title: Baumslag, Gilbert
 born: 1933
 died: 2014
-keywords: group theory, Baumslag theorem, Baumslag-Solitar, conjugacy problem, coherent group, Shirshov-Baumslag, Weyl groups, remote sensing
-description: Gilbert Baumslag, world-renowned researcher of infinite group theory, published a book in 1965 & developed Baumslag's theorem, Baumslag-Solitar Groups & Weyl groups, using his knowledge in cryptography & remote sensing.
+keywords: gilbert baumslag,baumslag
+description: Gilbert Baumslag had a long career as one of the leading researchers on infinite group theory. In the last part of his career he used his skill in group theory applying it to cryptography.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -19,19 +20,41 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![baumslag.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Baumslag.jpg?raw=true)
 
-**Gilbert Baumslag** had a long career as one of the leading researchers on infinite group theory. In the last part of his career he used his skill in group theory applying it to cryptography. 
+**Gilbert Baumslag** had a long career as one of the leading researchers on infinite group theory. In the last part of his career he used his skill in group theory applying it to cryptography.
 
 ### Mathematical Profile (Excerpt):
-1. Published the book "Groups and Geometries" in 1965, laying the foundation for research in the geometry of groups for the next decade. 
-2. Established Baumslag's theorem, a landmark result in combinatorial group theory, which is now widely used in topological and geometric group theory. 
-3. Discovered the Baumslag-Solitar group, one of the first examples of a group that is not finitely presented.
-4. Solved the conjugacy problem in free products and amalgamated free products of groups in 1972. 
-5. Introducing the notion of a coherent group, an extended representation of a group.
-6. Influenced the development of tools and techniques that enabled the computer-aided study of groups. 
-7. Showed that the finiteness hypotheses in the Shirshov-Baumslag theorem are essential. 
-8. Proved the existence of ‘Weyl groups’ associated with finitely generated prosolvable groups. 
-9. Found methods to investigate the properties of certain distinctive subgroups of automorphisms of free products and amalgamated free products. 
-10. Used remote sensing in his early studies to visualize and understand the geometric structures of groups.
+* Gilbert was the oldest of his parents' three children, having a younger brother Benjamin Baumslag who became a group theorist working in much the same area as Gilbert, and a younger sister.
+* Gilbert was born in Johannesburg and attended schools in that city.
+* Ismail Mohamed was a student on the same course as Gilbert and he had taught himself group theory despite it not being part of the course at Wits.
+* He persuaded the university to put on an honours group theory course which Gilbert took.
+* We explain below how, in 1989, Gilbert supported efforts to free Ismail Mohamed from prison.
+* Baumslag was awarded a bachelor's degree by the University of the Witwatersrand in 1953 and he continued to study for a master's degree which he was awarded in 1955.
+* Baumslag was accepted by the University of Manchester to study for a Ph.D. and he sailed from Durban, South Africa, on the ship the Stirling Castle, arriving in Southampton, England, on 16 September 1955.
+* When Baumslag arrived in Manchester he was immediately introduced to a fellow Ph.D. student of B H Neumann, namely Jim Wiegold.
+* While Baumslag was undertaking research at Manchester, Joachim Neubüser spent a postdoctoral year 1957-58 there.
+* While studying at Manchester, Baumslag returned to South Africa in the summer of 1956, sailing from Southampton to Cape Town on the Carnarvon Castle on 7 June, returning on the ship the Capetown Castle from Cape Town to Southampton arriving on 5 October 1956.
+* We note that Baumslag's fellow postgraduate students Ian D Macdonald and Mike Newman graduated with  PhDs in 1960; Ian Macdonald with the thesis On Groups with Conditions like Finiteness of Conjugacy Classes and Mike Newman with the thesis On Groups All of Whose Proper Homomorphic Images are Nilpotent.
+* After the award of his Ph.D., Baumslag spent the year 1958-59 as a lecturer in Manchester before returning to South Africa where he married Sybil on 3 July 1959.
+* Gilbert and Sybil Baumslag had two children but we note at this point that Gilbert and Sybil were divorced on 17 September 1971 at Harris, Texas, USA.
+* They were travelling to Princeton where Baumslag had been appointed as an Instructor in Mathematics.
+* Baumslag and his wife spent the summer of 1961 in Europe, returning to the United States on 23 August 1961.
+* After a year, Baumslag was promoted to associate professor.
+* Baumslag became an American citizen on 2 July 1980.
+* All accepted our invitation and Gilbert chose to give his course of four lectures on A survey of groups with a single defining relation.
+* Like Gilbert Baumslag, he studied at the University of the Witwatersrand, obtaining a B.Sc. and an M.Sc. He obtained a scholarship to study for a Ph.D. at the University of London which he was awarded in 1960.
+* Gilbert, however, told me about his attempts to help people who were being discriminated against.
+* In 1989 Baumslag organised a year long conference on combinatorial group theory at the Mathematical Sciences Research Institute in Berkeley, California.
+* In 1991 Baumslag published the book Topics in combinatorial group theory.
+* The New York Group Theory Seminar was started by Wilhelm Magnus in around 1955 but after he retired in 1987 Baumslag took over running the seminar.
+* Later in his career, Baumslag became interested in the interaction between group theory and computer science.
+* Gilbert Baumslag's work on cryptography led to him publishing papers on the topic, the first three of which all appeared in 2006: Cryptosystems using linear groups; A proposed public key cryptosystem using the modular group; and Designing key transport protocols using combinatorial group theory.
+* Baumslag was married to Mary Kennedy and they lived in Manhattan and Long Island.
+* The remaining two authors dedicate the paper to the memory of Gilbert and to all the work that he inspired.
+* In 1985, at Groups St Andrews, Gilbert Baumslag gave a short course on one-relator groups which provided a look at the subject up to that point.
+* We look at the solution by Wise of Baumslag's residual finiteness conjecture and discuss a new Baumslag conjecture on virtually free-by-cyclic groups.
+* We examine various amalgam decompositions of one-relator groups and the Baumslag-Shalen conjectures.
+* Another project Baumslag was working on at the time of his death was the book A course in mathematical cryptography co-authored with Ben Fine, Martin Kreuzer and Gerhard Rosenberger.
+* Gilbert was one of the foremost researchers in the world in infinite group theory and developed many computational techniques for finitely presented groups.
 
 Born 30 April 1933, Johannesburg, South Africa. Died 20 October 2014, New York City, New York, USA.
 

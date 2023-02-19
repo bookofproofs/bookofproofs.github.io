@@ -7,10 +7,10 @@ orderid: 1924
 title: Klingenberg, Wilhelm Paul Albert
 born: 1924
 died: 2010
-keywords: Wilhelm Klingenberg, Differential Geometry, Elemente der Mathematik, Ruler & Compass, Homogeneous Coordinates, Projective Geometry, Cassini-Huygens Theorem
-description: Wilhelm Klingenberg was a German mathematician who worked on differential geometry and founded Elemente der Mathematik journal, made groundbreaking contributions to projective geometry, and co-authored papers with Italian mathematician Enriques. He is credited with the Cassini-Huygens theorem.
+keywords: wilhelm klingenberg,klingenberg
+description: Wilhelm Klingenberg was a German mathematician who worked on differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Wilhelm Klingenberg** was a German mathematician who worked on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the journal ‘Elemente der Mathematik’ in 1903 and served as its editor until his death in 1932.
-2. Contributed various articles to numerous mathematics journals over the course of his career.
-3. Published his book ‘Geometrie der Lage’ in 1905 which was the very first modern textbook containing constructions with a ruler and compass.
-4. Developed the theory of line and surface invariants with his doctoral student, Ziwet.
-5. Developed the concept of the homogeneous coordinates of a point on plane. 
-6. Conducted ground-breaking work in the field of projective geometry.
-7. Co-authored several important papers with Italian mathematician Enriques on projective geometry.
-8. Cassini-Huygens theorem is also named after him, recognizing his important contribution to the theorem.
-9. Made several other contributions to the field of manifolds and related topics. 
-10. His students and collaborators included some of the other leading mathematicians of the era such as Marx, Hilbert, Jamelstam, and Steinitz.
+* Wilhelm was the oldest of his parents' six children.
+* The family moved to Berlin in 1934, partly because there were better schools in Berlin and partly because Paul Klingenberg had joined the Bekennende Kirche, an organisation set up to oppose the Nazi Party's efforts to Nazify the Protestant Church.
+* Wilhelm attended schools in Berlin where he learnt Latin, Greek and French but he had to study mathematics on his own.
+* Klingenberg obtained a doctorate in 1950 with a thesis on affine differential geometry.
+* Klingenberg spent 1954/55 at Bloomington in the United States visiting Morse at Princeton during his time at Bloomington.
+* Although he remained on the staff at Göttingen until 1963, Klingenberg spent 1956/57 and 1957/58 at the Institute for Advanced Study at Princeton.
+* While at Berkeley, Klingenberg received offers of chairs at Würzburg and Mainz - he chose Mainz.
+* Klingenberg worked during his years at Bonn on closed geodesics.
+* In 1953 Klingenberg married Christine Kob, they have two sons and a daughter.
 
 Born 28 January 1924, Rostock, Mecklenburg, Germany. Died 14 October 2010, Röttgen, Bonn, Germany.
 

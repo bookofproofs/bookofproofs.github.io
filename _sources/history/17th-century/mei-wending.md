@@ -7,10 +7,10 @@ orderid: 1633
 title: Wending, Mei
 born: 1633
 died: 1721
-keywords: Fields Medal, symplectic four-manifolds, geometry, topology, Salem Prize, Chern Medal, Tsinghua University
-description: Mai Wending achieved numerous accolades in mathematics, including the Fields Medal and the Chern Medal, and was the director of Tsinghua University's Institute of Mathematics.
+keywords: mei wending,wending
+description: Mai Wending was a Chinese mathematician and astronomer who wrote on simultaneous equations and advocated the use of Western ideas in Chinese mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mai Wending** was a Chinese mathematician and astronomer who wrote on simultaneous equations and advocated the use of Western ideas in Chinese mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Won the Fields Medal, the highest honor in mathematics, in 2020. 
-2. One of the first mathematicians to study the properties of symplectic four-manifolds.
-3. Conducted pioneering work in geometry and topology and published over 50 research papers. 
-4. Won the Salem Prize in 2018 in recognition of her mathematics research.
-5. Named one of the 25 most influential people in Maths by Prime Numbers Magazine in 2012. 
-6. Member of both the Chinese Academy of Sciences and the Royal Society in 2020. 
-7. Appointed director of the Institute of Mathematics at Tsinghua University in 2015.
-8. Awarded the Chern Medal in 2010, in recognition of her work connecting geometry and topology.
+* He had three younger brothers, two of whom, Mei Wennai and Mei Wenmi, were both skilled mathematicians and astronomers.
+* Mei Wenmi, Mei Wending's youngest brother, produced an excellent star catalogue.
+* Continuing for a moment to give further family details, we note that Mei Wending's son Mei Yiyan, who died young, also became a skilled mathematician assisting his father.
+* Also Mei Wending's grandson, Mei Juecheng, became a particularly well-known as a mathematician.
+* To avoid confusion, from now on let us adopt the system of referring to Mei Wending as Mei, while referring to all other members of the Mei family by their full names.
+* These issues regarding the Chinese calendar were important ones during the years that Mei and his brothers were growing up, and they studied the mathematical and astronomical topics necessary for calendar design under the Daoist teacher Ni Guanghu.
+* China was in a transitional state during the years that Mei was growing up.
+* Mei's family remained loyal to the old Chinese Ming dynasty keeping themselves independent of the Manchu led administration.
+* Mei also tried to steer a course between the best of the old Chinese learning and the new European learning.
+* In his historical studies, Mei stressed that Chinese astronomy had improved from generation to generation, progressing from coarseness to accuracy.
+* This was Mei's historical rationale for synthesizing Western and Chinese knowledge.
+* Mei's first work was on astronomy and its relation to making calendars.
+* What did Mei argue in his 1662 work?
+* Mei argued that all sorts of errors in the ancient mathematical and astronomical texts had seriously impaired their transmission regardless of whether they were the corruption of printing boards, or mistakes in coping with a text, or commentating on a text without a proper understanding.
+* From this angle, Mei Wending suggested the possibility of integrating calendrical study into the newly emerging evidential scholarship and contended that the investigation of ancient calendars and ancient remains were of equal importance for understanding 'li'.
+* This emphasis on the great importance of astronomy led Mei to reject the claims of Confucian scholars such as Yang Guangxian who were satisfied with understanding the 'li' of astronomy without bothering with detailed calendrical calculations.
+* According to Mei, without engaging in complicated calendrical computation, 'li' simply could not be attained.
+* They were saved due to an earthquake hitting not long before the time set for their execution, but later Mei's arguments against Yang Guangxian succeeded since his lack of ability to make complicated calendrical computations became clear.
+* In fact this dispute led to the Emperor Kangxi becoming an enthusiast for mathematics, something which helped Mei in the later part of his career.
+* Mei's first mathematical work was the Fangcheng lun (On simultaneous linear equations) which he wrote in 1672.
+* Mei Wending clearly wished to demonstrate the superiority of early Chinese mathematics over the methods Western scholars had brought to China, and at least in this case, the example of simultaneous linear equations was an excellent one to stress.
+* Mei Wending, however, proposed two proofs, along with other applications of the theorem in his 'Gougu juyu' (Illustration of the Right-Angled Triangles) (written before 1692).
+* Mei used traditional Chinese methods in Jihe bubian (Complements of Geometry) Mei to calculate the volumes and relative dimensions of regular and semi-regular polyhedrons.
+* The Jihe tongjie (Complete Explanation of Geometry) contains Mei's approach to Euclidean geometry.
+* Around 1701 he wrote Lixue yiwen (Inquiry on Mathematical Astronomy) which greatly interested the Emperor Kangxi who then summoned Mei to an audience in 1703.
+* By this time Mei was seventy years old and went to Baoding to meet Emperor Kangxi taking his grandson Mei Juecheng with him.
+* Although this was the first meeting between Mei and the Emperor, earlier Mei had taught mathematics to the son of Li Guangdi, the Emperor's mathematical advisor, along with his own grandson Mei Juecheng at Baoding.
+* Mei was too old by this time to serve the Emperor but the discussions between Mei and the Emperor led eventually to the establishing of the Mengyangzhai (the Academy of Mathematics) in 1713.
+* Its main aim was to supervise the compilation of mathematical and astronomical works, and many of the mathematicians trained by Mei, including his grandson Mei Juecheng, were chosen to work at the Academy.
+* The ancient Chinese calendar makers had used a method of interpolation in their work and Mei explained their methods in his 1704 work Pinggliding sancha xiangshuo Ⓣ(A Detailed Account of third degree interpolation).
+* Mei Juecheng compiled and edited his grandfather's works and published them in Mei shi congshu jiyao Ⓣ(Collected Works of the Mei Family) in 1761.
+* For more details see Mei Juecheng's biography.
 
 Born 1633, Xuangcheng, now Xuanzhou, Anhui province, China. Died 1721, China.
 

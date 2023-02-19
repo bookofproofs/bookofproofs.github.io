@@ -7,10 +7,10 @@ orderid: 1930
 title: Foulis, David James
 born: 1930
 died: 2018
-keywords: Foulis Conjecture, Invariant functions, Frattini subgroup, Algebraic invariant theory, Dedekind domain, Kummer extension, Quasi-pseudovariety
-description: David Foulis was an American mathematician best known for his work on algebraic foundations of quantum mechanics incl., the Foulis Conjecture, Invariant functions & Frattini subgroup.
+keywords: david foulis,foulis
+description: David Foulis was an American mathematician who worked on the algebraic foundations of quantum mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Foulis** was an American mathematician who worked on the algebraic foundations of quantum mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Foulis Conjecture and proved it in 1967.
-2. Published an influential paper “Invariant functions on an elliptic curve” in 1957.
-3. Solved the Frattini subgroup problem in group theory.
-4. Contributed to many topics in algebraic invariant theory and birational algebraic geometry.
-5. Pioneered the concept of generalised Dedekind domain.
-6. Devised a new concept of the higher order Kummer extension.
-7. Proposed and studied the concept of a quasi-pseudovariety. 
-8. Established a bridge between the differential equations in algebraic geometry and theorems of algebraic geometry, leading to the development of the Foulis Theory. 
-9. Formulated the concept dyadically dividing an abelian group into two cyclic subgroups, introducing the dimensions and dimension theory.
+* His grandfather, David Foulis (1868-1950), was one of five brothers (David, Jim, Robert, John and Simpson) born in Scotland, three of whom were professional golfers, one, Simpson, was an amateur golfer and one, John, was a bookkeeper and golf ball maker.
+* David and Jim took out a patent on the mashie niblick, a wooden shafted club roughly equivalent to a modern seven iron.
+* Since this archive is based in St Andrews, Scotland, we must note that the five Foulis brothers were all born in St Andrews.
+* David Foulis, the subject of this biography, moved with his family to South Miami, Florida, when he was fifteen years old.
+* After the award of his Bachelor's degree, Foulis studied for a Master's degree in Mathematics beginning his studies in September 1952.
+* In September 1956 Foulis returned to Tulane University where he began undertaking research for his Ph.D. with Fred Boyer Wright Jr as his thesis advisor.
+* Al Clifford invited Gordon Preston to spend the two years 1956-58 working with him at Tulane University and Preston was also a major influence on Foulis.
+* Foulis then moved to the University of Massachusetts, Amherst.
+* Dedication to teaching meant that there was less time for Foulis to undertake research, so his next paper did not appear until 1968 when he published Multiplicative elements in Baer *-semigroups.
+* Randall, after working in the nuclear industry, obtained a position at the University of Massachusetts and had a close and fruitful collaboration with Foulis for twenty years until his death in 1987.
+* Richard Greechie, who was one of Foulis's graduate students gaining a Ph.D. with his thesis Orthomodular Lattices in 1966, recalls how devoted Foulis was to teaching his students.
+* Finally, we mention that Foulis published seven undergraduate textbooks.
+* Foulis has three children David, Dean and Scott.
 
 Born 26 July 1930, Hinsdale, Illinois, USA. Died 3 April 2018, Amherst, Massachusetts, USA.
 

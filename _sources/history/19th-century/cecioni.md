@@ -7,10 +7,10 @@ orderid: 1884
 title: Cecioni, Francesco
 born: 1884
 died: 1968
-keywords: algebra, equations, elliptic functions, transcendental functions, number theory, geometry, linear differential equations
-description: Italian mathematician Francesco Cecioni published extensively on algebra, equations, functions, number theory, geometry, and linear differential equations.
+keywords: francesco cecioni,cecioni
+description: Francesco Cecioni was an Italian mathematician who specialised in algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Francesco Cecioni** was an Italian mathematician who specialised in algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Published extensively on the theory of algebraic equations and related topics, including his celebrated 1888 treatise Resetting of the Theory of Algebraic Equations.
-2. Developed several new methods to facilitate the study of elliptic integrals and elliptic functions, helping to contribute to the theory of exact differential equations.
-3. Demonstrated a strong grasp of the theory of transcendental functions and their applications.
-4. Carried out groundbreaking research in the field of number theory and in 1902 completed his significant work, "The Theory of Irrational Numbers."
-5. Published several influential pieces on pure and applied mathematics, including works on algebraic geometry, projective geometry and the theory of quadratic forms.
-6. Developed novel methods to improve the theory of the zeta-function, which remains an important part of modern number theory.
-7. Pioneered the study of Heronian triangles, an important type of triangle.
-8. Demonstrated original thought in the field of linear differential equations, and made several novel contributions to the field of mathematical analysis.
+* There were two children in the family, Francesco (the subject of this biography) and his brother Giovanni.
+* Francesco's mother died when he was young which meant that the children had an even harder upbringing.
+* Francesco received a classical humanist education attending the Liceo Classico in Livorno despite his father wanting him to leave school and take up a job in the Municipality of Livorno.
+* Cecioni won a place to study at the Scuola Normale Superiore in Pisa where he came under the influence of Luigi Bianchi.
+* After graduating, in 1907 Cecioni was employed as an assistant in algebra and analytical geometry at the University of Pisa.
+* Cecioni became an infantry officer and for most of the war he fought on the Austrian front taking part in the fierce fighting which took place.
+* Cecioni did not continued teaching at the Istituto Nautico for long since he became Professor of Mathematics at the Naval Academy of Livorno.
+* Cecioni did not give up his position at the Naval Academy when appointed to the chair at the University but continued to hold both positions until 1942 when he left his role at the Academy.
+* Cecioni then moves on to recall the definition of the "row-column" product, its algebraic properties, the concept of permutable matrices, that of the exponent of a square matrix MMM, the notions of diagonal and unit matrices, the notion of matrix sum and difference, of a zero matrix and, in particular, of a linear function of a matrix (variable) XXX.
+* In the first and second chapters of his work, Cecioni discusses some particular linear equations between matrices, but he does this more generally by discussing the conditions of solubility and all of the possible solutions.
+* Cecioni's contribution to the didactics of elementary mathematics, as well as to the detailed study of that same elementary mathematics and of its foundations, is also remarkable.
+* On the theory of divisibility, Cecioni wrote the article Alcune osservazioni sulla teoria della divisibilità Ⓣ(Some observations on the theory of divisibility) (published in Boll.
+* This text includes a conspicuous part of Cecioni's lectures in Complementary Mathematics, he addressed to the students of Pisa University.
+* We are sure the reader will find stimulating and original points of views in Cecioni's conceptions, although, perhaps, he will not agree with the whole of Cecioni's view.
+* Let us return to Cecioni's career.
+* In fact this was the first volume of a major work which Cecioni was not able to complete due to deteriorating health and his death in 1968.
 
 Born 1 December 1884, Livorno, Italy. Died 30 September 1968, Livorno, Italy.
 

@@ -7,10 +7,10 @@ orderid: 1910
 title: Coulson, Charles Alfred
 born: 1910
 died: 1974
-keywords: Molecular, Physical, Chemistry, Orbitals, Theory, Electron, Resonance
-description: Charles Coulson developed multiple theories and pioneered the mathematical foundations of Quantum Mechanics, contributing to many areas of Molecular Physical Chemistry such as electron distributions, orbitals, and resonance structures.
+keywords: charles coulson,coulson
+description: Charles Coulson's main area of interest was molecular physical chemistry, but he contributed to many other areas.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Coulson**'s main area of interest was molecular physical chemistry, but he contributed to many other areas.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the classical and semi-classical molecular orbital theories, providing an explanation to the distribution of electrons in a molecule.
-2. Developed and calculated the first accurate values of the electron densities in molecules using his semi-classical molecular orbital theory. 
-3. Developed a two-dimensional mathematical representation of the behaviour of electrons around the nucleus of atoms and molecules.
-4. Established a connection between classical and quantum chemistry and pioneered the mathematical foundations of quantum mechanics.
-5. Discovered the correlation between the energy of an electron and the radius of its orbit.
-6. Popularized the famous Coulson-Fischer Integral theorem which not only greatly improved the accuracy of molecular computations, but also allowed for their mathematical formulation and calculation.
-7. Developed the mathematical framework behind the Excited State Theory that informs modern studies into the orbitals and geometries of molecules.
-8. Formulated the resonance theory which states that a molecule can have multiple resonance structures that cannot be accurately represented by only one bond structure.
+* His father was Alfred Coulson who became Principal of Dudley Technical College and went on to become an inspector of technical colleges.
+* Annie and Alfred Coulson had two children, twin sons Charles and John.
+* The family were Methodists and Charles and his brother were brought up in a very religious home; Charles' whole attitude to life was dominated by his Christian upbringing.
+* Charles was educated in Dudley up to the age of ten at which time his father joined the technical college inspectorate for south-west England and the family moved to Bristol.
+* Shortly after their marriage the couple moved to Dundee where Coulson was appointed as senior lecturer in mathematics at Queen's College, part of the University of St Andrews.
+* As a devout Methodist, Coulson was a conscientious objector during World War II.
+* In 1941 Coulson published Waves.
+* Clearly D E Rutherford, who taught applied mathematics at St Andrews, had assisted Coulson who expresses his thanks to him in the Preface.
+* In 1945 Coulson was appointed as a lecturer in mathematics at University College, Oxford, where he was also a fellow at the Physical Chemistry Laboratory.
+* Coulson thanks E T Copson in the Preface of the book for his help in preparing the text.
+* Coulson left his chair in London in 1952 when he was appointed Rouse Ball Professor of Mathematics at the University of Oxford where he was also made a fellow of Wadham College.
+* In 1970 Coulson underwent an operation for cancer of the prostate.
+* In fact Coulson was elected President of the Institute of Mathematics and its Applications in 1972 and held this position until his death.
+* Coulson was a talented expositor and this is demonstrated in all his works such as Waves and Electricity which we made special mention of above, and also his best-selling work Valence published in 1952.
+* Many honours were thrust on Coulson for his outstanding contributions to mathematics and chemistry.
+* However, one must not think that, because Coulson undertook such a massive amount of scientific work, he would have no time for other activities.
 
 Born 13 December 1910, Dudley, near Birmingham, England. Died 7 January 1974, Oxford, England.
 

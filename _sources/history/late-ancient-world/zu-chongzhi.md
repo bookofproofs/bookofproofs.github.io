@@ -7,10 +7,10 @@ orderid: 429
 title: Chongzhi, Zu
 born: 429
 died: 501
-keywords: Zu Chongzhi, mathematics, astronomer, pi, polynomial equations, Daming calendar, Jia Xun Shu
-description: Zu Chongzhi was a Chinese mathematician and astronomer who approximated pi to 6 decimal places and invented the Jia Xun Shu equation which could calculate pi to 365 digits.
+keywords: zu chongzhi,chongzhi
+description: Zu Chongzhi was a Chinese mathematician and astronomer. He introduced the approximation 355113\large\frac{355}{113}113355​ to π\piπ which is correct to 6 decimal places.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zu Chongzhi** was a Chinese mathematician and astronomer. He introduced the approximation `$\frac{355}{113}$` to `$\pi$` which is correct to 6 decimal places.
 
 ### Mathematical Profile (Excerpt):
-1. He pioneered the use of a new type of equation, known as the ‘Jia Xin Shu’, for calculating pi accurately to the value of 365 digits.
-2. He was the first to determine the concept of an ‘infinite number’ and solve a polynomial equation with over 20 terms.
-3. He developed the cunning Tang Carter circle theorem which is still used in many astronomical recommendations and calculations.
-4. He also discovered his famous ‘Daming calendar’ which distinguished between solar years, lunar years and intercalary years.
-5. His famous works include Shaoshi, Zhogen and Xuanxue Qimeng, a mathematical treatise on philosophy.
-6. He invented the digit system in mathematics and used the Jia Xun Shu equation to calculate the length of the year.
-7. He calculated the tilt of the 40th east of the ecliptic plane accurately to three arcs of a degree. 
-8. He made accurate estimations of esoteric astronomical constants such as precession, stellar parallax and orbital angular velocity. 
-9. He also invented a calculating machine made of wooden gears for use in mathematical calculations. 
-10. He was the first to correctly calculate the distances between the Earth and Moon and established that the Milky Way was a disc of stars.
+* Zu Chongzhi's grandfather and father both served as officials of the Liu-Sung dynasty which also had its court at Jiankang (now Nanking).
+* The Zu family was an extremely talented one with successive generations being, in addition to court officials, astronomers with special interests in the calendar.
+* The Zu family handed their mathematical and astronomical skills down from father to son and, indeed, this was one of the main ways that such skills were transmitted.
+* Zu Chongzhi, in the family tradition, was taught a variety of skills as he grew up.
+* Zu learnt other skills too for he excelled in engineering and was skilled in literary composition writing ten novels.
+* Zu Chongzhi followed in the family tradition of serving the emperors.
+* During this time Zu worked on mathematics and astronomy.
+* Zu, however, had an opponent at the court as far as his calendar was concerned.
+* Despite having such a powerful opponent as Tai Faxin, Zu won approval for his calendar from Emperor Xiao-wu and the Tam-ing calendar was due to come into use in 464.
+* Zu left the imperial service on the death of Emperor Xiao-wu and devoted himself entirely to his scientific studies.
+* Having accurate knowledge of the lengths of the year and the month were necessary, but it is still not clear how Zu translated this into a cycle of 391 years.
+* But Zu would know how to reduce fractions to their lowest terms by dividing top and bottom by the greatest common divisor.
+* Before we leave our discussion of Zu's astronomical work we give further details of his work in this area.
+* Zu's calculations of the length of the year were well within the range that allowed him to differentiate between the tropical and sidereal year.
+* Jupiter takes about 12 years to complete its orbit but Zu was able to give a much more accurate value than that.
+* Sadly Zu Chongzhi's book is lost.
+* To compute this accuracy for π, Zu must have used an inscribed regular 24,576-gon and undertaken the extremely lengthy calculations, involving hundereds of square roots, all to 9 decimal place accuracy.
+* However, given that Zu's work was considered very difficult and advanced, it is doubtful that it was found by a lucky numerical accident.
+* In the latter part of his life Zu Chongzhi collaborated with his son, Zu Geng (or Zu Xuan), who was also an outstanding mathematician.
 
 Born 429, Jiankang, (now Nanjing, Kiangsu province), China. Died 501, China.
 

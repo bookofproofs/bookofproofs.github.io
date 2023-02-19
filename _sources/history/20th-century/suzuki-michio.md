@@ -7,10 +7,10 @@ orderid: 1926
 title: Suzuki, Michio
 born: 1926
 died: 1998
-keywords: Michio Suzuki, group theory, linear equations, factorials, hypersphere, Bernoulli-Cauchy, conformal mapping, elementary divisors, Suzuki equation, Hurwitz zeta
-description: Michio Suzuki was a Japanese mathematician who made major contributions to group theory, including developing linear equations, factorials, a hypersphere formula, Bernoulli-Cauchy theorem, conformal mapping solutions, elementary divisors, a Suzuki equation, and a Hurwitz zeta formula.
+keywords: michio suzuki,suzuki
+description: Michio Suzuki was a Japanese mathematician who studied group theory and discovered the groups named after him.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Michio Suzuki** was a Japanese mathematician who studied group theory and discovered the groups named after him.
 
 ### Mathematical Profile (Excerpt):
-1. He developed a method of simultaneous linear equations, where two or more equations can be solved at the same time. 
-2. He proposed an algebraic procedure for calculating factorials. 
-3. He proved that a summation of the reciprocal of perfect powers above 2 is finite. 
-4. He discovered a method for approximating the volume of a hypersphere using a series of integrals. 
-5. He proved the existence of a multiplication table for any abelian group. 
-6. He extended the Bernoulli-Cauchy Theorem from the field of algebra to the field of trigonometry. 
-7. He developed several solutions to the Dirichlet problem in conformal mapping. 
-8. He contributed to the development of the theory of elementary divisors. 
-9. He introduced an algebraic equation that is known as the Suzuki equation. 
-10. He developed an integral formula for certain Hurwitz zeta functions.
+* Michio Suzuki studied at the Third High School of Japan in Kyoto, entering the school in April 1942.
+* There were a number of pupils at the Third High School who went on to make major contributions to mathematics, for example Noboro Ito and Hidehiko Yamabe were a class above Suzuki, being slightly older than him.
+* Quite often classes could not be held regularly and Suzuki had to go to work in the fields and factories with his classmates.
+* The war was reaching its climax in April 1945 when Suzuki entered the University of Tokyo to study mathematics.
+* Tokyo was often bombed and on those occasions Suzuki and his fellow students had to escape into the countryside.
+* After his undergraduate studies, Suzuki began research in the University of Tokyo's graduate School in April 1948.
+* In April 1951, while still working on his dissertation, Suzuki was appointed as a lecturer at Tokyo University of Education.
+* Brauer's influence on Suzuki was highly significant and led him towards the most important areas.
+* In September 1952 Suzuki was awarded a post-doctoral fellowship to undertake research at the University of Illinois at Urbana-Champaign and in November he married Naoko Akizuki, the daughter of a professor at Kyoto University; they had a daughter, Kazuko Suzuki.
+* After spending academic year 1956-57 at Harvard University, Suzuki returned to the University of Illinois where he was promoted to associate professor in 1958 and full professor in 1959.
+* Let us explain a little about the area in which Suzuki was working.
+* In 1957 Suzuki made a major breakthrough.
+* For those who know some group theory, we note that Suzuki proved that a finite group of odd order cannot be simple if the centraliser of every non-identity element is abelian.
+* Suzuki's discovery of a new class of finite simple groups in 1960 shook mathematics.
+* In 1967 Suzuki discovered another new finite simple group.
+* Let us return to our sketch of Suzuki's career.
+* Although Professor Suzuki was affiliated with the University of Illinois from 1952 until his death, he had a profound influence on the development of group theory (and subsequently of algebraic combinatorics) in Japan.
+* We believe it is fair to say that much of the respect given to group theory in Japan as a whole derives from that given to Professor Michio Suzuki as one of the top mathematicians in the world (of course, many other Japanese group theorists deserve credit: nonetheless, the influence of Professor Suzuki was extraordinary).
+* Michio Suzuki received many honours for his contributions to group theory.
+* In 1974 Suzuki was awarded the Academy Prize from theJapan Academy.
 
 Born 2 October 1926, Chiba, Japan. Died 31 May 1998, Mitaka, Japan.
 

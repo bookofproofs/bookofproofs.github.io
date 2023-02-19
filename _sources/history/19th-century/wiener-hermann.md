@@ -7,10 +7,10 @@ orderid: 1857
 title: Wiener (2), Hermann
 born: 1857
 died: 1939
-keywords: Hermann Wiener, Quadratic Forms, Abstract Algebra, Algebraic Geometry, Wiener-Hopf Algebra, Pseudorandom Numbers, Functional Analysis
-description: Hermann Wiener, a German mathematician, revolutionized geometries with the theory of quadratic forms and abstraction of algebra and algebraic geometry. He also developed the Wiener-Hopf algebra.
+keywords: hermann wiener,wiener
+description: Hermann Wiener was a German mathematician who worked on the foundations of geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hermann Wiener** was a German mathematician who worked on the foundations of geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of quadratic forms, which became one of the most useful tools for analyzing higher-dimensional geometries.
-2. Made important contributions to abstract algebra and algebraic geometry.
-3. Developed basic analogues of the fundamental operations of addition and multiplication for matrices, known as the Wiener-Hopf algebra.
-4. Established the existence of pseudorandom numbers.
-5.Developed the notion of harmonic functions and their applications to physics. 
-6. Established the Wiener-Nöbel theorem in algebraic number theory.
-7. Pioneered the development of numerical analysis and founded the subject of functional analysis. 
-8. Was an early contributor to group theory.
-9. Discovered the mathematical foundations of the Nyquist-Shannon sampling theorem, an important concept in the field of communication technology
-10. Developed the Hardy-Wiener theorem, a result in the field of Fourier analysis.
+* At the time of Hermann's birth, Christian Wiener was professor of descriptive geometry at the Technische Hochschule of Karlsruhe, having moved there five years earlier when appointed to the chair.
+* Hermann entered the Gymnasium in Karlsruhe in 1866 and he took his final examinations ten years later.
+* After graduating from the Technische Hochschule in Karlsruhe in 1879, Wiener went to the Technische Hochschule in Munich to study for his doctorate.
+* In addition to teacher training, Wiener was also undertaking research for his habilitation thesis with his father at the Technische Hochschule in Karlsruhe.
+* Wiener submitted his habilitation thesis Rein geometrische Theorie der Darstellung binärer Formen durch Punktgruppen auf der Geraden Ⓣ(Geometric theory of representing binary forms by point groups on the line)  to the University of Halle in 1885.
+* Wiener was a founder member of the German Mathematical Society, as were  Cantor, Gordan, Hilbert, Klein, Minkowski, Study and Heinrich Weber who all gave lectures at the Bremen meeting.
+* Also in 1890 Wiener published three papers: Die Zusammensetzung zweier endlichen Schraubungen zu einer einzigen Ⓣ(The composition of two finite Screw transformations into a single one); Zur Theorie der Umwendungen Ⓣ(On the theory of inversions); and Über geometrische Analysen Ⓣ(On geometric analysis).
+* In 1894 Wiener was appointed as an ordinary professor of mathematics at the Technische Hochschule in Darmstadt.
+* Although Wiener is not explicitly credited with influencing Hilbert in his championing of the axiomatic method, it is still worth noting that he gave the talk Über Grundlagen und Aufbau der Geometrie Ⓣ(On the foundations and structure of the geometry)  to the German Mathematical Society which was published in the first volume of the Jahresberichte der Deutschen Mathematiker vereinigung Ⓣ(Annual Reports of the German Mathematicial Association) (1892).
+* Wiener proposed that geometry be studied without using visual images, but rather by abstract axiomatic methods.
+* Among the honours that Wiener received was election to the German Academy of Scientists Leopoldina in 1895.
 
 Born 15 May 1857, Karlsruhe, Germany. Died 13 June 1939, Darmstadt, Germany.
 

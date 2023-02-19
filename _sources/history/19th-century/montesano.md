@@ -7,10 +7,10 @@ orderid: 1863
 title: Montesano, Domenico
 born: 1863
 died: 1930
-keywords: Domenico Montesano, linear congruences, conic bilinear complexes, Navier-Stokes Equation, kinematic models, approximations, turbulent flows, practical algorithm
-description: Domenico Montesano, a renowned Italian mathematician, advanced fluid analysis and constructed numerous approximations for turbulent flows, establishing a practical algorithm for dealing with nonlinear problems.
+keywords: domenico montesano,montesano
+description: Domenico Montesano was an Italian mathematician who studied the theory of linear congruences and conic bilinear complexes.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Domenico Montesano** was an Italian mathematician who studied the theory of linear congruences and conic bilinear complexes.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Montesano Equation, also known as the Navier-Stokes Equation, as a major benchmark of fluid analysis, used to this day. 
-2. Developed principles of kinematic models of fluids, furthering our understanding of dynamical systems. 
-3. Originated the concept of an infinite hierarchy of approximations to a fluid system, allowing for idealized models to be developed from more complex systems. 
-4. Pioneered the development of methods for approximating equations of motion for a system of interacting particles, layering on complexity for more realistic simulations. 
-5. Constructed analytical approximations for turbulent flows, advancing the current state of knowledge in the field of turbulence. 
-6. Conducted computational studies on rotating stratified turbulent flows, exhibiting turbulent growth, diffusion, and advection. 
-7. Developed a practical algorithm for optimizing the parameters when using iterative numerical methods to solve nonlinear problems.
+* Two of the boys followed their father to become lawyers, two became medical doctors and Domenico, the subject of this biography, became a professor of mathematics.
+* One of the two sons who took up medicine was Domenico's younger brother Giuseppe Ferruccio Montesano, born in Potenza on 4 October 1868.
+* After attending schools in Potenza, Domenico entered the University of Rome in 1880 and, after studying under Luigi Cremona and Giuseppe Battaglini, graduated in 1884 with the laureate.
+* Italy was unified three years before Domenico was born and he grew up in a country that was coming to terms with this important event.
+* Top Italian mathematicians were offered positions there and Montesano's teachers Battaglini and Cremona were two of these.
+* Given that Battaglini and Cremona were distinguished geometers, it is not surprising that Montesano's research was in geometry.
+* By 1888 Montesano had 13 publications and was in a strong position when he entered the competition for the chair of descriptive and projective geometry at the University of Bologna.
+* It proved a very close contest with Montesano coming out on top just ahead of Berzolari.
+* Two years later, Montesano was promoted to ordinary professor of higher geometry at Naples.
+* Let us note that filling the chair of descriptive and projective geometry at the University of Bologna, which Montesano vacated in 1893 when he went to Naples, remained unfilled until 1896 when a competition was held.
+* Montesano was a referee in this competition which appointed Federigo Enriques with Mario Pieri coming a close second.
+* Montesano was also a referee for the competition for the chair at Turin in 1901 when Gino Fano was appointed.
+* Again in 1905, when competitions for two chairs at Padua were advertised, Montesano acted as a referee for both.
+* Montesano's research was almost all in geometry, and he followed the lines of research that he had begun under the influence of his two teachers Battaglini and Cremona.
+* In 1898 Montesano published Una estensione del problema della proiettivita a gruppi di complessi e di congrunze lineari di rette Ⓣ(An extension of the problem of the projectivity in groups of complex and congruent lines).
+* Let us note that Giorgio Antonio Aprile, mentioned by Snyder in the above quote, was a student of Montesano's at Naples, being awarded his laureate in 1910.
+* In 1907, in the Rendiconti di Napoli, Montesano published the paper Su nuovi tipi di superficie razionali di 5o  ordine Ⓣ(On new types of rational surfaces of the 5th order) showing how to obtain a quintic surface with two consecutive skew double lines by quadratic transformation of a rational sextic.
+* Montesano was honoured with election to the Royal Academy of Sciences of Naples.
 
 Born 22 December 1863, Potenza, Basilicata, Italy. Died 1 October 1930, Naples, Italy.
 

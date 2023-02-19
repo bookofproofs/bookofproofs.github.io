@@ -7,10 +7,10 @@ orderid: 1732
 title: Maskelyne, Nevil
 born: 1732
 died: 1811
-keywords: Maskelyne, Astronomer, Measure Earth's Density, Navigation, Lunars, Air Mail, Chronometer
-description: English Astronomer Maskelyne measured Earth's density and invented navigation methods, like Lunars and Chronometer, resulting in safer seafaring, inter-continental airmail service, and accurate timepieces.
+keywords: nevil maskelyne,maskelyne
+description: Nevil Maskelyne was an English astronomer who measured the Earth's density in a famous experiment at Schiehallion.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nevil Maskelyne** was an English astronomer who measured the Earth's density in a famous experiment at Schiehallion.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of use of grid method for navigation which enabled precision mapping of the ocean making safer navigation for seafarers.
-2. Put forth the method of lunars: a method of determining the longitude of a ship at sea by means of a sextant and the chronometer. 
-3. Enabled the first inter-continental airmail service.
-4. Was responsible for calculating and forecasting the planets positions using their equations of motion. 
-5. Corrected the errors in the Nautical Almanac of 1767 and reissued it with his own name. 
-6. Put forth a method of correcting the time pieces to obtain an accurate chronometer by measuring the intervals between notional transits at a fixed point. 
-7. Wrote a famous book on the principles of navigation called the Marine Chronometer.
+* Edmund Maskelyne married Elizabeth Booth, daughter of John Booth and Elizabeth Proger, on 4 February 1724.
+* They had four children, William Maskelyne (1725-1772), Edmund Maskelyne (1728-1775), Nevil Maskelyne (the subject of this biography), and Margaret Maskelyne (1735-1817).
+* Nevil Maskelyne wrote autobiographical notes in 1800 in which he gave some information about the origins of the family.
+* In January 1741 Nevil began his education at Westminster School.
+* Edmund Sr., died in March 1744 when Nevil was 12 years old leaving the family rather poor.
+* Nevil was still being educated at Westminster School when his mother Elizabeth died in 1748.
+* After this Nevil boarded at Vincent Bourne's house in Westminster while he continued his school education.
+* Maskelyne entered St Catharine's College, Cambridge in November 1749.
+* Maskelyne learned much from working with Bradley and assisted him in producing a table of refractions.
+* On 14 July 1760 the Royal Society agreed to send Maskelyne to the island of St Helena to observe a transit of Venus which would take place on 6 June 1761.
+* Maskelyne had earlier proposed that the same expedition should try to measure the parallax of the star Sirius.
+* Disappointed, Maskelyne set sail for England on the ship Warwick in February 1762.
+* Maskelyne, although not a member of the Board of Longitude who were evaluating methods of computing longitude for which a large prize was on offer, was considered a suitable judge since he could compute the longitude of Barbados accurately using Jupiter's satellites, and compare this accurate result with that given by Harrison's H4 and also the result given by his lunar distance method.
+* Maskelyne sailed on the HMS Princess Louisa on 23 September as the ship's chaplain reaching Bridgetown, Barbados, on 7 November.
+* He objected to Maskelyne's involvement in the H4 trials since Maskelyne was championing his own lunar distances method.
+* All four men to hold the post of Astronomer Royal before Maskelyne had done so with minimal salary as people of independent means.
+* Maskelyne, on the other hand, was given a salary to make the post his main occupation (£350 per annum).
+* To perform most of these duties Maskelyne hired an assistant.
+* Maskelyne, like many of his scientific contemporaries an ordained minister of the Church of England, annually visited his parish living in Wiltshire and regularly attended Royal Society and other meetings in London, where he was very much part of the scientific establishment.
+* In practice this meant that his assistant was expected to carry most of the observing load, although in fairness the observing books show that Maskelyne also regularly observed when in residence.
+* Of course, Maskelyne's appointment as Astronomer Royal was rather a blow to John Harrison who considered him his major competitor for the longitude prize.
+* It seems Maskelyne prevaricated over the meaning of "accuracy" to condemn Harrison's creation.
+* Maskelyne refused to allow these corrections.
+* Harrison died in 1776 believing to the end that Maskelyne was biased in his judgement of H4.
+* Maskelyne proposed to the Royal Society in 1772, an experiment for determining the Earth's density with the use of a plumb line.
+* From his observations, which had to be corrected for refraction, precession, aberration, deviation and nutation, Maskelyne computed that the plumb-line was pulled 11.7" by the gravitational attraction of the mountain.
+* We have noted that Maskelyne was ordained in 1755.
+* His brother William died in 1772 and Maskelyne inherited Pond's Farm, Purton Stoke, Wiltshire at this time.
+* After their marriage, the Maskelynes made much use of Pond's Farm as a country retreat.
+* As one of a line of squirearchial Nevil Maskelynes and brother-in-law to Clive of India, he knew his place in an ordered society and was an adroit mover in a world of gentlemen scientists and sailors.
+* The reputation that survives in some popular twentieth-century books of Maskelyne as the evil genius who tried to deprive the poor illiterate carpenter of his just rewards-out of personal spite and because of his own involvement in the rival lunar-distance method of finding longitude-was certainly not one that was held generally in his own day, nor is it in any way justified by modern research: he was a member of the board of longitude, appointed by parliament to advise on the award of large sums of public money; there is no evidence whatsoever that he at any time abused his position as a public servant, still less lined his own pocket.
+* Maskelyne was honoured for his contributions by many societies and academies throughout the world.
 
 Born 5 October 1732, Kensington Gore, London, England. Died 9 February 1811, Greenwich, England.
 

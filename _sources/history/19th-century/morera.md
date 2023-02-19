@@ -7,10 +7,10 @@ orderid: 1856
 title: Morera, Giacinto
 born: 1856
 died: 1907
-keywords: Giacinto Morera, Mathematics, Dynamics, Integrals, Theorem, Equations, Lemma
-description: Giacinto Morera was a renowned Italian mathematician who made significant contributions to dynamics, such as exploring integrals, developing theorems, solving equations, and discovering lemmas.
+keywords: giacinto morera,morera
+description: Giacinto Morera was an Italian mathematician who made contributions to dynamics.
 references: bookofproofs$6909
-contributors: @Umberto-Lucia,bookofproofs,@ChatGPT
+contributors: @Umberto-Lucia,bookofproofs
 
 ---
 
@@ -23,13 +23,8 @@ contributors: @Umberto-Lucia,bookofproofs,@ChatGPT
 **Giacinto Morera** was an Italian mathematician who made contributions to dynamics.
 
 ### Mathematical Profile (Excerpt):
-1. Demonstrated several integrals involving transcendental functions.
-2. Developed a set of mathematical theorems related to circular functions and studied trigonometric substitutions.
-3. Solved a problem on the summation of geometric series.
-4. Discovered the existence of complete systems of orthogonal functions, which were later named “Morera’s Theorem”.
-5. Constructed a table of exact numerical values for the roots of the binomial equation.
-6. Explored Jordan's Lemma and its application in the study of logarithmic series.
-7. Developed new methods for the solving of singular integral equations, including the Cauchy-Morera theorem.
+* Morera extended his knowledge of mathematics, first at the University of Pavia in Italy under the direction of Eugenio Beltrami and Felice Casorati, then at the University of Pisa under the direction of Enrico Betti and Ulisse Dini, and finally in Leipzig with Adolph Mayer and Felix Klein.
+* Morera studied the fundamental problems which arise in dynamics with particular regard to the use of the Pfaff method applied to Jacobian systems of partial differential equations and to the problem of Lie transformations of the canonical equations of motion.
 
 Born 18 July 1856, Novara (now Italy). Died 8 February 1907, Turin, Italy.
 

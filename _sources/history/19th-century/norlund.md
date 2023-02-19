@@ -7,10 +7,10 @@ orderid: 1885
 title: Norlund, Niels Erik
 born: 1885
 died: 1981
-keywords: Niels Norlund, Mathematics, Astronomy, Difference Equations, Orthogonal Transformations, Singular Value Decomposition, Bilinear Forms
-description: Niels Norlund was a Danish mathematician and astronomer who made significant contributions to the theory of difference equations and exacting fields like orthogonal transformations and bilinear forms.
+keywords: niels norlund,norlund
+description: Niels Norlund was a Danish mathematician and astronomer who worked in the theory of difference equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Niels Norlund** was a Danish mathematician and astronomer who worked in the theory of difference equations.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first to prove the invariance of quadratic forms under orthogonal transformations (1910).
-2. He was the first to introduce singular value decomposition and developed the structure theory of bilinear forms (1915).
-3. He developed the field of Abelian groups and developed the basic theory of fields of algebraic functions (1925).
-4. He was the founder of the modern theory of summation of divergent series (1928).
-5. He introduced the Norlund–Ginzburg algorithm for the solution of certain equations (1930).
-6. He developed the theory of homological algebra, including the fundamental combinatorial and geometrical facts about Steenrod squares and powers (1932).
-7. He developed a number of important finite difference formulas, in particular the Norlund–Schmidt formula for the solution of difference and differential equations (1935).
-8. He made important contributions to the theory of convergence of series and the summability theory of divergent series (1941).
+* Niels was the oldest of his parents' three children, having a younger sister Margrethe and a younger brother Poul.
+* Margrethe is mentioned elsewhere in this archive as the wife of Niels Bohr whom she married on 1 August 1912.
+* Niels attended elementary school in Slagelse but then had to go to the larger nearby town of Soro for his secondary schooling.
+* At school Norlund had loved mathematics and astronomy.
+* Norlund had a number of lecturers with international reputations: for example he was taught mathematics by Hieronymus Georg Zeuthen, Julius Petersen, and Niels Nielsen; and astronomy by Thorvald Thiele.
+* Norlund was most attracted by the vigorous Niels Nielsen, who lectured on the theory of functions, and by Thorvald Thiele whose interests in astronomy were mainly on orbits and the three-body problem.
+* Norlund's first publication was in 1905 when he published a paper on a known double star in Ursa Major which, with careful measurements of their orbits, he was able to deduce was actually a triple system with a third star which was too faint to observe.
+* In addition to spending considerable time observing star positions and proper motions of stars, Norlund also undertook research in mathematics.
+* These publications in the most prestigious French journal earned Norlund an international reputation despite still being an undergraduate.
+* We explained at the beginning of this biography how Norlund's sister Margrethe married Niels Bohr.
+* Of course Niels Bohr was the brother of the outstanding mathematician Harald Bohr who was a close friend of Norlund; for example each read the proofs of the others doctoral thesis.
+* Following the award of his doctorate, Norlund remained at Copenhagen for two years continuing to work as an assistant at the Observatory.
+* In particular the little paper 'Sur une application des fonctions permutables' Ⓣ(On an application of permutable functions) from 1919 should be mentioned: there he states some universal results on the summability of series based on a specific - but rather general - choice of the weights given to the elements; the method includes the better of the known summability methods, such as Cesaro's method, and is now known under the standard designation of Norlund-summation.
+* With a high international profile, Norlund was elected to the Danish Academy of Sciences in 1916.
+* To solve this situation a third mathematics chair was created at the University of Copenhagen and Norlund invited to fill it.
+* Events conspired to stop Norlund carrying out mathematical research during the thirty years he held the mathematics chair in Copenhagen.
+* Norlund received a large number of honours for his contributions to mathematics and to geodesy.
 
 Born 26 October 1885, Slagelse, near Soro, Sjaelland, Denmark. Died 4 July 1981, Copenhagen, Denmark.
 

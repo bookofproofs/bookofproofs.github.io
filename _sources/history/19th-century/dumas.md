@@ -7,10 +7,10 @@ orderid: 1872
 title: Dumas, Gustave
 born: 1872
 died: 1955
-keywords: algebraic geometry, harmonic mean, linear operator, fractional derivatives, abstract algebra, International Congress, Cobb-Douglas Production Function
-description: Swiss mathematician Gustave Dumas proposed theorem on harmonic mean of triangles, developed Dumas' theorem, published work on fractional derivatives, represented France at International Congress and authored "Geometry of Polynomials: Theory and Problems".
+keywords: gustave dumas,dumas
+description: Gustave Dumas was a Swiss mathematician who worked in algebraic geometry.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Gustave Dumas**  was a Swiss mathematician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed theorem on the harmonic mean of two triangles.
-2. Developed Dumas' theorem which described the conditions under which a linear operator is bounded.
-3. Published his work on the concept of fractional derivatives for differential equations.
-4. Developed a unified concept of abstract algebra and abstract analysis.
-5. Represented France at the International Congress of Mathematicians in 1904 and 1908.
-6. Authored the treatise ‘Geometry of Polynomials: Theory and Problems’ in 1901.
-7. His teachings inspired the mathematization of economics that brought the concept of Cobb-Douglas Production Function in 1934.
-8. Contributed to the field of linear algebra and multi-dimensional analysis.
-9. Provided an early proof of unimodality in mathematical analysis.
-10. Proposed the idea of associativity and commutativity in group theory.
+* Dumas attended secondary school in Lausanne; after having completed his baccalaureate he stayed there to study mathematics at the university.
+* Dumas then went to Berlin for some months, where he attended lectures by Georg Frobenius, Hermann Schwarz and Kurt Hensel.
+* Dumas taught higher mathematics as a Privatdozent at the Polytechnic; he was promoted to Titularprofessor in 1913.
+* Dumas stayed at his alma mater until he retired in 1942, teaching mainly differential and integral calculus to future engineers and mathematicians.
+* Among his students was Georges de Rham, who became Dumas's assistant in the mid-1920s.
+* In addition, Dumas wrote a couple of papers on technical education in the French-speaking part of Switzerland.
+* Dumas joined the organising committee of the first International Congress of Mathematicians at the preliminary meeting in July 1896, as the French-speaking secretary.
+* Rudio and Franel, the two general secretaries at the congress, also had their personal secretaries, Hirsch and Dumas.
+* It can be assumed that Dumas, as the native French speaker, was Franel's secretary.
+* Dumas did not give a talk at the congress, but he was among the signatories of the invitations.
+* Dumas attended more ICMs than most of his colleagues on the organising ccommittee.
+* Dumas also served on the organising committee of the 1932 congress in Zürich.
+* Dumas became a member of the Swiss Mathematical Society (Schweizerische Mathematische Gesellschaft: SMG) when it was founded in 1910.
+* Furthermore, Dumas was a member of the Euler-Kommission from 1919- 1943.
+* Apart from mathematics and education, Dumas also had a strong interest in literature and philosophy.
 
 Born 5 March 1872, L'Etivaz, Vaud canton, Switzerland. Died 11 July 1955, Lausanne, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1452
 title: Da Vinci, Leonardo
 born: 1452
 died: 1519
-keywords: Leonardo da Vinci, Mechanics, Geometry, Hydrodynamics, Anatomy, Mathematics, Optics
-description: Leonardo da Vinci was an Italian scientist, scholar and artist known for his mathematical discoveries and his work in Mechanics and Optics.
+keywords: leonardo da vinci,da
+description: Leonardo da Vinci was an Italian artist and scholar who had many talents in addition to his painting. He worked on mechanics, though geometry was his main love. He was involved in hydrodynamics, anatomy, mechanics, mathematics and optics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leonardo da Vinci** was an Italian artist and scholar who had many talents in addition to his painting. He worked on mechanics, though geometry was his main love. He was involved in hydrodynamics, anatomy, mechanics, mathematics and optics.
 
 ### Mathematical Profile (Excerpt):
-1. Created detailed drawings of mathematics and geometric principles.
-2. Developed new techniques for solving mathematical problems.
-3. Devised a system of mathematical proportions and measurements.
-4. Developed a method of indeterminate analysis to facilitate mathematical operations.
-5. Outlined a new approach to perspective that incorporated mathematical concepts.
-6. Was the first to demonstrate the application of mathematics to the physical sciences.
-7. Discovered the logarithmic law of refraction of light.
-8. Was one of the first to recognize the concepts of mathematical law and order in nature.
-9. Suggested the principle of the golden ratio in his drawings.
-10. Investigated mathematical theories of propulsion for air and water travel.
+* Between 1482 and 1499 Leonardo was in the service of the Duke of Milan.
+* During his time in Milan, Leonardo became interested in geometry.
+* Leonardo studied Euclid and Pacioli's Suma and began his own geometry research, sometimes giving mechanical solutions.
+* Some months later Leonardo left Milan together with Pacioli.
+* In 1506 Leonardo returned for a second period in Milan.
+* In 1513 the French were removed from Milan and Leonardo moved again, this time to Rome.
+* This means that Leonardo did no painting except to finish off some works he had with him, St. John the Baptist, Mona Lisa and the Virgin and Child with St Anne.
+* Leonardo spent most of his time arranging and editing his scientific studies.
 
 Born 15 April 1452, Vinci, near Empolia (now Italy). Died 2 May 1519, Cloux, Amboise, France.
 

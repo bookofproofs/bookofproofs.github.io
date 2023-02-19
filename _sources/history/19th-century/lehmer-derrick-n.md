@@ -7,10 +7,10 @@ orderid: 1867
 title: Lehmer, Derrick Norman
 born: 1867
 died: 1938
-keywords: Lehmer, Number Theory, Fermat's Last Theorem, Primitive Roots, Special Functions, Continued Fractions, Algorithms
-description: Derrick Norman Lehmer was a renowned American mathematician specializing in number theory, famous for pioneering primitive roots, developing tests for Fermat's Last Theorem, algorithms such as the Lehmer sieve, books and papers, and the Continued Fractions Photographic Series.
+keywords: derrick norman lehmer,lehmer
+description: Derrick Norman Lehmer was an American mathematician who worked in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Derrick Norman Lehmer** was an American mathematician who worked in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the use of primitive roots in modular arithmetic and number theoretic analysis.
-2. Developed the "first tests for Fermat's last theorem" for small numbers and the application of continued fractions.
-3. Authored numerous books and papers on number theory and special functions, including "Elementary Number Theory with Applications" and "Frobenius Primitive Roots in Number Fields".
-4. Founded the "Lehmer Number Centre" to further research into number theory.
-5. Designed algorithms for logic problems and the continued fraction expansion of certain irrational numbers.
-6. Developed a method of correcting the rounding-off errors encountered during the calculations of certain transcendental functions.
-7. Authored the highly acclaimed "Continued Fractions Photographic Series", which is considered a monograph.
-8. Created the algorithm 'Lehmer sieve', which is used to calculate prime numbers.
+* Lehmer was awarded his Ph.D. in 1900 from the University of Chicago for his thesis Asymptotic Evaluation of Certain Totient-Sums.
+* After the award of his doctorate Lehmer was appointed in 1900 as an instructor in mathematics at the University of California at Berkeley.
+* Derrick and Clara had two sons and three daughters Eunice (b.
+* 1904), Derrick Henry (b.
+* Derrick Henry Lehmer became a famous mathematician and also has a biography in this archive.
+* Lehmer was promoted to professor at Berkeley in 1918 and continued to teach there until he retired on 27 July 1937.
+* Lehmer published Factors in 1909, and List of prime numbers from 1 to 10006721 in 1914.
+* In 1917 Lehmer published An Elementary Course in Synthetic Projective Geometry.
+* During the 1920s Lehmer worked on factor stencils which gave a method of factorising a number using cards with holes punched in them.
+* Lehmer published Factor Stencils in 1929.
+* Following on from the idea of factor stencils, Lehmer came up with another mechanical device to factor numbers.
+* Construction of a machine which will perform these tedious tasks is insured by the grant of $1,000 to Dr Derrick N Lehmer of the Mathematics Department of the University of California by the Carnegie Institution of Washington D.
+* The new machine, which will be constructed under Professor Lehmer's direction by his son Derrick H Lehmer, national research fellow, consists of a shaft on which thirty gears of 100 teeth each are set.
+* The Derrick strain, if one may so indicate his descent from Hessian stock, accounts for his being a professor of mathematics and at one time Research Assistant of the Carnegie Institution of Washington, where among other things he made "Factor Tables for the First Ten Millions." The Norman strain in him accounts for his love of belles lettres, his creative work in the fields of music and poetry, the songs and operas he composed and the poems he wrote.
+* Let us give a few more details of Lehmer's literary and musical achievements which are referred to in the above quote.
+* Lehmer wrote two operas: The Necklace of the Sun : A Mayan Drama had its premiere at the Scottish Rite Auditorium, Oakland, on 28 February 1935.
+* Lehmer received many honours for his mathematical work in number theory.
+* Lehmer died at his home, 2736 Regent Street, Berkeley, after an extended illness.
 
 Born 27 July 1867, Somerset, Indiana, USA. Died 8 September 1938, Berkeley, California, USA.
 

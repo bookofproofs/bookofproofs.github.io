@@ -7,10 +7,10 @@ orderid: 1899
 title: Griffiths, Lois
 born: 1899
 died: 1981
-keywords: Lois Wilfred Griffiths, Mathematics, Polygonal Numbers, Linear Quadratic Regulator, Royal Society of Cambridge, Cardiff University Medal, National Academy of Engineering
-description: Lois Wilfred Griffiths was an American mathematician lauded for her work in mathematics, polygonal numbers, control systems, and dynamic systems, earning her the Royal Society of Cambridge, Cardiff University Medal, and National Academy of Engineering distinctions.
+keywords: lois griffiths,griffiths
+description: Lois Wilfred Griffiths was an American mathematician best known for her work in polygonal numbers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lois Wilfred Griffiths**  was an American mathematician best known for her work in polygonal numbers.
 
 ### Mathematical Profile (Excerpt):
-1. Completed her PhD in Mathematics at the University of Cambridge in 1975. 
-2. Developed the first Eigenvector-based solution for the Linear Quadratic Regulator problem.
-3. Authored several widely-cited and highly-influential papers in the fields of mathematics, control systems, and dynamic systems. 
-4. Served as a professor of mathematics and control systems at numerous educational institutions during her career. 
-5. Was awarded Fellow of the Royal Society of Cambridge in 2003. 
-6. Received the Cardiff University Medal for Distinguished Achievement in Mathematics, 2003. 
-7. Was inducted into the National Academy of Engineering in 2014 for her pioneering research. 
-8. Served as a keynote speaker and guest lecturer at numerous conferences and various educational institutions.
+* Frederick Griffiths was born in Wales and had emigrated to the United States in 1880.
+* He was a minister in Michigan before moving to Ohio in 1898 where Lois and her brother Harold (born 1898) were born.
+* Soon after the birth of Lois, the family moved to Jennings, Oklahoma Territory, where they lived during 1899-1900.
+* After working for the Minneapolis Journal, Frederick Griffiths and his family moved to Seattle in 1904.
+* Lois was educated at elementary and secondary schools in Washington State before entering the University of Washington.
+* Her brother, Harold F Griffiths, also studied at the University of Washington where he was in the Naval Unit and was a member of the University of Washington "Food Production Squad".
+* During her undergraduate years Lois was assistant to Comptroller Condon of the University of Washington.
+* Entering the University of Chicago in October 1925, Griffiths undertook research for a doctorate in mathematics working with her thesis supervisor Leonard Dickson.
+* Immediately following the award of her doctorate, Griffiths was appointed as an Instructor in Mathematics at Northwestern University in Evanston, Illinois, where she spent the whole of her teaching career.
+* In 1945 Griffiths produced a typewritten set of notes Determinants and systems of linear equations.
+* Two later typewritten sets of notes by Griffiths Outline of the theory of groups (1948) and Matrices and linear dependence (1949) were never published.
+* Before writing her textbook, Griffiths had published a number of excellent reviews of important algebra texts.
+* Griffiths attended meetings of both the American Mathematical Society and the Mathematical Association of America.
+* As to her hobbies, Griffiths loved walking, gardening and cooking.
+* Lena Griffiths, Lois Griffiths' mother, came to live with her in Evanston in around 1945 and she continued to live with her daughter until her death in 1956.
+* Lois Griffiths retired from her position at Northwestern University in 1964 and at that time she was made professor emeritus.
 
 Born 27 June 1899, Chagrin Falls, Ohio, USA. Died 9 November 1981, Skokie, Illinois, USA.
 

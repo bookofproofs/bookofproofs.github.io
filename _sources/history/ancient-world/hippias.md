@@ -7,10 +7,10 @@ orderid: -460
 title: Hippias Of Elis
 born: -460
 died: -400
-keywords: Hippias, Quadratrix, Circle, Angles, Perfect Numbers, Quadrature, Platonic Solids
-description: Hippias was a Greek philosopher who developed a precise definition of the perfect numbers, created Quadratrix & quadrature, doubled the cube, generated the Platonic Solids & elucidated the concept of infinity.
+keywords: hippias,hippias
+description: Hippias was a Greek contemporary of Socrates whose only contribution to mathematics seems to be the quadratrix - a curve he may have used for squaring the circle and trisecting angles.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hippias** was a Greek contemporary of Socrates whose only contribution to mathematics seems to be the quadratrix - a curve he may have used for squaring the circle and trisecting angles.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a precise definition of the concept of a "perfect number" and displayed its relationship to triangular numbers.
-2. Found a relationship between the area of a square and its diagonal is still known as Hippias' quadrature. 
-3. Came up with a method of doubling the cube and applied it to calculate the side of a square given the area.
-4. Established an algorithm for constructing an equilateral triangle given the side of a square.
-5. Compiled a complete system of numbers and learned to express them as the sum of two squares. 
-6. Generated the five Platonic solids and was the first to elucidate the nature of infinity.
+* Perhaps the highest compliment that we can pay to Hippias is to report on the arguments of certain historians of mathematics who have claimed that the Hippias who discovered the quadratrix cannot be Hippias of Elis since geometry was not far enough advanced at this time to have allowed him to make these discoveries.
+* However, their arguments are not generally accepted and there is ample evidence to attribute the discovery of the quadratrix to Hippias of Elis.
+* However this is far from certain and there is some evidence to suggest that Geminus, writing in the first century BC, had in his possession a treatise by Hippias of Elis on the quadratrix which indicated how it could be used to square the circle.
+* If this is indeed the case then the treatise by Hippias must have been lost between this time and that of Sporus in the third century AD.
+* Book IV contains a description of the quadratrix of Hippias.
+* However, Pappus reports that Sporus had two criticisms of Hippias's method with which he agrees.
+* The point here seems to be a question of what exactly Hippias is trying to show with his quadratrix.
 
 Born about 460BC, Elis, Peloponnese, Greece. Died about 400 BC.
 

@@ -7,10 +7,10 @@ orderid: 1964
 title: Wu (2), Sijue
 born: 1964
 died: 0
-keywords: Sijue Wu, mathematics, water waves, National Science Foundation, Journal of Differential Geometry, Inventiones Math journal, Columbia University
-description: Sijue Wu is a professor of mathematics and researcher of water waves, awarded NSF CAREER Grant for number theory and algebraic geometry research, published papers, initiated collaboration with Columbia, and holds Distinguished Visiting Fellowship at Royal Society.
+keywords: sijue wu,wu
+description: Sijue Wu was born and brought up in China but went to the United States to study for her doctorate. She became Robert W and Lynne H Browne Professor of Mathematics at the University of Michigan. Her research involves the mathematics of water waves.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sijue Wu** was born and brought up in China but went to the United States to study for her doctorate. She became Robert W and Lynne H Browne Professor of Mathematics at the University of Michigan. Her research involves the mathematics of water waves.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a National Science Foundation CAREER Grant to pursue research in number theory and algebraic geometry. 
-2. Published several papers in numerous mathematics journals, including the Journal of Differential Geometry and the Inventiones Math journal. 
-3. Developed an approach to resolving some difficult algebraic geometry problems.
-4. Initiated a collaboration with colleagues from Columbia University to further investigate the structure of certain algebraic objects. 
-5. Received an Alfred P. Sloan Research Fellowship in support of her work in algebraic geometry
-6. Produced an algorithm to solvecertain algebraic equations more efficiently.
-7. Awarded the Distinguished Visiting Fellowship from the Royal Society of Edinburgh in recognition of her research into algebraic geometry.
-8. Led multiple seminars and invited as a lecturer across a wide variety of mathematics topics such as algebraic geometry and number theory.
+* After the award of her doctorate, Wu was appointed as Courant Instructor at the Courant Institute, New York University.
+* Promoted to Associate Professor at Iowa in 1998, Wu was appointed as an Associate Professor at the University of Maryland, College Park, in 1998.
+* At the 107th  Annual Meeting of the American Mathematical Society in January 2001 in New Orleans, Wu was awarded the 2001 Satter Prize.
+* In her response Wu thanked her teachers, friends, and colleagues, making special mention of her thesis advisor Ronald Coifman for the constant support he had given her and Lihe Wang for his friendship and his help.
+* In August 2002 Wu was an invited speaker at the International Congress of Mathematicians held in Beijing where she delivered the lecture Recent progress in mathematical analysis of vortex sheets.
+* Wu was awarded a Radcliffe Institute Advanced Study Fellowship for the academic year 2002-2003.
+* As a Radcliffe fellow, Wu will continue her study of vortex sheet dynamics, a phenomenon that arises from the mixing of fluids, such as occurs during aircraft takeoffs.
+* Achieving a better understanding of the motion of a vortex sheet requires proper mathematical modelling; Wu's long-term goal is to establish a successful model.
+* Wu was named Robert W and Lynne H Browne Professor of Mathematics at the University of Michigan and delivered her inaugural lecture Mathematical Analysis of Water Waves on 29 October 2008.
+* The Browne Professorship recognizes the Wu's outstanding contributions to science and teaching.
 
 Born 15 May 1964, Ningbo, China.
 

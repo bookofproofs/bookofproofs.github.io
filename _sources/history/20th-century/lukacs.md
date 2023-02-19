@@ -7,10 +7,10 @@ orderid: 1906
 title: Lukacs, Eugene
 born: 1906
 died: 1987
-keywords: Eugene Lukacs, Statistician, Characterisation, Distributions, Stability, Set-Theoretic, Probability Theory
-description: Eugene Lukacs, Hungarian-American statistician, developed various fields of mathematics including the set-theoretic formulation of probability theory and the general theory of correlation.
+keywords: eugene lukacs,lukacs
+description: Eugene Lukacs was a Hungarian-American statistician known for his work on characterisation of distributions and stability theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eugene Lukacs** was a Hungarian-American statistician known for his work on characterisation of distributions and stability theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first Set-Theoretic Formulation of Probability Theory. 
-2. Pioneered the Modern Axiomatic Theory of Probability. 
-3. Introduced the General Theory of Correlation. 
-4. Developed Mathematical Theory of Correlation and Associated Characteristic Functions. 
-5. Investigated the Theory of Sequences and Estimations. 
-6. Established the Fields of Functional Analysis and Operator Theory. 
-7. Advanced the Theory of Potential Operators and Their Applications in Applied Mathematics. 
-8. Developed Contribution to the Theory of Probability and Statistics.
+* The family lived in Vienna where Eugene's father worked in a bank.
+* However Eugene was born in his grandmother's house in Szombathely, then moved to Vienna a few weeks later and he was educated in that city.
+* After primary and the Realgymnasium secondary school, Lukacs entered the Technical University in Vienna in 1925 where he studied mechanical engineering.
+* After taking his first degree, Lukacs continued to study at Vienna for his doctorate.
+* This was no time to get an academic position in a university, so Lukacs took a post as a secondary school teacher in Vienna.
+* All this was bad news for Lukacs, particularly since he was Jewish.
+* Lukacs left school teaching in 1933 and took up a position as an actuary at an insurance company, having E Helly, another of Jewish origin, amongst his colleagues in the insurance company.
+* During this time Lukacs had married Elizabeth Weisz.
+* In 1937 Lukacs left the insurance company.
+* Many Austrians, especially those of Jewish origin, went into exile and Lukacs and his wife decided that they had to take this route.
+* Elizabeth Lukacs left for the United States late in 1938 while Eugene left some time later, reaching the United States in February 1939.
+* While at the University of Vienna, Lukacs had met Wald who was also a Hungarian Jew.
+* Wald was working on statistics and probability and he persuaded Lukacs to take an interest in this topic too.
+* However Elizabeth Lukacs found a post teaching at Garrison High School in Baltimore and she encouraged Eugene to apply for a position at Friends High School in Baltimore.
+* In 1942 Lukacs had made an important contribution to mathematical statistics by introducing, for the first time, the method of differential equations in characteristic function theory.
+* After moving to Cincinnati, Lukacs worked with Szász who had held a post there from 1936.
+* He continued at Our Lady of Cincinnati College until 1953, although he spent some leave working as a mathematical statistician at the National Bureau of Standards in Washington, D.C. In 1953 Lukacs Eugene joined the Office of Naval Research and he later became the Head of its Statistics.
+* Lukacs moved again, this time in 1955 to the Catholic University of America where, in 1959, he set up the Statistical Laboratory becoming its director.
+* Lukacs retired in 1972, and went first to Bowling Green where he remained for four years.
+* Other topics to which Lukacs made major contributions include characterisations of distributions, stability of characterisation results and functional equations.
+* Lukacs's hobbies and interests included stamp and coin collecting, hiking, bird watching, photography and, as stated above, travelling.
+* We shall miss Eugene greatly, not only for his contributions to probability and statistics but also as a colleague, a friend and as a human being of integrity.
+* Lukacs undertook many editorial duties.
 
 Born 14 August 1906, Szombathely, Hungary. Died 21 December 1987, Washington D.C., USA.
 

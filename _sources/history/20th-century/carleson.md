@@ -7,10 +7,10 @@ orderid: 1928
 title: Carleson, Lennart Axel Edvard
 born: 1928
 died: 0
-keywords: Lennart Carleson, Fourier series, complex dynamics, singular integrals, King Faisal Prize, Royal Swedish Academy, Carleson-Hunt theorem
-description: Lennart Carleson, a Swedish mathematician, received multiple awards for his work in Fourier series, complex dynamics, singular integrals, and the Carleson-Hunt theorem.
+keywords: lennart carleson,carleson
+description: Lennart Carleson is a Swedish mathematician who solved one of the most important problems in the theory of Fourier series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lennart Carleson** is a Swedish mathematician who solved one of the most important problems in the theory of Fourier series.
 
 ### Mathematical Profile (Excerpt):
-1. Received the Wolf Prize in Mathematics in 1993 for his work on complex dynamics and singular integrals.
-2. Received the King Faisal International Prize for Science in 1989 for his work in the field of Fourier analysis.
-3. Elected a member of the Royal Swedish Academy of Sciences in 1978.
-4. Received the King Gustav Adolf Prize in 1975 for his research in the theory of Fourier series.
-5. Proved his famous theorem (the Carleson-Hunt theorem) in 1968, which led to a revolution in Fourier analysis.
-6. Authored several books, including Lectures on Examples of Fourier Series and Problems in Real Analysis.
+* Carleson's research thesis was supervised by Arne Beurling and he was awarded his doctorate in 1950 for On a Class of Meromorphic Functions and Its Exceptional Sets.
+* Carleson spent session 1950-51 in the United States, undertaking post-doctoral work at Harvard University.
+* Carleson returned to Sweden, taking up his lectureship at Uppsala University at the beginning of session 1951-52.
+* Among many important roles which Carleson has occupied, we should mention three in particular.
+* Carleson's mathematical contributions have been far too many, and much too deep, to be described in any detail in a biography of this type.
+* During his career as a mathematician Carleson has been influential in several major areas of analysis and dynamical systems over nearly half a century of mathematical activity.
+* Carleson's mathematics is characterized by a deep geometric insight combined with an amazing control of the branching complexities of the proofs.
+* A major problem solved by Carleson in 1962 was the famous 'corona problem' in the paper Interpolations by bounded analytic functions and the corona problem.
+* As so often in his work, not only did he solve the problem but in doing so he introduced what are today called 'Carleson measures' which went on to become a fundamental tool in complex analysis and harmonic analysis.
+* In 1967 Hörmander introduced some ideas to simplify Carleson's proof and Carleson lectured on The corona theorem to the Fifteenth Scandinavian Congress in Oslo in 1968.
+* In 1966 Carleson solved one of the outstanding problems of mathematics in his paper On convergence and growth of partial sums of Fourier series.
+* Kolmogorov proved results in 1928 which seemed to suggest that Luzin's conjecture must be false but Carleson amazed the world of mathematics when he proved Luzin's long-standing conjecture in 1966.
+* Carleson lectured on his spectacular result at the International Congress of Mathematicians at Moscow in 1966 when he gave the address Convergence and summability of Fourier series.
+* Carleson received the Wolf Prize 1992 together with John G Thompson.
+* Carleson's work has forever altered our view of analysis.
+* But Carleson's influence extends far beyond his publications.
+* Carleson has received a host of honours for his truly outstanding contributions.
 
 Born 18 March 1928, Stockholm, Sweden.
 

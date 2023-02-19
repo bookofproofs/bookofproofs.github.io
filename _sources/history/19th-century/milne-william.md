@@ -7,10 +7,10 @@ orderid: 1881
 title: Milne (2), William
 born: 1881
 died: 1967
-keywords: Aberdeen, Cambridge, Clifton, Leeds, prime numbers, Fermat, Diophantine
-description: William P Milne studied at Aberdeen and Cambridge, and taught at Clifton and Leeds, pioneering innovative solutions to prime numbers, Fermat's Little Theorem, and Diophantine equations.
+keywords: william milne,milne
+description: William P Milne studied at Aberdeen and Cambridge universities. He taught at Clifton College and then became Professor of Mathematics at Leeds.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William P Milne** studied at Aberdeen and Cambridge universities. He taught at Clifton College and then became Professor of Mathematics at Leeds.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a rigorous proof for the existence of prime numbers.
-2. Constructed a proof of Fermat’s Little Theorem.
-3. Discovered a closed-form solution to certain Diophantine equations.
-4. Resolved an open problem of the distribution of prime numbers.
-5. Pioneered the use of combinatorial geometry in the process of solving algebraic equations.
-6. Formulated a theorem for the number of solutions in the equation of a circle.
-7. Identified new elliptical functions connecting the hypergeometric and Chebyshev polynomials.
-8. Created innovative approaches to solve complex linear equations using differential forms.
-9. Developed an algorithm for solving transcendental equations using power series expansions.
-10. Established Milne's Criterion for testing the convergence of a series.
+* William Milne was educated at Peterhead Academy and Aberdeen Grammar School before going up to Aberdeen University.
+* Almost ten years after he retired, Milne published Eppie Elrick, described at the time as a new doric classic.
+* However, Milne was also interested in mathematical education and published a series of papers and mathematical notes in the Mathematical Gazette.
+* Milne joined the Edinburgh Mathematical Society in December 1910.
+* Even before he was formally through the procedure of membership, his papers were being read to the Society; Triangles Triply in Perspective by Charles McLeod and William P Milne, was communicated to the meeting on Friday 10 June 1910 by A D Russell.
+* At the meeting at which his membership was confirmed, on Friday 9 December 1910, Milne read the paper A harmonic property of cubic curves.
+* Further papers read by Milne to the Society include: The Focal Circles of Circular Cubics  on 10 February 1911; The system of cubic curves circumscribing two triangles and a polar to them (communicated by Neil McArthur to the meeting of 10 November 1911); An easy geometrical representation of the Sextic Covariant of a Binary Quartic (communicated by Neil McArthur to the meeting of 10 November 1911); Investigations on Circular Cubics and Bi-circular Quartics on 10 May 1912; Nonagons nonuply in perspective (communicated by N McArthur on 9 May 1913); Easy Proof of von Staudt's Theorem (communicated by P Comrie on 15 January 1915); The apolar locus of two tetrads of points (communicated by P Ramsay on 12 January 1917); and The co-apolars of a cubic curve (communicated by Archibald Milne on 9 February 1917).
 
 Born 22 May 1881, Longside, Aberdeenshire, Scotland. Died 3 September 1967, Glack, Aberdeenshire, Scotland.
 

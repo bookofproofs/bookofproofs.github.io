@@ -7,10 +7,10 @@ orderid: 1823
 title: Eisenstein, Ferdinand Gotthold Max
 born: 1823
 died: 1852
-keywords: Quadratic, Cubic, Prime Numbers, Theorems, Operational Calculus, Complex Representation, Berlin Academy
-description: Gotthold Eisenstein revolutionized mathematics by proving the law of quadratic reciprocity, exploring prime numbers and theorems, establishing an early form of abstract algebra, creating operational calculus, founding the Berlin Academy and more.
+keywords: gotthold eisenstein,eisenstein
+description: Gotthold Eisenstein worked on a variety of topics including quadratic and cubic forms, the reciprocity theorem for cubic residues, quadratic partition of prime numbers and reciprocity laws.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,48 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gotthold Eisenstein** worked on a variety of topics including quadratic and cubic forms, the reciprocity theorem for cubic residues, quadratic partition of prime numbers and reciprocity laws.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the law of quadratic reciprocity, which provided ways to solve certain types of polynomial equations. 
-2. Proved a number of theorems related to prime numbers. 
-3. Established a method for calculating the nth prime number and for many years his method served as the basis for algorithms for computing primes.
-4. Conducted research into the theory of elliptic functions, and for this work was awarded the Copley medal in 1847. 
-5. He introduced the Eisenstein series of modular forms.
-6. Authored several books on Number Theory including his magnum opus, 'Gesammelte Werke'. 
-7. Pioneered the operational calculus, an early form of mathematical analysis. 
-8. Solved mathematical problems concerning permutations and combinations. 
-9. Introduced the Complex Representation of Numbers, which is an early form of abstract algebra. 
-10. Founded the Berlin Academy of Science and served as editor-in-chief of its journal, the 'Fortschritte der Mathematik'.
+* The family was Jewish but before Gotthold, who was their first child, was born they had converted from Judaism to become Protestants.
+* Their family were not well off, for Johan Eisenstein, after serving in the Prussian army for eight years, found it hard to adjust to a steady job in civilian life.
+* Eisenstein suffered all his life from bad health but at least he survived childhood which none of his five brothers and sisters succeeded in doing.
+* All of them died of meningitis, and Gotthold himself also contracted the disease but he survived it.
+* His mother, Helene Eisenstein, had a major role in her son's early education.
+* This school adopted an almost military style of discipline and a strict formal approach to education which did nothing for Eisenstein's creative nature.
+* In 1837, when he was fourteen years old, Eisenstein entered the Friedrich Wilhelm Gymnasium then moved to the Friedrich Werder Gymnasium in Berlin to complete his schooling.
+* Eisenstein remained at school in Berlin becoming more and more devoted to mathematics.
+* The family tried spending time in Wales and Ireland but Eisenstein's father could not find the right job to give him satisfaction and financial security.
+* As they moved from place to place Eisenstein read Disquisitiones arithmeticae Ⓣ(Investigations in arithmetic) and played the piano whenever it was possible.
+* While in Ireland in 1843 Eisenstein met Hamilton in Dublin, a city he would have dearly liked to have settled in, and Hamilton gave him a copy of a paper that he had written on Abel's work on the impossibility of solving quintic equations.
+* This further stimulated Eisenstein to begin research in mathematics.
+* In June 1843 Eisenstein returned to Germany with his mother who separated from his father at this time.
+* Eisenstein applied to take his final school examinations and was allowed to do so in August/September.
+* Eisenstein enrolled at the University of Berlin in the autumn of 1843 and in January 1844 he delivered Hamilton's paper to the Berlin Academy.
+* Crelle was appointed as referee for Eisenstein's paper and, with his usual intuition for spotting young mathematical talent, Crelle immediately realised that here was a potential genius.
+* Eisenstein met von Humboldt in March 1844.
+* Eisenstein's financial position was poor and von Humboldt went out of his way to obtain grants from the King, the Prussian government, and the Berlin Academy.
+* Had it not been for von Humboldt's personal generosity, Eisenstein would have had a harder time than in fact he had.
+* But Eisenstein was a sensitive person and he was not happy to receive the grants, particularly when he felt that the official ones were given grudgingly.
+* The authorities should certainly have been pleased with the return for their money since Eisenstein published 23 papers and two problems in Crelle's Journal in 1844.
+* In June 1844 Eisenstein went to Göttingen for two weeks to visit Gauss.
+* Gauss had a reputation for being extremely hard to impress, but Eisenstein had sent some of his papers to Gauss before the visit and Gauss was full of praise.
+* At this time Eisenstein was working on a variety of topics including quadratic and cubic forms and the reciprocity theorem for cubic residues.
+* It was a highly successful visit and Eisenstein made a friend at Göttingen, namely Moritz Stern.
+* Kummer arranged that the University of Breslau award Eisenstein an honorary doctorate in February 1845.
+* Jacobi had also been involved in arranging this honour, but Eisenstein and Jacobi were not always on the best of terms having a very up and down relationship.
+* From 1846 to 1847 Eisenstein worked on elliptic functions and in the first of these years he was involved in a priority dispute with Jacobi.
+* In 1847 Eisenstein received his habilitation from the University of Berlin and began to lecture.
+* Riemann attended lectures that he gave on elliptic functions in that year and we comment below on possible interaction between Riemann and Eisenstein at this time.
+* Eisenstein attended some pro-democracy meetings but did not play any active political role.
+* However, on 19 March 1848, during street fighting in Berlin shots were fired on the King's troops from a house which Eisenstein was in (although it was not his own house) and he was arrested.
+* Despite his health problems Eisenstein published one treatise after another on quadratic partition of prime numbers and reciprocity laws.
+* He was receiving many honours, for example Gauss proposed Eisenstein for election to the Göttingen Academy and he was elected in 1851.
+* Early in 1852, at Dirichlet's request, Eisenstein was elected to the Berlin Academy.
+* Eisenstein died of pulmonary tuberculosis at the age of 29.
+* His great supporter Alexander von Humboldt, by that time 83 years of age, followed Eisenstein's coffin at the cemetery.
+* He had successfully obtained funds to allow Eisenstein to spend time in Sicily in order to recover his health, but it was too late.
+* There are three major areas of mathematics to which Eisenstein contributed and we have already mentioned them above.
+* In his work on this topic Eisenstein used Kummer's theory of ideals.
+* The third topic to which Eisenstein made a major contribution was the theory of elliptic functions.
+* This book by Weil shows that Eisenstein's approach is of major importance to the mathematics which is being developed today, a great tribute to a genius who died 150 years ago.
 
 Born 16 April 1823, Berlin, Germany. Died 11 October 1852, Berlin, Germany.
 

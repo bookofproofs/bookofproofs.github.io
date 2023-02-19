@@ -7,10 +7,10 @@ orderid: 1939
 title: Tapia, Richard Alfred
 born: 1939
 died: 0
-keywords: Richard Tapia, National Medal of Science, Mathematical Optimisation, Diversity Education, Nonlinear Programming, G.W. Stewart Prize, Tapia Center for Excellence
-description: Richard Tapiais an influential mathematician who championed diversity in education, receiving the National Medal of Science, establishing groundbreaking education programs and making contributions to fields such as nonlinear programming and optimization algorithms.
+keywords: richard tapia,tapia
+description: Richard Tapia is an American mathematician who worked in mathematical optimisation. He is known as a champion of diversity in US education.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Richard Tapia** is an American mathematician who worked in mathematical optimisation. He is known as a champion of diversity in US education.
 
 ### Mathematical Profile (Excerpt):
-1. Received the National Medal of Science in 2012 for his contributions to mathematics, science education, and for being a role model for Hispanic Americans in these fields. 
-2. Appointed to the National Science Board and served as a member from 2002–2008. 
-3. Established the groundbreaking education program, Expanding Your Horizons in Science & Mathematics, in 1975.
-4. Was appointed Rice University’s Maxfield and Oshman Professor in the Practice in Engineering in 1992. 
-5. Authored four books on optimization, including the first textbook on nonlinear programming (1973).
-6. His research on nonlinear equations has been applied to fields as diverse as chemistry and petroleum engineering. 
-7. Won the G.W. Stewart Prize for “his pioneering work in numerical linear algebra, nonlinear optimization, learning theory, and computer algorithms” in 1993. 
-8. Met with NASA to help design the Space Shuttle Discovery mission in 1991.
-9. Made significant contributions to the understanding of optimization algorithms and the optimization of complicated, highly nonlinear systems.
-10. Created the Tapia Center for Excellence and Equity at Rice University in 2002.
+* He was born into an Hispanic American family with his father Amado Tapia emigrating to the United States from Nayarit in Central Mexico, while his mother Magda emigrated from Chihuahua in Northern Mexico.
+* Richard and his twin brother were the eldest children in the family of five, having two younger brothers and one sister.
+* Richard and his brother developed another interest while at school which had nothing to do with their academic work.
+* It was an interest which Richard continued to enjoy and he went on to hold a drag racing world record in 1968.
+* Instead of going to the University of California, Tapia studied at Harbor Junior College in Wilmington, California.
+* The University of California at Los Angeles awarded Tapia an B.A. in 1961.
+* Tapia did not proceed immediately to graduate studies but first he was employed as a mathematician working on ship design at Todd Shipyards, San Pedro, California.
+* After working in the Department of Mathematics at UCLA in 1967-68, during which time his second child Richard was born, he then spent the next two years on an applied mathematics postdoctoral fellowship at the University of Wisconsin.
+* In 1970 Hamel versus Schauder dimension was published by Tapia in the American Mathematical Monthly.
+* It was in this year of 1970 that Tapia moved to Rice University in Houston, Texas, where he was promoted to associate professor two years later, and then to full professor in 1976.
+* Tapia has seen two different, but closely related, strands to his career.
+* Tapia has received many awards for his outstanding contributions.
+* In the same year he was honoured with the inauguration of the Blackwell-Tapia Lecture Series by Cornell University, Ithaca.
 
 Born 25 March 1939, Santa Monica, California, USA.
 

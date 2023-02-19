@@ -7,10 +7,10 @@ orderid: 1919
 title: Iii, Clifford Ambrose Truesdell
 born: 1919
 died: 2000
-keywords: Rational Thermodynamics, Liquefaction, Geometric Concepts, Applied Mechanics, Continuity, Normal Stress, Statistical Thermodynamics, Elasticity
-description: Clifford Truesdell, noted American mathematician & hist. of science, developed theories of rational thermodynamics, fluid phenomena, geometric concepts and applied mechanics, continuity, normal stress & statistical thermodynamics, and nonlinear elasticity.
+keywords: clifford ambrose truesdell iii,iii
+description: Clifford Truesdell was an American mathematician best known as a historian of science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Clifford Truesdell** was an American mathematician best known as a historian of science.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of rational thermodynamics, which described the physical and mathematical relations between temperature, energy, and phase change.
-2. Developed a thermodynamical characterization of simple fluids and phenomena related to them, thereby providing the mathematical basis of liquefaction theory.
-3. Recognized the pragmatic relevance of geometric concepts and extended their application to mechanics and hydrodynamics.
-4. Contributed to the postwar renewal of the tradition of mathematical research in continuum mechanics and rejuvenated the field of rational mechanics.
-5. Developed the theory of simultaneous approximation and reflexivity, which helped to create a solid foundation for applied mechanics.
-6. Introduced the concept of inequalities in the continuity of a function, which was of great importance for the theoretical foundation of physical findings.
-7. Developed the mathematical models of the normal stress law and applied the theories to the stress and strain relationships of elastic bodies.
-8. Established the foundational aspects of continuum thermodynamics and became recognized as the founder of modern thermomechanics. 
-9. Founded the field of statistical thermodynamics, which deals with the study and optimization of macroscopic energy states.
-10. Led the most comprehensive research into the equations of nonlinear elasticity, which is now a cornerstone of the mathematical theory of elasticity.
+* Perhaps a more detailed look at the "Clifford Ambrose Truesdell" name would be more helpful.
+* The original Clifford Ambrose Truesdell was born in 1863 (and died in 1937).
+* He married Yetta Helen Walker (1897-1987) and they named their first child Clifford Ambrose Truesdell III.
+* These men had a major influence on Truesdell who received a B.S. (Mathematics) and a B.S. (Physics) in 1941.
+* They had one son who, not surprisingly, they named Clifford Ambrose Truesdell IV.
+* After receiving his first degree, Truesdell continued to work at Caltech for his Master's Degree in mathematics which he was awarded in 1942.
+* But Bateman was also a man who "saw the whole of the mathematical sciences as a continuum without compartments" and who "saw no difference in style or standard between pure mathematics and applied", values that Truesdell's own research were to exemplify.
+* Leaving Caltech, Truesdell went to Brown University in Providence, Rhode Island, where he was employed as an Assistant in Mechanics in the School of Mathematical Mechanics.
+* His thesis advisor at Princeton was Solomon Lefschetz but Truesdell had begun work on his thesis during the summer of 1942 while at Brown University.
+* While at Princeton working on his thesis, Truesdell attended Alonzo Church's graduate course Introduction to Mathematical Logic and the notes that he took became Church's book published with this title in 1944.
+* After rapidly obtaining a Ph.D. from Princeton, Truesdell was employed for the year 1943-44 as an Instructor of Mathematics at Michigan University.
+* An excellent example of this is Truesdell's major paper The mechanical foundations of elasticity and fluid mechanics (1952).
+* After Truesdell's first marriage to Beverly ended, he married Charlotte Janice Brudno on 16 September 1951.
+* Truesdell was asked by T Y Thomas to join him in founding a new journal and they set about the task of founding the Journal of Rational Mechanics and Analysis.
+* Truesdell and Thomas became the two editors-in-chief and Truesdell's wife Charlotte became their editorial assistant.
+* However, only five volumes of the Journal were published before a new head of department at Indiana removed Truesdell as an editor and changed the name of the Journal.
+* However, Truesdell was able to continue publication of the journal under the title Archive for Rational Mechanics and Analysis  when Springer-Verlag agreed to take over publication in December 1956.
+* Truesdell now became the sole editor-in-chief and most of the editorial team of the Journal joined the Board of the Archive.
+* Truesdell felt the house was not sufficiently Renaissance, so he engineered and oversaw a variety of changes to create a more Italian feel.
+* When the Truesdells entertained, they often hired musicians to play Renaissance works on period instruments in the home's massive front hall.
+* We have given some indication of Truesdell's mathematical contributions but to illustrate these further the reader might like to look at some of the books he published.
+* The extracts from reviews and Prefaces that we present give considerable insight into Truesdell's style and range of contributions.
+* Truesdell retired from his chair at Johns Hopkins University in 1989 and was made Professor Emeritus.
 
 Born 18 February 1919, Los Angeles, California, USA. Died 14 January 2000, Baltimore, USA.
 

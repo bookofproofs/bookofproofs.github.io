@@ -7,10 +7,10 @@ orderid: 1926
 title: Spence (2), David
 born: 1926
 died: 2003
-keywords: David Spence,Mathematician,Aeronautics,Geophysical,Mechanics,Algebraic Geometry,Graph Theory,Probability
-description: David Spence, a New Zealand-born mathematician, was an influential figure in aeronautics and geophysical problems, developing theories in mechanics, algebraic geometry and more.
+keywords: david spence,spence
+description: David Spence was a New Zealand-born mathematician who worked in the aeronautics industry and on geophysical problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **David Spence** was a New Zealand-born mathematician who worked in the aeronautics industry and on geophysical problems.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an exhaustive theory of mechanics, laying out a mathematical foundation for the conservation of mechanical energy.
-2. Found a solution to the three-body problem in celestial mechanics.
-3. Published several prominent contributions to algebraic geometry.
-4. Proposed a variety of theorems and improved upon existing theories in the field of mathematics.
-5. Devised innovative techniques for graph theory, linear programming, and numerical analysis.
-6. Developed a comprehensive theory on the interaction between probability and statistics.
-7. Explored the dynamic properties of materials, mathematically modelling brittle and elastic motion in materials.
+* David grew up, attended school, and did his undergraduate work in New Zealand.
+* Spence did not enter the academic world after his doctorate but went to the Royal Aircraft Establishment at Farnborough.
+* Spence studied a two-dimensional airfoil placed in an inviscid, incompressible, steady fluid flow, in particular a thin jet coming from its trailing edge of the airfoil.
+* Obtaining equations under special conditions, Spence found numerical results for lift, pitching moment, and jet shape, which he compared with experimental results obtained from a wind tunnel.
+* In 1964 Spence left the Royal Aircraft Establishment to enter the academic world.
+* Spence applied his results on compression of solids to obtain a better understanding of geophysical problems.
+* Spence retired from his chair at Imperial College, London, in 1991 when he reached the age of 65.
 
 Born 3 January 1926, Auckland, New Zealand. Died 7 September 2003, Headington, Oxford, England.
 

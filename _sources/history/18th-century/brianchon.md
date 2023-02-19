@@ -7,10 +7,10 @@ orderid: 1783
 title: Brianchon, Charles Julien
 born: 1783
 died: 1864
-keywords: Brianchon, French mathematician, projective geometry, hexagon, conic section, polynomial, Euler's theorem
-description: Charles-Julien Brianchon, a French mathematician, published prolifically on projective geometry, developing theorems on hexagons, conic sections, polynomials and extending Euler's theorem.
+keywords: charles-julien brianchon,brianchon
+description: Charles-Julien Brianchon was a French mathematician who worked on projective geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles-Julien Brianchon** was a French mathematician who worked on projective geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Published a theorem about projective geometry in 1837 and proved it using homogeneous coordinates. 
-2. He introduced the concept of what is now known as Brianchon’s theorem, which states that the six vertices of a hexagon inscribed in a conic section are divided by the four sides of the hexagon into three pairs of collinear points. 
-3. He also discovered the theorem, now known as the Brianchon-Cesaro theorem, which states that the lines connecting the opposite vertices of a hexagon inscribed in a conic section intersect in a point. 
-4. Developed a function of three variables which allowed him to write polynomials with arbitrary coefficients in a unique form, now known as the Brianchon-Gram Identity. 
-5. Discovered formulas used in enumerative geometry for the area of a convex polygon and the volume of a tetrahedron. 
-6. Developed a theorem for the existence of conic sections which is now referred to as Brianchon’s theorem. 
-7. Constructed a three dimensional polyhedron from a conic section which he also referred to as Brianchon’s theorem. 
-8. Extended the concept of Euler’s theorem to 3-dimensional figures.
+* At the École Polytechnique in Paris, Brianchon studied under Monge.
+* In that paper Brianchon rediscovered Pascal's Magic Hexagon.
+* This result is often called Brianchon's Theorem and it is the result for which he is best known.
+* Brianchon graduated in 1808 as first in his class.
+* At around this time Brianchon graduated from the École Polytechnique and became a lieutenant in artillery in Napoleon's army.
+* Brianchon is said to have fought bravely in Napoleon's campaign in both Portugal and in Spain, but he was on the losing side for Napoleon's forces were defeated in both Spain and Portugal.
+* Not only was Brianchon a brave soldier, but he was also said to be a very able one.
+* Brianchon remained with Napoleon's troops through the next few years but, despite a fine military career, the hard army life affected his health.
+* Between 1816 and 1818 while he was seeking a teaching appointment Brianchon wrote a number of papers.
+* In these Brianchon proved several further important results in the projective study of conics.
+* However, Brianchon did less and less research into mathematics after his teaching appointment and he turned to other interests.
+* By 1823 Brianchon's interests were turning to teaching and to chemistry.
 
 Born 19 December 1783, Sèvres, France. Died 29 April 1864, Versailles, France.
 

@@ -7,10 +7,10 @@ orderid: 1877
 title: Brown, Alexander
 born: 1877
 died: 1947
-keywords: Alexander Brown, Edinburgh, Cambridge, Applied Mathematics, Geometry, Probability, Bernoulli
-description: Alexander Brown, a professor of Applied Mathematics from Edinburgh and Cambridge, discovered the connection between Probability and Bernoulli's Law of Large numbers.
+keywords: alexander brown,brown
+description: Alexander Brown studied at Edinburgh and later at Cambridge. He became Professor of Applied Mathematics at the South African College which later became the University of Cape Town. His main contributions were to Geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,19 +20,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Alexander Brown** studied at Edinburgh and later at Cambridge. He became Professor of Applied Mathematics at the South African College which later became the University of Cape Town. His main contributions were to Geometry. 
+**Alexander Brown** studied at Edinburgh and later at Cambridge. He became Professor of Applied Mathematics at the South African College which later became the University of Cape Town. His main contributions were to Geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical model for calculating the probability of a given event. 
-2. Discovered the connection between probability theory and Bernoulli’s law of large numbers. 
-3. Constructed mathematical tables for solving probability problems. 
-4. Published the book “The Elements of Probability” in 1705, which was the first comprehensive work on the subject. 
-5. Established the theory of mathematical expectation. 
-6. Formulated a formula to find the average value of a future event. 
-7. Developed a method to calculate the value of any given joint distribution. 
-8. Constructed a method to calculate the expected value of a random variable. 
-9. Demonstrated the connection between probability calculus and calculus of real analysis.
-10. Introduced the probability generating function.
+* Brown graduated with an M.A. with First Class Honours in Mathematics and Natural Philosophy in April 1897 and was awarded a B.Sc. (Pure), also in 1897.
+* Brown then taught as a Mathematics Master at Dundee High School for session 1897-8, then went to Gonville and Caius College of the University of Cambridge.
+* In 1903 Brown was appointed as Professor of Applied Mathematics in the South African College.
+* Brown was elected a Fellow of the Royal Society of South Africa in 1918, was on its Council from 1931 to 1935 and again in 1941, was its Honorary Treasurer from 1936 to 1940, and President from 1942 to 1945.
+* Alexander Brown was elected to the Royal Society of Edinburgh on 20 May 1907, his proposers being George Chrystal, Arthur John Pressland, John Sturgeon Mackay, and John Alison.
 
 Born 5 May 1877, Dalkeith, near Edinburgh, Scotland. Died 27 January 1947, Cape Town, South Africa.
 

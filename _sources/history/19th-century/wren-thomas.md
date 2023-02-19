@@ -7,10 +7,10 @@ orderid: 1889
 title: Wren (2), Thomas Lancaster
 born: 1889
 died: 1972
-keywords: Thomas Wren, Mathematics, Geometry, Navigation, Astronomy, Optics, Mechanics, Thermodynamics
-description: Thomas Wren, an 18th-century English mathematician, developed innovative theories & methods in geometry, navigation, astronomy, optics, mechanics & thermodynamics.
+keywords: thomas lancaster wren,wren
+description: Thomas Wren was an English mathematician whose main work was in geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Thomas Wren** was an English mathematician whose main work was in geometry.
 
 ### Mathematical Profile (Excerpt):
-1. He adapted the classical theory of conic sections to the needs of navigation and astronomy.
-2. He developed a method to calculate the gravitational field of an ellipsoid.
-3. He invented a plane chart map projection often referred to as the 'Wren Projection'.
-4. He was a leading figure in early 18th century mathematics.
-5. He wrote several treatises on the convergence of infinite series.
-6. He worked on the theory of logarithms, calculating tables of logarithms from base 10 to base 14.
-7. He developed a method for accurately computing the gravitational attraction on a spherical body.
-8. He contributed to the first English textbooks on geometry, optics, and mechanics.
-9. He studied the thermodynamics of a fluid, discovering the equation of motion for a perfect fluid.
-10. He published a memoir on an inclined plane with sloping sides and variable angles of inclination.
+* Thomas and Amy Elizabeth were married on 5 August 1884 in Hammersmith, Middlesex, England.
+* Thomas, the subject of this biography, entered Latymer Upper School in 1896.
+* It moved into new buildings in 1890, the year after Wren was born, and these buildings are still part of the school today.
+* When Wren studied there it was a boys' school and, after an excellent education, he graduated in  1908.
+* Wren held this fellowship from 1913 to 1919 and, in addition, he was an Assistant in Mathematics at Bedford College, London, during the academic year 1913-14.
+* Now, by the time Wren was appointed as a College lecturer at Cambridge, Britain was already at war having declared war on Germany after that country invaded Belgium on 4 August 1914.
+* Wren had been in the Officers Training Corps while an undergraduate at Cambridge and, after teaching at Cambridge for the academic year 1914-15, he joined the Army.
+* Other mathematicians serving in the Anti-Aircraft Experimental Section included William Edward Hodgson Berwick who was one year older than Wren and had taken the same Cambridge Mathematical Tripos examinations one year earlier.
+* Richmond was much older than Wren and had graduated from Cambridge before Wren was even born.
+* The interplay between these mathematicians working in the Anti-Aircraft Experimental Section was very effective and Wren always said what stimulating contacts he had made at that time.
+* The war ended in November 1918, and in February 1919 Wren returned to his position as a fellow and College lecturer at Cambridge.
+* However, it should be recorded that L N G Filon dedicated the second edition of his 'Introduction to projective geometry' to Wren, acknowledging that without Wren's friendly and unselfish help he could never have accomplished his task.
+* Mr Wren very kindly undertook the laborious task of looking over the whole manuscript of the revised work and has actually checked practically every example, and suggested many new ones.
+* A joint seminar, established by J G Semple and Wren and held alternately at King's and University Colleges, promoted the exchange of such ideas.
+* Geometry was not Wren's only contribution.
+* Although Wren only published four papers, he did also write some excellent review articles such as his review of The Theory of Ruled Surfaces (1931), by W L Edge.
+* After a long period when he ceased to be able to move about easily but remained otherwise as alert as ever, Wren died on 14th  July, 1972.
 
 Born 18 April 1889, Islington, London, England. Died 14 July 1972, Kensington, London, England.
 

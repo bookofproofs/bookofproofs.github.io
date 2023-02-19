@@ -7,10 +7,10 @@ orderid: 1932
 title: Malone-Mayes, Vivienne
 born: 1932
 died: 1995
-keywords: Vivienne Malone-Mayes, mathematics, PhD, algebra, geometry, trigonometry, MAA, NCTM, American Mathematical Monthly
-description: Vivienne Malone-Mayeswas a pioneering American mathematician and educator, earning a PhD in mathematics in 1965 and establishing math programs, editing journals and writing textbooks.
+keywords: vivienne malone-mayes,malone-mayes
+description: Vivienne Malone-Mayes was an American mathematician and educationalist.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vivienne Malone-Mayes** was an American mathematician and educationalist.
 
 ### Mathematical Profile (Excerpt):
-1. Became the first African American woman to earn a PhD in mathematics from the University of Texas at Austin in 1965. 
-2. Authored a mathematics textbook exploring the fundamentals of algebra, geometry and trigonometry. 
-3. Taught courses in Mathematics at Wiley College, Huston-Tillotson College and Prairie View A&M University. 
-4. Received several awards, such as the National Science Foundation Fellowship, the University of Texas fellowship and the Fulbright fellowship. 
-5. Served as a board member for the Mathematical Association of America (MAA) and the National Council of Teachers of Mathematics (NCTM). 
-6. Served as the editor of the MAA’s American Mathematical Monthly publication. 
-7. Established multiple mathematics programs for university students working to earn a master’s degree. 
-8. Authored journal articles on topics such as discovering equations of circles and exploring integral functions.
+* Vivienne's parents were both very keen that she should have the best possible education and she started school at the age of five years, one year earlier than she should have done.
+* She continued to study for her Master's degree at Fisk and in 1954 she was awarded an M.A. Although inspired by Granville to aim at a Ph.D. Malone-Mayes did not set out on that route immediately after the award of her master's degree, rather she returned to Waco where she was Chair of the Mathematics Department at Paul Quinn College, operated by the African Methodist Episcopal Church.
+* Her husband opened a dental practice in Waco and Malone-Mayes spent seven years in this post.
+* In 1961 Malone-Mayes decided that she wanted to study more mathematics.
+* Malone-Mayes studies those steady states that are periodic and continuous, in which case she proves that they are unique.
+* Malone-Mayes felt that her position at Baylor was weakened by this and she made a number of complaints about her treatment.
+* Finally we should record some more of Malone-Mayes's achievements.
 
 Born 10 February 1932, Waco, Texas, USA. Died 9 June 1995, Temple, Texas, USA.
 

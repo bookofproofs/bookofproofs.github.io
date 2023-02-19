@@ -7,10 +7,10 @@ orderid: 1832
 title: Tucker, Robert
 born: 1832
 died: 1905
-keywords: Robert Tucker, London Mathematical Society, Tucker operator, partial differential equations, nonlinear analysis, fractional calculus, chaos theory
-description: Mathematician Robert Tucker established the concept of the "Tucker operator" and pioneered theories in nonlinear dynamics and chaos theory during his 30+ years at the London Mathematical Society.
+keywords: robert tucker,tucker
+description: Robert Tucker was an English mathematician, who was secretary of the London Mathematical Society for more than 30 years.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Tucker** was an English mathematician, who was secretary of the London Mathematical Society for more than 30 years.
 
 ### Mathematical Profile (Excerpt):
-1. Established the concept of the “tucker operator” and derived novel equations to analyze material behavior. 
-2. Developed a unifying approach to solve mathematical equations involving partial differential equations. 
-3. Proved theorems fundamental to the field of nonlinear analysis. 
-4. Pioneered new analytical methods for the study of linear and nonlinear dynamical systems. 
-5. Pioneered research in the mathematical fields of fractional calculus and chaos theory.
-6. Contributed to the development of modern optimization theory. 
-7. Demonstrated that certain dynamical systems obey the laws of chaos theory. 
-8. Created the mathematical basis for a variety of new theories in nonlinear dynamics and chaos theory.
+* Fanny's maiden name was Tucker, the same as her married name, Robert and Fanny being second cousins.
+* Robert Tucker Sr. was in the Army, an occupation that many of the Tucker family followed.
+* However Robert Tucker Sr. died when Robert, the subject of this biography, was still an infant.
+* Robert attended school in Newport before going to Woodard School at New Shoreham.
+* The head of this latter school was Henry Jacobs, a cousin of Robert Tucker, who gave him much encouragement and support.
+* Robert was encouraged to sit the examinations to win a sizarship at St John's College, Cambridge, and although he was unsuccessful at his first attempt, he tried successfully in the following year.
+* Following this, Tucker remained at Cambridge studying Hebrew and Moral Philosophy before taking up an appointment as a mathematics teacher.
+* The Head Master of the school, Professor Key, influenced chiefly by the warm support of Mr Tucker's candidature by Isaac Todhunter, appointed him to the post which he was to fill so well until July 1899.
+* In April 1866, Tucker married Elizabeth Byles, the only daughter of William Byles of Freshwater; they had three daughters.
+* Tucker had already become a member of the London Mathematical Society before his marriage.
+* This was not too surprising since by the time the Society was founded in 1865, Tucker was teaching at University College School while the Society held its meetings in University College for the first couple of years after its foundation.
+* Tucker was one of the 70 who joined the Society during 1865, joining in October of that year.
+* He held this position until 1902 and, remarkably, served under 19 different Presidents: J J Sylvester, A Cayley, W Spottiswoode, T A Hirst, H J S Smith, Lord Rayleigh, C W Merrifield, S Roberts, O Henrici, J W L Glaisher, J Cockle, J J Walker, G Greenhill, A B Kempe, P A MacMahon, E B Elliott, W Thomson, E W Hobson, and H Lamb.
+* During the 35 years that he was secretary, Tucker only missed three meetings of the Society.
+* Fifty-seven of Clifford's papers were collected and edited by Tucker and published in 1882 as Mathematical Papers.
+* Tucker also wrote many biographies including those of Gauss, Sylvester, Chasles, Spottiswoode, and Hirst, all of which appeared in Nature.
+* Finally let us mention one further point of interest concerning Tucker.
+* He was an avid collector of photographs of mathematicians connected with the London Mathematical Society and his collection, now called the 'Tucker Collection', is kept in the archives in De Morgan House in London.
 
 Born 26 April 1832, Walworth, Surrey, England. Died 29 January 1905, Worthing, England.
 

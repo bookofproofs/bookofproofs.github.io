@@ -7,10 +7,10 @@ orderid: 1914
 title: Spitzer, Lyman
 born: 1914
 died: 1997
-keywords: Lyman Spitzer, Space Telescope, Nuclear Fusion, Plasma Physics, MHD, Star Formation, Hubble Space Telescope
-description: Lyman Spitzer was an American physicist and astronomer who developed the space telescope and wrote papers on nuclear fusion, plasma physics, MHD, and star formation. He was a key figure in the development of the Hubble Space Telescope.
+keywords: lyman spitzer,spitzer
+description: Lyman Spitzer was an American theoretical physicist and astronomer best known for pioneering the idea of a space telescope. He also worked on nuclear fusion.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lyman Spitzer** was an American theoretical physicist and astronomer best known for pioneering the idea of a space telescope. He also worked on nuclear fusion.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theoretical framework for plasma physics. 
-2. Pioneered the study of magnetohydrodynamics (MHD) by using high-speed computers 
-3. Performed pioneering work in turbulent flow, shock waves and supersonic flow. 
-4. Showed how interstellar dust could form stars, planets, and galaxies. 
-5. Used mathematical models to project the motion and stability of stars within a galaxy. 
-6. Developed an algorithm for simulating the behaviour of subatomic particles in an MHD environment. 
-7. Wrote several influential books and papers on space astronomy and related topics. 
-8. Authored influential papers on stellar classification, star formation, and galactic structure. 
-9. Was an influential figure in the development of the Hubble Space Telescope.
+* His middle name of 'Strong' came from Lyman Strong Spitzer Sr.'s mother Sarah Elizabeth Strong who was married to Adelbert Lorenzo Spitzer.
+* Spitzer Sr. worked in Real Estate in Toledo and later was Manager of a paper and box company.
+* Lyman Jr attended Scott High School in Toledo and then studied at Phillips Academy in Andover, Massachusetts, graduating in 1931.
+* Having won a fellowship to St John's College, Cambridge to enable him to study there during the academic year 1935-36, he was taught by Arthur Eddington and was strongly influenced by Subrahmanyan Chandrasekhar who was about four years older than Spitzer.
+* After his year abroad, Spitzer returned to the United States and entered Princeton University where he earned his Master's degree in 1937.
+* Henry Norris Russell, who had supervised Spitzer's doctoral studies at Princeton, was retiring and Princeton was seeking to fill the Chair of Astronomy.
+* In the second half of the 1940s Spitzer became interested in space astronomy.
+* His involvement in space astronomy has made Spitzer well known by the general public, but he made many other highly significant advances.
+* Two years later Spitzer published the paper The stellarator concept  describing further results from his Laboratory.
+* The third area which Spitzer helped to shape is that of stellar dynamics.
+* In 1952, Spitzer was named the Charles A Young Professor of Astronomy at Princeton.
+* Spitzer had the vision to propose a space telescope in 1946 and was, of course, much involved with the Hubble Space Telescope.
+* Dr Spitzer's revolutionary paper, written in the 1940s, was the first to propose the idea of putting telescopes into space, and thus above the blurring effects of the Earth's atmosphere, which not only revolutionised the science of astronomy, but it also pulled back the atmospherically induced blinders we had lived with for so long and revealed the true wonder and beauty of the universe.
 
 Born 26 June 1914, Toledo, Ohio, USA. Died 31 March 1997, Princeton, New Jersey, USA.
 

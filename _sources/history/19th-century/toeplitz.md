@@ -7,10 +7,10 @@ orderid: 1881
 title: Toeplitz, Otto
 born: 1881
 died: 1940
-keywords: Toeplitz, linear, quadratic, infinite, integral equations, functional analysis, recursive algorithm
-description: Toeplitz developed many theories related to linear and quadratic forms, such as integral equations and functional analysis, as well as a recursive algorithm for inversion of Toeplitz matrices.
+keywords: otto toeplitz,toeplitz
+description: Toeplitz worked on infinite linear and quadratic forms. In the 1930's he developed a general theory of infinite dimensional spaces and criticised Banach's work as being too abstract.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Toeplitz** worked on infinite linear and quadratic forms. In the 1930's he developed a general theory of infinite dimensional spaces and criticised Banach's work as being too abstract.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of integral equations in 1904 and established a theory of positive linear operators.
-2. Established the theory of mathematical transformation groups, now known as Toeplitz groups, in 1907.
-3. Established the branch of mathematics called functional analysis in 1910.
-4. Discovered the theorems of ideal theory in 1912.
-5. Developed the field of integral equations in 1920 and extended it to the theory of integral operators and linear functionals.
-6. Published the seminal book on “Integral Equations” in 1932.
-7. Was among the first to develop the theories for deductive approximation in the 1940s.
-8. Devised the recursive algorithm for the inversion of Toeplitz matrices in the 1950s.
-9. Developed a unified theory of stable polynomials in 1965.
-10. Co-developed the theory of shifted Toeplitz operators with K. Tedford in the 1990s.
+* Both his father, Emil Toeplitz, and his grandfather, Julius Toeplitz, taught mathematics in a Gymnasium and they also both published mathematics papers.
+* Otto was brought up in Breslau and he attended a Gymnasium in that city.
+* After completing his secondary education in Breslau, Toeplitz entered the university there to study mathematics.
+* In 1906 Toeplitz went to Göttingen.
+* This greatly influenced Toeplitz who began to rework the classical theories of forms on nnn-dimensional spaces for infinite dimensional spaces.
+* Also during this period he published a paper on summation processes and discovered the basic ideas of what are now called the 'Toeplitz operators'.
+* When Toeplitz arrived in Göttingen, Hellinger was a doctoral student there.
+* Hellinger left Göttingen in 1909, four years before Toeplitz, but before that the two were already producing joint papers.
+* It was not until 1913 that Toeplitz was offered a teaching post as extraordinary professor at the University of Kiel.
+* In 1928 Toeplitz accepted an offer of a chair at the University of Bonn.
+* Toeplitz kept his lecturing post in Bonn in 1933.
+* However Toeplitz was dismissed from his chair by the Nazis in 1935 despite the exemption clause in the Civil Service Law which was simply disregarded after decisions at the Nuremberg party congress in the autumn of 1935.
+* Toeplitz had not instantly left Germany in 1933 when the Nazis came to power.
+* Toeplitz worked on infinite linear and quadratic forms.
+* In a joint paper with Köthe in 1934, Toeplitz introduced, in the context of linear sequence spaces, some important new concepts and theorems.
+* Toeplitz was also very interested in the history of mathematics.
+* Toeplitz was also greatly interested in school mathematics and devoted much time to it.
 
 Born 1 August 1881, Breslau, Germany (now Wrocław, Poland). Died 15 February 1940, Jerusalem (under the British Mandate at the time).
 

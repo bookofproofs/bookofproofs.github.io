@@ -7,10 +7,10 @@ orderid: 1781
 title: Poisson, Siméon Denis
 born: 1781
 died: 1840
-keywords: Poisson, definite integrals, Fourier series, calculus, analysis, Laplace equation, Cauchy's Theorem
-description: Poisson made multiple contributions to calculus, analysis, and mathematics, such as the Poisson integral formula and the Poisson distribution. He also demonstrated the importance of potential theory and developed local minima.
+keywords: siméon-denis poisson,poisson
+description: Siméon-Denis Poisson worked on definite integrals and Fourier series. This was the foundation of later work in this area by Dirichlet and Riemann.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,49 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Siméon-Denis Poisson** worked on definite integrals and Fourier series. This was the foundation of later work in this area by Dirichlet and Riemann.
 
 ### Mathematical Profile (Excerpt):
-1. Made significant contributions to the field of analysis, particularly in the study of curved surfaces, differential equations, and the calculus of variations. 
-2. Developed the Poisson integral formula, which expresses the solution of Laplace's equation in two dimensions.
-3. Discovered the Poisson distribution which, among other applications, is used to describe the frequency of events in a given time period. 
-4. Was the first to prove Cauchy's Convergence Theorem, which states that a sequence of functions converges uniformly if and only if the sequence of its derivatives converges in a particular manner. 
-5. Demonstrated the importance of potential theory by using it to investigate the orbits of moving planets. 
-6. Helped develop the concept of local minima, a key tool in mathematical optimization. 
-7. Discovered the Poisson summation formula, which assists in deriving mathematical results pertaining to infinite sums. 
-8. Developed the Poisson kernel, which can be used to construct solutions to certain elliptic partial differential equations. 
-9. Works on game theory and probability are referenced to this day. 
-10. Was the first to devise a fruitful and systematic approach to the mathematical theory of elasticity.
+* The main reason for this was that the army was one of the few occupations where the nobility enjoyed significant institutional privileges and Poisson's father had been a soldier.
+* Certainly Poisson's father was discriminated against by the nobility in the upper ranks of the army and this made a large impression on him.
+* After retiring from active service he was appointed to a lowly administrative post which he held at the time that his son Siméon-Denis was born.
+* There is no doubt that Siméon-Denis's family put a great deal of energy into helping him have a good start in life.
+* Siméon-Denis was not the first of his parents children but several of his older brothers and sisters had failed to survive.
+* Siméon-Denis was eight years old when the Parisian insurrection of 14 July 1789 heralded the start of the French Revolution.
+* As might be expected of someone who had suffered discrimination at the hands of the nobility, Poisson senior was enthusiastic about the political turn of events.
+* Poisson's father decided that the medical profession would provide a secure future for his son.
+* An uncle of Poisson's was a surgeon in Fontainebleau and Poisson was sent there to become an apprentice surgeon.
+* However, Poisson found that he was ill suited to be a surgeon.
+* Poisson returned home from Fontainebleau having essentially failed to make the grade in his apprenticeship and his father had to think again to find a career for him.
+* In 1796 Poisson was sent back to Fontainebleau by his father, this time to enrol in the École Centrale there.
+* Few people can have achieved academic success as quickly as Poisson did.
+* A memoir on finite differences, written when Poisson was 18, attracted the attention of Legendre.
+* However, Poisson found that descriptive geometry, an important topic at the École Polytechnique because of Monge, was impossible for him to succeed with because of his inability to draw diagrams.
+* This would have been an insurmountable problem had he been going into public service, but those aiming at a career in pure science could be excused the drawing requirements, and Poisson was not held back.
+* Poisson was named deputy professor at the École Polytechnique in 1802, a position he held until 1806 when he was appointed to the professorship at the École Polytechnique which Fourier had vacated when he had been sent by Napoleon to Grenoble.
+* In fact Poisson had little time for politics for rather his whole energies were directed to support mathematics, science, education and the École Polytechnique.
+* When the students at the École had been about to publish an attack on Napoleon's ideas for the Grand Empire in 1804, Poisson had managed to stop them, not because he supported Napoleon's views but rather because he saw that the students would damage the École Polytechnique by their actions.
+* Poisson's motives were not understood by Napoleon's administration, however, and they saw Poisson as a supporter which did his career no harm at all.
+* During this period Poisson studied problems relating to ordinary differential equations and partial differential equations.
+* Bossut was 76 years old at the time and, had he died, Poisson would have gained a place.
+* However Bossut lived for another seven years so there was no route into the mathematics section for Poisson.
+* In addition to his professorship at the École Polytechnique, in 1808 Poisson became an astronomer at Bureau des Longitudes.
+* In 1808 and 1809 Poisson published three important papers with the Academy of Sciences.
+* In 1809 he published two papers, the first Sur le mouvement de rotation de la terre Ⓣ(On the earth's rotational movement) and the second, Sur la variation des constantes arbitraires dans les questions de mécanique Ⓣ(On the variation of arbitrary constants in the mechanical questions) was a direct consequence of developments in Lagrange's method of variation of arbitrary constants which had been inspired by Poisson's 1808 paper.
+* In 1811 Poisson published his two volume treatise Traité de mécanique Ⓣ(Treatise on mechanics) which was an exceptionally clear treatment based on his course notes at the École Polytechnique.
+* The mathematicians, aiming to have Poisson fill that vacancy when it occurred, set the topic for the Grand Prix on electricity so as to maximise Poisson's chances.
+* Poisson had made considerable progress with the problem before Malus died on 24 February 1812.
+* Poisson submitted the first part of his solution to the Academy on 9 March entitled Sur la distribution de l'électricité à la surface des corps conducteurs Ⓣ(On the distribution of electricity on the surface of the conducting bodies).
+* As the mathematicians had intended, this was the deciding factor in Poisson being elected to the physics section of the Institute to replace Malus.
+* Poisson continued to add various responsibilities to his already busy life.
+* It is remarkable how much work Poisson put in; to his research, to his teaching and to playing an ever increasingly important role in the organisation of mathematics in France.
+* In 1813 Poisson studied the potential in the interior of attracting masses, producing results which would find application in electrostatics.
+* Fourier went on to make valid objections to Poisson's arguments which he corrected in later memoirs of 1820 and 1821.
+* In 1823 Poisson published on heat, producing results which influenced Sadi Carnot.
+* Much of Poisson's work was motivated by results of Laplace, in particular his work on the relative velocity of sound and his work on attractive forces.
+* Poisson's work on attractive forces was itself a major influence on Green's major paper of 1828 although Poisson never seems to have discovered that Green was inspired by his formulations.
+* In Recherches sur la probabilité des jugements en matière criminelle et matière civile Ⓣ(Research on the likelihood of judgments in criminal and civil matters), an important work on probability published in 1837, the Poisson distribution first appears.
+* The Poisson distribution describes the probability that a random event will occur in a time or space interval under the conditions that the probability of the event occurring is very small, but the number of trials is very large so that the event actually occurs a few times.
+* It is interesting that Poisson did not exhibit the chauvinistic attitude of many scientists of his day.
+* Poisson's name is attached to a wide variety of ideas, for example:- Poisson's integral, Poisson's equation in potential theory, Poisson brackets in differential equations, Poisson's ratio in elasticity, and Poisson's constant in electricity.
+* Poisson himself was completely dedicated to mathematics.
 
 Born 21 June 1781, Pithiviers, France. Died 25 April 1840, Sceaux (near Paris), France.
 

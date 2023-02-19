@@ -7,10 +7,10 @@ orderid: 1851
 title: Weiler, Adolf
 born: 1851
 died: 1916
-keywords: Weil, mathematics, Steiner geometry, algebraic geometry, abelian varieties, complex multiplication, algorithms
-description: Swiss mathematician Adolf Weiler developed the Weil conjectures, studied abelian varieties, made contributions to various theories, and developed algorithms in algebraic coding theory and cryptography.
+keywords: adolf weiler,weiler
+description: Adolf Weiler was a Swiss mathematician. His research interests lay in Steiner geometry.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,14 +23,11 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Adolf Weiler** was a Swiss mathematician. His research interests lay in Steiner geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Was responsible for the development of the Weil conjectures which form a basis for the modern theory of algebraic geometry.
-2. Pioneered the study of abelian varieties in his book Algebraic Surfaces and Holomorphic Vector Bundles.
-3. Conducted significant research on the concept of reciprocity law.
-4. Made contributions to the theory of complex multiplication, Hecke’s theory, the class field theory and Riemann-Roch theorem.
-5. Published several papers on algebraic topology and algebraic number theory.
-6. Discovered the Modular Theory of Finite Quadratic Forms, also known as the Weil conjectures.
-7. Developed the algorithms in algebraic coding theory on which the modern government and commercial standards are based.
-8. Developed an algorithm - now known as the Weil descent - that is important in cryptography.
+* Upon his return to Switzerland, Weiler first worked as a mathematics lecturer at the Ryffel Institute in Stäfa (canton Zürich).
+* Weiler also habilitated as Privatdozent at both the Polytechnic and the University of Zürich.
+* At the beginning of the 20th  century Weiler supervised five doctoral students in total, but none of them became influential mathematicians.
+* Weiler's research interests lay in Steiner geometry; in particular, he was interested in complexes and congruencies of rays.
+* Weiler joined the organising committee of the first International Congress of Mathematicians in December 1896, but he did not have a specific position and is not mentioned in the committee minutes (except for the attendance records).
 
 Born 27 December 1851, Winterthur, Zürich canton, Switzerland. Died 1 May 1916, Zürich, Switzerland.
 

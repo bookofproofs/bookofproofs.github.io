@@ -7,10 +7,10 @@ orderid: 1932
 title: Świerczkowski, Stanisław
 born: 1932
 died: 2015
-keywords: Diophantine approximation, geometry, Newton-Raphson, Sturm-Swierczkowski, splines, nonlinear equations, Banach spaces
-description: Stanisław Świerczkowski was a Polish mathematician who developed an advanced version of the Newton-Raphson method, discovered Sturm-Swierczkowski numbers and made important contributions to Diophantine approximation, geometry, splines and nonlinear equations.
+keywords: stanisław świerczkowski,świerczkowski
+description: Stanisław Świerczkowski was a Polish mathematician who worked in many areas including Diophantine approximation, geometry and the foundations of mathematics.
 references: bookofproofs$6909
-contributors: @Robin-Whitty,bookofproofs,@ChatGPT
+contributors: @Robin-Whitty,bookofproofs
 
 ---
 
@@ -23,16 +23,28 @@ contributors: @Robin-Whitty,bookofproofs,@ChatGPT
 **Stanisław Świerczkowski** was a Polish mathematician who worked in many areas including Diophantine approximation, geometry and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an advanced version of the Newton-Raphson method, which allows for the numerical solution of nonlinear systems of equations. 
-2. He is credited with the discovery of mathematical sequences called Sturm-Swierczkowski numbers.
-3. He made important advances in the theory of splines, a type of mathematical function.
-4. He developed a new analytical method for solving singular linear integral equations.
-5. Stanisław Świerczkowski created a mathematical model for calculating flows in gas networks.
-6. He wrote a book titled Numerical Analysis in Nonlinear Problems which detailed useful techniques for the solution of nonlinear equations.
-7. Stanisław Świerczkowski made important advances in the theory of linear and nonlinear boundary value problems.
-8. He devised a new iterative method for solving nonlinear equations on Banach spaces.
-9. Developed a method for solving elliptic differential equations with discontinuous coefficients.
-10. He is credited with the discovery of a solution to the Dirichlet problem.
+* His father Antoni Świerczkowski belonged to the Polish nobility.
+* Świerczkowski's parents divorced when he was very young; he was brought up by his mother and was an only child, although he had a half-brother by his father's second marriage.
+* Although Świerczkowski's mother's German connections helped her retain something of a normal life under German occupation they counted against her when the Soviets took control in 1945.
+* Stanisław remained with her until, at the age of fifteen, he was able to take rented accommodation alone in Toruń and resume his schooling.
+* Astronomy was not to be Świerczkowski's calling, however.
+* Hugo Steinhaus was instrumental in developing mathematics at University of Wrocław and one of his questions led to Świerczkowski's best-known result, the three-distance (or three-gap) theorem.
+* Steinhaus's question was also answered by Vera Sós but it appears likely that Świerczkowski deserves priority.
+* Another Steinhaus question solved by Świerczkowski around the same time deserves mention: except for the tetrahedron, copies of a chosen Platonic solid may be placed face to face in three-space so as to form a closed, non-intersecting chain, the last copy meeting the first in a face.
+* Steinhaus asked if such a chain could exist for the tetrahedron and Świerczkowski answered this elegantly in the negative by showing that the relevant 3 × 3 rotation matrices form a free group: identity products, corresponding to closed chains, are necessarily absent.
+* Following his doctoral studies Świerczkowski was able to win a British Council scholarship to study in the United Kingdom, in part because his war-time 'German' schooling had included a thorough grounding in English.
+* Jack Cole, who was at Queen's College at the time, also collaborated with Świerczkowski on group theory.
+* At this time another Wrocław postgraduate, Andrzej Hulanicki, was also in the United Kingdom on a British Council scholarship, attached to Manchester University and Świerczkowski collaborated with him on the theory of algebras.
+* In all, Świerczkowski's first visit to Scotland lasted three years, the academic year 1959/60 being spent at Glasgow University.
+* Świerczkowski was able to resume lecturing at the University.
+* This would have been innovative if published at the time but the manuscript was lost due to the separation, in 1965, of Świerczkowski and his wife Jeanette.
+* Meanwhile Świerczkowski's work with Murray Macbeath at Dundee had led to an invitation from André Weil to spend the year 1965/66 at the Institute of Advanced Studies at Princeton.
+* Świerczkowski felt the same professional discomfort at the University of Washington.
+* Świerczkowski could perhaps have been happy at ANU.
+* Shoenfield." The 'later' came in 1986 when Świerczkowski found himself at a crossroads with no prospects, no money, and no home, his yacht apparently sold by Elisa during an absence.
+* Despite being again very creative mathematically and being promoted to a full professorship Świerczkowski did not survive the internal politics at Sultan Qaboos University and he found himself once more, at the age of 65, without employment.
+* This was nevertheless a productive time for Świerczkowski.
+* In 2011, Halina chose to remain in the United States while Świerczkowski returned to Australia where he could rely on an old-age pension and free health-care.
 
 Born 16 July 1932, Toruń, Poland. Died 30 September 2015, New Town, Tasmania, Australia.
 

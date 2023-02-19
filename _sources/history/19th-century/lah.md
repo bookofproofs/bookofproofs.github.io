@@ -7,10 +7,10 @@ orderid: 1896
 title: Lah, Ivo
 born: 1896
 died: 1979
-keywords: Ivo Lah, Mathematics, Statistics, Topological Dynamics, Real Dynamics, Lyapunov Rigidity, Hyperbolic Non-stationary Extensible Sets Theory
-description: Ivo Lah was a Slovenian mathematician and actuary who developed multiple theories related to mathematics and statistics, such as Topological Dynamics, Real Dynamics, Lyapunov Rigidity, and Hyperbolic Non-stationary Extensible Sets Theory.
+keywords: ivo lah,lah
+description: Ivo Lah was a Slovenian mathematician and actuary who wworked in both matematics and statistics.
 references: bookofproofs$6909
-contributors: @Tomaz-Pisanski,bookofproofs,@ChatGPT
+contributors: @Tomaz-Pisanski,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @Tomaz-Pisanski,bookofproofs,@ChatGPT
 **Ivo Lah** was a Slovenian mathematician and actuary who wworked in both matematics and statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Theory of Limit Sets for Topological Dynamics in 1999.
-2. Published a paper on Real Dynamics of Polynomial Mappings in 2000.
-3. Proved a conjecture of Ljubich related to holomorphic dynamics in 2006.
-4. Proposed the mechanism of Normal Hyperbolicity in Dynamics in 2012.
-5. Wrote a book titled “Dynamical Systems in One Complex Variable” in 2009.
-6. Developed the theory of The Lyapunov Rigidity of Multiple Attractors in 2015.
-7. Constructed Hyperbolic Non-stationary Extensible Sets Theory in 2017.
+* Before finishing high school Ivo Lah volunteered for the Austro-Hungarian army to defend the western borders of Slovenia.
+* As a representative of the Society of Actuaries of the Kingdom of Yugoslavia Ivo Lah attended the International Congress of Actuaries in Rome (1934) and in Paris (1937).
+* Due to his scientific publications Ivo Lah became a correspondent of member of several international institutions from Portugal, Switzerland, Belgium, Italy, Germany and France.
+* Since 1932 when Ivo Lah became in charge of Statistics of Social Security in Slovenia he connected his work with studies at the University of Ljubljana.
+* Ivo Lah worked in practical Demographics and Statistics.
+* His main work is a trilingual book Racunske osnovice zivotnog osiguranja Ⓣ(Basic life insurance calculation) written in Croatian, Russian and French and published in Zagreb in 1947.
+* Ivo Lah was able to save some copies of the book.
+* Ivo Lah was a prolific writer and he published several hundred newspaper articles.
+* His most important mathematical result, published in 1955, is the so-called "Lah identity" where he shows how the rising powers can be expressed in terms of falling powers.
+* The unsigned Lah numbers L(n,k)L(n, k)L(n,k) have an interesting combinatorial interpretation.
+* Marija Lah, the daughter of Ivo Lah for the material that is used in this presentation.
 
 Born 5 September 1896, Strukljeva vas near Cerknica, Austrian Empire (now Slovenia). Died 23 March 1979, Ljubljana, Yugoslavia (now Slovenia).
 

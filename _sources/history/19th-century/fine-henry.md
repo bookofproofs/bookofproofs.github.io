@@ -7,10 +7,10 @@ orderid: 1858
 title: Fine (2), Henry
 born: 1858
 died: 1928
-keywords: mathematics, Princeton, ultrarational, summation theory, linear operators, asymptotic expansions, quasi-analytic functions
-description: Henry Fine developed mathematics at Princeton, including ultrarational and summation theories, linear operators, asymptotic expansions, and quasi-analytic functions.
+keywords: henry fine,fine
+description: Henry Fine was an American mathematician responsible for developing the mathematics department at Princeton.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Henry  Fine**  was an American  mathematician responsible for developing the mathematics department at Princeton.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a paper on the theory of ultrarational functional analysis in 1929.
-2. Published a monograph on the same subject in 1932, making him the first scholar to systematically study ultrarational functional analysis.
-3. Developed an approach to summation theory, a subset of number theory, in which he developed an axiomatic definition of summation and defined abstract algebraic summing operations.
-4. Discovered a theorem on the convergence of sums and higher sums of sums in summation theory.
-5. Proposed a system of axiomatic definition of abstract linear operators, which later became known as Fine's theorem.
-6. Developed a theory of approximation which included the evaluation of expressions containing variables by regularized iterative methods.
-7. Made fundamental contributions to the understanding of asymptotic expansions, which are of great importance in the study of singular integral equations.
-8. Established a theory of quasi-analytic functions, which serve as models for various approximations.
+* Henry was the eldest of his parents four children, having a younger brother and two younger sisters.
+* His brother John became the founder of the Princeton Preparatory School, while one of his sisters, May Margaret, became the founder of Miss Fine's School.
+* Fine entered the College with the intention of studying classics and he began to study these subjects as well as Sanskrit.
+* Halsted inspired Fine to turn towards mathematics.
+* After receiving his A.B. in 1880, Fine was appointed a fellow in experimental science at Princeton but, never happy with experimental work, he happily changed to be a tutor in mathematics in 1881.
+* Fine then, as was the custom of the day, decided to study in Germany.
+* Fine spent the summer of 1885 in Berlin attending Kronecker's lectures on eliminants which made a strong impression on him.
+* Despite great promise as a research mathematician, Fine moved into other areas.
+* Fine published a few research papers (1887-1890), and another of some importance as late as 1916.
+* Two further paper On the functions defined by differential equations with an extension of the Puiseux polygon construction to these equations, and Singular solutions of ordinary differential equations  appeared in 1889 and 1890 respectively.
+* Fine's most important contributions were to the American Mathematical Society and to Princeton University.
+* It was in 1903, shortly after becoming president, that Wilson appointed Fine as Dean of the Faculty.
+* Together Wilson and Fine worked to lift the standards at Princeton, both by improving the curriculum  and in making strong faculty appointments.
+* After Wilson left Princeton in 1910 to move forward in his political career by becoming governor of New Jersey, Fine stood in to run the university for two years until a new president was appointed (many expected that Fine would be appointed president but it was not to be).
+* The end of Fine's life was tragic.
+* Fine Hall, home of the Princeton Mathematical Department, is a memorial which keeps his name before mathematicians at one of the most important centres of mathematics in the United States, and the world.
 
 Born 14 September 1858, Chambersburg, Pennsylvania , USA. Died 22 December 1928, Princeton, New Jersey, USA.
 

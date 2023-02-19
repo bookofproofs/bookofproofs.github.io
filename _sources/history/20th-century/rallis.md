@@ -7,10 +7,10 @@ orderid: 1942
 title: Rallis, Stephen James
 born: 1942
 died: 2012
-keywords: Stephen Rallis, mathematics, group representations, analytics, robotics, automation, deep learning
-description: Stephen Rallis was a renowned American mathematician who pioneered mathematical methods for robotics and automation, deep learning and optimization, as well as authored various publications, gaining international recognition.
+keywords: steve rallis,rallis
+description: Stephen Rallis was an American mathematician who worked on the theory of group representations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Stephen Rallis** was an American mathematician who worked on the theory of group representations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed groundbreaking mathematical and analytical models to solve challenging industry problems.
-2. Pioneered the use of mathematical methods for robotics and automation.
-3. Led research teams to explore hidden areas of mathematics and develop innovative solutions.
-4. Introduced new methods for computational modeling and simulations in complex engineering projects.
-5. Pioneered the use of deep learning in mathematical problem solving.
-6. Investigated and developed algorithms for optimization, control and robotics applications.
-7. Developed and implemented mathematical models in industrial and automotive projects.  
-8. Authored several books and numerous research papers on mathematics and its applications. 
-9. Led mathematical and statistical committees and gave seminars on mathematics to the industry.
-10. Received several awards and honors for his work on mathematics and related fields.
+* Jimmy Rallis, who was born on 5 May 1912 in Lowell, Massachusetts, ran the Raleigh Restaurant in Bennington until 1953.
+* Steve had two sisters, Nancy and Diane.
+* Steve Rallis was educated at Bennington High School, as were his two sisters.
+* Rallis, who was ranked first in his class when he graduated from Bennington High School, knew from a young age that he wanted a career in mathematics.
+* Rallis was awarded a Ph.D. in 1968 for his thesis Lie group representations associated with symmetric spaces.
+* She had just completed writing her Harvard Ph.D. thesis in astronomy and, like Rallis, was in Harvard Square to make copies of the thesis.
+* After receiving his Ph.D. from the Massachusetts Institute of Technology, Rallis spent the two years 1968-70 at the Institute for Advanced Study in Princeton, arriving on 9 September 1968 and leaving on 1 July 1970.
+* Rallis married Michele Kaufman in 1970.
+* After leaving Princeton, Rallis spent two years at SUNY Stony Brook.
+* Early in their relationship Michele recognized Steve's gift for mathematics and his devotion to research.
+* Remarkably, throughout Steve's career she managed to maintain her career in astronomy while facilitating his life in mathematical research.
+* Rallis was appointed to Ohio State University as an assistant professor of mathematics later in 1977.
+* Steve never co-published papers with graduate students, he would always give them full credit for the research in their publications, he never wanted anyone to assume that he had done the work if the student had done it.
+* Early on, the primary focus of Rallis' research shifted to the theory of automorphic forms and representation theory and then L-functions, but always keeping invariant theory as one of his powerful techniques.
+* Throughout his career Rallis was a collaborative mathematician; of the 94 citations listed on 'MathSciNet', all but 7 are joint papers.
+* He published three books, all research monographs, and the first (unusually for Rallis as the above quote indicated) was single authored.
+* The next monograph, Explicit constructions of automorphic L-functions (1987), is in two parts, the first of which was written by Rallis and Ilya Piatetski-Shapiro.
+* The third monograph, published after Rallis retired, was a joint work with David Ginzburg and David Soudry entitled The descent map from automorphic representations of GL(n)GL(n)GL(n) to classical groups (2011).
+* Together with Steve, we did our best mathematical work.
+* We feel very privileged to have known Steve, to have learned from him and worked with him.
+* Working with Steve was accompanied by many conversations about life, personal memories and experiences, dreams, hopes, and fears; history, politics, literature, art, films, and so much more.
+* Steve will always live in our minds: Steve the great mathematician and Steve our great beloved friend.
+* In 1990 Rallis was invited to lecture at the International Congress of Mathematicians held in August in Kyoto, Japan.
 
 Born 17 May 1942, Bennington, Vermont, USA. Died 17 April 2012, Columbus, Ohio, USA.
 

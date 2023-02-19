@@ -7,10 +7,10 @@ orderid: 1717
 title: Stewart, Matthew
 born: 1717
 died: 1785
-keywords: Matthew Stewart, geometer, geometry, planetary motion, algebraic combinatorics, Erdős Prize, Lie theory
-description: Matthew Stewart, renowned geometer & mathematician, solved open problems in algebraic combinatorics, wrote on geometry & planetary motion, & proved Lie theory results - earning an Erdős Prize for his work.
+keywords: matthew stewart,stewart
+description: Matthew Stewart was a Scottish geometer who wrote on geometry and planetary motion.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Matthew Stewart** was a Scottish geometer who wrote on geometry and planetary motion.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm to compute the maximum number of non-crossing partitions of a set, with applications in the field of algebraic combinatorics.
-2. Received an Erdős Prize for solving a long-standing open problem in algebraic combinatorics regarding non-crossing partitions.
-3. Developed methods for finding sharp bounds of the asymptotic behavior of certain classes of polynomials and polynomial-like objects.
-4. Used algebraic combinatorics to prove intrinsic properties of various mathematical objects, such as Schur functions in algebraic geometry, and Schubert varieties.
-5. Used his deep knowledge of the theory of symmetric functions to prove representation-theoretic results in the realm of Lie theory.
+* Matthew attended a grammar school on the Isle of Bute, then in 1734 he began to work under Simson at the University of Glasgow.
+* Simson was working trying to restore the Porisms of Pappus and while Stewart was studying in Glasgow he had impressed Simson by coming up with some brilliant ideas on the Porisms.
+* In May 1743 Stewart spent several weeks in Glasgow working on mathematics with Simson and assisting him in the production of his text Plane loci.
+* Stewart was licensed to preach at Dunoon in May 1744, then one year later he became a minister at Roseneath, Dumbartonshire.
+* Stewart married Marjorie Stewart, the only daughter of Archibald Stewart writer to the signet, on 20 May 1750.
+* They had several children who died as infants, but only one son survived, namely Dugald Stewart who went on to achieve more fame than his father.
+* Dugald Stewart, who was born on 22 November 1753, went on to become a mathematician and philosopher who was the major exponent of the Scottish "common sense" school of philosophy.
+* In 1756 Stewart wrote on Kepler's second law of planetary motion using geometrical methods.
+* Stewart was elected a fellow of the Royal Society on 21 June 1764.
+* After the death of his father, Dugald Stewart resigned from the Chair of Mathematics at Edinburgh when he was appointed Professor of Moral Philosophy at Edinburgh.
 
 Born 15 January 1717, Rothesay, Isle of Bute, Scotland. Died 23 January 1785, Catrine, Ayrshire, Scotland.
 

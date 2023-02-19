@@ -7,10 +7,10 @@ orderid: 1911
 title: Todd (2), Jack
 born: 1911
 died: 2007
-keywords: John Todd, Irish-born, numerical analysis, Olga Taussky, research center, authored, Jack Todd Mathematics Scholarship
-description: John Todd, an Irish-born numerical analyst, established a research center, authored works discussing mathematics and science, founded a scholarship program and developed educational tools to promote the field of mathematics.
+keywords: jack todd,todd
+description: John Todd was an Irish-born numerical analyst. He was married to Olga Taussky.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Todd** was an Irish-born numerical analyst. He was married to Olga Taussky.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Jack Todd Mathematics and Science Institute, a public research center devoted to encouraging students to pursue mathematician and scientific fields.
-2. Authored several books and articles discussing mathematics and science topics.
-3. Offered classes at universities and high schools to instruct students in different topics of mathematics.
-4. Founded the Jack Todd Mathematics Scholarship program to help students study mathematics and related fields.
-5. Co-authored a number of books discussing the application of mathematics and science to solving real world problems.
-6. Provided lectures and workshops on mathematics, science and technology at conferences and events.
-7. Developed several instructional tools to assist students in their mathematical studies.
-8. Hosted various mathematics contests and challenges to help promote and cultivate talent in the field.
-9. Awarded the Jack Todd Mathematics Achievement Award to recognize outstanding accomplishments in mathematics.
-10. Established a variety of research initiatives to better advance the field of mathematics.
+* Jack was the eldest of his parents' five children; he had three brothers, William, Herbert and George Stewart, and a sister Margaret Louise.
+* In 1917, when he was six years old, his father became a teacher at a primary school nearer to Belfast and Jackn became a pupil at this school.
+* After graduating from Methodist College Belfast, Todd entered Queen's University Belfast in 1928 where he was influenced by A C Dixon.
+* Todd failed in his attempt to gain a scholarship to Cambridge so he completed his undergraduate degree at Belfast, graduating in 1931.
+* However, since he had a first class degree from Queen's University Belfast, the rules did allow Todd to enter Cambridge as a postgraduate student and this is precisely what he did.
+* Semple moved to a position at King's College London in 1936 and the following year he invited Todd to join him there.
+* Before that Todd had attended the International Congress of Mathematicians in Oslo in 1936 and, following that, had visited mathematicians in Poland including Kuratowski, Saks and Sierpiński.
+* The group theory problem was to describe groups in which the normal subgroup relation is transitive (a difficult problem which is still the subject of research) and it led to Todd asking Olga Taussky, who was at Westfield College, for advice on it.
+* Todd was told that he was not needed to teach and should find another job.
+* Todd and his wife wrote six mathematical papers while sitting in bomb shelters.
+* After failing to get a job in weather forecasting, Todd was appointed in 1940 to the Methodist College, Belfast, where he had himself studied, and also did some teaching at Queen's University, Belfast.
+* Observing the mathematicians and physicists working on war-time research made Todd realise where the weaknesses lay.
+* For this Todd became known as "The Saviour of Oberwolfach".
+* Todd and his wife moved to the United States in September 1947.
+* Todd had already become interested in practical mathematics as his article in Nature  in 1946, written with Erdélyi, shows.
+* Over this period Todd's publications included: The condition of a certain matrix (1950); On the relative extrema of the Laguerre orthogonal functions (1950); Notes on modern numerical analysis.
+* The following year, they arrived at the Institute, where Todd developed the first undergraduate courses in numerical analysis and numerical algebra, prerequisites to learning computing.
+* As a faculty research associate, Olga Taussky-Todd also broke new ground - she was the first woman to receive a formal Caltech teaching appointment, and, in 1971, full professorship.
+* The style of the course Todd developed in Caltech is seen from the book Introduction to the constructive theory of functions  which he published in 1963.
+* In 1977 Todd published the classic two volume work Basic Numerical Mathematics.
+* In May 2001 Todd was honoured by Caltech when a conference was held for his 90th  birthday.
+* On 5 September 2002 Todd was honoured with the installation of his portrait in the National Institute of Standards and Technology Gallery of Distinguished Scientists, Engineers and Administrators on its campus in Gaithersburg, Maryland.
+* Olga Taussky-Todd, who died in 1995, was similarly honoured at the same ceremony.
+* In May 2006, Todd was honoured at a 95th  birthday dinner in the Athenaeum Library given by the Division of Physics, Math and Astronomy.
+* They made a remarkably generous commitment to the future of Caltech and the mathematics department, and their legacy also includes the inspiring stories of their lives and careers - Olga, as one of the very first women to make a mark in 20th -century mathematics, and Jack as a pioneer in numerical analysis and computing.
 
 Born 16 May 1911, Carnacally, Co Down, Ireland. Died 21 June 2007, Pasadena, California, USA.
 

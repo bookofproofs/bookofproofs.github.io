@@ -7,10 +7,10 @@ orderid: 1856
 title: Knott, Cargill Gilston
 born: 1856
 died: 1922
-keywords: Cargill Knott, Edinburgh University, Applied Mathematics, Optimization, Calculus, Linear Programming, Quantitative Finance
-description: Cargill Knott pioneered the use of mathematics for optimization, calculus, linear programming and quantitative finance, leading to new models and algorithms to improve financial analysis and decision making.
+keywords: cargill knott,knott
+description: Cargill Knott became a Reader in Applied Mathematics at Edinburgh University. With Barclay and Fraser he was one of the writers who originally proposed the founding of the Edinburgh Mathematical Society.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Cargill Knott** became a Reader in Applied Mathematics at Edinburgh University. With Barclay and Fraser he was one of the writers who originally proposed the founding of the Edinburgh Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first computer-based optimization and control algorithms for financial analysis.
-2. Pioneered the use of the calculus and linear programming to determine how to best allocate resources.
-3. Created a process to assess the risk and return of financial instruments, leading to significant advances in quantitative finance.
-4. Developed a model for managing inventory that increased efficiency and reduced operating costs.
-5. Published groundbreaking research in the areas of stochastic calculus, portfolio theory, mathematical apparatuses for portfolio selection, and the concept of no-arbitrage.
-6. Developed the first ever risk-adjusted portfolio optimization algorithms.
-7. Used the cutting-edge insights from mathematics to drive improvements in optimally managing liquidity, portfolio construction and risk-management, as well as in other strategic business decisions.
+* His mother was  Ellen McS Knott (born about 1818).
+* Cargill Knott had two older brothers John (born about 1850) and Tavernor  (born about 1852).
+* Cargill Knott was educated at the High School in Arbroath, Angus, then studied at the University of Edinburgh.
+* Knott was an active member of the Edinburgh Mathematical Society.
+* In conjunction with two mathematical masters at George Watson's College in Edinburgh, Alexander Yule Fraser and Andrew Jeffrey Gunion Barclay, Knott who was then Assistant to the Professor of Natural Philosophy in Edinburgh University, issued the  circular setting up the Society.
 
 Born 30 June 1856, Penicuik, Midlothian, Scotland. Died 26 October 1922, Edinburgh, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1942
 title: Pedley, Timothy
 born: 1942
 died: 0
-keywords: Tim Pedley, fluid mechanics, turbulence, aeronautical engineering, Fourier-space, hydrodynamic, nonlinear
-description: Tim Pedley, renowned English mathematician, developed advanced analytical tools for turbulence and nonlinear dynamics, influencing the fields of aeronautical engineering, hydrodynamics and fluid mechanics.
+keywords: timothy pedley,pedley
+description: Tim Pedley is an English mathematician whose principal research interest is the application of fluid mechanics to biology and medicine.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Tim Pedley** is an English mathematician whose principal research interest is the application of fluid mechanics to biology and medicine.
 
 ### Mathematical Profile (Excerpt):
-1. Established the mathematical theory of turbulence, which revolutionized aeronautical engineering.
-2. Developed advanced analytical tools for the study of turbulence and other nonlinear bulk flows.
-3. Discovered and clarified the connection between physical and Fourier-space treatment of nonlinear dynamics.
-4. Formulated the mathematical equations for the phenomenon of hydrodynamic turbulence.
-5. Coined the term “eddy-current” in describing the interaction of convective and diffusive motions in turbulent flows.
-6. Carried out pioneering work on the implications of turbulence for boundary layers in inviscid and adhesive fluids.
-7. Published several monographs and journal papers on the principles of turbulence and structural analysis in fluid mechanics.
-8. Developed a full mathematical theory of three-dimensional turbulent flows and other nonlinear phenomena.
-9. Made significant contributions to the field of fluid mechanics by developing new models to explain existing flow phenomena.
-10. Established a laboratory where turbulent flows in a wind tunnel could be studied in detail.
+* He is the son of Richard Rodman Pedley (1912-1973) and Jean Mary Mudie Evans.
+* Richard Pedley was educated at Foster's School, Sherborne, and Downing College, Cambridge, before becoming an Assistant Master at the City of Leicester Boys' School in 1934.
+* Pedley's early years were spent in different cities as his father changed jobs.
+* After his war service ended in 1946, Richard Pedley returned briefly to Leicester where his family had remained during the war, and then took up a position in St Olave's School in York.
+* Tim Pedley became a boarder at Rugby School, where he excelled in all subjects, especially science and mathematics.
+* While he had been undertaking research for his doctorate, Pedley had married Avril Jennifer Martin Uden in 1965.
+* Tim and Avril Pedley have two sons, Jonathan Richard Pedley and Simon Grant Pedley.
+* Tim Pedley published The stability of rotating flows with a cylindrical free surface (1967).
+* Pedley left Imperial College, London, in 1973 when he was appointed as a lecturer in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.
+* Pedley was awarded the 1976 Adams Prize for "The fluid mechanics of large blood vessels and of bronchial airways".
+* Pedley edited the book Scale Effects in Animal Locomotion (1977) and was a co-author of the book The Mechanics of Circulation (1978).
+* The contents of this lecture give a good indication of the areas of research which Pedley was working on at this time.
+* In 1989 Pedley was promoted to Reader at Cambridge but soon after that left to take up the position of Professor of Applied Mathematics at Leeds University in 1990.
+* Both Nick Hill and John Kessler worked with Pedley in Department of Applied Mathematics and Theoretical Physics, University of Cambridge in the second half of the 1980s but Hill and Pedley came together again in Leeds where Hill was appointed as a lecturer in November 1989.
+* We have already given some details above of honours given to Pedley for his outstanding research contributions.
+* Pedley gave the Rutherford Lecture in New Zealand.
+* Let us end this biography by recording that Pedley's hobbies include birdwatching, running and reading.
 
 Born 23 March 1942, Leicester, England.
 

@@ -7,10 +7,10 @@ orderid: 1954
 title: Bourgain, Jean
 born: 1954
 died: 2018
-keywords: Jean Bourgain, Fields Medal, Kakeya, Szemeredi-Furstenberg, polynomial partitioning, Fourier Analysis, Ulam game
-description: Belgian mathematician Jean Bourgain won Fields Medal '94; solved Kakeya & Szemeredi-Furstenberg; introduced polynomial partitioning & Fourier Analysis; famed for Ulam game, cap set & Erdős discrepancy problems.
+keywords: jean bourgain,bourgain
+description: Jean Bourgain was a Belgian mathematician who worked on mathematical analysis and its application to partial differential equations, mathematical physics, combinatorics, number theory, ergodic theory and theoretical computer science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Bourgain** was a Belgian mathematician who worked on mathematical analysis and its application to partial differential equations, mathematical physics, combinatorics, number theory, ergodic theory and theoretical computer science.
 
 ### Mathematical Profile (Excerpt):
-1. He won the Fields Medal in 1994, one of the most prestigious awards in mathematics, for his work on the theory of high-dimensional phenomena in linear spaces.
-2. He solved two major open problems in fundamental mathematics: the Kakeya problem and the Szemeredi–Furstenberg problem.
-3. He also developed the field of polynomial partitioning, which forms an important foundation of theoretical computer science.
-4. He introduced powerful operator techniques relevant to nonlinear partial differential equations.
-5. He developed a new method of approaching the discretization of differential equations.
-6. His work on harmonic analysis combined the theories of Fourier analysis and wavelets.
-7. He demonstrated the connections between the methods of harmonic analysis and chaos theory.
-8. He famously proved the Ulam game conjecture.
-9. He solved the cap set problem and the Erdős discrepancy problem.
-10. He also introduced new methods for analyzing and bounding exponential sums.
+* This was awarded in 1979 and Bourgain received the Alumni Prize from the Belgium NSF.
+* When his Research Fellowship ended in 1981, Bourgain was appointed a professor at the Free University of Brussels.
+* In 1985 Bourgain was awarded the highest science honour from Belgium, the Damry-Deleeuw-Bourlart Prize.
+* Also in 1985 Bourgain left Belgium and accepted two appointments, one as J L Doob Professor of Mathematics at the University of Illinois in the United States and the other as Professor at the Institut des Hautes Études Scientifique at Bures-sur-Yvette in France.
+* The French Academy of Sciences awarded Bourgain its Langevin Prize in 1985 and its highest award, the E Cartan Prize in 1990.
+* Bourgain has made outstanding contributions across a whole range of topics in analysis.
+* At the International Congress of Mathematicians in Zürich in 1994, Bourgain received his greatest honour for this work when he was awarded a Fields Medal.
+* In his work on Banach spaces, Bourgain has studied problems examining how large a section of a finite dimensional Banach space can look like a Hilbert subspace.
+* Bourgain's work on ergodic theory has been extremely innovative, setting up a new theory examining averages under families of polynomial iterations.
+* Another important contribution was Bourgain's result for the circle maximal function.
+* In 1988 Bourgain was Lady Davis Professor of Mathematics at the Hebrew University in Jerusalem and, in 1991, Fairchild Distinguished Professor at Caltech in the United States.
+* In 1995 Bourgain left his appointment at the Institut des Hautes Études Scientifique, having been appointed to the Institute for Advance Study at Princeton in 1994.
+* Bourgain has already been awarded a number of honorary degrees and awards in addition to those mentioned above, and clearly many further honours will be bestowed on him in the years ahead.
+* In addition to the honours mentioned above, Bourgain was elected to the Academy of Sciences in Paris (2000), the Polish Academy of Sciences (2000) and the Royal Swedish Academy of Sciences (2009).
+* We have described many wonderful contributions to mathematics by Bourgain but we have not yet mentioned his editorial work.
 
 Born 28 February 1954, Ostend, Belgium. Died 22 December 2018, Bonheiden, Belgium.
 

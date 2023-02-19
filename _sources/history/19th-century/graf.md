@@ -7,10 +7,10 @@ orderid: 1852
 title: Graf, Johann Heinrich
 born: 1852
 died: 1918
-keywords: Swiss mathematician, Bessel functions, Bernoulli numbers, Taylor theorem, Binomial Theorem, Stirling numbers, Graf formula
-description: Johann Heinrich Graf, a Swiss mathematician, made important advances studying Bessel functions, Bernoulli numbers, Taylor theorem, Binomial Theorem, Stirling numbers, and developing the Graf formula.
+keywords: johann heinrich graf,graf
+description: Johann Heinrich Graf was a Swiss mathematician who worked mainly on the Bessel functions.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Johann Heinrich Graf** was a Swiss mathematician who worked mainly on the Bessel functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of the Bernoulli numbers and proved their existence.
-2. Provided the first general proof of Taylor's theorem.
-3. Proved the Binomial Theorem and derived the formula for the binomial coefficients.
-4. Introduced the concept of the Stirling numbers of the second kind.
-5. Developed the concept of telescoping series and provided a general formula for them.
-6. Established the integral test for the convergence of a series.
-7. Developed the "Graf formula" that describes the complex part of a real logarithmic integral.
-8. Obtained an analytical expression for the partition function of an integer.
-9. Found a closed expression for the sum of the powers of an alternating series.
-10. Established a formula for the sum of the geometric series and provided a proof of Euler's theorem.
+* After having attended primary school in Töss and secondary school in Zürich, Graf studied at the private teachers' college Muristalden, close to Bern, from 1868-1871.
+* Graf was awarded his doctorate for his thesis Beiträge zur Theorie der Riemann'schen Fläche Ⓣ(Contributions to the theory of the Riemann surface)  in 1877.
+* Graf's main mathematical interests were in Bessel functions, gamma functions and spherical functions.
+* Today he is best known for Graf addition theorems for Bessel functions and other such functions.
+* Graf also took a keen interest in actuarial sciences; he published a number of papers on insurance funds and lectured on actuarial mathematics from 1902-1918 at the University of Bern.
+* Graf also edited Schläfli's correspondence with Steiner, Arthur Cayley and Carl Borchardt.
+* Throughout his life, Graf held a large number of administrative positions.
+* For most of his professional life, Graf was a member of the Swiss and the Bernese Societies for Natural Scientists; he was the editor of the communications of the Bernese society from 1883-1910.
+* From 1895 until his death, Graf was president of the Swiss library committee.
 
 Born 16 August 1852, Töss, Zürich, Switzerland. Died 17 June 1918, Bern, Switzerland.
 

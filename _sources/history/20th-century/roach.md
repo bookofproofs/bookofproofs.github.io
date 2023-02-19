@@ -7,10 +7,10 @@ orderid: 1933
 title: Roach, Gary
 born: 1933
 died: 2012
-keywords: Applied Analysis, Problem-Solving, Experiential Learning, Technology, Mathematics Educator, Problem-Based Learning, Mentored
-description: Gary Roach, a Welsh mathematician, was an exceptional educator and researcher, achieving great success with his innovative approach to teaching mathematics, interactive textbooks, and self-paced program. His 40+ articles, awards, presentations, and mentoring paved the way for future students to learn mathematics effectively.
+keywords: gary roach,roach
+description: Gary Roach was a Welsh mathematician who spent much of his career in Scotland. His research was mainly in the area of applied analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gary Roach** was a Welsh mathematician who spent much of his career in Scotland. His research was mainly in the area of applied analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an innovative new approach to teaching mathematics that emphasizes problem-solving and experiential learning.
-2. Created an interactive math textbook that combines traditional methods with technology to give students an immersive experience.
-3. Developed and implemented a self-paced learning program for students of all abilities.
-4. Published more than 40 journal articles, books and other resources on mathematics and its applications.
-5. Rewarded with the Outstanding Mathematics Educator award in 2003 for his achievements in the field of mathematics and his contribution to students’ success in the subject.
-6. Led research projects focusing on problem-based learning, student engagement and mathematics academia for over 20 years.
-7. Delivered numerous presentations at conferences and schools around the world, sharing his expertise and innovative thinking.
-8. Successfully mentored a number of students and teachers, helping them to develop their understanding and mastery of mathematics.
+* There Roach attended Southwell Minster School where he excelled as a sportsman.
+* After graduating with his first degree, Roach joined the Royal Air Force.
+* During the years when he was working for BP and also studying for his M.Sc., Roach met and married Isabella Grace Willins Nicol, a young girl from Fife, Scotland.
+* Back in the UK, Roach was appointed as a lecturer at Strathclyde University in Glasgow, Scotland.
+* Roach was vice-convener of the committee from 1992 to 1996 and convener in 1996-97.
+* Roach's research was mainly in the area of applied analysis.
+* His early papers were: On the approximate solution of elliptic, self adjoint boundary value problems (1967); Fundamental solutions and surface distributions (1968); Approximate Green's functions and the solution of related integral equations (1970); and (jointly with Robert A Adams) An intrinsic approach to radiation conditions (1972).
+* These were the first of over 150 papers published by Roach.
+* In 1982 Roach published a second edition of the book which he had updated and added two additional chapters.
+* Roach's last three books are: (1) Wave scattering by time-dependent perturbations.
+* In his own CV, Roach gives his recreations as mountaineering, photography, philately, gardening, and music.
+* In 1983 Gary joined The Nomads Club.
+* This body, formed in 1895, exists as a forum for discussion and debate, and Gary presented an Annual Paper to the Club, on a matter chosen by the President of the year.
+* This gave Gary considerable pleasure, owing to the subject usually having absolutely nothing to do with Science or Mathematics! He was President in Session 1998-99 and was made an Honorary Member in 2010.
+* Roach received many honours including being elected a fellow of the Royal Society of Edinburgh (1977), awarded a D.Sc. by the University of Manchester (1991), and awarded an honorary Sc.D. by the University of Łódź, Poland, in 1993.
+* We note that Roach had a long list of letters after his name: OStJ, FRSE, FRSA, FRAS, BSc, MSc, PhD, DSc, ScD, CMath.
 
 Born 8 October 1933, Penpedairheol, South Wales. Died 17 March 2012, Bannockburn, Stirlingshire, Scotland.
 

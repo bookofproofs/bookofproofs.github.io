@@ -7,10 +7,10 @@ orderid: 1912
 title: Iacob, Caius
 born: 1912
 died: 1992
-keywords: Caius Iacob, hydrodynamics, fluid mechanics, generic conformal transformations, elastic plates, theorem, non-Euclidean geometries
-description: Caius Iacob, Romanian mathematician & politician, worked in hydrodynamics, fluid mechanics, & generic conformal transformations, contributing to mathematics & mathematical physics.
+keywords: caius iacob,iacob
+description: Caius Iacob was a Romanian mathematician and politician who worked in classical hydrodynamics and fluid mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Caius Iacob** was a Romanian mathematician and politician who worked in classical hydrodynamics and fluid mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theory about generic conformal transformations of space, specifically for conformal transformations that contain rotations.
-2. Introduced a new approach to the theory of elastic plates by applying the conformal transformation theory.
-3. Proved a theorem involving the length of a curve and its area.
-4. Explored the behavior of surfaces of revolution near a point of simple contact.
-5. Developed a theory of non-Euclidean geometries, which enabled the study of surfaces of constant curvature.
-6. Was the first to prove a theorem involving the asymptotic properties of harmonic functions.
-7. Published papers on topics related to stochastic processes, calculus of variations, and modular forms.
-8. Contributed to the development of mathematical physics by exploring the properties of surfaces of revolution near a point of simple contact.
-9. Co-authored the book “Transformation Geometry: An Introduction to Symmetry” with mathematician John Stuart.
-10. Served as the editor-in-chief of the journal “Mathematical Reports” from 1996 to 2005.
+* His father, Laza Iacob, was a professor of law at the University and was much involved in the development of modern Romania.
+* Laza Iacob was one of the official delegates at the Union of Romania conference to set this up on 1 September 1918.
+* Caius attended the lycée "Moise Nicoara" in Arad for three classes, then moved to the lycée "Emil Gojdu" where he spent his final year.
+* Iacob submitted his thesis Sur la determination des fonctions harmoniques conjuguees par certaines conditions aux limites.
+* Returning to Romania, Iacob decided that he wanted a career in higher education and scientific research.
+* We should say a little about the history of the University of Cluj since this is relevant to Iacob's career.
+* Iacob had moved away from Cluj in 1939 when he was appointed as an assistant in the Faculty of Mechanics at Bucharest University, but he returned to the University of Cluj in 1942 when he was appointed as a lecturer in the Department of General Mathematics.
+* Following this Iacob was named professor in the Department of Mechanics on 30 December 1943.
+* Iacob's most important monograph was Mathematical introduction to the mechanics of fluids (Romanian) which was published in 1952.
+* This contained material on classical hydrodynamics and compressible-flow theory which Iacob had included in his lecture courses at Cluj during 1947-49 and also material which he had delivered at conferences in Bucharest in 1950.
+* This book by Iacob consisted of over 800 pages, but a French version of the text Introduction mathématique à la mécanique des fluides Ⓣ(Mathematical Introduction to fluid mechanics) (1959) contained over 1200 pages.
+* One further book by Iacob deserves mention, namely Applied mathematics and mechanics (Romanian) which he published in 1989 as a book for secondary school mathematics teachers.
+* The Institute of Applied Mathematics of the University of Bucharest was named the "Caius Iacob Institute".
+* Elections were held in May 1990 and Iacob was elected as a senator for the PNT party.
 
 Born 29 March 1912, Arad, Romania. Died 6 February 1992, Bucharest, Romania.
 

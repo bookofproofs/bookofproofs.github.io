@@ -7,10 +7,10 @@ orderid: 1897
 title: Skan, Sylvia
 born: 1897
 died: 1972
-keywords: Sylvia Skan, Mathematics, Fluids Dynamics, Aerodynamics, Harvard, Cambrige, Royal Society
-description: Sylvia Skan is an influential mathematician, who earned her Ph.D from Harvard, published research from Cambridge and was awarded the Royal Society Fellowship.
+keywords: sylvia skan,skan
+description: Sylvia Skan was an English applied mathematician who worked on fluid dynamics and aerodynamics. For most of her career, she worked for the Aerodynamics Department of the National Physical Laboratory. She wrote many papers and the two volume book Handbook for computers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sylvia Skan** was an English applied mathematician who worked on fluid dynamics and aerodynamics. For most of her career, she worked for the Aerodynamics Department of the National Physical Laboratory. She wrote many papers and the two volume book _Handbook for computers_.
 
 ### Mathematical Profile (Excerpt):
-1. Completed a Ph.D. in Mathematics at the Harvard University in 1982.
-2. Developed several important new techniques in the area of probability theory while working as a Junior Research Fellow at Clare College, Cambridge. 
-3. Authored more than 50 research papers in the fields of complex analysis and probability theory.
-4. Received the prestigious Rollo Davidson Prize in 1990 for her outstanding contributions to mathematics. 
-5. Awarded the Whitehead Prize by the London Mathematical Society in 1998 in recognition of her distinguished contribution to mathematics. 
-6. Appointed a Fellow of the Royal Society in 2002. 
-7. Listed as one of the most influential mathematicians of the 20th century.
+* Sylvia Skan's father was Sidney Alfred Skan (30 August 1870-19 December 1939), born in Bickenhill, Warwickshire.
+* Sylvia's mother was Jane Alkins, born in Bakamoor, Staffordshire on 5 April 1873.
+* Sylvia was the eldest of her parents' five children.
+* She had a younger brother Douglas Alkins Skan (1899-1978) born on 13 December 1899 in Richmond, Surrey, England.
+* Sylvia also had two younger sisters, Mabel Irene Skan born 30 June 1902 in Richmond, Surrey, England, and Isabel Lilian Skan born 14 May 1903 in Kew, Surrey, England.
+* On 9 August 1903 Mabel Irene Skan was baptised in Kew, Surrey.
+* At this time her father Sidney Alfred Skan was a botanist at the Royal Gardens.
+* Mabel Skan became an assistant compiler for the Royal Botanical Gardens.
+* Isabel Lilian Skan was baptised in Kew on the same day.
+* Sylvia's youngest sibling was her brother Lawrence Gilbert Skan, born 21 Feb 1914, and baptised at St Mary the Virgin, Twickenham, England.
+* At the time of the 1901 census, when Sylvia Skan was three years old, the family were living in Richmond, Surrey, the town of her birth but, ten years later at the time of the 1911 census, on 2 April, they were living at 37 Holmes Road, Twickenham, Middlesex, England.
+* Skan worked her whole career in the Aerodynamics Department of the National Physical Laboratory.
+* In 1930 she was living with her parents Sidney Alfred Skan and Jane Skan, together with her sisters Mabel Irene Skan and Isabel Lilian Skan at Cole Park Road, Twickenham.
+* Although Skan must have been working on translations at least as early as 1939, the first that we have found is in 1946, in fact we have found three German works which were translated by Skan in that year.
+* These were Solution of Possio's integral equation for an aerofoil oscillating harmonically in a compressible medium by reduction to a system of linear equations by Martin Eichler with Skan's translation from German to English appearing in March 1946.
+* In the same month, Skan's translation from German to English of The numerical solution of Possio's integral equation for an oscillating aerofoil in an two-dimensional subsonic stream by Th Schade appeared.
+* We should note the speed of her translations, for The air forces for the harmonically oscillating aerofoil in a compressible medium at subsonic speeds (two-dimensional problem) by F Dietze was published in German in August 1946 with Skan's English translation being dated December 1946.
+* In 1948 Skan's translation of the 1947 Russian work Wing theory in unsteady flow by Aleksandr Ivanovich Nekrasov was published.
+* The French paper Flow in the neighbourhood of the apex of a highly swept wing at moderate incidence by R Legendré was published in La recherche Aeronautique in 1952 with Skan's translation dated 1953.
+* Another French work, On the effect of orifice size on static pressure reading at different Reynolds numbers by A K Ray, was published in 1956 with Skan's translation appearing in the same year.
+* Although Skan's contributions here were for the numerical work, her contributions to other papers must have been much more substantial for she was a joint author.
+* One article which we must single out for comment was Some approximate solutions of the boundary layer equations (1930) which Skan co-authored with V M Falkner.
+* This contains what is now known as the 'Falkner-Skan boundary layer'.
+* The only single authored work by Skan which we have found is the two volume book Handbook for computers published by the National Physical Laboratory, Department of Scientific and Industrial Research, in 1954.
 
 Born 15 August 1897, Richmond, Surrey, England. Died 10 June 1972, Twickenham, Middlesex, England.
 

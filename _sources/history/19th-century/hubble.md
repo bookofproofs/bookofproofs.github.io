@@ -7,10 +7,10 @@ orderid: 1889
 title: Hubble, Edwin Powell
 born: 1889
 died: 1953
-keywords: Edwin Hubble, redshift, distance, galaxies, Milky Way, expanding universe, Hubble's Law
-description: Edwin Hubble discovered galaxies outside of the Milky Way, creating a modern understanding of cosmology, and formulated Hubble's Law defining an expanding universe.
+keywords: edwin hubble,hubble
+description: Edwin Hubble was an American astronomer who first detected that the universe is expanding.
 references: bookofproofs$6909
-contributors: @David-Wands,@Portsmouth,bookofproofs,@ChatGPT
+contributors: @David-Wands,@Portsmouth,bookofproofs
 
 ---
 
@@ -23,12 +23,14 @@ contributors: @David-Wands,@Portsmouth,bookofproofs,@ChatGPT
 **Edwin Hubble** was an American astronomer who first detected that the universe is expanding.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the relationship between redshift and distance in the universe, leading to the modern understanding of cosmology and an expanding universe. 
-2. Discovered numerous galaxies outside of the Milky Way, including the Andromeda Galaxy, and discovered that these galaxies had an extraordinary range of distances and velocities. 
-3. Discovered Cepheid variables, which allowed him to quantify the distance to nearby galaxies and redefine the astronomical sphere of influence of the Milky Way. 
-4. Established the first classifications for galaxies and further developed a scheme for categorizing galaxies by their visual attributes.  
-5. Developed the mathematical measurements for calculating the rate of expansion of the universe. 
-6. Constructed the Hubble Law, a linear relationship between distance and redshift in the universe, proposed the Hubble constant to calculate distances to galaxies, and formulated the Hubble–Lemaȋtre Law.
+* Hubble was born in Missouri in 1889.
+* In the early 1920s Hubble played a key role in establishing just what galaxies are.
+* In 1924 Hubble measured the distance to the Andromeda nebula, a faint patch of light with about the same apparent diameter as the moon, and showed it was about a hundred thousand times as far away as the nearest stars.
+* Hubble was able to measure the distances to only a handful of other galaxies, but he realised that as a rough guide he could take their apparent brightness as an indication of their distance.
+* Though our ears can hear the change of pitch of the racing car engine our eyes cannot detect the tiny red-shift of the light, but with a sensitive spectrograph Hubble could determine the redshift of light from distant galaxies.
+* The observational data available to Hubble by 1929 was sketchy, but whether guided by inspired instinct or outrageous good fortune, he correctly divined a straight line fit between the data points showing the redshift was proportional to the distance.
+* Hubble made his great discoveries on the best telescope in the world at that time - the 100-inch telescope on Mount Wilson in southern California.
+* The Hubble Space Telescope is continuing the work begun by Hubble himself to map our Universe, and producing the most remarkable images of distant galaxies ever seen, many of which are available via the World Wide Web.
 
 Born 20 November 1889, Marshfield, Missouri, USA. Died 28 September 1953, San Marino, California, USA.
 

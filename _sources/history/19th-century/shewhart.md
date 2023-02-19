@@ -7,10 +7,10 @@ orderid: 1891
 title: Shewhart, Walter Andrew
 born: 1891
 died: 1967
-keywords: Walter Shewhart, Statistical Quality Control, Shewhart Cycle, Standard Deviation, Planning, Inspection & Control Charts, Control Limits, PDCA Cycle
-description: Walter Shewhart developed Statistical Quality Control, the Shewhart Cycle & Control Limits, a Standard Deviation for process efficiency, and the PDCA Cycle for analyzing data.
+keywords: walter shewhart,shewhart
+description: Walter Andrew Shewhart was an American physicist, engineer and statistician who worked on statistical quality control.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Walter Andrew Shewhart** was an American physicist, engineer and statistician who worked on statistical quality control.
 
 ### Mathematical Profile (Excerpt):
-1. Published The Economics of Quality in 1931, which outlined the concept of statistical process control. 
-2. Developed the Shewhart Cycle, which illustrated the relationship between variation and improvement. 
-3. Pioneered the concept of standard deviation relative to process efficiency and quality. 
-4. Established the basis for the field of statistical quality control. 
-5. Produced planning, inspection and control charts, which made it easier to understand statistical variability. 
-6. Created control limits and demonstrated the importance of separating "common" variation from "special" variation. 
-7. Developed the concept of inferring the presence of assignable causes by analyzing data. 
-8. Proposed the Plan-Do-Check-Act (PDCA) Cycle.
+* Shewhart joined the Western Electric Company in 1918, the company being the manufacturer of hardware for the Bell Telephone Company.
+* It was the Inspection Engineering Department of the Western Electric Company at Hawthorne that Shewhart joined in 1918.
+* In the 1920's, Western Electric's Dr Walter Shewhart took manufacturing quality to the next level - employing statistical techniques to control processes to minimize defective output.
+* When Dr Shewhart joined the Inspection Engineering Department at Hawthorne in 1918, industrial quality was limited to inspecting finished products and removing defective items.
+* That same year, Dr Shewhart created the first statistical control charts of manufacturing processes, which involved statistical sampling procedures.
+* Shewhart published his findings in a 1931 book, Economic Control of Quality of Manufactured Product.
+* The Bell Telephone Laboratories were founded in 1925 and Shewhart moved to them when the Laboratories opened and worked there until his retirement in 1956.
+* In this classic volume, based on a series of ground-breaking lectures given to the Graduate School of the Department of Agriculture in 1938, Dr Shewhart illuminates the fundamental principles and techniques basic to the efficient use of statistical method in attaining statistical control, establishing tolerance limits, presenting data, and specifying accuracy and precision.
+* Finally, Dr Shewhart deals with the problem of specifying accuracy and precision - the meaning of accuracy and precision, operational meaning, verifiable procedures, minimum quantity of evidence needed for forming a judgment and more.
+* Although working in industry for the whole of his career, Shewhart kept links with academic institutions being a lecturer in applied statistics at the Stevens Institute of Technology in Holboken in 1930, lecturing at the University of London in 1932 and at the United States Agricultural Graduate School in 1938.
+* Shewhart received many honours for his important contributions.
+* The Society made him their first honorary member in 1947 and also made him the first to receive their Shewhart Medal.
+* All of these qualities are eminently personified in Dr Walter Shewhart.
 
 Born 18 March 1891, New Canton Illinois, USA. Died 11 March 1967, Troy Hills, New Jersey, USA.
 

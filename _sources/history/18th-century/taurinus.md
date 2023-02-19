@@ -7,10 +7,10 @@ orderid: 1794
 title: Taurinus, Franz Adolph
 born: 1794
 died: 1874
-keywords: Taurinus, non-Euclidean, theorem, modern geometry, projective group, analytic geometry, synthetic, metric
-description: Franz Taurinus was a German mathematician, who first proved a theorem about triangle sides and developed modern geometry, projective group, analytic geometry, and two new geometries (synthetic and metric).
+keywords: franz adolph taurinus,taurinus
+description: Franz Taurinus was a German mathematician best known for his work on non-Euclidean geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Franz Taurinus** was a German mathematician best known for his work on non-Euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-1. First to prove the theorem regarding the minimum number of the sides of a triangle that is necessary to uniquely determine a triangle. 
-2. Published his major work 'System der Elementargeometrie' in 1840, which introduced the concept of 'Modern Geometry' with axioms and postulates.
-3. Developed the concept of "projective group" defined by groups of self-intersecting lines in a plane.
-4. Published mathematical papers on topics such as quadrature, trigonometry, algebraic equations and geometry. 
-5. Discovered an algebraic expression for establishing the limits of integration to solve infinitesimal problems.
-6. Demonstrated the importance of analytic geometry, especially in the calculation of quadric surfaces. 
-7. Developed a method for solving polynomial equations of high degree with two unknown variables called "Taurinus Method".
-8. Developed the concepts of 'synthetic geometry' and 'metric geometry' which served to bridge the gap between computational geometry and higher mathematics.
+* His mother was Luise Juliane Schweikart who had a younger brother F K Schweikart, only fourteen years of age when Taurinus was born.
+* F K Schweikart went on to become professor of law at the University of Königsberg and it is fair to say that Taurinus's uncle Schweikart played a major role in influencing his ideas and academic achievements.
+* Following his uncle's academic discipline, Taurinus studied law at Heidelberg, Giessen and Göttingen.
+* Taurinus not only corresponded on mathematical topics with his uncle but he also corresponded with Gauss about his ideas on geometry.
+* At first Taurinus tried to prove that Euclidean geometry was the only geometry but, in 1826, he accepted the lack of contradiction in other geometries.
+* In this last mentioned publication Taurinus accepts that a third system of geometry exists in which the sum of the angles of a triangle is less than 180q .
+* Taurinus came up with the important idea that elliptic geometry could be realised on the surface of a sphere, an idea taken up by Riemann.
+* He also realised that there were an infinite number of non-euclidean geometries and this, Taurinus claimed, was highly significant.
 
 Born 15 November 1794, Bad König, German. Died 13 February 1874, Cologne, Germany.
 

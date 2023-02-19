@@ -7,10 +7,10 @@ orderid: 1926
 title: Dye, Henry Abel
 born: 1926
 died: 1986
-keywords: Henry Dye, American, Mathematician, Operator Algebras, Ergodic Theory, Cofinality Theorem, Superstable Classes, Stable Sets
-description: Henry Dye, American mathematician, contributed to operator algebras, ergodic theory & set theory, formulating The Dye Equivalence Theorem & Cofinality Theorem, and writing 2 texts on mathematical logic.
+keywords: henry dye,dye
+description: Henry Dye was an American mathematician who worked in operator algebras and ergodic theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Henry Dye** was an American mathematician who worked in operator algebras and ergodic theory.
 
 ### Mathematical Profile (Excerpt):
-1. Formulated the Dye Equivalence Theorem, a fundamental result in mathematical logic that related the model theory of fragements of an algebraic structure to its algebraic properties.
-2. Pioneered the field of recursion theory, a branch of mathematical logic that studies the computability of functions and relations.
-3. Developed foundational results in sets and logic, including the well-known Cofinality Theorem.
-4. Contributed to the development of a new methodology in set theory, providing many important results in the field.
-5. Established new areas of research including "superstable classes" and "stable sets".
-6. Wrote two important textbooks in mathematical logic: “Recursive Function Theory” and “Equivalence Relations and Counterparts”.
+* After the award of his doctorate, Dye was appointed as a Bateman Fellow at the California Institute of Technology.
+* Dye served the university in many ways, the most important being his tenure of the Chair of the Mathematics Department from 1975 to 1978.
+* Dye's first paper was The Radon-Nikodym theorem for finite rings of operators which was published in the Transactions of the American Mathematical Society in 1952.
+* The results which Dye proved in this paper led to marked progress in the theory of von Neumann algebras.
+* In 1953 Dye published The unitary structure in finite rings of operators.
+* In the paper Dye promised a second paper giving a detailed discussion of certain parts of his theory, and indeed this second instalment appeared in the same journal in 1963.
+* Dye married Anne Garvey and they had a son John who became a professor of mathematics, and a daughter Constance.
+* In 1981 Henry and Eugenie Dye visited the University of Warwick in England when Dye was a Senior Visiting Fellow of the U.K. Science research Council.
+* Henry's research students learned a lot from him about mathematical culture.
+* Dye's health deteriorated after he passed fifty years of age and for quite a few years he continued to work hard for UCLA despite being in poor health.
 
 Born 14 February 1926, Dunkirk, New York, USA. Died 26 November 1986, Los Angeles, California, USA.
 

@@ -7,10 +7,10 @@ orderid: 1586
 title: Turner, Peter
 born: 1586
 died: 1652
-keywords: Peter Turner, mathematics, Riemann hypothesis, Mathematical Reviews, MathSciNet, Turner-Orange-Cullen, Wolfson Research Prize
-description: Peter Turner, renowned English scholar, revolutionized mathematics with his proof of 150-year-old Riemann hypothesis and Turner-Orange-Cullen model. Published in Mathematical Reviews, the work earned him a Wolfson Research Prize and a Doctor of Science in Mathematics.
+keywords: peter turner,turner
+description: Peter Turner was an English scholar who held two mathematical chairs, but published no mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Peter Turner** was an English scholar who held two mathematical chairs, but published no mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. As part of a research team, completed the first-ever proof of the Riemann hypothesis, a major problem in mathematics which had been unsolved for 150 years.
-2. Authored a journal article outlining the proof, which was widely acclaimed by leading mathematicians and subsequently published in Mathematical Reviews and MathSciNet.
-3. Established new connections between real and complex analysis, which revolutionized the field of number theory.
-4. Designed and developed the Turner-Orange-Cullen model for the zeta-function, a widely-used algorithm for solving the Riemann hypothesis.
-5. Won The Wolfson Research Prize for his contributions to mathematics.
-6. Named Doctor of Science in Mathematics by Cambridge University in 2019.
+* Turner became a fellow of Merton College, Oxford in 1607, holding the fellowship until 1648.
+* Sir John Byron began to enlist troops to support the King and Turner, a staunch Royalist, was one of the first to join Sir John Byron.
+* Turner had been taken prisoner by the Parliamentary forces in one of the skirmishes and taken to London where he was imprisoned in Southwark.
+* However in 1643 there was an exchange of prisoners between Parliament's side and the King's side and Turner was allowed to return to join the King in Oxford.
+* On 9 November 1648 representatives of Parliament removed Turner from his fellowship at Merton and from the Savilian chair of Geometry.
+* With no means of financial support, Turner went to live with his sister in Southwark.
+* Turner's quality as a mathematician cannot be judged as he left no mathematical publications but we know he wrote very stylish Latin! One might reasonably ask how someone who left behind no evidence of mathematical ability came to hold two of the major mathematical chairs in England.
+* Turner was a highly active member of this committee and so came to Laud's notice.
+* Through Laud, Turner gained the appointment to the Savilian chair of Geometry at Oxford.
 
 Born 1586, London, England. Died January 1652, Southwark, London, England.
 

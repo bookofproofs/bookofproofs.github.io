@@ -7,10 +7,10 @@ orderid: 1863
 title: Butters, John Watt
 born: 1863
 died: 1946
-keywords: J Watt Butters, Edinburgh, Teaching, Rector, Local Search, Rayleigh Quotient, Markov Chain Monte Carlo
-description: J Watt Butters, a former Rector at Edinburgh, developed strategies to solve complex problems using local search, Rayleigh Quotient, & Markov Chain Monte Carlo algorithms, and was awarded a Turing Fellowship.
+keywords: j watt butters,butters
+description: J Watt Butters graduated from Edinburgh and taught at George Heriot's School and James Gillespie's School in Edinburgh. He became Rector of Ardrossan Academy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **J Watt Butters** graduated from Edinburgh and taught at George Heriot's School and James Gillespie's School in Edinburgh. He became Rector of Ardrossan Academy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new strategy for solving the traveling salesman problem using local search algorithms.
-2. Developed an efficient algorithm for solving linear equations using the Rayleigh Quotient formulation.
-3. Pioneered research into the application of Markov Chain Monte Carlo sampling algorithms to solve complex optimization problems.
-4. Led a research team at the University of Toronto in the development of a mathematical model to assess and optimize the performance of integrated circuit networks in communication systems.
-5. Authored multiple research papers on the application of statistical and stochastic processes in mathematics.
-6. Designed and developed several software libraries for the simulation of probability distributions in mathematics.
-7. Awarded a prestigious Turing Fellowship for the advancement of mathematics.
+* Butters was awarded an M.A. with First Class Honours in Mathematics and Natural Philosophy from the University of Edinburgh in 1894, and a B.Sc. (Pure) in the same year.
+* He taught for a short period at Aberystwyth and then at James Gillespie's School, Edinburgh.
+* He was elected a Fellow of the Royal Society of Edinburgh on 6 April 1896 having been proposed by Peter Guthrie Tait, George Chrystal, David Fowler Lowe, and John Sturgeon Mackay.
+* During the period of his Rectorship in Ardrossan Mr Butters played a leading part in the Council of the Educational Institute of Scotland, his skill in dealing with the difficult problems affecting such questions as superannuation being widely recognised by his fellow-members.
+* Butters joined the Edinburgh Mathematical Society in December 1886.
+* He also contributed to the mathematical work of the Society, For example at the meeting of the Society on Friday 11 January 1889, J Watt Butters discussed the solution of an algebraic equation.
 
 Born 10 August 1863, McDowall Street, Edinburgh, Scotland. Died 11 January 1946, Edinburgh, Scotland.
 

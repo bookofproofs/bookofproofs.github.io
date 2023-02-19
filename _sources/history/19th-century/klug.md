@@ -7,10 +7,10 @@ orderid: 1854
 title: Klug, Leopold
 born: 1854
 died: 1945
-keywords: Leopold Klug, Mathematical Theorems, Geoetry of Numbers, Multiplicity Conjecture, Convex Geometry, Non-Euclidean Geometry, Pythagorean Theorem
-description: Hungarian mathematician Leopold Klug developed the "Klug-Müller" Method, established the field of Geoetry of Numbers and proved the Multiplicity Conjecture.
+keywords: leopold klug,klug
+description: Leopold Klug was a Hungarian mathematician whose areas of research were descriptive geometry and synthetic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Leopold  Klug** was a Hungarian mathematician whose areas of research were descriptive geometry and synthetic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new method to prove mathematical theorems, called the ‘Klug-Müller’ Method.
-2. Developed the area of 'Geoetry of Numbers'
-3. Solved a long-standing mathematical problem by proving the Multiplicity Conjecture.
-4. Proved the infinitude of prime numbers
-5. Made significant contributions to the field of convex geometry.
-6. Pioneered the development of Non-Euclidean Geometry.
-7. Found a 2-dimensional generalization of the Pythagorean theorem.
-8. Improved the use of computers for the solving of difficult mathematical problems.
-9. Established new methods for finding approximate solutions to ODEs.
-10. Developed the ‘Klug-Müller’ method of differential equations.
+* His parents were Miksa Klug and Hani Neufeld; the family was Jewish.
+* After the award of his habilitation, Klug was appointed to the Joseph Franz University of Kolozsvár (now Cluj) as an extraordinary professor in Descriptive Geometry.
+* Back in Budapest after his retirement, Klug lived on Kertesz Street, 38, I/4, in the 7th  District of Budapest; the Tellers also lived there.
+* His name was Leopold Klug.
+* Klug had a favourite subject, and that was projective geometry.
+* Klug died in Budapest towards the end of 1944 but the circumstances of his death have been unclear up to now.
+* We should now look at the Klug Foundation which he set up at the University of Kolozsvár (Cluj) with money which he saved from his pension during the years of his retirement in Budapest.
+* From the foundation of Leopold Klug - according to our information - the first aim will be to reward those students who have undertaken excellent work in the seminar in the field of Descriptive Geometry.
+* This subject was Dr Leopold Klug's favourite.
+* Dr Leopold Klug, the new patron of a university foundation, was born in Gyöngyös in 1854, as a child of a Jewish family; in 1891 he became a privatdocent in synthetic geometry at the University of Budapest, and in 1897 he became an extraordinary professor at the University of Kolozsvár (Cluj).
+* His work is comparable maybe only to that of Dr Leopold Fejér, who also pursued his first scientific research at the old University of Kolozsvár (Cluj).
+* Dr Leopold Klug, at the age of a patriarch, living permanently in Budapest but spending each summer in the emergent Kolozsvár (Cluj), now wishes to serve Hungarian science by financially supporting the first steps of talented mathematicians and geometers at his former place of employment.
+* The first winner of the Leopold Klug Prize was Ferenc Zigány in 1943.
+* He was awarded the prize because of his report reviewing the scientific contributions made by Leopold Klug.
+* Leopold Klug was an enthusiast for the flourishing of Projective Geometry, and within that, the synthetic method which inspired many great minds in the past.
+* Both of these topics were Klug's favourites and several of his dissertations deal with them.
+* We should note that Leopold Klug Prize was only awarded in 1943.
 
 Born 23 January 1854, Gyöngyös, Hungary. Died 24 March 1945, Budapest, Hungary.
 

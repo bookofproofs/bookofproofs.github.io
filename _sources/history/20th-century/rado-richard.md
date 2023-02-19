@@ -7,10 +7,10 @@ orderid: 1906
 title: Rado, Richard
 born: 1906
 died: 1989
-keywords: "Richard Rado, Combinatorics, Graph Theory, Subgroups, Geometry, FORTRAN, Recursive"
-description: Richard Rado, a German-born British mathematician, made significant contributions to Combinatorics, Graph Theory, Subgroups, Geometry, FORTRAN, and Recursive Theory.
+keywords: richard rado,rado
+description: Richard Rado was a German-born British mathematician who worked on combinatorics and graph theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Richard Rado** was a German-born British mathematician who worked on combinatorics and graph theory.
 
 ### Mathematical Profile (Excerpt):
-1. Development of the theory of subgroups of abstract groups, which led to the introduction of the term ``radical'' for the maximal solvable normal subgroup. 
-2. Pioneering the study of algebraic groups with the notion of Chow-Riemann geometry. 
-3. Introduction of the automated reasoning system FORTRAN. 
-4. Creating the theory of finite recursive functions and related recursive set theory. 
-5. The seminal proof that every countable model of set theory has a countable transitive model. 
-6. Application of ordinal logic, a variant of order theory, to find solutions to undecidable problems in a finite number of steps. 
-7. Definition of ordinal arithmetic, a generalization of natural number arithmetic, to simplify and systematize subrecursive hierarchies, fast-growing hierarchies, and the theory of well-orderings. 
-8. Formulation of the notion of relative interpretability, a tool for the study of models of set theory and fragments of arithmetic. 
-9. Development of the theory of antichains, which provided a bridge between algebra and order theory.
+* Richard, his parents' second son, made a decision while at school to choose between being a concert pianist or a mathematician.
+* Rado's thesis, entitled Studies on combinatorics, earned him a doctorate in 1933.
+* They had one son, Peter Rado, born in 1943.
+* Rado's family were Jewish so the Civil Service Law made it impossible for him to become a university lecturer in Germany.
+* Rado was interviewed in Berlin by Lord Cherwell for a scholarship given by the chemist Sir Robert Mond which provided financial support to study at Cambridge.
+* After he was awarded the scholarship, Rado and his wife left for England.
+* Rado entered Fitzwilliam House, University of Cambridge, and completed a second Ph.D. in 1935 under Hardy's supervision on Linear transformations of sequences.
+* While at Cambridge Rado was influenced by many mathematicians working there at the time including Hardy, Littlewood, Hall, Besicovitch and Bernhard Neumann.
+* Rado also worked with Heilbronn and Davenport and, at around this time, he began to correspond with Erdős.
+* In 1936 Rado was appointed to the University of Sheffield where, after Mirsky was appointed in 1942, the two became close friends.
+* In 1947 Rado moved to King's College, London, moving seven years later to a chair at the University of Reading.
+* Rado's work covered a wide range of mathematics but his most important work was in combinatorics.
+* These important combinatorial results were in the area of Hall's theorem, Ramsey's theorem, the Rado selection principle, matroids and theory of transversals, and partitions.
+* Rado received many honours for his contributions.
+* Rado was the kindest and gentlest of men.
+* Rado and his wife continued to live in Reading after he retired.
 
 Born 28 April 1906, Berlin, Germany. Died 23 December 1989, Henley-on-Thames, Oxfordshire, England.
 

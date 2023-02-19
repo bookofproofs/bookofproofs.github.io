@@ -7,10 +7,10 @@ orderid: 1846
 title: Bertini, Eugenio
 born: 1846
 died: 1933
-keywords: algebra, geometry, Boltzmann, thermodynamic, linear, representation, quaternions
-description: Eugenio Bertini was an Italian mathematician whose pioneering work in algebra, geometry, thermodynamics, and quaternions included the axiomatic characterization of orthomodular lattices, embedding non-abelian groups, and establishing basic criteria for linear equations.
+keywords: eugenio bertini,bertini
+description: Eugenio Bertini was an Italian mathematician who worked in projective and algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eugenio Bertini** was an Italian mathematician who worked in projective and algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Worked on the axiomatic characterization of orthomodular lattices.
-2. Developed the algebra of quaternions and the Cayley-Klein group.
-3. Published the first works on the theory of algebras.
-4. Contributed to the generalization of the physicist Boltzmann's entropy law through its thermodynamic formalism.
-5. Researched the existence of non-abelian groups with finite order.
-6. Developed a general framework for understanding the transformations of matrices.
-7. Conducted pioneering work on the theory of linear representation.
-8. Discovered the Embedding of Non-Abelian Groups into Larger Non-Abelian Groups.
-9. Established basic criteria for linear equations.
-10. Pioneered the concept of a dimension in linear algebra.
+* Eugenio was born in Forli which is about 60 km southeast of Bologna and just a little further northeast of Florence.
+* The University of Bologna was founded in the 11th  century and was at the time Bertini entered it (and of course still is today), one of the most famous and oldest universities in Europe.
+* After a period of decline the university had been reorganized in 1860, only three years before Bertini entered, and had resumed its place among Italy's foremost universities.
+* When Bertini entered the university in 1863 certain aspects seem from our 21st  century perspective, to have been surprisingly modern.
+* While on his engineering studies, Bertini took a mathematics course given by Cremona and this inspired him to study pure mathematics.
+* Cremona was an ardent Italian nationalist who, after fighting against the Austrians to help achieve an independent Italy, had been appointed as a professor at Bologna three years before Bertini entered the university.
+* Before Bertini could complete his degree he took a break from his studies to take part in the third war for Italian independence, an action which his teacher Cremona strongly approved.
+* Garibaldi led an almost independent army against the Austrians in the Tirol and Bertini joined his force which won some success near Trento.
+* Bertini returned to his studies at Bologna but was advised by Cremona to transfer to the University of Pisa where he obtained a degree in mathematics in 1867 in the school of Betti and Dini.
+* Bertini followed his teacher there and, during 1868-69, he studied at Milan attending courses by Cremona, Brioschi and Casorati on Abel's integrals.
+* The two most important colleagues of Bertini who contributed to this 'golden decade' were Felice Casorati and Eugenio Beltrami.
+* In 1892 Bertini returned to Pisa where he worked until he retired at the age of 75.
+* We should note that Bertini had a number of outstanding students and their work continued the Italian tradition of outstanding contributions to geometry.
+* Those who knew Bertini wrote that he kept a youthful enthusiasm for science to the end of his life.
 
 Born 8 November 1846, Forli (now Italy). Died 24 February 1933, Pisa, Italy.
 

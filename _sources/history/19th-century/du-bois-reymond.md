@@ -7,10 +7,10 @@ orderid: 1831
 title: Du Bois-Reymond, Paul
 born: 1831
 died: 1889
-keywords: Paul du Bois-Reymond, calculus, analytical mechanics, calculus of variations, state equations, integral equations, continuity
-description: Paul du Bois-Reymondwas a 19th century mathematician who contributed to the development of calculus in a variety of fields and formulated continuity for a real function.
+keywords: paul du bois-reymond,du
+description: Paul du Bois-Reymond gave a continuous function whose Fourier series diverges at a point (and in fact at a dense set of points).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,18 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Paul du Bois-Reymond** gave a continuous function whose Fourier series diverges at a point (and in fact at a dense set of points).
 
 ### Mathematical Profile (Excerpt):
-Paul du Bois-Reymond was a prominent mathematician of the 19th century. He is best known for his contributions to the development of calculus in the fields of analytical mechanics, calculus of variations, state equations, and integral equations.
-
-1. He contributed to the development of calculus in analytical mechanics.
-2. He developed the calculus of variations.
-3. He discovered state equations that describe the behavior of electrical and magnetic fields.
-4. He uncovered the importance of integral equations in the study of boundary value problems.
-5. He formulated a variant of the wave equation and introduced the notion of potential function.
-6. He promoted the use of Hamilton's principle to obtain equations of motion for mechanical systems.
-7. He developed a general theory of electric and magnetic potentials and fields.
-8. He published a book on the theory of elasticity.
-9. He formulated a general statement concerning the Dirichlet-Neumann problem. 
-10. He introduced the concept of continuity for a real function.
+* Felix du Bois-Reymond was from Neuchâtel but moved to Berlin in 1804 where he was a teacher at the Kadettenhaus.
+* Napoleon intervened in 1803 with the Act of Mediation which substituted a new Swiss Confederation for the Helvetic Republic, producing even closer ties with France.
+* Felix and Minette du Bois-Reymond had five children, Émile born in 1818, two daughters Julie and Felice, and two further sons one of whom was Paul, the subject of this biography.
+* The du Bois-Reymond family were brought up very strictly with Felix exerting strong authority over his children.
+* It was an upbringing which saw Paul totally fluent in both French and German.
+* There was 13 years difference in age between Paul and the older Émil, and Paul was strongly influenced by Émile who went to the University of Berlin when Paul was only a six year old child.
+* Like his older brother, Paul also attended the French Gymnasium in Berlin and he continued to follow in his brother's footsteps by attending the Collège in Neuchâtel.
+* By this time Émile had become a famous physiologist and Paul decided that he would follow his older brother into the same career.
+* From Neuchâtel, Paul went to the Gymnasium in Naumburg and then entered the University of Zürich in 1853.
+* Émile had been elected to the Prussian Academy of Sciences two years earlier and Paul, striving to follow, began to study medicine.
+* In 1854, Paul du Bois-Reymond published four papers which studied physiological problems.
+* His doctoral studies were supervised by Kummer and du Bois-Reymond was awarded his doctorate by the University of Berlin in 1853 for his thesis De aequilibrio fluidorum Ⓣ(On the equilibrium of fluids).
+* After his doctorate du Bois-Reymond was appointed to teach mathematics and physics at a secondary school in Berlin.
+* In 1864, while still teaching at the secondary school, du Bois-Reymond published Beiträge zur Interpretation der partiellen Differentialgleichungen mit drei Variabeln Ⓣ(Contributions to the interpretation of partial differential equations with three variables).
+* Following the publication of this important work, du Bois-Reymond was appointed to a chair at the University of Heidelberg in 1865.
+* Du Bois-Reymond's strong French and Prussian links put him in a somewhat difficult position and his brother Émile was an outspoken critic of the French in this dispute.
+* Finally, after ten years at Tübingen, where he supervised the doctorates of a number of students the most famous of whom was Otto Hölder, du Bois-Reymond was appointed to a chair at the Technische Hochschule Charlottenberg in Berlin.
+* Although du Bois-Reymond got on well with Weierstrass and the two shared many similar mathematical interests and concerns for rigour, the same could not be said for members of Weierstrass's school with whom relations were strained.
+* In particular du Bois-Reymond and Schwarz were not on good terms.
+* Du Bois-Reymond's work is almost exclusively on calculus, in particular partial differential equations and functions of a real variable.
+* In 1873 du Bois-Reymond was the first person to give an example of a continuous function whose Fourier series diverges at a point.
+* Perhaps what was even more surprising, the Fourier series of du Bois-Reymond function diverged at a dense set of points.
+* Du Bois-Reymond published an example of a continuous function which is nowhere differentiable in 1875.
+* Although there is no clear evidence that Cantor was guided to his "diagonal argument" from du Bois-Reymond's work, there is clear evidence that du Bois-Reymond had essentially found the diagonal argument in 1875.
+* In 1880 du Bois-Reymond pointed out the importance of nowhere dense sets which cannot be appropriately covered.
+* Du Bois-Reymond published Die allgemeine Functionentheorie Ⓣ(General complex analysis)  in 1882.
+* A majority of educated people will admit an infinite in space and time, and not just an "unboundedly large".
+* Moreover, hasn't the attempt in mechanics to go back down to the smallest active elements long ago introduced into science the atom, the embodiment of the infinitely small?
+* Although never a mathematician of the first rank, nevertheless the contributions by du Bois-Reymond during the 1870s and early 1880s were highly significant.
 
 Born 2 December 1831, Berlin, Germany. Died 7 April 1889, Freiburg, Germany.
 

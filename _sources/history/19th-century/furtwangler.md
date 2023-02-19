@@ -7,10 +7,10 @@ orderid: 1869
 title: Furtwängler, Philipp
 born: 1869
 died: 1940
-keywords: polynomial rings, finite fields, unitary group U(n), Furtwängler number system, class field theory, representation theory, modular forms
-description: Philipp Furtwängler developed mathematical theories such as polynomial rings, finite fields, and representation theory to classify algebraic number fields and apply numerical calculations to modular forms.
+keywords: philipp furtwängler,furtwängler
+description: Philipp Furtwängler was a German mathematician best known for his number theory and in particular for his proof of the principal ideal theorem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Philipp Furtwängler** was a German mathematician best known for his number theory and in particular for his proof of the principal ideal theorem.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced the concept of polynomial rings, allowing algebraic operations to be applied to expressions of complex variables.
-2. Established an algebra of finite fields, which allowed the investigation of algebraic extensions of these fields.
-3. Constructed a representation of the unitary group U(n), which allowed for the study of complex matrices.
-4. Developed a theory for the classification of algebraic number fields and the representation of real algebraic integers, which is now known as the Furtwängler number system.
-5. Constructed a topological characterization of the class field theory, an important tool for studying complex number systems.
-6. Contributed to the field of representation theory by constructing the first representations of the unitary groups that allowed for numerical calculations.
-7. Pioneered an algebraic approach to the study of modular forms, allowing for efficient computation of values of polynomials at integral points.
-8. Developed a general theory of finite groups, which allowed for a systematic classification of finite group-theoretic objects.
-9. Developed a generalization of homology theory that could be applied to arbitrary group-like objects, now known as the Furtwängler homology theory.
-10. Contributed to the early development of category theory, which allowed the application of mathematical theories to diverse types of objects.
+* Wilhelm was an organ builder as had been his father, the grandfather of the mathematician whose biography is being given, who was also named Philipp Furtwängler (1800-1867).
+* The Furtwängler family contains many famous people in addition to those just mentioned, for example two of the most prominent are the archaeologist Adolf Furtwängler (1853-1907) and his son Wilhelm Furtwängler (1886-1954), a famous German conductor who was one of the leading exponents of Romantic music.
+* Wilhelm and Mathilde had two sons, Philipp Furtwängler the subject of this biography born 1869 and Wilhelm Furtwängler (1875-1959), who like his father and grandfather built organs.
+* Furtwängler attended elementary school in his home town of Elze and then he studied at the Andreanum Gymnasium in Hildesheim.
+* Furtwängler attended Felix Klein's number theory course which went on for two semesters.
+* Furtwängler wrote the thesis Zur Theorie der in Linearfaktoren zerlegbaren ganzzahlingen ternären kubischen Formen Ⓣ(On the theory of integers decomposable into linear factors of ternary cubic forms) and he was awarded his doctorate by the University of Göttingen for this work in 1895.
+* At the University of Göttingen, Furtwängler had qualified to teach mathematics, physics, chemistry and mineralogy at secondary schools.
+* Despite working at the Geodetic Institute in Potsdam, it was number theory which was Furtwängler's main research interest.
+* Let us return to our description of Furtwängler's career.
+* Furtwängler came to the Mathematical Institute at 8 clock in the morning and held oral examinations and colloquia.
+* It was Furtwängler's lectures which turned Kurt Gödel from physics to mathematics.
+* Gödel, who entered the University of Vienna in 1922, described Furtwängler's lectures as the best he had ever heard.
+* Furtwängler was also a member of the examination committee for teaching in secondary schools.
+* When Furtwängler gave his proof he was 61 years old, remarkably old for someone to come up with such a major result.
+* Certainly these prizes were not the first honours to be given to Furtwängler.
+* In the same year of 1939, the 48th  volume of Monatshefte für Mathematik und Physik Ⓣ(Mathematics and physics monthly) was dedicated to Furtwängler on the occasion of his 70th  birthday.
+* Furtwängler's second marriage was in 1929 to Emilie Schön.
+* In October 1938 Furtwängler's condition forced him to retire from his duties.
+* Furtwängler's article was completed by Martin Eichler, Helmut Hasse and Wolfram Jehne.
 
 Born 21 April 1869, Elze, Hanover, Prussia, now Germany. Died 19 May 1940, Vienna, Austria.
 

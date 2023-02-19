@@ -7,10 +7,10 @@ orderid: 1928
 title: Gohberg, Israel
 born: 1928
 died: 2009
-keywords: Israel Gohberg, Operator Theory, Functional Analysis, Linearization, Regularization, Generalized Eigenvalue Problem, Structure Theory
-description: Israel Gohberg revolutionized operator theory and functional analysis with his theories of linearization, regularization, and generalized eigenvalue problem, as well as structural properties of operators and *-algebras. He authored five books.
+keywords: israel gohberg,gohberg
+description: Israel Gohberg was a Bessarabian-born mathematician who worked in operator theory and functional analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Israel Gohberg** was a Bessarabian-born mathematician who worked in operator theory and functional analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Established the theory of operator determinants, one of the main tools of modern functional analysis.
-2. Developed the theory of linearization, which revolutionized the field of functional analysis and led to the development of new concepts in algebra and analysis.
-3. Developed the theory of regularization, an early method for solving systems of equations.
-4. Discovered the generalized eigenvalue problem, one of the central results in the development of functional analysis.
-5. Clarified structural properties of various characteristic classes of linear operators, including the index of a Fredholm operator.
-6. Ranked among the founders of modern operator theory and linear algebra, with other works including the development of the abstract form of structure theory of *-algebras.
-7. Authored five important books on operator theory, linear algebra, and their applications.
+* Gohberg then entered the College of Education in Frunze.
+* Gohberg's teachers at the College of Education were so impressed with his abilities that persuaded him to move to a university.
+* After graduating from University of Kishinyov, Gohberg went to the University of Leningrad to study for his doctorate which he received in 1954.
+* Gohberg was appointed to the Academy of Sciences in Kishinyov where, in 1964, he became the Head of Functional Analysis.
+* By 1969 Gohberg had made the decision to try to emigrate to Israel but only after great difficulty, and a long wait, did Gohberg and his family obtain the visa necessary for them to leave.
+* After obtaining the visa in 1974, he emigrated to Israel.
+* Once in Israel, he was appointed to a professorship at Tel Aviv University and he also was appointed to the Weizman Institute in Rehovot.
+* In addition to Gohberg's outstanding work in analysis and in particular in operator theory and matrix methods, he founded the major international journal Integral equations and operator theory in the late 1980s.
+* Gohberg has an amazing publication record with over 460 papers listed in Mathematical Reviews.
+* Israel Gohberg had been described as one of the exceptional mathematicians of our time, comparable in his manner perhaps only to Paul Erdős.
+* Gohberg has received many awards for his outstanding work including the Alexander von Humboldt Prize in 1992 and an honorary degree from the Institute of Technology in Darmstadt in June 1997.
 
 Born 23 August 1928, Tarutino, Romania (now Tarutyne, Ukraine). Died 12 October 2009, Kfar Saba, Israel.
 

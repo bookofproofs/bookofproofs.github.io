@@ -7,10 +7,10 @@ orderid: 1851
 title: Haret, Spiru
 born: 1851
 died: 1912
-keywords: Spiru Haret, mathematics, astronomy, politics, FMTC, FMTI, FMI
-description: Spiru Haret was a Romanian mathematician, astronomer, and politician. He founded FMTC, FMTI, and FMI, as well as organized the Mathematical Competition and established the National Mathematical Olympiad.
+keywords: spiru haret,haret
+description: Spiru Haret was a Romanian mathematician, astronomer and politician. He made a fundamental contribution to the n-body problem in celestial mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Spiru Haret ** was a Romanian mathematician, astronomer and politician. He made a fundamental contribution to the _n_-body problem in celestial mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Faculty of Mathematics and Computer Science (FMTC) in Bucharest in 1968.
-2. Established Spiru Haret's Mathematical Competition for high-school students, which has been running since 1976.
-3. Enacted the Foundation of Mathematics and Theoretical Informatics (FMTI) in 1979, to promote the teaching, research and applications of mathematics in Romania.
-4. Invited renowned mathematicians from around the world to teach at the Faculty of Mathematics and Computer Science.
-5. Developed a Doctoral Program in Mathematics and Computer Science.
-6. Published several scientific journals related to mathematics and computer science.
-7. Supported various national and international conferences dedicated to mathematics.
-8. Founded FMI – The Alexandru Myller Institute for mathematics and computer science.
-9. Created the National Mathematical Olympiad of Romania.
-10. Awarded numerous students and graduates with medals and awards for their research and exceptional achievements in mathematics.
+* The country sought independence from the Ottoman Empire and Russia, and the first major steps occurred at around the time Haret was born.
+* Already while he was a high school student, Spiru Haret published two mathematics texts, one on algebra and one on trigonometry.
+* Haret won the competition which provided funds for him to study in Paris.
+* Haret studied mathematics and physics at the Sorbonne.
+* Even if not decisive, Haret's results helped and determined Poincaré to search for, to find, and to offer new fundamental methods, primarily intended to tackle this problem, but revolutionary and useful for most domains of science.
+* Haret's and Poincaré's achievements marked, respectively, the end of a old era and the beginning of a new era in celestial mechanics and, in general, in mathematics.
+* Which is the link between Haret's and Poincaré's achievements from the narrow standpoint of the concrete problem they studied?
+* Haret proved instability of the model of the nnn-body problem, but considering frequencies (mean motions) to be incommensurable.
+* Taking also into account commensurabilities, and using generalized Fourier series (which generate quasiperiodic solutions), Poincaré proved the divergence of these series, which means instability, confirming in this way Haret's result.
+* Haret's and Poincaré's results show that the question of the Solar system's stability remains still unsolved.
+* Haret's work marked the beginning of the end of an era, that of exclusively quantitative endeavours in mathematics.
+* "Spiru Haret's theorem" is to be naturally added to the logical succession of theorems with respect to this problem known as "Laplace-Lagrange theorem" and "Poisson's theorem".
+* After defending his thesis in 1878, Haret returned to Romania.
+* Although Haret continued to have a major impact on teaching at the university, he gave up research on mathematics and instead became involved in politics.
+* Despite his political involvement, Haret retained his professorship at the University of Bucharest and, in addition, he also retained his professorship of analytical geometry at the Bridges and Roads' School in Bucharest to which he had been appointed in 1882.
+* Haret attempted to set up a system of mechanics that would describe the forces that govern social and economic phenomena.
 
 Born 15 February 1851, Iasi, Romania. Died 17 December 1912, Bucharest, Romania.
 

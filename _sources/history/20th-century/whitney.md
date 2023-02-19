@@ -7,10 +7,10 @@ orderid: 1907
 title: Whitney, Hassler
 born: 1907
 died: 1989
-keywords: Whitney, Manifolds, Embeddings, Immersions, Homology Theory, Differential Topology, Calculus of Variations
-description: A mathematician, Whitney pioneered the development of Homology Theory and Differential Topology, discovering the Whitney embedding theorem and deriving the Whitney extension theorem.
+keywords: hassler whitney,whitney
+description: Hassler Whitney was an American mathematician who did important work in manifolds, embeddings, immersions, characteristic classes and geometric integration theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hassler Whitney** was an American mathematician who did important work in manifolds, embeddings, immersions, characteristic classes and geometric integration theory.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the development of homology theory, a branch of algebraic topology that studies topological properties of spaces.
-2. Helped to establish the branch of differential topology, which studies the local and global properties of differentiable functions and manifolds.
-3. Developed a new approach to the calculus of variations which he dubbed as the “minimum principles.”
-4. Discovered the Whitney embedding theorem, which states that every abstract topological manifold can be isometrically embedded in a Euclidean space.
-5. Found a critical point theorem for continuous mappings between compact manifolds, related to the Morse-Sturm theory.
-6. Proved a fundamental theorem on the existence of non-obvious continuous extensions of continuous functions from one space to another.
-7. Derived the Whitney extension theorem, which states that every continuous function on a closed subset of space can be extended to a continuous function on the entire space.
-8. Developed a number of inequalities, which established the analytical foundations for the existence of certain structures in manifolds.
+* Edward's father was William Dwight Whitney who was a linguist and one of the foremost Sanskrit scholars of his time, noted especially for his classic work, Sanskrit Grammar (1879).
+* Certainly Hassler had two very famous grandfathers.
+* Whitney attended Yale University where he received his first degree in 1928, then continued to undertake mathematical research at Harvard  University from where his doctorate was awarded in 1932.
+* Whitney was a keen mountaineer all his life and he made a particularly famous climb while an undergraduate.
+* Whitney subscribed to the "fast and light" school of mountaineering (and rock climbing).
+* Hassler moved quickly with less protection than is considered usual today.
+* On the Whitney Gilman ridge, he climbed without pitons (or anything else) for protection.
+* Whitney married Margaret R Howell on 30 May 1930; they had three children, James Newcomb Whitney, Carol Whitney, and Marian Whitney.
+* Hassler Whitney, then at Harvard, joined the group at Columbia working on questions concerning fire control systems, that is, systems which control the aiming of weaponry, especially on aircraft and rockets.
+* Harvard made Whitney a full professor in 1946 and he held this professorship until he accepted an offer from the Institute for Advanced Study at Princeton of a professorship in 1952.
+* After Whitney and his wife were divorced he married Mary Barnett Garfield on 16 January 1955; they had two children, Sarah Newcomb Whitney and Emily Baldwin Whitney.
+* Whitney's doctoral thesis was on graph theory, in particular making a major contribution to the four colour problem.
+* Continuing work started by Veblen and Henry Whitehead, Whitney produced fundamental work in differential topology in 1935.
+* The term Stiefel-Whitney characteristic classes is often used today.
+* In 1939 he gave his famous duality and product theorems: the term Whitney duality is now used.
+* This topic had been the subject of the lecture which Whitney gave to the International Congress of Mathematicians, held in Cambridge, Massachusetts in 1950.
+* In addition to research at the frontiers of mathematical research, Whitney was also interested in mathematics teachings in schools.
+* Outside mathematical research and teaching mathematics Whitney contributed in many ways to his subject.
+* Princeton was to remain Whitney's base from 1952 until he retired in 1977.
+* After Whitney was divorced from his second wife he married Barbara Floyd Osterman on 8 February 1986.
 
 Born 23 March 1907, New York, USA. Died 10 May 1989, Mount Dents Blanches, Switzerland.
 

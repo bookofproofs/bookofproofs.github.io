@@ -7,10 +7,10 @@ orderid: 1939
 title: Moalla, Fatma
 born: 1939
 died: 0
-keywords: Fatma Moalla, Mathematics, Agrégation, Doctorate, Olympiads, IMMC, Innovations
-description: Fatma Moalla, a Tunisian mathematician, was the first Tunisian to receive an Agrégation and Doctorate in Mathematics, and has achieved numerous awards in math competitions. She has also developed her own mathematical innovations.
+keywords: fatma moalla,moalla
+description: Fatma Moalla is a Tunisian mathematician who has undertaken research on Finsler spaces. In 1961 she became the first Tunisian to have been awarded the Agrégation in Mathematics in France and, in 1965, the first Tunisian woman to be awarded a doctorate in mathematics in France.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Fatma Moalla** is a Tunisian mathematician who has undertaken research on Finsler spaces. In 1961 she became the first Tunisian to have been awarded the Agrégation in Mathematics in France and, in 1965, the first Tunisian woman to be awarded a doctorate in mathematics in France.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the teaching of mathematical concepts in secondary schools in Tunisia.
-2. Received numerous awards for her accomplishments in mathematics and has consistently achieved top grades in national and international mathematics competitions. 
-3. Was selected as an international mathematics tester for the Paris International Mathematics Olympiads in 2016. 
-4. Led the team that represented Tunisia at the 2019 International Mathematical Olympiad in the United Kingdom and achieved first place in the Tunisian National Mathematical Olympiads. 
-5. Participated in the 2018 International Mathematical Model Competition (IMMC) in Italy and achieved fourth place.
-6. Was a speaker at the International Conference on Mathematics and its Applications in Rome, Italy in 2016. 
-7. Developed her own mathematical innovation project that successfully presented the best mathematical results at the Tunisian Mathematical Symposium in 2015.
+* Fatma's eldest sister was born in Sfax before Mohamed Moalla moved with his family to Tunis where he continued to work as a bookseller.
+* Mohamed Moalla's family consisted of six girls, all but the eldest being born in Tunis after they moved there.
+* During the next three years, from 1957 to 1960, Moalla studied at the Institut des Hautes Études de Tunis which is situated at 8 Rue de Rome.
+* Moalla was not satisfied with stopping her studies at this level and she was very keen to obtain a doctorate in mathematics.
+* Moalla spent one year in which she prepared for CAPES, the Certificate for teaching in secondary education, and the Agrégation.
+* Moalla sat the oral examination in July 1961 at a most difficult time since she was a Tunisian in France and the two countries were fighting each other.
+* Moalla was appointed as a mathematics teacher in the Lycée de la Rue du Pacha, the school which she had herself attended, teaching there for the year 1961-62.
+* In 1964 Moalla published Espaces de Finsler complets Ⓣ(Complete Finsler Spaces) in Comptes rendus des séances de l'Académie des sciences de Paris Ⓣ(Records of the sessions of the Paris Academy of Sciences).
+* Moalla continued to publish in Comptes rendus and her third paper was Espaces de Finsler sans points conjugués Ⓣ(Finsler spaces without conjugate points) (1965).
 
 Born 14 January 1939, Tunis, Tunisia.
 

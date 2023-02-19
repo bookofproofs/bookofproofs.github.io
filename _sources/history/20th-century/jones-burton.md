@@ -7,10 +7,10 @@ orderid: 1910
 title: Jones (2), Floyd Burton
 born: 1910
 died: 1999
-keywords: Floyd Burton Jones, Topology, USIMO, LLNL, Linear Algebra, Combinatorics, Functional Analysis
-description: Floyd Burton Jones was an American mathematician who achieved success in Topology and represented the US at the USIMO, served as consultant for LLNL, wrote influential books on Math, earned his PhD from Harvard, and received the Distinguished Service Award from the American Mathematical Society.
+keywords: floyd burton jones,jones
+description: Floyd Burton Jones was an American mathematician who worked mainly in topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Floyd Burton Jones** was an American mathematician who worked mainly in topology.
 
 ### Mathematical Profile (Excerpt):
-1. Represented the United States at the International Mathematical Olympiad in 1962, finishing in the top two-tenths of a percent.
-2. Served as a mathematical consultant to the Lawrence Livermore National Laboratory.
-3. Wrote influential textbooks on linear algebra, combinatorics and functional analysis, which are still used in college courses today.
-4. Obtained a Ph.D. in Mathematics from Harvard University in 1965.
-5. Published 20 articles and books on math-related topics.
-6. Received the Award for Distinguished Service from the American Mathematical Society in 1982.
+* This had the effect of making Jones grow up wishing to be a lawyer, for his father mixed with the top lawyers of the County.
+* Jones won a Regents' Scholarship to study at the University of Texas and when he entered the University he was certainly still intending to become a lawyer and he enrolled in the pre-law program.
+* Law is a subject which requires a student to be able to memorise large amounts of information and Jones soon discovered that this was not one of his strengths.
+* Lawyers do not need to study mathematics but chemists do, and so at this point Jones took mathematics courses.
+* Perhaps the main factor which led Jones to finally decide to become a mathematician was R L Moore.
+* He quickly spotted Jones's talents for the subject even when he was only taking the mathematics courses necessary for the chemistry degree.
+* Moore did not try to make Jones change degrees for a second time and indeed he did complete his chemistry degree in 1932.
+* At this point Moore showed how deeply he believed in Jones's mathematical ability for he offered him a job as a part-time mathematics instructor.
+* This was too good an offer to refuse so Jones took up the post in September 1932 and at the same time he began studies for his doctorate in mathematics.
+* In 1942 Jones left the University of Texas to undertake War work at Harvard Underwater Sound Laboratory where he helped develop scanning sonar used in anti-submarine warfare.
+* Jones wrote 67 papers, his first in 1935 being on separable spaces, while his third in 1937 on normal spaces is one of his most important.
+* as brilliant as Jones' research was, it was overshadowed by his great skill as a teacher and his work as a human being.
+* the magical power of Jones in the classroom - a master who breathes the very life of mathematics into his students.
 
 Born 22 November 1910, Cisco, Texas, USA. Died 15 April 1999, Santa Barbara, California, USA.
 

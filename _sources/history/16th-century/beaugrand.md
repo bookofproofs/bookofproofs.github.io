@@ -7,10 +7,10 @@ orderid: 1590
 title: Beaugrand, Jean
 born: 1590
 died: 1640
-keywords: Jean Beaugrand, Geostatics, General Linear Groups, Coordinate-Free Representation, Differential Equations, Invariant Theory, Möbius Transformations
-description: Jean Beaugrand was a French mathematician who published works on Geostatics and developed concepts such as General Linear Groups, Coordinate-Free Representation, Differential Equations & Invariant Theory.
+keywords: jean beaugrand,beaugrand
+description: Jean Beaugrand was a French mathematician who published works on Geostatics as well as mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Beaugrand** was a French mathematician who published works on Geostatics as well as mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of general linear groups in 1872, introducing a generalization of the concept of a linear algebraic group. 
-2. Introduced the notion of coordinate-free representation of affine geometry in 1884. 
-3. Developed a theory of first-order differential equations of multiple variables in 1885. 
-4. Proved the direct decomposition theorem for algebraic groups in 1892. 
-5. Developed invariant theory and Galois theory of linear differential equations in 1895. 
-6. Developed a theory of binary forms and invariant theory o rational equations of two variables in 1896. 
-7. Established a general theory of algebraic equations of arbitrary degree in a three-dimensional space in 1896. 
-8. Solved the solvability problem in the theory of finite transformation groups in 1890.
-9. Developed the concept of Möbius transformations in geometry in 1907.  
-10. Published works on the theory of linear transformations in 1912 and 1913.
+* Very little is known about the life of Jean Beaugrand, the subject of this biography, and what we do know has been pieced together from references to him in the correspondence of Descartes, Fermat and Mersenne.
+* It is said that he was a pupil of Viète but since Viète died in 1603 this must have been at a very early stage in Beaugrand's education.
+* Beaugrand was certainly part of this network from a very early stage which, after 1619, became centred around Mersenne and he frequently attended meetings in Mersenne's cell in Paris.
+* Étienne d'Espagnet was the son of Jean d'Espagnet, the president of the Bordeaux parliament, and was a friend of Viète.
+* Beaugrand, as a pupil of Viète, would have known of d'Espagnet and the Bordeaux group, and afterwards he became friends with d'Espagnet.
+* Fermat probably met Beaugrand for the first time in Orléans in August 1626.
+* Beaugrand corresponded frequently with Fermat after he was in Bordeaux and it is through this correspondence that Fermat's work became known in Paris.
+* Certainly Beaugrand always acted as if he had discovered Fermat and proudly reported his achievements to Mersenne and he also reported on Fermat's work when he travelled to Italy and met many Italian mathematicians.
+* We know that at least five years before this Italian trip of 1635 Beaugrand had made a visit to England.
+* In 1630 Beaugrand became a Court Official, being named mathematician to Gaston duc d'Orleans.
+* As with many mathematicians in this period Beaugrand's life was greatly affected by wars and the fate of his employer.
+* In 1634 he was appointed to the committee which was set up by Cardinal Richelieu to evaluate Jean-Baptiste Morin's solution to the longitude problem by measuring absolute time from the position of the Moon relative to the stars.
+* Étienne Pascal, Mydorge, Hérigone, J C Boulenger and L de la Porte served on the committee along with Beaugrand and they were in dispute with Morin for the five years after he made his proposal.
+* Beaugrand met Hobbes on a number of occasions, and Descartes records that the two met in Mersenne's cell in Paris in 1634 and 1637.
+* Between these two dates, in 1635, Beaugrand went to Italy along with the French ambassador Bellièvre and his party.
+* At this time Beaugrand was holding the office of secretary to the king.
+* Beaugrand published Geostatique  in 1636 and also published on mathematics.
+* Beaugrand claimed that Descartes' work was copied from Harriot.
+* It was not the custom of the time to acknowledge sources of ideas as it is today so it is possible that Beaugrand's claim is at least in some small degree true.
+* A letter from Beaugrand to Desargues written on 25 July 1639 defended the classical methods.
 
 Born about 1590, Paris, France. Died 22 December 1640, Paris, France.
 

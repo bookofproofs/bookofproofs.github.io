@@ -7,10 +7,10 @@ orderid: 1906
 title: Peschl, Ernst
 born: 1906
 died: 1986
-keywords: geometric complex analysis, partial differential equations, Ernst Peschl Theorem, geometric algebra, differential equations, calculus, numerical analysis
-description: Ernst Peschl was a German mathematician who developed theories of geometric complex analysis, partial differential equations, and the Ernst Peschl theorem, and made advances in geometric algebra and numerics.
+keywords: ernst peschl,peschl
+description: Ernst Peschl was a German mathematician who worked on geometric complex analysis, partial differential equations and the theory of functions of several complex variables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernst Peschl** was a German mathematician who worked on geometric complex analysis, partial differential equations  and the theory of functions of several complex variables.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a theorem for perturbation analysis of linear systems which has become known as the Ernst Peschl Theorem.
-2. Conducted groundbreaking research on the application of geometric algebra to classical mechanics.
-3. Established the field of Differential Geometric Algebra by introducing the concept of curves in space.
-4. Made significant advances in the field of differential equations by introducing the concept of isometric curves.
-5. Developed a unified approach to the theory of probability and the concept of random variables.
-6. Published numerous papers on the application of calculus to engineering and the mathematics of special functions.
-7. Contributed to the field of numerical analysis and the development of numerical methods for solving linear equations.
-8. Developed an interpretation of the mathematical principle of exchange for the theoretical analysis of linear equations.
-9. Proposed a modified version of the Central Limit Theorem and established a new branch of mathematics, known as contraction theory.
-10. Discovered a system of equations which governs the relationship between geometrical entities and their equations in three dimensional space.
+* After the award of his doctorate, Peschl was appointed to Jena where he spent two years, from 1931 to 1933, working with Robert König.
+* Peschl and Behnke published an article in the Mathematische Annalen in 1935 which introduced the notion of Planarkonvexitat, now called weak lineal convexity.
+* Peschl was a leader of a Roman Catholic youth organisation in Jena but the work of such organisations was soon threatened by the Nazis after they came to power in 1933.
+* After the Gestapo closed down the Roman Catholic youth organisation in Jena, Peschl realised that he would have to go along with certain political actions if a career was to be possible.
+* In 1935 Peschl submitted his habilitation thesis and in 1936 was appointed as a lecturer in Jena.
+* In fact by 1938 he was thrown out of the Union of National Socialist Teachers since he had not paid his membership fees, but this was a pleasing outcome to Peschl.
+* By the time that Peschl was thrown out of the Union of National Socialist Teachers he was no longer in Jena for, in 1937, he had accepted an appointment as a professor at the Rheinische Friedrich-Wilhelms University in Bonn.
+* In March 1943 Peschl went to the Research Institute for Aeronautics Braunschweig-Völkenrode which exempted him from further military service.
+* Once he was fired from the Institute Peschl should have been drafted, and Doetsch pressed for this course of action.
+* However Peschl began working at the Technical University of Braunschweig and avoided being drafted for a few weeks which was all that was necessary since the Allies occupied Braunschweig on 11 April.
+* From 1948 Peschl was an ordinary professor at the Rheinische Friedrich-Wilhelms University in Bonn.
+* In 1973 Peschl lectured at the C Carathéodory International Symposium in Athens.
+* Peschl wrote a number of important books such as Analytische Geometrie Ⓣ(Analytical geometry) (1961), Funktionentheorie Ⓣ(Complex analysis) (1967, second edition 1983) and Partielle Differentialgleichungen erster Ordnung Ⓣ(Partial differential equations of the first order) (1973).
 
 Born 1 September 1906, Passau, Germany. Died 9 July 1986, Bonn, Germany.
 

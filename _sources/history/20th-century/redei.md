@@ -7,10 +7,10 @@ orderid: 1900
 title: Rédei, László
 born: 1900
 died: 1980
-keywords: László Rédei, mathematics, algebraic number theory, computability, complexity, algorithms, logic, computer science
-description: László Rédei made numerous contributions to mathematics, computability and complexity, algorithms, and logic in computer science, including his work on relative computability, parallel complexity, constructive topology and Kolmogorov complexity.
+keywords: lászló rédei,rédei
+description: László Rédei was a Hungarian mathematician who worked on algebraic number theory and abstract algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **László Rédei** was a Hungarian mathematician who worked on algebraic number theory and abstract algebra.
 
 ### Mathematical Profile (Excerpt):
-1. He developed an elegant and mathematically self-contained definition of relative computability in 1987 and of relative computable reducibility in 1996. 
-2. He has made considerable contributions to the theory of computability and complexity, including his work on computational deltas, relative computability and bi-monotone functions with enormous potential applications. 
-3. He solved the problem of the uniqueness of the Boolean Prime Characterization, which had remained open for more than 20 years. 
-4. He contributed to the theory of algorithms as one of the originators of the parallel complexity classification of P- and BPP-completeness in 1988. 
-5. He was the first one to state, solve and prove the P-selection problem in 1996. 
-6. He is author of the book entitled “Computability Theory (GTM 174)” published by Springer-Verlag in 1998. 
-7. He has made seminal contributions to the theory of logic in computer science, including his work on definable sets of reals and Cantor complexity, constructive topology, and Kolmogorov complexity. 
-8. He was appointed as a full professor in 2004, and in 2000 he was promoted to the position of professor emeritus at the Institute for Computer Science and Control of the Hungarian Academy of Sciences.
+* In the following year he was awarded his doctorate but, before the award of his doctorate, Rédei had already become a secondary teacher of mathematics, taking up his first teaching appointment in 1921.
+* For nearly twenty years Rédei worked as a secondary school teacher.
+* By 1940, the year he moved from secondary school teaching to become a lecturer at Szeged University, Rédei had published over 35 papers on algebraic number theory, particularly on class groups of quadratic number fields.
+* To understand how a vacancy occurred at the University in Szeged we need to look at the events which began while Rédei was undertaking research in Budapest.
+* However Gyula Szokefalvi-Nagy left the Bolyai Institute in Szeged and moved to Cluj, with Rédei becoming his replacement.
+* In 1941 Rédei was appointed to the Chair of Geometry in Szeged but later he was appointed to the Chair of Algebra and Number Theory.
+* Let us look now at Rédei's work on algebraic number theory.
+* However, when Rédei started work on the problem there was no information on the size of the cyclic components.
+* This was not the only problem concerning quadratic number fields which Rédei investigated over this period.
+* There are actually 21 such fields but Rédei did not achieve this classification.
+* The other two main areas to which Rédei contributed are group theory and semigroup theory.
+* One of Rédei's most important contributions to semigroup theory is his proof that every finitely generated commutative semigroup is finitely presented.
+* Let us mention other important books written by Rédei.
 
 Born 15 November 1900, Rákoskeresztur, Budapest, Hungary. Died 21 November 1980, Budapest, Hungary.
 

@@ -7,10 +7,10 @@ orderid: 1814
 title: Mocnik, Franc
 born: 1814
 died: 1892
-keywords: Franc Močnik, optimization, libraries, papers, books, algorithms, teaching, machine learning
-description: Franc Močnik was a Slovenian mathematician, pedagogue, and writer famous for his contributions to optimization, libraries, papers, books, algorithms, teaching, and machine learning.
+keywords: franc mocnik,mocnik
+description: Franc Močnik was a Slovenian mathematician, pedagogue and writer of mathematical textbooks.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Franc Močnik** was a Slovenian mathematician, pedagogue and writer of mathematical textbooks.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first ever open-source geometric programming (GP) library for the numerical solution of convex optimization problems, which is available to the scientific and engineering communities.
-2. Authored numerous papers and authored or edited various books on stochastic rational programming and related optimization topics.
-3. Co-authored the SIAM book on "Geometric Programming" with two other experts.
-4. Received the 2018 SIAM Activity Group on Optimization Prize for his key contributions to the field of optimization.
-5. Developed an algorithm called Compositional Convex Geometric Programming (CCGP).
-6. Established the Global Optimization Chair at the University of Ljubljana.
-7. Achieved a milestone in optimization by proving the equivalence of optimization with nonconvex constraints and its convexification to a convex optimization problem.
-8. Developed the Ljubljana Machine Learning repository, a public repository for data sets, algorithms, and reference materials concerning machine learning, which is widely used for research purposes.
+* Franc was the second of his parents' three sons.
+* In 1821, at the age of six, Franc began his schooling in the elementary school at Idrija, a town 14 km south of Cerkno.
+* At the Lyceum Močnik had good teachers; there was the linguist and literary historian Matija Cop (1797-1835) (he drowned while swimming in Sava river) and Franc Serafin Metelko (1789-1860), the physicist Janez Krstnik Kersnik (1783-1850), the botanist Franc Hladnik (1773-1844), and the excellent mathematics professor Leopold Karol Schulz von Strassnitzki (1803-1852) from Kraków.
 
 Born 1 October 1814, Cerkno, Austrian Empire (now Slovenia). Died 30 November 1892, Graz, Austria-Hungary (now Austria).
 

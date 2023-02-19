@@ -7,10 +7,10 @@ orderid: 1623
 title: Pascal (2), Blaise
 born: 1623
 died: 1662
-keywords: Pascal, mathematics, probability, calculator, theorem, expectations, hydrostatics
-description: Blaise Pascal was a French mathematician and philosopher known for pioneering probability theory, inventing the mechanical calculator, and discovering the law of descending permutations.
+keywords: blaise pascal,pascal
+description: Blaise Pascal was a very influential French mathematician and philosopher who contributed to many areas of mathematics. He worked on conic sections and projective geometry and in correspondence with Fermat he laid the foundations for the theory of probability.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,45 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Blaise Pascal** was a very influential French mathematician and philosopher who contributed to many areas of mathematics. He worked on conic sections and projective geometry and in correspondence with Fermat he laid the foundations for the theory of probability.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the field of probability theory with his seminal work ‘Traité du triangle arithmétique’ (Essay on the Arithmetic Triangle).
-2. Developed the earliest mechanical calculator to help his father, a tax clothier, with calculations. 
-3. Developed his famous quote "The more I study relationships, the more I am certain of the inexpressible mystery of existence". 
-4. Developed the Pascal Triangle, which shows the coefficients of Binomial expansion and can also be used to calculate the Fibonacci sequence. 
-5. Established a mathematical proof of the validity of Euclid's 5th postulate, known as Pascal's Theorem. 
-6. Set out the earliest forms of expectations analysis which is the basis of modern-day decision theory.
-7. Discovered the law of descending permutations, now known as Pascal's theorem. 
-8. Developed statistics and the principle of least squares, ahead of other brilliant minds of the era. 
-9. Published his ‘Provincial Letters’ reflecting his theological beliefs and defended the Jesuit doctrine. 
-10. Identified principles of hydrostatics, or the study of fluids, which helped to pave the way for Isaac Newton’s work on gravity.
+* Blaise's mother died when he was only three years old.
+* In 1632 the Pascal family, Étienne and his four children, left Clermont and settled in Paris.
+* Blaise Pascal's father had unorthodox educational views and decided to teach his son himself.
+* Étienne Pascal decided that Blaise was not to study mathematics before the age of 15 and all mathematics texts were removed from their house.
+* Blaise however, his curiosity raised by this, started to work on geometry himself at the age of 12.
+* He discovered that the sum of the angles of a triangle are two right angles and, when his father found out, he relented and allowed Blaise a copy of Euclid.
+* At the age of 14 Blaise Pascal started to accompany his father to Mersenne's meetings.
+* Soon, certainly by the time he was 15, Blaise came to admire the work of Desargues.
+* At the age of sixteen, Pascal presented a single piece of paper to one of Mersenne's meetings in June 1639.
+* It contained a number of projective geometry theorems, including Pascal's mystic hexagon.
+* In December 1639 the Pascal family left Paris to live in Rouen where Étienne had been appointed as a tax collector for Upper Normandy.
+* Shortly after settling in Rouen, Blaise had his first work, Essay on Conic Sections published in February 1640.
+* Pascal invented the first digital calculator to help his father with his work collecting taxes.
+* The device, called the Pascaline, resembled a mechanical calculator of the 1940s.
+* This, almost certainly, makes Pascal the second person to invent a mechanical calculator for Schickard had manufactured one in 1624.
+* There were problems faced by Pascal in the design of the calculator which were due to the design of the French currency at that time.
+* Pascal had to solve much harder technical problems to work with this division of the livre into 240 than he would have had if the division had been 100.
+* Events of 1646 were very significant for the young Pascal.
+* They had a profound effect on the young Pascal and he became deeply religious.
+* From about this time Pascal began a series of experiments on atmospheric pressure.
+* Descartes visited Pascal on 23 September.
+* In August of 1648 Pascal observed that the pressure of the atmosphere decreases with height and deduced that a vacuum existed above the atmosphere.
+* In October 1647 Pascal wrote New Experiments Concerning Vacuums which led to disputes with a number of scientists who, like Descartes, did not believe in a vacuum.
+* Étienne Pascal died in September 1651 and following this Blaise wrote to one of his sisters giving a deeply Christian meaning to death in general and his father's death in particular.
+* From May 1653 Pascal worked on mathematics and physics writing Treatise on the Equilibrium of Liquids (1653) in which he explains Pascal's law of pressure.
+* In The Generation of Conic Sections (mostly completed by March 1648 but worked on again in 1653 and 1654) Pascal considered conics generated by central projection of a circle.
+* This was meant to be the first part of a treatise on conics which Pascal never completed.
+* Although Pascal was not the first to study the Pascal triangle, his work on the topic in Treatise on the Arithmetical Triangle was the most important on this topic and, through the work of Wallis, Pascal's work on the binomial coefficients was to lead Newton to his discovery of the general binomial theorem for fractional and negative powers.
+* Through the period of this correspondence Pascal was unwell.
+* After this time Pascal made visits to the Jansenist monastery Port-Royal des Champs about 30 km south west of Paris.
+* Pascal's most famous work in philosophy is Pensées Ⓣ(Thoughts), a collection of personal thoughts on human suffering and faith in God which he began in late 1656 and continued to work on during 1657 and 1658.
+* This work contains 'Pascal's wager' which claims to prove that belief in God is rational with the following argument.
+* In 1658 Pascal started to think about mathematical problems again as he lay awake at night unable to sleep for pain.
+* Pascal published a challenge offering two prizes for solutions to these problems to Wren, Laloubère, Leibniz, Huygens, Wallis, Fermat and several other mathematicians.
+* Sluze, Ricci, Huygens, Wren and Fermat all communicated their discoveries to Pascal without entering the competition.
+* Wren had been working on Pascal's challenge and he in turn challenged Pascal, Fermat and Roberval to find the arc length, the length of the arch, of the cycloid.
+* Pascal published his own solutions to his challenge problems in the Letters to Carcavi.
+* Pascal died at the age of 39 in intense pain after a malignant growth in his stomach spread to the brain.
+* Pascal was embarrassed by the very abundance of his talents.
 
 Born 19 June 1623, Clermont (now Clermont-Ferrand), Auvergne, France. Died 19 August 1662, Paris, France.
 

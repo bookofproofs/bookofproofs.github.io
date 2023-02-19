@@ -7,10 +7,10 @@ orderid: 1235
 title: Llull, Ramon
 born: 1235
 died: 1316
-keywords: Ramon Llull, Philosophy, Mathematics, Combinatorial Analysis, Zero Symbol, Root-Squaring, Permutation
-description: Ramon Llull was a Majorcan philosopher who used logical methods to explore the intersection between philosophy and mathematics, introducing the zero symbol and root-squaring method and proposing the use of combinatorial analysis.
+keywords: ramon llull,llull
+description: Ramon Llull was a Majorcan philosopher whose logical methods influenced Leibniz.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ramon Llull** was a Majorcan philosopher whose logical methods influenced Leibniz.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote multiple books exploring the union of philosophy and mathematics; this included the Ars Magna and Algorithmi.
-2. Developed the concept of "combinatorial analysis", a technique used to address the combination of symbols.
-3. Developed logical systems which encouraged the acceptance of plurality and logical reasoning.
-4. Introduced the zero symbol in Europe, allowing for significantly easier calculations and solving.
-5. Was the first to propose the use of mathematical methods in arriving at religious and philosophical truth.
-6. Formulated the root-squaring method, making it easier to solve quadratic equations.
-7. Developed the principles of permutation and the doctrine of temporal continuity. 
-8. Introduced a counting board with which to perform calculations.
-9. Proposed a notation to reflect progress in the understanding and practice of algebra.
-10. Was the first to recognize and prove the validity of the law of continuity and the law of homogeneity.
+* Llull left Majorca in about 1265 after he experienced mystical visions of Christ on the Cross.
+* Llull's main work is the Ars magna (1305-08), comprising of a number of treatises including The Tree of Knowledge and The Book of the Ascent and Descent of the Intellect.
+* Llull used logic and mechanical methods involving symbolic notation and combinatorial diagrams to relate all forms of knowledge.
+* It is unclear exactly how Llull died.
+* according to legend, Llull was stoned in North Africa at Bejaia (Bougie) or Tunis and died a martyr at sea before reaching Majorca, where he was buried.
+* Llull's reduction of Christianity to rational discussion, in which he attempted to prove the dogmas of the Church by logical argument, did not find favour after his death.
+* The Roman Catholic Church did however pardon Llull more quickly than Galileo, since he was venerated in the 19th  century.
+* Llull's work is important for a number of reasons, one certainly being the great influence it had on Leibniz.
+* One of Llull's early works on chivalry was translated into English and thought important enough by the early printer William Caxton that he edited and printed the work.
+* Llull's mystical writings such as The Book of the Lover and the Beloved are still popular and his work has an important role in Catalan culture.
 
 Born 1235, Majorca (now Spain). Died 1316, (probably) Tunis, Tunisia.
 

@@ -7,10 +7,10 @@ orderid: 1857
 title: Pearson, Karl
 born: 1857
 died: 1936
-keywords: Pearson, correlation, eugenics, chi-squared, product moment, least squares, skewness
-description: Karl Pearsonrevolutionised statistic analysis; pioneering correlation, chi-squared, product moment, least squares & skewness, & founding eugenics.
+keywords: karl pearson,pearson
+description: Karl Pearson was an English mathematician and biostatistician. He introduced the idea of correlation and applied statistics to biological problems of heredity and evolution. With Francis Galton, he was a supporter of eugenics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,42 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karl Pearson** was an English mathematician and biostatistician. He introduced the idea of correlation and applied statistics to biological problems of heredity and evolution. With Francis Galton, he was a supporter of eugenics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Pearson chi-squared statistic, which is used to measure the distance between observed and expected values.
-2. Established the Pearson's product moment correlation coefficient, which measures the strength of a linear relationship between two variables.
-3. Developed the Pearson's Guide Test, which is used to assess the validity of statistical distributions.
-4. Invented bi-variate analysis to quantify variability and correlation between two measurements or sets of data.
-5. Pioneered the method of least squares, which is used for the fitting of linear equations to data points.
-6. His work on the concept of the standard deviation, known as ‘the root-mean-square’, laid the foundations for modern statistical analysis.
-7. Published the firstever frequency-based textbooks on statistics, The Grammar of Science and Natural Inheritance.
-8. Developed Pearson's coefficient of skewness which is used to measure the degree of symmetry of a given distribution.
+* William and Fanny named their second child Carl and he used this name until he was about 23 years old when he changed the spelling to Karl.
+* In this article we shall refer to him either as Karl or as Pearson.
+* Karl, together with his one older brother and one younger sister, were brought up in an upper-middle class family.
+* Pearson was never one to accept authority and this comes out clearly during his undergraduate years at Cambridge.
+* Pearson was deeply interested in religion yet hated the compulsory nature of these activities.
+* Having won, he surprised the University authorities by continuing to attend chapel but, of course, to Pearson there was a world of difference between attending voluntarily and compulsory attendance.
+* Despite the feelings he expresses in this quote, Pearson decided to study law so that he might, like his father, be called to the Bar.
+* Despite being called to the Bar in 1882, Pearson never practised law.
+* From 1884 to 1890 Pearson was highly productive.
+* Their marriage in 1890 produced three children; Egon Pearson (born 1895) who followed his father's profession, and two daughters Sigrid Loetitia who was three years older than Egon and Helga Sharpe who was three years younger.
+* It is worth pausing to realise that Pearson is known as one of the founders of statistics, yet we have reached 1890 and the 33 year old professor of applied mathematics, although having a high reputation in a wide variety of areas, had still not begun to work on statistical problems.
+* Weldon asked the questions that drove Pearson to some of his most significant contributions.
+* Through Weldon and Galton's book, Pearson became interested in developing mathematical methods for studying the processes of heredity and evolution.
+* Pearson coined the term 'standard deviation' in 1893.
+* Pearson was a co-founder, with Weldon and Galton, of the statistical journal Biometrika .
+* Weldon, in a letter to Pearson on 16 November 1900, suggested solving the problem of getting such papers published by setting up their own journal.
+* Pearson was enthusiastic and suggested they name the journal Biometrika .
+* The first volume appear in October 1901 with Pearson as its editor, a role he continued to hold until his death 35 years later.
+* From around 1906 Pearson put a large effort into setting up a postgraduate centre.
+* Galton had set up the Eugenics Record Office in 1904 and in 1906 he put Pearson in charge.
+* Pearson already ran the Biometric Laboratory and in 1911 the two laboratories were combined into the Department of Applied Statistics in University College.
+* Galton had expressed the wish that Pearson should be offered the chair, so becoming head of the new Department.
+* In so doing Pearson gave up his Goldsmid chair.
+* Pearson had a long, bitter, and very public dispute with Fisher.
+* At first they exchanged friendly letters after Pearson received a manuscript from Fisher in September 1914 of a paper he was submitting for publication.
+* Pearson then offered to have his staff at the Galton Laboratories work on a tabulation of values for the frequency curves arising in Fisher's paper to test the exact distribution produced by Fisher against previously known approximations.
+* However Pearson misunderstood the assumptions of Fisher's maximum likelihood method, and criticised it unfairly in the May 1917 Cooperative Study paper which he co-authored with his staff concerning tabulating the frequency curves.
+* Fisher, believing that Pearson's criticism was unwarranted, responded with a paper which criticised examples in the Cooperative Study to the extent of ridiculing them.
+* Fisher had looked again at his earlier correspondence with Pearson, noticed that many of his papers had been rejected, and concluded that Pearson had been responsible.
+* Pearson used large samples which he measured and the tried to deduce correlations in the data.
+* The dispute became bad enough to have Fisher turn down the post of Chief Statistician at the Galton Laboratory in 1919 since it would have meant working under Pearson.
+* Maria, Pearson's wife, died in 1928 and he remarried Margaret Victoria Child, a co-worker in his department, in the following year.
+* Pearson resigned from the Galton Chair in the summer of 1933 and University College decided to split his Department into two.
+* His son Egon Pearson became head of the Department of Statistics, while Fisher was appointed to the Galton Chair to succeed Pearson as head of the Department of Eugenics.
+* Pearson's influence upon those who only knew him through his writings was also great.
+* We have mentioned above some of the honours which Pearson received.
 
 Born 27 March 1857, London, England. Died 27 April 1936, Coldharbour, Surrey, England.
 

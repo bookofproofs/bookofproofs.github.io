@@ -7,10 +7,10 @@ orderid: 1863
 title: Van Vleck, Edward Burr
 born: 1863
 died: 1943
-keywords: Van Vleck formula, Van Vleck paramagnetism, Fermi-Dirac statistics, many-body perturbation theory, periodic orbit theory, Van Vleck inequalities, Van Vleck–Weisskopf effect
-description: Edward Van Vleckwas an American mathematician who advanced the understanding of function theory, differential equations, and magnetism.
+keywords: edward van vleck,van
+description: Edward Van Vleck was an American mathematician who worked in the fields of function theory and differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Van Vleck** was an American mathematician who worked in the fields of function theory and differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Van Vleck formula for the magnetic susceptibility of a solid, which describes the influence of a magnetic field on atomic electrons.
-2. Discovered the Van Vleck paramagnetism, which describes the magnetic response of materials at low applied fields.
-3. Proved the Fermi-Dirac statistics, which describes the behavior of electrons in a solid.
-4. Contributed to the development of the many-body perturbation theory, which is used to calculate the properties of interacting electrons in solids.
-5. Analyzed periodic orbit theory, which describes the dynamics of electrons in crystalline lattice structures.
-6. Formulated the Van Vleck inequalities, which are used to describe certain behaviors of random electrodynamic fields.
-7. Made contributions to the understanding of bond resonance in coordination compounds.
-8. Discovered the Van Vleck–Weisskopf effect, which predicts the spin of a particle based on its angular momentum.
+* John Van Vleck was a teacher of mathematics and astronomy at the Wesleyan University from 1853 until his death in 1912.
+* Edward was known as Ned by his father and friends.
+* Edward Van Vleck attended Middletown High School, then Wilbraham Academy before entering the Wesleyan University in 1880.
+* In 1885 Van Vleck became a graduate student at Johns Hopkins University where his interests still ranged through mathematics, physics and astronomy.
+* At the University of Göttingen, Van Vleck attended lectures by Klein, Burkhardt, Fricke, Schur, Schwarz, Woldemar, Voigt, Weber and others.
+* After returning to the United States in 1893 Van Vleck was appointed as an instructor at the University of Wisconsin.
+* In the same year he married Hester Laurence Raymond; they had one son, John Hasbrouck Van Vleck, who was born on 13 March 1899.
+* We should record here that John Hasbrouck Van Vleck was educated at the University of Wisconsin, Madison, and then at Harvard University where he received his doctorate in 1922.
+* Returning to describe the career of Edward Burr Van Vleck, after being an instructor in mathematics at the University of Wisconsin from 1893 to 1895, he returned to the Wesleyan University as an associate professor.
+* Almost all Van Vleck's research papers were in the fields of function theory and differential equations.
+* It is argued that Van Vleck proved the first zero-one law, anticipating the zero-one law of Borel and, more strikingly, that of Kolmogorov.
+* By following Van Vleck's own steps in deriving consequences of his zero-one law, a result ("the extended Van Vleck theorem") is given which is directly comparable to Borel's law of normal numbers.
+* Finally, it is shown that the Van Vleck zero-one law, which in generality falls between that of Borel and that of Kolmogorov, is further distinguished in that it provides the key step in establishing what may be the earliest example in ergodic theory of a metrically transitive transformation.
+* as the years went on, the self-imposed demand for elegance and simplicity exercised a inhibitive influence upon Van Vleck's production.
+* Van Vleck was American Mathematical Society Colloquium lecturer in 1903 giving six lectures on divergent series and continued fractions.
+* The American Mathematical Society was fortunate to have Van Vleck's support as well as that of his father.
+* Van Vleck was an editor of the Transactions of the American Mathematical Society  from 1905 to 1910, vice-president in 1909, and president from 1913 to 1914.
+* In 1916 the University of Chicago celebrated its first 25 years and as part of the Quarter-Centennial Celebration they awarded Van Vleck an honorary doctorate on 6 June 1916.
+* On this occasion Van Vleck delivered an address on Current tendencies of mathematical research.
 
 Born 7 June 1863, Middletown, Connecticut, USA. Died 2 June 1943, Madison, Wisconsin, USA.
 

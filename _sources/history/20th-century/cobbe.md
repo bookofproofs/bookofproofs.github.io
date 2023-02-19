@@ -7,10 +7,10 @@ orderid: 1920
 title: Cobbe, Anne Philippa
 born: 1920
 died: 1971
-keywords: Anne Cobb, algebra, Trinity College Dublin, Galois Geometry, research, books, Royal Society London
-description: Anne Cobb was an esteemed English mathematician and the first female professor at Trinity College Dublin, who developed Galois Geometry, published books and papers, medaled by the Royal Irish Academy, and received a fellowship from the Royal Society of London.
+keywords: anne cobbe,cobbe
+description: Anne Cobb was an English mathematician who worked in algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Anne Cobb** was an English mathematician who worked in algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Established a mathematical research program in the area of abstract algebra and differential geometry at Trinity College Dublin.
-2. Spearheaded the development of a new generation of mathematicians in Ireland by encouraging and nurturing undergraduate and postgraduate students to excel in their field of mathematical study.
-3. Appointed as the first female professor at Ireland's foremost college of mathematics and was a pioneer in the field of education in the subject matter.
-4. Developed the concept of Galois Geometry, a new area of abstract mathematical study.
-5. Authored a number of widely regarded mathematical books and papers, including a book on Galois Geometry, which established her reputation as a leader in the field of mathematics in Ireland and beyond.
-6. Medaled for excellence in mathematical research by the Royal Irish Academy; the first female to receive such an honor.
-7. Received the prestigious fellowship of the Royal Society of London for her invaluable contribution to mathematical research.
-8. Was a Member of the Irish Mathematical Society and served as its President in 1993.
+* Alexander Cobbe (5 June 1870 - 29 June 1931) had a distinguished military career and, in 1920, was appointed Military Secretary to the India Office.
+* At the time Anne was born, he was a Lieutenant-General but was promoted to General in 1926.
+* Anne was one of her parents' three children, the other two being Winifred Alice Cobbe (born 11 July 1912) and Alexander William Locke Cobbe (born 2 April 1919).
+* Anne was only ten years old when her father died.
+* Cobbe began her studies at Oxford in October 1939 but with her brother in the Royal Air Force and the country at war this was a very stressful time for her.
+* Cobbe spent the following two years at Oxford with the uncertainty of her brother's fate hanging over her and, at least for a while, clinging to the hope that he had been taken prisoner by the Germans.
+* Cobbe would have liked to continue her studies at Oxford and begin to undertake research for a doctorate.
+* This Department at the Admiralty had been set up in June 1942, only a short time before Cobbe began working there.
+* After the war had ended, Cobbe's mother, Lady Winifred Cobbe, opened a market garden in Wittersham, Kent, and Anne and her sister Winifred gave some assistance.
+* Cobbe began the research at Oxford that she would have started in 1942 had it not been for the war.
+* Cobbe was awarded a D.Phil.
+* Cobbe continued in her position as a lecturer at Lady Margaret Hall until 1955 when she returned to Somerville College where she had been a student.
+* On 11 August 1956 Cobbe's mother died but Cobbe and her sister continued to run the pig farm that her mother had established.
+* Of course, Cobbe was at Oxford during term time where she had teaching duties, but in the vacations she went to the farm where she carried out the paperwork and did the accounts.
+* Let us return to the papers that Cobbe wrote.
+* Taylor contacted Cobbe and together they corrected Cobbe's analysis in her first paper which contained an error.
+* However, one of the tutors at Somerville was on leave for the first term of the academic year 1971-72 and Cobbe was asked if she would tutor for that term.
+* Cobbe had always intended to publish her lecture notes on modules over a ring and began work on this after resigning her position in April 1971.
+* She planned this in July 1971 and the two chapters that she wrote are good and lively.
 
 Born 7 August 1920, Colworth, Sharnbrook, Bedfordshire, England. Died 15 December 1971, Oxford, England.
 

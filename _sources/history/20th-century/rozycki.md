@@ -7,10 +7,10 @@ orderid: 1909
 title: Różycki, Jerzy
 born: 1909
 died: 1942
-keywords: Rozycki, Enigma, semi-groups, algebraic method, function lattice, Boolean algebra, algorithms
-description: Jerzy Rozycki and colleagues decoded Enigma msgs, which, it's claimed, shortened WWII by 3-5 yrs. Pioneering research on semi-groups, algebraic method, function lattice, Boolean algebra & algorithms.
+keywords: jerzy rozycki,różycki
+description: Jerzy Rozycki was a Polish mathematician who, along with his colleagues Marian Adam Rejewski and Henryk Michal Zygalski, did amazingly valuable work decoding messages sent by the German Enigma machines. Although impossible to quantify, many lives must have been saved since, it is claimed, their work contributed to the shortening of World War II by between three to five years.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jerzy Rozycki **was a Polish mathematician who, along with his colleagues Marian Adam Rejewski and Henryk Michal Zygalski, did amazingly valuable work decoding messages sent by the German Enigma machines. Although impossible to quantify, many lives must have been saved since, it is claimed, their work contributed to the shortening of World War II by between three to five years.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the algebraic method for determining the structure of semi-groups as an alternative to the method of Galois, von Neumann and Krull. 
-2. Established the function lattice as a way to achieve significant simplification in determining structure of semi-groups. 
-3. Developed the sequential generalization of algebraic theories, which became the basis for the “Rozycki Algorithmic System”. 
-4. Co-authored the 1972 book "Semi-Groups and Equations in the Theory of Algorithms".
-5. Proposed a new way to formulate multi-valued logic operations based on Boolean algebra. 
-6. Formulated a systematic way to expand the scope of theory of algorithms.
-7. Pioneered research into the analysis of semi-groups using abstract algebra.
+* His older siblings were Aleksandra Rozycka (born 1903), Halina Rozycka (born 1905, died 1978), whose married name was Skierczyvska, and Eugeniusz Rozycki (born 1907, died 1925).
+* Jerzy was born in Olszana in the Russian Empire, now called Vilshana in Ukraine.
+* Rozycki attended secondary school in Wyszkow, graduating in 1926.
+* At school in Wyszkow, Rozycki had been drawn to mathematics and modern languages, and wished to study both subjects at university.
+* Rozycki took courses in German, showing great linguistic skills, but his main topic was mathematics where he particularly enjoyed the courses taught by the professor of mathematics Zdzislaw Krygowski (1872-1955).
+* Rozycki attended Krygowski's courses on higher algebra and on mathematical analysis at Poznan University.
+* In January 1929 Rozycki took a new cryptology course and, because of the importance of this, we must fill in a little background about the course.
+* Rozycki was one of twenty students who were selected for this course as were his fellow mathematics students from Poznan University, Marian Adam Rejewski and Henryk Michal Zygalski (known as Zyga).
+* A couple of hours later, some of the students including Rejewski, Zygalski and Rozycki proved capable of decoding the message.
+* While still a student, Rozycki was employed in the Poznan branch of the Cipher Bureau.
+* Rozycki, using cryptanalysis resulting from linguistic investigations, managed to reconstruct the entire code of the German navy.
+* Rozycki and his two fellow mathematicians were presented with a commercial version of the Enigma machine and set to work, using the intercepted coded messages, to reconstruct the modifications made in the military version.
+* Soon, Rozycki, Zygalski and me were so thoroughly isolated from the rest of the staff that even the janitor who brought tea for breakfast did not have the right to enter our room, at the door of which, on top of that, a black curtain was hung, as a result of which our room was jokingly nicknamed "Black peace".
+* Using a converted commercial machine and a photocopy of the day keys provided by Captain Gustav Bertrand from the French intelligence service, Rozycki and his colleagues managed for the first time to read German military radio messages from the period from September to October 1932, secured with the Enigma.
+* Rozycki's contribution to the development of Enigma was significant.
+* In this way, Rozycki independently developed a method that was the first theoretically described by the American cryptologist William Frederic Friedman in the 1920s under the name "Index of coincidence".
+* The year 1938 proved important for Rozycki.
+* Jerzy and Maria had one child, a son Jan Rozycki.
+* Increased German aggressive military activity led to Jerzy Rozycki and his colleagues meeting with British and French cryptologists in Warsaw in the summer of 1939 to explain to them the Polish achievements in deciphering the Enigma.
+* Rozycki with his wife and son, together with Rejewski and Zygalski were evacuated from Warsaw on 5 September.
+* Rozycki left his family in Brest: he would never see them again.
+* Rozycki, Rejewski and Zygalski were given a car to take them to Romania; they crossed the border into Romania on 17 September.
+* Rozycki was questioned by the Italian police in Turin who were suspicious that the young man had not been drafted into the army but they allowed him to continue.
+* three young Poles - Jerzy Rozycki, Marian Rejewski and Henryk Zygalski.
+* Rozycki and his two colleagues were transferred to Algeria, first to Oran and then to Algiers.
+* After a few months in Algeria, following the creation of Vichy France, Rozycki returned to that region where he continued his work on cryptanalysis in the château Les Fouzes near Usès in Provence, in the centre code-named Cadix which operated from October 1940 to November 1942.
+* Jerzy Rozycki then used the false name Julien Rouget.
+* Rozycki continued working on decoding Enigma messages much of which were somehow reported to the Allies.
+* The German police in Paris were aware that there was a Pole who was sending information back to England, but despite trying to track Rozycki they were unsuccessful.
+* In the summer of 1941 Rozycki was sent back to Algiers, where he supervised the reading of the dispatches sent by the Germans and Italians.
+* There were 93 survivors of the disaster, but sadly Rozycki drowned; his body was never recovered.
+* The fact that Rozycki had no grave was not rectified until 2019.
+* The primary task for the Board of the National Pantheon Foundation was to create a symbolic grave for Jerzy Rozycki, for whom, despite the benefits he gave to his country and the world, there was no place that could be described as his eternal resting place.
+* On 21 February 2000, Polish President Aleksander Kwasniewski posthumously awarded Rozycki the Grand Cross of the Order of Polonia Restituta for outstanding contributions to his homeland.
 
 Born 24 July 1909, Olszana, Russian Empire (now Vilshana, Ukraine). Died 9 January 1942, Mediterranean Sea, near the Balearic Islands.
 

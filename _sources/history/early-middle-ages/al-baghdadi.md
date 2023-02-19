@@ -7,10 +7,10 @@ orderid: 980
 title: Al-Baghdadi, Abu Mansur ibn Tahir
 born: 980
 died: 1037
-keywords: Al-Baghdadi, Jurisprudence, Calculating Inheritance, Euclid’s Elements, Geometry, Mathematical Analysis, Islamic Law
-description: Al-Baghdadi was an Islamic mathematician who authored many important works related to jurisprudence and inheritance law, employed geometry and algebra in his research, and proposed innovations in mathematical analysis and computations.
+keywords: al-baghdadi,al-baghdadi
+description: Al-Baghdadi was an Islamic mathematician who wrote about different systems of arithmetic in a work of great importance in the history of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Baghdadi** was an Islamic mathematician who wrote about different systems of arithmetic in a work of great importance in the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored Introduction to the Science of Jurisprudence, a compendium of Islamic legal scholarship which contributed to the development of Islamic jurisprudence.
-2. Deployed geometrical reasoning and linear algebra to address the study of inheritance laws in Islamic law.
-3. Authored Sermon on Calculating Inheritance Law, one of the earliest Arabic works on the mathematics of inheritance, which has become a foundational text amongst subsequent Islamic scholars. 
-4. Developed new models for processing financial transactions involving Islamic legal principles.
-5. Produced several mathematical treatises and commentaries on Euclid’s Elements, helping to expand the existing knowledge around algebraic theories.
-6. Maintained a deep interest in mathematical sciences and even adopted geometric theories and equations in his commentaries on Islamic law.
-7. Constructed new concepts of mathematical analysis and computations based on ancient Islamic texts.
-8. Demonstrated a keen interest in problems related to Islamic inheritance, and Arabic geometry, where he directed different applications to solve complicated issues.
+* His full name is Abu Mansur Abr al-Qahir ibn Tahir ibn Muhammad ibn Abdallah al-Tamini al-Shaffi al-Baghdadi.
+* We can deduce from al-Baghdadi's last two names that he was descended from the Bani Tamim tribe, one of the Sharif tribes of ancient Arabia, and that he belonged to the Madhhab Shafi'i school of religious law.
+* We have a few details of al-Baghdadi's life.
+* He did not go to Nishapur alone, but was accompanied by his father who must have been a man of considerable wealth, for al-Baghdadi, without any apparent income himself, was able to spend a great deal of money on supporting scholarship and men of learning.
+* When riots broke out in Nishapur, al-Baghdadi decided that he required a more peaceful place to continue his life as an academic so he moved to Asfirayin.
+* This town was quieter and al-Baghdadi was able to teach and study in more peaceful surroundings.
+* In Asfirayin, al-Baghdadi taught for many years in the mosque.
+* This treatise, al-Takmila fi'l-Hisab, is a work in which al-Baghdadi considers different systems of arithmetic.
+* In this work al-Baghdadi stresses the benefits of each of the systems but seems to favour the Indian numerals.
+* This becomes clear from the references to the lost work by al-Baghdadi.
+* Al-Baghdadi gives an interesting discussion of abundant numbers, deficient numbers, perfect numbers and equivalent numbers.
+* Al-Baghdadi gives some elementary results and then states that 945 is the smallest odd abundant number, a result usually attributed to Bachet in the early 17th  century.
+* However, al-Baghdadi knew that certain claims made by Nicomachus were false.
+* Next al-Baghdadi goes on to define equivalent numbers, and appears to be the first to study them.
+* The results that al-Baghdadi gives on amicable numbers are only a slight variations on results given earlier by Thabit ibn Qurra.
 
 Born about 980, Baghdad, Iraq. Died 1037.
 

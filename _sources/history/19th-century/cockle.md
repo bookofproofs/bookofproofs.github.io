@@ -7,10 +7,10 @@ orderid: 1819
 title: Cockle, James
 born: 1819
 died: 1895
-keywords: James Cockle, Mathematics, Pure/Applied, Navigaton/Calculation, Philosophy, Gaussian Error Curve, Differential Equations
-description: English lawyer and mathematician James Cockle was a trailblazer in mathematics, creating a new trigonometric table, founding the first scientific magazine, proving the binomial theorem, and pioneering the modern theory of linear differential equations.
+keywords: james cockle,cockle
+description: James Cockle was an English lawyer and mathematician who wrote papers on both pure and applied mathematics, as well as on the history of science. He became Chief Justice of Queensland.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Cockle** was an English lawyer and mathematician who wrote papers on both pure and applied mathematics, as well as on the history of science. He became Chief Justice of Queensland.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first trigonometric table in 1814, enabling more accurate navigation and calculation of angles.
-2. Founded the Philosophical Magazine in 1833, which was the first scientific magazine to be published in England.
-3. Was the first to accurately solve the equation of a parabola in 1837.
-4. Proved the binomial theorem for any power in 1838.
-5. Discovered the Gaussian error curve in 1844.
-6. Solved the quintic equation without using complex numbers in 1850.
-7. Wrote the first English treatise on the theory of equations in 1851.
-8. Pioneered the modern theory of linear differential equations in 1859.
+* James (senior) married Elizabeth (whose maiden name was probably Moss) in 1814; they had five sons and one daughter.
+* The family moved from Great Oakley to London when James, the subject of this biography, was still a child.
+* James entered Stormond House, Kensington in 1825 and was educated there until 1829 when he attended Charterhouse as a day pupil for two years.
+* Many intending to enter the legal profession studied mathematics at this time and indeed Cockle began his legal training at the Middle Temple in 1838.
+* Despite the relatively low position in the tripos, Cockle had demonstrated his mathematical abilities by having a paper published while still an undergraduate.
+* Cockle was called to the bar in November 1846 and, although a barrister by profession, he maintained his interest in mathematics.
+* Cockle married Adelaide Catharine Wilkin on 22 August 1855; they had nine children.
+* For his efforts in Australia, then of course a British Colony, Cockle was knighted in 1869.
+* Despite the positions of high authority that Cockle held, he was remarkably productive as a mathematician publishing over 100 papers.
+* Cockle joined the Royal Astronomical Society in 1854, the Cambridge Philosophical Society in 1856, and the London Mathematical Society in 1870.
+* After his presidency of the  London Mathematical Society, Cockle became a member of the Council of the Royal Astronomical Society, serving in this role from 1888 to 1892.
+* After a brief illness, Cockle died at his home in St Stephen's Road, Bayswater.
 
 Born 14 January 1819, Great Oakley, Essex, England. Died 27 January 1895, Bayswater, London, England.
 

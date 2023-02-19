@@ -7,10 +7,10 @@ orderid: 1618
 title: Mylon, Claude
 born: 1618
 died: 1660
-keywords: French, Mathematician, Calculus of Variations, Newton's Method, Elliptic Integrals, Least Squares, Algebraic Functions, Mylon Operators
-description: French mathematician Claude Mylon made groundbreaking contributions to the calculus of variations, Newton's method, elliptic integrals, least squares, algebraic functions, and Mylon operators.
+keywords: claude mylon,mylon
+description: Claude Mylon was a French mathematician important because of his correspondence with the leading mathematicians of the day.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Claude Mylon** was a French mathematician important because of his correspondence with the leading mathematicians of the day.
 
 ### Mathematical Profile (Excerpt):
-1. Developed techniques for solving problems in the calculus of variations.
-2. Developed a version of Newton's method for solving systems of partial differential equations. 
-3. Expanded the theory of elliptic integrals to apply to all types of differential equations.
-4. Published several papers on differential equations, several of which have become foundational works in the field.
-5. Made significant contributions to the development of Cauchy's principle of least squares.
-6. Developed an approximation theory for smooth functions, which is now used to solve a variety of scientific and engineering problems.
-7. Demonstrated groundbreaking results in the analytical theory of algebraic functions.
-8. Pioneered the use of orthogonal functions to solve partial differential equations.
-9. Established new methods for calculating the derivatives of sinusoidal functions.
-10. Discovered a new class of differential operators, now known as Mylon operators.
+* Claude was his parent's third son and he was brought up in a well-off family.
+* Mylon is important in the history of mathematics, not for his own achievements, but for his role in the Académie Parisienne, the group of scholars which was a continuation of the group formed in Paris by Mersenne, which was to form the foundation on which the Paris Academy of Sciences was formed.
+* Mylon joined Mersenne's mathematical circle in around 1645 when he began to take careful notes of mathematical discussions in the group.
+* Mylon took on the role of secretary of the academy.
+* After the death of Le Pailleur in 1654, Mylon had access to all the correspondence between members of the Académie Parisienne and the numerous scientist with whom they had corresponded.
+* At this stage Mylon carried on the important task of making the discoveries of mathematicians available to other mathematicians.
+* Mylon also corresponded with van Schooten about the problems on games of chance, in particular the dice and points problems, that Fermat and Pascal were considering.
+* Mylon maintained contact with Pascal after he gave up his mathematical studies and corresponded with Roberval.
+* Mylon's attempts to contribute to mathematics were much less successful than he was as a communicator of the results of others.
 
 Born 1618, Paris, France. Died 1660, Paris, France.
 

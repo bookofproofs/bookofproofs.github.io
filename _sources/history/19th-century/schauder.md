@@ -7,10 +7,10 @@ orderid: 1899
 title: Schauder, Juliusz Pawel
 born: 1899
 died: 1943
-keywords: Schauder, Functional Analysis, Differential Equations, Mathematical Physics, Fixed Point Theorem, Nonlinear PDEs, Linear Functional Analysis
-description: Polish mathematician Julius Schauder was renowned for his contributions to functional analysis, partial differential equations, and mathematical physics, particularly his own Fixed Point Theorem and Nonlinear PDEs theory.
+keywords: julius schauder,schauder
+description: Julius Schauder was a Polish mathematician known for his work in functional analysis, partial differential equations and mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Julius Schauder** was a Polish mathematician known for his work in functional analysis, partial differential equations and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a modification of the fixed-point theorem, now known as Schauder's Fixed Point Theorem.
-2. Wrote the 1961 monograph Topologische Linienrandintegrale and contributed to the foundational work on potential theory and variational problems.
-3. Solved several problems in the area of partial differential equations, including the Navier-Stokes equation and the Burgers equation.
-4. Founded the theory of nonlinear partial differential equations, which included the field of theory of distributions.
-5. Discovered a fixed-point theorem for topological vector spaces which was later called Schauder's Theorem.
-6. Provided the definitive proof of Birkhoff's geminal theorem.
-7. Was instrumental in the development of classical linear functional analysis.
-8. Discovered Schauder estimates, which extend Lax-Milgram Lemma, and form the basis for many of the fundamental deductions in elliptic regularity theory.
+* His father, Samuel Schauder, was a lawyer and Julius attended secondary school in Lemberg (now Lviv, Ukraine).
+* After the collapse of Austria, Schauder joined a new Polish army which was being organised in France.
+* He returned to Poland with this army in 1919, by this time the country of Poland had been reestablished and it was to a Polish Lwów that Schauder went.
+* Schauder married Emilia Löwenthal in 1929.
+* They would have one daughter Eva Schauder.
+* Schauder published fixed point theorems for Banach spaces in 1930.
+* While Schauder was in Paris he collaborated with J Leray and their joint work led to a paper Topologie et équations fonctionelles Ⓣ(Topology and functional equations) published in the Annales scientifiques de l'École Normale Supérieure.
+* In fact by the time Schauder received this prize his final publication (1937) had appeared in print.
+* Schauder was treated well by the new Soviet administration.
+* Schauder sent pleas for help to Hopf and Heisenberg saying he had many important results but no paper to write them on.
+* Schauder's wife Emilia was hidden in Lwów by the Polish resistance for some time after her husbands death.
+* Eva, Schauder's daughter, survived until the end of the war when she went to Italy to live with Schauder's brother who lived there.
+* We should comment on the picture of Schauder.
+* Schauder was there, as were Aleksandrov, Lefschetz, Borsuk, and some dozen other topologists.
 
 Born 21 September 1899, Lemberg, Austrian Empire (now Lviv, Ukraine). Died September 1943, Lwow, Poland (now Ukraine).
 

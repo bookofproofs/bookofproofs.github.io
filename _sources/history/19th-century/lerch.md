@@ -7,10 +7,10 @@ orderid: 1860
 title: Lerch, Mathias
 born: 1860
 died: 1922
-keywords: Czech, mathematicians, analysis, number theory, algebraic geometry, differential geometry, research
-description: Mathias Lerch was a Czech mathematician who worked in number theory, analysis, algebraic geometry, and differential geometry. He was a prolific researcher and also won awards for his teaching excellence.
+keywords: matyáš lerch,lerch
+description: Mathias Lerch was a Czech mathematician who worked in analysis and number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mathias Lerch** was a Czech mathematician who worked in analysis and number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a Marie Curie Individual Fellowship in 2018 to pursue research in algebra and differential geometry at the University of Pisa, Italy.
-2. Authored over 20 articles in international journals and books on algebraic geometry, arithmetic geometry, and differential geometry.
-3. Member of the international Math+X network, which focuses on bringing together mathematicians and non-mathematicians.
-4. Member of the Czech Academy of Sciences, where he has held an Excellence in Research Fellowship since 2012.
-5. The recipient of the 2013 European Mathematical Society Prize for promising young mathematicians.
-6. Led a seminar series at Charles University on Riemannian geometry for two years.
-7. Conducted two summer schools at Charles University on Representation Theory and Automorphic Forms.
-8. Led a research group at Charles University from 2014-2016 which developed new techniques for studying algebraic geometry.
-9. Spearheaded initiatives for the advancement of mathematics in the Czech Republic.
-10. Won numerous awards for his research contributions and teaching excellence including the 2016 Edmund Novak Prize and the 2016 Czech Mathematical Society Fellowship.
+* Like most people from that part of the world in that period he has both a German version of his name, Mathias, and a Czech version, Matyáš.
+* However there is no evidence that he ever used the name Matěj and he always used Matyáš.
+* His parents were Vojtěch Lerch and Barbora Adamovská, who worked on a farm, and had five children who survived past the baby stage, two boys and three girls.
+* The remaining children, Matyáš (the subject of this biography), Ružena and Marie all grew to adulthood.
+* Lerch should have begun his education at an elementary school at the age of six.
+* When Lerch was eight years old the family moved to Sušice, about 5 km from the small village of Milínov.
+* After the elementary school, which he left older than other pupils because of his late start, Lerch progressed to the lower secondary burgher school of Sušice.
+* After studying at the burgher school, Lerch reached the end of his compulsory schooling in 1877.
+* It seems that a religious dispute with one of his teachers led to Lerch leaving the school in Pilsen and attending a secondary school at Rakovník, due west of Prague, in 1879.
+* At this time in his education, Lerch was aiming at becoming a school teacher and, in the autumn of 1880, he enrolled in the Czech Polytechnic in Prague.
+* With most career paths now closed to him, Lerch decided at this time to aim at becoming a university teacher.
+* In the year 1883-84 Lerch wrote six papers, his first paper Beitrag zur Theorie der Kegelschnitte Ⓣ(Contribution to the theory of conic sections) (1881) having been written in his first year at university.
+* Although Lerch had been interested in geometry during his early studies, he moved to analysis and studied the work being published by Hermann Laurent, Otto Stolz and Johannes Thomae.
+* In 1886 Lerch habilitated at the Czech Technical Institute in Prague and on 14 September of that year joined the teaching staff there.
+* Over the next few years Lerch produced, on average, about one paper per month, a quite stunning achievement.
+* Lerch lectured on analytical functions and on the geometry of rational curves while an assistant to Eduard Weyr, but, after becoming an assistant to Blažek, he gave lectures on potential theory, higher algebra, the theory of numbers, analytic geometry, and the theory of functions.
+* There is a slightly strange episode in 1886 when Lerch was awarded a travel scholarship by Prague City Council.
+* Of course Prague City Council were not happy that they had awarded two scholarships to Lerch without him doing the allotted tasks and asked him to return the money.
+* In 1900 Lerch was awarded the Grand Prix from the Academy of Sciences in Paris for his paper Essais sur le calcul du nombre des classes de formes quadratiques binaires aux ceoffcients entiers Ⓣ(Essay on the calculation of the number of classes of quadratic binary forms with integer ceoffcients) and he used the prize money to repay the debt he had with Prague City Council.
+* Of course failing to carry out the duties he had been paid for did not improve the attitude of either Lerch's colleagues nor of the administrative bodies towards him.
+* Therefore, it is not surprising that thirty-six year old Matyáš Lerch, who it appears had directed his criticism and sharp wit against the mentioned dignities, despite being the author of about 120 scientific papers published in many international journals and having lectured on the results in these at the University of Paris, despite being an associate member of the Royal Czech Academy of Sciences and of the Czech Academy since 1893, was not able to find a reasonable position in his Czech homeland after ten years of being an instructor in Prague, and therefore had to move abroad.
+* At the University of Fribourg, Lerch lectured in French and German on elliptic functions and similar topics.
+* Lerch was Dean of the Faculty of Science in the academic year 1900-01.
+* A year after the founding of Czechoslovakia, a new university, named the Masaryk University after the first president, was founded in Brno and Lerch became the first professor of mathematics there in 1920.
+* Lerch married Roůžena Sejpková on 13 January 1921.
+* As we mentioned above, Lerch won the Grand Prize of the Paris Academy of Sciences in 1900 with a work on number theory, a great honour for any mathematician and an even greater achievement for a mathematician from outside France.
+* Lerch suffered from diabetes which cased his health to progressively worsen over the years although staying at health resorts in the vacations improved things temporarily.
 
 Born 20 February 1860, Milínov (near Sušice), South Bohemia (now Czech Republic). Died 3 August 1922, Sušice, Czechoslovakia (now Czech Republic).
 

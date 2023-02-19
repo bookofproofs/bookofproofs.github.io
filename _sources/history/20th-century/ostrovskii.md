@@ -7,10 +7,10 @@ orderid: 1934
 title: Ostrovskii, Iossif Vladimirovich
 born: 1934
 died: 2020
-keywords: Iossif Ostrovskii, mathematics, weakly triangulated categories, Galois groups, linear algebra, algebraic equations, algebraic geometry
-description: Ukrainian mathematician, Iossif Ostrovskii, developed theory of weakly triangulated categories, computation of Galois groups, linear algebra, and algebraic equations, helping to establish modern algebraic geometry.
+keywords: iossif vladimirovich ostrovskii,ostrovskii
+description: Iossif Ostrovskii was a Ukrainian mathematician who worked in the theory of integer and meromorphic functions and their application in the theory of probability.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Iossif Ostrovskii** was a Ukrainian mathematician who worked in the theory of integer and meromorphic functions and their application in the theory of probability.
 
 ### Mathematical Profile (Excerpt):
-1. Constructed the theory of weakly triangulated categories, which opened the way to the classification of finite-dimensional algebras over algebraically closed fields. 
-2. Developed tools for the efficient computation of Galois groups, which revolutionized the field of algebraic geometry. 
-3. Wrote several papers on linear algebra, including a seminal work on linear operators in finite-dimensional spaces. 
-4. Developed a technique for solving certain classes of multidimensional systems of equations using polynomial matrices. 
-5. Helped to prove the important Artin-Tate and Belyi theorems on the structure of Galois Theory. 
-6. Contributed to the development of the theory of algebraic equations by introducing the theory of algebraic groups. 
-7. Pioneered the method of effective integration in polynomial fields. 
-8. Developed the theory of domains and constructed a topological model for the structure of algebraic varieties. 
-9. Advised multiple early groundbreaking works on algebraic number theory. 
-10. Established himself firmly as one of the founding figures of modern algebraic geometry.
+* For example, during Ostrovskii's student years the staff included: Naum Il'ich Akhiezer who held the Chair of the Theory of Functions, Anton Kazimirovich Suschkevich (1889-1961) who was Head of Algebra and Number theory, Yakov Pavlovich  Blank (1903-1988), Gershon Ikhelevich Drinfeld (1908-2000) who was Head of the Mathematics Department and Deputy Director of the Kharkov Institute of Mathematics (his son Vladimir Gershonovich Drinfeld was awarded a Fields Medal in 1990), Boris Yakovlevich Levin, Vladimir Aleksandrovich Marchenko, Aleksandr Yakovlevich Povzner, and Aleksei Vasilevich Pogorelov.
+* It was in 1954 that Levin organised a research seminar on function theory, and Ostrovskii became one of its most active participants.
+* Ostrovskii graduated from Kharkov State University in 1956 and began undertaking research advised by Levin.
+* From 1958 Ostrovskii taught at Kharkov University, becoming the head of the Department of Function Theory in 1963.
+* To obtain these results, Ostrovskii had proved a stronger version of the Wiman-Valiron theorem on the behaviour of an entire function in a neighbourhood of points where its modulus attains the maximum value on the circle.
+* A collaboration between Ostrovskii and Anatolii Asirovich Goldberg led to important results.
+* This led to Goldberg collaborating with Levin's colleagues at Kharkov University, in particular with Ostrovskii.
+* In 1972 Ostrovskii published another important monograph, this time in collaboration with Yuri Vladimirovich Linnik.
+* Ostrovskii's 1970 book with Goldberg was also translated into English but this did not appear until 2008.
+* Ostrovskii was appointed to head the Department of Function Theory at the Low Temperature Physics and Technology Institute of the Ukrainian Academy of Sciences in 1986.
+* There are many other areas to which Ostrovskii has made a major contribution.
+* In the 1980s Ostrovskii wrote a number of papers on the asymptotic behaviour of entire functions that are characteristic functions of probability measures.
+* Iosif Vladimirovich has taught many pupils, and three of them have become doctors of science.
+* Iosif Vladimirovich gives a great deal of attention to his students.
 
 Born 6 April 1934, Dnepropetrovsk, Ukraine. Died 29 November 2020, Ankara, Turkey.
 

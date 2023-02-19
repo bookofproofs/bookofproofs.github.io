@@ -7,10 +7,10 @@ orderid: 1903
 title: Wintner, Aurel Friedrich
 born: 1903
 died: 1958
-keywords: Aurel Wintner, Ergodic Theory, Pointwise Theorems, Mathematical Journals, Statistics, Probability, Integral Equations, Dirichlet's Problem
-description: Aurel Wintner contributed to Ergodic Theory, Pointwise Theorems, Statistics, Probability, Integral Equations, and Dirichlet's Problem. He wrote extensively and published a valuable monograph and an important book.
+keywords: aurel wintner,wintner
+description: Aurel Wintner studied at Budapest and Leipzig. He spent most of his career in Johns Hopkins University in Baltimore, USA. He published on Number Theory, Differential Equations, Probability and Celestial Mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Aurel Wintner** studied at Budapest and Leipzig. He spent most of his career in Johns Hopkins University in Baltimore, USA. He published on Number Theory, Differential Equations, Probability and Celestial Mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Wintner contributed greatly to the field of ergodic theory, particularly in the area of pointwise ergodic theorems. 
-2. He wrote a significant series of papers establishing the basic properties of pointwise ergodic theorems, paving the way for further development in the field of ergodic theory. 
-3. Wintner was a regular contributor to several mathematical journals and served on the editorial boards of many others. 
-4. He also published valuable work on topics of statistics and probability theory. 
-5. Aurel Wintner's most notable achievements include publishing the monograph Ergodic Theory and Measure Preserving Transformations in 1935, which is still widely consulted today. 
-6. He also advanced the study of integral equations and wrote an important text on the subject. 
-7. Wintner developed an efficient algorithm for calculating the zeros of an integral equation. 
-8. In 1944, he published an important book on the topic of Dirichlet's problem, which contains important contributions to the field of partial differential equations.
+* Aurel attended school in Budapest, completing his school education there in 1920.
+* Wintner's mathematical ability was recognised by one of his school teachers and, realising that he was capable of progressing much faster than the other pupils, arrangements were made to enable Wintner to use the mathematics library at the University of Budapest.
+* The reason was that Wintner was extremely musical and showed great talent for the violin.
+* Not so Wintner, for once he had made the decision for a scientific career he never played the violin again.
+* As a schoolboy Wintner had spent holidays in Vienna and had used his uncle's astronomy library.
+* After leaving school Wintner entered the University of Budapest in 1920.
+* Lichtenstein began to encourage Wintner to consider studying for his doctorate.
+* Wintner entered the University of Leipzig to study for his doctorate in 1927.
+* Wintner always felt a great debt of gratitude towards Lichtenstein for supporting his studies and throughout his life Wintner kept a picture of Lichtenstein on the wall in his office.
+* Wintner wrote a number of papers putting Hill's theory on a rigorous mathematical foundation.
+* This should have made Wintner's work of particularly topical interest but unfortunately for him mathematicians were developing their theories in terms of operators, following the approach of von Neumann.
+* This should not have meant that Wintner's approach via infinite matrices was not of great value but it had the effect that his contributions were not appreciated as they should have been.
+* This in turn led to Wintner feeling bitter at his lack of recognition for his contribution.
+* After completing his doctorate in 1929 Wintner won an International Board Fellowship to enable him to study abroad.
+* While studying at Leipzig Wintner had been taught by Hölder.
+* This became more than just a relationship between teacher and pupil for in 1930 Wintner married Irmgard Hölder, Otto Hölder's daughter.
+* Wintner was awarded a Guggenheim Fellowship in 1941 which enabled him to visit Cambridge, Massachusetts.
+* In 1946 Wintner was appointed to a full professorship at Johns Hopkins University, a position which Wintner should have been offered many years before.
+* Clearly his editorial duties as Lichtenstein's assistant in 1927-29 stood him in good stead, and editorial duties were clearly something which gave Wintner great satisfaction.
+* Wintner published on analysis, number theory, differential equations and probability (with several joint papers with Norbert Wiener).
+* Although it is true that Wintner studied certain areas of mathematics for their own sake, he was led to these areas through his work in celestial mechanics.
+* A study of certain astronomical equations led Wintner to consider almost periodic functions.
+* led Wintner to various interests: first, his interest in almost periodic functions as such; second, analytic number theory and summability; third, the asymptotic distributions of almost periodic functions; and finally, the theory of distribution functions as such.
+* In this connection, Wintner used to like to point out the debt of analytic number theory to dynamics, noting that in a certain sense the oldest Tauberian theorems date back to the dynamical work of Sundman and Hadamard.
+* Wintner published 437 papers during his career and 9 monographs.
 
 Born 8 April 1903, Budapest, Hungary. Died 15 January 1958, Baltimore, Maryland, USA.
 

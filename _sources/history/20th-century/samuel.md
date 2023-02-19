@@ -7,10 +7,10 @@ orderid: 1921
 title: Samuel, Pierre
 born: 1921
 died: 2009
-keywords: French, Mathematics, Commutative Algebra, Algebraic Geometry, École Normale, Analytical Mechanics, Calculus of Variations
-description: Pierre Samuel, a French mathematician, co-founded the École Normale, co-authored the Analytical Mechanics and established mathematical rigor, also contributing to Algebraic Geometry and Calculus of Variations.
+keywords: pierre samuel,samuel
+description: Pierre Samuel was a French mathematician who worked in commutative algebra and its applications to algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pierre Samuel** was a French mathematician who worked in commutative algebra and its applications to algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Co-founded the École Normale Sup�rieure, the most prestigious French academic institution dedicated to mathematics research. 
-2. Co-authored the Mécanique Analytique, one of the most influential works of theoretical mechanics in history.
-3. Developed several theorems and concepts related to the calculus of variations.
-4. Contributed to the advancement of the notion of central invariance in the calculus of variations.
-5. Influential in the development of the industrial revolution through his work on differential equations. 
-6. Founded the first school for applied mathematics in Paris.
-7. Established the value of mathematical rigor and precision in research.
-8. Played a key role in the integration of algebra and geometry.
+* Pierre studied at the Lycée Janson-de-Sailly in Paris before entering the École Normale Supérieure where he studied for his Agrégé de mathematique.
+* Returning to France, Samuel worked at the National Centre for Scientific research from 1947 to 1949.
+* In 1949 Samuel was appointed as Maître de Conférences at the Faculty of Science at Clermont-Ferrand and was later appointed as professor there.
+* Indeed Samuel is famed for his book so it is fitting that we look at some of these texts.
+* It is for the two volume work Commutative algebra  by Zariski and Samuel that Samuel is perhaps best known.
+* Another beautiful little book by Samuel is Anneaux factoriels Ⓣ(Factorial rings) which was published in 1963 and contained the lecture course that Samuel gave on unique factorisation domains in Paris in 1961-62.
+* Another text is Lectures on old and new results on algebraic curves  which was published in 1963 and explained the results of Grauert and Samuel on Mordell's conjecture over function fields.
+* Samuel has another, rather unusual interest.
 
 Born 12 September 1921, Paris, France. Died 23 August 2009, Paris, France.
 

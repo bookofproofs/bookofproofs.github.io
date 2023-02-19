@@ -4,13 +4,13 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-germany
 orderid: 1882
-title: D'Ocagne (2), Philbert Maurice
+title: D&amp;#x27;Ocagne (2), Philbert Maurice
 born: 1882
 died: 1929
-keywords: Emil Hilb, special functions, differential equations, wavefront propagation, wave equation, shock wave, mathematical model, sound waves
-description: Emil Hilb, a German mathematician, developed algorithms to propagate wavefronts, proposed a wave equation solution, & created a mathematical model for sound wave propagation.
+keywords: emil hilb,d&amp;#x27;ocagne
+description: Emil Hilb was a German mathematician who did excellent work on special functions, differential equations and difference equations. His contributions to the Enzyklopädie der mathematischen Wissenschaften are also important.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,51 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Emil Hilb** was a German mathematician who did excellent work on special functions, differential equations and difference equations. His contributions to the _Enzyklopädie der mathematischen Wissenschaften_ are also important.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a set of algorithms to propagate wavefronts using the microlocal analysis.
-2. Proposed a new mathematically rigorous description of wavefront propagation in heterogeneous media.
-3. Published a paper in 1880 detailing a unified approach to wave propagation problems.
-4. Developed a new type of mathematical expression for use in wave-propagation calculations.
-5. Discovered an analytical solution to the wave equation in two dimensions.
-6. Published a paper in 1896, introducing a method for the solution of two-dimensional wave equations.
-7. Developed a formalism to describe wave propagation in curved media and in the presence of discontinuities in media.
-8. Helped to develop a mathematical model of the propagation of sound waves in the atmosphere.
-9. Published a paper in 1898, introducing a set of mathematical techniques to describe the propagation of shock waves in gas.
-10. Demonstrated a remarkable insight into the behavior of sound waves in heterogeneous media.
+* The 24 April date appears on all official documents Hilb completed early in his career, but later he gave his day of birth as 26 April which is the day given in the Stuttgart registry records.
+* The date of birth of 24 April, however, is given on Hilb's gravestone, so we have followed that data.
+* Adolf Hilb was born 20 May 1850 into a Jewish family in Stuttgart, Baden-Württemberg, Germany, a son of Salomon Hilb (1815-1885) and Rosalie Kuhn (1819-1895).
+* She married Adolf Hilb in 1876 in Ulm, Baden-Württemberg.
+* Adolf and Clara Hilb had four children, Elsa (born 1877), Max (born 1879), Emil (the subject of this biography, born 1882), and Julius (born 1885).
+* In 1890 Emil Hilb began his school education at the Eberhard Ludwig Gymnasium in Stuttgart.
+* After Emil's father died on 12 June 1894 at the age of 44, his mother Clara decided to move with her children to Augsburg to he closer to her hometown of Harburg in Donau-Ries, Bavaria.
+* In Augsburg, Hilb entered the Realgymnasium where he studied from 1894 to 1899.
+* Hilb later said how important Recknagel's mathematics teaching had been in inspiring him to become a mathematician.
+* Hilb was the youngest member of his class when he graduated from the school in 1899 and he entered the University and the Polytechnic in Munich in the winter semester of that year to study mathematics and physics.
+* It was typical of German students of this time to spend time at different universities and Hilb spent the two years 1900-1902 at the University of Berlin.
+* After two years in Berlin, Hilb returned to Munich in 1902 where his thesis advisor was Ferdinand von Lindemann.
+* He then went to Göttingen to continue his studies and was immediately introduced to David Hilbert's current project on The Principles of a General Theory of Linear Integral Equations.
+* Hilb always wanted to support his mother as much as possible so, after his time in Göttingen, he applied for a teaching position in the Realgymnasium in Augsburg where he himself had been taught.
+* Despite teaching elementary topics full time, Hilb was also undertaking research with the aim of entering university teaching.
+* On 21 November 1904, he wrote to Hilbert explaining that he had successfully applied Hilbert's method of integral equations to a problem in potential theory and asked him whether his results were worth writing up and publishing.
+* Hilbert encouraged him to write up the results and they appeared as Hilb's first paper Die Reihenentwicklungen der Potentialtheorie Ⓣ(The series developments of the potential theory) published in Mathematische Annalen in 1906.
+* It is based on Hilbert's methods of the integral equation and shows that from the much more general Hilbert theorems the convergence of the series under consideration results almost without calculation.
+* Max Noether and Felix Klein were friends from their student days and it is likely that Max Noether was recommended the promising young mathematician Hilb through Klein.
+* Certainly Max Noether offered Hilb an appointment as an assistant to the chair of mathematics at the University of Erlangen and he took up this appointment in September 1906.
+* This was particularly relevant to Hilb who had published Eine Erweiterung des Kleinschen Oszillationstheorems Ⓣ(An extension of Klein's oscillation theorem) (1907).
+* When Klein was in Erlangen he suggested to Hilb that he might try to prove some conjectures he had made in a recent paper.
+* Hilb submitted his habilitation thesis Über Integraldarstellungen willkürlicher Funktionen Ⓣ(About integral representations of arbitrary functions) to the University of Erlangen in 1907 and Paul Gordan and Max Noether were asked to report on it.
+* In April 1908 Hilb became a docent at Erlangen but soon after this an extraordinary professorship became vacant at the University of Würzburg.
+* Friedrich Emil Fritz Prym (1841-1915) had studied for a doctorate at the University of Berlin advised by Ernst Kummer and had been on the faculty at the University of Würzburg since 1867.
+* The mathematicians at Würzburg knew of Hilb as a very promising young mathematician and Rost went to Erlangen to listen to one of Hilb's lectures.
+* The shortlist of candidates was drawn up ranking Ernst Zermelo as first, Hilb as second and Gerhard Hessenberg (1874-1925) in third place.
+* In fact Zermelo had been a candidate for a extraordinary professorship at Würzburg in 1906 but Rost had been appointed then and again in 1909, despite being ranked first, he was not offered the position but the offer was made to Hilb.
+* At Würzburg Hilb supervised the doctoral studies of eleven students: Otto Haupt (1911), Emil Goldschmidt (1912), Friedrich Betschler (1914), Siegfried Weikersheimer (1914), Gustav Löwenstein (1915), Richard Bär (1916), Axel Schur (1920), Walter Weidringer (1929), Joseph Roth (1930), Valentin Völker (1931) and Beda Thum (1932).
+* On 18 May 1912, Hilb married Marianne Alice Wolff (1889-1943) in Würzburg.
+* With the exception of Wagner, Hilb liked to listen to classical music.
+* He deeply disappointed a music-loving doctoral student when he told him: "If you want to work scientifically, you have to give up your music!" Hilb was also interested in literature and theatre.
+* Hilb was an enthusiastic contributor to the encyclopaedia, writing the articles Differentialgleichungen im komplexen Gebiet, Nichtlineare Differentialgleichungen Ⓣ(Differential equations in the complex domain, nonlinear differential equations) (1916), (with Marcel Riesz) Neuere Untersuchungen über trigonometrische Reihen Ⓣ(Recent studies on trigonometric series) (1922) and (with Otto Szász) Allgemeine Reihenentwicklung Ⓣ(General series expansion) (1922).
+* Hilb also founded his own series of textbooks "Mathematics and its applications in physics and technology" published by the Academic Publishing Company Geest & Portig in Leipzig.
+* Hilb had been appointed as an extraordinary professor at the young age of 27 but, ten years later, he had not found a position as an ordinary professor.
+* Hilb had strong hopes that he might succeed in the competition to fill this position since he knew he was highly regarded by Max Noether and others at Erlangen.
+* Max Noether felt that Ernst Fischer, who was an Austrian, was favouring Austrian candidates over Germans, particularly over Hilb.
+* Hilb was very unhappy, particularly when he learnt of the objections against him put by the Erlangen appointing committee who were particularly critical of his teaching.
+* The Faculty of Arts at Würzburg applied again for Hilb to be awarded full academic rights in December 1928 and these were granted on 16 January 1929.
+* Hilb died at the age of 47 after his last years were marred by ill health.
+* We all also know what beautiful, intimate family life Hilb led, to which kind fate had given him a wife who was the most understanding companion.
+* Finally we should say a few words about Hilb's wife Marianne and his daughters.
+* In March 1933, three and a half years after Hilb's death, Hitler came to power and began enacting his anti-Semitic legislation.
+* They devastated the Hilb's flat and Marianne filed a complaint for theft of valuables but, of course, this was simply a waste of time for the authorities were supporting the raids.
+* Hilb's daughter Anneliese escaped to England in 1939 while in 1940 Marianne and her mother Gertrud moved to Frankfurt am Main where Irene was working as a secretary.
 
 Born 24 April 1882, Stuttgart, Germany. Died 6 August 1929, Würzburg, Germany.
 

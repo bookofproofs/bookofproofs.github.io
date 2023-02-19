@@ -7,10 +7,10 @@ orderid: 1862
 title: Kneser, Adolf
 born: 1862
 died: 1930
-keywords: Adolf Kneser, algebraic geometry, algebraic number theory, projective geometry, Noether-Kneser theorem, Kneser's theorem, diophantine analysis
-description: Adolf Kneser, renowned German mathematician, made lasting contributions to algebraic geometry, number theory, projective geometry, and diophantine analysis.
+keywords: adolf kneser,kneser
+description: Adolf Kneser was a German mathematician who wrote on integral equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Adolf Kneser** was a German mathematician who wrote on integral equations.
 
 ### Mathematical Profile (Excerpt):
-1. Established one of the foundations of modern algebraic geometry with his concept of complete ideals.
-2. Developed the first algebraic characterizations of curves and surfaces in modern geometry.
-3. Developed the branch of mathematics known as numerically equivalent functions, which deals with analysing and approximating functions.
-4. Pioneered the modern foundations of algebraic number theory.
-5. Discovered an important theorem known as the Noether-Kneser theorem.
-6. Instituted a new theory of convergent sequences that is now known as Kneser's theorem.
-7. Developed a better equivalent to Euclidean geometry known as projective geometry.
-8. Demonstrated the freedom of certain fundamental geometric concepts, such as continuity and infinity.
-9. Solved a long standing problem concerning the sum of kth powers of algebraic integers.
-10. Advanced the theory of linear forms in logarithms, theorem proving and diophantine analysis.
+* Adolf was one of his parents four sons and his mother, after the death of her husband, moved from Grüssow to Rostock where the boys could be educated.
+* Adolf's secondary schooling took place in Rostock, and after this was complete he entered the University there.
+* His remarkable talents are easily illustrated for even at this very early stage in his education, Kneser published his first paper which was on the refraction of sound waves.
+* We should remark, however, that Kneser's interests were surprisingly broad and during his university studies he attended lectures on history, literature and philosophy.
+* Kneser submitted his habilitation thesis to the University of Marburg where he taught for a while, then he moved to Breslau (now Wrocław in Poland) where he also lectured.
+* It was while he held this chair that Kneser married Laura Booth in 1894.
+* The couple had four sons; Hellmuth Kneser was born while they lived in Dorpat.
+* A grandson of Adolf, and son of Hellmuth, was Martin Kneser who became a professor of mathematics holding a chair at Göttingen.
+* In 1900 Adolf Kneser was appointed to the chair of mathematics at the Bergakademie  (Academy of Mining) in Berlin.
+* Adolf Kneser's early work was on algebraic functions and equations.
+* Kneser brought the theory of the so-called second variation to a certain conclusion.
+* But above all, the decisive advances towards the solution of the so-called Mayer Problem, recently introduced to the calculus of variations, are due to Kneser.
+* In 1911 Kneser published his famous text, Die Integralgleichungen und ihre Anwendungen in der mathematischen Physik: Vorlesungen an der Universität zu Breslau Ⓣ(The integral equations and their applications in mathematical physics: lectures given at the University of Wroclaw).
+* Kneser's work, however, was surprisingly broad and he continued to show an interest in philosophy and knowledge theory which he had from his student days.
 
 Born 19 March 1862, Grüssow, Mecklenburg, Germany. Died 24 January 1930, Breslau, Germany (now Wrocław, Poland).
 

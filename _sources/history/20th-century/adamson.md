@@ -7,10 +7,10 @@ orderid: 1928
 title: Adamson, Iain Thomas Arthur Carpenter
 born: 1928
 died: 2010
-keywords: mathematic, algebra, books, theorem, encryption, prime, analysis, Adamson
-description: Iain Adamson was a Scottish mathematician who developed the "Adamson Number Theory" and authored 24 books, laying the foundations for algebraic geometry and discovering the connection between arithmetic and geometry.
+keywords: iain adamson,adamson
+description: Iain Adamson was a Scottish mathematician who worked in algebra and published several widely appreciated text-books.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Iain Adamson** was a Scottish mathematician who worked in algebra and published several widely appreciated text-books.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the "Adamson Number Theory" which proved to be a major breakthrough in mathematical research.
-2. Established the foundations for the development of new mathematical disciplines, including "Number Theory" and "Algebraic Geometry".
-3. Authored over 24 books on mathematics and related topics.
-4. Discovered the connection between arithmetic and geometry, a concept that has become known as "Adamson's Theorem".
-5. Discovered the properties of elliptical curves and their applications to encryption, a concept that has become known as "Adamson Encryption".
-6. Built a mathematical model for calculating prime numbers, a concept that has become known as "Adamson's Prime Numeral Calculation Model".
-7. Developed a mathematical model for analyzing complex systems, a concept that has become known as "Adamson's System Analysis Model".
-8. Led the development of an algorithm for solving the travelling salesman problem, a concept that has become known as "Adamson's Algorithm".
-9. Developed analytical techniques for analyzing game theory, a concept that has become known as "Adamson's Techniques".
-10. Pioneered the development of tools to facilitate the use of numerical analysis of chaotic data, a concept that has become known as "Adamson's Numerical Analysis".
+* Iain's mother, Margaret, died shortly after he was born at the age of twenty-five (she was born in 1903), and Iain was brought up in Dundee by his father and his father's sisters.
+* Iain's secondary education was at Morgan Academy in Dundee and, in 1945, he graduated as Dux of the Academy.
+* After graduating from the University of St Andrews, Adamson went to Princeton University in the United States where he undertook research in algebra supervised by Emil Artin.
+* Iain married Robin in Dundee in 1967; their daughter Margaret was born in 1969.
+* Also in 1967, Queen's College became the new University of Dundee and Iain automatically changed from being employed by the University of St Andrews to being a lecturer in the University of Dundee.
+* We will look at other aspects of Adamson's life later in this biography, but first we want to look at his greatest mathematical contribution which was as a writer of textbooks.
+* Adamson's first textbook was Introduction to field theory (1964).
+* Adamson's next book Rings, modules and algebras (1971) was again in his own specialist area of algebra.
+* Adamson turned to analysis for his next textbook Elementary mathematical analysis (1975).
+* From the information given above of Adamson's three papers on teaching elementary analysis, we could guess that his approach in this book would be innovative; indeed it is.
+* Perhaps the two most successfully innovative textbooks by Adamson are A general topology workbook (1996), and A set theory workbook (1998).
+* Also in 1996, Adamson published Data structures and algorithms.
+* We promised to return to what we can only describe as "another side" of Adamson's life.
+* When the University of Dundee asked if members of staff would consider early retirement with part-time re-engagement, Adamson accepted the offer.
+* Iain quickly became a well known and well respected Minister, especially in regard to pastoral care where his willingness to be a listener rather than a speaker endeared him to people with problems.
+* In 2001 Iain and Robin Adamson decided to go to Australia and take up permanent residence in Nedlands.
 
 Born 17 June 1928, Dundee, Scotland. Died 9 June 2010, Nedlands, WA, Australia.
 

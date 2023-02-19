@@ -7,10 +7,10 @@ orderid: 1903
 title: Timms, Geoffrey
 born: 1903
 died: 1982
-keywords: Geoffrey Timms, Leeds, Cambridge, St Andrews, Bletchley Park, Cheltenham, Foreign Office
-description: Geoffrey Timms achieved exceptional academic results at Leeds and Cambridge and contributed during WWII at Bletchley and Cheltenham. He was later part of the Foreign Office.
+keywords: geoffrey timms,timms
+description: Geoffrey Timms studied at Leeds and Cambridge and then took up a post at St Andrews. During World War II he served at Bletchley Park and Cheltenham and joined the Foreign Office afterwards.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Geoffrey Timms** studied at Leeds and Cambridge and then took up a post at St Andrews. During World War II he served at Bletchley Park and Cheltenham and joined the Foreign Office afterwards.
 
 ### Mathematical Profile (Excerpt):
-1. Achieved distinction in the Cambridge Mathematics Advanced A Level with an A* grade.
-2. Led a team of students in an award-winning project at the National Mathematics Olympiad.
-3. Received a Gold award at the International Mathematics Competition.
-4. Ranked in the top 10 in the UK on the ASA Senior Maths Challenge.
-5. Won the Best Maths Student Award at his university.
-6. Published two papers on advanced mathematical topics in scientific journals.
-7. Helped develop an online platform to teach mathematics to undergraduate students. 
-8. Volunteered as a maths tutor, helping students to prepare for exams and improve their grades.
+* Geoffrey Timms had a younger brother Alan (born about 1905).
+* Geoffrey Timms was an undergraduate at the University of Leeds, graduating with First Class honours in mathematics in 1925.
+* Timms then went to Cambridge where his doctoral work was supervised by H F Baker.
+* After being awarded a Ph.D. in 1928 Timms was appointed as Assistant in H W Turnbull's department in St Andrews in October 1929.
+* Timms remained at St Andrews being appointed as a Lecturer in Mathematics in 1935.
+* Timms retained his post in St Andrews until September 1945 when he resigned, deciding to remain with the Foreign Office for the rest of his career.
+* From February 1929, before taking up his position as an assistant in St Andrews, Timms joined the Edinburgh Mathematical Society.
+* As an example of Timms' papers, he published On the highest space in which a non-ruled surface of given order can lie  in 1940.
 
 Born 16 February 1903, Bradford, Yorkshire, England. Died 2 December 1982, Auckland, New Zealand.
 

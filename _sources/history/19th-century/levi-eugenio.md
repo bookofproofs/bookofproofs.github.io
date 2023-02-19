@@ -7,10 +7,10 @@ orderid: 1883
 title: Levi (2), Eugenio
 born: 1883
 died: 1917
-keywords: complex analysis, differential geometry, Lie groups, partial differential equations, minimum principle, Dirichlet problem, integral equations
-description: Eugenio Levi developed techniques to solve complex mathematical problems related to partial differential equations, Dirichlet problem and integral equations.
+keywords: eugenio levi,levi
+description: Eugenio Levi was an Italian mathematician who worked in complex analysis, differential geometry, Lie groups, partial differential equations and the minimum principle.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eugenio Levi** was an Italian mathematician who worked in complex analysis, differential geometry, Lie groups, partial differential equations and the minimum principle.
 
 ### Mathematical Profile (Excerpt):
-1. Developed novel techniques for solving the biharmonic problem, a difficult mathematical problem involving the minimum potential of a certain type of partial-differential equations.
-2. Obtained solutions to Riemann problems and Cauchy problems in nonlinear partial differential equations.
-3. Established the necessary and sufficient conditions for well-posedness of the Dirichlet problem in the elliptic equation.
-4. Established unique means of studying the more general and difficult inverse problems such as those related to the determination of boundary conditions by measuring boundary values.
-5. Discovered a fundamental connection between boundary-value problems and integral equations, showing that a mixed boundary value problem can be converted into an equivalent integral equation of the second kind.
-6. Showed that the solution to an elliptic boundary-value problem can be written as an expansion in terms of trigonometric functions and then using that expansion to solve the Cauchy problem.
-7. Developed and solved the Dirichlet problem for domains defined by twisted curves.
-8. Authored seminal works on partial differential equations and integral equations, including "The Theory of the Dirichlet Problem" and "Integral Equations and Their Applications".
+* The family was Jewish and Eugenio was the ninth of his parents' ten children.
+* The fourth of these ten children was Beppo Levi (born 1875) who also became a mathematician and has a biography in this archive.
+* The youngest member of the family was Decio Levi (1885-1917), who became an engineer.
+* Eugenio attended the Azeglio High School in Turin where he showed that he was an extremely gifted pupil.
+* Two aspects of Bianchi's work would be particularly significant in his influences on Levi.
+* He had published two important works before Levi began to study with him, namely Lectures on differential geometry (1894) and Lectures on the theory of groups of substitutions (1900).
+* The other mathematician in Pisa who had a major influence on Levi's research was Ulisse Dini who held two chairs at the University of Pisa, the chair of analysis and higher geometry, and the chair of infinitesimal analysis.
+* In 1904 Levi graduated from the Scuola Normale Superiore of Pisa with the award of his laurea.
+* Levi published Sulla struttura dei gruppi finiti e continui Ⓣ(On the structure of finite and continuous groups) in 1905, the paper having been presented to Academy of Science of Turin on 2 April of that year by Bianchi.
+* In 1906 Levi submitted his habilitation thesis Sulle equazioni lineari totalmente ellittiche alle derivate parziali to the Scuola Normale Superiore.
+* Levi became interested in the Cauchy problem.
+* Levi's remarkable mathematical career came to an end with the outbreak of World War I.
+* It was over one year later, in October 1916, that Levi entered military service in, as a lieutenant in the 1st  Regiment of Engineers stationed at their headquarters in Pavia.
+* Levi, however, was highly patriotic wished to return to military service.
+* Decio Levi, who was a major in the Italian army, was killed on 15 September as fighting continued in the Monte Santo area.
+* Eugenio Levi was a captain in charge of a company of engineers in the same general area.
+* During the retreat, Eugenio Levi was hit in the forehead by a stray bullet.
 
 Born 18 October 1883, Turin, Italy. Died 28 October 1917, Cormons, Italy.
 

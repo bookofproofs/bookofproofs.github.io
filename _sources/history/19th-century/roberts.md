@@ -7,10 +7,10 @@ orderid: 1827
 title: Roberts, Samuel
 born: 1827
 died: 1913
-keywords: Mathematics, London Mathematical Society, Algebraic Geometry, Differentiable Geometry, Moduli Spaces, Grothendieck Cohomology, Linear Differential Equations
-description: Samuel Roberts was an English mathematician who made important contributions to modern Mathematics, including developing concepts of algebraic transformation groups & moduli spaces, proving a theorem on resolution of singularities and using Grothendieck cohomology.
+keywords: samuel roberts,roberts
+description: Samuel Roberts was an English mathematician who was an important participant in the founding of the London Mathematical Society.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Samuel Roberts** was an English mathematician who was an important participant in the founding of the London Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of curves of finite order, an important contribution to modern algebraic geometry.
-2. Developed the theory of algebraic transformation groups, a breakthrough in algebraic geometry which laid the foundation for modern methods in the subject.
-3. Proved an important theorem on the resolution of singularities in algebraic surfaces.
-4. Formulated the notion of a semi-algebraic set, now a fundamental result in algebraic geometry.
-5. Discovered the concept of a G-structure, an important tool in differentiable geometry.
-6. Developed the theory of moduli spaces in algebraic geometry, providing a powerful tool for the study of geometric objects.
-7. Pioneered the use of Grothendieck cohomology to solve problems on the moduli spaces of algebraic curves.
-8. Developed the notion of differential Galois theory for the study of dynamic systems.
-9. Established and solved a series of important problems in the theory of linear differential equations.
-10. Demonstrated the existence of linear differential equations with no solution.
+* Samuel Roberts was educated at Queen Elizabeth's Grammar School in the town of his birth.
+* In fact he had published mathematical papers from 1848 but, after the London Mathematical Society was founded in early 1865, Roberts could join in discussions with other mathematicians for he had no mathematical post.
+* Cayley said that he regretted that joint papers were so rare in mathematics since he would have liked to have collaborated with Roberts, particularly on ideas which arose from Roberts' paper On the motion of a plane under given conditions.
+* Roberts served on the Council of the London Mathematical Society from 1866 to 1892.
+* The greatest honour given to Roberts was his election as a Fellow of the Royal Society in 1878.
 
 Born 15 December 1827, Horncastle, Lincolnshire, England. Died 18, Sept 1913, London, England.
 

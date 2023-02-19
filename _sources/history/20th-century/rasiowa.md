@@ -7,10 +7,10 @@ orderid: 1917
 title: Rasiowa, Helena
 born: 1917
 died: 1994
-keywords: Helena Rasiowa, Algebraic Logic, Mathematical Foundations, Computer Science, First-Order Logic, Completeness/Incompleteness, Harry H. Goode Award
-description: Helena Rasiowa was a pioneering Polish mathematician in Algebraic Logic and the Mathematical Foundations of Computer Science, and won the Harry H. Goode Award in 1978.
+keywords: helena rasiowa,rasiowa
+description: Helena Rasiowa was an Austrian-born Polish mathematician who worked in algebraic logic and the mathematical foundations of computer science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Helena Rasiowa** was an Austrian-born Polish mathematician who worked in algebraic logic and the mathematical foundations of computer science.
 
 ### Mathematical Profile (Excerpt):
-1. Established a strong theoretical basis for the extension of classical propositional logic to first-order predicate logic.
-2. Developed techniques for proving completeness and incompleteness of logics and their axiomatization.
-3. Developed the theory of logics with infinitely many formulas and identity, which had held a deep influence in Computer Science, Artificial Intelligence and Mathematical Logic.
-4. Co-authored the two-volume book “Mathematical Logic” regarded as one of the most comprehensive works in the field of mathematical logic.
-5. Pioneered the implementation of mathematical systems in computers.
-6. Developed algebraic or procedural methods for solving ‘word equations’, allowing one to solve various decision problems.
-7. Developed a method for constructing the most general model of a finite set of sentences.
-8. Pioneered the study of universal algebraic doctrines which became the foundation of universal algebra.
- 9. First to proved any significant metamathematical theorem about any non-classical logic.
-10. Received the IEEE Harry H. Goode Memorial Award in 1978 for her contributions in the field of mathematical logic and foundations of Computer Science.
+* In 1918 Poland regained its status as an independent nation and Rasiowa's parents moved to Warsaw.
+* Rasiowa entered the University of Warsaw in 1938 but, after the German invasion of Poland in 1939, the university closed.
+* Rasiowa and her parents moved to Lwów (now Lviv in Ukrains) but the Poles were trapped between the Soviets and the Germans and Lwów came under Soviet control.
+* In this dangerous situation Rasiowa learnt mathematics, knowing that the penalties for being discovered were extreme.
+* Yet in this environment Rasiowa studied for her Master's Degree under Łukasiewicz's supervision.
+* Rasiowa's thesis burned together with the whole house.
+* After the war Rasiowa taught in a secondary school while her supervisor Łukasiewicz left Poland after the terrible suffering he had gone through.
+* Mostowski however remembered Rasiowa's impressive work and persuaded her to return to the University of Warsaw to complete a second Master's Thesis under his supervision.
+* Rasiowa was promoted steadily, reaching the rank of Professor in 1957 and Full Professor in 1967.
+* Of course Rasiowa's work on algebraic logic was in precisely the right area to make her a natural contributor to theoretical computer science.
+* In fact in 1984 Rasiowa introduced an important concept of inference where the basic information was incomplete.
+* Rasiowa wrote over 100 papers, books and monographs.
+* Rasiowa remained active right up to her death, having completed eight chapters of a new monograph Algebraic analysis of non-classical first order logics before entering hospital with her final illness.
 
 Born 20 June 1917, Vienna, Austria. Died 9 August 1994, Warsaw, Poland.
 

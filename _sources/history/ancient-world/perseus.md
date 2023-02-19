@@ -7,10 +7,10 @@ orderid: -180
 title: Perseus
 born: -180
 died: -120
-keywords: Perseus, cube, Heptagon, Dodecagon, conchoid, polygonal numbers, sphere, chord
-description: Perseus discovered a method to double a cube, constructed complex figures, developed a conchoid line, studied polygonal numbers and sphere volume, and worked on trigonometric functions.
+keywords: perseus,perseus
+description: Perseus is associated with the discovery of so-called spiric curves.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Perseus** is associated with the discovery of so-called _spiric curves_.
 
 ### Mathematical Profile (Excerpt):
-1. Perseus is credited with inventing a classical method for doubling a cube, utilizing two geometric constructions.
-2. He was a skilled geometer and constructed a Heptagon and Dodecagon, which are two of the most complex figures at the time.
-3. He also developed a geometric curved line, now known as the conchoid, which was used to solve cubic equations.
-4. He wrote and edited an important work on the properties of polygonal numbers and demonstrated a method to calculate the volume of a sphere using principles of integral calculus.
-5. He also made important contributions to trigonometry, including a calculation of the length of a chord (the curved line connecting two points on a circle) through trigonometric functions.
+* The first reference says that Perseus is associated with the discovery of the "spiric" curves in the same way as that of Apollonius is with conics.
+* All that can be deduced with certainty is that Perseus must have lived before Geminus.
+* The references do not really give enough details to be able to tell what Perseus discovered.
 
 Born 2nd century BC. Died 2nd century BC.
 

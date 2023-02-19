@@ -7,10 +7,10 @@ orderid: 1804
 title: Bunyakovsky, Viktor Yakovlevich
 born: 1804
 died: 1889
-keywords: number theory, analytic geometry, algebraic equations, Banach-Tarski, finite fields, groups, linear operators
-description: Viktor Bunyakovsky developed several theories in mathematics, including number theory, analytic geometry, algebraic equations, Banach-Tarski, finite fields, groups and linear operators.
+keywords: viktor yakovlevich bunyakovskii,bunyakovsky
+description: Viktor Bunyakovsky worked on Number Theory as well as geometry, mechanics and hydrostatics. He discovered the Cauchy-Schwarz inequality 25 years before Cauchy or Schwarz.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Viktor Bunyakovsky** worked on Number Theory as well as geometry, mechanics and hydrostatics. He discovered the Cauchy-Schwarz inequality 25 years before Cauchy or Schwarz.
 
 ### Mathematical Profile (Excerpt):
-1. Solving a variety of problems in the field of number theory, analytic geometry and algebraic equations. 
-2. Resolving the Banach-Tarski paradox.
-3. Introducing new methods of constructing finite fields and solving equations in which arithmetic operations are allowed only over finite sets.
-4. Proving theorems on the solution of quadratic equations over finite fields and the uniqueness of such solutions. 
-5. Formulating the first constructive proof of the conjugation theorem in the theory of groups. 
-6. Establishing the lower limit of fundamental algebraic theorems.
-7. Publishing more than 110 works on mathematics and its applications. 
-8. Developing a theory of linear operators for polynomials.
-9. Working on several research projects on problems of algebra and analysis.
+* Bunyakovskii was first educated at home and then went abroad, obtaining a doctorate from Paris in 1825 after working under Cauchy.
+* Bunyakovskii submitted three doctoral theses in the spring of 1825.
+* In 1826 Bunyakovskii left Paris and returned to St Petersburg.
+* Bunyakovskii studied and taught in St Petersburg for many years.
+* Two years after his return to St Petersburg from Paris, Bunyakovskii became an adjunct in mathematics at the Academy, then he was named an extraordinary academician in 1830 (here extraordinary means the same as in the German system, the equivalent of an associate professor in the present American system).
+* Bunyakovskii published over 150 works on mathematics and mechanics.
+* In the monograph Bunyakovskii gave some results on the functional form of the inequality.
+* However, in the case of Bunyakovskii there seems no good reason at all why he should not have the credit for his discovery.
+* One would have to note, however, that the terminology of mathematics is not universal and in some countries his theorem is correctly named, or named after Cauchy, Bunyakovskii and Schwarz.
+* Bunyakovskii worked on number theory, geometry and applied mathematics.
+* Dickson, in his book on the history of number theory, gives 40 references to papers of Bunyakovskii.
+* Bunyakovskii also worked on geometry.
+* Bunyakovskii's book also attempts to make Laplace's Théorie analytique des probabilites (1812) more accessible.
+* Bunyakovskii is remembered in many ways other than for the formula which fails to bear his name.
 
 Born 16 December 1804, Bar, Podolskaya gubernia (now Vinnitsa oblast), Ukraine. Died 12 December 1889, St Petersburg, Russia.
 

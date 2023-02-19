@@ -7,10 +7,10 @@ orderid: 1923
 title: Keller (2), Joseph
 born: 1923
 died: 2016
-keywords: Joseph Keller, Geometrical Theory, wave propagation, matrices, differential equations, algebraic geometry, numerical analysis
-description: Joseph Keller, American mathematician, developed Geometrical Theory and several techniques to solve systems of equations, algebraic geometry, wave propagation, differential equations, and numerical analysis.
+keywords: joseph keller,keller
+description: Joseph Keller was an American mathematician who originated the Geometrical Theory of Diffraction to solve problems of wave propagation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Keller** was an American mathematician who originated the Geometrical Theory of Diffraction to solve problems of wave propagation.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new method for solving systems of equations using matrices.
-2. Developed novel techniques to understand certain types of differential equations.
-3. Discovered that certain classes of equations can be solved in fewer steps than previously thought.
-4. Developed a theory of oscillations of non-linear systems.
-5. Solved a major problem in the mathematical field of algebraic geometry.
-6. Published a significant work on error estimates of numerical methods for initial value problems.
-7. Made a groundbreaking discovery in the field of numerical analysis, which revolutionized the computing industry.
-8. Formulated a unified theory for solving linear systems of equations. 
-9. Suggested a new approach to problems of singular perturbations. 
-10. Pioneered the use of matrix theory in the study of random vibrations.
+* After graduating, Keller was appointed as an Instructor in Physics at Princeton in July 1943.
+* After Keller had been at Princeton for a few months the training courses for engineers were discontinued since it was realised that the war would be over before these men had completed their training.
+* His position at Princeton ended in February 1944 and Keller then had to find another role in which to serve.
+* When the war ended, Keller returned to his academic studies in October 1945 but his research continued to be closely linked to the work he had been carrying out for the Division of War Research.
+* However, Primakoff was appointed to Washington University, St Louis in 1946 and so for the final part of Keller's research he was nominally advised by Richard Courant.
+* Keller was awarded a Ph.D. in 1948 for his thesis Reflection and Transmission of Electromagnetic Waves by Thin Curved Shells.
+* A number of Keller's publications had appeared in print before the award of his doctorate.
+* Another paper Reflection and transmission of sound by thin curved shells (1947) was a joint work of Keller with his research advisor Henry Primakoff.
+* In 1948 Keller published a paper Reflection and transmission of sound by a spherical shell written jointly with his younger brother Herbert Keller.
+* Keller's first two single-author papers appeared in 1948: On the solution of the Boltzmann equation for rarefied gases; and The solitary wave and periodic waves in shallow water.
+* Keller was appointed as an Assistant in the Courant Institute of Mathematical Sciences in 1948.
+* On 29 August 1963, Keller married Evelyn Fox; they had two children Jeffrey M Keller and Sarah N Keller.
+* The Kellers were divorced on 17 November 1976.
+* While holding his chair at New York University, Keller spent time at Stanford University, being Visiting Professor of Mathematics there in 1969-1970 and again in 1976-1978.
+* Keller has worked extensively on problems related to national security, including sonar, underwater explosions, atmospheric explosions of hydrogen bombs, and A-bomb explosions on ships and submarines.
+* In the following year Keller again received the Lester R Ford Award, this time for his paper Inverse problems (1976).
+* The American Mathematical Society honoured Keller by choosing him to be their Gibbs Lecturer in 1977, and the Society of Industrial and Applied Mechanics honoured him as their von Neumann Lecturer in 1983.
+* His outstanding contributions cover problems in mechanics, quantum mechanics, thermodynamics, and statistical mechanics, and include the so-called Keller-Maslov index, the Keller-Rubinov formula for forward scattering, and pioneering work on random media.
+* In 2007 the International Congress on Industrial and Applied Mathematics awarded its Lagrange Prize to Keller.
+* Finally let us note that Keller gives as his hobbies hiking and skiing.
 
 Born 31 July 1923, Paterson, New Jersey, USA. Died 7 September 2016, Palo Alto, California, USA.
 

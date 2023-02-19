@@ -7,10 +7,10 @@ orderid: 1925
 title: Hoehnke, Hans-Jürgen
 born: 1925
 died: 2007
-keywords: Hoehnke, Binormal Model, Maths, Differential Equations, Optimization, Forecasting, Markets
-description: Hans-Jürgen Hoehnke developed a Binormal Model, studied maths and diff. eqs.,and published on forecasting markets, optimising computations, designing and implementing software.
+keywords: hans-jürgen hoehnke,hoehnke
+description: Hans-Jürgen Hoehnke was a German mathematician, born in what is now Poland, who studied algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hans-Jürgen Hoehnke** was a German mathematician, born in what is now Poland, who studied algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Hoehnke Binormal Model, a mathematical technique for the analysis of market trends.
-2. Published extensively on mathematical topics, including fundamental research on differential equations and their applications.
-3. Established a mathematical modeling laboratory which was used to generate and interpret economic data.
-4. Received a scholarship to study mathematics in the United States at the University of Chicago.
-5. Developed a practical approach to solving mathematical problems that made it easier for students to understand.
-6. Presented several lectures on mathematical topics, including an analysis of the properties of elliptic curves.
-7. Pioneered the design and implementation of a Matlab-based software system to compute and analyze mathematical equations. 
-8. Developed mathematical optimization algorithms to improve the quality and efficiency of computations.
-9. Authored a book and several papers on the mathematical methods for forecasting and forecasting markets.
+* Hoehnke was fourteen years old at this time and had become interested in short-wave radio.
+* This was an interest which was viewed with suspicion by the Nazis so Hoehnke decided that he would look for another topic to pursue - he chose mathematics and physics and concentrated on these subjects for the rest of his school career.
+* In 1943 Hoehnke graduated from school following the Abitur but given the wartime conditions there was no possibility for him to progress to a university education at that time.
+* Hoehnke then began studying mathematics at university and was awarded his doctorate by the Martin Luther University in Halle-Wittenberg in 1952 after undertaking research under Heinrich Brandt.
+* From 1956 until his retirement in 1990, Hoehnke worked at the Mathematical Institute of the Academy of Science of the German Democratic Republic.
+* Only those who are familiar with the conditions in the German Democratic Republic can appreciate the difficulties and disadvantages connected with such an upright attitude (for example, despite being highly qualified in his field, H-J Hoehnke could never become a professor.
+* Hoehnke's early papers include Über die definierenden Gleichungen für Matrizeneinheiten in primären Ringen Ⓣ(On the defining equations for Matrix units in primary rings) (1956) in which he looks at multiplicative semigroups inside matrix rings over completely primary rings, Identische Kongruenzen für Polynome nach zusammengesetzten Moduln Ⓣ(Identical congruences of polynomials in composite moduli) (1956), and Nilpotenzkriterien Ⓣ(Criterion for nilpotence) (1957) in which he looks at conditions on a ring which force certain radicals to be nilpotent.
+* Although Hoehnke continued to keep these interests, he also became interested in universal algebras, automata, categories and functors.
 
 Born 27 October 1925, Free City of Danzig (now Gdańsk, Poland). Died 10 June 2007, Langenhagen, Germany.
 

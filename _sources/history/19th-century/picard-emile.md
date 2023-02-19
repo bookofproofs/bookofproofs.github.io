@@ -7,10 +7,10 @@ orderid: 1856
 title: Picard (2), Émile
 born: 1856
 died: 1941
-keywords: Émile Picard, algebraic geometry, elasticity, heat, electricity, differential equations, calculus of variations, Fourier series
-description: Émile Picard made a huge impact on mathematics and physics through his work in algebraic geometry, elasticity, heat, electricity, differential equations, calculus of variations, and Fourier series.
+keywords: émile picard,picard
+description: Émile Picard worked in algebraic geometry as well as elasticity, heat and electricity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Émile Picard** worked in algebraic geometry as well as elasticity, heat and electricity.
 
 ### Mathematical Profile (Excerpt):
-1. He was the first person to solve a higher degree ordinary differential equation without reducing it to a system of linear equations.
-2. He was the first to suggest a rigorous definition of mathematical functions, now known as Picard’s Theorem.
-3. He ran an influential seminar while at the Sorbonne in Paris, which introduced a number of new techniques for solving problems in analysis.
-4. He improved the then-current methods of solving ordinary differential equations, leading to the modern techniques of numerical integration.
-5. He made significant progress in the field of differential equations and the calculus of variations.
-6. He established Picard’s theorem of existence and uniqueness, which states that a solution of an ordinary differential equation always exists and is unique.
-7. He developed methods to determine the roots of a polynomial equation and apply them to integral equations.
-8. He was the first to work on the convergence properties of Fourier series.
-9. He made substantial contributions to the theory of integral equations and the calculus of variations.
-10. He developed difficult mastery of the calculus of variations, which he applied relentlessly to physics and mechanics.
+* It was during this siege that Émile's father died.
+* Picard's mother, the daughter of a medical doctor, was put in an extremely difficult position when her husband died.
+* As well as Émile, she had a second young son, and in order to support them through their education she had to find employment.
+* Only her determination to give her sons a good start, despite the tragedy, allowed Émile to receive the education which gave him the chance to achieve the highest international stading in mathematics.
+* Picard's secondary education was at the Lycée Napoléon, later called the Lycée Henri IV.
+* It was only during the vacation after completing his secondary studies that Picard read an algebra book and suddenly he became fascinated in mathematics.
+* Picard received his agrégation in 1877, being placed first.
+* In 1881 Picard was nominated for membership of the mathematics section of the Académie des Sciences.
+* He had already proved two important theorems which are both today known under Picard's name, yet it was still a little soon to gain admission to the prestigious academy and he would have to wait a few more years.
+* Picard and his wife had three children, a daughter and two sons, who were all killed in World War I.
+* In 1885 Picard was appointed to the chair of differential calculus at the Sorbonne in Paris when the chair fell vacant on the death of Claude Bouquet.
+* The regulations were circumvented by making Picard his own suppléant until he reached the age of thirty which was in the following year.
+* Picard made his most important contributions in the fields of analysis, function theory, differential equations, and analytic geometry.
+* Picard's solution was represented in the form of a convergent series.
+* Picard used the theory of Hermite's modular functions in the proof of this important result.
+* Building on work by Abel and Riemann, Picard's study of the integrals attached to algebraic surfaces and related topological questions developed into an important part of algebraic geometry.
+* Picard also discovered a group, now called the Picard group, which acts as a group of transformations on a linear differential equation.
+* Picard examined several specific cases before discussion his general theory.
+* Picard also applied analysis to the study of elasticity, heat and electricity.
+* Among the honours given to Picard was his election to the Académie des Sciences in 1889, eight years after he was first unsuccessfully nominated.
+* Picard was awarded the Poncelet Prize in 1886 and the Grand Prix des Sciences Mathématiques in 1888.
 
 Born 24 July 1856, Paris, France. Died 11 December 1941, Paris, France.
 

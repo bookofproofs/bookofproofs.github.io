@@ -7,10 +7,10 @@ orderid: 1902
 title: Schwerdtfeger, Hans Wilhelm Eduard
 born: 1902
 died: 1990
-keywords: Galois Theory, Matrix Theory, Complex Analysis, Generalized Curvature, Non-Euclidean Geometry, Cartesian Product, Lipschitz Conditions
-description: Hans Wilhelm Eduard Schwerdtfeger developed Generalized Curvature, pioneered computer graphics in geometry, worked on Non-Euclidean Geometry and Complex Analysis, and proved theorems related to Lipschitz Conditions, Cartesian Product and more.
+keywords: hans schwerdtfeger,schwerdtfeger
+description: Hans Wilhelm Eduard Schwerdtfeger was a German-born mathematician who worked in Galois theory, matrix theory, group theory and complex analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hans Wilhelm Eduard Schwerdtfeger** was a German-born mathematician who worked in Galois theory, matrix theory, group theory and complex analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new concept in differential geometry called "generalized curvature", a theory that unified the study of both curvature and torsion of curves in a single mathematical framework. 
-2. Proved several theorems related to differential geometry including the Schoenflies theorem, Schwerdtfeger's theorem and the Schwerdtfeger radius. 
-3. Pioneered the application of computer graphics to help visualize and understand mathematical constructs in the field of geometry. 
-4. Made groundbreaking contributions to the field of non-Euclidean geometry, providing insight into the structure of curved space. 
-5. Authored numerous papers and books, including his most well-known work, Geometry: The Application of Cartography and Computer Graphics. 
-6. Defined the concept of "curvature theory" which set forth a foundational theory for the study of geometric structures in three and higher dimensions. 
-7. Introduced the importance of complex analysis to differential geometry in his work on the Cartesian product of Riemann surfaces.
-8. Developed a comprehensive theory of contact transformations and proved several theorems related to it. 
-9. Was the first to formulate the Lipschitz conditions in the calculus of variation. 
-10.Developed a theory of homicable surfaces, generalizing the fundamental theorem of algebra.
+* Hans was brought up in Göttingen where he attended school.
+* The Schwerdtfeger family, already in a poor financial state after the death of Hans' father, suffered even more severe hardships that many Germans.
+* Hans attended secondary school in Göttingen but before completing his studies he left to work at Siemens-Schuckert in Berlin.
+* Schwerdtfeger returned to Göttingen to complete his school education, then entered Göttingen University to study mathematics.
+* At Göttingen University Schwerdtfeger attended lectures by David Hilbert, Gustav Herglotz, Richard Courant, James Franck, Max Born and Bartel van der Waerden.
+* After the award for his first degree from Göttingen, Schwerdtfeger went to Bonn University.
+* Of course during the years that Schwerdtfeger undertook research for his doctorate in Bonn, the political situation in Germany had changed markedly.
+* Opposition to the Nazis was of course extremely dangerous and ultimately would have meant that Schwerdtfeger would have been killed.
+* Schwerdtfeger's son, Peter Schwerdtfeger, lived in Adelaide where he was Professor of Meteorology at Flinders University.
+* Schwerdtfeger began publishing mathematics papers after obtaining a position in Australia.
+* In 1950 Schwerdtfeger published his first major text aimed at beginning graduate students,  Introduction to Linear Algebra and the Theory of Matrices.
+* After moving to Canada, Schwerdtfeger published further important textbooks.
+* Schwerdtfeger's other important textbook is Introduction to group theory (1976).
+* Schwerdtfeger was honoured with election to the Royal Society of Canada in 1964.
+
+Born and Bartel van der Waerden.
+* After the award for his first degree from Göttingen, Schwerdtfeger went to Bonn University.
+* Of course during the years that Schwerdtfeger undertook research for his doctorate in Bonn, the political situation in Germany had changed markedly.
+* Opposition to the Nazis was of course extremely dangerous and ultimately would have meant that Schwerdtfeger would have been killed.
+* Schwerdtfeger's son, Peter Schwerdtfeger, lived in Adelaide where he was Professor of Meteorology at Flinders University.
+* Schwerdtfeger began publishing mathematics papers after obtaining a position in Australia.
+* In 1950 Schwerdtfeger published his first major text aimed at beginning graduate students,  Introduction to Linear Algebra and the Theory of Matrices.
+* After moving to Canada, Schwerdtfeger published further important textbooks.
+* Schwerdtfeger's other important textbook is Introduction to group theory (1976).
+* Schwerdtfeger was honoured with election to the Royal Society of Canada in 1964.
 
 Born 9 December 1902, Göttingen, Germany. Died 26 June 1990, Adelaide, Australia.
 

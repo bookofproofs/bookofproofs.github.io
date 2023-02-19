@@ -7,10 +7,10 @@ orderid: 1933
 title: Carmeli, Moshe (Ehezkel)
 born: 1933
 died: 2007
-keywords: Moshe Carmeli, Mathematical Physics, Higher Spin Theory, Clifford Algebra, Fueter-Carmeli Decomposition, Hamilton-Jacobi Equations, Average Response Times
-description: Moshe Carmeli was a mathematician who made groundbreaking breakthroughs in mathematical physics, higher spin theory, and more.
+keywords: moshe carmeli,carmeli
+description: Moshe Carmeli was an Iraqi-born Israeli mathematician who worked in various areas of mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Moshe Carmeli** was an Iraqi-born Israeli mathematician who worked in various areas of mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a “self-dual” version of quantum field theory whose methods are still being studied. 
-2. Developed the first version of Higher Spin Theory, an abstract and highly influential theory of higher-order symmetries. 
-3. Pioneered the direct use of Clifford algebra, now an advanced tool used in many mathematical disciplines. 
-4. Discovered the Fueter-Carmeli decomposition, a fundamental tool in the study of analytic functions. 
-5. Demonstrated a link between the mathematics of classical fields and the modern theory of Clifford algebra. 
-6. Developed the Carmeli-Cowen-Fels method for analyzing the properties of linear differential equations. 
-7. Authored several influential papers on nonlinear evolution equations and their use in various physical applications. 
-8. Developed an original method for calculating optimal solutions in system theory and control. 
-9. Formulated a new approach to solving Hamilton-Jacobi equations, now used in economics and operations research. 
-10. Devised a breakthrough formula for the computation of average response times in distributed systems.
+* Moshe was fascinated by what he heard and quickly learned the basics of the subject.
+* Carmeli finished his D.Sc. from the Technion, Haifa in 1964.
+* In 1964 the Carmeli family moved to the United States and, between 1964 to 1965, Moshe was a Visiting Research Associate at Lehigh University and Temple University.
+* In 1972 the Carmeli family returned to Israel, and Moshe was appointed Associate Professor of Physics in the Physics Department of Ben Gurion University, Beer Sheva.
+* Carmeli's field included gravitation and gauge field theory, the theory of spinors as applied to physics, Einstein special and general relativity, and astrophysics.
+* Carmeli was author and co-author to more than 120 research papers and 9 books.
+* based on lectures given by Carmeli at the Institute of Theoretical Physics of the State University of New York at Stony Brook and at the Ben Gurion University.
+* Carmeli received many awards and honours.
+* Moshe Carmeli was a Visiting Professor and Member of the Institute for Theoretical Physics, SUNY, Stony Brook, 1977-78, and again in September and October 1981.
+* Re-envisioning Einstein's theories of Special and General Relativity and building on the work of Edwin Hubble, Dr Carmeli has suggested that the universe's expansion must be constantly accelerating, and that time is therefore relative; in other words, it can only be measured relative to the position and velocity of the measurer.
+* Carmeli's work has posed an intriguing set of problems for theoretical physicists and has even been investigated by scholars for its philosophical and religious implications.
+* He is currently on sabbatical at the University of Victoria doing research on subatomic particles with the University of Victoria physicist Fred Cooperstock, with whom Dr Carmeli has a longstanding personal and professional relationship.
 
 Born 15 June 1933, Baghdad, Iraq. Died 27 September 2007, Beer Sheva, Israel.
 

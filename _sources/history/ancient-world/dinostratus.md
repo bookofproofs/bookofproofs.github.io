@@ -7,10 +7,10 @@ orderid: -390
 title: Dinostratus
 born: -390
 died: -320
-keywords: Dinostratus, Proportions, Astronomy, Obliquity, Ecliptic, Conic, Menaechmus
-description: Dinostratus, a Greek mathematician, made advances in proportions, astronomy, and conic sections, discovering obliquity, ecliptic angle, area calculators, and the Menaechmus theorem.
+keywords: dinostratus,dinostratus
+description: Dinostratus was a Greek mathematician who may have used the quadratrix of Hippias to solve the problem of squaring the circle.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Dinostratus** was a Greek mathematician who may have used the quadratrix of Hippias to solve the problem of squaring the circle.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of proportions, which was an important step in the development of mathematical analysis. 
-2. Established the mathematical basis for astronomy by inventing the astrolabe instrument.
-3. Discovered the obliquity of the ecliptic and established the length of the year to be 365¼ days. 
-4. Became the first to calculate the angle of the ecliptic, which is useful for determining the positions of the heavenly bodies. 
-5. Developed techniques for analyzing conic sections and calculating the area of circles and spheres.
-6. Discovered the famed theorem of Menaechmus, also known as the “curve-straightening theorem”, which was highly influential in geometrical analysis.
+* It is usually claimed that Dinostratus used the quadratrix, discovered by Hippias, to solve the problem of squaring the circle.
+* It appears from this quote that Hippias discovered the curve but that it was Dinostratus who was the first to use it to find a square equal in area to a given circle.
+* This makes somewhat less convincing the claim that Dinostratus used the quadratrix, discovered by Hippias, to square the circle since Eudemus does not even mention Dinostratus.
+* Posterity has firmly associated the name of Dinostratus with the quadrature of the circle by means of the quadratrix.
+* The second objection relates to Dinostratus's use of the quadratrix to square the circle.
+* Dinostratus probably did much more work on geometry but nothing is known of it.
 
 Born about 390BC, Greece. Died about 320 BC.
 

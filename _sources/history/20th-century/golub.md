@@ -7,10 +7,10 @@ orderid: 1932
 title: Golub, Gene Howard
 born: 1932
 died: 2007
-keywords: Gene Golub, mathematics, numerical analysis, computer science, Householder Prize, von Neumann Medal, collaborations
-description: Gene Golub was an American mathematician who earned a doctoral degree in 1951 and wrote 14 books, establishing the Householder Prize and receiving the von Neumann Medal. He was a Fulbright fellow, awarded honorary degrees and collaborated with many students.
+keywords: gene golub,golub
+description: Gene Golub was an Amercian mathematician who worked in numerical linear algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gene Golub** was an Amercian mathematician who worked in numerical linear algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Earned doctoral degree in mathematics at Stanford in 1951.
-2. Authored or co-authored 14 books on numerical analysis, computer science, and related topics.
-3. Established the prestigious Householder Prize in numerical linear algebra in 1977.
-4. Awarded the prestigious von Neumann Medal by the Society for Industrial and Applied Mathematics in 1988.
-5. Served as a Fulbright and Guggenheim Fellow.
-6. Received honorary degrees from Delft Technical University, the University of New South Wales, the University of Bath, and the University of Bucharest. 
-7. Member of the U.S. National Academy of Sciences, the American Academy of Arts and Sciences, and the National Academy of Engineering.
-8. Collaborated with over 60 doctoral students, including creating the field of reverse communication. 
-9. Co-developed important numerical linear algebra algorithms such as the use of Householder reflections in the QR algorithm.
-10. Led the first computer science laboratory at Stanford in 1966.
+* They met for the first time in Chicago and later married, having two sons with Alvin the older and Gene the younger.
+* Golub's home was not in the Jewish area of Chicago, but he attended Haugan Elementary School which was in the Jewish area.
+* In his final semester Golub had taken the Digital Computer Programming course and he was offered a position as an assistant in the computing laboratory.
+* Had it not been for the Korean War, Golub may have ended his education at this point but remaining at the University of Illinois to study for a doctorate allowed him to get a draft deferment.
+* Following the award of his doctorate, Golub had a number of short-term posts.
+* He was invited by Eugene Isaacson to spend the year 1965-66 at the Courant Institute of Mathematical Sciences, New York University where he was an Adjunct Assistant Professor.
+* In 1980 Golub lectured on the numerical solution of large linear systems at a summer school in France.
+* In 1992 Golub, jointly with James M Ortega, published Scientific computing and differential equations.
+* Then in 2005, jointly with Moody T Chu, Golub published Inverse eigenvalue problems: theory, algorithms, and applications.
+* The list of honours Golub received for his outstanding contributions is too long to list here.
+* However, his condition got worse nevertheless, he was feeling generally unwell and in particular his legs hurt very much.
+* Golub could not spend a day without other people.
+* Anywhere in the world, a numerical analyst knows who is meant by 'Gene'.
+* They knew that it would fall to them to do most of the writing; but Golub saw the connections, knew the literature, and made the paper happen.
+* Gene Golub was restless and never entirely happy.
+* He was a demanding friend; behind his back, we all had Gene stories to tell.
+* It was a huge back: Gene was big, dominating any room he was in, and grew more impressive and imposing with the years.
 
 Born 29 February 1932, Chicago, USA. Died 16 November 2007, Stanford, USA.
 

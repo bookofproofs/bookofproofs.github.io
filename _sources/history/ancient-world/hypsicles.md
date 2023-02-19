@@ -7,10 +7,10 @@ orderid: -190
 title: Hypsicles Of Alexandria
 born: -190
 died: -120
-keywords: Hypsicles, Euclid, regular polyhedra, 2nd order equations, trisection, pi, divisors, ellipse, amicable numbers, GCD, circumference, conic sections
-description: Hypsicles was a Greek mathematician who wrote a treatise on regular polyhedra, developed a method of solving second-order equations, trisected an angle and approximated pi, proved the law of calculi, constructed ellipses, discovered amicable numbers and GCD, found the circumference of a circle and studied conic sections.
+keywords: hypsicles,hypsicles
+description: Hypsicles was a Greek mathematician who wrote a treatise on regular polyhedra. He is the author of what has been called Book XIV of Euclid's Elements, a work which deals with inscribing regular solids in a sphere.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hypsicles of Alexandria** was a Greek mathematician who wrote a treatise on regular polyhedra. He is the author of what has been called Book XIV of [Euclid's Elements][bookofproofs$621], a work which deals with inscribing regular solids in a sphere.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method of solving second-order indeterminate equations.
-2. Solved the problem of trisecting an angle using only straightedge and compass.
-3. Devised a method of approximating the value of pi with the use of arithmetic and geometric series.
-4. Proved the law of calculi, which states that any constant multiple of an integer is divisible by the same divisors as the integer itself.
-5. Found the rules of an ellipse construction using only straightedge and compass.
-6. Propounded the theory of amicable numbers, and computed the first pair of amicable numbers.
-7. Developed an algorithm to determine the greatest common divisor of two integers.
-8. Discovered a method for finding the width of a given circle by measuring the circumference.
-9. Advanced the existing knowledge on the properties of conic sections.
-10. Initiated a study of lunes and their shapes in plane geometry.
+* What little is known of Hypsicles' life is related by him in the preface to the so-called Book XIV.
+* He writes that Basilides of Tyre came to Alexandria and there he discussed mathematics with Hypsicles' father.
+* Hypsicles relates that his father and Basilides studied a treatise by Apollonius on a dodecahedron and an icosahedron in the same sphere and decided that Apollonius's treatment was not satisfactory.
+* In the so-called Book XIV Hypsicles proves some results due to Apollonius.
+* He had clearly studied Apollonius's tract on inscribing a dodecahedron and an icosahedron in the same sphere and clearly had, as his father and Basilides before him, found it poorly presented and Hypsicles attempts to improve on Apollonius's treatment.
+* Arab writers also claim that Hypsicles was involved with the so-called Book XV of the Elements.
+* We do not know for certain that Hypsicles wrote a text on polygonal numbers, but it is fairly certain that he did write such a text which has been lost.
+* This work on polygonal numbers is related to the ideas on arithmetic progressions that appear in another work by Hypsicles, making it more likely that indeed Hypsicles had indeed done original work on this topic.
+* The work which involves arithmetic progressions is Hypsicles' On the Ascension of Stars.
+* Hypsicles makes a false assumption involving arithmetic progressions so that his results are wrong.
+* The mistake which Hypsicles makes is to assume that the rising times form an arithmetical progression.
+* In fact without the aid of the sine function and trigonometry it is hard to see how Hypsicles could have done better.
 
 Born about 190BC, Alexandria, Egypt. Died about 120 BC.
 

@@ -7,10 +7,10 @@ orderid: 1897
 title: Chitty, Letitia
 born: 1897
 died: 1982
-keywords: Letitia Chitty, Professor of Mathematics, DBE, Plane Geometry, Math Tutorial, Established Library, Women of Achievement Award
-description: Letitia Chitty was appointed the first female professor of mathematics at Imperial College London and was awarded a DBE for her math related work. She authored a book, established a library and was awarded awards for her contributions.
+keywords: letitia chitty,chitty
+description: Letitia Chitty began studying the mathematical tripos but, after war work during World War I, she studied the mechanical sciences tripos. She became a civil engineer, applying mathematical theory and carrying out experiments.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,18 +22,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Letitia Chitty** began studying the mathematical tripos but, after war work during World War I, she studied the mechanical sciences tripos. She became a civil engineer, applying mathematical theory and carrying out experiments.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Appointed the first female professor of mathematics at Imperial College London in 1953. 
-2. Awarded a DBE for her work in mathematics in 1965. 
-3. Authored "An Introduction to Plane Geometry" in 1976.
-4. Developed a math tutorial teaching aid in the 80s to help students learn mathematics.
-5. Established a mathematics library named after her at the University of Reading.
-6. Credited with raising gender awareness in the field of mathematics. 
-7. Awarded an honorary degree by the Royal Holloway College in 1990. 
-8. Awarded the Women of Achievement Award in 2002.
+* Herbert Chitty, born 13 January 1863 in Marylebone, London to Joseph William Chitty and Clara Jessie Pollock, became a barrister at law.
+* Herbert and Mabel Chitty had three children: Christopher Chitty (1893-1953); Letitia Chitty (1897-1982), the subject of this biography; and Patience Penelope Chitty (1904-1988).
+* Several of the references give five children and name two other girls, Jessie Elizabeth Chitty and Helen Louisa Chitty.
+* We cannot find any evidence for these two being Letitia's sisters, and certainly at the time of the 1911 census there are only three children in the family.
+* In 1907 Herbert Chitty, Letitia's father, became bursar of Winchester College but he had broad interests being also an antiquary and genealogist.
+* Letitia, therefore, grew up in a well-off family; at the time of the 1911 census the family were living at 51 Campden House Road, Kensington, a house with ten rooms, and they had three servants, a nurse, a cook and a house parlour maid.
+* Letitia was privately tutored and attended Kensington High School between 1903 and 1916.
+* Having gained from a strong mathematical education at Kensington High School, Chitty was admitted to Newnham College, Cambridge, in 1916 to study mathematics.
+* Chitty worked at the Admiralty Air Department with Alfred John Sutton Pippard (1891-1969) on a mathematical investigation of stress analysis for the experimental planes being built.
+* Chitty found the work she was doing at the Admiralty Air Department to be exciting and she was encouraged to continue to work in this area by Pippard and others.
+* Chitty worked as an assistant of Richard V Southwell for the Airship Stressing Panel which at that time was highly involved in the structure of the R 100 and R 101 airships, trying to make sure that the structural failure which had occurred with the R 38 was not repeated.
+* Pippard had been impressed with Chitty when they worked together at the Admiralty Air Department and he had invited her to be his assistant at Imperial College.
+* Also in 1934 Chitty was elected a Fellow of the Royal Aeronautical Society, the first woman to he awarded this honour.
+* The topics that Chitty worked on are perhaps best illustrated by listing some of the papers that she wrote jointly with Pippard over the next few years: The stresses in a disk wheel under loads applied to the rim (1936); The mechanics of the voussoir arch (1936); and On an experimental method for the solution of plane stress problems (1936).
+* Despite these extra duties, Chitty was still able to publish research papers during the war.
+* In 1946 Pippard proposed Chitty for membership of the Institution of Civil Engineers.
+* Twelve of Chitty's papers were included with the proposal and the fact that she had been awarded four Telford Premium Medals for papers co-authored with Pippard was noted.
+* It was the occasion on which Miss Chitty received the Telford Gold Medal.
+* In fact Chitty had retired from her lectureship at Imperial College in 1962.
+* From the description of Chitty's career we have given above, it might appear that she devoted her entire energies to mathematical theory and to experimentation in civil engineering.
+* She continued to attend the then annual University Teachers Christmas party for the children of staff on her own, long after her nieces and nephews had outgrown them: Letitia was still hugely entertained by the conjuring acts.
+* Chitty also achieved fame outside the academic world, being interviewed by Vogue Magazine in her later years.
 
 Born 15 July 1897, Kensington, London, England. Died 29 September 1982, Englefield Green, Surrey, England.
 

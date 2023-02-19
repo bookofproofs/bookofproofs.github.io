@@ -7,10 +7,10 @@ orderid: 1907
 title: Kendall, Maurice
 born: 1907
 died: 1983
-keywords: Maurice Kendall, correlation, statistician, factor analysis, concordance, Kendall's tau, Statistics: An Introductory Analysis
-description: Maurice Kendall, British statistician and founder of one of the first statistical consultancies, was a pioneer in correlation, factor analysis, and concordance.
+keywords: maurice kendall,kendall
+description: Maurice Kendall was a British statistician, widely known for his contributions to correlation and statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Maurice Kendall** was a British statistician, widely known for his contributions to correlation and statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Published two books: The Advanced Theory of Statistics (1943) and The Foundations of Multivariate Analysis (1953).
-2. Pioneered advanced and innovative statistical techniques ranging from factor analysis to cluster analysis.
-3. Developed the concept of concordance, which provided a measure of how two variables are related and how similar values in one variable correspond to values in another variable.
-4. Developed a graphical technique which measured the degree of association (correlation) between two sets of variables, called Kendall's tau.
-5. Co-authored the first edition of Statistics: An Introductory Analysis (with A. Stuart), published in 1945.
-6. Founded one of the first professional statistical consultancies in Britain.
+* As a young boy Maurice sometimes helped his grandfather who owned a public house, The Woolsack, in Kettering.
+* It is rather a miracle that Maurice ever survived to adulthood, for he contracted cerebral meningitis, a disease which at that time was almost always fatal.
+* It was in Derby that Maurice received his early education but he showed little signs of the great academic achievements which were to come.
+* The Headmaster of the Central School must be given much credit for making the highly unusual move of arranging for Maurice to attend the Grammar School in his final year.
+* It is rather remarkable that Maurice's improvement was such that he was awarded a scholarship to study at St John's College, Cambridge.
+* Maurice was always extremely grateful to his mother who supported him in wishing to take up the scholarship.
+* In 1935 Kendall met Yule for the first time.
+* Yule remembered his meeting with Kendall and after discussions joint authorship of a new edition was agreed, the work being undertaken in 1937.
+* This work prompted an even greater enthusiasm for statistics from Kendall who attended lectures in advanced statistical topics at University College London, and began publishing a stream of high quality papers on statistical topics.
+* An advanced treatise on mathematical statistics was proposed in 1939 and Maurice Kendall, Egon Pearson, John Wishart, and others held preliminary discussions.
+* Kendall remained in London and in 1940 left the Civil Service to take up the post of statistician to the British Chamber of Shipping.
+* In 1994, more than ten years after Kendall's death, the sixth edition which is now called Kendall's advanced theory of statistics Vol.
+* Kendall continued a remarkable stream of research papers on topics such as the theory of k-statistics, time series, and rank correlation methods and a monograph Rank Correlation in 1948.
+* There are many more major texts by Kendall and their importance and popularity is seen by the number of editions which have appeared over the years and continue to appear many years after his death.
+* In 1963 he published (jointly with P A P Moran) Geometrical probability followed by Time series (1973) in which Kendall states his objectives to bridge the gap between "sophisticated theory and practical applications" in the field of time series and to "treat the subject in its entirety for the benefit of the practising statistician".
 
 Born 6 September 1907, Kettering, Northamptonshire, England. Died 29 March 1983, Redhill, Surrey, Emgland.
 

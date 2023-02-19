@@ -7,10 +7,10 @@ orderid: 1704
 title: Bertins, Alexis Fontaine des
 born: 1704
 died: 1771
-keywords: Alexis Fontaine, French mathematician, calculus of variations, Bachelor of Science, Université Laval, Google, Quebec Mathematics Colloquium, Math Lyon Fellowship
-description: Alexis Fontaine, a French mathematician working on the calculus of variations, completed a Bachelor of Science degree at Université Laval, received a Google internship in 2018 and won awards for her research. In 2020, she won the Math Lyon Fellowship for graduate studies at the University of Lyon.
+keywords: alexis fontaine,bertins
+description: Alexis Fontaine was a French mathematician who worked on the calculus of variations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexis Fontaine** was a French mathematician who worked on the calculus of variations.
 
 ### Mathematical Profile (Excerpt):
-1. Completed a Bachelor of Science degree in Mathematics at Université Laval in 2017.
-2. Published her first paper "Invariant Metrics on Fiber Bundles" as part of her undergraduate research with the University of Toronto.
-3. Won the 2017 CHMMC Mathematics Competition at Université Laval.
-4. Received a prestigious Mathematics and Computer Science Summer Internship from Google in 2018.
-5. Received the Vincent Denis Prize for best paper in 2019 at the Quebec Mathematics Colloquium.
-6. Won the Math Lyon Fellowship in 2020 to pursue graduate studies in Mathematics at University of Lyon.
+* Jacques Fontaine was a royal notary, so he served the king in a legal capacity.
+* Alexis enjoyed an upbringing in a fairly well off family and he was educated at the Collège de Tournon.
+* In 1732 Fontaine went to live near Paris, where he had acquired a residence, and he began to study mathematics under Castel.
+* As a result of these papers Fontaine was elected to the Academy in 1733 as an adjoint mécanicien and he was promoted geometer (a term used to mean mathematician at this time) in 1739.
+* In 1732 Fontaine gave a solution to the brachistochrone problem, in 1734 he gave a solution of the tautochrone problem which was more general than that given by Huygens, Newton, Euler or Jacob Bernoulli, and in 1737 he gave a solution to an orthogonal trajectories problem.
+* However Fontaine rather spoilt this fine contribution by, in 1767 and 1768, unjustly criticising Lagrange's method of variation presented in 1762.
+* Fontaine had retired in 1765 to a country estate in Burgundy the purchase of which had stretched his finances to the point of almost leaving him bankrupt.
+* One of the reasons that Fontaine has come off badly was his apparent attempts to gain credit for ideas which had first been presented by others.
+* Although Fontaine did not raise any claim of priority, he attracted the hostility of a powerful rival who subsequently took pains to destroy the reputation of his work, which - without being of the first rank - still merits mention for its original inspiration and for certain fecund ideas that it contains.
 
 Born 13 August 1704, Claveyson, Drôme, France. Died 21 August 1771, Cuiseaux, Saône-et-Loire, France.
 

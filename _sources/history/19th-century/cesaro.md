@@ -7,10 +7,10 @@ orderid: 1859
 title: Cesàro, Ernesto
 born: 1859
 died: 1906
-keywords: Cesàro, Differential Geometry, Divergent Series, Epsilon-Delta Definition, Hyper-real Numbers, Infinitesimal Calculus, Bolzano–Weierstrass theorem
-description: Cesàro, an Italian mathematician, established theories in Differential Geometry, Divergent Series, Epsilon-Delta Definition, Hyper-real Numbers, Infinitesimal Calculus and Bolzano–Weierstrass theorem.
+keywords: ernesto cesàro,cesàro
+description: Cesàro was an Italian mathematician whose main contributions were to differential geometry and divergent series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Cesàro** was an Italian mathematician whose main contributions were to differential geometry and divergent series.
 
 ### Mathematical Profile (Excerpt):
-1. Rigorously derived the Epsilon-Delta Definition of a Limit in his paper “Traité des fonctions des variables réelles” (1899).
-2. Pioneered the concept of arrays of real numbers and their use in the derivation of limit (1892–1893).
-3. Established the theory of complex functions and their properties, such as Cauchy's Theorem (1881).
-4. Introduced the theory of singular points and its importance to the study of differential equations (1885).
-5. Developed the Cauchy-Schwarz Inequality and its application to curve fitting (1889).
-6. Founded the theory of functions of a complex variable (1895).
-7. Established modern list notation for infinite series, limits and vector analysis (1890).
-8. Introduced the concept of hyper-real numbers, an extension of the real numbers (1894).
-9. Developed a new version of calculus known as Infinitesimal Calculus (1899). 
-10. Developed the Bolzano–Weierstrass theorem (1817).
+* In 1860, the year after Ernesto was born, there was a revolution led by Giuseppe Garibaldi aimed at achieving Italian unification.
+* In fact on 17 March 1861, almost exactly two years after Ernesto's birth, the Kingdom of Italy was formally created.
+* Luigi Cesàro strongly supported the move towards Italian unification but this was not an easy time for farmers in Italy (nor for many others) and Ernesto grew up difficult financial circumstances.
+* The newly created country of Italy suffered many problems but it also had a new confidence in education from which Cesàro benefited in his early years.
+* In 1873 Cesàro's father sent him to join Guiseppe who was by that time a lecturer in mineralogy and crystallography at the École des Mines in Liège.
+* Cesàro entered the École des Mines as a student but, preferring to study in Italy, made application for a university place there.
+* Cesàro returned to Torre Annunziata in Italy for a number of years after the death of his father in 1879.
+* The death of Cesàro's father had given the family even more financial problems than they had before, but eventually Cesàro won a scholarship to allow him to study further at Liège and in 1882 he returned to Belgium to continue his studies.
+* Sur diverses questions d'arithmétique Ⓣ(On various  arithmetical problems) was the first of a series which Cesàro wrote on the theory of numbers.
+* Cesàro visited Paris during the period of his studies at Liège and there he attended lectures by Hermite, Darboux, Serret Briot, Bouquet and Chasles at the Sorbonne.
+* Hermite in particular was interested in the results which Cesàro had obtained and he quoted these in his own work of 1883.
+* Cesàro was particularly interested in lectures he attended given by Darboux on geometry and this led him to make his own studies of intrinsic geometry along similar lines.
+* Back in Liège after the trip to Paris, Cesàro fell out with one of the professors there and left for Italy without completing his studies.
+* After one month at the Lycée Terenzio Mamiani, however, Cesàro was offered the chair of mathematics at Palermo and Cremona advised him to accept it.
+* Cesàro's main contribution was to differential geometry.
+* The Lezione di geometria intrinseca contains descriptions of curves which today are named after Cesàro.
+* Cesàro later pointed out that in fact his geometry did not use the parallel axiom so constituted a study of non-euclidean geometry.
+* In addition to differential geometry Cesàro worked on many topics such as number theory where, in addition to the topics we mentioned above, he studied the distribution of primes trying to improve on results obtained in this area by Chebyshev.
+* Cesàro's interest in mathematical physics is also evident in two very successful calculus texts which he wrote.
+* Cesàro died in tragic circumstances.
+* Cesàro went to rescue his son but sustained injuries which led to his death.
 
 Born 12 March 1859, Naples, Kingdom of the Two Sicilies (now Italy). Died 12 September 1906, Torre Annunziata, Italy.
 

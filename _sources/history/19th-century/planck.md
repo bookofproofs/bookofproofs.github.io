@@ -7,10 +7,10 @@ orderid: 1858
 title: Planck, Max Karl Ernst Ludwig
 born: 1858
 died: 1947
-keywords: Max Planck, quantum mechanics, statistical mechanics, Wien-Friedel-Planck law, quantum theory, quantum gravity, uncertainty principle
-description: Max Planckestablished quantum mechanics, formulated the Wien-Friedel-Planck law, developed the quantum theory of the oscillator, unified field theory, and introduced the uncertainty principle.
+keywords: max planck,planck
+description: Max Planck initiated the study of quantum mechanics when he announced in 1900 his theoretical research into the radiation and absorption of heat/light by a black body.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Max Planck** initiated the study of quantum mechanics when he announced in 1900 his theoretical research into the radiation and absorption of heat/light by a black body.
 
 ### Mathematical Profile (Excerpt):
-1. Established the fundamentals of statistical mechanics, which describes the relationships between atomic particles and macroscopic properties such as pressure and temperature.
-2. Formulated the Wien–Friedel–Planck law of thermal radiation, which explained the nature of blackbody radiation in terms of quantum theory.
-3. Developed the quantum theory of the oscillator, which describes how two systems with similar frequencies can interact.
-4. Founded the field of quantum mechanics, which was the first theory of atomic and subatomic physics.
-5. Made significant contributions to the unified field theory and quantum gravity.
-6. Developed the uncertainty principle, which states that the exact momentum and position of a particle or system cannot be known simultaneously.
+* Both Max's parents were relatively old when he was born, his father being 41 and his mother being 37.
+* Max began his elementary schooling in Kiel.
+* He attended secondary school there, entering the famous Maximilian Gymnasium in May 1867.
+* Fortunately Planck decided to study physics despite the bleak future for research that was presented to him.
+* It was customary for German students to move between universities at this time and indeed Planck moved to study at the University of Berlin from October 1877 where his teachers included Weierstrass, Helmholtz and Kirchhoff.
+* Planck returned to Munich and received his doctorate in July 1879 at the age of 21 with a thesis on the second law of thermodynamics entitled On the Second Law of Mechanical Theory of Heat.
+* Following this Planck continued to work for his habilitation which was awarded on 14 June 1880, after he had submitted his thesis on entropy and the mechanical theory of heat, and he became a Privatdozent at Munich University.
+* Such a teaching post was unpaid so Planck received no income to support himself.
+* On 2 May 1885 Planck was appointed extraordinary professor of theoretical physics in Kiel and held this chair for four years.
+* Planck was appointed as an extraordinary professor of theoretical physics at the University of Berlin on 29 November 1888, at the same time became director of the Institute for Theoretical Physics.
+* While in Berlin Planck did his most brilliant work and delivered outstanding lectures.
+* By combining the formulae of Wien and Rayleigh, Planck announced in October 1900 a formula now known as Planck's radiation formula.
+* Within two months Planck made a complete theoretical deduction of his formula renouncing classical physics and introducing the quanta of energy.
+* Planck received the Nobel Prize for Physics in 1918 for his achievement.
+* Planck who was 42 years old when he made his historic quantum announcement, took only a minor part in the further development of quantum theory.
+* This was left to Einstein with theories of light quanta, Poincaré who proved mathematically that the quanta was a necessary consequence of Planck's radiation law, Niels Bohr with his theory of the atom, Paul Dirac and others.
+* Two years after the death of his first wife, Planck married again, to Marga von Hösslin the niece of Marie his first wife, on 14 March 1911.
+* Karl, the younger of Planck's sons from his first marriage, was killed in 1916 during World War I.
+* Planck always took on administrative duties, in addition to his research activities, such as Secretary of the Mathematics and Natural Science Section of the Prussian Academy of Sciences, a post he held from 1912 until 1943.
+* Planck was much involved with the German Physical Society, being treasurer and a committee member.
+* Planck was also honoured by being elected an honorary member in 1927.
+* Two years later an award, the Max Planck Medal, was established and Planck himself became the first recipient.
+* He was on the committee of the Kaiser Wilhelm Gesellschaft, the main German research organisation, from 1916 and was president of the Society from 1930 until 1937 (it was renamed the Max Planck Society).
 
 Born 23 April 1858, Kiel, Schleswig-Holstein (now Germany). Died 4 October 1947, Göttingen, Germany.
 

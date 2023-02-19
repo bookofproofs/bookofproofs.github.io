@@ -7,10 +7,10 @@ orderid: 1882
 title: Banachiewicz, Tadeusz
 born: 1882
 died: 1954
-keywords: Astronomy, Math, Geodesy, Trigonometry, Coordinates, Congruences, Quadrilaterals
-description: Tadeusz Banachiewicz was an expert in Astronomy, Math, Geodesy, Trigonometry, and more, developing methods for calculation and founding integral calculus.
+keywords: tadeusz banachiewicz,banachiewicz
+description: Tadeusz Banachiewicz was a Polish astronomer, mathematician and geodesist.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,46 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Tadeusz Banachiewicz** was a Polish astronomer, mathematician and geodesist.
 
 ### Mathematical Profile (Excerpt):
-1. Demonstrated the ability to solve a problem in geometry involving the use of trigonometric functions.
-2. Developed a method for calculating parallax distances to stars.
-3. Wrote a textbook on the topic of elementary mathematics.
-4. Advanced the development of spherical trigonometry, particularly in relation to forensic astronomy.
-5. Modified the use of rectangular coordinates and the polar system.
-6. Proposed the concept of linear congruences.
-7. Investigated the properties of general quadrilaterals and the ratio of their diagonals.
-8. Discovered the minor ninth, a kind of arithmetical progression.
-9. Showed how to solve some original problems in geometry which use the properties of the points, lines, and circles.
-10. Established the foundation of modern integral calculus and the foundations of trigonometry.
+* Artur owned an estate at Cychry, near Warsaw, and Tadeusz spent his early years living on the estate.
+* The youngest of his parents' three children, having an older brother and an older sister, Tadeusz attended a High School in Warsaw, the Fifth Gymnasium, graduating in 1900 with a silver medal for outstanding academic achievement.
+* Perhaps we should look a little at the political situation at this time in order to understand the times in which Banachiewicz lived.
+* It was in this atmosphere of Russian domination but underlying Polish nationalism that Banachiewicz grew up.
+* Banachiewicz was a firm Polish patriot.
+* While he was still an undergraduate, studying astronomy, Banachiewicz published his first paper in Astronomische Nachrichten in 1903.
+* Banachiewicz continued to undertake research at the University.
+* In 1906 Banachiewicz had important papers published by the Paris Academy of Sciences after being presented to the Academy by Poincaré: Sur un cas particulier du probléme des n corps Ⓣ(On a particular case of the n-body problem); and Über die Anwendbarkeit der Gyldén-Brendelschen Störungstheorie auf die Jupiternahen Planetoiden Ⓣ(On the applicability of Gylden-Brendel's perturbation theory of Jupiter to planetoids).
+* However, Banachiewicz had already left.
+* After spending a year at Göttingen, Banachiewicz went to the Pulkovo Observatory which was situated 19 km south of St Petersburg on the Pulkovo Heights.
+* During the year he spent studying at the Observatory (1907-08), Banachiewicz studied under Oskar Backlund (1846-1916), who was head of the Pulkovo Observatory from 1895 to 1916.
+* He had also carried out geodesic studies in Spitsbergen from 1898 to 1900 so his interests were very close to those of Banachiewicz who spent his time both making astronomical observations and also deepening his knowledge of mathematics.
+* At Pulkovo, Banachiewicz also learnt from Aristarkh Apollonovich Belopolsky (1854-1934) who was a fine instrument maker.
+* So Banachiewicz was able to return there, being appointed as an assistant astronomer for the academic year 1908-09.
+* During these five years, Banachiewicz took part in a scientific expedition to the Volga River Basin to make accurate measurements of terrestrial gravity.
+* Banachiewicz's time in Dorpat was one of political upheaval.
+* In July Banachiewicz was invited to become the Professor of Astronomy at Voronezh, but a few months earlier, in May, he had been invited to take the chair of astronomy at Kraków University.
+* In October 1918 Banachiewicz returned to Poland and, until March 1919, acted as assistant professor of geodesy at the Warsaw Polytechnic High School.
+* On 17 March 1931, Banachiewicz married Laura (or Larysa) Solohub Dikyj, a Ukrainian poet, in St Nicolas Church in Kopernika Street, Kraków; they had no children.
+* In 1936 Banachiewicz organised a series of expeditions to Japan, Greece and Siberia to make solar observations.
+* As well as his position at the Jagiellonian University, Banachiewicz also accepted the position of professor of higher geodesy and astronomy at the Kraków University of Mining and Metallurgy.
+* Banachiewicz threw himself into his administrative role, aiming to return Kraków Observatory to a leading centre.
+* Observing conditions had not been good in Kraków so, in 1922, Banachiewicz had set up an observing station at Mount Lubomir south of Kraków.
+* This, however, had been burnt down by the Germans on 15 September 1944, so after he took up his duties again after the war, Banachiewicz began to look for another solution.
+* This project was incomplete at the time of his death in 1954 but it continued and, following Banachiewicz's plans, it became the first site of a Polish radio telescope.
+* In 1925 Banachiewicz introduced the Krakowian calculus which involved a column-by-column multiplication of matrices.
+* The Krakowian calculus was used by Banachiewicz in many computational techniques that he developed for astronomical purposes, mainly aimed at orbit calculations.
+* Banachiewicz made so many contributions to both theoretical and observational astronomy that one cannot give here more than a quick overview.
+* Banachiewicz was the first person to compute an orbit for Pluto publishing Chronique de l'Observatoire Astronomique de Cracovie concernant Pluton 1930 mars-août  Ⓣ(Chronicle of the Astronomical Observatory of Krakow concerning Pluto in 1930 from March to August) (1930) and Sur la détermination de l'orbite de Pluton Ⓣ(On the determination of the orbit of Pluto) (1930).
+* Other astronomers, such as the American Charles Hugh Smiley (1903-1977), visited Kraków to learn about Banachiewicz's method of computing the orbit of Pluto.
+* Adam Strzalkowski was a student of Banachiewicz after he took up his teaching position in Kraków after World War II.
+* In the first years after the war the subject of Banachiewicz's lectures were: geodesy, practical and spherical astronomy, determination of orbits and celestial mechanics.
+* Banachiewicz's examinations were not pleasant.
+* Banachiewicz received many honours for his contributions to astronomy and to Polish science.
+* The Polish Academy of Sciences (Polska Akademia Nauk) was founded in 1952 and Banachiewicz became a member in its year of founding.
+* The lunar crater Banachiewicz is named after him, as is the minor planet Banachiewicza discovered in 1933.
+* Other minor planets named by Banachiewicz include: Lorcia (discovered 1933 and named in honour of his wife); Wawel (discovered in 1935 and named after the castle in Kraków); and Varsavia (discovered in 1933 and named after the Latin name for Warsaw).
+* He always spoke in the highest possible terms about Banachiewicz, as a scientist, as a teacher and as a human being.
+* After the war ended and Tadeusz Slebarski had been awarded an M.A. from the University of St Andrews with honours in mathematics and astronomy (1947), Banachiewicz tried to persuade him to return to Kraków, offering him a position there.
+* Family commitments did not allow my father-in-law to accept, but for the rest of his life he regretted that he had not been able to return to work again with Banachiewicz.
 
 Born 13 February 1882, Warsaw, Russian Empire (now Poland). Died 17 November 1954, Kraków, Poland.
 

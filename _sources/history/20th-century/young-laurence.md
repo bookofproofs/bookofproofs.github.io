@@ -7,10 +7,10 @@ orderid: 1905
 title: Young (6), Laurence Chisholm
 born: 1905
 died: 2000
-keywords: Measure Theory, Variations, Optimal Control, Potential Theory, Integral Equations, Calculus of Variations, Laplace Transform
-description: Laurence Chisholm Young, a German mathematician, worked on Measure Theory, Calculus of Variations, Optimal Control, and Potential Theory, pioneering integral equations, fractional calculus and Laplace Transform.
+keywords: laurence chisholm young,young
+description: Laurence Chisholm Young was a German-born mathematician who worked in measure theory, the calculus of variations, optimal control theory and potential theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Laurence Chisholm Young** was a German-born mathematician who worked in measure theory, the calculus of variations, optimal control theory and potential theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new class of integral equations in the theory of linear integral equations in 1910. 
-2. Awarded the Smith's Prize from the University of Cambridge for his research in mathematics in 1912. 
-3. Awarded the Royal Medal from the Royal Society for his notable contribution to mathematical knowledge in 1913. 
-4. Developed two theorems related to the geometry of curves and surfaces in 1930, known as Young's Modulus Theorem and Young's Intersection Theorem. 
-5. Contributed to the theory of the calculus of variations in 1924 with the publication of the work 'A Treatise on the Calculus of Variations'. 
-6. Pioneered the development and applications of fractional calculus in 1929. 
-7. Developed the use of the Laplace transform in the solution of differentials equations in 1912. 
-8. Published the 1915-edition of 'An Elementary Treatise on Laplace's Functions of a Single Variable'.
+* Laurence was the fifth of their six children and was born while his parents had their home in Göttingen, which they did until 1908.
+* Laurence (or Laurie as he was often called) was of course greatly influenced growing up in a family who devoted themselves totally to mathematics.
+* Laurence was taught languages and music by his mother, who generally saw that the children were progressing well academically.
+* Laurence attended the Gymnasium in Lausanne and completed his studies two years early.
+* It was a difficult period for Laurence, ready intellectually to be studying at university, but held back by the illness.
+* Young was Isaac Newton Student at Cambridge in 1930, was awarded an MA in 1931 after studying with Fowler and Littlewood, and he was elected to a fellowship in 1931.
+* Young first met Joan Elizabeth Mary Dunnett in 1927 when he was asked by Geoffrey Miller to come with him when he went to have tea with his cousin Elizabeth.
+* Young remained at Wisconsin-Madison for the rest of his career, retiring in 1975 at the age of 70.
+* In 1969 Young published Lectures on the calculus of variations and optimal control theory.
+* This book is based on the theory of generalised curves, a topic which Young himself founded.
+* Another important book written by Young was Mathematicians and their times: History of mathematics and mathematics of history published in 1981.
+* This book is an outstanding one based on Young's reading of the original source material.
+* The book also tells us a great deal about the way Young himself approached mathematics.
+* Of course to read original sources requires a great knowledge of languages and this Young certainly possessed.
+* After he retired, Young taught students at the University of Campinas in Brazil for many years.
+* His wife Elizabeth died in 1995 and Young died of cancer five years later.
 
 Born 14 July 1905, Göttingen, Germany. Died 24 December 2000, Madison, Wisconsin, USA.
 

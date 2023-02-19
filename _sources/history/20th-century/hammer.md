@@ -7,10 +7,10 @@ orderid: 1936
 title: Hammer, Peter Ladislaw
 born: 1936
 died: 2006
-keywords: Hammer, Gauss-Kronecker, Number Theory, Algebraic Geometry, Hammer Inequality, Jacobi Identity, Automorphisms
-description: Peter Ladislaw Hammer, a Romanian-born mathematician, worked to develop new theorems related to operations research and applied discrete mathematics.
+keywords: peter ladislaw hammer,hammer
+description: Peter Ladislaw Hammer was a Romanian-born mathematician who worked in Israel, Canada and the USA. He worked in operations research and applied discrete mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Peter Ladislaw Hammer** was a Romanian-born mathematician who worked in Israel, Canada and the USA. He worked in operations research and applied discrete mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new variation of the Gauss-Kronecker theorem, known as the Hammer-Kronecker theorem.
-2. Made significant contributions to number theory and algebraic geometry.
-3. Proved a theorem regarding the existence of applications of circular groups.
-4. Established the Hammer inequality, which provides a necessary and sufficient condition for the separability of a system of linear equations.
-5. Discovered a theorem related to the numbers of representations of a finite group. 
-6. Formulated and verified a version of the Jacobi identity.
-7. Demonstrated that finite groups of automorphisms form a group.
-8. Developed a novel approach to solve the problem of the solvability of a given system of linear equations over a finite domain.
-9. Developed a technique for proving theorems of diagonal forms. 
-10. Demonstrated that finite groups of automorphisms contain a regular element.
+* We will explain below how this came about, but for the moment we record that papers written by Peter Hammer and Peter Ivanescu are by the same person.
+* They are related to Boolean algebras and Hammer investigated the connections in this paper.
+* Let us note that Anca and Peter had two children, Alexander and Maxim.
+* For his outstanding contributions Hammer was awarded the George Tzitzeica prize of the Romanian Academy of Sciences in 1966.
+* In 1967 Hammer and his wife defected to Israel where he was appointed professor at the Technion in Haifa.
+* After two years in Israel, Hammer and his wife emigrated to Canada where he was appointed to the University of Montreal.
+* When Peter was invited to join Rutgers 20 years ago, he was given the task of establishing an Operations Research centre.
+* Peter certainly delivered - RUTCOR was established and is now one of the more active Operational Research centres in the world, with about 10 in-house faculty members, dozens of Ph.D. students and many visitors.
+* RUTCOR played a major role, with Hammer as its director, with regular series of seminars, workshops, and courses put on for the numerous graduate students.
+* More than anyone else, Peter Hammer has used and extended Boole's machina universalis to handle questions relating to decision making, analysis and synthesis as they arise in natural, economic and social sciences.
+* Hammer played an important role as editor-in-chief and founder of many journals.
+* Remarkably Hammer also served on the editorial and advisory boards of eight other journals.
+* Hammer received many honours for his outstanding contributions including honorary degrees from the Swiss Federal Institute of Technology in Lausanne (1986), the University of Rome "La Sapienza" (1998), and the University of Liege (1999).
 
 Born 23 December 1936, Timişoara, Romania. Died 27 December 2006, Princeton, New Jersey, USA.
 

@@ -7,10 +7,10 @@ orderid: 1876
 title: Montel, Paul Antoine Aristide
 born: 1876
 died: 1975
-keywords: Paul Montel, French mathematician, analytic functions, theorem, prime numbers, singularities, convergence, linear equations, Grand Prix
-description: Paul Montel, a French mathematician, developed theorems on analytic functions, prime numbers, singularities, convergence and linear equations, earning him the prestigious Grand Prix.
+keywords: paul montel,montel
+description: Paul Montel was a French mathematician who worked on complex analytic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Paul Montel** was a French mathematician who worked on complex analytic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Montel theorem on the approximation of functions continuous in a closed interval by a trigonometric polynomials.
-2. Became the first mathematician to sympathetically explore the notion of prime numbers having an infinity of prime combinations.
-3. Published 'Leçons sur la Théorie des Fonctions' in 1921 which proposed a generalization of Cauchy's theorem on singularities of analytic functions.
-4. Proved various theorems on uniform convergence.
-5. Developed the concept of absolutely convergent series.
-6. Advanced the development of linear partial differential equations.
-7. Was awarded the prestigious Grand Prix des Sciences Mathématiques of the French Academy of Sciences in 1921.
+* Montel then taught at several lycées and at this stage he had no intention of undertaking research in mathematics.
+* Montel's friends saw the great talent which he possessed and they persuaded him to return to Paris and work on a thesis for his doctorate in mathematics.
+* Montel worked mostly on the theory of analytic functions of a complex variable.
+* But at the beginning of the twentieth century Ascoli's theorem had very few applications, and it was Montel who made it popular by showing how useful it could be for analytic functions of a complex variable.
+* Montel introduced a set of functions called a normal family and used these ideas to simplify classical results in function theory such as the mapping theorem of Riemann and Hadamard's characterisation of entire functions of finite order.
+* Montel's idea of normal families proved to be powerful in many connections, for example in the proof of the Picard-Landau-Schottky theorems, and it became central in the theory of iterations of analytic functions started by Émile Picard and developed by Fatou and Julia.
+* The Grand Prix was won by Julia but Montel, who did not enter for the prize, was awarded a smaller monetary prize at the same time.
+* Montel also investigated the relation between the coefficients of a polynomial and the location of its zeros in the complex plane.
+* As we mentioned above, Montel was interested in travel and his eminence as a mathematician led to many invitations which he was more than delighted to accept.
 
 Born 29 April 1876, Nice, France. Died 22 January 1975, Paris, France.
 

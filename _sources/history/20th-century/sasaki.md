@@ -7,10 +7,10 @@ orderid: 1912
 title: Sasaki, Shigeo
 born: 1912
 died: 1987
-keywords: linear algebra, computational linear algebra, numerical analysis, linear programming, nonlinear programming, catastrophism, factorization
-description: Shigeo Sasaki was a Japanese mathematician who contributed greatly to linear algebra, computational linear algebra, numerical analysis, and more.
+keywords: shigeo sasaki,sasaki
+description: Shigeo Sasaki was a Japanese mathematician working on differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Shigeo Sasaki** was a Japanese mathematician working on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Published key articles in the field of linear algebra, including one detailing optimal solutions for linear equations.
-2. Led the development of technological breakthroughs in computational linear algebra.
-3. Revolutionary breakthroughs to the theory of inverses of matrices with applications to the field of numerical analysis.
-4. Explored methods for dealing with linear programming problems involving the minimization and maximization of functions.
-5. Contributions to nonlinear programming, a commonly used technique in economics and optimization theory.
-6. Pioneering work in the field of catastrophism and its application to the study of atomic structures.
-7. Developed a set of algebraic equations allowing the calculation of atomic structures such as the electron affinity of atoms.
-8. Found optimal ways to factorize matrices, developing mathematical models and algorithms for factorization.
-9. Pioneering work in proving the Schiffelman-Krüger theorem, a fundamental result in linear algebra.
-10. Theory of vector spaces and the theory of group representations, and their applications in theoretical physics.
+* Shigeo was the second of his parents sons but he never knew his mother who died when he was only two years old.
+* So Shigeo was brought up by his uncle.
+* Shigeo lived in a dormitory, rather than at home, and the mathematics teacher at the school looked after the boys in the dormitory.
+* He loved to explain mathematics to Shigeo and there were many opportunities.
+* In 1929 Shigeo moved from middle school to high school, entering the Second High School at Sendai.
+* Sasaki therefore, after showing great talents at middle school, made the natural progression to Sendai where he studied for three years.
+* Although in earlier years there were no mathematics texts in Japanese, by the time Sasaki attended High School there were Japanese texts on algebra, analytic geometry, trigonometry and calculus, all of which he studied.
+* Sasaki graduated form the Second High School and entered Tohoku Imperial University at Sendai in April 1932.
+* In addition Sasaki, who was by now becoming fascinated by differential geometry, read some classic differential geometry texts including ones by Blaschke, Eisenhart, Schouten, and Cartan.
+* In January 1937, Sasaki began his career as a lecturer at Tohoku University while he continued to undertake research for his doctorate.
+* It was this last series of three papers which formed the basis of Sasaki's doctoral thesis which he presented in 1943, receiving his doctorate in July of that year.
+* Sasaki studied various classic papers which had reached Japan before the war including ones by G D Birkhoff, Morse, Seifert and Threlfall, and Rado.
+* During the early 1940s Sasaki wrote a major text Geometry of Conformal Connection in Japanese, completing the manuscript of the book in 1943.
+* S Sasaki, Y Muto, and K Yano have developed, since 1938, the conformal theory of curves and surfaces in a conformally connected space as well as in a Riemannian space.
+* Sasaki has obtained also a result on the structure of a conformally connected space whose group of holonomy fixes a point or a hypersphere.
+* Not long after the end of the war, Kubota retired and in December 1946 Sasaki was appointed to fill the vacant chair.
+* In 1974 Chern visited Sasaki at Tohoku University.
+* Professor Sasaki's hospitality was the main factor in making my visit a profitable and enjoyable one.
+* Sasaki remained in the chair at Tohoku University until he retired in March 1976, at which time he took up an appointment as professor at the Science University of Tokyo.
+* Among the topics Sasaki contributed to over a long research career were Lie geometry of circles, conformal connections, projective connections, holonomy groups, Hermitian manifolds, geometry of tangent bundles and almost contact manifolds (now called Sasaki manifolds), global problems on curves and surfaces in various spaces.
 
 Born 18 November 1912, Yamagata Prefecture, Japan. Died 14 August 1987, Tokyo, Japan.
 

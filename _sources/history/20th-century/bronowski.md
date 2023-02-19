@@ -7,10 +7,10 @@ orderid: 1908
 title: Bronowski, Jacob
 born: 1908
 died: 1974
-keywords: Jacob Bronowski, Mathematics, Historian, Lie Algebras, Homology, Metamathematics, Cambridge
-description: Jacob Bronowski was a Polish-born mathematician and historian. He published on Lie algebras, Homology and Metamathematics and developed the Bronowski Diagram. He was awarded a Doctorate of Science from Cambridge University in 1946.
+keywords: jacob bronowski,bronowski
+description: Jacob Bronowski was a Polish-born mathematician and historian. He is best known for developing a humanistic approach to science. He made frequent TV appearances.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jacob Bronowski** was a Polish-born mathematician and historian. He is best known for developing a humanistic approach to science. He made frequent TV appearances.
 
 ### Mathematical Profile (Excerpt):
-1. He published a paper on Lie algebras in 1934.
-2. He wrote a paper entitled "On the Representation of Lie Algebras" in 1936.
-3. He published The General Theory of Homology in 1941.
-4. He wrote a book, The L-Number of Algebraic Number Theory in 1948.
-5. He authored the book The Creative Mind: An Introduction to Metamathematics in 1954.
-6. He developed the 'Bronowski Diagram' to illustrate the interrelationship between mathematics and the arts and sciences.
-7. He was a member of the mascular calculus research group at the University of Cambridge.
-8. He was one of the first recipients of the Emberton Fellowship of Mathematics in 1937.
-9. He collaborated with Alan Turing on a project to develop cryptanalysis techniques during World War II.
-10. He was awarded a Doctorate of Science from Cambridge University in 1946.
+* Things were not easy for Bruno, as Bronowski was known, when he arrived in England since he spoke no English.
+* Bronowski won a mathematics scholarship to Jesus College, Cambridge, and there he began his mathematical studies.
+* However at Cambridge Bronowski's interests were much wider than mathematics and he continued with his love of literature editing a literary magazine Experiment with another mathematics student.
+* Bronowski worked on a poetry project with Laura Riding but the two fell out.
+* Bronowski then returned to Cambridge where he received his doctorate in mathematics for a thesis which looked at problems in geometry and topology.
+* Bronowski went to Japan in 1945 with the British Chiefs of Staff Mission to study the effects of the atomic bomb on Nagasaki.
+* After this visit Bronowski wrote his famous report The Effects of Atomic Bombs at Hiroshima and Nagasaki.
+* After his war work ended Bronowski did not return to being a mathematics lecturer.
+* He headed the research into smokeless fuels and one early form of such fuel was called "Bronowski's Bricks".
+* The 1950s saw a change in Bronowski's interests.
+* It was because of Bronowski's skills as a mathematician that he was approached to look at a problem in palaeontology.
+* About the same time Bronowski began his career as a broadcaster, perhaps the part of his life for which he is most widely remembered.
+* from which the great debate on 'two cultures' sprang - one in which Bronowski never accepted the idea of a separation between the scientific and the humanistic aspirations of man.
+* Through his new interests in biology, Bronowski became involved in the setting up of the Salk Institute for Biological Studies at La Jolla, near San Diego, California.
 
 Born 18 January 1908, Łódź, Russian Empire (now Poland). Died 22 August 1974, East Hampton, New York, USA.
 

@@ -7,10 +7,10 @@ orderid: 1930
 title: Feit, Walter
 born: 1930
 died: 2004
-keywords: Walter Feit, John Thompson, Finite Simple Groups, Odd Order Theorem, Feit-Thompson Theorem, Symplectic Geometry, Cole Prize, Set Theory
-description: Walter Feit, a mathematician of Austria, collaborated with John Thompson on proving a major theorem on finite simple groups and developed symplectic geometry.
+keywords: walter feit,feit
+description: Walter Feit was an Austrian mathematician who (with John Thompson) proved one of the most important theorems about finite simple groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Walter Feit** was an Austrian mathematician who (with John Thompson) proved one of the most important theorems about finite simple groups.
 
 ### Mathematical Profile (Excerpt):
-1. He and John Thompson proved the Odd Order Theorem in 1959, which states that all non-abelian finite simple groups of odd order are necessarily of the form X2n+1(q), where X is one of Li, PSL, PSp, POH, or two of PGL.
-2. He solved a major conjecture in finite group theory, the Feit-Thompson Theorem, which states that any group with an odd number of elements must be solvable.
-3. In 1965, he was awarded the Cole Prize in Algebra by the American Mathematical Society for his work on finite groups.
-4. He developed the techniques of symplectic geometry, which were fundamental to the development of the modern theory of finite groups.
-5. He helped to shape the modern theory of finite groups as an advisor for John Thompson, an influential researcher in the field.
-6. He collaborated with John Thompson in the development of succinct mathematical notation for describing finite groups.
-7. He worked closely with colleagues at the Institute for Advanced Study, including Saharon Shelah and Ernst Specker, on difficult problems in set theory.
-8. He worked closely with the Topical Group on Finite Groups, of which he was an early member, and delivered a number of talks on the topic at math conferences.
+* Feit's family were Jewish and this turn of events proved disasterous for them.
+* However, there was no way that the whole Feit family could escape despite the fact that his father's sister Pauline Feit lived in the United States and tried to encourage them to come to live with her in Miami.
+* Walter's parents had put him on that last train which left Vienna on one of the last days in August 1939.
+* When the war ended, his father's sister Pauline who was married to Max and lived in Miami, Florida, in the United States made huge efforts to obtain a visa to allow Feit to come to live with them.
+* Eventually Pauline's efforts paid off and Feit was able to sail to the United States in December 1946.
+* Feit attended Brauer's seminar which was on the modular representations of finite groups and also took an informal reading course from Brauer on class field theory.
+* Feit remained at the University of Michigan and Brauer continued to supervise his doctoral thesis.
+* However, formally Feit had to have a supervisor on the Michigan faculty, so Robert Thrall took on that role.
+* Feit graduated with a doctorate in 1955, awarded for the thesis Topics in the Theory of Group Characters.
+* Feit was drafted into the army in 1955, and after he returned to Cornell he began to date Sidnie.
+* John Thompson proved significant results in his thesis presented to the University of Chicago in 1959, and character theoretic results proved by Feit were seen to be relevant.
+* This brought together many leading group theorists, and in particular it provided the opportunity for Feit and Thompson to embark on the ambitious project of attempting to prove the conjecture that all groups of odd order are soluble.
+* Suzuki and, of course, Brauer appreciated Walter's strength.
+* Walter then discovered that there was one case that our techniques did not cover, and he told me of this.
+* We have said nothing of Feit's achievements so far, other than the odd order paper.
+* Let us record that Feit addressed the British Mathematical Colloquium as a plenary speaker in Swansea in 1967.
+* In mid-1976, Walter went to China with a delegation headed by Saunders Mac Lane.
+* Feit died after a long illness at the Connecticut Hospice in Branford, Connecticut, USA.
+* who ever discussed world affairs with Walter knows what a history buff he was.
 
 Born 26 October 1930, Vienna, Austria. Died 29 July 2004, Branford, Connecticut, USA.
 

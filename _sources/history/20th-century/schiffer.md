@@ -7,10 +7,10 @@ orderid: 1911
 title: Schiffer, Menahem Max
 born: 1911
 died: 1997
-keywords: Schiffer Variables, Geometrical & Analytical Problem Solving, Vector Fields, Newton's laws, Lie Group Theory, Group Theory, Differential Equations
-description: Menahem Schiffer was an American mathematician who developed innovative solutions to mathematical problems, including the Schiffer Variables, and contributed to the understanding of vector fields, Newton's laws, and Lie Group Theory.
+keywords: menahem schiffer,schiffer
+description: Menahem Schiffer was a German-born American mathematician who worked on complex analysis, partial differential equations and mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Menahem Schiffer** was a German-born American mathematician who worked on complex analysis, partial differential equations and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an innovative approach to solving equations involving a three-variable system by introducing the “Schiffer Variables”.
-2. Authored the 1973 text “A Survey of Geometrical and Analytical Problem Solving” which provided a comprehensive overview of the methods used for solving mathematical problems.
-3. Developed a theoretical framework to explain the behavior of electric fields in a dielectric distribution and the shifting of field lines from point of charge to another.
-4. Won the prestigious Zeev Nehama Award in 1971 in recognition of his contributions to mathematics.
-5. Contributed to the explanation of the behavior of vector fields in cases of electric fields which had an unlimited number of dimensions.
-6. Pioneered research which helped to further the understanding of Newton’s laws of motion as they are applied to particle dynamics.
-7. Conducted extensive research into Lie Group Theory which had applications in understanding the behavior of vectors in different fields.
-8. Developed a “Group Theory” which served as a practical aid in solving straight equations with a maximum of three variables. 
-9. Authored works on differential equations, linear algebra and the mathematics of curved surfaces. 
-10. Conducted mathematical research that aided in the understanding of the physics of light.
+* As mathematics became at least equal to physics as Schiffer's main interest, Schrödinger felt that his young pupil had to make a decision to specialise in one or the other.
+* He pushed Schiffer into choosing and, after some considerable thought on the matter, Schiffer decided that he would concentrate on mathematics.
+* By this time Schiffer was specialising in mathematics and his mathematics teachers followed rather different courses from those who had taught him physics.
+* Schiffer was undertaking research advised by Issai Schur but, since both were Jewish, they suffered increasing difficulties.
+* By the time Schiffer's first paper Ein neuer Beweis des Endlichkeitssatzes für Orthogonalinvarianten Ⓣ(A new proof of the Compactness theorem for orthogonal invariants) on invariant theory was published in Mathematische Zeitschrift in 1934, he had left Germany and settled in Palestine.
+* Schur remained in Germany so Schiffer had to find a new doctoral advisor at the Hebrew University of Jerusalem.
+* However, his research undertaken in Germany and published in his 1946 paper was accepted for a Master's Degree at the Hebrew University and Schiffer was awarded this degree in 1934.
+* Schiffer's area was now quite different from that which he had studied with Schur, and he was awarded his doctorate in 1938 for his thesis Conformal Representation and Univalent Functions.
+* While Schiffer was undertaking research in Jerusalem he married Fanya Rabinivics in 1937; they had a daughter Dinah (now Dinah S Singer, Head of the Molecular Regulation Section, Experimental Immunology Branch, National Cancer Institute, U.S. National Institutes of Health).
+* After the award of his doctorate, Schiffer remained on the staff at the Hebrew University until 1946.
+* It was Schiffer's work that opened up the possibility of applying variational methods in a systematic way to geometric problems in complex analysis.
+* In 1946 Schiffer moved to the United States when he was appointed as a Research Lecturer at Harvard University.
+* After a year in Israel, Schiffer was back in the United States in 1951 working at Stanford University in Palo Alto, California.
+* The department has the conviction, shared by Professor Pólya himself, that there would not be a better replacement for him than Schiffer.
+* Schiffer was appointed as Professor of Mathematics at Stanford on 1 September 1952.
+* While he was a young faculty member at the Hebrew University, Schiffer began a collaboration with Stefan Bergman and they continued to collaborate through the years that they spent together at Harvard during the second half of the 1940s.
+* In addition to Bergman, another with whom Schiffer collaborated over many years was Donald C Spencer.
+* Schiffer and Spencer published the monograph Functionals of finite Riemann surfaces (1954).
+* Schiffer was invited at give a plenary lecture at the International Congress of Mathematicians held in Edinburgh, Scotland, in August 1958.
+* When he had been an undergraduate, Schiffer had found it difficult to choose between mathematics and physics.
+* Schiffer was appointed to the Robert Grimmett Professorship of Mathematics in 1967, holding this endowed chair until he retired in 1977.
+* Schiffer received many honours including being elected to the American Academy of Arts and Sciences in 1968 and to the National Academy of Sciences in 1970.
+* In the same year the Journal d'Analyse Mathématique published a special volume dedicated to Schiffer on the occasion of his 65th  birthday.
 
 Born 24 September 1911, Berlin, Germany. Died 11 November 1997, Palo Alto, California, USA.
 

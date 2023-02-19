@@ -7,10 +7,10 @@ orderid: 1887
 title: Bohr (2), Harald
 born: 1887
 died: 1951
-keywords: Dirichlet series, mathematical analysis, Olympic medal, Besicovitch theorem, Big-O notation, mean ergodic theorem, prime numbers
-description: Harald Bohr worked on Dirichlet series, advanced mathematical analysis & was the only mathematician to win an Olympic medal. His work on Besicovitch theorem, Big-O notation & prime numbers solidified his place as a great mathematician.
+keywords: harald bohr,bohr
+description: Harald Bohr worked on Dirichlet series, and applied analysis to the theory of numbers. He is (as far as we know) the only mathematician to win an Olympic medal (a silver for representing Denmark at soccer in 1908).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Harald Bohr** worked on Dirichlet series, and applied analysis to the theory of numbers. He is (as far as we know) the only mathematician to win an Olympic medal (a silver for representing Denmark at soccer in 1908).
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Besicovitch almost periodic theorem, providing a new way to understand periodic functions.
-2. Extended the Big-O notation, a tool used to describe how quickly a function grows or declines, to the case of almost periodic functions.
-3. Developed the concept of mean ergodic theorem.
-4. Co-developed the concept of pseudo-differential calculus.
-5. He confirmed the four-color map for the first time.
-6. Advanced the notion of integral equations and showed its importance in Fourier Analysis.
-7. Explored the concept of Bohr-Lippman theorem.
-8. Studied the structure of maximal ideals in algebraic number fields.
-9. Advanced the theory of prime number applications.
-10. First to bring together the theory of almost periodic functions, Bohr’s theory and Hardy spaces.
+* Their father, Christian Bohr, was professor of physiology at the University of Copenhagen.
+* Christian Bohr was famous for his work on the physical and chemical aspects of respiration.
+* Harald and Niels Bohr's mother, Ellen Adler Bohr, came from a wealthy Jewish family with family members who were important in banking and in politics in Denmark.
+* Harald studied mathematics at the University of Copenhagen.
+* It is perhaps surprising that Harald and Niels did not collaborate more frequently.
+* Harald Bohr worked on Dirichlet series, and applied analysis to the theory of numbers.
+* In 1914 they proved the Bohr-Landau theorem on the distribution of zeros of the zeta function.
+* Some of this important work on the zeta function was due to Bohr alone, some came from the collaboration with Landau.
+* Bohr's interest in which functions could be represented by a Dirichlet series led him to devise the theory of almost periodic functions.
+* Bohr published three major works on this topic in Acta Mathematica between 1924 and 1926.
+* This result lead Bohr to a result on the uniform approximation to almost periodic functions by exponential functions.
+* However, the theory of almost periodic functions of a complex variable remains up to now in the same perfect form in which it was given by Bohr.
+* After setting up the theory of almost periodic functions, Bohr's mathematical work became devoted exclusively to furthering the subject.
+* Bohr the man was not less remarkable than Bohr the mathematician.
 
 Born 22 April 1887, Copenhagen, Denmark. Died 22 January 1951, Copenhagen, Denmark.
 

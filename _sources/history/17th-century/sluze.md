@@ -7,10 +7,10 @@ orderid: 1622
 title: De Sluze, René François Walter
 born: 1622
 died: 1685
-keywords: René de Sluze, Pearls of Sluze, links, equations, calculus, geometry, probability
-description: René de Sluze is renowned for developing the theory of links and equations, calculus, geometry, and probability and for creating the Pearls of Sluze.
+keywords: rené de sluze,de
+description: René de Sluze is best known for the curves called the Pearls of Sluze.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,64 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **René de Sluze** is best known for the curves called the _Pearls of Sluze_.
 
 ### Mathematical Profile (Excerpt):
-1. Created the concept of unlinking two links in a chain, which is widely used in modern mathematics.
-2. Developed the theory of solids in relation to links and used it to devise a new method of folding chains.
-3. Developed a sophisticated algebraic notation for Simplifying and solving algebraic equations.
-4. Built upon the work of Pierre Fermat, Isaac Newton and Rene Descartes to develop the theory of differential equations which is still in use to this day.
-5. Proved that the infinity of algebraic equations could not be solved in radicals, a major breakthrough in developmental mathematics.
-6. Discovered two differential equations that used the same parameters to obtain an equation for the second derivative, a major accomplishment in differential equations.
-7. Constructed a basic model for probability which helped to form a foundation for the mathematics of probability and statistics.
-8. Utilized the principle of calculus to analyze motion, inertia and power which laid the groundwork for future scientific theories.
-9. Published the book 'Jeux de Billards' in 1750, a major contribution to the mathematics of geometry.
-10. Constructed a method for calculating powers and roots of numbers, a key step in the development of modern mathematics.
+* Perhaps the most common French form of his name is 'Sluse', but the Latin version 'Slusius' is the one form which is always used in his scientific international correspondence.
+* His father and paternal grandfather were both named René de Sluse so we now have to be careful in giving details of three people with the same name; let us temporarily call them René the Younger, René the Elder, and René the Eldest.
+* René the Elder was a lawyer working as clerk of the court, while his father René the Eldest served as mayor of Visé.
+* The mother of René the Younger (René the Elder's husband) was Catherine Waltheri de Castro, a daughter of Walther Plorard who was mayor of Visé on several occasions.
+* Several other members of the family were prominent figures, like for example René's maternal uncle Gualthère Waltheri who also trained as a lawyer and served as the secretary of papal briefs to Innocent X, pope from 1644 to 1655.
+* After the death of Innocent X, he served as secretary of papal briefs to his successor, pope Alexander VII.
+* Another of René's maternal uncles was Jean Waltheri who was first a canon and then the dean of the collegial church in Visé.
+* René had two brothers: Pierre Louis and Jean Gualière who both entered the Church, the latter became a cardinal in the year following René's death.
+* René's family had no doubts the direction that his life should take, namely a training in law leading to an ecclesiastical career, and his education was arranged with this aim in mind.
+* De Sluze studied civil and canon law at the University of Louvain from the autumn of 1638 to the summer of 1642.
+* De Sluze studied at the University of Sapienza and received a doctorate in law in October 1643.
+* After this de Sluze remained in Rome where he greatly enjoyed the scholarly environment and he studied a large number of subjects including many languages such as Greek, Hebrew, Arabic and Syriac, as well as mathematics and astronomy.
+* Although mathematics was the topic which seemed least useful for his future ecclesiastical career, it was the subject which de Sluze enjoyed more than any other, although one has to say that he also greatly enjoyed many other of his wide interests.
+* They remained friends for life and corresponded regularly.
+* De Sluze became a canon in the collegiate church in Visé on 8 October 1650, although this appointment was only a nominal one to provide him with an income and de Sluze did not need to return to Visé but remained in Rome.
+* He became abbot of S le Ode at Amay in 1666, conseiller ordinaire in 1673, and vice-provost of the cathedral on 20 January 1676.
+* Given his busy life, the only route left open to de Sluze to interact with other mathematicians was by correspondence.
+* He corresponded with many mathematicians in England, France and other European countries, for example he was in regular contact with Blaise Pascal, Christiaan Huygens, and John Wallis.
+* However, one of his most useful links with other mathematicians and scientists came through correspondence with Henry Oldenburg, the secretary of the Royal Society in London.
+* Before we discuss this, let us look at his earlier mathematical contributions to which correspondence also played a large part.
+* De Sluze wrote to Christiaan Huygens on 14 March 1658 regarding integrating the cissoid, or rather in the language of the time, its quadrature or finding the area under the curve.
+* In the first place it fitted into a much broader programme which aimed at deriving the quadrature of the circle from the quadrature of curves related to the circle.
+* Some weeks after de Sluze had determined the volume of revolution of the cissoid, Huygens found its quadrature.
+* He announced the result to de Sluze on 5 April 1658 and on 28 May 1658 he sent a proof.
+* In June 1658 Blaise Pascal issued a challenge to mathematicians to find the area under the cycloid and also to find the volume it generates when rotated about its base.
+* De Sluze had gained the experience necessary to solve such problems and sent his solution to Pascal who praised it highly.
+* In 1659 de Sluze published Mesolabum, or to give it its full name, Mesolabum seu  duse mediae proportionales inter extremas datas per circulum et ellipsim vel hyperbolam infinitis modis exhibitae Ⓣ(Work on two mean proportionals between the two measurements given by a circle and an ellipse or an infinite hyperbola).
+* This work was on geometrical construction in which he discussed the cubature of various solids and the solutions to third and fourth degree equations which he obtained geometrically using the intersection of any conic section with a circle.
+* He discussed these curves as well as the problem of the volume generated by rotating the cissoid about its asymptote in Miscellanie, which was material he added to the second edition of Mesolabum in 1668.
+* Correspondence had continued with Huygens and other mathematicians.
+* One month later de Sluze replied to Huygens saying that he would read it to the best of his ability.
+* Huygens also sent a copy of Horologium Oscillatorium (1673) to de Sluze.
+* He described the aims of the Royal Society and sought an exchange of letters which should inform the English of Sluse's research undertaken since the publication of his 'Mesolabum', which, he said, had been much appreciated in England, although copies were scarce.
+* Sluse was later to reply fully to all these requests, satisfying the Society's mathematical interests in good measure as well as Oldenburg's expressed interest in natural history and the history of trades.
+* In this first instance he responded only with polite acknowledgements, doubting, he said, whether a sustained correspondence was possible since it had taken three months for Oldenburg's letter to arrive.
+* In fact the return letter took only nine days and a regular correspondence was possible.
+* Sluse's interests were in some cases very close to those of Newton and he received eagerly the accounts of his work written by Collins specifically for Oldenburg to transmit to him.
+* De Sluze received information that Newton had devised a method to find tangents and on other topics that Newton had been working on such as infinite series.
+* He responded in 1671 that he was going to publish an old work of his own on the topic of tangents, a method he had perfected using ideas from Descartes and Fermat.
+* In the following year de Sluze sent full details of his method of finding tangents to Oldenburg, who published it in the Philosophical Transactions of the Royal Society in 1672 under the title An extract of a letter from the excellent Renatus Franciscus Slusius, Canon of Liège and Councellor of his Electoral Highness of Cologne.
+* Written to the publisher in order to be communicated to the Royal Society, concerning his short and easier method of drawing tangents to all geometrical curves without labour of calculation.
+* One has to say that this work on tangents makes de Sluze a major figure in the development of the calculus.
+* In fact Leibniz learned much through reading de Sluze's writings.
+* Oldenburg responded to de Sluze with full details of Newton's method as described to him by Collins.
+* When he received the details, de Sluze realised that his method was essentially identical to that of Newton.
+* But if it had been otherwise yet since he first imparted it to his friends and the world, it ought deservedly to be accounted his.
+* There was therefore no disagreement regarding priority; the two discoveries were independent, with de Sluze making his discovery several years before Newton.
+* Another potential controversy arose through de Sluze and Huygens both solving Alhazen's Problem.
+* Huygens sent his results to Oldenburg in which he stated that he had found an elegant solution.
+* Some time later de Sluze told Oldenburg that he had found a good method of solution and was then sent details of Huygens' method by Oldenburg.
+* De Sluze responded with details of his own approach which Oldenburg forwarded to Huygens.
+* This all took a little time and de Sluze had improved his method by the time Huygens had received Oldenburg's letter.
+* De Sluze was elected a Fellow of the Royal Society on 16 April 1674, having been proposed by Oldenburg.
+* De Sluze did not write exclusively on mathematics.
+* his research ranged from mathematics to astronomy, chronometry, chemistry, medicine, embryology, the development of the thermometer and the barometer, and the transfusion of blood.
+* He wrote a book on the death of St Lambert, bishop of Maastricht, who was murdered in 705.
+* De Sluze left hundreds of pages of unpublished work, including a history of Cologne as well as much on mathematics, astronomy, physics and natural history.
+* How de Sluze must have enjoyed being asked by Oldenburg about the history and natural history around Liège.
 
 Born 2 July 1622, Visé, Spanish Netherlands (now Belgium). Died 19 March 1685, Liège, Spanish Netherlands (now Belgium).
 

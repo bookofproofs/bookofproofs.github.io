@@ -7,10 +7,10 @@ orderid: 1816
 title: Frenet, Jean Frédéric
 born: 1816
 died: 1900
-keywords: Frenet-Serret formulas, differential geometry, algebraic equations, projective geometry, linear connections, linear systems, isopolar curves
-description: French mathematician Jean Frenet developed formulas to measure the curvature and torsion of a planar curve which are widely used in differential geometry, and advanced the study of algebraic equations, projective geometry, linear connections, linear systems, and isopolar curves.
+keywords: jean frenet,frenet
+description: Jean Frenet was a French mathematician best remembered for the Serret-Frenet formulas for a space-curve.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean Frenet** was a French mathematician best remembered for the Serret-Frenet formulas for a space-curve.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Frenet-Serret formulas for the curvature and torsion of a planar curve, which have become important tools in the field of differential geometry.
-2. Proved theorems related to the theory of algebraic equations, and constructed a new approach to the theory of projective geometry, known as the principle of duality.
-3. Discovered a method of integrating a cubic equation and published a series of papers on the subject.
-4. Developed a theory of linear connections which was the basis of his later work on differential equations and higher-dimensional geometry.
-5. Advanced the theory of linear systems of equations by introducing the so-called 'Frenet equations', which are the basis of all geometric transformations of the plane.
-6. Made significant contributions to the theory of similitude, leading to a new branch of mathematics known as 'Frenet-associated similarity geometry'.
-7. Formulated a new theory of conics, unifying them under the single concept of a polar hyperbola, which allowed for the study of isopolar curves.
-8. Produced a treatise on the infinitesimal theory of elastic curves which became a reference work in the field.
+* Frenet entered the  École Normale Supérieure in 1840, then studied at the University of Toulouse.
+* However the University was suppressed during the French Revolution and by the time Frenet went there to study it had been broken up into separate faculties of law, theology, science, letters, and medicine.
+* At Toulouse Frenet undertook research in geometry and he wrote a doctoral thesis there which he submitted in 1847.
+* In his thesis Frenet presented the idea of attaching to each point of an arbitrary curve in space a frame.
+* The part of Frenet's thesis which contains the theory of space curves gives the formulas now known as the Serret-Frenet formulas.
+* Frenet gave only six formulas while Serret gave all nine.
+* Frenet published this part of his thesis as the paper Sur quelque propriétés des courbes à double courbure Ⓣ(On some properties of curves of double curvature)  in the Journal de mathematique pures et appliques  in 1852.
+* In a further paper Théorèmes sur les courbes gauches Ⓣ(Theorems on space curves), published in the Nouvelles annales de mathématiqe  in 1853, Frenet explained how the formulas could be applied.
+* It is likely that this was produced at about the same time as Frenet's work and that the two were independent.
+* Frenet was appointed as a professor at the University of Toulouse, then in 1848 he was appointed professor of mathematics at the University of Lyon, the most important educational centre outside Paris.
+* Frenet retired at the age of 52 in 1868 and went to live on the family estate of Bayot in Périgueux.
 
 Born 7 February 1816, Périgueux, France. Died 12 June 1900, Périgueux, France.
 

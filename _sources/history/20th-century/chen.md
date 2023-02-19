@@ -7,10 +7,10 @@ orderid: 1923
 title: Chen, Kuo Tsai
 born: 1923
 died: 1987
-keywords: algebraic topology, analysis, number theory, prime numbers, partial differential equations, Chen's Lemma, Chen's Theorem
-description: Kuo-Tsai Chen was a renowned mathematician who developed Chen's Lemma, Chen's Theorem and contributed to number theory, PDEs and algebraic topology. Awarded multiple times.
+keywords: kuo-tsai chen,chen
+description: Kuo-Tsai Chen was a Chinese-born mathematician who worked in algebraic topology and analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Kuo-Tsai Chen** was a Chinese-born mathematician who worked in algebraic topology and analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Chen's Lemma and Chen's Theorem, which helped to further the understanding of number theory, particularly topics related to prime numbers. 
-2. Proved the Erdős-Moser theorem and related theorems concerning the number of prime divisors of an integer. 
-3. Developed new methods for the analysis of partial differential equations. 
-4. Pioneered the use of characteristics methods for the solving of hyperbolic equations. 
-5. Authored numerous journals and papers on topics related to number theory, partial differential equations, and algebraic groups. 
-6. Founded and developed an area of mathematics known as "Chen's theory of algebraic groups". 
-7. Awarded the National Science Council Research Award in Mathematics in 1976. 
-8. Won the Second Order Differential Equation Prize in 2005. 
-9. Selected as a Fellow of the American Mathematical Society in 1999. 
-10. Served as a professor at the University of Minnesota and the Chinese Cultural University.
+* Chen graduated with a Bachelor of Science degree in 1946.
+* Chen moved to Shanghai where he was employed as an assistant at the Mathematics institute of the Academia Sinica.
+* After working at the Academia Sinica for one year, Chen was advised to go to the United States to gain a doctorate.
+* However Eilenberg had accepted an appointment at Columbia University in New York so Chen followed his supervisor there.
+* Chen supported himself by taking two appointments while in New York, the first appointment was as a mathematics instructor at the National Bible Institute which he held from 1948 to 1950.
+* In the first course he gave in Hong Kong, Chester Chen, as he had become known, met a charming sophomore, Julia Tse-Yee Fong, who became his bride in 1953.
+* After leaving Hong Kong in 1958, Chen went to Brazil where he was appointed as an Associate Professor at the Instituto Tecnologico de Aeronautica in São Jose dos Campos.
+* His work is intimately related to the theory of minimal models as developed by Dennis Sullivan, whose own work was in part inspired by the research of Chen.
+* An outstanding and original mathematician, Chen's work falls naturally into three periods: his early work on group theory and links in the three sphere; his subsequent work on formal differential equations, which gradually developed into his most powerful and important work; and his work on iterated integrals and homotopy theory, which occupied him for the last twenty years of his life.
+* The goal of Chen's iterated integrals program, which is a de Rham theory for path spaces, was to study the interaction of topology and analysis through path integration.
+* Chen was advisor to six doctoral students at the University of Illinois and these graduated between 1970 and 1980.
 
 Born 15 July 1923, Chekiang (now Zhejiang), China. Died August 1987, Urbana, USA.
 

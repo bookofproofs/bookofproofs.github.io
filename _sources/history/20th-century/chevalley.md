@@ -7,10 +7,10 @@ orderid: 1909
 title: Chevalley, Claude
 born: 1909
 died: 1984
-keywords: Lie Groups, Sheaves, Finite Projective Geometry, Bourbaki Group, Number Theory, Algebraic Topology, Chevalley-Warning Theorem
-description: Claude Chevalley developed Lie Groups, investigated sheaves, proved the finite projective geometry theorem, co-created the Chevalley-Warning theorem, and constructed E_8. He also founded the Bourbaki Group and authored books.
+keywords: claude chevalley,chevalley
+description: Claude Chevalley had a major influence on the development of several areas of mathematics including Ring Theory and Group Theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Claude Chevalley** had a major influence on the development of several areas of mathematics including Ring Theory and Group Theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the theory of Lie Groups, which demonstrated the importance of non-commutative algebra in geometry.
-2. Pioneered the method of sheaves in algebraic geometry and the 'scheme theory’.
-3. Proved the fundamental theorem of finite projective geometry.
-4. Founded the Bourbaki Group, a gathering of leading French mathematicians who helped shape the development of mathematics in the 20th century.
-5. Made important contributions to number theory, algebraic topology, and algebraic geometry.
-6. Co-authored the 'Chevalley-Warning Theorem', which provided a proof of the rationality of certain algebraic groups.
-7. Constructed the Chevalley group E_8, the largest and most intricate Lie group known.
-8. Authored several books, including the influential 'Theory of Lie Groups’.
+* After graduating Chevalley continued his studies in Germany, studying under Artin at Hamburg during session 1931-32.
+* In 1938 Chevalley went to the United States to the Institute for Advanced Study at Princeton.
+* Chevalley had a major influence on the development of several areas of mathematics.
+* Chevalley's theorem was important in applications made in 1954 to quasi-algebraically closed fields and applications made the following year to algebraic groups.
+* Chevalley groups play a central role in the classification of finite simple groups.
+* His name is also attached to Chevalley decompositions and to a Chevalley type of semi-simple algebraic group.
+* He also did fundamental work on spinors which was described by Pierre Cartier and Catherine Chevalley, Chevalley's daughter.
+* But Chevalley's approach to Clifford algebras was quite new in the 1950s, at a time where universal algebra was blossoming and developing fast.
+* Chevalley's exposition of the algebraic theory of spinors contains a number of interesting innovations.
+* But Chevalley was an algebraist at heart, and gives no hint of the applications to theoretical physics.
+* Many of Chevalley's texts have become classics and new editions continue to appear as do translations into several different languages.
+* Chevalley also published Theory of Distributions (1951), Introduction to the theory of algebraic functions of one variable (1951), The algebraic theory of spinors (1954), Class field theory (1954), The construction and study of certain important algebras (1955), Fundamental concepts of algebra (1956) and Foundations of algebraic geometry (1958).
+* Let us quote from reviews of some of these works to give some impression of the material Chevalley covers and the style of his writing.
+* Chevalley's book is timely and it will be widely studied; the meaty exercises will invite a diligent reader to educate himself some more.
+* He had written various pamphlets, and various notes; Catherine Chevalley will have to work hard to collect these things and we will publish them as part of his collected works.
+* Chevalley was awarded many honours for his work.
+* Chevalley was elected an honorary member of the London Mathematical Society in 1967.
 
 Born 11 February 1909, Johannesburg, Transvaal, South Africa. Died 28 June 1984, Paris, France.
 

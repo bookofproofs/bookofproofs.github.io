@@ -7,10 +7,10 @@ orderid: 1929
 title: Puri, Madan Lal
 born: 1929
 died: 0
-keywords: Number Theory, Algebraic Geometry, Probability Theory, Topology, Ramanujan, Galois Field Theory, Graph Theory
-description: Madan Lal Puri made numerous contributions to Mathematics, including the development of theories in number theory, algebraic geometry, probability theory and topology.
+keywords: madan lal puri,puri
+description: Madan Lal Puri is an Indian-born statistician whose work in nonparametric statistics and probability theory has had profound effects on the way statistics is understood and applied.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Madan Lal Puri **is an Indian-born statistician whose work in nonparametric statistics and probability theory has had profound effects on the way statistics is understood and applied.
 
 ### Mathematical Profile (Excerpt):
-1. Developed theories in the fields of Number Theory, Algebraic Geometry, Analytic Number Theory, Probability Theory and Topology.
-2. Established new results of Ramanujan’s work on the asymptotic estimation of partition functions of real numbers.
-3. Proposed an approach to fundamental algebraic equations with an extraordinary degree through the construction of Galois field theories.
-4. Discovered the prime distribution theorem, one of the fundamental theorems in mathematics.
-5. Developed various theorems and proofs in developing the math of number theory, algebra, and geometry.
-6. Authored and co-authored more than fifty books, some of which are considered as advanced textbooks on Mathematics.
-7. Introduced several different important special functions including Gamma, Bessel, Neumann and Weber functions.
-8. Pioneered the use of novel techniques in Graph Theory to solve many problems in critical mathematics fields.
+* At this time India was ruler by the British although through the first eighteen years of Puri's life there was increasingly violent Hindu-Muslim conflict and vigorous protests demanding Indian independence.
+* Puri's family were in the region which was to become Pakistan and they fled as refugees to Delhi.
+* Over a million people died in the fighting which ensued but Puri and his family survived.
+* Puri was studying mathematics at Punjab University when the split occurred.
+* Puri was awarded his B.A. degree in 1948 from the Punjab University in India and continued to study there for a master's degree which was awarded in 1950.
+* In September 1957 Puri moved to the United States being appointed as an instructor and graduate student at the University of Colorado in Boulder.
+* There his doctoral studies were supervised by Erich Lehmann and Puri was awarded his doctorate in 1962 after submitting his thesis Asymptotic Efficiency of a Class of C-Sample Tests.
+* Also in 1962, on 24 August, Puri married Uma Kapur; they had three children.
+* After the award of his Ph.D., Puri was appointed as an assistant professor at the Courant Institute of Mathematical Sciences in New York.
+* MathSciNet contains a list of 238 items authored by Puri.
+* The medal with which Professor Puri was adorned is testimony to his scholarly contributions to the world of statistics and to Indiana University over his illustrious career.
+* Professor Puri's research has lead to his being considered one of the most versatile and prolific researchers in the world in mathematical statistics in the areas of nonparametric statistics, order statistics, limit theory under mixing, time series, splines, tests of normality, generalized inverses of matrices and related topics, stochastic processes, statistics of directional data, random sets, and fuzzy sets and fuzzy measures.
+* Indeed, Professor Puri is to be commended for the 'Puri-Sen Era' in mathematical statistics.
+* A scholar's work is never complete, and Professor Puri has certainly proved that by giving of himself in organizing international conferences and serving as editor-in-chief of the Journal of Statistical Planning and Inference.
+* Madan Puri's name would be found on almost any statistician's list of three outstanding contributors to the world of nonparametric statistics.
+* Puri has received a great many honours for his outstanding contributions to statistics and we mention only a few.
+* In 1975 the Punjab University in India awarded him a D.Sc. Puri twice received the Senior U.S. Scientist Award from the Alexander von Humboldt Foundation in Germany, in 1974 and in 1983.
 
 Born 20 February 1929, Sialkot, India (now Pakistan).
 

@@ -7,10 +7,10 @@ orderid: 1741
 title: Hindenburg, Carl Friedrich
 born: 1741
 died: 1808
-keywords: Carl Friedrich Hindenburg, combinatorial mathematics, quintic equation, incomplete gamma function, gamma function, Die Entwicklung, singular value decomposition, decisiones et observationes, Hindenburg quadric
-description: Carl Friedrich Hindenburg pioneered modern mathematics by solving the quintic equation and developing the gamma, singular value decomposition, and Hindenburg Quadric functions.
+keywords: carl friedrich hindenburg,hindenburg
+description: Carl Friedrich Hindenburg published a series of works on combinatorial mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Carl Friedrich Hindenburg** published a series of works on combinatorial mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Solved the general quintic equation in 1822, becoming the first person to do so.
-2. Discovered the Incomplete Gamma Function and published work on the theory of elliptic integrals.
-3. Pioneered the modern use of the gamma function and its applications to the theory of elliptic integrals.
-4. Published the first volumes of Die Entwicklung der Mathematik (The Development of Mathematics) in 1824, a comprehensive overview of the history of mathematics.
-5. Discovered and developed the singular value decomposition of matrices.
-6. Established a new method of calculating the area of an elliptic integral.
-7. Published Decisiones et Observationes in 1842, a compilation of various essays and papers on mathematical topics.
-8. Developed the concept of the “Hindenburg Quadric” for calculation of transcendental functions.
+* Hindenburg entered the University of Leipzig in 1757 but at this stage his interests were not focused on mathematics, rather he was interested in a wide range of subjects.
+* Christian Fürchtegott Gellert, whose whole career was spent at the University of Leipzig, had been promoted to professor there six years before Hindenburg entered the university.
+* Gellert, who tutored Hindenburg, arranged with him that he should take on the task of accompanying a student named Schönborn through his education.
+* This was an important event for Hindenburg for Schönborn's increasing interest in mathematics took Hindenburg in that direction too.
+* As well as at Leipzig, Schönborn studied at Göttingen and while he was there Hindenburg became a friend of Kästner, who had himself taught at Leipzig earlier in his career.
+* Through this Hindenburg did not neglect his own studies and he was awarded a Master's degree from the University of Leipzig in 1771 and appointed as a Privatdozent there in that year.
+* Even before his appointment as a Privatdozent, Hindenburg had published articles but these were not in mathematics.
+* Hindenburg published a series of works on combinatorial mathematics, in particular probability, series and formulae for higher differentials.
+* Hindenburg hoped for combinatorial operations to have the same importance as those of arithmetic, algebra and analysis but his expectations were not realised.
+* Although essentially forgotten now, Hindenburg's combinatorics was very fashionable 1800 although it is now clear that its importance being much overestimated.
+* It would be too easy to dismiss Hindenburg's combinatorics, however, for they had some important consequences.
+* In 1781 Hindenburg was appointed as professor of philosophy in the University of Leipzig.
+* It was not only for his school of combinatorial analysis that Hindenburg is famous.
 
 Born 13 July 1741, Dresden, Germany. Died 17 March 1808, Leipzig, Germany.
 

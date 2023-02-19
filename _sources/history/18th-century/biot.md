@@ -7,10 +7,10 @@ orderid: 1774
 title: Biot, Jean Baptiste
 born: 1774
 died: 1862
-keywords: Jean-Baptiste Biot, astronomy, elasticity, electricity, magnetism, heat, optics, geometry
-description: Jean-Baptiste Biot was a French mathematician who made important contributions in a variety of fields, such as astronomy, elasticity, electricity, and more.
+keywords: jean-baptiste biot,biot
+description: Jean-Baptiste Biot was a French mathematician who worked in astronomy, elasticity, electricity and magnetism, heat, optics and geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,52 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean-Baptiste Biot** was a French mathematician who worked in astronomy, elasticity, electricity and magnetism, heat, optics and geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the Principle of Convergence and Divergence of Series in 1826.
-2. Discovered that if a sequence of partial sums converges, the limit is independent of the order in which the terms of the series are taken.
-3. Developed a method of determining the location of an earthquake’s epicenter by triangulation based on the arrival times of seismic waves.
-4. Investigated the properties of optical flares and mirages.
-5. Developed an equation to describe the thermal and electrical properties of matter.
-6. Found that the electric current traversing two wires affected the degree of magnetization of a third, interconnected wire.
-7. Discovered that electricity flowing through a wire created a magnetic field around the wire.
-8. Proposed the hypothesis that the Earth is asymmetrical in its distribution of mass.
-9. Wrote the first treatise on the construction of charts of the heavens.
-10. Investigated the mathematical properties of Bessel functions.
+* Jean-Baptiste was educated at the college of Louis-le-Grand in Paris, where he specialised in classics.
+* Joseph Biot then sent his son to Le Havre to become a clerical assistant to a merchant.
+* His job there consisted of copying vast numbers of letters (we have to be thankful for photocopiers!) which bored Biot so much that he volunteered for the army.
+* After the battle Biot, suffering from an illness, decided to leave the army and return to his parents.
+* He took Biot in his carriage to Paris where he (Biot) was arrested as a deserter (he was still in uniform) and brought before a revolutionary committee.
+* This would have had serious consequences for Biot had not the stranger intervened and he was set free.
+* Despite Biot's efforts, he was not able to identify the important stranger and thank him.
+* It took Biot some months to recover from the illness during which time he continued with his studies of mathematics.
+* The École Polytechnique was founded later in 1794 (actually named 'École centrale des travaux publics' for its first year) and Biot transferred there in November of that year.
+* Gaspard Monge, one of the founders of l'École Polytechnique who taught the first intake of students, quickly realised Biot's potential.
+* Biot, however, quickly became involved in student politics and was made a section leader.
+* There was an attempted insurrection by the royalists against the Convention and Biot took part.
+* He had found a patron in Sylvestre-François Lacroix who was highly influential in helping Biot develop his career.
+* It might seems remarkable that even someone as able as Biot could move from being an undergraduate straight into a professorship.
+* Biot got to know of the vacant mathematics professorship through his friendship with Barnabé Brisson, the son of Antoine François Brisson de Beauvais, while studying at l'École Polytechnique.
+* Through Barnabé Brisson, Biot had got to know his sister Gabrielle.
+* Although Gabrielle was only sixteen years old, they married in 1797 soon after Biot took up his position at Beauvais.
+* Biot taught Gabrielle mathematics and physics so that she might translate into French a German text by Ernst Gottfried Fischer.
+* It was Claude Louis Berthollet who had asked Biot to make the translation which was published as Physique mécanique Ⓣ(Mechanical Physics) in 1806.
+* Biot's wife was well educated and fluent in German, so her translation was excellent.
+* However, in line with the practice of the time, the book records Biot himself as the translator rather than his wife.
+* Biot and his wife had a son Édouard Constant Biot who was born in 1803.
+* It was largely through Lacroix that Biot had been appointed at Beauvais and Lacroix advised him frequently through the first years that he worked there.
+* In fact in late 1799 Biot approached Laplace, who had taught him at l'École Polytechnique, and offered to proof-read the Mécanique céleste Ⓣ(Celestial mechanics) which at that time was with the publisher.
+* Biot was, by this time, an entrance examiner at the École Polytechnique so was frequently in Paris.
+* Certainly the effort required by Biot was enormous.
+* Laplace was also interested in the research on mathematics which Biot was undertaking and gave him advice both on the material and on getting it published.
+* In 1800 Biot was elected an associate to the First Class of the Institute, replacing Jean Montucla who died in December 1799.
+* Again Laplace's support was important to Biot in this election.
+* Although Biot had produced excellent mathematics memoirs in the years up to 1800, he had concentrated on experimental physics from that time on.
+* The first balloon ascent made for scientific purposes was by Biot and Joseph-Louis Gay-Lussac from the garden of the Conservatoire des Arts on 24 August 1804.
+* In 1806, again with the support of Laplace, Biot was appointed as an assistant astronomer at the Bureau de Longitudes in addition to his other roles.
+* Biot and Arago must have looked extremely suspicious; two Frenchmen with sophisticated measuring instruments working on Spanish territory.
+* Biot fled back to France immediately.
+* Both Mathieu and Biot received a prize from the Académie des Sciences in 1809 for this highly accurate work, and in 1812 they received a second prize from the Academy for their achievements.
+* In 1809 Biot was appointed Professor of Physical Astronomy at the Faculty of Sciences.
+* Biot studied a wide range of mathematical topics, mostly on the applied mathematics side.
+* Biot, together with Felix Savart, discovered that the intensity of the magnetic field set up by a current flowing through a wire varies inversely with the distance from the wire.
+* This is now known as Biot-Savart's Law and is fundamental to modern electromagnetic theory.
+* Light was the topic on which Biot devoted most time, making the major discovery of the laws of rotary polarization by crystalline bodies.
+* Arago supported the Daguerre photographic process with silver plates while Biot championed an approach with paper soaked in a silver solution as developed by Henry Fox Talbot.
+* Biot also believed that the photographic process should be one reserved for scientific use and not made available for public use.
+* There was a period of collaboration between Biot and Talbot, the two exchanging letters frequently.
+* Basically the photographic process became another tool for Biot to use in his investigations of light which had always been a major interest to him.
+* As well as interests in almost every branch of science, Biot was interested in the history of the subject.
+* In addition to the honours we mentioned above, Biot was also honoured by being made Chevalier of the Legion of Honour in 1814 and Commander in 1849.
 
 Born 21 April 1774, Paris, France. Died 3 February 1862, Paris, France.
 

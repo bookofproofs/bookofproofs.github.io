@@ -7,10 +7,10 @@ orderid: 1522
 title: Ferrari, Lodovico
 born: 1522
 died: 1565
-keywords: Ferrari, Quartic Equation, Cattle Problem, Modular Arithmetic, Euclidean/Non-Euclidean Geometry, Probability Theory, Quintic Equation
-description: Ferrari was an Italian scholar who solved the difficult intractable math problem of the quartic equation and the Cattle Problem of Archimedes, proposed modular arithmetic, studied probabilities, and developed methods of geometric analysis, including Euclidean and non-Euclidean geometry, and the Problem of Apollonius.
+keywords: lodovico ferrari,ferrari
+description: Ferrari was an Italian scholar who started as Cardan's secretary and went on to devise the solution of the quartic equation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ferrari** was an Italian scholar who started as Cardan's secretary and went on to devise the solution of the quartic equation.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered that solutions of the quartic equation could be expressed algebraically.
-2. Solved Archimedes's "Cattle Problem", an intractable math problem that had stumped mathematicians for two thousand years.
-3. Proposed the use of modular arithmetic and congruence as a basis for solving equations.
-4. Published a paper on advanced geometry which demonstrated the importance of understanding Euclidean and non-Euclidean geometries.
-5. Developed methods to solve the Problem of Apollonius, a difficult problem in the study of conic sections.
-6. Initiated the study of probability theory, producing the first modern definition of probability.
-7. Established that in some cases, the quintic equation had solutions expressible by radicals.
-8. Used mathematical notation to represent complex events in his book on probability theory.
-9. Revised the first textbook on analytic geometry with Euclidean and non-Euclidean geometry.
-10. Developed methods of measuring the degree of convergence of irrational numbers.
+* Bartholomew Ferrari had two sons, Vincent Ferrari and Alexander Ferrari, the latter being the father of Lodovico who is the subject of this biography.
+* Initially brought up in his father's house, Lodovico went to live with his uncle Vincent after his father was killed.
+* Vincent Ferrari had a son named Luke, a difficult young man, who decided to run away from home and seek employment.
+* Cardan contacted Vincent Ferrari requesting that he send his son back to continue his employment as a servant in his house.
+* Vincent, however, saw his chance to keep his own son at home and offload the responsibility of supporting his cousin Lodovico, so instead of sending Luke back to Cardan in Milan, he sent Lodovico.
+* Lodovico arrived at Cardan's house on 30 November, a fourteen year old boy ready to take over his cousin Luke's position and become a servant.
+* Ferrari repaid his master by helping him with his manuscripts and, when he was eighteen years old, he began to teach.
+* When Cardan generously resigned his post at the Piatti Foundation in Milan to make way for him in 1541, Ferrari easily defeated Zuanne da Coi, his only rival for the post, in a debate and, at the age of twenty, became a public lecturer in geometry.
+* Cardan and Ferrari made remarkable progress on the foundations that Tartaglia had unwillingly given them.
+* Ferrari discovered the solution of the quartic equation in 1540 with a quite beautiful argument but it relied on the solution of cubic equations so could not be published before the solution of the cubic had been published.
+* Despairing of ever publishing their ground breaking work, Cardan and Ferrari travelled to Bologna to call upon their mathematical colleague, Annibale della Nave, who had been appointed there on the death of Scipione del Ferro.
+* Cardan and Ferrari satisfied della Nave that they could solve the ubiquitous cosa and cube problem, and della Nave showed them in return the papers of the late del Ferro, proving that Tartaglia was not the first to discover the solution of the cubic.
+* Cardan published both the solution to the cubic and Ferrari's solution to the quartic in Ars Magna Ⓣ(The great art) (1545) convinced that he could break his oath since Tartaglia was not the first to solve the cubic.
+* Tartaglia was furious and Ferrari wrote to Tartaglia, berating him mercilessly and challenging him to a public debate.
+* Tartaglia was extremely reluctant to dispute with Ferrari, still a relatively unknown youngster, against whom even a victory would do little material good.
+* Tartaglia wrote back to Ferrari, trying to bring Cardan into the debate.
+* Ferrari and Tartaglia wrote fruitlessly to each other for about a year, trading the most offensive personal insults but achieving little in the way of resolving the dispute.
+* To establish he was the man for the job, Tartaglia was asked to journey to Milan and conclude the contest with Ferrari.
+* Ferrari was confident of success, despite his inexperience in such matters, and brought a large crowd of friends and supporters.
+* He was unwilling to give Ferrari time to respond to his criticisms and when he did, it was Ferrari who got in the more telling blows.
+* Ferrari clearly understood the cubic and quartic equations more thoroughly than his opponent who decided that he would leave Milan that very night and thus leave the contest unresolved, so victory went to Ferrari.
+* On the strength of this challenge, Ferrari's fame soared and he was inundated with offers of employment, including a request from the emperor himself, who wanted a tutor for his son.
+* Ferrari fancied a more financially rewarding position though, and took up an appointment as tax assessor to the governor of Milan, Ferrando Gonzaga.
+* He moved back to his home town of Bologna where he lived with his widowed sister Maddalena, and was called to a professorship of mathematics at the University of Bologna in 1565 but, sadly, Ferrari died later that year.
+* Certainly, according to Cardan, Maddalena refused to grieve at her brother's funeral and, having inherited Ferrari's fortune, she remarried two weeks later.
 
 Born 2 February 1522, Bologna, Papal States (now Italy). Died 5 October 1565, Bologna, Papal States (now Italy).
 

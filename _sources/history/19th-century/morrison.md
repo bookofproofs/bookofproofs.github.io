@@ -7,10 +7,10 @@ orderid: 1863
 title: Morrison, John Todd
 born: 1863
 died: 1944
-keywords: Morrison, Physics, South Africa, Fields Medal, Wolf Prize, Algebraic Geometry, Hodge Structures
-description: John Morrison, a Professor of Physics in South Africa, was awarded the Fields Medal, Wolf Prize and Clay Research Award for his work in Algebraic Geometry, Hodge Structures and Physics.
+keywords: john morrison,morrison
+description: John Morrison was appointed Professor of Physics at Victoria College Stellenbosch in South Africa. He did important work on the magnetic survey of South Africa.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Morrison** was appointed Professor of Physics at Victoria College Stellenbosch in South Africa. He did important work on the magnetic survey of South Africa.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the prestigious Fields Medal in 1998 in recognition of his contributions to algebraic geometry.
-2. Developed the Morrison–Walker construction, a breakthrough mathematical model of how elementary particles are formed.
-3. Won the Wolf Prize in Mathematics in 2001 for his work in algebraic theory and algebraic geometry.
-4. Published several influential papers on the algebraic theory of curves and surfaces, algebraic geometry and related fields. 
-5. Received the Clay Research Award and put forward the Morrison conjecture in 1994. 
-6. Presented a solution to a major open problem in algebraic geometry, the Schottky problem, at the International Mathematical Congress in 2006.
-7. Contributed significantly to the development of non-Archimedean Hodge theory. 
-8. Established the concept of degeneration of algebraic surfaces. 
-9. Authored a renowned graduate-level text book on algebraic geometry, “Variations of Hodge Structures”. 
-10. Developed a powerful mathematical tool, the stretching technique, to study complex algebraic varieties.
+* John Morrison had an older brother Andrew (born about 1861) and three younger siblings: James (born about 1865), Annie (born about 1868) and William (born about 1869).
+* John Morrison began his schooling in Perthshire at Muthill F.C. School, spending seven years at this school, but attended George Watson's College, Edinburgh, for three years before matriculating at the University of Edinburgh.
+* Morrison left Edinburgh University before completing his B.Sc., taking up a position in physics at Heriot-Watt College, Edinburgh, in 1886.
+* In 1901, in conjunction with John Beattie, Morrison began the study of the magnetic elements as recorded at the Cape of Good Hope, and they were led on to their magnetic survey of South Africa.
+* Morrison retired in 1934.
+* The Edinburgh Mathematical Society was founded in February 1883 and Morrison was one of the founder members although he was only an Edinburgh undergraduate at the time.
+* Stellenbosch University awards the John Todd Morrison Research Medal, which was donated by Mrs J T Morrison, John Todd Morrison's wife.
 
 Born 7 February 1863, Muthill, Perthshire, Scotland. Died 24 October 1944, Stellenbosch, Cape Colony, South Africa.
 

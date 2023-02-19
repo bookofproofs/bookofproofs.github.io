@@ -7,10 +7,10 @@ orderid: 1934
 title: Browder (2), William
 born: 1934
 died: 0
-keywords: William Browder, algebraic topology, differential topology, differential geometry, investing, risk, returns
-description: Mathematical genius William Browder developed sophisticated models to analyze risk, secured billions in investments, and established systems to forecast trends for optimal returns.
+keywords: william browder,browder
+description: William Browder is an American mathematician, specialising in algebraic topology, differential topology and differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Browder** is an American mathematician, specialising in algebraic topology, differential topology and differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the use of sophisticated mathematical models to analyze risk in investing.
-2. Secured over $4.5 billion in investments with his mathematical models.
-3. Developed various strategies to identify hidden sources of value in investments.
-4. Adapted his mathematical models to identify price discrepancies in markets and exploit them for maximum return. 
-5. Developed innovative strategies to manage investments across multiple asset classes.
-6. Used mathematical principles to establish a system to forecast trends in various asset classes.
-7. Adjusted his mathematical models to adjust risk and maximize returns in various markets.
-8. Published mathematical theories to explain how the markets work and how to best manage investments.
+* William was the youngest of his parents' three children; the two older are Felix Browder (who has a biography in this archive) and Andrew Browder.
+* All three boys have become leading mathematicians and so we should begin by giving some details of their parents Earl and Raissa Browder.
+* Earl Browder (1891-1973), the eighth of ten children, was educated at home in Wichita by his unemployed schoolteacher father William Browder and from him received his first Socialist teachings.
+* Earl Browder had married in 1911 but was separated from his wife.
+* Earl Browder returned to the United States in 1929 but Raissa remained in Moscow until 1933.
+* For the next sixteen years the Browders waged a legal battle to prevent her deportation.
+* In 1934 their third son, William Browder (the subject of this biography), was born in New York City.
+* This convinced Browder that his talents were in mathematics rather than physics so, after graduating with a B.S. from MIT in 1954, he began graduate studies in mathematics at Princeton University.
+* Browder was appointed as an Instructor in Mathematics at the University of Rochester in 1957.
+* Browder received a Ph.D. from Princeton in 1958 for his thesis Homology of Loop Spaces.
+* Frank Adams calls this last mentioned paper "a remarkable study in the homology of H-spaces." Browder was promoted from Assistant Professor to Associate Professor at Cornell University in 1961.
+* Browder was one of the inventors of surgery theory, which unifies methods and techniques from several branches of topology and applies them to the classification of high-dimensional manifolds.
+* Browder published the book Surgery on simply-connected manifolds in 1972.
+* Browder has given remarkable service to the American Mathematical Society over many years.
+* Beginning with the historical roots of these questions, Browder concentrated on familiar examples such as the sphere, the nnn-sphere, or a product of spheres of different dimensions.
+* In addition to his work for the American Mathematical Society, Browder has contributed to the mathematical scene in many other ways.
+* Browder has received (and continues to receive) honours for his outstanding contributions.
+* The American Mathematical Society held a Special Session on Homotopy Theory at their Spring Meeting in Lawrenceville in April 2004 in honour of Browder's 70th  birthday.
+* Let us end this biography by quoting Browder's Statement when standing for the Nominating Committee of the American Mathematical Society in 1998.
 
 Born 6 January 1934, New York City, New York, USA.
 

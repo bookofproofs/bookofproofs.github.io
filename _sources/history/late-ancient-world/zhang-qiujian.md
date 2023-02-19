@@ -7,10 +7,10 @@ orderid: 430
 title: Qiujian, Zhang
 born: 430
 died: 490
-keywords: Zhang Qiujian, Mathematics, Computer Science, Algebraic Coding, Linear System, Algorithm, Prize
-description: Chinese mathematician Zhang Qiujian wrote the book 'Mathematical Foundation of Computer Science' and contributed to Algebraic Coding, Linear System, and Algorithms to win the National Natural Science Prize.
+keywords: zhang qiujian,qiujian
+description: Zhang Qiujian was a Chinese mathematician who wrote the text Zhang Qiujian suanjing (Zhang Qiujian's Mathematical Manual).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zhang Qiujian** was a Chinese mathematician who wrote the text _Zhang Qiujian suanjing_ (Zhang Qiujian's Mathematical Manual).
 
 ### Mathematical Profile (Excerpt):
-1. Published a book titled 'Mathematical Foundation of Computer Science', which has been widely adopted as a reference.
-2. Revised the Chinese National Junior High School Mathematics Textbook.
-3. Established the mathematical theory of incomplete parallel computer systems.
-4. Developed the theory of algebraic coding, an important branch of algebraic cryptography systems.
-5. Proposed a new method for solving linear infinite-dimensional equation system.
-6. Proposed an improved method for gauss elimination and matrix inversion.
-7. Applied the theory of game on the area of optimal control.
-8. Developed a general theory of multiple algorithms in linear programming and the corresponding algorithms. 
-9. Invented a generic algorithm for evaluating the approximate solution of linear programming.
-10. Won the National Natural Science Prize.
+* Zhang Qiujian wrote his mathematical text Zhang Qiujian suanjing (Zhang Qiujian's Mathematical Manual) some time between 468 and 486.
+* No other work by Zhang Qiujian is known, and nothing about its author is known.
+* although the dats we give are based on the best available evidence, some authors place Zhang Qiujian 100 years earlier than we have done.
+* In particular Zhang sees the reduction of fractions to a common denominator as hard.
+* The method Zhang gives is to find the greatest common divisor of 150, 120 and 90.
+* Zhang gives the solution by solving a quadratic equation, but his formulae are not particularly accurate.
+* The method Zhang uses is essentially Gaussian elimination on the matrix of coefficients.
+* Zhang gives three possible answers.
+* These are all the possible answers (one would not expect Zhang to come up with 0 cockerels, 25 hens and 75 chickens).
+* We do not know if Zhang had a systematic method to solve problems of this type or whether he solved them by trial and error.
+* In 656, after editing by Li Chunfeng, the treatise Zhang Qiujian suanjing (Zhang Qiujian's Mathematical Manual) became a text for the Imperial examinations and it became one of The Ten Classics when reprinted in 1084.
+* Can we say anything about Zhang himself?
+* Examples are well chosen to illustrate what Zhang is trying to teach rather than for particularly practical purposes.
+* We can certainly deduce that Zhang was a fine teacher and may well have had experience in teaching, to be able to write with so much knowledge of how students learn.
 
 Born about 430, China. Died about 490, China.
 

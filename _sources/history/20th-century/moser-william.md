@@ -7,10 +7,10 @@ orderid: 1927
 title: Moser (2), William
 born: 1927
 died: 2009
-keywords: William Moser, American Mathematical Society, Calculus, Mathematics, Differential Geometry, Harvard, MIT
-description: William Moser founded the American Mathematical Society, pioneered Calculus teaching in the US, authored books and numerous papers, and made contributions to mathematics, differential geometry, and Harvard and MIT.
+keywords: william moser,moser
+description: William Moser was a Canadian mathematician who worked in combinatorial geometry and group theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **William Moser** was a Canadian mathematician who worked in combinatorial geometry and group theory.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the American Mathematical Society in 1888.
-2. Became president of the American Mathematical Society in 1895.
-3. Pioneered the teaching of calculus in the United States.
-4. Published numerous papers in important mathematical journals.
-5. Authored the book An Elementary Treatise on Calculus.
-6. Co-founded the Society for the Promotion of Science and the Arts.
-7. Developed techniques for solving linear systems of equations and first-order differential equations.
-8. Contributed to the development of differential geometry.
-9. Received the Honorary Doctorate of Science from Harvard University in 1925.
-10. Served as the Head of the Department of Mathematics at the Massachusetts Institute of Technology from 1888 to 1901.
+* His parents were Laura Feurstein and Robert Moser from Austria.
+* Moser entered the University of Manitoba, following the career path of Leo, and graduated with a B.Sc. in 1949.
+* Moser then did a Master's degree at the University of Minnesota, being awarded an M.A. in 1951.
+* On 2 September 1953, Moser married Beryl Rita Pearlman; they had three children Marla, Lionel, and Paula.
+* In fact this thesis was a major component in the classic text Generators and relations for discrete groups jointly authored by Donald Coxeter and Willy Moser and published by Springer-Verlag in Berlin-Göttingen-Heidelberg in 1957.
+* See Coxeter-Moser Preface for a complete version of the Preface.
+* The second publication by Moser On the number of ordinary lines determined by n points was again of major significance.
+* We note in passing that Moser published a joint paper with Peter Borwein in 1990 A survey of Sylvester's problem and its generalizations  which looks at developments.
+* In 1959 Moser returned to the University of Manitoba, where he had studied as an undergraduate, being appointed an Associate Professor.
+* In order to promote his specialty, Moser became involved in the teaching of high school mathematics teachers, making films about geometry, organizing mathematical competitions and collecting and disseminating competition problems.
+* Moser published a fine collection of combinatorics papers jointly with Morton Abramson: A note on combinations (1966); Combinations, successions and the n-kings problem (1966); Permutations without rising or falling w-sequences (1967); Enumeration of combinations with restricted differences and cospan (1969); Generalizations of Terquem's problem (1969); The problem of the second seating and generalizations (1972); Arrays with fixed row and column sums (1973); and Linear and ring arrangements (1976).
+* Finally we must say something about Moser's remarkable contributions in publishing surveys of problems in discrete geometry in both books and articles.
+* In 1989 the First Canadian Conference on Computational Geometry was held in Montreal and Moser presided over the two problem sessions publishing Problems, problems, problems  in the conference proceedings.
+* This interest in problems in discrete geometry culminated in 2005 with the publication of a 500 page book Research problems in discrete geometry published jointly by Moser, Peter Brass and János Pach.
+* Colin Campbell, who has been our colleague at St Andrews for forty years, studied for a Master's Degree at McGill University under Moser's supervision during 1964-65.
+* It gave me an opportunity to visit the Guthrie theatre in Minneapolis, encouraged by Moser who is a great enthusiast for the theatre.
+* A few years later Moser supervised a second Master's student with the name of Campbell, namely Harvey A Campbell, on a similar topic.
+* In March 2003 Moser was interviewed by Siobhan Roberts who was working on her major work on Coxeter King of Infinite space.
+* Moser's opportunity came at the end of Coxeter's 1955 summer of roving lectures, after his session in Stillwater, at Oklahoma State University.
+* Moser drove down to meet Coxeter and serve as his assistant, taking detailed notes of the well-polished lectures.
+* "At the end of the summer we drove north, to civilisation," said Moser wryly.
+* We end this biography of Willy Moser by quoting his words from his address to the Canadian Mathematical Society at the time he received its Distinguished Service Award in 2003.
 
 Born 5 September 1927, Winnipeg, Canada. Died 28 January 2009, Montreal, Canada.
 

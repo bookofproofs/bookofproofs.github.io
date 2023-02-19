@@ -7,10 +7,10 @@ orderid: 1915
 title: Kelly, Paul Joseph
 born: 1915
 died: 1995
-keywords: Paul Kelly, mathematician, geometry, graph theory, textbooks, algorithms, MathFest
-description: Paul Kelly, American mathematician, wrote several textbooks on various mathematics topics, wrote multiple algorithms, and founded MathFest - a convention for teachers and researchers.
+keywords: paul kelly,kelly
+description: Paul Kelly was an American mathematician who worked in geometry and graph theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Paul Kelly** was an American mathematician who worked in geometry and graph theory.
 
 ### Mathematical Profile (Excerpt):
-1. An author of several textbooks on mathematical topics such as combinatorics and graph theory, including "Graphs, Digraphs and Matrices" (1994) and "The Art of Counting" (1998).
-2. Spearheaded the development of a new course in vector and matrix algebra at the University of Chicago.
-3. Developed a method of graph partitioning that allows for the efficient analysis of data sets.
-4. Co-founded the Mathematical Olympiad organization.
-5. Founded the Midwest Graph Theory Conference, which has been successful in bringing the mathematical community together and encouraging the exchange of ideas.
-6. Co-authored the book “Applied Math and Computation” (2001), which presents novel approaches to difficult problems.
-7. Developed an algorithm for drawing graphs with the minimum cost within a given time frame.
-8. Devised a system for simulating how certain variables affect a mathematical model.
-9. Led numerous mathematical workshops for high school and college students.
-10. Created the MathFest, a convention for teachers and researchers from various disciplines where participants share ideas and collaborate on research projects.
+* Kelly became Chairman of the Mathematics department at Santa Barbara in 1957.
+* Kelly retired in 1982.
+* Let us look briefly at some of the Kelly's mathematical papers, which were mainly on topics in geometry and graph theory, and at his books.
+* In this paper Kelly proved the conjecture for the case of certain isometries of a class of finite metric spaces.
+* Kelly showed that this theorem went over to entire subsets of Minkowski nnn-space.
+* Examples of papers by Kelly on graph theory are A congruence theorem for trees published in the Pacific Journal in 1957, On some mappings related to graphs published in the same journal in 1964, and The minimal regular graph containing a given graph co-authored with Paul Erdős and published in 1967.
+* We mention three texts written by Kelly, each with a different co-author.
+* Kelly's 1979 text Geometry and convexity was written jointly with Max L Weiss.
+* The third text we mention is The non-Euclidean, hyperbolic plane : Its structure and consistency which Kelly wrote jointly with Gordon Matthews and published in 1981.
+* Paul Kelly had a wonderful sense of language, the comic, the human tragi-comic condition, and the crucial role of timing in any enterprise.
+* Paul was also a sports enthusiast who wished he'd been big enough to play football.
+* Any collection of memories about Paul would be incomplete without a mention of his love of particular music, musicians, and works of art.
 
 Born 26 June 1915, Riverside, California, USA. Died 15 July 1995, Santa Barbara, California, USA.
 

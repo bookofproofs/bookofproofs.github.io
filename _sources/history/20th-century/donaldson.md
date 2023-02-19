@@ -7,10 +7,10 @@ orderid: 1957
 title: Donaldson, Simon Kirwan
 born: 1957
 died: 0
-keywords: Fields Medal, Crafoord Prize, 4-manifolds, Differentiable Geometry, Topology, Seiberg-Witten, International Mathematical Union
-description: Simon Donaldson: English mathematician who made groundbreaking contributions to Geometry, Topology and Mathematical Physics, receiving major awards, teaching at universities & serving as President of IMU.
+keywords: simon donaldson,donaldson
+description: Simon Donaldson is an English mathematician who received a Fields Medal for his work on 4 dimensional manifolds.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Simon Donaldson** is an English mathematician who received a Fields Medal for his work on 4 dimensional manifolds.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Fields Medal in 1986 for his contributions to the study of topology, geometry and gauge theory. 
-2. Received the Crafoord Prize in 2008, which is annually granted by the Royal Swedish Academy of Sciences, for his work in 4-dimensional topology. 
-3. Made major breakthroughs in understanding the properties of 4-manifolds, by constructing differentiable structures on them.
-4. His research has introduced new techniques and theories to modern mathematics and had a major impact on the field of differentiable geometry and topology. 
-5. Made contributions to Seiberg-Witten theory, a branch of mathematical physics. 
-6. Received the Breakthrough Prize in Mathematics in 2014 for his decades of work on Geometry and Topology. 
-7. Has served as a professor at the Imperial College London and Stony Brook University. 
-8. Was appointed as the President of the International Mathematical Union in 2018.
+* In 1980 Donaldson began postgraduate work at Worcester College, Oxford, first under Nigel Hitchen's supervision and later under Atiyah's supervision.
+* This result was published by Donaldson in a paper Self-dual connections and the topology of smooth 4-manifolds which appeared in the Bulletin of the American Mathematical Society in 1983.
+* Donaldson has received many honours for his work.
+* In 1991 Donaldson received the  William Hopkins Prize from the Cambridge Philosophical Society  and, the following year, the Royal Medal from the Royal Society.
+* Slowly the message has gotten across and now Donaldson's ideas are beginning to be used by others in a variety of ways.
+* Donaldson has opened up an entirely new area; unexpected and mysterious phenomena about the geometry of 4-dimensions have been discovered.
+* Donaldson was elected to the National Academy of Sciences in 2000.
+* In 2009 Donaldson, together with Clifford H Taubes, was awarded the Shaw Prize in Mathematical Sciences.
+* Donaldson was knighted in 2012.
 
 Born 20 August 1957, Cambridge, England.
 

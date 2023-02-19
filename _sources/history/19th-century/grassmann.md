@@ -7,10 +7,10 @@ orderid: 1809
 title: Grassmann, Hermann Günter
 born: 1809
 died: 1877
-keywords: Hermann Grassmann, vector/linear spaces, calculus, integration/differentiation, exterior differential forms, Grassmann algebra, associative algebra
-description: Hermann Grassmann developed a comprehensive theory of multi-dimensional vector/linear spaces and a calculus for their manipulation; he also derived several geometric formulas for integration/differentiation and established the principle of Grassmann algebra.
+keywords: hermann grassmann,grassmann
+description: Hermann Grassmann is chiefly remembered for his development of a general calculus for vectors.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,44 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hermann Grassmann** is chiefly remembered for his development of a general calculus for vectors.
 
 ### Mathematical Profile (Excerpt):
-1. Developed comprehensive theory of multi-dimensional vector spaces.
-2. Developed a calculus for mechanism that can represent higher dimensions.
-3. Derived several geometric formulas for integration and differentiation.
-4. Developed the theory of exterior differential forms.
-5. Established the principle of Grassmann algebra for vector and linear spaces.
-6. Established Grassmann's Law of extension, a formula relating deviations from linearity to the covariance of two variables in a linear algebra equation.
-7. Developed a new system of logic that extended Boole and Schlick's work, using the principles of multidimensional vector space.
-8. Discovered the principle of associative algebra, relating the operations of addition and multiplication.
-9. Explored non-Euclidean geometry and its implications within the linear algebraic systems.
-10. Investigated the properties of curvature and derived formulas that have since been applied to physics, architecture and engineering.
+* Johanne and Justus had twelve children, Hermann being their third child.
+* Hermann's brother Robert also became a mathematician and the two collaborated on many projects.
+* When Hermann was young he was taught by his mother, who was a well educated woman.
+* Most of the mathematicians in this archive impressed their teachers from a young age, but surprisingly, despite having excellent educational opportunities in an educationally minded family, Hermann did not excel during his first few years at the Gymnasium.
+* Hermann did find pleasure in music and learnt to play the piano.
+* Having proved himself at least a very competent scholar, Hermann decided that he would study theology, and he went to Berlin in 1827 with his eldest brother to study at the University of Berlin.
+* In the Foreword of his Die Lineale Ausdehnungslehre, ein neuer Zweig der Mathematik Ⓣ(Linear extension theory, a new branch of mathematics) (1844) Grassmann described how he was led to these ideas starting around 1832.
+* In 1834 Grassmann took the theology examinations, at level one, set by the Lutheran Church Council of Stettin but although this might have been his first step towards becoming a minister in the Lutheran Church, instead he went to Berlin in the autumn of that year to take up an appointment as a mathematics teacher at the Gewerbeschule.
+* Grassmann only spent a year at the Gewerbeschule before a new opportunity arose back in his home town of Stettin.
+* A new school, the Otto Schule, had just opened and Grassmann was appointed to teach mathematics, physics, German, Latin, and religious studies.
+* Over the next four years Grassmann took his teaching very seriously, yet he was able to find time to devote to mathematical research as well as concentrating on preparing himself for further examinations.
+* In fact the examinations that Grassmann took in 1840 were significant for him in another way.
+* Although his essay was accepted by the examiners they totally failed to see the importance of the innovations which Grassmann had introduced.
+* On the other hand it had shown Grassmann that his theory was widely applicable and he decided to spend as much time as he could spare on further developing his ideas on vector spaces.
+* Of course Grassmann could not devote too much time to research since he was a dedicated teacher who wanted to put considerable effort into doing that job to the very best of his ability.
+* He represented subspaces of a space by coordinates leading to point mapping of an algebraic manifold now called the Grassmannian.
+* Grassmann also realised that once geometry is put into this algebraic form then the apparent restrictions of 3-dimensional space vanish.
+* Grassmann invented what is now called exterior algebra.
+* Clifford algebras appear together with Grassmann's exterior algebra in differential geometry.
+* Möbius did not understand the significance of Grassmann's approach and declined to write a review.
+* Grassmann, however, went on to apply his new concepts to other situations, feeling that once people saw how the theory could be applied they would take it seriously.
+* Grassmann submitted Die Geometrische Analyse geknüpft und die von Leibniz Characteristik Ⓣ(Geometric analysis and of Leibniz's characteristc) which received the award on 1 July 1846.
+* However, it was not all good news for Grassmann since his was the only entry and Möbius, who was one of the judges, criticised the way that Grassmann introduced abstract ideas without providing the reader with an intuitive hook on which to hang them.
+* Grassmann felt somewhat aggrieved that he was producing highly innovative mathematics which he felt was important yet he was still teaching in secondary schools.
+* Kummer's report ended any hopes that Grassmann might have had to obtain a university post.
+* It is interesting to see just how many leading mathematicians failed to recognise that the mathematics Grassmann presented would become the basic foundation of the subject in 100 years time.
+* During this revolutionary period of 1848-49 Grassmann, together with his brother Robert, published a political weekly newspaper.
+* After writing a series of articles on constitutional law, Grassmann became increasingly at odds with the political direction the newspaper was going and withdrew form it.
+* One of their sons, Hermann Ernst Grassmann, received a doctorate in 1893 for his thesis Anwendung der Ausdehnungslehre auf die Allgemeine Theorie der Raumkurven und Krummen Flächen Ⓣ(Application of the theory of extension to the general theory of space curves and Krummen surfaces)  written under Albert Wangerin's supervision at the University of Halle-Wittenberg.
+* In March 1852 Grassmann's father Justus died and later that year Grassmann was appointed to fill his father's former position at Stettin Gymnasium.
+* It is worth noting that two of Grassmann's sons, Justus and Max, eventually became teachers at Stettin Gymnasium.
+* Having failed to gain recognition for his mathematics, Grassmann turned to one of his other favourite subjects, the study of Sanskrit and Gothic.
+* But Grassmann also studied problems in physics, in particular publishing a theory of the mixing of colours in 1853 which contradicted that proposed by Helmholtz.
+* In fact, despite writing a work which appears to us today to be in the style of a modern textbook, Grassmann failed to convince mathematicians of his own time.
+* Certainly the book Die Ausdehnungslehre: Vollständig und in strenger Form bearbeitet Ⓣ(Linear extension theory: fully processed in strict form)  published by Grassmann in 1862 fared no better that the first version of 1844.
+* Grassmann died of heart problems after a period of slowly failing health.
+* Grassmann's mathematical methods were slow to be adopted but eventually they inspired the work of Élie Cartan and have since been used in studying differential forms and their application to analysis and geometry.
+* Much of Peano's contributions were, as he acknowledges himself, based on the ideas of Grassmann.
 
 Born 15 April 1809, Stettin, Prussia (now Szczecin, Poland). Died 26 September 1877, Stettin, Germany (now Szczecin, Poland).
 

@@ -7,10 +7,10 @@ orderid: 1908
 title: Lazzerini, Guacolda
 born: 1908
 died: 2015
-keywords: Mathematics Teacher, Chile, Algebraic Geometry, Geometric Topology, Applied Algebraic Geometry, Partial Differential Equations, Awards
-description: Guacolda Antoine Lazzerini was an acclaimed mathematics teacher in Chile, making major advances in algebraic geometry, geometric topology and more. Accolades include multiple awards.
+keywords: guacolda lazzerini,lazzerini
+description: Guacolda Antoine Lazzerini was a mathematics teacher at both school and university level in Chile. She made many contributions to the development of education in Chile during her long active life.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,17 +22,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Guacolda Antoine Lazzerini **was a mathematics teacher at both school and university level in Chile. She made many contributions to the development of education in Chile during her long active life.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Established a new research program supported by the Chilean National Science Foundation, which studied mathematical problems in mathematical physics, algebraic geometry and analysis. 
-2. Developed global concepts relating to algebraic geometry, geometric topology and applied algebraic geometry. 
-3. Developed computer algorithms to solve problems related to algebraic geometry and analysis. 
-4. Researched new methods for solving partial differential equations. 
-5. Developed new numerical algorithms for solving mathematical problems. 
-6. Published numerous papers and book chapters on topics such as algebraic curves, geometric topology and singularity theory. 
-7. Received multiple awards for her contributions to the fields of mathematics and education, including the Chilean Innovation Award, the Chilean Mathematics Association Award, and the Rocca Prize for Contributions to Mathematical Understanding.
+* Guacolda, the subject of this biography, was their first child born in 1908.
+* She was named Guacolda since her father wanted to emphasise that she was Chilean; Guacolda is a name from Mapuche mythology.
 
 Born 11 April 1908, Santiago de Chile, Chile. Died 22 August 2015, Santiago de Chile, Chile.
 

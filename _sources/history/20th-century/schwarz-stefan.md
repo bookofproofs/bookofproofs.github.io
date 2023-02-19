@@ -7,10 +7,10 @@ orderid: 1914
 title: Schwarz (2), Stefan
 born: 1914
 died: 1996
-keywords: semigroups, number theory, finite fields, three-body, Schwarz–Christoffel, Hausdorff distance, conformal mappings
-description: Stefan Schwarz was a Slovakian mathematician who developed theories in semigroups, number theory, finite fields, and other complex areas, leading to deeper understanding of planetary orbits and conformal mappings.
+keywords: stefan schwarz,schwarz
+description: Stefan Schwarz was a Slovakian mathematician who worked in semigroups, number theory and finite fields.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Stefan Schwarz** was a Slovakian mathematician who worked in semigroups, number theory and finite fields.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a numerical algorithm for solving the three-body problem in celestial mechanics, which led to a deeper understanding of the stability of planetary orbits.
-2. Developed the Schwarz–Christoffel Theory of Polygons, which is used for mapping conformal transformations of polygons.
-3. Introduced the concept of Hausdorff distance as a tool for measuring the similarity of two metric spaces.
-4. Established a mathematical theory of branched coverings of Riemann surfaces, providing a description of how different configurations of sheets can arise from a single sheet.
-5. Proposed a refinement of the Schwarz integral formula for analytic functions.
-6. Researched into the relationship between conformal mappings, meromorphic functions and the theory of linear systems, leading to the establishment of a constructive approach to conformal representation of surfaces by piecewise regular functions.
-7. Developed theories on the invariants of certain integro-differential equations which have applications in mathematical physics.
+* Schwarz stayed at the Charles University after his undergraduate studies to work for his doctorate under the supervision of Karel Petr.
+* Schwarz submitted his doctoral thesis On the reducibility of polynomials over finite fields in 1937.
+* Schwarz knew that as a Jew his life would be in danger if he remained in Prague until the Nazis arrived so, immediately after Bohemia and Moravia were occupied, Schwarz left Prague and returned to Slovakia where he felt more safe.
+* Many were sent to concentration camps and, in November 1944, Schwarz was betrayed to the SS by some local informers.
+* Many of the remainder were transferred to other camps and indeed Schwarz was transferred to Buchenwald, a camp which complemented the Sachsenhausen concentration camp.
+* In April 1945, when Schwarz was near death, Buchenwald camp was liberated and his life was saved.
+* Schwarz's two sisters did not survive the war however, one dying in the concentration camp at Auschwitz and the other in Bergen-Belsen camp.
+* Despite his horrific experiences during the war, Schwarz quickly began to devote his energies to rebuilding the education system in his country.
+* in his dissertation Schwarz considered reducibility of polynomials over finite fields.
+* In addition to his work on semigroups, number theory and finite fields, Schwarz contributed to the theory of non-negative and Boolean matrices.
+* Schwarz organised the first International Conference on Semigroups in 1968.
+* At this conference setting up the journal Semigroup Forum was discussed and Schwarz became an editor from Volume 1 which appeared in 1970, continuing as editor until 1982.
+* Among the many honours which were awarded to Schwarz there were memberships of the Czechoslovak Academy of Sciences in 1952 and the Slovak Academy of Sciences in 1953.
+* Schwarz was awarded the 1980 National Prize of the Slovak Socialist Republic.
+* Schwarz had a fine reputation as a teacher and was very well liked by his students who appreciated the help and guidance he gave them.
 
 Born 18 May 1914, Nové Mesto nad Váhom, Austria-Hungarian Empire (now Slovakia). Died 6 December 1996, Bratislava, Slovak Republic.
 

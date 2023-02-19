@@ -7,10 +7,10 @@ orderid: 1894
 title: Chebotaryov, Nikolai Grigorievich
 born: 1894
 died: 1947
-keywords: Chebotaryov, Dirichlet, convex functions, nonlinear equations, calculus variations, Banach spaces, Riesz
-description: Nikolai Chebotaryov proved Dirichlet's theorem on prime numbers, developed unique convex functions, solved nonlinear equations, found solutions in calculus of variations, advanced Banach spaces, solved the Kneser-Moser problem and proved the Riesz conjecture.
+keywords: nikolai chebotaryov,chebotaryov
+description: Nikolai Chebotaryov proved his density theorem generalising Dirichlet's theorem on primes in an arithmetical progression.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nikolai Chebotaryov** proved his density theorem generalising Dirichlet's theorem on primes in an arithmetical progression.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first rigorous proof of the uniqueness theorem of convex functions.
-2. Developed a method of solving nonlinear algebraic equations, later called the Chebotaryov method.
-3. Established the method of nonlinear integral equations and developed its applications.
-4. Investigated the theory of best approximation of linear operations in a normed linear space.
-5. Discovered the Chebotaryov theorem, which states that the surjective isomorphism between Banach algebras is continuous.
-6. Led the solution of The Kneser-Moser problem in combinatorial geometry. 
-7. Demonstrated the existence of adequate solutions in a variety of problems of the calculus of variations.
-8. Discovered a method of nonlinear approximations which provided a solution of certain problems of the calculus of variations. 
-9. Advanced the theory of Banach spaces and developed its applications to the theory of linear operators and equations. 
-10. Proved F. Riesz's conjecture concerning the relationship between the Hausdorff-Young theorem and the Bohnenblust-Hille inequality.
+* His mother was a strong influence on his education and her lack of knowledge of mathematics seems to have been one of the main reasons that Nikolai went in that direction.
+* Nikolai entered the University of Kiev in 1912 where he became a student of Grave.
+* In this same year, 1922, Nikolai was to prove the theorem for which he is best known, the density theorem, which had been conjectured by Frobenius in a paper written in 1880 but only published in 1896.
+* By 1924 Nikolai had a permanent job in Moscow but he had been appointed to the post Egorov had been dismissed from for political reasons.
+* It was an unhappy situation and Chebotaryov resigned after a few months.
+* Chebotaryov received his doctorate from the Ukrainian Academy of Sciences with a doctoral thesis based on his 1922 result, the density theorem.
+* Chebotaryov worked on the algebra of polynomials, in particular examining the distribution of the zeros.
 
 Born 15 June 1894, Kamianets-Podilskyi, Ukraine. Died 2 July 1947, Moscow, USSR.
 

@@ -7,10 +7,10 @@ orderid: 1936
 title: Eckert (3), Wallace John
 born: 1936
 died: 0
-keywords: Terry Wall, algebraic topology, Walls-Sturm sequence, moduli spaces, mathematical modelling, research, teaching, Bergman Prize
-description: Terry Wall: English mathematician, developed Walls-Sturm sequence & Wall Theory of Moduli spaces, authored research, teaching, awarded Bergman Prize.
+keywords: terry wall,eckert
+description: Terry Wall is an English mathematician who has made important contributions to algebraic and differential topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Terry Wall** is an English mathematician who has made important contributions to algebraic and differential topology.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the development of a novel approach to mathematical modelling, which has been successfully applied to a number of real-world applications.
-2. Conceived and developed the Walls-Sturm sequence and conjectured the existence of infinitely many Walls-Sturm polynomials.
-3. Developed the "Wall Theory of Moduli Spaces" which provides a framework for understanding the space of algebraic curves of a given type.
-4. Authored and co-authored numerous research papers on mathematical modelling and related topics, as well as several books on the same.
-5. Actively participated in and contributed to numerous conferences, workshops and seminars related to mathematical modelling and related topics.
-6. Worked with colleagues to develop teaching resources and participate in outreach activities related to mathematics. 
-7. Awarded the Mathematical Association of America's Bergman Prize and invited to join the Society for Industrial and Applied Mathematics and the London Mathematical Society.
+* Terry Wall attended Marlborough College.
+* Wall had already been awarded a fellowship at Trinity College in 1959 before the award of his doctorate and he held this fellowship until 1964.
+* In addition to his fellowship, Wall was appointed a College Lecturer at Cambridge when he returned from the United States in 1961.
+* In 1964 Wall moved from Cambridge to Oxford where he was appointed Reader in Mathematics and a fellow of St Catherine's College.
+* Wall's research is mostly in the area of geometric topology and related algebra.
+* In 1995 Wall published The geometry of topological stability written jointly with A A du Plessis.
+* Wall's work has led to him receiving many awards.
+* In 1990 Wall was elected a foreign member of the Royal Danish Academy of Sciences.
+* Wall retired in 1999 and was made Emeritus Professor at the University of Liverpool.
+* Retirement certainly did not mean that Wall was less in demand as a plenary speaker at international conferences.
+* Wall continues to publish important research articles, and an outstanding book Singular points of plane curves in 2004.
+* Outside mathematics Wall has many interests including home wine making, reading, gardening, walking and an interest in politics which has seen him as treasurer of the Wirral Area SDP from 1985 to 1988.
 
 Born 14 December 1936, Bristol, England.
 

@@ -7,10 +7,10 @@ orderid: 1824
 title: Allman, George Johnston
 born: 1824
 died: 1904
-keywords: George Allman, mathematics, algebraic invariant theory, linear transformations, complex numbers, correlation, multivariate polynomials, Lemma of Allman, multidimensional calculus
-description: George Allman, an Irish professor and mathematician, is famous for his seminal work on algebraic invariant theory, linear transformations, and correlation. He also made contributions to multivariate polynomials and multidimensional calculus.
+keywords: george allman,allman
+description: George Allman was an Irish professor, mathematician, classical scholar and historian of ancient Greek mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **George Allman**  was an Irish professor, mathematician, classical scholar and historian of ancient Greek mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. George Allman published his seminal work on algebraic invariant theory in 1865.
-2. He is known for contributions to the theory of linear transformations of finite-dimensional vector spaces.
-3. He developed a representation of the complex numbers as 2 × 2 matrices.
-4. He introduced the concept of 'degree of correlation' between two variables, a concept essential in today’s statistics.
-5. He established the relationship between the theory of mathematical functions and the theory of invariants.
-6. He designed a scheme for the division of multivariate polynomials into several parts, which is still applied to numerical problems.
-7. He established important properties of linear forms, which is the basis for his famous ‘Lemma of Allman’.
-8. He was the first to use multidimensional calculus in solving problems in geometry and algebra.
+* William Allman, the son of Thomas Allman, was born in Jamaica but came to Ireland at the age of four years.
+* George was the younger of his parents' two sons and was brought up by his father following the death of his mother Anne in 1831.
+* George Allman studied both pure and applied mathematics at Trinity College, Dublin, and graduated in 1844 coming first equal among the First Class students (with Samuel Haughton who became professor of geology at Trinity College) and winning the gold medal for mathematics.
+* In the same year of 1853 Allman was appointed as Professor of Mathematics at Queen's College, Galway.
+* Among the articles Allman contributed to the ninth edition of the Encyclopaedia Britannica were those on Thales, Pythagoras, Ptolemy and other Greek philosophers.
+* However, Allman's most significant contribution was Greek geometry from Thales to Euclid published in Dublin in 1889.
+* Allman developed methods of deduction of historical information which have proved fundamental in discovering information of the type described in our articles How do we know about Greek mathematics?
 
 Born 28 September 1824, Dublin, Ireland. Died 9 May 1904, Dublin, Ireland.
 

@@ -7,10 +7,10 @@ orderid: 1863
 title: Love, Augustus Edward Hough
 born: 1863
 died: 1940
-keywords: Augustus Love, elasticity, wave propagation, Mathematical Physics, atmospheric physics, Navier–Stokes equations, finite-difference method
-description: Augustus Love was an English mathematician who founded the research school for Mathematical Physics at Toronto, wrote "Modern Mathematical Physics" and developed theories in elasticity, wave propagation, atmospheric physics, Navier–Stokes equations, and finite-difference method.
+keywords: augustus love,love
+description: Augustus Love was an English mathematician known for his work on the theory of elasticity. He also worked on wave propagation and the structure of the Earth.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Augustus Love** was an English mathematician known for his work on the theory of elasticity. He also worked on wave propagation and the structure of the Earth.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the research school for mathematical physics at the University of Toronto in 1924.
-2. Authored the book "Modern Mathematical Physics" which was a widely used advanced mathematical physics textbook for decades.
-3. Established mathematical foundations for the guiding equations of atmospheric physics.
-4. Significantly improved the accuracy of predictions in hydrodynamical calculations.
-5. Derived the Love–wave solution for surface gravity waves.
-6. Discovered a set of particular solutions of the Navier–Stokes equations. 
-7. Demonstrated the integral identity now known as Love's identity.
-8. Contributed to the first use of the finite-difference method for the numerical solution of partial differential equations.
+* John Love was a surgeon who, later in his career, took up an appointment as a police surgeon for the borough of Wolverhampton.
+* Augustus had one older brother and two sisters.
+* Augustus was educated at Wolverhampton School, which he entered in 1874, but there he failed to show the brilliance which he was to show later in his life.
+* These years were highly productive ones during which Love produced outstanding work which led to his election to the Royal Society in 1894.
+* Love was appointed to the Sedleian chair of natural philosophy at Oxford in 1899.
+* Love also did important work on waves.
+* An expert on spherical harmonics, Love discovered the existence of waves of short wavelength in the Earth's crust.
+* The ideas in this work are still much used in geophysical research and the short wavelength earthquake waves he discovered are called 'Love waves'.
+* 'Love waves' have proved of considerable importance in the hands of later investigators, who have been able to infer, from their application to seismograms, indications of the thickness of the upper layer of the earth's crust.
+* Love never married and, after the death of his father during the time that he held his fellowship at Cambridge, the younger of his two sisters kept house for him for the rest of his life.
 
 Born 17 April 1863, Weston-super-Mare, England. Died 5 June 1940, Oxford, England.
 

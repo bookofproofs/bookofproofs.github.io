@@ -7,10 +7,10 @@ orderid: 1893
 title: Murnaghan, Francis Dominic
 born: 1893
 died: 1976
-keywords: Group Theory, Continuum Mechanics, Algorithm, Atomic Orbitals, Eigenvalue Problems, Stochastic Methods, Variational Principles
-description: Francis Murnaghan: mathematician who applied group theory to continuum mechanics, discovering algorithm to solve eigenvalue problems, studying atomic orbitals, sampling PDEs with stochastic methods, variational principles for bound states in quantum mechanics.
+keywords: francis murnaghan,murnaghan
+description: Francis Dominic Murnaghan was an Irish mathematician who worked in the application of group theory to continuum mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Francis Dominic Murnaghan** was an Irish mathematician who worked in the application of group theory to continuum mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm to determine the correct eigenvalues in linear operator theory. 
-2. Made advances in understanding the structure of atomic orbitals.
-3. Obtained closed-form solutions to eigenvalue problems in atomic and molecular physics. 
-4. Sampled the solution of partial differential equations using stochastic methods.
-5. Developed an efficient method for computing perturbation theory approximations to molecular energies.
-6. Established the use of variational principles to calculate properties of bound states in quantum mechanics.
-7. Contributed to the understanding of the interaction of electromagnetic fields with matter.
-8. Achieved insights into the origin of the stability of non-classical periodic orbitals in molecules. 
-9. Discovered the limit of the uncertainty principle for bound states in quantum mechanics.
+* His parents, Angela Mooney and George Murnaghan, were Roman Catholics although George had been educated at a Protestant school.
+* George Murnaghan took an active part in political life, serving on Tyrone County Council and becoming a Nationalist Member of Parliament, and left the running of the farm to his large family.
+* Harry Bateman had been appointed there in 1912 and his interests in partial differential equations fitted perfectly with Murnaghan's interests at the time.
+* Arriving at Johns Hopkins University in Baltimore, Murnaghan began doctoral studies working on differential equations which arose in the study of radio-active decay.
+* In 1916 Murnaghan submitted his thesis The Lines of Electric Force Due to a Moving Electron and was awarded his Ph.D. Following this he was appointed as a lecturer at the Rice Institute in Houston, Texas.
+* Murnaghan helped supervise the studies of the first Ph.D. produced by the Rice Institute, namely Hubert Evelyn Bray whose thesis A Green's Theorem in Terms of Lebesgue Integrals was submitted in 1918, the year Murnaghan left.
+* While he had been at the Rice Institute, Murnaghan had met Ada Mary Kimbell and in 1919, the year following his return to Johns Hopkins, they married.
+* They had a son named Francis Dominic after his father, and known as Francis Dominic Jnr, and a daughter Patricia.
+* In 1928 Frank Morley retired as Head of Mathematics at Johns Hopkins, and Murnaghan was appointed as Professor and Head of the Mathematics Department.
+* Let us now examine the mathematics which interested Murnaghan.
+* Over the period up to 1936, in addition to the major texts we have already mentioned, Murnaghan undertook research and published papers on a wide variety of topics such as electrodynamics, relativity, tensor analysis, elasticity, dynamics, aerodynamics, quantum mechanics, and celestial mechanics.
+* Although we have mentioned six books by Murnaghan, this is less than half his total of books since he published 16 in all.
+* As a teacher, Murnaghan certainly appears to have had great style.
 
 Born 4 August 1893, Omagh, Co. Tyrone, Ireland. Died 24 March 1976, Baltimore, Maryland, USA.
 

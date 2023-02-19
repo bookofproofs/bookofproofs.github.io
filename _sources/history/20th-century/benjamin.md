@@ -7,10 +7,10 @@ orderid: 1929
 title: Benjamin, Thomas Brooke
 born: 1929
 died: 1995
-keywords: Brooke Benjamin, mathematics, fluid mechanics, theory of waves, S-STEM Scholarship, American Mathematical Society Journal, Putnam Mathematical Competition
-description: Brooke Benjamin, an English mathematician specialising in fluid mechanics and the theory of waves, achieved notable success in her pursuits including the S-STEM Scholarship, American Mathematical Society Journal and Putnam Mathematical Competition.
+keywords: brooke benjamin,benjamin
+description: Brooke Benjamin was an English mathematician who specialised in fluid mechanics and the theory of waves.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Brooke Benjamin** was an English mathematician who specialised in fluid mechanics and the theory of waves.
 
 ### Mathematical Profile (Excerpt):
-1. Received the National Science Foundation's S-STEM Scholarship for her pursuit of mathematics research.
-2. Published a paper in the American Mathematical Society Journal.
-3. Presented her research at the National Joint Mathematics Meeting. 
-4. Participated in the Putnam Mathematical Competition and ranked in the top 5 percent.
-5. Received an Honorable mention award at the Association for Women in Mathematics Essay Contest.
-6. Received the National Science Foundation's Research Experiences for Undergraduates grant to pursue mathematical research. 
-7. Obtained highest marks in her upper-level mathematics classes.
+* Brooke's parents recognised his brilliance before he entered primary school at Wallasey, where his teachers quickly saw his exceptional abilities.
+* This followed in the family tradition but Brooke was deeply unhappy although he still did well in his studies.
+* They moved, with Brooke and their two younger children, to Mold in north Wales, and there Brooke attended Alun County School.
+* In 1947 Benjamin entered Liverpool University where he studied engineering but continued to occupy a large part of his time with the Liverpool University Music Society, conducting several concerts in Liverpool.
+* Benjamin began working on bubbles in liquids, in particular studying how the bubbles collapse when pressure rises.
+* In fact, like most of his projects, Benjamin returned to them throughout his career.
+* In the Journal of Fluid Mechanics in 1995 he published the paper Verification of the Benjamin-Lighthill conjecture about steady water waves.
+* In 1958 Benjamin was appointed as Assistant Director of research, a post which saw him work partly in the Engineering Department and partly in the Applied Mathematics and Theoretical Physics Department.
+* Benjamin helped set up the fluid mechanics laboratory at Cambridge in 1964 and three years later he was promoted to Reader in Hydrodynamics.
+* In 1979 Benjamin was appointed to the Sedleian Chair of Natural Philosophy a the University of Oxford.
+* We have commented on one of Benjamin's early papers above.
+* Benjamin received many honours for his achievements, including the Fellowship of the Royal Society referred to above.
 
 Born 15 April 1929, Wallasey, Cheshire, England. Died 16 August 1995, Oxford, England.
 

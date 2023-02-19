@@ -7,10 +7,10 @@ orderid: 1914
 title: Gardner, Martin
 born: 1914
 died: 2010
-keywords: Martin Gardner, Mathematical Games, Scientific American, Recreational Mathematics, Cracker Barrel Game, Fads & Fallacies, Optimist International Award
-description: Martin Gardner wrote over 70 books & thousands of articles on mathematics, science & philosophy and is credited for founding recreational mathematics and popularizing puzzles like the Soma Cube & Towers of Hanoi. He received notable awards such as the Optimist International and American Mathematical Society's Leroy P. Steele Prize.
+keywords: martin gardner,gardner
+description: Martin Gardner was an American popular mathematics and science writer who had a long-running column on mathematical recreations in Scientific American.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Martin Gardner** was an American popular mathematics and science writer who had a long-running column on mathematical recreations in _Scientific American_.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote more than 70 books and thousands of articles on mathematics, science, and philosophy, including his long running "Mathematical Games" column in Scientific American. 
-2. Founder of recreational mathematics and of the Mathematical Association of America's popular-level magazine for mathematically inclined students, College Mathematics Journal. 
-3. Invented the Cracker Barrel Game: A popular logic game. 
-4. Authored "The Scientific American Book of Mathematical Puzzles and Diversions" in 1959, introducing mathematical puzzles, such as the Soma Cube and the Towers of Hanoi, to the general public. 
-5. Authored Fads and Fallacies in the Name of Science in 1957 and numerous other books that helped to popularize and debunk pseudosciences and conspiracy theories. 
-6. Received an honorary degree in the humanities from the University of Chicago in 1995. 
-7. Named the first recipient of the Annual Optimist International Award in 1996. 
-8. Contributed to the revitalization of interest in geometry in the late 20th century. 
-9. Advocated for the unsolved mathematical problems in mathematics education. 
-10. Honored with the Leroy P. Steele Prize for Mathematical Exposition from the American Mathematical Society in 1999.
+* While he was still working for the Smithsonian Institution, he often took his young son Martin on his digs.
+* Martin's mother was a primary school teacher in Lexington before her marriage but, once the children were born, she stayed at home to look after them - she did, however, keep up her hobby of painting.
+* Martin was the oldest of his parents' three children having a younger brother Jim and sister Judith.
+* The family were well-off, the oil business being highly lucrative, and they even had their own tennis court by the time Martin was old enough to begin playing.
+* Today Gardner is famed for mathematical puzzles, many would say that he is the most famous modern writer of mathematical puzzles in the world, and this interest in puzzles came early in his life when his father gave him a copy of Sam Loyd's Cyclopedia of Puzzles.
+* After graduating from high school, Gardner wanted to study physics at the California Institute of Technology.
+* However, the entrance requirements were two years at College so Gardner went to the University of Chicago with the intention of moving to Cal.
+* Gardner moved to New York in 1947 and continued to earn a living contributing articles and becoming an editor of Humpty Dumpty.
+* The publisher liked the article a lot and asked Gardner if he thought a regular column would be possible.
+* We certainly do not want to even list the titles of over sixty works so we will give a selection: Logic Machines and Diagrams (1958); The Annotated Alice (1960); Relativity for the Million (1962); The Ambidextrous Universe: Mirror Asymmetry and Time-Reversed Worlds (1964); Mathematical Carnival: A New Round-up of Tantalizers and Puzzles from "Scientific American" (1975); The Incredible Dr Matrix (1976); Aha! Insight (1978); Science: Good, Bad, and Bogus (1981); Aha! Gotcha: Paradoxes to Puzzle and Delight (1982); The Whys of a Philosophical Scrivener (1983); Codes, Ciphers and Secret Writing (1984); Entertaining Mathematical Puzzles (1986); Time Travel and Other Mathematical Bewilderments (1987); Perplexing Puzzles and Tantalizing Teasers (1988); Fractal Music, Hypercards and More (1991); My Best Mathematical and Logic Puzzles (1994); Classic Brainteasers (1995); Calculus Made Easy (1998); A Gardner's Workout: Training the Mind and Entertaining the Spirit (2001); Mathematical Puzzle Tales (2001); and Bamboozlers (2008).
+* In 1981, to celebrate Gardner's sixty-fifth birthday, the book The Mathematical Gardner was published.
+* His relationship to the mathematical community makes him unique: Gardner's monthly column in 'Scientific American' has been appearing for more than two decades.
+* Martin Gardner's writing has contributed enormously to improve the accessibility of the subject.
+* For many years the Gardner family lived on Euclid Avenue (everyone remarks on the apt address) in Hastings-on-Hudson, New York, but in 1979 they moved to Hendersonville, North Carolina.
+* Martin Gardner has captured the attention of his readers, obtained their active involvement, and stretched their minds to an extent which is the envy of all of us who teach.
+* Let us end by noting that Gardner has produced a number of mathematical papers, written with leading mathematicians.
+* The results Gardner mentions here under (2) appear in the paper "Fan Chung, Martin Gardner and Ron Graham, Steiner trees on a checkerboard, Math.
+* The result Gardner mentions under (3) appears in "Lee Sallows, Martin Gardner, Richard Guy and Donald Knuth, Serial isogons of 90 degrees, Math.
+* Three papers by Gardner which appear in The College Mathematical Journal are Modeling mathematics with playing cards (2000), Some new results on magic hexagrams (2000), and L-tromino tiling of mutilated chessboards (2009).
+* Gardner has received a number of honours for his remarkable contributions including an honorary doctorate from Bucknell University in 1978 and the American Institute of Physics science writer of the year award for 1983.
 
 Born 21 October 1914, Tulsa, Oklahoma, USA. Died 22 May 2010, Norman, Oklahoma, USA.
 

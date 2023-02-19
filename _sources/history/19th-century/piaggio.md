@@ -7,10 +7,10 @@ orderid: 1884
 title: Piaggio, Henry Thomas Herbert
 born: 1884
 died: 1967
-keywords: Piaggio, Cambridge, Nottingham, Differential Equations, Mechanics, Dynamics, Vibration Theory
-description: Piaggio, Cambridge & Nottingham graduate, developed novel algebraic curves&general solutions for mechanics, vibration & energy. Established foundation for mathematics education.
+keywords: h t h piaggio,piaggio
+description: H T H Piaggio graduated from Cambridge and then worked at the University of Nottingham. He is best known for his text-book on Differential Equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**H T H Piaggio** graduated from Cambridge and then worked at the University of Nottingham. He is best known for his text-book on Differential Equations. 
+**H T H Piaggio** graduated from Cambridge and then worked at the University of Nottingham. He is best known for his text-book on Differential Equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed novel algebraic curves, known as the Piaggio curves, as a means to better understand the principles of mechanics and dynamics. 
-2. Developed a general solution to the compressed soft torsional module motion equations that enabled more precise calculations of rotational motion. 
-3. Conducted extensive research into the theory of three-dimensional elasto-dynamics and published numerous papers on the subject. 
-4. Advanced the mathematical principles of vibration theory and developed a method for determining the natural frequencies of vibrating systems. 
-5. Pioneered the concept of non-conservative systems, which laid the foundations for the development of energy conserving systems. 
-6. Developed a generalized theory of composite materials and its application to engineering design issues. 
-7. Established the Piaggio Foundation to support the education of young mathematicians.
+* His mother was Mary Piaggio (born at St Pancras, London about 1855) who was a cloakroom attendant.
+* H T H Piaggio  had a younger sister Edith Mabel (born about 1888) who became a shorthand typist.
+* He also had a younger brother Edward Ernest (born about 1894) who became a clerk.
+* H T H Piaggio was educated at the City of London School and at St John's College, Cambridge.
+* In 1908 he was appointed Lecturer in Mathematics at the University of Nottingham although at that time there was no separate Department of Mathematics there.
+* A chair of mathematics was created at Nottingham and Piaggio was appointed to it in 1919.
+* His most famous work, An Elementary Treatise on Differential Equations, was published by G Bell & Sons in 1920.
+* Full details of his life appear in the obituary by D A Young.
+* Here list a few articles which Piaggio published in The Mathematical Gazette: Relativity rhymes with a mathematical commentary (January 1922); Geometry and relativity (July 1922); Mathematics for evening technical students (July 1924); Mathematical physics in university and school (October 1924); Probability and its applications (July 1931); Three Sadleirian professors: A R Forsyth, E W Hobson and G H Hardy (October 1931); Mathematics and psychology (February 1933); Lagrange's equation (May 1935); Fallacies concerning averages (December 1937); and The incompleteness of "complete" primitives of differential equations (February 1939).
+* In Nature  Piaggio published articles such as The operational calculus (1943) and The significance and development of Hamilton's quaternions (1943).
+* In the Proceedings of the Glasgow Mathematical Association he published Exceptional integrals of a not completely integrable total differential equation (1953).
+* The author effectively remarks that this is not a necessary condition for the existence of a solution.
+* Piaggio was a member of the Edinburgh Mathematical Society, joining the Society in May 1912.
+* He read papers to the Society such as Note on Linear Differential Equations with constant coefficients  on 10 May 1912.
 
 Born 2 June 1884, London, England. Died 26 June 1967, Cedars Home, Nottingham, England.
 

@@ -7,10 +7,10 @@ orderid: 1905
 title: Sargent, Winifred Lydia Caunden
 born: 1905
 died: 1979
-keywords: Winifred Caunden Sargent, Mathematics, Integration, Differentiation, Snowflake, Theorem, Publications
-description: Winifred Caunden Sargent was an English mathematician noted for Lebesgue integration, snowflake discoveries, theorem, and publications in mathematics, history, economics and philosophy.
+keywords: winifred sargent,sargent
+description: Winifred Lydia Caunden Sargent was an English mathematician who worked in Lebesgue integration, and fractional integration and differentiation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Winifred Lydia Caunden Sargent** was an English mathematician who worked in Lebesgue integration, and fractional integration and differentiation.
 
 ### Mathematical Profile (Excerpt):
-1. Appointed as the first woman to be an editor of a mathematics journal in 1938. 
-2. Discovered the "Sargent Snowflake," a toponomy which describes how snowflakes fall.
-3. Published numerous papers on various mathematical subjects in various journals. 
-4. Contributed a novel approach to the study of arithmetic geometry.
-5. Published a book on the history of mathematics in 1945. 
-6. Developed a theorem to describe the polar equation of abelian integrals. 
-7. Developed new research techniques on differential equations and analytic expressions.
-8. Authored numerous publications in non-mathematical fields such as history, economics, and philosophy.
+* John Grant Sargent and his wife Catherine Doubell, settled in Fritchley, Derbyshire in 1864 where they founded a very strict Quaker Community providing an alternative to the London Meeting.
+* Winifred's father, Henry C Sargent, was a descendent of John Grant Sargent and Winifred was the only child of Henry Sargent's second marriage to Edith M Sargent.
+* In September 1915 Sargent entered Ackworth School which had been founded by the Quakers in 1779 in the abandoned buildings of a Foundling Hospital in Ackworth near Pontefract and still occupied these building when Sargent became a boarder there.
+* Sargent left The Mount School in York and became a day pupil at The Herbert Strutt School in Derby Road, Belper, Derbyshire.
+* In 1923, while studying at The Herbert Strutt School, Sargent gained a Derby County Scholarship, a State Scholarship, and a Mary Ewart Scholarship to study mathematics at Newnham College, Cambridge.
+* After graduating Sargent began to undertake research in analysis but after working for a while she felt that she was not producing results of the exceptionally high standard which she had set herself.
+* Fortunately, even if Sargent did not believe strongly enough in her own mathematical abilities, others knew better.
+* Although Sargent was somewhat unsure about the move, she was persuaded to make it and she began teaching at Westfield College in 1931.
+* Sargent's first appointment in Royal Holloway College was as an Assistant Lecturer in Mathematics, for although by the time of her appointment she had published a further two papers, she had never completed a doctorate.
+* In 1939 Sargent registered as a doctoral student of Bosanquet who was at that time a Reader in the University of London having interests in analysis which were close to those of Sargent.
+* In 1947 Bosanquet inaugurated a weekly seminar and Sargent attended this from its beginnings until she retired, without missing a single week in 20 years.
+* In 1954 Sargent was awarded a Sc.D. by the University of Cambridge, and promoted to Reader at Bedford College.
+* Two years later, in 1967, Sargent retired from her Readership and, unlike many mathematicians, seems to have given up research at this time.
+* Sargent's mathematical work involved the study of different types of integral.
+* Sargent concentrated on integrals such as the Perron integral, the Denjoy integral, the Cesàro-Perron integral, and the Cesàro-Denjoy integral.
+* For example in 1941 Sargent published A descriptive definition of Cesàro-Perron integrals in the Proceedings of the London Mathematical Society which gives an inductive definition, using Cesàro derivatives, of the Cesàro-Denjoy integral which is equivalent to Burkill's integral.
+* This is only a few examples of the work which Sargent carried out and published in 24 papers but it gives an indication of the type of problems which interested her.
 
 Born 8 May 1905, Ambergate, Derbyshire, England. Died 11 October 1979, Hampstead Garden, London, England.
 

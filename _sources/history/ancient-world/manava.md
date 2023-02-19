@@ -7,10 +7,10 @@ orderid: -750
 title: Manava
 born: -750
 died: -690
-keywords: Manava, Sulbasutra, Trigonometry, Mathematics, Navigations, Astronomy, Engineering
-description: Manava authored the Sulbasutras and pioneered Trigonometry to solve problems in Navigation, Astronomy, Engineering and established the bridge between Indian and Arabic Maths.
+keywords: manava,manava
+description: Manava was the author of one of the Sulbasutras: documents containing some of the earliest Indian mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Manava** was the author of one of the Sulbasutras: documents containing some of the earliest [Indian mathematics][bookofproofs$1636].
 
 ### Mathematical Profile (Excerpt):
-1. Developed a system of advanced mathematical calculations to aid in navigation of the Indian Ocean.
-2. Pioneered the use of trigonometry for the determination of accurate shorelines and the mapping of underground water tables.
-3. Created a highly accurate system for predicting tides, lunar cycles, and magnetic declinations.
-4. Used mathematical equations to solve problems of navigation, astronomy, and nautical heraldry.
-5. Co-authored the Aṣṭalakṣaśuṅga Sūtra, a major advanced mathematical treatise of the period.
-6. Wrote the texts Patiganitas and Algorismi in which he discussed the accuracy of calculations and the application of mathematics to engineering problems.
-7. Created mathematical models for surveying, predicting the depths of the sea and mapping different terrains.
-8. Introduced several concepts such as the arc of a circle, small and large numbers, mensuration and trigonometry to the existing mathematical literature.
-9. Established a bridge between [Indian mathematics][bookofproofs$1636] and that of the Arab world by giving translations from Arabic to Sanskrit.
+* The Manava Sulbasutra is not the oldest (the one by Baudhayana is older) nor is it one of the most important, there being at least three Sulbasutras which are considered more important.
+* We do not know Manava's dates accurately enough to even guess at a life span for him, which is why we have given the same approximate birth year as death year.
+* Manava would have not have been a mathematician in the sense that we would understand it today.
+* Undoubtedly he wrote the Sulbasutra to provide rules for religious rites and it would appear an almost certainty that Manava himself would be a Vedic priest.
+* It is clear from the writing that Manava, as well as being a priest, must have been a skilled craftsman.
+* Manava's Sulbasutra, like all the Sulbasutras, contained approximate constructions of circles from rectangles, and squares from circles, which can be thought of as giving approximate values of π.
 
 Born about 750 BC, India. Died about 690 BC, India.
 

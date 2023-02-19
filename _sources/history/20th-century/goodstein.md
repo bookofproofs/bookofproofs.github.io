@@ -7,10 +7,10 @@ orderid: 1912
 title: Goodstein, Reuben Louis
 born: 1912
 died: 1985
-keywords: Louis Goodstein, mathematical logic, Abstract Algebra, finite groups, Centre de Recherches Mathématiques, CRM-Fields-PIMS Prize, University of Michigan
-description: Louis Goodstein developed new mathematical techniques, authored Abstract Algebra, founded Centre de Recherches Mathématiques, and earned the CRM-Fields-PIMS Prize. He studied mathematical logic and published over 60 papers.
+keywords: louis goodstein,goodstein
+description: Louis Goodstein was an English mathematician who worked on mathematical logic, in particular ordinal numbers, recursive arithmetic, analysis, and the philosophy of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Louis Goodstein** was an English mathematician who worked on mathematical logic, in particular ordinal numbers, recursive arithmetic, analysis, and the philosophy of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the popular textbook Introduction to Abstract Algebra in 1951.
-2. Pioneered the study of finite groups and group representation theory in Canada. 
-3. Founded the Centre de Recherches Mathématiques at Université de Montréal in 1966.
-4. Became the first permanent professor of mathematics at Université de Montréal in 1959.
-5. Received the CRM-Fields-PIMS Prize in 2006 in recognition of his lifetime contributions to mathematics.
-6. Earned a Doctor of Philosophy in Mathematics from University of Michigan in 1941. 
-7. Published over 60 papers on various topics related to algebra, topology, and number theory.
-8. Developed various new mathematical techniques and methods.
+* Educated at St Paul's School London, Louis won scholarships and a prize for an essay on divergent series.
+* Goodstein then did research at Cambridge on transfinite numbers under Littlewood's supervision.
+* While undertaking this strenuous teaching load Goodstein carried out research which he submitted for a doctorate to the University of London in 1946.
+* At Leicester Goodstein played a full role.
+* Goodstein worked on mathematical logic, in particular ordinal numbers, recursive arithmetic, analysis, and the philosophy of mathematics.
 
 Born 15 December 1912, London, England. Died 8 March 1985, Leicester, England.
 

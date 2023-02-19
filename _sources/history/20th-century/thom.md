@@ -7,10 +7,10 @@ orderid: 1923
 title: Thom (2), René
 born: 1923
 died: 2002
-keywords: catastrophe theory, topological methods, inductive structures, Thom-Smale complex, Structural Stability, Semio Physics, Copley Medal
-description: René Thom (1923-2002) developed catastrophe theory in the 1960s using topology, proposed the Thom-Smale Complex in 1970s, authored influential works, and received the Fields & Copley Medals. He also founded the French Mathematical Society.
+keywords: rené thom,thom
+description: René Thom was a French mathematician who is known for his development of catastrophe theory, a mathematical treatment of continuous action producing a discontinuous result.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **René Thom** was a French mathematician who is known for his development of catastrophe theory, a mathematical treatment of continuous action producing a discontinuous result.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the mathematical theory of catastrophe theory in the 1960s, which uses topological methods to analyze the qualitative behavior of dynamical systems.
-2. Created the concept of inductive structures and attracted attention to dynamical systems with the concept of attractor.
-3. Proposed the Thom-Smale Complex in the 1970s, which provided a way to study the complicated behavior of topological dynamical systems.
-4. Authored several influential mathematical works, including Structural Stability and Morphogenesis, Semio Physics: A Sketch, and Models of Biological Pattern Formation.
-5. Received the Fields Medal in 1958 for his work in topology.
-6. Received the Copley Medal in 1975 for his contribution to mathematics.
-7. Founded the French Mathematical Society in 1972.
+* From 1931 Thom attended Primary School in Montbéliard, the town of his birth in which his parents were shopkeepers.
+* It was at this primary school that Thom first showed his academic potential winning a scholarship.
+* Thom's parents sent him and his brother south to avoid the conflict although they themselves remained in Montbéliard.
+* Thom and his brother eventually reached Switzerland.
+* After helping with the harvest near Romont, Thom returned to France being taken to Lyon where he lived with a friend of his mother.
+* Thom attended the Lycée Saint-Louis in Paris and applied to enter the École Normale Supérieure but failed to gain entrance in 1942.
+* However, mathematically it was an exciting time for Thom who was to be strongly influenced by Henri Cartan and the Bourbaki approach to mathematics.
+* In 1946 Thom graduated from the École Normale Supérieure and then moved to Strasbourg, taking a CNRS research post, so that he could continue to work with Henri Cartan.
+* The work of the thesis was carried out in Strasbourg but Thom presented it to Paris.
+* The foundations of the theory of cobordism, for which Thom later received a Fields Medal, already appear in his doctoral thesis.
+* Thom returned to France and taught at Grenoble in 1953-54, then at Strasbourg from 1954 until 1963.
+* It is as the inventor of catastrophe theory that Thom is best known but his earlier work had made him well known before he worked on catastrophe theory.
+* His work on topology, in particular on characteristic classes, cobordism theory and the Thom transversality theorem led to his being awarded a Fields medal in 1958.
+* These ideas have significantly enriched mathematics, and everything seems to indicate that the impact of Thom's ideas - whether they find their expression in the already known or in forthcoming works - is not exhausted by far.
+* Thom's theory is an attempt to describe, in a way that is impossible using differential calculus, those situations in which gradually changing forces lead to so-called catastrophes, or abrupt changes.
+* Presented by Thom in Structural Stability and Morphogenesis (1972), the theory has since been developed by many mathematicians.
+* Thom was awarded the Grand Prix Scientifique de la Ville de Paris in 1974.
 
 Born 2 September 1923, Montbéliard, Doubs, France. Died 25 October 2002, Bures-sur-Yvette, France.
 

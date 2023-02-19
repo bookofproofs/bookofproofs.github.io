@@ -7,10 +7,10 @@ orderid: 1930
 title: Adams (4), Frank
 born: 1930
 died: 1989
-keywords: Homotopy, Jordan-Hölder theorem, Adams spectral sequence, Hopf invariant one problem, Adams conjecture, Adams operations, K-theory, Atiyah-Singer index theorem
-description: Frank Adams revolutionized algebraic topology, homological algebra, differential topology, and K-theory with his award-winning pioneering in homotopy theory and proof of the Jordan-Hölder theorem.
+keywords: frank adams,adams
+description: Frank Adams was an English algebraic topologist who pioneered methods for calculating the homotopy of spheres.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Frank Adams** was an English algebraic topologist who pioneered methods for calculating the homotopy of spheres.
 
 ### Mathematical Profile (Excerpt):
-1. Adams made major advances in homotopy theory, introducing concepts such as the Hopf fibration and homotopy groups.
-2. He provided the first proof of the Jordan-Hölder theorem for finitely generated abelian groups and derived the Adams spectral sequence. 
-3. He also worked on stable and unstable homotopy theory, solving the Hopf invariant one problem and the Adams conjecture and introducing higher K-theory.
-4. Adams developed the Adams operations in algebraic topology, major tools for computing on cohomology with integer coefficients.
-5. In addition to his advances in algebraic topology, Adams was also a leader in many other fields in mathematics, including homological algebra and differential topology.
-6. He also transcribed and corrected the approximately 10,000 pages of Henri Poincaré's unfinished work on algebraic topology, which were later published as the Nachlass. 
-7. He was the first to give a complete proof of the Atiyah-Singer index theorem. 
-8. Adams revolutionized field theory by introducing K-theory, now a major area of American research in pure mathematics.
+* Adams served in the Royal Engineers during 1948 and 1949 before beginning his university education.
+* Adams entered Trinity College, Cambridge, in 1949 to study mathematics.
+* Family life was extremely important to Adams, though he preferred to keep it separate from his professional life.
+* This happened during the year 1954 which Adams spent as a junior lecturer at the University of Oxford.
+* He returned to Cambridge in 1956 to take up the Fellowship and during this period he developed the spectral sequence which today is called the "Adams' spectral sequence".
+* Adams won a Commonwealth Scholarship which enabled him to visit Chicago as a research associate in 1957-58.
+* The conjecture that Adams solved was the famous conjecture about the existence of HHH-structures on spheres.
+* After spending further time in Princeton, Adams took up a post at Manchester as a Reader in 1962, being appointed to Newman's chair when he retired in 1964.
+* In 1964 Adams was elected a Fellow of the Royal Society.
+* In 1970 Adams succeeded Hodge as Lowndean Professor of Astronomy and Geometry at Cambridge, and at this time he returned to Trinity College.
+* Stable homotopy theory (1964) is a short 74 page book which is based on six lectures Adams gave at the University of California at Berkeley in 1961.
+* It is in two parts, the first contains a description of the topics that Adams thought essential for any young mathematician interested in algebraic topology.
+* It links to a wide variety of textbooks with Adams indicating the one which treats the topic in the way he considers best.
+* The second part contains excerpts from some famous papers on algebraic topology together with surveys of generalized cohomology theories and complex cobordism written by Adams.
+* Adams' book fills this need nicely and it can be recommended to anyone seeking a substantial overview of the main topics.
+* As is evident from the lecture courses which Adams published, his lectures were well prepared but usually hard.
+* The competitive instinct in Adams was highly developed, for example in his attitude to research.
+* Adams received many awards for his work.
+* Finally we note that seven years after Adams died another book was published based on his lecture courses.
+* The book is based on lectures which Adams gave at Cambridge which he considered to be sequel to his book Lectures on Lie groups (1969).
 
 Born 5 November 1930, Woolwich, London, England. Died 7 January 1989, Near Brampton, Huntingdonshire, England.
 

@@ -7,10 +7,10 @@ orderid: 1926
 title: Shepherdson, John Cedric
 born: 1926
 died: 2015
-keywords: John Shepherdson, Ring Theory, Logics, Tornado, Chaos Theory, Gauss-Lucas, Differential Equations, Laplace Transform
-description: John Shepherdson, a mathematician, made contributions to Ring Theory, Logics, Tornado Probability, Chaos Theory, Gauss-Lucas, Differential Equations, Laplace Transform.
+keywords: john shepherdson,shepherdson
+description: John Shepherdson was a English mathematician who worked in ring theory and mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Shepherdson** was a English mathematician who worked in ring theory and mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical model to calculate the probability of a tornado striking a particular area.
-2. Made significant contributions to the field of chaos theory.
-3. Demonstrated that the orbit of a comet could be modeled with the aid of differential equations.
-4. Explored the mathematical foundations of fluid dynamics.
-5. Uncovered a novel proof for the Gauss-Lucas theorem.
-6. Derived an improved expression for an integral over Bessel functions.
-7. Proposed a new way to calculate eigenvalues using the Laplace transform.
-8. Published a treatise on complex analysis.
-9. Developed a new method of calculating the derivatives of a function.
-10. Discovered a new relationship between prime numbers and Fibonacci numbers.
+* He would have remained at Cambridge had he been awarded a fellowship to Trinity College but he was in competition with the outstanding mathematician Peter Swinnerton-Dyer who was awarded the Fellowship in preference to Shepherdson.
+* Heilbronn, who was a number theorist, had the opportunity of appointing an Assistant Lecturer and, despite the fact that Shepherdson had no doctorate, nevertheless his outstanding record at Cambridge led to Heilbronn offering the position to him.
+* Shepherdson accepted and spent the rest of his career at the University of Bristol.
+* On 5 July 1957 Shepherdson married Margaret Smith; they had three children, David John Shepherdson, Jane Elizabeth Shepherdson, and Judith Shepherdson.
+* David Shepherdson became a zoologist.
+* Jane Shepherdson was educated at Clifton High School, and became a leading businesswoman with clothing firms.
+* Let us return to our account of Shepherdson's career.
+* Shepherdson's first publications were On the addition of elements of a sequence (1947) and Inverses and zero divisors in matrix rings (1951).
+* Also in 1955 he published, jointly with John Myhill, Effective operations on partial recursive functions.
+* This paper contained an idea similar to a Turing machine, now known as the Shepherdson-Sturgis Register machine.
+* Shepherdson proposed the setting up of the British Logic Colloquium in 1970, and then became a co-founder of the Colloquium with Robin Gandy.
+* Outside mathematics and his family, Shepherdson's interests were skiing, walking and cycling.
+* Shepherdson died of an inoperable sarcoma and, following his wishes, there was no funeral service but a Memorial Service celebrating his life was held at Goldney Hall in Bristol on Saturday 21 February 2015.
+* As Shepherdson had requested, the service was led by an officiant from the British Humanist Society.
+* As well as family members, Angus MacIntyre spoke about Shepherdson's mathematics.
 
 Born 7 June 1926, Huddersfield, Yorkshire, England. Died 8 January 2015, Bristol, England.
 

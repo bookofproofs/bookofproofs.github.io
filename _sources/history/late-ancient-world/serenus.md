@@ -7,10 +7,10 @@ orderid: 300
 title: Serenus
 born: 300
 died: 360
-keywords: Serenus, Greek, Geometer, Mechanics, Volume, Sphere, Maxima, Minima, Calculus, Euclid, Astronomy, Elliptic, Solar, Commensurability, Stars
-description: Serenus, a Greek geometer, wrote commentaries on Euclid’s theorems, developed mechanics & calculus, discovered the volume of a sphere, and studied astronomy & commensurability of stars.
+keywords: serenus,serenus
+description: Serenus was a Greek geometer who wrote commentaries on other mathematicians' work as well as proving some geometric theorems of his own.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Serenus** was a Greek geometer who wrote commentaries on other mathematicians' work as well as proving some geometric theorems of his own.
 
 ### Mathematical Profile (Excerpt):
-1. He wrote a treatise on rational mechanics that was praised by many renowned mathematicians of the day, including Pappus of Alexandria and Theon of Smyrna.
-2. He was the first to discover the analysis of the volume of a sphere, which was later named the theorem of Serenus.
-3. He developed the method of maxima and minima, one of the two main branches of calculus.
-4. He wrote explanations for Theon’s editions of Euclid’s Elements, offering detailed commentaries on its geometric theorems.
-5. He wrote a treatise on astronomical subject matter, which discussed topics such as elliptic orbits and solar eclipses.
-6. He proposed a problem that fully determined the center of gravity (also known as the center of mass) of any given two-dimensional figure with uniform density.
-7. He demonstrated the absence of commensurability of couples of straight lines given by specific equations.
-8. He developed a mathematical approach to finding the position of a star given the time of day and compared it to that of other stars.
+* It can also be deduced from a copy of the second treatise of Serenus which has survived.
+* Serenus was a commentator on the texts of others but, unlike some commentators, he was a fine mathematician in his own right.
+* The two treatises by Serenus are On the Section of a Cylinder and On the Section of a Cone both of which have survived.
+* Serenus shows how to find the cylinder which is cut in the ellipse EEE.
+* It appears that Peithon's work treated as a bit of a joke and Serenus tries to in these propositions to show that Peithon's ideas are mathematically sound.
+* In the first 57 propositions in On the Section of a Cone Serenus examined triangular sections of right and scalene cones made by planes passing through the vertex.
+* Serenus wrote a commentary on Apollonius's Conics unfortunately is lost, except for a fragment preserved by Theon of Smyrna.
+* That he wrote such a work is confirmed by Serenus in his own writings.
 
 Born about 300, Antinopolis, Egypt. Died about 360.
 

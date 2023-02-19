@@ -7,10 +7,10 @@ orderid: -396
 title: Xenocrates Of Chalcedon
 born: -396
 died: -314
-keywords: Xenocrates, atomic theory, Plato, geometry, proportions, circumferences, Euclidean
-description: Xenocrates, student of Plato, developed theories of geometry & proportions, discovered circumference & diameter of circles, & proposed Euclidean Geometry's postulates.
+keywords: xenocrates,xenocrates
+description: Xenocrates was a student of Plato who went on to become head of the Academy. He was an early believer in the atomic theory and originated the classical distinction between mind, body and soul.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Xenocrates** was a student of Plato who went on to become head of the Academy. He was an early believer in the atomic theory and originated the classical distinction between mind, body and soul.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a unique theory of proportion to help explain geometric relationships.
-2. Discovered an interesting proof regarding the greatest common measure of two numbers.
-3. Established an important result in Euclidean geometry known as the "theorem of the genera.”
-4. Provided a framework for understanding incommensurable magnitudes.
-5. Discovered the relationship between the circumferences and diameters of circles.
-6. Established two primary axioms of the theory of proportions.
-7. Explored the basic principles of conic sections.
-8. Developed the famous “Xenocrates cube” in order to better explain the properties of triangles.
-9. Proposed a set of five postulates that formed the foundation for Euclidean geometry.
+* In about 367 BC Xenocrates accompanied Plato on his journey to Syracuse following the death of Dionysius I.
+* Xenocrates left Athens with Aristotle after Plato's death in 347 BC when they were both invited to Assos.
+* Xenocrates remained for around five years in Assos.
+* Plato's nephew Speusippus had become head of the Academy on Plato's death, but in 340 BC he sent for Xenocrates to return to Athens to prepare to become his successor.
+* Despite Xenocrates having been chosen to head the Academy by Speusippus, an election took place to find a successor to Speusippus after his death.
+* It was a close battle between Xenocrates, Menedemus of Pyrrha and Heraclides Ponticus but Xenocrates triumphed by just a few votes.
+* Although Xenocrates had been many years in Athens he had refused to become a citizen of that state since he did not approve of its close relations with Macedonia.
+* In 322 BC Xenocrates found himself in a directly political post when he headed a team negotiating a political settlement with Macedonia.
+* The fact that Xenocrates was not an Athenian citizen became a sore point with the Macedonians and he was deemed to be illegitimate as an ambassador for Athens.
+* Xenocrates remained head of the Academy in Athens for the rest of his life.
+* Xenocrates wrote on philosophy and mathematics.
+* Diogenes Laertius gives the titles of two mathematics books by Xenocrates, namely On numbers and The theory of numbers.
+* In many ways Xenocrates was not a particularly original thinker.
+* Xenocrates believed that matter is composed of indivisible units, so he may be regarded as an early believer in the atomic theory.
+* Xenocrates believed in human beings having threefold existence, mind, body and soul.
+* Plutarch writes about an attempt by Xenocrates to calculate the total number of syllables which could be made from the letters of the alphabet.
+* The result which Xenocrates obtained was, according to Plutarch, 1,002,000,000,000.
 
 Born 396 BC, Chalcedon (now Kadiköy, near Istanbul), Bithynia (now Turkey). Died 314 BC, Athens, Greece.
 

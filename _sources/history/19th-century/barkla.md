@@ -7,10 +7,10 @@ orderid: 1877
 title: Barkla, Charles Glover
 born: 1877
 died: 1944
-keywords: Charles Barkla, X-ray spectroscopy, X-ray scattering, Barkla equation, atomic shell structure, X-ray interferometry, photoelectric effect
-description: Charles Barkla: Nobel Prize-winning English physicist; renowned for his work on X-ray spectroscopy & X-ray scattering influencing atomic shell structure, interferometry & the photoelectric effect.
+keywords: charles glover barkla,barkla
+description: Charles Barkla was an influential English physicist who became professor of Natural Philosophy in Edinburgh. He was awarded the Nobel Prize for Physics in 1917 for his work on X-ray spectroscopy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Barkla** was an influential English physicist who became professor of Natural Philosophy in Edinburgh. He was awarded the Nobel Prize for Physics in 1917 for his work on X-ray spectroscopy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first all-British theory of X-ray scattering, as well as the Barkla equation, which was adopted for describing the scattering of X-rays by solids.
-2. Made important contributions to the knowledge of X-ray spectra, particularly regarding intensities, by developing graphical representations of the emitted X-rays from different elements.
-3. Investigated the structure of atoms using the phenomenon of atomic excitation.
-4. Discovered the atomic shell structure of X-rays, which later led to the development of "Barkla diagrams" for atomic analysis.
-5. Pioneered X-ray interferometry by accurately describing the interference patterns of X-rays travelling through slits.
-6. Investigated the calculation of energy-level diagrams and the photoelectric effect of X-rays.
-7. Used mathematical techniques, such as Fourier transformation and the use of scattering kernels, to derive the scattering powers of X-rays by different elements.
+* Barkla studied at the Liverpool Institute then in 1894, after winning Bibby and county council scholarships, he entered Liverpool University College, at that time part of the Victoria University of Manchester.
+* At Cambridge Barkla worked in the Cavendish Laboratory under J J Thomson.
+* In 1902 Barkla was appointed Oliver Lodge Fellow in Liverpool, later becoming an assistant lecturer in physics.
+* Professor Barkla is a graduate of both Liverpool (when part of the Victoria University) and Cambridge.
+* Barkla married Mary Esther Cowell, the eldest daughter of John T Cowell of Douglas, Receiver-General of the Isle of Man, in 1907; they had two sons and one daughter.
+* The youngest of their sons, Flight Lieutenant Michael Barkla, was a brilliant medical scholar, but sadly was killed in action in North Africa in 1943.
+* Barkla was elected a fellow of the Royal Society in 1912.
+* Details of Barkla's scientific work appears in his obituary, written by C T R Wilson, which appeared an the Royal Society of Edinburgh Year Book 1946, 17-18.
+* Further details of Barkla's life and research achievements are given in the obituary written by Whittaker and Born which appeared in The Scotsman on Tuesday, 24 October 1944.
+
+Born which appeared in The Scotsman on Tuesday, 24 October 1944.
 
 Born 7 June 1877, Widnes, Lancashire, England. Died 23 October 1944, Braidwood, Edinburgh, Scotland.
 

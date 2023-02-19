@@ -7,10 +7,10 @@ orderid: 1260
 title: Shijie, Zhu
 born: 1260
 died: 1320
-keywords: Zhu Shijie, Siyuan Yujian, 13th century, algebraic, complex numbers, Pythagorean Theorem, financial problems
-description: Zhu Shijie wrote Siyuan Yujian, a 13th century algebraic book, introducing complex numbers and solving financial problems with the Pythagorean theorem.
+keywords: zhu shijie,shijie
+description: Zhu Shijie or Chu Shih-Chieh was a Chinese mathematician who developed methods for handling simultaneous equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Zhu Shijie** or **Chu Shih-Chieh** was a Chinese mathematician who developed methods for handling simultaneous equations.
 
 ### Mathematical Profile (Excerpt):
-1. Zhu Shijie wrote the book “Siyuan Yujian” (13th century), which was the first comprehensive algebraic work in the Chinese tradition. 
-2. He introduced the magic square method for solving some problems in the Siyuan Yujian.
-3. He is well known for his work on ‘Fundamental Principles of Astronomy and Mathematical Methods’ and ‘Square Arrays of Numbers and Books on the Theory of Divisors’.
-4. His book was the first to discuss negative and complex numbers as solutions to algebraic problems. 
-5. He also developed algorithms for a variety of mathematical problems, including the calculation of cubic equations, the calculation of spherical coordinates, and the calculation of areas.
-6. He was the first to use Arabian numerals in a Chinese mathematical text. 
-7. He solved the classical Chinese ‘Sunzi’ puzzle problem using the Pythagorean theorem. 
-8. He invented mathematical methods for solving financial problems, such as taxation and allocation of funds.
+* Zhu was, therefore, the last of these four great thirteenth century Chinese mathematicians but it would appear from his writings that he was unaware of the work of his three famous predecessors.
+* The birth dates and death dates we give are based solely on the dates on which Zhu's two texts appeared.
+* The unification of north and south China would have a significant effect on Zhu's life, for it allowed him to travel throughout the whole of China, and also allowed certain mathematical expertise which was previously known only in northern China to spread through the south.
+* What little we know of Zhu is contained in the following quotation from the preface to the second, and most famous, of his texts.
+* We see from this quotation that, as we mentioned above, the stability brought by the Mongol conquest gave Zhu opportunities to travel of which he took full advantage.
+* We know that Zhu wrote two books, the Suanxue qimeng (Introduction to mathematical studies) published in 1299, and the Siyuan yujian (Jade mirror of the four unknowns) published in 1303.
+* Zhu's book is based, as so many Chinese mathematics books were, on the Nine Chapters on the Mathematical Art.
+* Zhu also explains the rule of three, areas and volumes, and the rule of false double position.
+* In dealing with simultaneous equations, Zhu certainly presented improvements, giving a method essentially equivalent to Gauss's pivotal condensation.
+* Some of Zhu's text, however, presents ideas going far beyond Nine Chapters.
+* In particular, how much was Zhu aware of Yang Hui's work?
+* Zhu's second book Siyuan yujian (Jade mirror of the four unknowns) marks the peak of Chinese mathematics and it was a long time before mathematics in China progressed beyond it.
+* Like Zhu's earlier text, this one also seems to have vanished at some point.
+* When Ruan Yuan compiled the Chouren zhuan or Biographies of astronomers and mathematicians in 1799, he failed to find Zhu's text despite his expertise in tracking down old books.
+* The text of the Siyuan yujian which is available today is therefore not the one which was originally published by Zhu.
+* There are various nineteenth century commentaries on the text all of which make it harder to identify Zhu's original work.
+* There are then four preliminary problems which Zhu uses to explain his methods of using polynomials to solve problems with 1, 2, 3, and 4 unknowns.
+* In fact Zhu uses an extension of the "coefficient array method" or "method of the celestial unknown" to polynomials with several unknowns.
+* After these four examples to illustrate the methods, Zhu presents 288 problems which are divided into three volumes with 24 chapters.
+* One of the most interesting aspects of this work is that Zhu, although still using the traditional Chinese approach of presenting mathematics through practical problems, does not in any sense make his examples realistic.
+* Therefore Zhu does not necessarily give the simplest solution to a problem, but rather often introduces complications explicitly designed to illustrate how to handle more complicated situations.
+* Let us illustrate by giving one of Zhu's problems.
+* Zhu, however, wants to illustrate something more advanced than solving a quadratic equation.
+* Here is another of Zhu's problems.
+* By working out the second, third and fourth differences, Zhu solved the following problem.
 
 Born about 1260, Yan-shan, near Peking (now Beijing) China. Died about 1320, Not known.
 

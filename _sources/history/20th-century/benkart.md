@@ -7,10 +7,10 @@ orderid: 1947
 title: Benkart, Georgia
 born: 1947
 died: 2022
-keywords: Georgia Benkart, Lie Theory, Representation Theory, Algebraic Combinatorics, ICM, AMS, AAAS
-description: Georgia Benkart made significant contributions to Lie Theory, Representation Theory, Algebraic Combinatorics, and was recognized with honors from ICM, AMS, and AAAS.
+keywords: georgia benkart,benkart
+description: Georgia Benkart was an outstanding mathematician who received many honours for her research on Lie algebras and related topics. She served the American Mathematical Society and the Association for Women in Mathematics in severable roles (she was President of the AWM) and was an inaugural fellow of each.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,18 +22,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Georgia Benkart** was an outstanding mathematician who received many honours for her research on Lie algebras and related topics. She served the American Mathematical Society and the Association for Women in Mathematics in severable roles (she was President of the AWM) and was an inaugural fellow of each.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Georgia Benkart made significant advances in Lie theory and representation theory of Lie algebras and is the originator of the “string model” in Lie theory.
-2. She is a prominent figure in algebraic combinatorics, having worked in particular on representations of symmetric groups and Schur algebras.
-3. She has contributed to the study of algebras, automorphisms, and polynomials in several variables.
-4. Georgia Benkart was an invited speaker at the International Congress of Mathematicians in 1994 in Zurich.
-5. She served as the managing editor of the Journal of Algebra from 1987 to 1991, and as an editor of the Transactions of the American Mathematical Society from 1997 to 2003.
-6. Georgia Benkart received the AMS Moore Award in 2012 for her innovative work in Lie theory and algebraic combinatorics.
-7. She was elected a Fellow of the American Academy of Arts and Sciences in 2013. 
-8. Benkart was the 2019 recipient of the Ruth Lyttle Satter Award in Mathematics from the American Mathematical Society.
+* George Benkart was a heating and air conditioning contractor who was born on 16 July 1906 in Sewickley, Pennsylvania.
+* George and Florence Benkart, who were only one day different in age, were married on 27 December 1945 in Youngstown.
+* They had two children, Paula Kaye Benkart (born 6 February 1947) and Georgia McClure Benkart (born 30 December 1947), the subject of this biography.
+* Let us note at this point that Paula Benkart, like her younger sister, had an academic career and was awarded a Ph.D. from Johns Hopkins University in 1975 for her thesis Religion, Family, and Continuity among Hungarians Migrating to American Cities.
+* After graduating from Liberty High School, Benkart began her university studies at Ohio State University in Columbus, Ohio.
+* We note that Benkart's name appears on the paper as George Benkart, an unfortunate misprint which may be due to an editor who did not expect a woman undergraduate to be writing a mathematics paper.
+* Benkart graduated in 1970 with a B.S. summa cum laude and with distinction in mathematics.
+* Another impressive aspect of Georgia's course was her beautiful lectures.
+* Benkart gave the AMS-MAA Invited Address A tale of two groups.
+* Georgia Benkart has been selected to serve in 2000-01 and 2001-02.
+* Giving lectures around the country won't be anything new for Georgia.
+* Professor Benkart currently serves on the editorial boards of the 'Journal of Algebra' and the 'Korean Mathematical Colloquium'.
+* The Joint American Mathematical Society and the Mathematical Association of America meeting in January 2005 took place in Atlanta, Georgia and Benkart was an MAA invited speaker giving the talk Square ice is very nice, but can you put a match to it?
+* Benkart retired from teaching in 2006 and devoted herself to serving the mathematical community.
+* In 2014 Benkart delivered AWM-AMS Noether Lectures Walking on Graphs the Representation Theory Way.
+* Other honours given to Benkart include her becoming an inaugural fellow of the American Mathematical Society in 2012, and an inaugural fellow of the Association for Women in Mathematics in 2017.
+* More recently, Benkart, Kang and Kashiwara constructed nice crystal bases for general linear Lie superalgberas, a highly nontrivial piece of work.
+* we feel that Georgia's contribution to our discipline goes well beyond this astonishing catalogue of research papers, monographs, lectures, and service roles.
+* And there are even more mathematicians who were not her co-authors but for whom Georgia's mentoring, advice, and support made it possible for them to achieve much more than they ever expected of themselves.
+* Georgia, always humbly and perfectly, serves as a role model and mentor to all.
+* Benkart died suddenly at the age of 74.
+* And somehow, once Georgia got involved, the problem was solved in less time than expected.
+* To be sure, Georgia was profoundly competent and well organized.
+* For Georgia, a project was not just about getting it right; it was also about making it beautiful.
 
 Born 30 December 1947, Youngstown, Ohio, USA. Died 29 April 2022, Madison, Wisconsin, USA.
 

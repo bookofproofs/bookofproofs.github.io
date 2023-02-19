@@ -7,10 +7,10 @@ orderid: 1844
 title: Scholtz, Ágoston
 born: 1844
 died: 1916
-keywords: Ágoston Scholtz, Hungarian Mathematics, Projective Geometry, Theory of Determinants, Non-Euclidean geometry, Scholtz Spaces, Riemannian Geometry
-description: Ágoston Scholtzwas a Hungarian mathematician who made significant contributions to projective geometry, theory of determinants and non-Euclidean geometry. He established the formal representation of non-Euclidean cosmology and developed many mathematical methods, theorems and equations.
+keywords: ágoston scholtz,scholtz
+description: Ágoston Scholtz was a Hungarian mathematician, one of the founders of the Hungarian Mathematics and Physics Association. He worked on projective geometry and theory of determinants.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ágoston Scholtz** was a Hungarian mathematician, one of the founders of the Hungarian Mathematics and Physics Association. He worked on projective geometry and theory of determinants.
 
 ### Mathematical Profile (Excerpt):
-1. Established a formal representation of non-Euclidean geometry and proposed the principle of non-Euclidean cosmology.
-2. Developed a new method of calculating trajectories in spherical geometry, leading to the invention of ‘Scholtz' Spaces.
-3. Discovered the mathematical process of transformation and metric fields known as 'Scholtz-Wagner Transformation'
-4. Developed the idea of 'Scholtz Alaguerre Symmetry' which demonstrated the connectivity of natural forces.
-5. Discovered a new class of equations, 'Scholtz-Hahn Inequalities', which is used in solving variational problems.
-6. Formulated the Scholtz Theorem of Riemannian Geometry which introduced the notion of 'stability' for the geometry of manifolds.
-7. Authored the book "The Formal Language of Riemannian Geometry" which became the foundation of mathematical knowledge in the field of non-Euclidean geometry.
+* This region remained part of the Austro-Hungarian Empire throughout Scholtz's lifetime but in 1920, a couple of years after his death, the Treaty of Trianon divided the Austro-Hungarian Empire and this district became part of Czechoslovakia.
+* A consequence of these changes is that the names of the towns have changed and we will give the Hungarian names, as they were when Scholtz lived there, as well as the present Slovak names.
+* For example Kotterbach, the town where Scholtz was born, was known as Otosbanya or Kotterbach in Hungarian, Koterbach or Koterbachy in German, and today is Rudnany in Slovakia.
+* Given this, it will come as no surprise to learn that Scholtz' father was a supervisor of mines.
+* Scholtz attended grammar school in the towns of Igló, Rozsnyó (Rosenau in German and today Roznava in Slovakia) and Löcse (Leutschau in German and today Levoca in Slovakia).
+* Scholtz became the school director of the Lutheranian Grammar School in 1875.
+* In 1879 Scholtz submitted his habilitation thesis Some theorems on the whole form of hexagrammum mysticum (Hungarian) to the Faculty of Arts of the Hungarian Royal University of Budapest (the predecessor of the Loránd Eötvös University), where he became a docent.
+* At the Hungarian Royal University, Ágoston Scholtz was a colleague of Loránd Eötvös.
+* Some famous Hungarian mathematicians took their doctoral examination in front of a committee on which Scholtz was one of the examiners of their main subject and a referee for their thesis.
+* Fejér also worked as an assistant in Scholtz' department from 1901.
+* Several students who went on to become grammar school teachers wrote their doctoral theses with Ágoston Scholtz as their advisor.
+* Scholtz was one of the founders of the so called "table society of mathematicians" in 1885.
+* The older initiators of the Society were Jeno Hunyadi and Kálmán Szily from the Royal Joseph Technical University and Ágoston Scholtz from the Royal Hungarian University, the middle generation was represented by Loránd Eötvös and Gyula König, the younger generation by Gusztáv Rados and Manó Beke.
+* Ágoston Scholtz was a member of its main committee which consisted of twenty-four people.
+* Scholtz's field of research was projective geometry and theory of determinants.
+* One of his main collaborators was Jeno Hunyadi who was six years older than Scholtz and died in 1889.
+* An intermediate step was to consider a matrix, which was later called the Hunyadi-Scholtz matrix.
+* The joint theorem of Hunyadi and Scholtz, the so called Hunyadi-Scholtz determinant theorem in the newer literature, was well known for several decades.
+* Its usefulness in technical problems is less well known: let us refer to Jeno Egervary's paper "Application of the Hunyadi-Scholtz matrices in the theory of grid structures" (1954) in which he studies grid structures with three bars constituting a triangle or six bars constituting a tetrahedron, the structure being loaded by a system of forces in equilibrium.
+* Scholtz published the paper Sechs Punkte eines Kegelschnittes Ⓣ(Six points on a conic) in the Archiv der Mathematik in 1878, and around the same time several papers in Hungarian in the Müegyetemi Lapok.
+* Scholtz' later papers appeared in the Nouvelle Annales de Mathématique, for example Résolution de l'equation du troisiéme degré Ⓣ(Résolution of the cubic equation) (1881), and in the Yearbook of the Grammar School in Igló, see A remark on light interference (1886).
+* In 1897 Scholtz took part in the first International Congress of Mathematicians held in Zürich, where two young Hungarian mathematicians were giving lectures (G Rados, and A Stodola).
+* Scholtz retired from his chair in 1909.
+* In 1911 Loránd Eötvös invited professor Lipót Fejér to become head of the department which had been led earlier by Scholtz.
+* Ágoston Scholtz died on 6 May 1916 in Veszprém.
 
 Born 27 July 1844, Kotterbach, Zips district, Austro-Hungary (now Rudnany, Slovakia). Died 6 May 1916, Veszprém, Hungary.
 

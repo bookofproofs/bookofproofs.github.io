@@ -7,10 +7,10 @@ orderid: 1879
 title: Picken, David Kennedy
 born: 1879
 died: 1956
-keywords: Glasgow, Cambridge, Victoria College, Wellington, Melbourne, history, foundations
-description: David Picken researched and published extensively on the history and foundations of mathematics, including work on automated theorem proving and puzzle solving.
+keywords: david picken,picken
+description: David Picken studied at Glasgow and Cambridge universities. After a period as a lecturer at Glasgow he became Professor of Mathematics at Victoria College, Wellington New Zealand. He later moved to the University of Melbourne in Australia.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**David Picken** studied at Glasgow and Cambridge universities. After a period as a lecturer at Glasgow he became Professor of Mathematics at Victoria College, Wellington New Zealand. He later moved to the University of Melbourne in Australia. 
+**David Picken** studied at Glasgow and Cambridge universities. After a period as a lecturer at Glasgow he became Professor of Mathematics at Victoria College, Wellington New Zealand. He later moved to the University of Melbourne in Australia.
 
 ### Mathematical Profile (Excerpt):
-1. Published several papers on the history of mathematics
-2. Authored a book on the logic and foundations of mathematics
-3. Conducted extensive research on the philosophy and foundations of mathematics
-4. Developed a framework for understanding the computational complexity of algorithms
-5. Published work on methods for the automatic generation of mathematical proofs
-6. Used automated theorem proving to discover previously unknown mathematical truths
-7. Developed a systematic approach for solving mathematical puzzles and problems
+* His mother was  Margaret Picken (born in Edinburgh about 1847).
+* David Picken attended school at Allan Glen's, Glasgow and then studied at Glasgow University being awarded an M.A. He then went to Cambridge to study the Mathematical Tripos and matriculated at Jesus College, Cambridge in October 1899.
+* Following his graduation Picken was appointed Lecturer and Assistant Professor in the University of Glasgow.
+* In fact Picken was the second master of Ormond College, the first being John MacFarland who had become Vice-Chancellor of the University in 1914.
+* David Kennedy Picken's obituary appeared in The Mathematical Gazette, Vol.
+* First let us list a few of the papers that Picken published in The Mathematical Gazette: Ratio and proportion (January 1920); The complete angle and geometrical generality (December 1922); Some general principles of analytical geometry (July 1923); The complete angle (October 1923); The notation of the calculus (October 1923); Parallelism and similarity (October 1924); The approach to the logarithmic and exponential functions (December 1926); and The approach to the calculus (October 1927).
+* Picken's book The Number System of Arithmetic and Algebra  was published by Melbourne University Press in 1923.
+* Picken was a member of the Edinburgh Mathematical Society, joining in May 1903 and remaining a member during his career in New Zealand and Australia.
 
 Born 27 July 1879, Dennistoun, Glasgow, Scotland. Died 17 June 1956, Victoria, Australia.
 

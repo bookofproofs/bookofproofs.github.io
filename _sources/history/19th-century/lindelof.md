@@ -7,10 +7,10 @@ orderid: 1870
 title: Lindelöf, Ernst
 born: 1870
 died: 1946
-keywords: Ernst Lindelöf, topology, mathematics, partial differential equations, Invariant Theory, Prime Number Theorem, Cantor's diagonal argument
-description: Ernst Lindelöf was a Finnish mathematician who contributed significantly to topology, mathematics, and partial differential equations. His most famous works include his proof of the Possibility of four colors Theorem and the Prime Number Theorem.
+keywords: ernst lindelöf,lindelöf
+description: Ernst Lindelöf was a Finnish mathematician who worked on topology and partial differential equations. He also wrote on the history of Scandinavian mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernst Lindelöf** was a Finnish mathematician who worked on topology and partial differential equations. He also wrote on the history of Scandinavian mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Established one of the earliest methods of constructing invariant theory.
-2. Developed the concept of continuous functions on real numbers. 
-3. He was the first to prove the Possibility of four colors in Theorem of coloring problem.
-4. Developed what is now known as the Cartesian product of two sets. 
-5. He proposed a proof of the Prime Number Theorem. 
-6. Pioneered in the establishment of modern point set topology.
-7. Provided an early definition of a set of points in terms of neighborhood. 
-8. He gave a method for describing the boundaries of open and closed sets.
-9. Introduced the notion of compactness for the first time. 
-10. He is credited for developing the concept of Cantor's diagonal argument which is used in the proof of the Baire category theorem.
+* At the time that time Lindelöf's father was appointed professor of mathematics at the university, the main building of the university on Senate Square had recently been completed.
+* By the time that Lindelöf went to study mathematics at Helsingfors University in 1887 his father was no longer the professor there.
+* Lindelöf spent the year 1891 in Stockholm, and the years 1893-94 in Paris returning to Helsingfors where he graduated in 1895.
+* Lindelöf remained as professor of mathematics in Helsinki until he retired in 1938.
+* Lindelöf supported his new country undertaking his university duties with great enthusiasm.
+* Lindelöf's first work in 1890 was on the existence of solutions for differential equations.
+* Later in his life Lindelöf gave up research to devote himself to teaching and writing his excellent textbooks.
+* Another important role which Lindelöf played in Finland was the encouragement of the study of the history of mathematics in that country.
 
 Born 7 March 1870, Helsingfors, Russian Empire (now Helsinki, Finland). Died 4 June 1946, Helsinki, Finland.
 

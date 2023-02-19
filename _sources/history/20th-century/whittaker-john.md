@@ -7,10 +7,10 @@ orderid: 1905
 title: Whittaker (2), John
 born: 1905
 died: 1984
-keywords: Quantum Mechanics, Complex Analysis, Algebraic Geometry, Number Theory, Elliptic Functions, Topological Dynamics, Representation Theory
-description: John Whittaker: renowned mathematician, contributing to Quantum Mechanics, Algebraic Geometry, Number Theory & Elliptic Functions, developing Topological Dynamics & Representation Theory.
+keywords: john whittaker,whittaker
+description: John Macnaghten Whittaker worked in Quantum Mechanics and Complex Analysis. He became Vice-Chancellor of Sheffield University.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Macnaghten Whittaker** worked in Quantum Mechanics and Complex Analysis.  He became Vice-Chancellor of Sheffield University.
 
 ### Mathematical Profile (Excerpt):
-John Whittaker is a prominent mathematician known for his contributions to applied mathematics, algebraic geometry and number theory. He is especially noted for his research on elliptic functions, topological dynamics and representation theory.
-
-1. Established a framework for defining and calculating elliptic functions.
-2. Developed the theory of topological dynamics and the axiomatization of representation theory.
-3. Sonoranized the prime number theorem and Cantor’s theorem.
-4. Made significant contributions to applied mathematics, demonstrating how fundamental mathematics could be applied in areas as diverse as coding theory and stochastic processes.
-5. Published numerous papers on the algebraic geometry of curves and surfaces, which became the foundation of modern topology. 
-6. Developed a theory of algebraic structures related to combinatorial optimization problems. 
-7. Discovered a family of homomeric and semihomometric Gauss sums, now known as Whittaker functions.
+* John's father was Edmund Taylor Whittaker, a distinguished mathematician who has a biography in this archive.
+* One of his sisters, Beatrice Mary Whittaker, married Edward Copson while one of his brothers, Eddy Whittaker, became Vice-President of the Prudential Insurance Company in Newark, New Jersey, United States.
+* Whittaker attended Fettes from 1918 until 1920 during which time he was introduced to calculus.
+* One of the first papers the Whittaker wrote solved a problem mentioned by Pollard in his lectures and it appears that Pollard's lectures had the most influence on the direction of his mathematical interests.
+* He spent two years as an Assistant Lecturer in Mathematics at the University of Edinburgh (1927-29) where his father E T Whittaker held the Chair of Mathematics, and during this time he was awarded a D.Sc. by Edinburgh University and a Smith's Prize by Cambridge.
+* Whittaker accepted the chair of pure mathematics at the University of Liverpool in 1933.
+* The teaching of pure mathematics was his responsibility, while teaching applied mathematics was the responsibility of L Rosehead who was appointed to the Applied Mathematics Chair at the same time as Whittaker.
+* Jack and Iona had two sons, John Edmund Whittaker born on 19 November 1934 and Richard James Whittaker born on 6 February 1938.
+* By 1938 war seemed almost inevitable so Whittaker joined the emergency research officers.
+* Whittaker returned to his chair at Liverpool in October 1945 and became involved in administrative duties such as being Dean of Science from 1947 to 1950.
+* Let us now look at Whittaker's contributions to mathematics.
+* He extended results of his father E T Whittaker on the cardinal function.
+* He was interested over many years in expanding functions in a series of polynomials and Whittaker's constant is named after him.
+* The first of these contains a result, which Whittaker correctly attributed to Takenaka, which shows that, with an added technical condition, an entire function every derivative of which has a zero in the unit disk is necessarily a constant.
+* The constant has become known as Whittaker's constant despite the result being originally due to Takenaka.
+* In many ways this work can be seen as Whittaker's greatest achievement and he was awarded the prestigious Adams Prize by Cambridge University for this work in 1949.
+* In 1965 Whittaker retired as Vice-Chancellor and enjoyed his mathematics again.
 
 Born 7 March 1905, Cambridge, England. Died 29 January 1984, Sheffield, England.
 

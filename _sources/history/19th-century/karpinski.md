@@ -7,10 +7,10 @@ orderid: 1878
 title: Karpinski, Louis Charles
 born: 1878
 died: 1956
-keywords: Karpinski Mean, Applied Mathematics, International Journal, Humboldt Fellowship, Institute of Mathematics, Introductory Algebra, Graeffe Root Algorithm
-description: Louis Karpinskiwas an American mathematician, historian of science and editor-in-chief of International Journal, who developed Karpinski Mean, developed innovative algorithms and authored many books, articles and historical texts.
+keywords: louis karpinski,karpinski
+description: Louis Karpinski was an American mathematician and historian of science.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Louis Karpinski** was an American mathematician and historian of science.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Karpinski Mean, an algebraic technique for solving systems of linear equations.
-2. Authored 18 books on topics ranging from Algebra to Applied Mathematics.
-3. Founded the International Journal of Algebra and Related Topics and served as its editor-in-chief.
-4. Won the 1996 Alexander von Humboldt Fellowship, a highly prestigious research grant awarded to international academic researchers.
-5. Appointed as the Director of the Institute of Mathematics at the University of Wroclaw in Poland.
-6. Co-authored the widely-acclaimed textbook, Introductory Algebra.
-7. Authored over 200 scientific articles.
-8. Developed innovative algorithms for solving linear equations.
-9. Transcribed and edited several historical texts in mathematics.
-10. Established the practical use of Graeffe root algorithm for mathematical analysis.
+* Henry Karpinski came from a family who lived in Warsaw, Poland, and Mary Louise Engesser came from a family from Guebweiler, Alsace.
+* Mr Karpinski was born in the famous city of Warsaw, Poland, but came to the United States quite a number of years ago.
+* Louis was the younger of his parents' two sons, having an older brother named Henry Joseph Karpinski born a couple of years earlier.
+* Louis attended high school in Oswego where he studied the English and German curriculum.
+* Karpinski became fluent in English, French, and German and, later in life.
+* Karpinski graduated from Oswego High School in 1894 and continued his education at the Oswego State Normal School where he trained to be a school teacher.
+* In 1897 Karpinski obtained his teaching qualification from the Oswego State Normal School and, later that year, took a teaching job in Southold, a town on the north east end of Long Island, New York.
+* Karpinski did not teach at Berea College for long since, in 1899, he entered Cornell University to study mathematics.
+* Karpinski, playing Black, lost this match to Pillsbury, which was played in Buffalo, but to be competing against the best chess player in the United States indicates Karpinski's abilities.
+* With outstanding references, Karpinski sought a university position.
+* His thesis advisor at Strasbourg was Heinrich Weber and Karpinski was awarded his doctorate in 1903 for his number-theory thesis Über die Verteilungen der quadratischen Reste.
+* Returning to the United States, Karpinski was employed at the Oswego State Normal School where he had obtained his teaching qualification a few years earlier.
+* Karpinski had been an undergraduate at Cornell University from 1899 to 1901.
+* Grace Maude Woods, the daughter of a county school superintendent in Lockport, New York, entered Cornell on a scholarship in the same year as Karpinski began his studies.
+* They became close friends and Grace continued to study at Cornell while Karpinski was undertaking doctoral studies in Strasbourg.
+* On 20 April 1906 Louis Karpinski and Grace Woods were married; they had six children, Robert Whitcomb Karpinski, Mary Karpinski, Louise Karpinski, Ruth Karpinski, Joseph Louis Karpinski and Charles Elwin Karpinski.
+* Karpinski's first publications were on the teaching of mathematics.
+* The historian of mathematics David E Smith had been appointed as a professor there in 1901 and during the year that Karpinski spent at the Teachers College, the two collaborated on writing the book The Hindu-Arabic numerals (Ginn and Company, Boston, 1911).
+* The year working with David E Smith converted Karpinski into a historian of mathematics, and he is best known today for his many papers on this topic.
+* When Karpinski's interests moved to the history of mathematics, he certainly did not give up his interest in mathematical education.
+* Having interests in the history of elementary mathematics and also in the teaching school level mathematics meant that Karpinski was able to put together exceptionally valuable courses for training secondary school teachers of mathematics.
+* We still have to give details of Karpinski's contributions to cartography.
+* The Huntington Library contains an 'Inventory of the Louis Charles Karpinski Collection, 1500-1799'.
+* Karpinski was elected to the Comité International d'Histoire des Sciences in 1928 and, in 1937, he was the American representative at the Symposium held in Paris on the life and work of René Descartes which celebrated the tercentenary of the publication of his "La Géométrie".
+* In the Exhibit, which was arranged for the Association meeting and which was visited by many during the sessions and on Friday afternoon when Professor Karpinski personally explained the collection, were placed all the works on the history of mathematics and astronomy, a fairly complete collection, the bibliographies, the dictionaries of mathematics and astronomy, the mathematical tables, and all mathematical and astronomical works in the library which were published before 1800.
 
 Born 5 August 1878, Rochester, New York, USA. Died 25 January 1956, Winter Haven, Florida, USA.
 

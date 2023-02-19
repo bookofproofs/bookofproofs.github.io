@@ -7,10 +7,10 @@ orderid: 1893
 title: Bloch, André
 born: 1893
 died: 1948
-keywords: André Bloch, Complex Analysis, Poincaré-Birkhoff, Vibrational Spectra, Correlation Theory, Bloch-Kato, Quantum Mechanics
-description: André Bloch was a French mathematician who worked on complex analysis and quantum mechanics, proving and discovering important theorems and phenomena.
+keywords: andré bloch,bloch
+description: André Bloch was a French mathematician who worked in complex analysis. He spent most of his life in a psychiatric hospital.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **André Bloch**  was a French mathematician who worked in complex analysis. He spent most of his life in a psychiatric hospital.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Poincaré-Birkhoff fixed point theorem, a result of topology
-2. Developed a mathematical model for the description of vibrational spectra of diatomic molecules
-3. Established the mathematical foundations of correlation theory
-4. Proved the Bloch-Kato conjecture, a theorem in algebraic number theory 
-5. Co-authored a 1961 monograph on linear algebra 
-6. Published multiple papers on the topics of plate theory and Brownian motion 
-7. Co-authored a series of rigorous proofs concerning the seminal Gladysz-Papageorgiou-Rosenbloom (GPR) equation 
-8. Developed an integrated approach to systems of spectral equations in quantum mechanics 
-9. Used harmonic analysis to answer questions in diophantine analysis 
-10. Discovered the Bloching phenomenon, a form of self-organization in chaotic dynamical systems
+* André's father was a watchmaker with a business in Besançon.
+* André was the oldest of his parents' three boys, his younger brothers being Georges (born 13 October 1894) and Henry.
+* André and Georges were less than a year apart in age and ended up in the same class at the lycée in Besançon.
+* André had already displayed his interest in the abstract properties to which he would later make such significant contributions.
+* André was last in my class of eleven students.
+* In October 1913, André and his brother Georges entered the École Polytechnique; André ranked 151st, Georges ranked 229th  in the list of students entering that year.
+* Both André and Georges were injured while serving.
+* André served as second-lieutenant in the artillery and was attached to the headquarters of General Noël Édouard, Vicomte de Curières de Castelnau, who commanded the Second French Army at the heights of Grand Couronné near Nancy.
+* André Bloch was part of the French forces here for several months before, during a heavy German bombardment, he fell from the top of an observation post.
+* André's brother Georges was also wounded in the head in the fighting and lost the sight of one of his eyes.
+* Like André, he was unfit to return to the fighting and, in October 1917, he returned to his academic studies at the École Polytechnique.
+* On 17 November 1917, at a family meal, André murdered his brother Georges, his uncle and his aunt by stabbing them.
+* Bloch worked on a large range of mathematical topics; for example, function theory, geometry, number theory, algebraic equations and kinematics.
+* Pólya, like Hadamard, communicated with Bloch by correspondence.
+* Szolem Mandelbrojt also seems to have befriended Bloch and visited him in the asylum.
+* He is thought to have been Bloch's last visitor before he died.
+* Since Bloch was Jewish, he realised that he was in danger when France was occupied by Germany during World War II.
+* For example his paper Sur une généralisation du théorème du Guldin Ⓣ(On a generalization of the theorem of Guldin) (1941) appeared under the pseudonym René Binaud while three other of Bloch's articles in 1941 and 1942 appeared under the pseudonym Marcel Segond.
+* Bloch was a model patient who refused to go out saying "Mathematics is enough for me".
+* The next day, Bloch explained the murders to his doctor Henri Baruk, saying that there had been mental illness in his family.
+* It is likely that Bloch's wartime injury had damaged his prefrontal cortex and caused his condition.
+* Of his mathematical results, Bloch is best known for "Bloch's theorem".
+* Bloch's theorem provides a touch of beauty, a surprising quantitative invariance to the class of normalized hyperbolic Riemann surfaces.
+* Bloch's theorem, which appears in his 1925 paper, Les théorèmes de M Valiron sur les fonctions entières et la théorie de l'uniformisation Ⓣ(Valiron's theorems on entire functions and the theory of standardization), was (as the title of the paper suggests) inspired by a result by Georges Valiron.
+* The name of André Bloch is attached to magnificent works on the theory of analytic functions of a complex variable and on many different areas of geometry, in particular geometrical inversion and non-Euclidean geometry for which he had a particular fondness.
 
 Born 20 November 1893, Besançon, France. Died 11 October 1948, Paris, France.
 

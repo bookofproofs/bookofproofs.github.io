@@ -7,10 +7,10 @@ orderid: 1911
 title: Keldysh (2), Mstislav Vsevolodovich
 born: 1911
 died: 1978
-keywords: Mstislav Keldysh, aerohydrodynamics, functional analysis, differential equations, variational iterations, Moscow Mathematical Society, Equations of Mathematical Physics
-description: Mstislav Keldysh made groundbreaking contributions in aerohydrodynamics, functional analysis, differential equations, and variational iterations. He also was the first President of the Moscow Mathematical Society and wrote the classic "Equations of Mathematical Physics".
+keywords: mstislav vsevolodovich keldysh,keldysh
+description: Mstislav Keldysh was a Latvian-born Soviet mathematician and engineer who did important work on aerohydrodynamics. He also worked on functions of a complex variable and differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mstislav Keldysh** was a Latvian-born Soviet mathematician and engineer who did important work on aerohydrodynamics. He also worked on functions of a complex variable and differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Made groundbreaking contributions to the fields of differential equations, functional analysis, and partial differential equations, specifically in the areas of existence theorems, integral equations, and algebraic systems. 
-2. Established the foundations of the modern theory of linear operators and of semigroups, which are a key component of many mathematical subjects.
-3. Developed the method of variational iterations, now known as the Keldysh algorithm, which is a computational approach used to solve large systems of equations. 
-4. Established a correspondence between the integral equations of scattering theory and the Fredholm equations. 
-5. Appointed as the first President of the Moscow Mathematical Society in 1958 and served as Chairman of the Soviet Science Academy from 1961-1974. 
-6. Awarded the Lenin Prize in 1971, the Order of Lenin, and the Hero of Socialist Labor in 1975. 
-7. Made major contributions to developing the space industry in the Soviet Union by working on the mathematics for rocket launches, satellite motion and predicting the motion of space vehicles. 
-8. Was one of the authors of the book "Equations of Mathematical Physics", which is now considered to be a classic of its field.
+* His father, Vsevolod Mikhailovich Keldysh (1878-1965), was a military construction engineer who had graduated from the Polytechnic Institute in Riga.
+* Mstislav Vsevolodovich was always proud of his noble roots even though this gave him problems in Communist Russia.
+* Mstislav Vsevolodovich was one of his parents' seven children.
+* Of his six brothers and sisters we mention in particular Lyudmila Vsevolodovich Keldysh, born in 1904, who became a famous mathematician and has a biography in this archive, and Yurii Vsevolodovich Keldysh who became a musicologist.
+* By 1909 the family were in Riga, where Vsevolod Mikhailovich lectured at the Polytechnic Institute, and it was in that city that Mstislav Vsevolodovich was born.
+* The Keldysh family had no relations to help them in Moscow and they suffered considerable hardship.
+* In 1923 the family moved to an apartment in Moscow and Mstislav, who was twelve years old at this time, attended School No 7 in Krivoarbatsky lane.
+* Mstislav, in appearance and behavior a "Gypsy Kid," was out of all the brothers especially mischievous, and quarrelsome.
+* Mstislav Keldysh was proud of his noble origins even through he might have had an easier time if he had hidden them.
+* However, he was persuaded by his older sister Lyudmila Vsevolodovich Keldysh to study mathematics, against the wishes of his father (who wanted him to become an engineer).
+* Keldysh worked on aerohydrodynamics, publishing a series of papers on the topic between 1934 and 1937.
+* Keldysh's theoretical work on this was a highly significant factor in overcoming the problem.
+* But this was not the only research that Keldysh was undertaking at the time, for Ivan Matveevich Vinogradov invited him to undertake research for a doctorate at the V A Steklov Mathematical Institute of the USSR Academy of Sciences after the Institute had moved from Leningrad to Moscow in 1934.
+* Keldysh's research seminars soon came to assume a prominent role in the mathematical life of Moscow and influenced the development of many young mathematicians, both pure and applied, now distinguished research workers.
+* Keldysh continued his research, often collaborating with his former teacher, Mikhail Lavrent'ev.
+* For example Keldysh published: Conformal mappings of multiply connected domains on canonical domains (1939), a survey of recent developments; (with Lavrent'ev) Sur une évaluation pour la fonction de Green (1939); (with Lavrent'ev) Sur un problème de M Carleman (1939); and the single-authored paper Sur l'approximation en moyenne quadratique des fonctions analytiques (1939).
+* One of the topics that most interested Keldysh around this time was the Dirichlet problem.
+* As an example of his work in this area we quote from a review of Keldysh's paper On the solubility and the stability of Dirichlet's problem (Russian) (1941).
+* M Keldysh was the President of the Academy of Sciences of USSR for a long time.
+* Let us look in a little more detail at some of these aspects of Keldysh's career.
+* The first successful satellite launch in 1957 marked the beginning of an intensive programme of space research and Keldysh was involved in this through a number of different organisations such as the Department of Applied Mathematics which he headed.
+* In 1959 the Interdepartmental Scientific and Engineering Council was established and Keldysh was appointed head of the Council.
+* Matters came to a head in 1964, during Keldysh's presidency, when Nikolai Nuzhdin, an associate of Lysenko, was proposed for full membership of the Academy.
+* Nuzhdin's candidacy was rejected and Keldysh went on to build a structure within the Academy in which the science of genetics could be properly studied without political interference - an exceptionally difficult thing to achieve in the political situation that existed in the USSR at the time.
+* It was for health reasons that Keldysh stepped down as president of the Academy in 1975.
+* Keldysh received many honours both from his own country and from foreign countries.
 
 Born 10 February 1911, Riga, Latvia. Died 24 June 1978, Moscow, Russia.
 

@@ -7,10 +7,10 @@ orderid: 1906
 title: Boyer, Carl Benjamin
 born: 1906
 died: 1976
-keywords: mathematics, history, calculus, Descartes, algebra, topology, geometry, award
-description: Carl Benjamin Boyer was a pioneering scholar of mathematics history, noted for his seminal works in calculus, algebra, topology and geometry as well as establishing an award for mathematics.
+keywords: carl boyer,boyer
+description: Carl Benjamin Boyer was an American historian of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Carl Benjamin Boyer** was an American historian of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored "The History of the Calculus and Its Conceptual Development" (1945), a seminal work on the history of mathematics.
-2. Developed the formal proof and analysis of Descartes' Rule of Signs for furthering the understanding of mathematical analysis.
-3. Pioneered rigorous and detailed analysis of historical sources for exploring the development of mathematics, particularly the calculus.
-4. Produced a definitive and comprehensive biography of René Descartes.
-5. Published important works in the fields of algebra, number theory, linear topology and transformation geometry.
-6. Designed and implemented first university course on mathematics history in California.
-7. Wrote numerous influential books, articles, and reviews on the subject of mathematics. 
-8. Established the Carl B. Allendoerfer Prize, an annual award for outstanding exposition in mathematics. 
-9. Received the National Medal of Science in 1992 for his contributions to mathematics and its pedagogy.
+* Howard Boyer was a topographer and engineer who married Rebecca who came from a family of farmers.
+* Howard and Rebecca had three children, Carl having an older sister Rebecca Eisenhart Boyer (11 October 1903-16 August 1998) and a younger brother Gilbert Eisenhart Boyer (28 June 1908-28 December 1990).
+* Although born in Hellertown, Carl was brought up in New York.
+* In his final year at High School, Boyer was ranked first in his class and won a Pulitzer scholarship which paid his tuition fees at Columbia College.
+* While an undergraduate at Columbia, Boyer took a course on the history of science given by Frederick Barry (1876-1943).
+* After the award of his A.B., Boyer became a tutor at the Brooklyn branch of the City College of New York.
+* When Boyer began tutoring there it was a men-only College.
+* While tutoring at Brooklyn, Boyer was also still studying at Columbia College.
+* Boyer became an Instructor in mathematics at Brooklyn College in 1934.
+* At Columbia he held a seminar 'Studies in intellectual history of the closing medieval and early modern centuries' which Boyer attended and at this seminar he met Marjorie Duncan Nice.
+* Marjorie and Carl were married on 29 June 1935.
+* However that may have been, Carl Boyer never allowed himself to be discouraged, and he proceeded to become his own kind of mathematician.
+* Of course, the reality was there before the sociologists analyzed it, but the only indication that Carl ever suffered from this was his advice to one of his four sons, all of whom are in scientific or scholarly life, not to go into mathematics unless confident of his own creativeness.
+* In addition to his work at Brooklyn College, Boyer was a Lecturer in Science at University College, Rutgers University, from 1935 to 1941.
+* In 1941 Boyer was promoted to Assistant Professor of Mathematics at Brooklyn College.
+* Following the publication of his book in 1939, Boyer published a number of papers on a wide variety of historical topics.
+* But Carl felt confidence in his work and, having already had to subsidize much of the cost of publication, paid for the storage of the type for some months until reviews should appear.
+* At Brooklyn College, Boyer was promoted to Associate Professor in 1948 and to full Professor in 1952.
+* Boyer played a large role in the History of Science Society.
+* This classic History of Mathematics was updated by Uta C Merzbach after Boyer died and A History of Mathematics by Carl B Boyer and Uta C Merzbach was published in 1991.
+* Making full and critical use of recent scholarship, Boyer has avoided major errors of fact or interpretation.
+* The guiding principle of Boyer's book is that continuity in the development of mathematical ideas is the rule rather than the exception.
+* But Carl was quiet, unobtrusive, modest, and even self-deprecatory.
+* It was intended to dedicate the November 1976 part of Historia Mathematica to Boyer in celebration of his 70th  birthday.
 
 Born 3 November 1906, Hellertown, Pennsylvania, USA. Died 26 April 1976, Brooklyn, New York City, New York, USA.
 

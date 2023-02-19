@@ -7,10 +7,10 @@ orderid: 1923
 title: Borel (2), Armand
 born: 1923
 died: 2003
-keywords: Armand Borel, Algebraic Topology, Linear Algebraic Groups, Lie Groups, Haar Measure, Supercharacters, Adelic Groups
-description: Swiss mathematician Armand Borel profoundly contributed to Algebraic Topology, Linear Algebraic Groups and Lie Groups, notably proving Borel's Theorem, introducing Haar Measure and Supercharacters, and introducing Adelic Groups.
+keywords: armand borel,borel
+description: Armand Borel was a Swiss mathematician who worked in algebraic topology and in the theory of linear algebraic groups.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Armand Borel** was a Swiss mathematician who worked in algebraic topology and in the theory of linear algebraic groups.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the landmark 1965 paper The Ubiquity of Properties of Lattices in Lie Groups, which put forth a groundbreaking result: any connected split reductive group is a product of its maximal split torus and its unipotent radical.
-2. Demonstrated the existence of a Haar measure for a semisimple compact Lie group.
-3. Developed the theory of supercharacters for compact Lie groups.
-4. Contributed to the fields of ergodic theory, representation theory, and algebraic groups. 
-5. Authored a book on algebraic groups, which focused on their geometry, covering topics such as solvable, reductive, and linear groups. 
-6. Established the term “adelic groups”, which denotes a generalization of topological groups, and studies the relationship between algebra and geometry representing a global point of view in mathematics.
-7. Proved Borel's Theorem, which along with Serre's Theorem resolves the so-called irrationality problem in algebraic K-theory of fields.
-8. Obtained a major breakthrough in understanding the structure of unimodular groups, in particular, co-authored a paper that appeared in Inventiones Mathematicae.
-9. Authored a paper that demonstrates the existence of nonarchimedean measures.
-10. Co-authored a paper that links differential equations and holomorphic bundles and provided a new understanding of the geometric structure of the group of rational points of certain algebraic varieties.
+* As well as Stiefel, Borel had attended lectures at the École Polytechnique Fédérale by Hopf who played an important role in influencing Borel's mathematical tastes.
+* Following his graduation, Borel was appointed as a teaching assistant at the École Polytechnique Fédérale in Zürich.
+* Jean Leray became Borel's thesis supervisor and he attended courses which he gave at the Collège de France.
+* After his year in Paris, Borel went to Geneva where he substituted for the professor of algebra from 1950 to 1952.
+* In 1952 Borel married Gabrielle Aline Pittet; they had two daughters Dominique Odette Susan and Anne Christine.
+* In the autumn of 1952 Borel, and his new wife Gaby (as she was always known) set off for the United States.
+* Borel had been invited to spend a year at the Institute for Advanced Study at Princeton and this was extended to a second year.
+* This was an opportunity for Borel to learn a great deal about algebraic geometry and number theory from Weil.
+* We should note at this point the major contribution that Borel made to Bourbaki.
+* Among his books are Topics in the homology theory of fibre bundles (1967), which is based on lectures Borel gave at the University of Chicago in 1954 in which he described the state of the topic at that time adopting the same methods and points of view as in his thesis.
+* Also in 1969 Linear algebraic groups  was published based on a graduate course given by Borel at Columbia University in the spring of 1968.
+* Borel loved to travel and made visits to many countries including India, Mexico and China.
 
 Born 21 May 1923, La Chaux-de-Fonds, Switzerland. Died 11 August 2003, Princeton, New Jersey, USA.
 

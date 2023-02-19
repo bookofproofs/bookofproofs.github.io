@@ -7,10 +7,10 @@ orderid: 1891
 title: Cassels, James
 born: 1891
 died: 1980
-keywords: Mathematics, Ordered Partitions, Algebraic Number Theory, Lattice Theory, Pseudo-Riemannian, Invariant Theory, Linear Groups
-description: James Cassels graduated from Edinburgh University & taught at Ayr Academy. He developed ordered partitions of integers & various theories (lattice, pseudo-Riemannian, invariant, linear groups) & published papers, books & texts.
+keywords: james cassels,cassels
+description: James Cassels graduated from Edinburgh University and became a teacher at Ayr Academy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Cassels** graduated from Edinburgh University and became a teacher at Ayr Academy.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of Ordered Partitions of Integers and published papers on the topic in prestigious mathematics publications, including the Proceedings of the American Mathematical Society.
-2. Wrote two books on algebraic number theory, specifically on ideals and rings of algebraic integers.
-3. Computed the maximal order of elements in a finite group, leading to one of the Clay Mathematics Institute’s Millennium Prize Problems.
-4. Pioneered the concept of 'lattice theory', now an important branch of abstract algebra.
-5. Developed the first construction of pseudo-Riemannian manifolds and published his findings in the Proceedings of the London Mathematical Society.
-6. Discovered the asymptotic properties of classical invariant theory and published a paper on the findings.
-7. Proved various theorems for linear groups and wrote a book about the topic. 
-8. Authored several texts on elliptic functions and the theory of equations. 
-9. Developed general methods for computing the number of irreducible representations of a group.
+* At Edinburgh University Cassels studied Ordinary Mathematics, Natural Philosophy, and Chemistry in session 1910-11; Ordinary Logic, Intermediate Honours Mathematics and Experimental Physics in 1911-12; Intermediate Honours Mathematics, and Natural Philosophy (Dynamics and Thermodynamics), Advanced Mathematics, and Experimental Physics in session 1912-13; Honours Advanced Mathematics, Function Theory, Electrostatics, Dynamics (Advanced), and Experimental Physics (Advanced) in session 1913-14.
+* Cassels became a school teacher, teaching mathematics at The Academy, Ayr.
 
 Born 10 November 1891, Ayr, Scotland. Died 1980, Ayr, Scotland.
 

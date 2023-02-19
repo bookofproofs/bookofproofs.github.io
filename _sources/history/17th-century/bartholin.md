@@ -7,10 +7,10 @@ orderid: 1625
 title: Bartholin, Erasmus
 born: 1625
 died: 1698
-keywords: Erasmus Bartholin, geometry, double refraction, Iceland spar, total internal reflection, logarithm, isoperimetric, perspective, mechanics
-description: Erasmus Bartholin was a Danish mathematician and astronomer, credited with discovering double refraction, explaining total internal reflection and introducing the law of moments.
+keywords: erasmus bartholin,bartholin
+description: Erasmus Bartholin was a Danish mathematician and astronomer who wrote on geometry. He also discovered double refraction.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Erasmus Bartholin** was a Danish mathematician and astronomer who wrote on geometry. He also discovered double refraction.
 
 ### Mathematical Profile (Excerpt):
-1. Erasmus Bartholin was first to demonstrate the existence of the structures of living cells through microscopic observations. 
-2. Erasmus Bartholin showed that the optical properties of Iceland spar, a form of calcite, could be used to explain double refraction. 
-3. Erasmus Bartholin discovered the law of reflection; the angles of incident and reflected light rays remain the same. 
-4. He was the first person to propose a physical explanation for the phenomenon of total internal reflection. 
-5. He proposed a new method to calculate the logarithm, a mathematical process of multiplying numbers and taking their roots. 
-6. Erasmus Bartholin wrote a treatise on isoperimetric problems, which involved finding the greatest possible area enclosed by a given figure. 
-7. He also wrote another treatise on problems of perspective, a mathematical method of representing three-dimensional objects in two dimensions. 
-8. Erasmus Bartholin made advances in mechanics by introducing the law of moments, which expresses the relationship between force, moment, and the lever arm.
+* Caspar Bartholin was a Danish physician and theologian who wrote one of the most widely read Renaissance manuals of anatomy.
+* He was a professor at the University of Copenhagen when Erasmus was born but died when Erasmus was less than four years old.
+* There were six sons in the family, and Erasmus had a brother, Thomas Bartholin, who was nine years older than himself.
+* Erasmus received his first education from private tutors, then he attended a Latin school.
+* Bartholin edited Introduction to the geometry of Descartes  by van Schooten and also translated Optics  of Larissa into Latin.
+* Bartholin considered the problem in geometric form.
+* Bartholin could well have come across the proof in papers which Debeaune sent him for safe keeping shortly before his death in 1652.
+* To see the range of topics on which Bartholin wrote, consider his book De naturae mirabilibus quaestiones academicae Ⓣ(Academic questions on the wonders of the nature)  which he published in 1674.
+* Bartholin wrote a large number of mathematical works but he is best remembered for his discovery of the double refraction of light through a crystal of Iceland spar which had been gathered in an expedition to Iceland in 1668.
+* During his experiments, Bartholin also observed that when the crystals of Iceland spar are rotated about their axis, one of the two images moves in a circle around the other.
+* Bartholin's explanation was based on Descartes' theory of light along with his idea that there were two sets of "pores" in the crystal.
+* Bartholin also prepared for publication the observations of Tycho Brahe.
+* Bartholin is also famed for his medical work, in particular his introduction of quinine in the fight against malaria.
+* Some of his medical contributions were made in conjunction with his brother Thomas Bartholin who was a professor of anatomy at the University of Copenhagen from 1646 to 1661.
+* Thomas Bartholin founded the journal Acta medica et philosophica Hafniensia  to which Erasmus Bartholin contributed papers.
 
 Born 13 August 1625, Roskilde, Denmark. Died 4 November 1698, Copenhagen, Denmark.
 

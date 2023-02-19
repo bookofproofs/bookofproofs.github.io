@@ -7,10 +7,10 @@ orderid: 1914
 title: Potapov, Vladimir Petrovich
 born: 1914
 died: 1980
-keywords: Mathematical Analysis, Matrix Functions, Chebyshev Prize, PhD (Math), Publications, Seminars, Russian Academy of Sciences Award, Professorship, Order of Friendship, Fulbright
-description: Vladimir Potapov was a Ukrainian mathematician devoted to matrix functions and mathematical analysis, receiving prestigious awards and appointments for his success.
+keywords: vladimir potapov,potapov
+description: Vladimir Potapov was a Ukrainian mathematician who worked on matrix functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vladimir Potapov** was a Ukrainian mathematician who worked on matrix functions.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded the Chebyshev Prize of the St. Petersburg Mathematical Society in 2012 for outstanding contributions in mathematical analysis.
-2. Received the Degree of Doctor of Sciences in Mathematics in 2013 after defending his dissertation at St. Petersburg State University.
-3. Authored and co-authored several books on mathematical analysis, some of which have been successfully used in Russian universities as textbooks.
-4. Published more than 50 articles in various international mathematics journals and conferences.
-5. Conducted numerous mathematical seminars to increase awareness and understanding of modern mathematical analysis.
-6. Authored a mimeographed treatise on multivalued sciences which was awarded a special award from the Russian Academy of Sciences.
-7. Mentored several students in mathematics and supervised their research projects.
-8. Appointed as a professor at the St. Petersburg State University in 2014.
-9. Awarded the Medal of the Order of Friendship by the Russian Government in 2017 for his contribution to mathematics.
-10. Received the Fulbright Scholarship for visiting scholars in 2019 to conduct research in mathematical analysis.
+* Potapov's father taught him mathematics, history, literature and languages.
+* Potapov entered Odessa conservatory to study music and for three years he followed the course.
+* At Odessa University, Potapov was a student of Livsic and he was also taught by Livsic's teacher Krein.
+* In 1941 Potapov was evacuated from Odessa which is in south-western Ukraine on the Black Sea coast.
+* In fact they prohibited the use of any subject connected with Potapov's investigations as a theme for a diploma.
+* In 1948 Potapov was invited to the Pedagogical Institute at Odessa.
+* During the 1950s Potapov worked on the theory of J-contractive matrix functions and the analysis of matrix functions became his main work.
+* From 1974 Potapov lectured at Odessa Institute of National Economy, then he went to Kharkov to head the Department of Applied Mathematics at the Institute for low temperature physics.
 
 Born 24 January 1914, Odessa, Ukraine. Died 21 December 1980, Kharkov, Russia.
 

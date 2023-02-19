@@ -7,10 +7,10 @@ orderid: 1855
 title: Craig (2), Thomas
 born: 1855
 died: 1900
-keywords: Thomas Craig, Differential Geometry, Central Angle, Side Lengths, Rational Numbers, Apollonius Problem, Third Order Curve, Conics
-description: Thomas Craig, American mathematician, achieved amazing feats in differential geometry, such as proving existence of a triangle with given central angle/side length, all angles/sides are rational, Apollonius Problem solution, & 3rd order curve/loci correspondence.
+keywords: thomas craig,craig
+description: Thomas Craig was an American mathematician who worked on differential geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,34 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Thomas Craig** was an American mathematician who worked on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an innovative proof of the existence of a triangle with a given central angle and side length in 1677.
-2. Proved that all central angles and side lengths of triangles are in rational numbers in 1679.
-3. Proved that a right angle triangle with a given hypotenuse and an acute angle is uniquely determined by its side lengths in 1682. 
-4. Solved a problem of Apollonius by finding two straight lines crossing two given straight lines at a given angle in 1686. 
-5. Discovered a method of finding the root and the equation of a third order curve in 1692.
-6. Established a correspondence between conics and their loci in 1695.
+* Alexander Craig was a mining engineer who had emigrated from Scotland and was working in the coal mining industry of Luzerne county.
+* Thomas's school education was in the local Pittston schools where he showed himself to be talented, bright and very successful.
+* It was one of the first colleges in the United States to offer an engineering qualification and Craig, who at this time was intent on following his father into a career in engineering, sought a qualification in this subject.
+* Craig's time at Lafayette College was more eventful than his outstanding record in school in Pittston would have predicted.
+* After four years studying at Lafayette College, Craig graduated with a C.E., a civil engineering degree, in 1875.
+* Craig entered the university in 1876 when it opened, one of fifteen students, and he was appointed as a fellow while he worked for his doctorate.
+* Even before he received his Ph.D. Craig was lecturing at Johns Hopkins.
+* Craig owned a manuscript of Karl Weierstrass's lectures on the 'Calculus of Variations' which Weierstrass delivered in Berlin in the summer semester of 1879.
+* It seems more likely that Craig was given a copy of a manuscript of these lectures rather than that he attended Weierstrass's course in Berlin.
+* After his fellowship ended in 1879, Craig was appointed as a member of staff at Johns Hopkins University but, to supplement his income, he also took a part-time job with the United States Coast and Geodetic Survey in Washington, D.C. Craig married Emily Louise Alvord, daughter of General Benjamin Alvord of the United States Army, on 4 May 1880 in Washington, D.C. Emily had been born in Fort Vancouver, Washington on 20 October 1858.
+* Thomas and Emily Craig had two children: Ailsa Craig, born in Washington D.C. on 28 August 1883; and Ethel Craig, born in Baltimore, Maryland, on 26 October 1891.
+* In 1881 Craig ended his part-time appointment with the Coast and Geodetic Survey but, of course, continued in his position at Johns Hopkins University.
+* In publishing in this top quality European journal, Craig was one of the first Americans to publish papers outside the United States.
+* Let us look a little at Craig's teaching by taking an example of the year 1881-82.
+* In the First Half-Year of 1881-82 Craig taught the following courses: 'Mathematical Seminary' (along with J J Sylvester and William Story); 'Calculus of Variations' (2 lectures each week); 'Spherical Harmonics' (2 lectures each week); 'Mechanics' (3 lectures each week); 'Elliptic Functions' (3 lectures each week).
+* In the Second Half-Year of 1881-82 Craig taught the following courses: 'Mathematical Seminary' (along with J J Sylvester, Arthur Cayley and William Story); 'Elliptic Functions' (3 lectures each week); 'Elasticity' (3 lectures each week); and 'Partial Differential Equations' (3 lectures each week).
+* In the First Half-Year of 1882-83 Craig's courses were: 'Elliptic Functions'; 'Definite Integrals'; 'Mechanics'; and 'Calculus of Variations'.
+* In the Second Half-Year of 1882-83 Craig's courses were: 'Partial Differential Equations'; 'Elliptic and Theta Functions'; and 'Hydrodynamics'.
+* We have mentioned some of Craig's books already but perhaps the best known of his works was A Treatise on Linear Differential Equations published in 1889.
+* He recognized and admired the genius of Poincaré; and two elaborate memoirs by the latter, which appeared in the seventh and eighth volumes, were believed to have been sent to the 'American Journal of Mathematics' on Craig's personal solicitation.
+* Writes President Gilman in his Annual Report of the University of 1900: "Kindness toward young men and readiness to encourage them were among his admirable qualities." Speaking from a personal acquaintance extending over many years, the writer always found Dr Craig to be an efficient workman, a pleasant companion, a warm friend, and a good man.
+* Dr Craig was an admirable lecturer.
+* It is well known that, as a lecturer, Dr Craig thought quickly, spoke rapidly, and wrote with great celerity.
+* Those who knew Dr Craig only in his declining years, need to be told of the enthusiasm, the diligence, and the learning which for a long period were his distinguishing characteristics.
+* Although he died in Baltimore, Craig was buried at the town of his birth, Pittston, Pennsylvania, beside his mother who his died ten years before.
+* Craig's father outlived him by ten years.
+* Professor Craig possessed great power of research, and wrote much for various mathematical journals.
+* Professor Craig occupied a place in the very front rank of American mathematicians.
 
 Born 20 December 1855, Pittston, Luzerne county, Pennsylvania, USA. Died 8 May 1900, Baltimore, Maryland, USA.
 

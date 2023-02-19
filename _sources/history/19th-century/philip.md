@@ -7,10 +7,10 @@ orderid: 1854
 title: Philip, Robert
 born: 1854
 died: 1913
-keywords: Robert Philip, St Andrews, Madras College, Hutcheon's School, low-cost algorithm, multidisciplinary materials, satellite imagery
-description: Robert Philip, graduate of St Andrews, headed Hutcheon's School in Glasgow after teaching at Madras College and developed a low-cost algorithm, multidisciplinary materials, and satellite imagery for the supervised classification of remote sensing images.
+keywords: robert philip,philip
+description: Robert Philip graduated from St Andrews and became a teacher at Madras College St Andrews. He moved to Hutcheon's School Glasgow and eventually became headmaster there.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Philip** graduated from St Andrews and became a teacher at Madras College St Andrews. He moved to Hutcheon's School Glasgow and eventually became headmaster there.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an original, low-cost algorithm for the supervised classification of remote sensing images.
-2. Published dozens of papers in peer-reviewed international journals, such as IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing of Environment, The Photogrammetric Record, etc.
-3. Presented numerous academic papers and talks at international conferences and academic forums.
-4. Pioneered the use of digital elevation models (DEMs) in geomorphology.
-5. Developed an innovative method for mapping mediterranean landscapes using satellite imagery.
-6. Pioneered the use of multidisciplinary materials (geomorphology, terrain analysis, and GIS) in his research.
-7. Developed a framework for classifying texture features in remote sensing images.
-8. Assisted in the production of several international research projects relating to the analysis of remote sensing images.
+* Although we do not know Robert's exact date of birth, we do know that he was baptised on 28 February 1854.
+* Philip first matriculated at the University of St Andrews in October 1869 being awarded 'merit' in the bursary competition.
+* After graduating, Philip was an Assistant Mathematics Master at Madras College, St Andrews from 1873 to 1876.
+* It remained at that site throughout Philip's time there.
+* Philip joined the Edinburgh Mathematical Society in February 1885, two years after the Society was founded.
 
 Born February 1854, Largo, Fife, Scotland. Died 1 March 1913, Glasgow, Scotland.
 

@@ -7,10 +7,10 @@ orderid: 1773
 title: Woodhouse, Robert
 born: 1773
 died: 1827
-keywords: Robert Woodhouse, English mathematician, astronomer, analysis, abelian functions, fundamental theorem, multiple integrals, calculus, complex function theory, invariant theory, linear programming, books
-description: Robert Woodhouse-English mathematician/astronomer-significant contributions to analysis, abelian functions, calculus, complex function theory, invariant theory, linear programming-development of fundamental theorem, multiple integrals, books.
+keywords: robert woodhouse,woodhouse
+description: Robert Woodhouse was an English mathematician and astronomer who attempted to bring continental methods into English mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Woodhouse** was an English mathematician and astronomer who attempted to bring continental methods into English mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. He made major contributions to the field of analysis, specifically in the development of the theory of abelian functions.
-2. He was the first to prove the fundamental theorem of algebraic functions, which states that any holomorphic function can be expressed algebraically as a product of linear factors with real or complex coefficients.
-3. He extended the results of Abel and Gauss on the theory of elliptic functions, resulting in a unified theory of abelian functions.
-4. He was the first to introduce the concept of multiple integrals and their application to the solution of differential equations.
-5. He contributed significantly to calculus, developing new methods of integration and formulating new theorems.
-6. He worked in complex function theory, invariant theory, elliptic functions, and linear programming.
-7. He was instrumental in the establishment of the theory of invariant entities and their applications to various fields of mathematics.
-8. He wrote numerous books, such as Theory of Invariant Entities and Treatise on Differential Equations, which became standard references for these fields.
+* As well as Robert junior, the subject of this biography, Judith and Robert Woodhouse had a younger son John Thomas Woodhouse who was born in 1780.
+* Robert junior attended grammar school in North Walsham.
+* Woodhouse was made a fellow of the Royal Society on 16 December 1802.
+* Fellows of a Cambridge College were not allowed to be married so Woodhouse had to resign his fellowship in order that he might marry Harriet Wilken on 20 February 1823.
+* In fact Woodhouse would have married sooner but his income was, until he became Plumian professor, insufficient to support a wife.
+* Robert and Harriot had one son.
+* Woodhouse was interested in the theoretical foundations of the calculus, the importance of notation, the nature of imaginary numbers and other similar topics.
+* In essence Woodhouse was dealing with Taylor series of a function, from which he could directly read off the first, second, third etc.
+* Woodhouse, therefore, failed to have much immediate influence as a reformer in mathematical studies at Cambridge.
+* If the methods of Lagrange, rather than those of Cauchy, had become the accepted methods then Woodhouse would have a much more prominent role in the history of mathematics today.
+* Peacock, in particular, considered Woodhouse's work to be of major importance but in general people did not appreciate his writing which, one would have to say, was rather difficult to understand and rather uninspiring.
+* Another attempt by Woodhouse to bring mathematics at Cambridge up-to-date was in 1804 when he published a paper on elliptic integrals in the Philosophical Transactions of the Royal Society.
+* Woodhouse's other works include A Treatise on Plane and Spherical Trigonometry (1809), A Treatise on Isoperimetrical Problems and the Calculus of Variations (1810), Treatise on Astronomy (1812) and a work on gravitation published in 1818.
 
 Born 28 April 1773, Norwich, England. Died 28 December 1827, Cambridge, England.
 

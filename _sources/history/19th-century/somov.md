@@ -7,10 +7,10 @@ orderid: 1815
 title: Somov, Osip Ivanovich
 born: 1815
 died: 1876
-keywords: Osip Somov, mathematical, kinematic, linear differential equations, integral equations, Normalization, Celestial Mechanics, Painlevé equations
-description: Osip Somov was a Russian mathematician who developed numerous theories in kinematic and linear differential equations, integral equations, Normalization, Celestial Mechanics, and Painlevé equations.
+keywords: osip somov,somov
+description: Osip Somov was a Russian mathematician who was the first in Russia to deal with the solution of kinematic problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Osip  Somov**  was a Russian mathematician who was the first in Russia to deal with the solution of kinematic problems.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Somov-Egorov theorem on the approximation of the solutions of certain second-order linear differential equations.
-2. Discovered the Somov-Frenkel theory relating solutions of certain linear differential equations,to solutions of certain associated integral equations.
-3. Solved several problems in the theory of integral equations.
-4. Developed methods of studying linear differential equations containing small parameters.
-5. Studied and applied the boundary element method in problems of mathematics and engineering.
-6. Developed "Generalized Exponentiated Log-Normal Distribution" which is used in probability theory and the normalization of analytic functions.
-7. Contributed to the theory of N-body problems in the field of Celestial Mechanics.
-8. Made important contributions to the theory of Uniformly Approximable Functions and the theory of Painlevé equations.
+* Osip attended secondary school in Moscow and then entered Moscow University to study mathematics and physics in the famous Faculty of Physics and Mathematics.
+* In 1841 Somov was invited to teach at the University of St Petersburg, and he accepted this invitation and spent the rest of his life living in St Petersburg.
+* Somov was elected as an associate of the St Petersburg Academy of Sciences in 1857, becoming an academician in 1862 on the death of Mikhail Ostrogradski.
+* Somov was the first in Russia to develop a geometrical approach to theoretical mechanics.
+* Other topics Somov studied included elliptic functions and their application to mechanics.
+* The first in Russia to deal with the solution of kinematic problems, Somov included a chapter on this topic in his textbook on theoretical mechanics.
+* Somov's theory of higher-order accelerations of a point, and of an unchanging system of points, was a significant contribution.
+* Somov had a son Pavel Osipovich Somov who was born in 1852 and who went on to become a famous mathematician.
+* Pavel Somov created the Russian school of the theory of mechanics of machines.
 
 Born 1 June 1815, Otrada, Moscow gubernia (now oblast), Russia. Died 26 April 1876, St Petersburg, Russia.
 

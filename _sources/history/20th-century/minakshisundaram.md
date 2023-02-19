@@ -7,10 +7,10 @@ orderid: 1913
 title: Minakshisundaram, Subbaramiah
 born: 1913
 died: 1968
-keywords: Subbaramiah Minakshisundaram, Riemann-Stieltjes, Minakshisundaram-Van der Waerden zeta-function, Minakshisundaram-Pleijel theorem, gamma functions, volumetric integrals, mathematical statistics
-description: Indian mathematician Subbaramiah Minakshisundaram developed integral form for Riemann-Stieltjes problem and Minakshisundaram-Van der Waerden zeta-function, improved Veblen’s theorem, and worked on gamma functions, volumetric integrals, and mathematical statistics.
+keywords: subbaramiah minakshisundaram,minakshisundaram
+description: Subbaramiah Minakshisundaram was an Indian mathematician who worked on partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Subbaramiah Minakshisundaram** was an Indian mathematician who worked on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Subbaramiah Minakshisundaram developed an integral form to solve the Riemann-Stieltjes problem for multiple integrals.
-2. He also established bounds in the theory of differential forms and improved upon Veblen’s existence theorem.
-3. He introduced the Minakshisundaram-Van der Waerden zeta-function, which is used to study properties of an extremal Riemann surface.
-4. He also proved a theorem on the behavior of harmonic functions, now known as the Minakshisundaram-Pleijel theorem.
-5. He also worked on the theory of gamma functions, determining exact values for certain integrals involving the sine and cosine functions.
-6. He also calculated several volumetric integrals, including the volume of a unit sphere.
-7. He also published a paper on the use of probability distributions in mathematical statistics.
+* The letter mentioned that Professor Robert Oppenheimer, Director of the Institute, requested to the Vice Chancellor of Andhra University that this brilliant young Subbramiah Minakshisundaram should be spared and given the opportunity to work in the Research Institute with several eminent mathematicians and physicists such as Professor Albert Einstein.
+* Subbramiah Minakshisundaram should be permitted to work at the Institute for Advanced Study for couple of years.
+* He called for the young Subbramiah Minakshisundaram and this began a beautiful relationship between them.
+* In fact, the paper contains the famous zeta function, now called the Minakshisundaram-Pleijel zeta function, which is a zeta function encoding the eigenvalues of the Laplacian of a compact Riemannian manifold.
 
 Born 12 October 1913, Trichur (now Trissur), Kerala State, India. Died 13 August 1968, Visakhapatnam, Andhra Pradesh, India.
 

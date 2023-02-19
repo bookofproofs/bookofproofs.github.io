@@ -7,10 +7,10 @@ orderid: 1819
 title: Aronhold, Siegfried Heinrich
 born: 1819
 died: 1884
-keywords: Aronhold, Cauer system, determinants, Berlin Academy, Crelle’s Journal, projective geometry, Aronhold–Derbyshire method, Aronhold-Sabin identity
-description: Siegfried Aronhold made significant contributions to algebra and geometry, founding the Berlin Academy of Sciences and Crelle’s Journal, inventing the Aronhold-Sabin identity, and forming the Aronhold-Cauer system.
+keywords: siegfried aronhold,aronhold
+description: Siegfried Aronhold made important contributions to the theory of invariants.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Siegfried Aronhold** made important contributions to the theory of invariants.
 
 ### Mathematical Profile (Excerpt):
-1. Established a system for organizing mathematical identities, now known as the Aronhold-Cauer system.
-2. Developed a generally accepted classification of the primary tools of algebra.
-3. Contributed to the development of the theory of determinants, including the theory of polynomials in terms of determinants.
-4. Helped found the Berlin Academy of Sciences, an esteemed organization dedicated to promoting scientific progress.
-5. Founded the first German journal for mathematical research, Crelle’s Journal.
-6. Discovered relationships between geometric configuration and algebraic expression, providing a bridge between the two disciplines.
-7. Pioneered the use of projective geometry.
-8. Developed a method for the numerical calculation of square roots, known as the "Aronhold–Derbyshire" method.
-9. Co-authored a landmark paper on the Cayley–Klein metrics, which is regarded as a major contribution to the study of analytical geometry.
-10. Invented the Aronhold-Sabin identity, an important formula in multilinear algebra.
+* The Aronhold family were Jewish, and when Siegfried Aronhold matriculated at university he gave his religion as Jewish.
+* His father died while he was studying at the Gymnasium and, following this tragedy, his mother moved to Königsberg where Aronhold attended the Altstädtischen Gymnasium, graduating in 1841.
+* Aronhold then entered the University of Königsberg to study mathematics and natural sciences, matriculating on 25 October 1841.
+* When Jacobi was appointed to the University of Berlin in June 1844, Aronhold followed him and he continued his studies of mathematics in Berlin under Lejeune Dirichlet and Jakob Steiner.
+* Things were certainly not easy for the young Aronhold.
+* Aronhold continued to teach at the Academy of Architecture as a dozent for several years.
+* Maximilian Aronhold became an assistant judge in 1900.
+* At this stage Aronhold took over Weierstrass's teaching and, two years later, succeeded to his chair at the Industrial Institute.
+* The most famous of these students was Arthur Moritz Schönflies, who was one of Aronhold's students in the early 1870s, but he had also taught Schönflies's older brother Samuel Martin Schönflies over ten years earlier.
+* Aronhold became Vice President of the new Technical University but was forced to step down from this post on 1 July 1880 because of a serious illness.
+* Aronhold made important contributions to the theory of invariants.
+* The topic was also being intensively studied by Sylvester, Cayley, Clebsch and Hesse but Aronhold was the first German to work on this topic.
+* Aronhold established his theory in general and does not derive any specific equations.
+* These equations, which are characteristic of the theory of invariants, are known as 'Aronhold's differential equations'.
+* Although others were working in the same area at this time, Aronhold states that he arrived at his principles in 1851 and so has priority.
+* The problem of the nine points of inflection of the third order plane curve, which had been discovered by by Plücker, was brought to completion by Hesse and Aronhold.
+* Aronhold explicitly established the required fourth degree equations and formulated a theorem on plane curves of the fourth order.
+* Finally we note that Aronhold was honoured with election to the Göttingen Academy of Sciences in 1869 and he was appointed as an editor of Annali di Matematica in 1867.
 
 Born 16 July 1819, Angerburg, East Prussia (now Węgorzewo, Poland). Died 13 March 1884, Berlin, Germany.
 

@@ -7,10 +7,10 @@ orderid: 1918
 title: Schwinger, Julian Seymour
 born: 1918
 died: 1994
-keywords: quantum electrodynamics, renormalization, Schwinger’s renormalization group, QED, superselection rules, gauge theory, path integrals
-description: Schwinger formulated quantum electrodynamics and was awarded the Nobel Prize for his invaluable contributions to QED, renormalization and other physics fields.
+keywords: julian schwinger,schwinger
+description: Schwinger formulated quantum electrodynamics and thus reconciled quantum mechanics with Einstein's special theory of relativity.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Schwinger** formulated quantum electrodynamics and thus reconciled quantum mechanics with Einstein's special theory of relativity.
 
 ### Mathematical Profile (Excerpt):
-1. He proposed the concepts of renormalization, couplings constant renormalization, and Schwinger's renormalization group.
-2. He made substantial contributions to the quantum theory of electrodynamics, including the theory of quantum electrodynamics (QED) and quantum electrodynamic corrections in quantum field theory.
-3. He derived the Schwinger–Dyson equation for calculating the vacuum polarization. 
-4. He received Nobel Prize in Physics in 1965 for his outstanding work on QED. 
-5. He introduced the concept of superselection rules and the theory of supersymmetry. 
-6. He was amongst the earliest scientists to recognize the importance of renormalization in calculation of physical laws in the 1930s. 
-7. He made important contributions to the development of gauge theory in particle physics. 
-8. He worked on the C-theorem, a mathematical proof of renormalizability. 
-9. He introduced the method of virtual pairs in quantizing a system.
-10. He also worked on the mathematics of the path integrals in quantum mechanics and derived the heat kernel expansion.
+* After the award of his doctorate Schwinger worked at the University of California, Berkeley from 1939 to 1941.
+* Schwinger did not like the work on atomic bombs so he got in his car and drove to Boston where Uhlenbeck was working on radar at the Radiation Laboratory.
+* Schwinger asked Uhlenbeck if he could work there and it was agreed.
+* In 1961 Schwinger was awarded an honorary doctorate from Purdue.
+* In nominating him for this degree Hubert M James wrote on 6 December 1960 about Schwinger's contributions.
+* Schwinger was one of the inventors in the 1940s of the theory of renormalization, mentioned above.
+* In 1951 he proposed, what is today called the Schwinger effect in quantum electrodynamics, where electron-positron pairs are sucked out of a vacuum by an electric field.
+* Schwinger was joint winner of the Nobel Prize for Physics (1965) for his work in formulating quantum electrodynamics and thus reconciling quantum mechanics with Einstein's special theory of relativity.
+* Using the method of renormalization which he also developed Schwinger was able to prove that a small anomalous contribution should be added to the value of the magnetic moment accepted until then.
+* Schwinger's calculation was indeed earlier than and very important for the proper interpretation of these measurements.
+* From 1972 until his death in 1994 Schwinger worked at the University of California, Los Angeles.
+* Schwinger gave his students much more than guidance on their research.
+* He gave them a depth of understanding and a mastery of the field which permitted each to become not a Schwinger disciple, but an independent scientist.
+* The list of his contributions is staggering, from his early work leading to the Schwinger action principle, Euclidean quantum field theory, and the genesis of the standard model, to later valuable work on magnetic charge and the Casimir effect.
+* The Nobel Prize for Physics was certainly not the only honour Schwinger received.
 
 Born 12 February 1918, New York, USA. Died 16 July 1994, Los Angeles, California, USA.
 

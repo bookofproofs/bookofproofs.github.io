@@ -7,10 +7,10 @@ orderid: 1597
 title: Faille, Jean Charles de La
 born: 1597
 died: 1652
-keywords: Jan-Karel della Faille, Computer Algebra, Math-in-CAD, MATH-68, MATHEMATICA, AI, Symbol Processing
-description: Jan-Karel della Faille founded the Computer Algebra System & Math-in-CAD project, created MATH-68 & algorithms for symbol processing & AI applications.
+keywords: jan-karel della faille,faille
+description: Jan-Karel della Faille or Jean Charles de La Faille was a Flemish Jesuit who was the first to determine the centre of gravity of the sector of a circle.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jan-Karel della Faille** or **Jean Charles de La Faille** was a Flemish Jesuit who was the first to determine the centre of gravity of the sector of a circle.
 
 ### Mathematical Profile (Excerpt):
-1. Was the founder of the methodology known as Computer Algebra which was the first to enable computer manipulation of symbolic mathematical expressions. 
-2. Founded the Math-in-CAD project - a project designed to automate the processes of geometry, algebra and symbolic manipulation in CAD (Computer-Aided Design) software. 
-3. Developed the program called MATH-68 which was the first computer algebra package. 
-4. Co-invented MATHEMATICA, a widely used software platform for scientific and engineering computations. 
-5. Authored the book "The Symbolic Computer Language for Mathematical Computations" introducing the fundamental ideas of symbolic programming language. 
-6. Established the Computer Algebra System and Mathematics Working Group in the Netherlands, which was the first organization devoted to the development of symbolic computing. 
-7. Was the first to demonstrate and publish the application of AI (Artificial Intelligence) to symbolic mathematical problems through the development of an AI-based computer algebra system. 
-8. Created algorithms for pattern matching and symbolic-language processing which enabled the computer to record and process complex mathematical expressions.
+* His father was Jean-Charles de La Faille, seigneur de Rymenam, while his mother was Marie van de Wouwere.
+* De la Faille became a disciple of Saint-Vincent, whom he met in Antwerp where he was also influenced by François d'Aguilon.
+* De la Faille taught at the Jesuit College of Louvain from 1626 until 1628 when, after a short stay in Lier, he left for Spain on 23 March 1629 where he was appointed as a professor at the Imperial College in Madrid.
+* De la Faille advised Philip IV on questions of defence and of military engineering during this period.
+* La Faille also taught mathematics and military engineering in Madrid.
+* De la Faille helped Philip IV by serving as adviser on fortifications to the Duke of Alba along the Spanish-Portuguese border from 1641 until 1644.
+* Della Faille soon became the prince's trusted advisor, and accompanied him on his military campaigns.
+* The education that Juan José de Austria received from della Faille must have exerted a decisive influence on his interest in modern science, for he subsequently became Maecenas to Spanish scientists, employing as his personal physician such significant figures in Spanish scientific renewal as Juan Bautista Juanini.
+* De la Faille made military expeditions to Naples, Sicily and Catalonia with Juan José de Austria who was given his first military command in 1647 when sent to Naples to attempt to crush an uprising.
+* In 1651 de la Faille accompanied him when he led the Spanish army against the rebellion in Catalonia.
+* The army besieged Barcelona, the capital of the province, and in October 1652 the city surrendered and de la Faille entered the captured city along with the army.
+* De la Faille wrote Theses mechanicae in 1625.
+* La Faille ended his work with four corollaries which revealed his ultimate goal: an examination of the quadrature of the circle.
+* One of de la Faille's close personal and scientific friends was van Langren.
+* At the request of his family, the Belgian painter Anthony Van Dyck painted de la Faille's portrait.
+* In this famous portrait, de la Faille is in religious habit and is represented with his mathematical instruments such as a compass, a square and a globe.
 
 Born 1 March 1597, Antwerp, Dutch Republic (now Belgium). Died 4 November 1652, Barcelona, Spain.
 

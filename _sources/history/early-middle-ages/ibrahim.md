@@ -7,10 +7,10 @@ orderid: 908
 title: Ibrahim Ibn Sinan
 born: 908
 died: 946
-keywords: Islamic, Mathematician, Astronomer, Geometry, Theory of Integration, Square Root, Cubic Equations
-description: Ibrahim ibn Sinanwas an Islamic mathematician and astronomer who made significant contributions to geometry and integration and was an early innovator in cubic equations and square roots.
+keywords: ibrahim ibn sinan,ibrahim
+description: Ibrahim ibn Sinan was an Islamic mathematician and astronomer who studied geometry and in particular tangents to circles. He also made advances in the theory of integration.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ibrahim ibn Sinan** was an Islamic mathematician and astronomer who studied geometry and in particular tangents to circles. He also made advances in the theory of integration.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the earliest version of the algorithm for computing the square root of a number.
-2. Compiled one of the earliest works on the solving of spherical trigonometric problems.
-3. Developed the earliest known method of interpolation.
-4. Discovered a novel method for computing the volume of a paraboloid of revolution.
-5. Was one of the first mathematicians to calculate the area of a triangle.
-6. Developed a unique method for solving complicated Cubic equations.
-7. Extensively studied the Greek mathematics of the day and is credited with criticizing and refining them.
+* Ibrahim's most important work was on the quadrature of the parabola where he introduced a method of integration more general than that of Archimedes.
+* His grandfather Thabit ibn Qurra had started to view integration in a different way to Archimedes but Ibrahim realised that al-Mahani had made improvements on what his father had achieved.
+* Ibrahim is also considered the foremost Arab mathematician to treat mathematical philosophy.
+* We know of Ibrahim's works through his own work Letter on the description of the notions Ibrahim derived in geometry and astronomy in which Ibrahim lists his own works.
+* For example Ibrahim uses an arithmetical term to denote the product of two geometrical lines.
+* In On the measurement of the parabola Ibrahim ibn Sinan gives a beautiful proof that the area of a segment of the parabola is four-thirds of the area of the inscribed triangle.
+* It also provides a critical analysis of the observations underlying Ptolemy's solar theory, and Ibrahim ibn Sinan provides his own theory of the sun.
+* Ibrahim proves in this work that the stereographic projection maps circles which do not pass through the pole of projection onto circles.
+* Examples are given which illustrate how Ibrahim applied an orthogonal compression to transform a circle into an ellipse, and an oblique compression to map a hyperbola into a second hyperbola.
+* In a different work Ibrahim uses a transformation which maps figures keeping invariant the ratio between their areas.
 
 Born 908, Baghdad, (now in Iraq). Died 946, Baghdad, (now in Iraq).
 

@@ -7,10 +7,10 @@ orderid: 1555
 title: Lavanha, João Baptista
 born: 1555
 died: 1624
-keywords: Portuguese engineer, mathematics, navigation, infinite series, Lagrange's theorem, astronomy, mechanics, applied mathematics, Latin American Congress of Mathematics, Portuguese-Spanish dispute, Theory of Equations, Royal Academy of Sciences
-description: Joao Baptista Lavanha, a Portuguese engineer, wrote on mathematics and navigation proving Lagrange's theorem, founding a mathematical journal, and writing "Theory of Equations". He also contributed to the Latin American Congress of Mathematics and helped settle a Portuguese-Spanish dispute.
+keywords: joão baptista lavanha,lavanha
+description: Joao Baptista Lavanha was a Portuguese engineer who wrote on mathematics and navigation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joao Baptista Lavanha** was a Portuguese engineer who wrote on mathematics and navigation.
 
 ### Mathematical Profile (Excerpt):
-1. Was appointed by the Portuguese government to reform the teaching of mathematics in the country's universities.
-2. Wrote a treatise titled “Mathematical Reflexions”, in which he developed the concept of an infinite series and proved Lagrange's theorem.
-3. Founded the mathematical journal “More Mathematicarum Commentarii”, which published his work in the areas of astronomy, mechanics and applied mathematics.
-4. Established the Instituto Médico-Cirúrgico of Portugal, where he taught clinical medicine, psychology and mathematics.
-5. Was a key organizer and patron of the Latin American Congress of Mathematics, which was held in Chile in 1872.
-6. Helped quell a dispute between the Portuguese and Spanish astronomers in the same year over the creation of a unified system of astronomical measurement.
-7. In 1880, at the Instituto de Coimbra, he wrote the seminal work “Theory of Equations.”
-8. Was appointed to the Royal Academy of Sciences of Portugal and was made a knight of the Order of São Bento.
+* His father, Luis de Lavanha, was a gentleman in the Portuguese Court while nothing is known of his mother except her name, D Jerónima Dança.
+* Nothing is known of Lavanha's childhood or is youth but he is said to have been sent by his patron, the king of Portugal D Sebastian (1554-1578), to study in Rome under the professor of mathematics there.
+* In an attempt to correct this, Philip founded an Academy of Mathematics in Madrid with Lavanha as its first professor.
+* Lavanha was appointed cosmographer to the king in 1591 (although he did not assume the full duties of that position for a few years) and about the same time he moved from Madrid to Lisbon where he taught mathematics to sailors and navigators.
+* Lavanha was given a special task of writing the history of the Spanish royal family.
+* In fact Lavanha himself had married in the 1590s.
+* Lavanha is best known for his contributions to navigation.
+* a work printed by Lavanha shortly after being appointed chief cosmographer of Portugal.
+* Lavanha gives rules for determining latitude and tables of declination of the Sun.
+* Another work by Lavanha in this area is his Compendio de Geografia.
+* Lavanha also studied instruments used in navigation, constructing astrolabes, quadrants and compasses.
+* Lavanha taught mathematics to many leading people including Prince Emmanuel Filiberto of Sabóia (1528-1580) (who was Duke of Savoy from 1553 to 1580), the famous novelist, poet and playwright Miguel de Cervantes (1547-1616), the dramatist and poet Félix Arturo Lope de Vega (1562-1635), and Philip IV (1605-1665) of Spain before he ascended to the throne of Spain in 1621.
+* Among Lavanha's publications was a translation of Euclid (1584), the tables of the sun Taboas do lugar do So (1600), and a work containing all the mathematical facts a learned man needed to know, Descripción del Universo (1613).
+* In 1609, Lavanha joined the Order of Christ which, given his Jewish origins, caused some criticism.
 
 Born 1555, Lisbon, Portugal. Died 31 March 1624, Madrid, Spain.
 

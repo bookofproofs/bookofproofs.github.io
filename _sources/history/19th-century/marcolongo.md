@@ -7,10 +7,10 @@ orderid: 1862
 title: Marcolongo, Roberto
 born: 1862
 died: 1943
-keywords: Vector calculus, Theoretical physics, Mathematics research, Teaching methods, Software library, Machine learning algorithms, Awards/Recognitions
-description: Roberto Marcolongo: An Italian mathematician renowned for his research in vector calculus, theoretical physics, and mathematics research. He developed numerous teaching methods, software libraries, and machine learning algorithms. Received multiple awards/recognitions.
+keywords: roberto marcolongo,marcolongo
+description: Roberto Marcolongo was an Italian mathematician, known for his research in vector calculus and theoretical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Roberto Marcolongo** was an Italian mathematician, known for his research in vector calculus and theoretical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Contributed to numerous mathematical research articles published in prestigious journals.
-2. Developed novel teaching methods for introducing mathematics to students.
-3. Spearheaded numerous maths-based research projects.
-4. Founded a new mathematics research center dedicated to furthering the field.
-5. Developed an innovative software library for complex mathematical calculations.
-6. Published a series of mathematics textbooks for junior high and high schoolers.
-7. Co-organized an international conference on mathematical education.
-8. Developed a set of machine learning algorithms to facilitate the analysis of mathematical data.
-9. Authored a novel instruction manual for mathematicians interested in applied mathematics.
-10. Received numerous awards and recognitions throughout his career for his contributions to the field of mathematics.
+* Marcolongo enrolled in the degree course in mathematics at the University of Rome where he studied with Guiseppe Battaglini, Luigi Cremona and Valentino Cerruti (1850-1909), who lectured to him in mechanics.
+* Marcolongo then began applying for chairs so, in 1897, entered competitions for the chair of rational mechanics at the University of Padua and the chair of higher mathematics at the University of Turin.
+* In both of these competitions his main opponent was Tullio Levi-Civita who was eleven years younger than Marcolongo.
+* These competitions proved somewhat awkward with Marcolongo being declared the winner of both of these despite having received two votes less that Levi-Civita.
+* The Ministry of Education, which had to make the final decisions based on the advice from the judging panels, offered Marcolongo the Padua chair but he turned it down.
+* The Ministry offered to confirm Marcolongo as extraordinary professor of rational mechanics at Messina, so he remained there.
+* In 1899, after receiving the opinion of a commission composed of Vito Volterra, Giacinto Morera and Carlo Somigliana (1860-1955), Marcolongo was promoted to the chair of rational mechanics at Messina.
+* Marcolongo would have liked to return to his home city of Rome and in 1909 he applied for a position there but he was unsuccessful.
+* Marcolongo married Maria Santi and their son Fernando Marcolongo was born in Messina on 28 August 1905.
+* Fernando Marcolongo became a medical researcher with an impressive list of over 70 top quality publications.
+* Another son, Aldo Marcolongo, was born in Messina on 14 January 1904 and he became a chemist.
+* Roberto Marcolongo became a corresponding member of the Accademia Nazionale dei Lincei in 1912 and a full member in 1921.
+* Marcolongo was among the Italian mathematical physicists who accepted the theory of relativity.
+* In fact Marcolongo established a lengthy and fruitful collaboration with Cesare Burali-Forti and they were jokingly baptised by their colleagues as the "vector binomial." Their Elementi di calcolo vettoriale con numerose applicazioni alla geometria, alla meccanica e alla fisica matematica Ⓣ(Elements of vector calculation with numerous applications to geometry, mechanics and mathematical physics) (Bologna 1909, French translation, Paris 1910, 2nd ed., Bologna 1921, 3rd ed., Milan 1925) presented the fundamentals and notation of a so-called minimum system and gave applications to the mechanics of continuous geometry and differential geometry on a surface.
+* The Analysis vectorielle générale Ⓣ(General vector analysis) (two volumes published in Pavia, 1912-13), on which Marcolongo collaborated with Matteo Bottasso and Cesare Burali-Forti, introduces and shows the possibilities of applying vector homographies, a type of linear transformation between vectors, which constitutes an alternative to the vector calculus of other authors, such as J Willard Gibbs.
+* Marcolongo also had a strong interest in the history of science and technology.
+* In fact in Marcolongo's publication list there are 24 papers relating to Leonardo da Vinci which he published before the book appeared in 1939.
+* Marcolongo also distinguished himself for his contribution to the dissemination of scientific culture in Italy, which over the years became increasingly central to his work.
+* Marcolongo's main purpose was therefore to demonstrate the power of his mathematical methods.
+* The above quote mentions that Marcolongo informed Levi-Civita about his advances and we note that he did this in letters he wrote to Levi-Civita on 1 August 1904, 13 March 1905, 12 November 1905, 22 March 1906, and 25 April 1912.
+* Two texts on university teaching in Marcolongo's publication list stand out as being particularly influential.
+* Interest by Marcolongo in secondary education, especially for technical and vocational schools, is already evident in his Relazione sull'ordinamento dei programmi della Scuola d'arti e mestieri di Messina Ⓣ(Report on the organization of programs of the School of Arts and Crafts of Messina) (Messina, 1902).
+* Marcolongo found himself involved in bitter controversies derived from scientific and academic rivalries that featured Italian vectorialists.
+* In fact the close cooperation between Marcolongo and Burali-Forti only ran into difficulties over Burali-Forti's attack on Einstein's theory of relativity in his paper Espaces courbes.
+* In October 1932, Marcolongo enrolled in the National Fascist Party.
+* This party had been founded by Benito Mussolini in 1921 and by the time Marcolongo joined it was the only political party allowed in Italy.
+* In April 1942 Marcolongo was appointed to the Reale Accademia d'Italia.
+* After being appointed professor emeritus in 1937, Marcolongo returned to Rome, the city of his birth, where he died on 16 May 1943.
+* We note that Marcolongo's son, Fernando, was an extraordinary professor of medical pathology at the University of Catania when the Allies invaded Sicily, but he survived the war.
 
 Born 28 August 1862, Rome, Italy. Died 16 May 1943, Rome, Italy.
 

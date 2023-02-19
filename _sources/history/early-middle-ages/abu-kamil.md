@@ -7,10 +7,10 @@ orderid: 850
 title: Abu Kamil, ibn Aslam Shuja
 born: 850
 died: 930
-keywords: Abu Kamil Shuja, Islamic, algebraic, algebra, geometrical methods, conic sections, Fibonacci sequence
-description: Abu Kamil Shuja was an Islamic mathematician, who developed algebraic methods for geometrical problems, such as conic sections and square root calculation, as well as introducing the Fibonacci sequence.
+keywords: abu kamil shuja,abu
+description: Abu Kamil Shuja was an Islamic mathematician. He was one of Al-Khwarismi's successors and applied algebraic methods to geometric problems.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,17 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abu Kamil Shuja** was an Islamic mathematician. He was one of Al-Khwarismi's successors and applied algebraic methods to geometric problems.
 
 ### Mathematical Profile (Excerpt):
-1. First to give a comprehensive mathematical explanation of the algebraic equation system known as "al-jabr wa-al-muqabala";
-2. Demonstrated a method of solving quadratic equations;
-3. Introduced the concept of square root;
-4. Developed the theory of algebraic equations from the ground up using algebraic methods, removing the need to use geometrical methods;
-5. Established formulas for representing arithmetic, algebraic, and geometric progressions;
-6. Provided a comprehensive geometrical and trigonometric treatment of conic sections;
-7. Advanced the sine and cosine by introducing new notations and discoveries;
-8. Invented the Fibonacci sequence;
-9. Established a sophisticated theory of mathematical induction;
-10. Developed various methods of computing areas and volumes;
-11. Developed a novel number system based on decimal fractions.
+* Very little is known about Abu Kamil's life - perhaps even this is an exaggeration and it would be more honest to say that we have no biographical details at all except that he came from Egypt and we know his dates with a fair degree of certainty.
+* The Fihrist includes a reference to Abu Kamil and among his works listed there are: (i) Book of fortune, (ii) Book of the key to fortune, (iii) Book on algebra, (vi) Book on surveying and geometry, (v) Book of the adequate, (vi) Book on omens, (vii) Book of the kernel, (viii) Book of the two errors, and (ix) Book on augmentation and diminution.
+* Works by Abu Kamil which have survived, and will be discussed below, include Book on algebra, Book of rare things in the art of calculation, and Book on surveying and geometry.
+* Although we know nothing of Abu Kamil's life we do understand something of the role he plays in the development of algebra.
+* The role of Abu Kamil is important here as he was one of al-Khwarizmi's immediate successors.
+* In fact Abu Kamil himself stresses al-Khwarizmi's role as the "inventor of algebra".
+* There is certainly no doubt that Abu Kamil considered that he was building on the foundations of algebra as set up by al-Khwarizmi and indeed he forms an important link in the development of algebra between al-Khwarizmi and al-Karaji.
+* There is another reason for Abu Kamil's importance, however, which is that his work was the basis of Fibonacci's books.
+* So not only is Abu Kamil important in the development of Arabic algebra, but, through Fibonacci, he is also of fundamental importance in the introduction of algebra into Europe.
+* The Book on algebra by Abu Kamil is in three parts: (i) On the solution of quadratic equations, (ii) On applications of algebra to the regular pentagon and decagon, and (iii) On Diophantine equations and problems of recreational mathematics.
+* It was written by Abu Kamil, not for mathematicians, but rather for government land surveyors.
+* Abu Kamil also gives rules to calculate the volume and surface area of various solids such as rectangular parallelepipeds, right circular prisms, square pyramids, and circular cones.
+* For the pentagon and decagon the rules which Abu Kamil gives, although without proof in this work, were fully proved in his algebra book.
+* Firstly Abu Kamil is the first Arabic mathematician whom we know solved indeterminate problems of the type found in Diophantus's work.
+* Secondly, as far as we know, Abu Kamil wrote before Diophantus's Arithmetica had been studied in depth by the Arabs.
+* Thirdly, Abu Kamil explains certain methods which are not found in the known books of the Arithmetica.
 
 Born about 850, (possibly) Egypt. Died about 930.
 

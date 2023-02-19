@@ -7,10 +7,10 @@ orderid: 1837
 title: De Tilly, Joseph Marie
 born: 1837
 died: 1906
-keywords: Joseph Tilly, non-Euclidean geometry, advanced calculus, Fermat-Tilly theorem, number theory, analytical geometry, analytical functions
-description: Joseph Tilly, Belgian soldier, developed advanced calculus, Fermat-Tilly theorem & analytical functions, and contributed to number theory, analytical geometry & calculus.
+keywords: joseph tilly,de
+description: Joseph Tilly was a Belgian soldier who published works on non-Euclidean geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Tilly** was a Belgian soldier who published works on non-Euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first concepts of mathematical analysis and published Lectures on Analysis in 1833, setting the groundwork for advanced calculus.
-2. Proved the Fermat-Tilly theorem, a major advance in number theory.
-3. Discovered the number of Fermat numbers, a significant breakthrough in number theory.
-4. Used his work in analytical geometry to develop spherical trigonometry, a major advancement for surveying, navigation and astronomy.
-5. Developed the theory of convergence of series and developed order theory, a concept necessary for the study of calculus.
-6. Developed the concept of function, which provided the basis for the modern understanding of calculus.
-7. Introduced the theory of analytical functions and set the essential principles of complex analysis.
-8. Demonstrated the theorem of quadratic reciprocity, an important milestone in algebraic number theory.
-9. Developed various techniques for solving polynomial equations and formulating solutions of equations that could not be solved by traditional methods.
-10. Formulated the idea of continuity, an important concept in calculus and analysis.
+* Tilly studied the principles of geometry, Euclid's fifth postulate and non-euclidean geometry without being aware that this had become a major topic of interest.
+* It was only in 1866 that he learnt about the work of the famous Russian mathematician on non-euclidean geometry, then in 1870 Tilly published a work Études de méchanique abstraite  on Lobachevsky space.
+* Until this point Tilly had worked in isolation and it is certainly worth emphasising just how much harder this had made his research.
+* It was also made more difficult by the fact that Tilly did not have easy access to library material which is so necessary in order to write an authoritative historical work.
+* There were complaints that Tilly had unduly emphasised the scientific education of future officers at the École Militaire.
+* An inspector at the military school declared that Tilly was not allowed to use differentials, and that he must cease immediately from any mention of the infinitely small.
+* Tilly must have carried on with his methods of teaching calculus despite these warnings and as a consequence he was dismissed from his post and forced into early retirement in August 1900.
 
 Born 16 August 1837, Ypres, Belgium. Died 4 August 1906, Munich, Germany.
 

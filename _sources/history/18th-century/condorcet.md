@@ -7,10 +7,10 @@ orderid: 1743
 title: De Condorcet, Marquis
 born: 1743
 died: 1794
-keywords: Condorcet, probability, Bayes, Bernoulli, calculus, isoperimetric, brachistochrone, law
-description: Marquis de Condorcet's philosophical works focused on probability, Bayes' theorem, Bernoulli, calculus, isoperimetric, brachistochrone, and a new law of large numbers.
+keywords: marquis de condorcet,de
+description: The Marquis de Condorcet's most important work was on probability and the philosophy of mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,76 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 The **Marquis de Condorcet**'s most important work was on probability and the philosophy of mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Condorcet's theorem is a major result in probability theory which extends Bayes' theorem to unequal measures between events. 
-2. He described the probability calculus in his Theory of Chances and its Application to Natural Philosophy. 
-3. Condorcet wrote the first detailed analysis of operations on probability distributions for Bernoulli variables. 
-4. He also wrote a paper introducing the method of least squares which provided a way of fitting curves to measured data. 
-5. Condorcet was among the first mathematicians to realize the importance of integrals in calculus. 
-6. He used his knowledge of calculus to solve the classical isoperimetric problem. 
-7. He proposed a formulation of the tautochrone problem, now known as the brachistochrone. 
-8. Condorcet developed a new version of the law of large numbers.
+* His parents were Jean Pierre Antoine Caritat de Condorcet (1702-1743) and Marie Madeleine Catherine Gaudry (1710-1784).
+* Antoine Caritat de Condorcet was a military man and was captain of the Barbançon regiment.
+* He married Madeleine Gaudry on 12 March 1740 in Ribemont.
+* Madeleine had been born in Ribemont on 30 January 1710 and had married her first husband Fulcrand Philippe Etienne de Saint Félixon on 3 January 1731.
+* Antoine was then Madeleine's second husband but, sadly, he was killed on manoeuvres near Neuf Brisach, France, on 22 October 1743, only five weeks after the birth of their only child Marie Jean Antoine Nicolas de Caritat, the subject of this biography.
+* The noble Condorcet family had undergone forced religious changes which are worth mentioning since they almost certainly had an impact on the young child.
+* Henri de Caritat, his great-great-great-great grandfather, had adopted the Reformed faith as early as 1561 but when France turned against the Huguenots some members of the Condorcet family fled France while those was remained converted back to Roman Catholicism.
+* Condorcet, as we will refer to the subject of this biography, came from the branch re-converted to Catholicism and, had he followed the family tradition, he would have joined the military or the Church, the only two occupations deemed suitable to the nobility.
+* Condorcet's mother was a deeply religious woman and she dedicated her son to the Virgin Mary and treated him in an extremely protective manner, understandable after the loss of two husbands.
+* She continued to dress Condorcet as a baby in white dresses until he was eight years old.
+* He was kept away from others and denied the exercise and open air play that young boys would enjoy.
+* Up to the age of eight he received some instruction from his mother but his uncle, Bishop Jacques-Marie de Caritat de Condorcet, worried that the young boy was not getting a proper education, arranged for a Jesuit tutor to teach the boy at his home from the age of nine to eleven.
+* In 1754 Condorcet entered the Jesuit College in Reims where he spent four years.
+* By contrast, the crowns bestowed in our colleges - which induce the schoolboy to believe himself already a great man - only arouse a childish vanity from which a wise system of instruction would seek to preserve us if, by misfortune, its origin lay in our nature and not in our blundering institutions.
+* In 1758 Condorcet entered the Collège de Navarre in Paris which had a high academic reputation.
+* A recent development had been in 1753 when Jean-Antoine Nollet (1700-1770) had been appointed as the first professor of experimental physics and had taught in a specially constructed lecture theatre for 600 students.
+* Georges Girault de Kéroudou taught mathematics and philosophy at the Collège de Navarre and he gave Condorcet a passion for mathematics so, when he graduated from the Collège de Navarre in 1760, he was determined to pursue a career in mathematics.
+* His family, however, were very strongly opposed to such a career feeling that this was totally against the spirit of the hereditary nature of the noble standing of "de Condorcet." He spent two years back at his home in Ribemont studying mathematics on his own, arguing to be allowed to pursue a career in mathematics and science and, eventually, he prevailed.
+* In 1762 Condorcet left his home in Ribemont and went to Paris where he lived with Georges Girault de Kéroudou who had taught him mathematics at the Collège de Navarre.
+* Condorcet lived in a small attic above Girault de Kéroudou's home on the rue de Jacob in central Paris, close to the University.
+* Jeanne Julie Éléonore de Lespinasse (1732-1776), who ran a salon in Paris and became famed as a letter writer, was a close friend of Jean le Rond d'Alembert and she got to know Condorcet well at this time.
+* We leave the reader to judge how much of his manner at the time was a result of his very protective upbringing.
+* Condorcet was now undertaking research on the integral calculus and he produced a memoir which was refereed by Alexis Claude Clairaut and Alexis Fontaine.
+* They saw much potential in the young Condorcet, but rejected the paper with, however, encouragement and advice on how he should proceed.
+* In 1765 Condorcet's memoir Essai sur le calcul intégral Ⓣ(Essay on the integral calculus) was submitted to the Académie des Sciences and refereed by d'Alembert and Étienne Bézout who reported positively on 22 May 1765.
+* fully resolves this general problem: "Given a differential equation of a given order, which contains as many variables as one wishes, determine whether this equation, in the state in which it is proposed, admits, or does not admit, an integral of an immediately lower degree." The solution he gives of this problem, in addition to having the merit of utility, has the merit of elegance and of generality.
+* The work announces the greatest talents, and those most worthy of being stimulated by the approval of the Academy.
+* In the acknowledgements he thanks Alexis Fontaine for his "kindness to communicate to me, before the printing of his Memoirs, the fundamental Theorem which is found there on page 24." He also notes connections of his work on difference equations to results of d'Alembert in his memoir Recherches sur Differens Points Importans du Systeme du Monde Ⓣ(Research on different important points of the world system) (1754-56) and to Euler in his Institutions Calculi Differentialis Ⓣ(Differential calculus methods) (1755).
+* As a result of this memoir and a series of other mathematics papers he published at this time, Condorcet was elected to the Académie des Sciences in 1769.
+* Around this time he was a frequent visitor to Julie de Lespinasse's salon which she had opened on the rue de Belle Chasse in 1764.
+* This salon was justly described as the "laboratory of the Encyclopaedia" for here aristocrats, diplomats, philosophers, mathematicians and politicians met.
+* Condorcet would have deep mathematical discussions with d'Alembert who was living in Julie de Lespinasse's salon.
+* filled with sublime and fruitful ideas which could have furnished material for several works.
+* However, here is a new application of these series, more important, in my opinion, than any that we have already made.
+* Soon after the publication of his 1772 work, Condorcet met Anne Robert Jacques Turgot (1727-1781), a French economist, in Julie de Lespinasse's salon.
+* Turgot had become an administrator under Louis XV and was appointed Controller General of Finances in August 1774 under Louis XVI.
+* In the year he was appointed, he had Condorcet appointed Inspector General of the Mint.
+* This marks a major change in direction in Condorcet's career.
+* Turgot was dismissed from his post in 1776 and Condorcet tended his resignation in support.
+* Condorcet's resignation, however, was refused and he continued to fill this post until 1791.
+* In 1777 Condorcet was appointed Secretary of the Académie des Sciences.
+* He had been advised by Voltaire and by d'Alembert to become an expert in writing obituaries in order to improve his chances of getting the post.
+* His most important work was on probability and the philosophy of mathematics, especially his treatise Essay on the Application of Analysis to the Probability of Majority Decisions (1785).
+* and he presented it as an attempt to demonstrate the applicability of calculation to "questions of interest for common utility".
+* It was concerned explicitly, as Condorcet explains at the beginning of the introduction, with the practice, widespread since antiquity, of submitting all individuals to the will of the greatest number.
+* Condorcet makes clear, in the introduction to the 'Essai', that the decisions to be made in modem constitutions are about important social questions, including economic policy.
+* Also in 1786 he again worked on his ideas for the differential and integral calculus, giving a new treatment of infinitesimals.
+* On 28 December 1786, Condorcet married Marie Louise Sophie de Grouchy in the Chapelle du Château de Villette, Condécourt, Île-de-France.
+* Sophie de Grouchy (1764-1822) was the daughter of François Jacques de Grouchy (1715-1808) and Marie Gilberte Henriette Freteau de Peny (about 1740-1793).
+* whose cause had been taken up by de Grouchy's uncle, the magistrate Charles Dupaty, president of the parliament of Bordeaux.
+* Mme de Condorcet was an accomplished translator and author, in her own right; and she shared her husband's liberal and republican views, especially on matters of criminal justice, political reform, and minority and women's rights.
+* On the 24 April 1790 Antoine and Sophie de Caritat de Condorcet's only child, Alexandrine-Louise-Sophie de Caritat de Condorcet (1790-1859), was born at the Hôtel des Monnaies at 11 Quai de Conti, Paris.
+* Known as Élisa, she was baptised on the following day with Louis Alexandre, Duke of Rochefoucauld, as her godfather, and Marie Henriette Gilberte Freteau, represented by her daughter, Charlotte Félicité de Grouchy, as godmother.
+* Condorcet championed the liberal cause, he was elected as the Paris representative in the Legislative Assembly and he became the secretary of the Assembly.
+* He published Sur l'admission des femmes au droit de cité Ⓣ(On the admission of women to the rights of citizenship) in 1790, the year his daughter was born.
+* Sexual and gender differences are either the product of education and socialisation - and therefore subject to change - or they are simply irrelevant to a discussion of natural rights.
+* The first category includes the different spheres of activity (public versus private) to which men and women have traditionally applied their intellect, as well as their allegedly different senses of morality or justice.
+* Women, it has been said, are guided by their feelings rather than by their reason or conscience.
+* He joined the moderate Girondists and argued strongly that the King's life should be spared.
+* When the Girondists fell from favour and the Jacobins, a more radical political group led by Robespierre, took over, Condorcet argued strongly against the new, hurriedly written, constitution which was drawn up to replace the one which he himself had been chiefly responsible for drawing up.
+* But these are not the only reasons why the 'Tableau général' Ⓣ(General table) is difficult to read: editorial blemishes were added to those contained in the manuscript, especially in the first edition.
+* In that respect, although the 'Tableau général' is indeed a blueprint for future work, it also constitutes a methodological synthesis of earlier researches.
+* Retrospectively, one can imagine how much care Condorcet would have given to correcting and completing the 'Tableau général' had he had sufficient time for it.
+* Under threat of impending banishment, at the climax of political instability, Condorcet chose to write quite an abstract text, almost the last which bore his signature.
+* In no case can it be considered as a contingent work which he would have "taken lightly." Why did he decide to write it at that specific time?
+* He did not conceive a completely original system, but he did create a synthesis of all the theories of his predecessors.
+* Two days later he was found dead in his prison cell and it is not known if he died from natural causes or whether he was murdered or took his own life.
+* Condorcet was no politician.
+* His uncompromising directness of manner and inability to suffer illogical windbags in silence made him many enemies and few friends.
+* His weak voice, lack of oratorical powers, and tendency to bore the Convention by the excessive height of his arguments was one of the tragedies of the Revolution.
 
 Born 17 September 1743, Ribemont, France. Died 29 March 1794, Bourg-la-Reine (near Paris), France.
 

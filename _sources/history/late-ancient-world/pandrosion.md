@@ -7,10 +7,10 @@ orderid: 300
 title: Pandrosion
 born: 300
 died: 360
-keywords: Pandrosion Alexandria, Polyhedra, Plato's Solids, Trilateration, Mathematics, Proportion, Geometry
-description: Pandrosion of Alexandria developed mathematical systems for polyhedra, Plato's solids, trilateration, and demonstrating proportion's role in geometry.
+keywords: pandrosion,pandrosion
+description: Pandrosion of Alexandria was a Greek mathematician of the 4th century A.D. She developed an approximate method for doubling the cube. She lived earlier than Hypatia.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Pandrosion of Alexandria** was a Greek mathematician of the 4th century A.D. She developed an approximate method for doubling the cube. She lived earlier than Hypatia.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a mathematical system for solving geometry problems involving polygons and polyhedra.
-2. Solved problems in solid geometry, specifically in the theory of polyhedra.
-3. Credited with pioneers the five regular polyhedral (Plato's solids).
-4. Demonstrated why the five semi-regular polyhedral are geometrically achievable.
-5. Proved the number of faces, edges and diagonals of each polyhedron.
-6. Became the first to understand the importance of proportion in determining the structure and form of polyhedra.
-7. Found new solutions to problems in mathematics related to polyhedra.
-8. Discovered solutions for calculations of interior and exterior angles of polygon.
-9. Developed the trilateration method for calculating lengths and angles within and between polygons.
-10. Established the concept that two polygons were equivalent if one could be turned into the other using a combination of translations or rotations.
+* We only know that Pandrosion was a female mathematician who flourished in the first half of the 4th century.
+* The only reason that we have any information at all about Pandrosion is that she is mentioned in works by Pappus.
+* Now the first question that it is necessary to tackle is whether Pandrosion was a man or a woman.
+* Later work, however, has convincingly shown that this was an error and it now appears to be widely accepted by historians that Pandrosion was a woman.
+* There still remains the question of whether Pandrosion made "a substantial contribution to the development of mathematics." As no writings by Pandrosion are extant, or are even referred by later Greek writers, this is in many ways an impossible question to answer.
+* That no writings by Pandrosion come down to us today is, perhaps, not surprising since none of Hypatia's writings are known in the original.
+* It is suggested that Pandrosion may have suffered from the unfair attack that Pappus made on her competence and this could well explain why later authors chose not to refer to her work.
 
 Born about 300, possibly Alexandria, Egypt. Died about 360, possibly Alexandria, Egypt.
 

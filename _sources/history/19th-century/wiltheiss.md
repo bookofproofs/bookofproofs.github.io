@@ -7,10 +7,10 @@ orderid: 1855
 title: Wiltheiss, Ernst Eduard
 born: 1855
 died: 1900
-keywords: mathematicians, abelian functions, teaching, curriculum, mathematical problems, examinations, publications
-description: Eduard Wiltheiss, a German mathematician, contributed to the theory of abelian functions and transformed teaching and curriculum to improve mathematics understanding through innovative methods, examinations and publications.
+keywords: eduard wiltheiss,wiltheiss
+description: Eduard Wiltheiss was a German mathematician who made major contributions to the theory of abelian functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Eduard Wiltheiss** was a German mathematician who made major contributions to the theory of abelian functions.
 
 ### Mathematical Profile (Excerpt):
-1. Helped to establish the first better educational system in Bavaria, which included introducing mathematics into the curriculum.
-2. Authored the foremost textbook on mathematics in Bavaria during his lifetime.
-3. Pioneered new methods of teaching mathematics, improving understanding and knowledge in those he taught.
-4. Developed various novel approaches to solving complex and intricate mathematical problems.
-5. Established a system of weekly examinations designed to evaluate the students’ progress in mathematics.
-6. Created a mathematical analysis lab at the University of Freiburg which expanded students’ understanding of mathematics beyond the classroom.
-7. Published several major works on mathematics, including lectures on calculus and algebra.
-8. Presented lectures at numerous well-known universities on mathematics and related topics.
-9. Rewrote and updated the most important mathematical handbook in Bavaria, which was published after his death. 
-10. Highlighted the importance of having an accessible, well-structured teaching environment to best aid students in their mathematics studies.
+* His father was Johann Georg Wiltheiss, a book binder, and his mother was Elisabeth Mohr.
+* The family were members of the Evangelical Lutheran Church, and Eduard was baptized into this church.
+* In April 1874, immediately following his Abitur examinations, Wiltheiss entered the University of Giessen to study mathematics.
+* However Gordan had undertaken research on abelian functions before becoming fascinated by invariant theory, and Wiltheiss went on to undertake research on that topic, making a major contribution to the theory of abelian functions.
+* From Giessen Wiltheiss went to Berlin in 1876 to continue his mathematical studies.
+* On 25 April 1881 Wiltheiss presented his habilitation thesis Bestimmung Abelscher Funktionen mit zwei Argumenten, bei denen complexe Multiplikationen stattfinden Ⓣ(Determination of Abelian functions with two arguments, where complex multiplications take place)  to the University of Halle and became a privatdozent there.
+* In November 1886, after five years as a privatdozent, Wiltheiss was appointed as an extraordinary Professor of Mathematics in Halle.
+* Wiltheiss was a founder member of the German Mathematical Society along with his colleague at Halle Hermann Wiener, as were Cantor, Gordan, Hilbert, Klein, Minkowski, Study and Heinrich Weber who all gave lectures at the Bremen meeting.
+* The research which Wiltheiss carried out was mostly in the area of abelian functions, in particular studying hyperelliptic functions and theta functions.
+* Wiltheiss predominantly lectured to students who were beginning their studies, on topics such as differential and integral calculus, geometry, and algebra.
+* At the end of May Wiltheiss underwent an operation in Jena but sadly it was not successful.
 
 Born 12 June 1855, Worms, Germany. Died 7 July 1900, Halle, Germany.
 

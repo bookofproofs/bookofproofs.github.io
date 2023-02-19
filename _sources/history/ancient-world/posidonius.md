@@ -7,10 +7,10 @@ orderid: -135
 title: Posidonius Of Rhodes
 born: -135
 died: -51
-keywords: Posidonius, philosophy, astronomy, mathematics, Stoic, Magnus effect, sine table
-description: Posidonius, a Stoic philosopher, advanced astronomy and mathematics with his discovery of the Magnus effect, sine table, and laws of planetary motion.
+keywords: posidonius,posidonius
+description: Posidonius was a Greek philosopher, astronomer and mathematician. He followed the Stoic doctrine and attemped to estimate the size of the Sun and moon.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Posidonius** was a Greek philosopher, astronomer and mathematician. He followed the Stoic doctrine and attemped to estimate the size of the Sun and moon.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new system of spherical geometry, replacing the earlier flat-Earth geometrical system.
-2. Described an early version of the Magnus effect, a phenomenon in which a spinning object creates a torque when it moves through a fluid.
-3. Constructed the earliest known table of sines, which used 1000 arcs of a circle.
-4. Offered a sound mathematical proof of the Earth's rotation on its axis and the inclination of the ecliptic plane.
-5. Discovered that the rate at which a heavenly body moves towards the sun is not a uniform motion but rather described by the equation distance square = time cube.
+* Although he was born in Apameia in Syria, Posidonius was from a Greek family and he was brought up in the Greek tradition.
+* Posidonius travelled widely in the western Mediterranean region and he made many scientific studies on his travels relating to astronomy, geography and geology.
+* Some time not long after 100 BC Posidonius became the head of the Stoic School in Rhodes.
+* In Rome Posidonius visited Gaius Marius, the Roman general and politician who was consul seven times.
+* Marius died on 13 January 86 BC while Posidonius was still in Rome.
+* While there Posidonius became friends with Pompey the Great who had been educated in the Greek tradition.
+* Pompey the Great kept up his friendship with Posidonius and visited him in Rhodes on a number of later occasions when on his military campaigns.
+* None of the writing of Posidonius has survived but much has been written about his achievements and much work has been undertaken trying to reconstruct his views from the fragments of his writings which are preserved in quotations by later authors.
+* seems for the most part to be copied bodily from Posidonius.
+* Cleomedes explains in his work the method used by Posidonius to calculate the length of the circumference of the earth.
+* Using a distance of 5000 stadia between Rhodes and Alexandria this gave Posidonius a value of 240000 stadia for the circumference of the earth.
+* Both figures used by Posidonius in the above calculation are inaccurate.
+* Later Ptolemy informs us via the writings of Cleomedes, Posidonius used the more accurate 3750 stadia for the Rhodes to Alexandria distance but kept his very inaccurate 7° 30' thus obtaining the figure of 180000 stadia for the circumference which is far too small.
+* Eratosthenes had given a much more accurate value of 252000 stadia 150 years before Posidonius.
+* Posidonius also made calculations of the size and distance to the moon, and the size and distance to the sun.
+* Posidonius wrote on meteorology, a topic where he closely followed the teachings of Aristotle.
 
 Born 135 BC, Apameia, near Shaizar, Syria. Died 51 BC, Rhodes.
 

@@ -7,10 +7,10 @@ orderid: 1920
 title: Gaschütz, Wolfgang
 born: 1920
 died: 2016
-keywords: group theory, Gaschütz method, Euler-Gaschütz, numerical analysis, Jacobian matrix, Markov chains, form-invariant
-description: Wolfgang Gaschützdeveloped methods for solving complex equations and numerical analysis, among other contributions such as the Gaschütz-Jones theorem.
+keywords: wolfgang gaschütz,gaschütz
+description: Wolfgang Gaschütz was a German mathematician who worked on group theory, in particular in the theory of finite groups.
 references: bookofproofs$6909
-contributors: @L-A-Shemetkov,@R-Schmidt,bookofproofs,@ChatGPT
+contributors: @L-A-Shemetkov,@R-Schmidt,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @L-A-Shemetkov,@R-Schmidt,bookofproofs,@ChatGPT
 **Wolfgang Gaschütz** was a German mathematician who worked on group theory, in particular in the theory of finite groups.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Gaschütz method, a new approach to calculating mathematical functions that could be used to solve complex equations.
-2. Developed the Euler-Gaschütz method for solving nonlinear, oscillatory problems in numerical analysis.
-3. Formulated a new space-time discretization method for solving partial differential equations.
-4. Published several papers on numerical simulation and numerical analysis.
-5. Developed algorithms for calculating the Jacobian matrix, which is a key part of numerical analysis.
-6. Proved theorems on the convergence of iterative algorithms used in numerical analysis.
-7. Established the Gaschütz-Jones theorem, which relates Markov chains and numerical algorithms.
-8. Discovered a method for solving the convection-diffusion equation in spectral form.
-9. Made major contributions to the development of numerical algorithms for fluid dynamics.
-10. Developed a form-invariant formalism for solving linear differential equations using numerical methods.
+* In 1931 the family moved to Berlin where Gaschütz's father became the owner of an industrial estate.
+* In the autumn of 1945 Gaschütz entered the University of Kiel (Christian-Albrechts-Universität zu Kiel).
+* Gaschütz's interest in group theory, as explained in the quote above, was initiated by Andras Speiser's book Die Theorie der Gruppen endlicher Ordnung and stimulated by Helmut Wielandt's work.
+* So algebraic life started again in Kiel, and Gaschütz succeeded - also by attracting other algebraists interested in group theory - to transform Kiel into a noted centre of this field.
+* The important contribution to studying this problem is due to Gaschütz.
+* Very early Gaschütz realized the importance of the Frattini subgroup for the structure theory of finite groups.
+* In his paper Praefrattinigruppen Ⓣ(About Frattini groups) (1962) Gaschütz introduced subgroups in finite soluble groups which somehow take hold of the complications arising from Frattini properties.
+* Gaschütz never followed modern trends much but rather his own scientific interests.
+* As an example we mention Gaschütz's formation theory which has its origin in famous papers of Philip Hall and Roger Carter and has been spreading all over the world since 1963 when his brilliant article Zur Theorie der endlichen auflösbaren Gruppen Ⓣ(On the theory of finite resolvable groups) was published.
+* Gaschütz produced a general method to construct saturated formations.
+* In his Canberra Lecture Notes Lectures on subgroups of Sylow type in finite soluble groups (1979) Gaschütz gives a unified treatment of these theories.
+* Further results of Gaschütz attracted much attention.
+* Wolfgang Gaschütz was invited as a visiting professor to Michigan State University (1963), Queen Mary College of the University of London (1965, 1970), Universities of Padua, Florence, Naples (1966, 1971, 1974), University of Warwick (1967, 1973, 1977), University of Illinois at Chicago (1968), and the University of Canberra (1969).
 
 Born 11 June 1920, Karlshof, Germany. Died 7 November 2016, Kiel, Germany.
 

@@ -7,10 +7,10 @@ orderid: 1929
 title: Prokhorov, Yurii Vasilevich
 born: 1929
 died: 2013
-keywords: Yuri Prokhorov, probability theory, Lenin Prize, USSR Academy of Sciences, Royal Academy of Sciences, Institute of Mathematical Statistics, A.N
-description: Kolmogorov Prize, Prokhorov metric
+keywords: yurii vasilevich prokhorov,prokhorov
+description: Yuri Prokhorov was a Russian mathematician who worked in probability theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,21 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Prokhorov.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Prokhorov.jpg?raw=true)
 
-**Yuri Prokhorov** was a Russian mathematician who worked in probability theory. 
+**Yuri Prokhorov** was a Russian mathematician who worked in probability theory.
 
 ### Mathematical Profile (Excerpt):
-1. Prokhorov received the Lenin Prize in 1962 for his work in the field of probability theory.
-2. Prokhorov is a corresponding member of the USSR Academy of Sciences, a foreign member of the Royal Academy of Sciences of the Netherlands, and a fellow of the Institute of Mathematical Statistics in the USA. 
-3. He won the A.N. Kolmogorov Prize in 1992 for his pioneering research in the field of mathematical statistics.
-4. His research contributed to the development of mathematical statistics, probability theory, modern non-parametric methods, and the theory of random processes.
-5. Prokhorov served as the president of the Moscow Mathematical Society from 1985 to 1993.
-6. He was one of the founders of the Moscow Mathematical School, which contributed greatly to the development of mathematics in Russia.
-7. Prokhorov is the author of several popular research papers, books, and textbooks on probability theory, statistics, and their application.
-8. He is credited with developing the Prokhorov metric, a state-of-the-art measure of proximity between probability distributions.
+* Several generations of the family had lived in Moscow and Yurii attended school there.
+* Yurii had completed four years of schooling at this time but was unable to continue attending school since his family were evacuated to Chistopol, the second largest town in Kazan province.
+* Yurii fully intending to follow his father and become an engineer so in 1944, after graduating from the high school, he entered the Bauman Moscow Higher Technical School which, since 1989, has been known as the Bauman Moscow State Technical University.
+* Yushkevich's course quickly convinced Prokhorov that mathematics was the subject he loved rather than engineering.
+* At the University Prokhorov took courses in analysis and number theory.
+* At the same time Kolmogorov began teaching a course on probability theory which Prokhorov also attended.
+* In 1960 Prokhorov succeeded Kolmogorov as Head of Department, a position he continues to hold.
+* In addition, Prokhorov also lectured at Moscow State University, being appointed to the Mechanics-Mathematics Department.
+* In 1967, in collaboration with Yurii A Rozanov, he published the 500-page book in Russian Probability theory: Fundamental concepts, limit theorems, random processes.
+* We use a quote from one of Prokhorov's papers to give further information about the research in which he was involved at the Steklov Mathematical Institute.
+* In addition to his research contributions, Prokhorov has made major contributions in his editorial work and in organising scientific activities.
+* Prokhorov has received many honours for his outstanding contributions in addition to those mentioned above.
 
 Born 15 December 1929, Moscow, Russia. Died 16 July 2013, Moscow, Russia.
 

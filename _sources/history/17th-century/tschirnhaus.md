@@ -7,10 +7,10 @@ orderid: 1651
 title: Von Tschirnhaus, Ehrenfried Walter
 born: 1651
 died: 1708
-keywords: Ehrenfried Tschirnhaus, calculus, calculus of differences, Rene Descartes, optimization, polynomial equations, Tschirnhaus transformation
-description: Ehrenfried Tschirnhaus made major contributions to calculus and mathematics in general, such as the calculus of differences, optimization, polynomial equations, and the Tschirnhaus transformation.
+keywords: ehrenfried walter von tschirnhaus,von
+description: Ehrenfried Tschirnhaus was a German mathematician who worked on the solution of equations and the study of curves. He is best known for the transformation which removes the term of degree n-1 from an equation of degree n.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ehrenfried Tschirnhaus** was a German mathematician who worked on the solution of equations and the study of curves. He is best known for the transformation which removes the term of degree _n_-1 from an equation of degree _n_.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a process to calculate curvature of lenses which could be used in telescopes and microscopes.
-2. Founded the calculus of differences which would later become a base element of integral calculus. 
-3. Improved Rene Descartes' system of notation, which allowed mathematical expressions to be more concise and easier to comprehend.
-4. Proved several general theorems in calculus that are still used today.
-5. Proposed the concept of optimization in calculus, which allowed for a better understanding of the way mathematics can be used to solve specific problems.
-6. Developed a sophisticated method for solving polynomial equations using solids. 
-7. Discovered the oblique asymptote, which describes the behavior of curves in terms of the x-axis. 
-8. Researched and proved the existence of the so-called Tschirnhaus transformation, a geometric transformation that is commonly used in the calculation of spherical lenses. 
-9. Contributed to the development of the quadratic equation, which today remains one of the most important tools in mathematics.  
-10. Developed a method for solving so-called quartic equations, of which mathematics had no prior knowledge.
+* He was the youngest son and seventh child of his parents Christoph von Tschirnhaus and Elisabeth Eleonore Freiin Achyll von Stirling.
+* When Tschirnhaus was six years old his mother died but he was brought up by a loving stepmother.
+* In 1672 war broke out between Holland and France and Tschirnhaus enlisted in the student force.
+* Tschirnhaus began a European tour in 1674.
+* Tschirnhaus became a regular participant in the debating club which Spinoza ran and this gave him the desire to run an Academy which he later tried to set up.
+* With a letter of recommendation from Spinoza, Tschirnhaus visited England in May 1675 where he met Oldenburg the secretary of the Royal Society.
+* Leibniz arranged for Tschirnhaus to study the unpublished papers of Descartes and he also was given access to unpublished papers by Pascal and Roberval.
+* After studying these, Tschirnhaus reported his findings in letters to G H Schuller, Pieter van Gent and Spinoza.
+* While in Paris, Tschirnhaus taught one of Jean-Baptiste Colbert's sons but, as Tschirnhaus did not know French, the lessons had to be in Latin.
+* They first travelled to Lyon where Tschirnhaus again met Villette and carried out experiments with him on burning mirrors.
+* While making this long journey, Tschirnhaus continued to report his observations and discoveries to Leibniz by letter, receiving helpful replies.
+* In his letter Leibniz also criticises Tschirnhaus's solution of algebraic equations.
+* After ending his long journey in 1679, Tschirnhaus lived for a time back in his home town of Kieslingswalde.
+* Also in 1682 he married Elisabeth Eleonore von Lest in Kieslingswalde.
+* In 1684 Tschirnhaus's father died leaving him the family estate at Kieslingswalde.
+* Tschirnhaus's wife took over managing the estate to allow him the time to continue his scientific researches.
+* Tschirnhaus worked on the solution of equations and the study of curves.
+* Nevertheless Tschirnhaus published his transformation in Acta Eruditorum in 1683 and, in this article, showed how it could be used to solve the general cubic equation.
+* Around this time Tschirnhaus was planning to write a major work explaining his philosophy.
+* Tschirnhaus frequently gives the example of the way in which we use our hands without any knowledge of their physiological structure.
+* The whole approach of Tschirnhaus's philosophy is based on this idea, so that the readers can practice the ars inveniendi in a most natural and even naive way.
+* In 1700 Tschirnhaus published Gründliche Anleitung zu nützlichen Wissenschaften Ⓣ(Thorough guide to useful sciences) which was praised by Leibniz and greatly influenced Christian Wolff.
+* After the publication of Medicina mentis Ⓣ(Philosophy of the mind), Fatio de Duiller correctly claimed that a method presented by Tschirnhaus in the book to find tangents to curves was incorrect.
+* As well as his work in philosophy and mathematics, Tschirnhaus was a scientist, and among other things, he experimented making porcelain from clay mixed with fusible rock in the 1680s.
+* Glass factories were established in Dresden and Glücksburg around 1699 and their construction was supervised by Tschirnhaus.
+* Tschirnhaus's wife Elisabeth had died in 1692 and in February 1704 he remarried, his second wife being Elisabeth von der Schulenburg zu Mühlbach.
+* This put Tschirnhaus in considerable difficulty regarding his porcelain factories.
+* There was great competition from governments to obtain his porcelain techniques but Tschirnhaus kept them to himself and ended his life deeply in debt.
+* Only days after this breakthrough, Tschirnhaus succumbed to dysentery and died.
+* A factory at Meissen started production of his porcelain in 1710, one in Vienna in the following year, and the first sales of any consequence of Tschirnhaus's porcelain took place at the Leipzig Fair in 1713.
+* Even so, Tschirnhaus's achievements - often accomplished with insufficient means - were far more significant than the average contribution made by university teachers of science during his lifetime.
+* Although these critical comments are probably fair when directed towards Tschirnhaus's mathematical contributions, they are probably harsh when his philosophical contributions are considered where he did go beyond the ideas of Descartes.
 
 Born 10 April 1651, Kieslingswalde (near Görlitz), Germany (now Sławnikowice, Poland). Died 11 October 1708, Dresden, Germany.
 

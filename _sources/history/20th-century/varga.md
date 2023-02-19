@@ -7,10 +7,10 @@ orderid: 1928
 title: Varga (2), Richard Steven
 born: 1928
 died: 2022
-keywords: Richard Varga, mathematics, computer science, numerical analysis, linear algebra, Comenius Univ., Slovak Academy of Sciences
-description: Richard Varga, mathematician and computer scientist, brought recognition to Comenius University and the Slovak Academy of Sciences for his contributions to numerical analysis and linear algebra.
+keywords: richard varga,varga
+description: Richard Varga was an American mathematician who worked in numerical analysis and linear algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Richard Varga** was an American mathematician who worked in numerical analysis and linear algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a B.Sc. degree in mathematics and computer science from Comenius University in Bratislava in 2001.
-2. Awarded the prestigious Slovak Academy of Sciences award for Outstanding Contributions to Mathematics in 2011.
-3. Publishes a series of articles in mathematics and computer science in leading international journals, such as the Annals of Mathematics and the Journal of the American Mathematical Society.
-4. Founded the Algorithm and Complexity Institute of Slovak Academy of Sciences in 2008, and serves as its head.
-5. Appointed a professor of mathematics at Comenius University in 2006.
-6. Received grants to research in the fields of algorithm design and computational complexity theory from the European Research Council in 2014.
-7. Served as a member of the editorial board of the European Journal of Combinatorics from 2013 to 2018.
-8. Organized conferences and workshops on topics related to mathematics, algorithms, and computation.
+* Now Varga's father knew from experience that working with tools was a dirty job and he wanted his son to have a better and cleaner life.
+* He felt that a draftsman would be an ideal trade and Richard was educated with this profession in mind.
+* The Case School of Applied Science, founded in 1880, was renamed the Case Institute of Technology in 1947, about the time Varga entered it, and became part of Case Western Reserve University in 1967.
+* In his second year the Case Institute of Technology introduced a mathematics degree and, having already realised that this was his favourite subject, Varga changed to major in mathematics.
+* He was also influenced by Garrett Birkhoff and, after Varga completed his doctorate, they collaborated on a number of research projects which led to a number of joint publications.
+* For his doctoral studies, Varga studied approximation theory for complex analytic functions being awarded a Ph.D. in June 1954 for his thesis Properties of a Special Set of Entire Functions and Their Respective Partial Sums.
+* We mentioned above Varga's joint work with Garrett Birkhoff whom he first got to know at Harvard.
+* We note that, of course, Varga was undertaking research relevant to nuclear reactors, but we also note that he had changed from being an analyst interested in complex variable to a numerical analyst handling applied mathematical problems.
+* By the time the third of the above mentioned joint papers was written, Varga was no longer working for Bettis for, in 1960, he accepted the position of Professor of Mathematics at Case Institute of Technology.
+* At Kent State, Varga was Director of the Institute for Numerical Mathematics from 1980 to 1988, and from 1988 to 2006 he was Research Director.
+* Let us look at some of the books that Varga has published.
+* His knowledge of languages and flair for telling jokes and anecdotes all contribute to make Richard Varga a very charming man, and he is always "the life and soul of the party."
 
 Born 9 October 1928, Cleveland, Ohio, USA. Died 25 February 2022, Cleveland, Ohio, USA.
 

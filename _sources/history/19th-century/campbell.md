@@ -7,10 +7,10 @@ orderid: 1862
 title: Campbell, John Edward
 born: 1862
 died: 1924
-keywords: Campbell, Baker-Hausdorff Theorem, Calculus, Integration Theory, Problem Solving, Visualization, Mentoring
-description: Campbell is renowned for the Campbell-Baker-Hausdorff theorem and for writing a textbook on Calculus, pioneering a new teaching methodology, creating the Campbell-Hausdorff Formulation, as well as mentoring mathematicians.
+keywords: john campbell,campbell
+description: Campbell is remembered for the Campbell-Baker-Hausdorff theorem which gives a formula for multiplication of exponentials in Lie algebras.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Campbell** is remembered for the Campbell-Baker-Hausdorff theorem which gives a formula for multiplication of exponentials in Lie algebras.
 
 ### Mathematical Profile (Excerpt):
-1. Wrote the textbook "Calculus: A Complete Introduction" which is used in multiple universities and is a seminal work in the field.
-2. Helped develop a digitized version of a foundational book on Integration Theory, making it more accessible to the public.
-3. Pioneered a new approach to teaching calculus that emphasizes concept-based problem solving and visualization.
-4. Created the innovative Campbell-Hausdorff Formulation, a functional relationship that enables mathematicians to more efficiently study fundamental concepts.
-5. Authored over a dozen scientific papers in the field of mathematics and its applications.
-6. Served as a mentor to future mathematicians through lectures, webinars, and speaking engagements.
+* John junior, the subject of this biography, was educated at home when he was young.
+* The Queen's University in Belfast had been established in 1845 and Campbell felt great loyalty towards this institution.
+* Campbell graduated from the Queen's University in 1884 and won a scholarship to study at the University of Oxford in England.
+* Campbell's book Lie's Theory of Finite Continuous Groups (1903) introduced Lie's ideas to British mathematicians.
+* However, he is most frequently remembered for the Campbell-Baker- Hausdorff theorem which gives a formula for multiplication of exponentials in Lie algebras.
+* In 1903, not very long after the date of the last paper, Mr Campbell's "Introductory Treatise on Lie's Theory of Finite Continuous transformation Groups" was published.
+* It is full of points of view and illustrations which are Mr Campbell's own.
+* The theory in which Mr Campbell was so specially interested underlies most of his more recent work on differential geometry in general, and on that particular branch of it connected with Einstein's gravitational theory.
+* Campbell was elected a Fellow of the Royal Society in 1905.
 
 Born 27 May 1862, Lisburn, Co Antrim, Ireland. Died 1 October 1924, Oxford, England.
 

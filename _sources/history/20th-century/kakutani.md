@@ -7,10 +7,10 @@ orderid: 1911
 title: Kakutani, Shizuo
 born: 1911
 died: 2004
-keywords: Shizuo Kakutani, Fixed Point Theorem, Convex Sets, Calculus of Finite Variation, George Pólya Prize, John von Neumann Theory Prize, Fourier Series
-description: Shizuo Kakutani was an American mathematician whose Fixed Point Theorem provided a new foundation for mathematical analysis, earning him the George Pólya Prize and John von Neumann Theory Prize.
+keywords: shizuo kakutani,kakutani
+description: Shizuo Kakutani was a Japanese-born American mathematician who worked in probability theory, ergodic theory and complex analysis, and is best known for his fixed-point theorem.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Shizuo Kakutani** was a Japanese-born American mathematician who worked in probability theory, ergodic theory and complex analysis, and is best known for his fixed-point theorem.
 
 ### Mathematical Profile (Excerpt):
-1. He formulated the Kakutani Fixed Point Theorem in 1941, providing a foundation for the study of convex sets and affine geometry.
-2. He introduced the calculus of finite variation, which became a major part of the field of convex optimization.
-3. He was awarded the George Pólya Prize for his research in numerical analysis, optimization and game theory.
-4. He received the John von Neumann Theory Prize, recognizing his work in convex sets, fixed point theory and measure theory.
-5. He solved the problem of determination of continuous functions that maximize or minimize a given integral. 
-6. He advanced the study of Fourier series, partial differential equations and potential theory, contributing to the development of mathematical analysis.
-7. He advanced the use of computers to solve optimization problems, contributing to the evolution of both mathematical analysis and computer science.
-8. He published twenty-five papers in mathematical journals between 1930 and 1941.
-9. He was a Guggenheim fellow in 1937. 
-10. He established the first Institute of Mathematics at the University of Tokyo.
+* Shizuo was the youngest of the two sons in the family, the eldest being Seiichi who was eight years older.
+* Seiichi studied physics at Kyoto University and it was through him that Shizuo was first introduced to mathematics.
+* Shizuo was fascinated and was enthusiastic to learn more mathematics.
+* The first problem was that Kakujiro Kakutani had made the decision that one of his two sons would follow him into law and take over his practice in due course.
+* Clearly Seiichi was training to be a physicist and not studying law so Shizuo would have to be the one to follow his father.
+* After completing his middle school, Shizuo entered Konan High School in Kobe to prepare for his university studies.
+* By the time Shizuo graduated, his father relented seeing that his son was so keen to study mathematics at university.
+* However, Shizuo was now not qualified to enter a mathematics course at either the University of Tokyo or Kyoto University since these had absolute rules regarding entry qualifications.
+* There was one possible route for Shizuo which was to enter Tohoku University in Sendai.
+* Kakutani applied but there were only fifteen places, and seventeen applicants.
+* Of the seventeen, exactly fifteen had the science qualification from high school so it looked like an easy task to decide to admit those and to turn down Kakutani.
+* However, after due consideration it was decided to admit all seventeen applicants and Kakutani had scrape through.
+* At Tohoku University Kakutani was introduced to the theory of analytic functions.
+* Indeed on the strength of this work Weyl invited Kakutani in 1940 to spend two years at the Institute for Advanced Study at Princeton.
+* Kakutani not only took great interest in the work of Weyl's group at Princeton but also the group of mathematicians working with von Neumann on measure theory and ergodic theory.
+* Kakutani also made many visits during which he met mathematicians such as Garrett Birkhoff, G D Birkhoff, Stone, Wiener, and Hille.
+* In December 1941 with Kakutani still studying at Princeton, war broke out between the United States and Japan with the entry of the U.S.A. into the Second World War.
+* Of course this put Kakutani in a difficult position for he was now a guest in a country at war with his own.
+* What, you may wonder, did Kakutani do.
+* On his return to Japan Kakutani accepted the appointment as assistant professor at Osaka University.
+* Kakutani, however, managed to continue to produce a stream of papers containing highly original ideas.
+* In 1948 Kakutani was again invited to the Institute for Advanced Study at Princeton.
+* On one of his frequent visits to New York, Kakutani met Kay Uchida and they were married in 1952; they had one daughter Michiko.
+* Kakutani contributed to several areas of mathematics.
+* Kakutani was to remain at Yale until he retired in 1982.
 
 Born 28 August 1911, Osaka, Japan. Died 17 August 2004, New Haven, Connecticut, USA.
 

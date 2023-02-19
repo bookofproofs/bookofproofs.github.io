@@ -7,10 +7,10 @@ orderid: 1851
 title: Schottky, Friedrich Hermann
 born: 1851
 died: 1935
-keywords: Schottky, elliptic, abelian, theta, quadratic Diophantine, Van der Waerden, Class Field Theory
-description: Friedrich Schottky was a German mathematician who worked on a variety of topics in number theory, including elliptic and abelian functions, the Van der Waerden conjecture and Class Field Theory.
+keywords: friedrich schottky,schottky
+description: Friedrich Schottky was a German mathematician who worked on elliptic, abelian, and theta functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Friedrich Schottky** was a German mathematician who worked on elliptic, abelian, and theta functions.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced the concept of quadratic Diophantine equations and a method of solving them.
-2. Developed the Schottky-Klein prime number theorem.
-3. Developed the theory of elliptic functions.
-4. Developed the theory of algebraic numbers, including the introduction of Class Field Theory in 1912.
-5. Proved the Van der Waerden conjecture on arithmetic progressions.
-6. Founded the Schottky groups, which are now an important part of algebraic geometry.
-7. Undertook pioneering research in number theory, as evidenced in his book Anwendung der Theorie der Riemann’schen Flachen auf Algebraische Functionen(Applications of Riemann’s Theory of Surfaces to Algebraic Functions).
-8. Introduced the concepts of hyperbolic functions and the Schottky double-cycle theorems.
-9. Collected and studied ancient Greek mathematical manuscripts, including works of classical Greek mathematicians such as Euclid, Apollonius, Ptolemy et al.
-10. Discovered the Schottky-Klein riemannian invariant and the association of Dirichlet functions with prime numbers.
+* Friedrich's mother was Louise Winkler (1818-1908) who was a flower-maker from Breslau.
+* Friedrich attended the Humanistisches Gymnasium St Magdalenen in Breslau beginning his studies there in 1860.
+* After graduating from the Gymnasium, Schottky entered the University of Breslau in 1870, graduating in 1874.
+* Certainly the quality of Schottky's thesis was outstanding.
+* In the case of a domain bounded by p closed curves (p ≥ 2), Schottky discovered that there exist 3p - 3 real constants that characterize the conformal class to which this region belongs.
+* After obtaining his doctorate, Schottky remained at the University of Berlin for a while but submitted his habilitation thesis to the University of Breslau in 1878.
+* Schottky taught as a docent at Breslau until 1882 when he was appointed professor of mathematics in the Eidgenössische Technische Hochschule Zürich.
+* During his four years lecturing at Breslau, Schottky published two papers: Abriss einer Theorie der Abel'schen Functionen von drei Variabeln Ⓣ(Outline of the theory of Abelian functions of three variables) (1880) and Über eindeutige Functionen mit linearen Transformationen in sich Ⓣ(On uniform functions with linear transformations into themselves) (1882).
+* It was Lazarus Fuchs's chair at Berlin to which Schottky was appointed and many felt that his personal friendship with Frobenius was a factor in his appointment.
+* Certainly Schottky had made highly significant mathematical contributions (which we will comment on below) but it was clear to most people that his best years as a mathematician were behind him by 1902.
+* When Schottky retired from his Berlin chair it allowed Issai Schur, who had been an extraordinary professor since 1916, to become a full professor.
+* Most of Schottky's work concerns elliptic, abelian and theta functions.
+* Schottky's thesis also discusses conformal mappings of domains bounded by circular and conic arcs.
+* Schottky's paper Über eine specielle Function, welche bei einer bestimmten linearen Transformation ihres Arguments unverändert bleibt Ⓣ(On a special function which remains unchanged at a given linear transformation of its argument) (1887), advanced the theory of Poincaré series considerably.
+* The Schottky problem is the problem of finding characterizations of Jacobians among all principally polarized abelian varieties.
+* Schottky's Theorem (1904) is related to Picard's Theorem and has become a classical result in the theory of functions of a complex variable.
+* Schottky published 55 papers and, in 1880, a book Abriss einer Theorie der Abel'schen Functionen von drei Variablen Ⓣ(Outline of the theory of Abelian functions of three variables).
+* Among Schottky's doctoral students we should mention Heinrich Jung who was his student at Marburg.
+* Schottky and Jung jointly authored the important 1909 paper Neue Sätze über Symmetralfunktionen und die Abel'schen Funktionen der Riemann'schen Theorie which made a significant contribution to the Schottky problem.
+* Perhaps it is worth noting that these two papers with Jung were the only two joint papers which Schottky published.
+* Finally we should mention Schottky's family.
+* Henriette and Friedrich Schottky had one daughter and four sons, including the physicist Walter Schottky who was born on 23 July 1886 in Zürich, Switzerland.
+* Walter Schottky was a doctoral student of Max Planck in Berlin in 1912 at the time when his father was professor there.
+* Walter Schottky died on 4 March 1976.
+* Another of Schottky's sons, Hermann Schottky (1885-1974) was a metallurgist, and Ernst Schottky (1888-1915) was a botanist who died in World War I.
+* Schottky was elected a corresponding member of the Prussian Academy of Sciences (now the Berlin Academy) in 1900 and was made a full member two years later.
 
 Born 24 July 1851, Breslau, Prussia (now Wrocław, Poland). Died 12 August 1935, Berlin, Germany.
 

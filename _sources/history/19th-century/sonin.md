@@ -7,10 +7,10 @@ orderid: 1849
 title: Sonin, Nikolay Yakovlevich
 born: 1849
 died: 1915
-keywords: Nikolay Sonin, quasiconformal mappings, conformal mappings, monogenic functions, covering transformations, Riemann surfaces, prime integrals, uniformization, invariant measure
-description: Nikolay Sonin was a Russian mathematician who developed theories about quasiconformal mappings of plane regions, conformal mappings of monogenic functions, covering transformations and Riemann surfaces.
+keywords: nikolay sonin,sonin
+description: Nikolay Sonin was a Russian mathematician who worked on special functions and numerical integration.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Nikolay Sonin** was a Russian mathematician who worked on special functions and numerical integration.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the notion of quasiconformal mappings of plane regions in 1909.
-2. Developed a theory of conformal mappings of monogenic functions of plane regions in 1910.
-3. Found the conditions under which these monogenic functions form a field of functions in 1911.
-4. Developed the theory of covering transformations and associated Riemann surfaces with algebraic equations in 1912.
-5. Established sufficient conditions for a plane figure to be mapped conformally into a given region in 1913.
-6. Clarified the sense in which the Riemann-Roch theorem holds in the case of a transcendental function in 1915.
-7. Found the conditions under which a transcendental function of a single variable is representable in terms of a system of prime integrals in 1916.
-8. Developed criteria for the uniformization of multiply-connected regions in 1919.
-9. Determined the conditions for the existence of an invariant measure on a Riemann surface in 1924.
+* Nikolay Sonin attended Moscow University where he studied mathematics and physics in the Faculty of Physics and Mathematics from 1865 to 1869.
+* Sonin published his first paper on differentiation of functions defined with complex exponents in 1869, the year he obtained his first degree.
+* Sonin then undertook research under Bugaev's supervision.
+* In 1876 Sonin was appointed to a chair in the University of Warsaw.
+* From 1894 Sonin also taught at the St Petersburg University for Women.
+* Together with A A Markov, Sonin prepared a two volume edition of Chebyshev's works in French and Russian.
 
 Born 22 February 1849, Tula, Russia. Died 27 February 1915, Petrograd (now St Petersburg), Russia.
 

@@ -7,10 +7,10 @@ orderid: 1838
 title: Hunyadi, Jeno
 born: 1838
 died: 1889
-keywords: Jenő Hunyady, Mathematics, Conic Sections, Linear Algebra, Determinants, Hungary, Instruction
-description: Jenő Hunyady promoted maths teaching and research in Hungary, creating journals, textbooks and initiating maths competitions.
+keywords: jenő hunyadi,hunyadi
+description: Jenő Hunyady was a Hungarian mathematician noted for his work on conic sections and linear algebra, specifically on determinants.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jenő Hunyady** was a Hungarian mathematician noted for his work on conic sections and linear algebra, specifically on determinants.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Pest Mathematical Institute in 1894, the first of its kind in Hungary, with the mission of promoting the teaching and research of mathematics.
-2. Spearheaded the introduction of research-based instruction and curriculum modernization in the field of mathematics.
-3. Established the Association of Mathematics Teaching in Hungary.
-4. Helped create several leading mathematics journals in Hungary, such as the “Mathematical Gazette” and the “Acta Mathematica Hungarica”.
-5. Encouraged the founding of the Hungarian Math Society, which has become the leading mathematical organization in Hungary.
-6. Developed an important instructional manual for the teaching of mathematics in schools.
-7. Created the “Hungarian Math Olympiads”, a nationwide mathematics competition for high school students.
-8. Started the publishing of mathematics textbooks, helping to make mathematics education in Hungary more accessible.
+* Dramatic events were taking place in Hungary when Hunyadi was a young boy.
+* Hunyadi was young enough to escape from the worst of these problems and was able to continue his education in Pest.
+* After graduating from secondary school, Hunyadi entered the Technical College of Pest where he studied mathematics.
+* It was the lecture courses given by Kummer and Kronecker which had the greatest influence on Hunyadi.
+* Hunyadi submitted his doctoral thesis on the theory of algebraic curves to the University of Göttingen in 1864 and in the following year, after eight years away from his native Hungary, he returned to Pest.
+* The mathematical level began to rise steadily and Hunyadi contributed to this improvement.
+* Since that time outstanding mathematicians such as Hunyadi, Julius König, Kürschák and Rados have contributed to the high standard of mathematical education at the Technical University.
+* In 1867 Hunyadi was elected to the Hungarian Academy of Sciences, and two years later he became a mathematics professor at the Technical University.
+* Hunyadi worked mainly on geometrical topics and his contributions were not to produce new theories but rather to improve the methods of others by simplifying proofs, finding elegant proofs to replace non-transparent ones, and putting apparently unrelated results into a general setting.
+* Some of Hunyadi's most significant results concern determinants.
+* We mentioned at the start of this article that Hunyadi came from a well-off family.
 
 Born 28 April 1838, Pest, Hungary. Died 26 December 1889, Budapest, Hungary.
 

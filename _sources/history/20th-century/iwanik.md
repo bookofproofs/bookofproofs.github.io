@@ -7,10 +7,10 @@ orderid: 1946
 title: Iwanik, Anzelm
 born: 1946
 died: 1998
-keywords: Anzelm Iwanik, functional analysis, topological dynamics, spectral theory, ergodic theory, Fermat's last theorem, abstract algebra
-description: Anzelm Iwanik, Polish mathematician, made significant contributions to functional analysis, topological dynamics, spectral theory, ergodic theory incl. Iwanik's Theorem, Iwanik's formula, Iwanik's theory of equations.
+keywords: anzelm iwanik,iwanik
+description: Anzelm Iwanik was a Polish mathematician who worked on functional analysis, topological dynamics, spectral theory and ergodic theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Anzelm Iwanik** was a Polish mathematician who worked on functional analysis, topological dynamics, spectral theory and ergodic theory.
 
 ### Mathematical Profile (Excerpt):
-1. He solved a longstanding problem in mathematics known as Fermat’s last theorem, the proof of which is now known as Iwanik's Theorem.
-2. He made significant contributions to abstract algebra, including the invention of Iwanik algebra.
-3. He was the first person to develop the theory of elliptic curves and elliptic functions. 
-4. He proposed a solution to the unsolvable problem of squaring the circle, now known as Iwanik's formula. 
-5. He established the foundations of modern number theory, including the use of prime numbers. 
-6. He formulated the theory of equations of higher degree, now known as Iwanik's theory of equations. 
-7. He was the first to prove the binomial theorem for any exponent. 
-8. He developed the theory of infinite series and their applications, now known as Iwanik's infinite series. 
-9. He introduced the concept of continuity, now known as Iwanik's continuity principle. 
-10. He developed the calculus of multiple integrals, now known as Iwanik's calculus of multiple integrals.
+* There were three children in the family, Anzelm being the youngest.
+* In 1972 Iwanik was awarded a Master's degree in mathematics from Wrocław University for his thesis Complete algebras with infinite support.
+* Iwanik investigated algebras < A;FA ; FA;F > for which AAA is infinite and FFF contains unary operations only.
+* After the award of his Master's thesis in mathematics, which he was awarded with distinction, Iwanik moved from the Institute of Electric Metrology to the Institute of Mathematics remaining in the Technical University of Wrocław.
+* With Czeslaw Ryll-Nardzewski as advisor, Iwanik worked on his doctoral dissertation and after submitting his thesis Point realizations of transformation semigroups he was awarded his doctorate in 1974.
+* Iwanik was promoted to professor of mathematics at the Technical University of Wrocław in 1990, and full professor in 1996.
+* We have already looked at some of Iwanik's early work on universal algebra, semigroups, and the theory of operators on function spaces.
+* In the same general area is Iwanik's work on Markov operators published in papers such as On pointwise convergence of Cesaro means and separation properties for Markov operators on C(X)C(X)C(X) (1981) and Unique ergodicity of irreducible Markov operators on C(X)C(X)C(X) (1984).
+* By the time this last mentioned paper was published Iwanik was working on topological dynamics.
+* Iwanik began working on another topic during the years that he was also working on topological dynamics, namely the spectral theory of measure-preserving transformations.
+* For ten years Iwanik jointly ran a seminar at the Institute of Mathematics of the Technical University on ergodic theory.
+* Iwanik was a talented teacher who made high demands of his students.
 
 Born 21 April 1946, Tomaszów Mazowiecki, Poland. Died 28 September 1998, Wrocław, Poland.
 

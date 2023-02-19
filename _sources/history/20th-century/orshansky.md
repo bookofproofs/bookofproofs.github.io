@@ -7,10 +7,10 @@ orderid: 1915
 title: Orshansky, Mollie
 born: 1915
 died: 2006
-keywords: Orshansky, Poverty Thresholds, SPM, Orshansky Index, Mathematical Models, Social Factors, Actuarial Model
-description: Mollie Orshanskywas an American economist and statistician who developed the Orshansky Poverty Thresholds and other tools for measuring poverty, exploring social factors and analyzing the Social Security System.
+keywords: mollie orshansky,orshansky
+description: Mollie Orshansky was an American economist and statistician who developed the Orshansky Poverty Thresholds, used for measuring household incomes.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Mollie Orshansky** was an American economist and statistician who developed the Orshansky Poverty Thresholds, used for measuring household incomes.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the poverty thresholds used by the United States government to measure poverty levels.
-2. Implemented the Supplemental Poverty Measure (SPM) for the US government which incorporates additional components like taxes, child support, out-of-pocket medical costs, and other factors not considered in the poverty thresholds.
-3. Conducted extensive analysis of the Social Security System including models to measure and analyze its long-term effects.
-4. Developed the Orshansky Index as an easy-to-use measure of poverty used throughout the American welfare system.
-5. Utilized multiple mathematical models to determine the prevalence of poverty and its effects on various populations.
-6. Pioneered research in the area of how specific social factors play into the occurrence and persistence of poverty.
-7. Constructed an actuarial model to analyze health and retirement programs used by the US.
-8. Published articles in The American Statistician and Journal of the American Statistical Association on poverty measurement and income distribution.
+* Samuel Orshansky was a plumber and ironworker, but was often unemployed; he and his wife spoke only a little English.
+* The family were Jewish and Mollie was the third of her parents' six daughters.
+* Despite this, Mollie was admitted to Hunter College High School which was set up to educated gifted girls.
+* After graduating from Hunter College High School, Mollie entered Hunter College in 1931 where she majored in mathematics and statistics.
+* In 1939 Orshansky was appointed as a Research Clerk with the U.S. Children's Bureau.
+* These were "by no means subsistence diets," Orshansky later wrote.
+* It was at this time she did the work for which she is best known, in particular devising in 1963 the Orshansky index, which is the official measure of poverty used by the U.S. government.
+* Orshansky based her poverty thresholds on the economy food plan - the cheapest of four food plans developed by the Department of Agriculture.
+* Over the following years until her retirement in 1982, Orshansky continued to apply statistics to measures of poverty.
+* A niece, Jane M Pollack, had taken Miss Orshansky to New York, but a judge in Washington, who had named a legal guardian for Miss Orshansky, tried to compel her to return to Washington, arguing that her family had not demonstrated that they could adequately care for her.
+* On August 15, 2002, the District of Columbia Court of Appeals ruled that the judge had abused her authority and ignored Miss Orshansky's wishes to live with her family in New York.
 
 Born 9 January 1915, Bronx, New York City, USA. Died 18 December 2006, Manhattan, New York City, USA.
 

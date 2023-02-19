@@ -7,10 +7,10 @@ orderid: 720
 title: Lalla
 born: 720
 died: 790
-keywords: Lalla, HeronianTriangles, CubicEquation, Non-EuclideanGeometry, GaussianCurvature, DivergenceTheorem, LinearEquations
-description: Lalla, an Indian mathematician, established original theories on Heronian Triangles, Cubic Equations, Intrinsic Geometry, and more.
+keywords: lalla,lalla
+description: Lalla was an Indian mathematician who wrote mainly on the application of mathematics to astronomy.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lalla** was an Indian mathematician who wrote mainly on the application of mathematics to astronomy.
 
 ### Mathematical Profile (Excerpt):
-1. Established a landmark theorem in Heronian Triangles, which was widely acclaimed for its originality. 
-2. Pioneered the establishment of a generic algorithm for the cubic equation that allowed for higher precision calculations than her contemporary mathematicians.
-3. Developed the basis for non-Euclidean geometry, which was essential for the development of modern mathematics.
-4. Discovered and explored the Gaussian curvature of surfaces, leading to the concept of intrinsic geometry. 
-5. Realized the fundamental importance of divergence theorem as a powerful tool in solving equations in gravitational fields. 
-6. Performed groundbreaking research on partial differential equations and integral equations of mathematical physics. 
-7. Explored the use of linear equations to describe the behavior of physical movements and forces. 
-8. Developed the concepts behind her famous 'Lalla's Calculation Method' and implemented it in calculations.
+* Lalla was an Indian astronomer and mathematician who followed the tradition of Aryabhata I.
+* Lalla's most famous work was entitled Shishyadhividdhidatantra.
+* In this volume Lalla examined topics such as: graphical representation; the celestial sphere; the principle of mean motion; the terrestrial sphere; motions and stations of the planets; geography; erroneous knowledge; instruments; and finally selected problems.
+* In Shishyadhividdhidatantra Lalla uses Sanskrit numerical symbols.
+* Lalla argues in his commentary, like many other Indian astronomers before him such as Varahamihira and Brahmagupta, that if the earth rotated then the speed would have to be such that one would have to ask how do the bees or birds flying in the sky come back to their nests?
+* In fact Lalla misinterpreted some of Aryabhata I's statements about the rotating earth.
+* Lalla improved on these tables and he produced a set of corrections for the Moon's longitude.
+* One aspect of Aryabhata I's work which Lalla did follow was his value of π.
+* Lalla also wrote a commentary on Khandakhadyaka Ⓣ('edible bite' or 'morsel of food'), a work of Brahmagupta.
+* Lalla's commentary has not survived but there is another work on astrology by Lalla which has survived, namely the Jyotisaratnakosa.
 
 Born about 720, India. Died about 790, India.
 

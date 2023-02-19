@@ -7,10 +7,10 @@ orderid: 1884
 title: Szász, Otto
 born: 1884
 died: 1952
-keywords: real analysis, Fourier series, topology, Fox theorem, contractible 5-manifold, Szász–Gál Theorem, knot theory
-description: Otto Szász, Hungarian mathematician, developed numerous topological works including definitive proof of the Fox theorem, Szász–Gál Theorem and visualization of knot components. Also formulated connections, Szász-O-points for surface classification.
+keywords: otto szász,szász
+description: Otto Szász was a Hungarian mathematician who worked on real analysis, especially Fourier series.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Otto Szász** was a Hungarian mathematician who worked on real analysis, especially Fourier series.
 
 ### Mathematical Profile (Excerpt):
-1. Produced several works of importance in topology, including a definitive proof of the "Fox theorem," the first explicit example of a contractible 5-manifold, and the first example of a lattice S^3-knot.
-2. Authored or co-authored numerous research articles, textbooks, and monographs on various aspects of mathematics, including algebraic topology, algebraic geometry, and non-linear differential equations.
-3. Developed the Szász–Gál Theorem on the existence of chains in pairs of topological spaces that are homeomorphic.
-4. Demonstrated the importance of the Szász–Gál Theorem in the theory of knot groups.
-5. Pioneered the development of the Szász formulation of connections, which is used extensively in topology and was instrumental to the development of Morse theory.
-6. Developed a new method to describe and visualize knot components, which is recognized as an important contribution to the field of knot theory.
-7. Established the notion of a Szász-O-point that continues to be the single most effective tool for classifying surfaces.
+* In 1933 the Nazis came to power in Germany and Szász was forced out of his chair at Frankfurt.
+* Many mathematicians, like Szász, lost their positions.
+* Szász, like many others, left Germany and emigrated to the United States in 1933.
+* Szász's main work was in real analysis, particularly Fourier series.
+* Szász generalised some of Perron's results and also, in 1915, published a paper proving one of Perron's conjectures.
+* A few years before Szász began his mathematical researches, Sergei Bernstein had made major contributions to the theory of approximation.
+* Bernstein stated a problem concerning the completeness of a certain set of powers on an interval and, although Szász did not solve this problem, he did make contributions which were themselves important in the development of the theory of approximations.
+* Other work by Szász made major contributions to questions posed by Landau on the maximum modulus of the partial sums of a power series.
+* In fact Szász worked on problems associated with both Riesz brothers, and he gave a very simple proof a theorem by Marcel Riesz on rational functions with given bounds on the unit circle.
+* Some of Szász's contributions to Fourier series related to results proved by Bernstein, Hardy, Littlewood and Fejér.
+* All these results were achieved before 1933 and many of the mathematicians we have mentioned, such as Perron, Pringsheim, Edmund Landau, and Fejér were all Szász's personal friends.
+* We must not give the impression, however, that Szász did not make any research contributions after emigrating to the United States.
 
 Born 11 December 1884, Alsószúcs, Hungary (now Dolná Súča, Slovakia). Died 19 December 1952, Cincinnati, Ohio, USA.
 

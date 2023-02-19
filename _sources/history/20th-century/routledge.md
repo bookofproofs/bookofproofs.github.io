@@ -7,10 +7,10 @@ orderid: 1928
 title: Routledge, Norman Arthur
 born: 1928
 died: 2013
-keywords: Combinatorics, Enumerative Geometry, Generalized Catalan Numbers, Modified Generalized Fibonacci Numbers, Multivariate Symmetric Polynomials, Shuffle Algebras, Zonal Polynomials
-description: Norman Routledge developed a method to generate Catalan numbers, modified Fibonacci numbers and proved a theorem connecting multivariate symmetric polynomials, wrote a book on the subject of shuffle algebras and constructed an algorithm for zonal polynomials.
+keywords: norman routledge,routledge
+description: Norman Routledge was an English mathematician and schoolteacher. He was a personal friend of Alan Turing.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Norman  Routledge** was an English mathematician and schoolteacher. He was a personal friend of Alan Turing.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method of generating the generalized Catalan numbers, which are used to solve many counting problems in combinatorics and enumerative geometry.
-2. Established improved combinatorial interpretations of generalized Fibonacci numbers.
-3. Proposed a method of constructing modified generalized Fibonacci numbers by introducing a sign into the sequence.
-4. Demonstrated how certain quasi-symmetric functions can be completed and generalized.
-5. Proved a theorem connecting multivariate symmetric polynomials and symmetric functions, a result which is important to the study of algebraic geometry.
-6. Published a paper on the path-count problem and its applications to the enumeration of Catalan compounds.
-7. Constructed an efficient algorithm for computing the zonal polynomials of classical algebras.
-8. Derived a formula for the Tutte-Grothendieck invariants of a claw-free graph.
-9. Authored a book on the subject of shuffle algebras and their applications to algebraic combinatorics.
-10. Constructed an algorithm for the enumeration of 3-noncrossing partitions.
+* Norman was his parents' second child; he had one brother and three sisters.
+* The plan was put into operation in September 1939, just when Norman would have been starting school.
+* The evacuation of London in 1939 led to Routledge and his mother going to Letchworth, north of London, where they lived with his aunt Grace.
+* Routledge performed well in most of his school subjects but his weakest one was English literature, something that he blamed on poor teaching.
+* Routledge's parents took the headmaster's advice and Routledge specialised in mathematics and physics.
+* Although he only stayed for a short time before leaving the school to become a university lecturer, Braithwaite had a large influence on Routledge.
+* Braithwaite arranged for Routledge to sit the Cambridge scholarship examinations in mathematics.
+* In 1946 Routledge matriculated at King's College, Cambridge, having won a scholarship.
+* It was a style that Routledge liked.
+* Philip Hall taught in the rooms that Maynard Keynes had occupied and Routledge went to his rooms once a week for a supervision session.
+* Unlike Ingham, Routledge said, Hall was a shy man but happy to talk about a whole range of topics other than mathematics.
+* Among Routledge's friends was Alan Turing, who had returned to Cambridge after the war to attend physiology courses.
+* As well as studying mathematics, Routledge kept up his interest in music while at Cambridge.
+* Routledge was awarded a Ph.D. in 1954 for his thesis Recursive Sets.
+* Routledge realised that this would mean a vacancy for a well qualified mathematician at Eton so he made some enquiries and got permission from King's College to go to Eton and discuss the possibility of taking up the position with the headmaster.
+* One might reasonably ask why Routledge would be so interested in this position which many might consider of lesser status than a university teacher.
+* Philip Hall, who was Routledge's friend and advisor, had told him that if he wanted to stay at Cambridge he had to become the acknowledged expert on a particular topic.
+* Routledge was deputy leader of the UK Mathematical Olympiad team when they competed in Yugoslavia in 1967 and team leader when the UK Mathematical Olympiad team competed in the USSR in the following year.
+* Routledge would produce House plays, such as The Merry Wives of Windsor, involving every boy in the House, even those of the most dire ham-actor tendency.
+* One of his pupils, the present Earl of Wemyss, thanked Routledge for broadening the minds of generations of Etonians.
 
 Born 7 March 1928, London, England. Died 27 April 2013, London, England.
 

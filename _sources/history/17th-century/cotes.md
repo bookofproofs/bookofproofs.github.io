@@ -7,10 +7,10 @@ orderid: 1682
 title: Cotes, Roger
 born: 1682
 died: 1716
-keywords: Roger Cotes, Principia, Logarithms, Calculus, Interpolation, Natural Logarithms, Brachystochrone
-description: Roger Cotes was an English mathematician, best known for compiling the second edition of Principia, developing logarithms and advancing the integral calculus.
+keywords: roger cotes,cotes
+description: Roger Cotes was an English mathematician who edited the second edition of Newton's Principia. He made advances in the theory of logarithms, the integral calculus and in numerical methods, particularly interpolation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Roger Cotes** was an English mathematician who edited the second edition of Newton's _Principia_. He made advances in the theory of logarithms, the integral calculus and in numerical methods, particularly interpolation.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Cotes conjecture, a mathematical theorem in the study of differential calculus. 
-2. Compiled the second edition of Isaac Newton's Principia Mathematica in 1713, which included an extensive analytical introduction, now referred to as the Cotesian Preface. 
-3. Devised a method for finding approximated tangents to curves.
-4. Published papers on the harmonic series and infinite series. 
-5. Introduced the natural logarithms and approximations for hyperbolic functions. 
-6. Formulated the Cotes–Flamsteed interpolation formula for accurately determining the lunar equation. 
-7. Discovered a method of calculating logarithms by integration.
-8. Solved the brachystochrone problem, which is a type of optimization problem involving the shortest time of descent in a gravitational field, according to the rules of artificial mechanics. 
-9. Described the properties of ellipses.
+* Roger had a brother Anthony one year older than himself, and a sister Susanna who was one year younger.
+* His uncle, the Reverend John Smith, was keen to give Roger every chance to develop these talents and so Roger went to live with him so that he might be personally tutored.
+* Roger later attended the famous St Paul's School in London, but he continued to be advised by his uncle and the two exchanged letters on mathematical topics during the time that Roger spent at school in London.
+* Roger matriculated at Trinity College, Cambridge, on 6 April 1699 as a pensioner, meaning that he did not have a scholarship and paid for his own keep in College.
+* This was a remarkable achievement for Cotes who, at that time, was on 23 years of age.
+* Both Newton and Whiston recommended Cotes for the Chair, as did Richard Bentley who was master of Trinity College.
+* It is not entirely clear how successful Cotes was in his role as an observational astronomer.
+* Cotes designed a transit telescope to add to a collection of instruments which had been purchased or donated.
+* In terms of the observations that Cotes made, perhaps the most significant was the total eclipse on 22 April 1715.
+* None of this speaks very highly of Cotes' dedication as an observer, but nevertheless he did note some important facts concerning this eclipse and other astronomical events.
+* From 1709 until 1713 much of Cotes' time was taken up editing the second edition of Newton's Principia.
+* In particular although Newton thanked Cotes in the first draft of a preface he wrote to this edition, he deleted these thanks for the final publication.
+* Cotes himself wrote an interesting preface of his own in which he explained how the study of natural philosophy had developed.
+* First, Cotes explained, came Aristotle's method which involved naming hidden properties.
+* Then, according to Cotes, came the ideas that all matter was homogeneous.
+* Finally says Cotes, comes the method based on first conducting experiments without having preconceived ideas, and then deducing how the world works from the results.
+* Cotes only published one paper in his lifetime, namely Logometria, published in the Philosophical Transactions of the Royal Society for March 1714, which he dedicated to Halley.
+* Cotes was particularly pleased with his rectification of the logarithmic curve as he made clear in a letter to his friend William Jones in 1712.
+* Cotes extended the work of Varignon when he rectified the Archimedean spiral and the parabola of Apollonius, a problem first proposed by Fermat, showing that both have the same integral.
+* Jones urged Cotes to publish his work in the Philosophical Transactions of the Royal Society, but Cotes resisted this, wishing to support Cambridge and publish with Cambridge University Press.
+* Cotes discovered an important theorem on the nnnth roots of unity, gave the continued fraction expansion of eee, invented radian measure of angles, anticipated the method of least squares, published graphs of tangents and secants, and discovered a method of integrating rational fractions with binomial denominators.
+* Some of the work which Cotes hoped to publish with Cambridge University Press was published eventually by Thomas Simpson in The Doctrine and Application of Fluxions (2 Vols, London, 1750).
+* Robert Smith edited Cotes' major posthumous work, the Harmonia mensurarum which appeared in 1722.
+* It is fitting at this point to explain who Robert Smith was, and how he interacted with Cotes.
+* In fact he was the son of Cotes' uncle, the Reverend John Smith, and had become friends with Cotes when his uncle had him live in his house as a boy.
+* Later Robert Smith was Cotes' assistant when he was Plumian Professor, and eventually succeeded him as Plumian professor.
+* It was Smith who, many years after Cotes' death, when he was master of Trinity College, had a bust of Cotes erected.
+* Let us return to Cotes' posthumous work the Harmonia mensurarum Ⓣ(Harmony of measurements, or accounts of analysis and synthesis and to promote angular measures, among other works of mathematics).
+* In 1738, 22 years after Cotes died, Smith published the lectures which Cotes had given on experimental physics Hydrostatical and pneumatical lectures.
 
 Born 10 July 1682, Burbage, Leicestershire, England. Died 5 June 1716, Cambridge, England.
 

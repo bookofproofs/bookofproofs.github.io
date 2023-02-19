@@ -7,10 +7,10 @@ orderid: 1907
 title: Davenport, Harold
 born: 1907
 died: 1969
-keywords: number theory, geometry, Diophantine, analytic, Hardy–Littlewood, Riemann hypothesis, prime numbers
-description: Harold Davenport, noted researcher in number theory, geometry, Diophantine and analytic, developed Hardy–Littlewood, Riemann hypothesis and prime number theories.
+keywords: harold davenport,davenport
+description: Harold Davenport worked on number theory, in particular the geometry of numbers, Diophantine approximation and the analytic theory of numbers. He wrote a number of important textbooks and monographs including The higher arithmetic (1952).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Harold Davenport** worked on number theory, in particular the geometry of numbers, Diophantine approximation and the analytic theory of numbers. He wrote a number of important textbooks and monographs including _The higher arithmetic _ (1952).
 
 ### Mathematical Profile (Excerpt):
-1. Established and formalised the use of Hardy–Littlewood circle method in number theory.
-2. Received the De Morgan Medal in 1947 for his work on abstract algebra.
-3. Showed that the Riemann hypothesis could be derived from the zero-free regions of the zeta function.
-4. Developed an accurate heuristic for the asymptotic distribution of prime numbers.
-5. Pioneered research into problems of Hardy and Waring's formulas.
-6. Proved the conjecture of B.J. Birch concerning the distribution of primes in arithmetic progressions.
-7. Established a link between the initial behaviour of the prime number theorem and the Riemann Hypothesis. 
-8. Was part of the team that developed the 'Davenport– Heilbronn' method for computing the real zeros of the zeta function.
+* Nancy and Percy had two children, Harold having a younger sister Grace.
+* Harold attended Accrington Grammar School from the age of about ten years.
+* There were other subjects which interested Harold too, for he loved reading and read every Dickens classic that he could borrow from the local Public Library.
+* Davenport was most attracted by Littlewood's lectures on the theory of primes and those of Besicovitch on almost periodic functions.
+* Davenport wrote a Ph.D. thesis at Cambridge under Littlewood's supervision.
+* Those who interacted with Davenport included Richard Rado, Hirsch, Courant, Taussky (later Taussky-Todd), Kober and Mahler.
+* In 1941 Davenport was appointed to the chair of mathematics at the University College of North Wales at Bangor.
+* Harold and Anne left Wales and moved to London in 1945 when Davenport succeeded Jeffery as Astor professor of mathematics in University College, London.
+* At this time Davenport worked mainly on the geometry of numbers and on Diophantine approximation; he also acquired a lasting interest in problems of packing and covering.
+* In 1958 Davenport returned to Cambridge as Rouse Ball Professor of Mathematics on the retirement of Besicovitch.
+* Davenport worked on number theory, in particular the geometry of numbers, Diophantine approximation and the analytic theory of numbers.
+* We mentioned above that Davenport had been elected a Fellow of the Royal Society while still an assistant lecturer.
+* Always a heavy smoker (he tried to give up the habit several times but always failed), Davenport succumbed to lung cancer at a young age.
 
 Born 30 October 1907, Huncoat, Lancashire, England. Died 9 June 1969, Cambridge, England.
 

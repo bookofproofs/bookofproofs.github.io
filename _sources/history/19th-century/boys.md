@@ -7,10 +7,10 @@ orderid: 1855
 title: Boys, Sir Charles Vernon
 born: 1855
 died: 1944
-keywords: Charles Boys, English physicist, Royal Air Force, Fighter Command, V2 rocket, Bessel-Fourier method, high-speed photography
-description: Charles Boys, an English physicist, made contributions to aeronautics during WWII, including developing a program for the RAF and a device to measure shell velocities, as well as pioneering the use of high-speed photography in aerodynamics.
+keywords: charles boys,boys
+description: Charles Boys was an English physicist, known for his careful and innovative experimental work.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Boys** was an English physicist, known for his careful and innovative experimental work.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a real-time range and bearing analysis computer program for the Royal Air Force's Fighter Command in 1941.
-2. Performed a mathematical analysis of the tail surfaces of the Spitfire, helping the RAF construct an improved version of the aircraft.
-3. Found a way to improve the range of a V2 rocket by 39%, an important achievement for the Allies during World War II.
-4. Worked with the engineering division of RAF at Farnborough to develop a device that could measure the velocity and direction of a shell fired from a gun.
-5. Made important contributions to the mathematical theory of diffraction.
-6. Adapted the Bessel-Fourier method to solve a wide variety of problems in aeroelasticity.
-7. Pioneered the use of high-speed photography in aerodynamic studies.
+* Charles was one of a large family, being his parents' eighth child, and he was brought up in the vicarage at Wing.
+* From there Boys went to the Royal School of Mines where he was taught physics by Frederick Guthrie.
+* The school had no mathematics department so Boys learnt mathematics from books including Todhunter's Integral Calculus.
+* Boys is famed as a physicist and inventor of instruments.
+* After graduating in mining it was natural for Boys to seek employment at a colliery, which he did.
+* It was by using a quartz fibre suspension in Cavendish type experiments that Boys was able to improve the value obtained for the gravitational constant.
+* In 1888 Boys was elected a Fellow of the Royal Society.
+* In 1887 Boys took up an applied science post of Metropolitan Gas Referee and he held this post until the Referees were abolished in 1939.
+* Boys divorced his wife in 1910 after 18 years of marriage.
+* Boys received many honours in addition to election to the fellowship of the Royal Society which we mentioned above.
+* The University of Edinburgh awarded Boys an honorary degree in 1932.
 
 Born 15 March 1855, Wing, Rutland, England. Died 30 March 1944, St Mary Bourne, Andover, Hampshire, England.
 

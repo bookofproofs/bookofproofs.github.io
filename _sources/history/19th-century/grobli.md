@@ -7,10 +7,10 @@ orderid: 1852
 title: Gröbli, Walter
 born: 1852
 died: 1903
-keywords: Walter Gröbli, 19th century, mathematics, Carl Friedrich Gauss, algebraic equations, differential calculus, analytic functions
-description: Walter Gröbli was a key figure in 19th century mathematics, renowned for his contributions to algebraic equations, differential calculus, and analytic functions.
+keywords: walter gröbli,gröbli
+description: Walter Gröbli was a Swiss school teacher who helped organise the first Internatonal Congress of Mathematicians.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Walter Gröbli**  was a Swiss school teacher who helped organise the first Internatonal Congress of Mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. He studied mathematics under the eminent German mathematician Carl Friedrich Gauss and wrote a paper on the subject in 1802, which earned him a great reputation.
-2. He wrote an important dissertation on the differential calculus in 1805 and became one of the most important contributors to the subject in the 19th century.
-3. He formulated a version of the continuous Fourier series known as Gröbli's theorem in 1806.
-4. He developed pioneering theories on algebraic equations, which were to become the foundation of later research in algebraic Number Theory.
-5. He derived a theory of principles for the sum of quartic functions and discovered the recurrence formula of the kind still used today.
-6. He solved an outstanding problem from antiquity regarding how to calculate the area of an ellipse, which ultimately led to the development of the elliptical integral.
-7. He was a key figure in the development of differential geometry in the 19th century, proposing a generalization of the equilinear coordinates and deriving the theorem of the cylindricity of the sphere.
-8. He wrote a number of papers on the theory of analytic functions and on the theory of partial differential equations, mainly related to the transformation that is now known as the Gröbli-Lonchamps transformation. 
-9. He created a number of works that mark him as a pioneer of mathematical physics, such as two articles on the mechanics of rigid bodies and a treatise on the concept of automatics. 
-10. He is considered one of the most important figures of 19th century mathematics and a key contributor to the field of mathematics with his works on algebraic equations, differential calculus, and the theory of analytic functions.
+* Later the family moved to Töss (now part of the town Winterthur) in canton Zürich, where Walter attended the Industrieschule.
+* His parents were Isaak and Elisabetha Gröbli, née Grob.
+* Walter had two older brothers, Joseph Arnold and Hermann, and a younger sister.
+* Isaak Gröbli (1822-1917) was a jacquard weaver who invented the "Schifflistickmaschine", a shuttle embroidery machine, in 1863.
+* Soon the machine worked 10 times faster than a hand embroidery machine and became widely used, but it brought Isaak Gröbli only modest wealth.
+* Walter, however, was not interested in weaving, but in mathematics.
+* Probably encouraged by Weber and Schwarz, Gröbli went to Berlin to hear Kirchhoff, Helmholtz, Kummer and Weierstrass in 1875.
+* In 1876 Gröbli obtained his doctorate from the University of Göttingen for his thesis Spezielle Probleme über die Bewegung gradliniger, paralleler Wirbelflächen Ⓣ(Special problems on rectilinear movement, parallel vortex sheets).
+* Gröbli also became Frobenius's assistant for the following six years.
+* Despite his mathematical talent and encouragement from his former professors and his colleagues, Gröbli did not pursue a career as a research mathematician; he was content with being a schoolteacher.
+* Gröbli married Emma Bodmer in 1899, but there are no verified records of whether the couple had any children.
+* Even after he had stepped down from his post at the Polytechnic, Gröbli continued to take great interest in the latest mathematical research.
+* Gröbli was a very active member of the Swiss Alpine Club: he led many mountaineering trips and served on the executive committee of the Club's local branch for many years.
+* Walter Gröbli and two pupils, Ernst Hofmann and Adolf Odermatt, perished on the mountain; another pupil, Richard Liebmann, died of his injuries later on.
+* It is hard to say whether Gröbli would have written any mathematical papers had he not died so early.
+* People then forgot about it until 1949, when J L Synge published a paper on the converse of the problem that Gröbli investigated.
+* At the time of the first International Congress of Mathematicians Gröbli had already given up his teaching post at the Polytechnic.
 
 Born 23 September 1852, Oberuzwil, St Gallen canton, Switzerland. Died 26 June 1903, Piz Blas, Grisons canton, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1631
 title: Cocker, Edward
 born: 1631
 died: 1676
-keywords: Edward Cocker, arithmetic, trigonometry, Cocker Rule, odd/even, square roots, logarithms, False Position
-description: Edward Cocker developed revolutionary arithmetic and trigonometry books, proved odd/even rules, established a way to calculate square roots, devised logarithms, and proposed the "Rule of False Position" for algebra.
+keywords: edward cocker,cocker
+description: Edward Cocker was an English scholar who was the author of an influential arithmetic text which ran to more than 100 editions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Cocker** was an English scholar who was the author of an influential arithmetic text which ran to more than 100 editions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first arithmetic book for children called 'Cocker's Arithmetick'.
-2. Proved the product of two even numbers is always even. 
-3. Showed that the product of three numbers is equal to the sum of three numbers with each number multiplied by the sum of the other two numbers. 
-4. Published 'Arithmetica' in 1678, which was the first trigonometry book. 
-5. Invented the Cocker Rule of Three for proportions.
-6. Showed that the product of two odd numbers is always odd. 
-7. Established an efficient way to calculate square roots. 
-8. Contributed to the advancement of algebra with discoveries of series and progressions.
-9. Developed a new way of calculating logarithms. 
-10. Proposed the "Rule of False Position" in algebra, which helped simplify equations.
+* In addition to the copy-books Cocker wrote Cocker's Urania and Cocker's Morals (1675) composed of rhyming couplets.
+* His most famous work, however, was Cocker's Arithmetic which ran to more than 100 editions over a period of about 100 years.
+* It was published in 1678, after Cocker's death, edited by John Hawkins.
+* A phrase according to Cocker was common usage for many years, it meant absolutely correct.
+* The editor of the 1678 first edition of Cocker's Arithmetic, John Hawkins, wrote two books of his own, Clavis Commercii (1689) and The English School-master compleated (1692) as well as editing the third edition of Jonas Moore's Arithmetick (1688).
+* It has been claimed that he was the author, rather than Cocker, of Cocker's Arithmetic.
+* The first to suggest that Cocker's Arithmetic was written by John Hawkins was De Morgan.
+* Among his reasons was that Cocker's Preface says that he is now publishing the work, while Hawkin's Preface says that Cocker refused to publish.
+* For example he countered the point above by saying that Cocker's Preface must be genuine otherwise Hawkins would not have been so stupid to have the two Preface's contradict each other.
+* The story is complicated by the fact that other books were to appear claiming to be by Cocker.
+* Cocker's Accomplish'd School-Master appeared in 1696 while Cocker's English Dictionary appeared in 1704.
+* These are almost certainly not due to Cocker but were written to cash in on the high sales that Cocker's name produced.
+* Cocker died with no money in his Poke to quote his own phrase.
+* Cocker's move to Southwark was probably an enforced one, consequent on his committal for debt.
 
 Born 1631, England. Died 22 August 1676, London, England.
 

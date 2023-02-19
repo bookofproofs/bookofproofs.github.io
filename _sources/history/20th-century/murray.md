@@ -7,10 +7,10 @@ orderid: 1931
 title: Murray, James Dickson
 born: 1931
 died: 0
-keywords: Scottish, Mathematician, Mathematical Biology, Differential Calculus, Complex Analysis, Treatise, Algebra
-description: James Murray, a Scottish Mathematician, is known for his extensive work in Mathematical Biology, and his multiple publications on Differential Calculus, Complex Analysis, Treatises and Algebra.
+keywords: james murray,murray
+description: James Murray is a Scottish mathematician who is best known for his authoritative and extensive work Mathematical Biology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,33 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **James Murray** is a Scottish mathematician who is best known for his authoritative and extensive work  _Mathematical Biology_.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a pioneering calculus textbook in 1836, A Treatise on the Differential Calculus.
-2. Founded a journal named The Analytical Ledger for the advancement of mathematics in 1841.
-3. Edited and published one of the first English works on complex analysis, Treatise on Plane and Spherical Trigonometry by Charles Hutton, in 1841.
-4. Wrote a two-volume edition of Elements of Algebra in 1844.
-5. Wrote two different Treatises of Analytical Geometry in 1847 and 1851
-6. Published various editions of Euclid’s Elements between 1848 and 1858.
-7. Published several editions of Algebraical and Arithmetical Theory of Numbers in 1842 and 1888.
-8. Collaborated with Augustus De Morgan in writing his A Syllabus of a Proposed Textbook for the Differential and Integral Calculus, 1857.
-9. Wrote several articles for the Edinburgh Review in 1857.
-10. Published General Arithmetic and Introduction to Algebra in 1862.
+* The family tradition would have seen James become a plumber but after contracting polio as a child, this was not a possibility.
+* He spent three years at Dumfries Academy where the head of the mathematics department, Mr Ross, told him he would never make it as a mathematician! However James said that Mr Ross was an excellent mathematics teacher.
+* This was the result of Mr Ross's opinion of Murray's mathematical abilities.
+* In 1950-51 Murray entered the Junior Honours class in mathematics.
+* In 1953 Murray graduated from the University of St Andrews when he was awarded a B.Sc. with 1st  class Honours in Mathematics.
+* It was not all work for Murray at university, however, for he won the University of St Andrews' first blue in table tennis and was captain of the university's billiard team.
+* So, after taking his first degree, Murray remained at St Andrews to study for a Ph.D. having been awarded a Carnegie Research Scholarship.
+* His thesis advisor was Ron Mitchell and he suggested to Murray a topic in boundary layer fluid dynamics.
+* This was Murray's PhD problem.
+* In 1954 Mitchell and Murray submitted the paper Two Dimensional Flow with Constant Shear Past Cylinders with Various Cross Sections to Zeitschrift für Angewandte Mathematik und Physik.
+* Having completed the work for his Ph.D. Murray was appointed as a Lecturer in Applied Mathematics, at King's College, Durham University in Newcastle upon Tyne in 1955.
+* After spending a year at King's College in Newcastle, Murray, who had always wanted to go to the United States, went to Harvard University where he spent 1956-57 as a postdoctoral student supported by a Sir James Caird Travelling Scholarship.
+* Murray married Sheila Campbell in 1959; they had two children Mark and Sarah.
+* Murray had continued to work on fluid dynamics and had published papers such as Non-uniform shear flow past cylinders (1957), The flow of a conducting fluid past a magnetized cylinder (1960), The boundary layer on a flat plate in a stream with uniform shear (1961), Strong cylindrical shock waves in magnetogasdynamics (1961), On the mathematics of fluidization.
+* It was while he was at the University of Michigan that Murray became interested in mathematical biology.
+* In 1967 Murray was appointed as Professor of Mathematics at New York University but, after two years he returned to England where he was made a fellow and tutor at Corpus Christi College of the University of Oxford.
+* From 1966 until 1973 Murray published papers both on fluid dynamics and on mathematical biology.
+* After 1974 all of Murray's publications (around 200 from 1974 up to 2015) are on mathematical biology.
+* Murray gave the Introductory Remarks at the 'Theories of biological pattern formation', a Royal Society of London conference held on 25 and 26 March 1981.
+* Murray has published three single authored books Asymptotic Analysis (1974), Lectures on Nonlinear Differential Equation Models in Biology (1977), Mathematical biology (1989), and, in addition, one multi-author work The mathematics of marriage: dynamic nonlinear models (2002), with John M Gottman, Catherine C Swanson, Rebecca Tyson and Kristin R Swanson.
+* At Oxford, Murray was a Reader in Mathematics from 1972 to 1986, and Professor of Mathematical Biology from 1986.
+* In 1992 Murray retired both from his chair of Mathematical Biology and from the Directorship of the Centre for Mathematical Biology.
+* However, from 1987 Murray had, in addition to the Oxford positions, held appointments at the University of Washington in the United States.
+* In 2010, now in his eightieth year, Murray became a Senior Scholar in Applied and Computational Mathematics at Princeton University and a Visiting Professor in Ecology and Evolutionary Biology at Princeton.
+* During his long career, Murray has held numerous positions as Visiting Professor.
+* For his outstanding contributions to mathematical biology, Murray has received many honours and awards.
+* The University of Washington created a donor endowed chair in perpetuity: the James D Murray Chair of Applied Mathematics in Neuropathology in 2006.
 
 Born 2 January 1931, Moffat, Scotland.
 

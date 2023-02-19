@@ -7,10 +7,10 @@ orderid: 1862
 title: Loria, Gino Benedetto
 born: 1862
 died: 1954
-keywords: Italian, mathematics, projective geometry, algebraic geometry, systems of linear equations, inverse matrix, random sampling
-description: Gino Loriawas an Italian mathematics historian, a master of projective geometry, algebraic geometry and elliptic functions, who published on systems of linear equations, inverse matrices, random sampling and many other topics.
+keywords: gino loria,loria
+description: Gino Loria was an Italian mathematician and historian of mathematics who worked on projective geometry, special curves, algebraic geometry and elliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gino Loria** was an Italian mathematician and historian of mathematics who worked on projective geometry, special curves, algebraic geometry and elliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Published a paper on the topic of system of linear equations in 1925.
-2. Identified a generalized inverse matrix in 1928.
-3. Published papers on statistical methods of tests of correlation in 1929.
-4. Co-authored a paper on random sampling with Francesco Paolo Cantelli that same year.
-5. Devised a technique for solving linear programs in 1934.
-6. Authored a three-volume work on the mathematics of games and tricks in 1945.
-7. Contributing editor to the journal Rendiconti della Accademia dei Lincei.
-8. Authored a thesis on integral equations in 1912.
-9. Developed a system for calculating the distances of planets from the Sun in 1913.
-10. Published a paper on Hermite–Hadamard integral inequalities in 1914.
+* Gino had an older brother, Achille Loria, who was born in Mantua in March 1857.
+* Gino, like his elder brother, was educated at the lyceum in Padua, entering in 1875 and graduating in 1879.
+* Loria was appointed as a Privatdocent at the University of Turin in July 1886.
+* Although Loria continued to undertake research into geometry throughout his life, his main research activity was in the history of mathematics.
+* A full professor of higher geometry at the University of Genoa beginning in 1891, Loria wrote the history of mathematics as a mathematician writing for other mathematicians.
+* Concerned only with exact sciences, Loria gelt himself compelled to justify his incursions into "foreign fields" like philosophy, geodesy, and astronomy, forced as he said by "the indissoluble links" among the various branches of his subject matter.
+* Loria himself first heard of the existence of Fergola's school when he read Chasles's 'Aperçu historique sur l'origine et le developpement des méthods en geométrie'  Ⓣ(Historical overview of the origin and development of methods in geometry) (1875) that "we owe several important works that re-establish ancient geometrical analysis in its original purity to the celebrated Fergola and his students.
+* Loria wrote a number of texts which became classics.
+* Another important contribution by Loria was the founding of Bollettino di bibliografia e storia delle scienze matematiche Ⓣ(Bulletin of literature and history of the mathematical sciences) in 1898.
+* Loria, however, adapted editorial policies different from those of Boncompagni.
+* In Loria's view, subsequent historians "slightly modified (Boncompagni's) principles".
+* On the one hand they tried to pay attention to influential mathematicians; on the other hand, they presented quotations in a clear and exact form, though reduced to their essentials in order to save space and spare the time of scholars by not "inflicting them with such boredom that drives readers away." Loria's 'Bollettino' thus sought to avoid the overly rigorous, erudite style of Boncompagni.
+* We should also comment on Loria's contributions to the teaching of mathematics since these are highly significant.
+* In the paper La storia della matematica come anello di congiunzione fra l'insegnamento secondario e l'insegnamento universitario Ⓣ(The history of mathematics as a link between secondary and tertiary education,), which he published in 1899, Loria argued that teachers of mathematics should attend lectures on the history of mathematics before they began to teach in classrooms.
+* Soon Loria was playing a large role in attempting to improve school teaching in mathematics.
+* In 1928 the International Commission on Mathematical Instruction meeting in Bologna asked Loria to prepare a report for the International Congress of Mathematicians to take place in Zürich in 1932.
+* In recognition of his efforts, the Commission conferred the title of Honorary Member on Loria on 15 July 1936.
+* Loria retired from the Chair of Higher Geometry at the University of Genoa in 1935.
+* Loria, in common with all Italian Jews, had to register with the authorities.
+* Jews were faced with extermination, but the Waldenses saved Loria and his brother.
+* The Waldenses saved many Jews from extermination by the Nazis, hiding them in the valley of Torre Pellice; it was there that Loria and his brother were given a safe refuse.
+* However, sadly, Loria's brother Achille died at Luserna San Giovanni (Torre Pellice) on 6 November 1943.
+* Loria returned to Genoa in 1945.
+* For his outstanding mathematical achievements, Loria received many honours and awards.
+* In addition to the historical work we have mentioned above, Loria also wrote around fifty biographies of mathematicians, many of which we have used in writing our biographies and are referenced in this archive.
 
 Born 19 May 1862, Mantua, Austrian Empire (now Italy). Died 30 January 1954, Genoa, Italy.
 

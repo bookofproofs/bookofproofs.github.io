@@ -7,10 +7,10 @@ orderid: 1936
 title: Lindenstrauss, Joram
 born: 1936
 died: 2012
-keywords: Joram Lindenstrauss, Wolf Prize, Functional Analysis, Furstenberg's Theorem, Ergodic Theory, Invariant Measures, Kesten's Theorem
-description: Joram Lindenstrauss, winner of the Wolf Prize in Maths, made major contributions to Functional Analysis and Ergodic Theory, including Proving Furstenberg's & Pointwise Ergodic theorem & connecting probability & measure theory, ultimately resolving Kesten's & Kakutani's problems.
+keywords: joram lindenstrauss,lindenstrauss
+description: Joram Lindenstrauss was an Israeli mathematician working in functional analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joram Lindenstrauss** was an Israeli mathematician working in functional analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Winning the Wolf Prize in Mathematics in 1978. 
-2. Proving Furstenberg’s ergodic theorem. 
-3. Developing the pointwise ergodic theorem and bringing it to mathematical maturity. 
-4. Proving and deepening the structure theory of sets of invariant measures. 
-5. Coining the terms moderately-null and null-sequence, important in measure theory. 
-6. Applying methods from probability to measure theory. 
-7. Resolving two long-open problems, Kesten's theorem on stationary random walks, and Kakutani's problem in infinite ergodic theory. 
-8. His work on multiple ergodic theorems, which is connected to density of subsequences.
+* Bruno Lindenstrauss (1908-1968), born in Berlin on 25 January 1908, was a lawyer and his wife Ilse Stammreich (1903-2000), born in Berlin on 19 August 1903, was also a lawyer.
+* When the Nazis came to power in Germany in 1933 with their extreme anti-Semitic policies, the Jewish couple Bruno and Ilse Lindenstrauss emigrated to Palestine.
+* We note that Ilse Lindenstrauss wrote On women's law in Israel, which was published in Tel-Aviv by the Women's International Zionist Organisation, Instruction and Information Centre in 1949.
+* Joram was their only son, attending school in Tel Aviv.
+* Lindenstrauss began his studies in mathematics at the Hebrew University of Jerusalem in 1954.
+* While studying at the Hebrew University of Jerusalem, Lindenstrauss met Naomi Zelinger; they married and had four children Ayelet, Elon (born 1970), Kinneret (born 1972), and Gallia.
+* Ayelet Lindenstrauss Larsen and Elon Lindenstrauss both became mathematicians, Ayelet is Professor of Mathematics at Indiana University, Bloomington, while Elon achieved the highest mathematical award when he was awarded the Fields Medal in 2010.
+* Kinneret Lindenstrauss Keren is a biophysicist, at Technion winning the Krill prize for Scientific Research from the Wolf Foundation in 2010, while Gallia is a researcher at the Institute for National Security Studies at Tel Aviv University.
+* After the award of his Ph.D. Lindenstrauss spent three years in the United States, first at Yale University and later at the University of Washington in Seattle, working there between 1962 and 1965.
+* Lindenstrauss also thanks Shizuo Kakutani for "valuable discussions" concerning On a problem of Nachbin concerning extension of operators, also published in 1963.
+* We note that by 1966, Lindenstrauss had published around 30 papers, a truly remarkable achievement for someone 30 years of age.
+* Lindenstrauss left the United States and, back in Israel in 1965, he became a senior lecturer at the  Hebrew University and worked at the Einstein Institute of Mathematics.
+* A phase transition occurred with the arrival of Joram, who joined Dvoretzky in the supervision of the doctoral theses of Lazar and Zippin, and Joram's influence dominated their work.
+* Joram's supervision style was very "open." We did not have orderly weekly meetings, and he never gave me a problem for the thesis.
+* Joram was very systematic and methodical.
+* Lindenstrauss was promoted to associate professor in 1967 and to full professor in 1969.
+* Once when we went for Shabbat dinner at the Lindenstrauss home, Joram, with some help from Ayelet and Elon, built a Lego city in their living room.
+* Shabbat dinners at the Lindenstrauss home after our children were grown were particularly enjoyable when some of their children were present.
+* It was great to get to know the adult Gallia, the youngest and most widely read of the Lindenstrauss clan (Google her to find out why), who was often present helping Naomi with the preparations.
+* Lindenstrauss published the lecture notes Classical Banach spaces (1973) which he wrote jointly with Lior Tzafriri.
+* In addition to proving difficult theorems and solving longstanding open problems, Joram was a conceptual leader who was responsible for the formulation of foundational insights and major research directions that guided and shaped the intensive efforts of many researchers worldwide over several generations, and his legacy will undoubtedly continue to do so in the future.
+* Lindenstrauss retired in 2005, having had poor health for some time, and after several years of deteriorating health he died in April 2012.
+* Lindenstrauss received many honours for his outstanding mathematical contributions.
 
 Born 28 October 1936, Tel Aviv, British Mandate for Palestine (now Israel). Died 29 April 2012, Jerusalem, Israel.
 

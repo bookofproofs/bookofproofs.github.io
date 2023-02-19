@@ -7,10 +7,10 @@ orderid: 1905
 title: Ehresmann, Charles
 born: 1905
 died: 1979
-keywords: Charles Ehresmann, Differential Topology, Category Theory, Fiber Bundles, Ehresmann Connection, Ehresmann-Scheerer Theorem, Homological Algebra
-description: Charles Ehresmannwas a French mathematician who developed foundational theories in differential topology, category theory, and homological algebra.
+keywords: charles ehresmann,ehresmann
+description: Charles Ehresmann was a French mathematician who worked in differential topology and category theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Ehresmann** was a French mathematician who worked in differential topology and category theory.
 
 ### Mathematical Profile (Excerpt):
-1.He was a major developer of the theory of fiber bundles. 
-2.He advanced the theory of categories and functors. 
-3.He provided the first explicit description of the exponential map, which has many useful applications in geometry and dynamical systems.
-4.He introduced the concept of a connection (resp. Ehresmann connection) on a fiber bundle and proved the fundamental theorem of Ehresmann, which gave rise to a deep geometric intuition for differential calculus and its applications.
-5.He contributed to the development of a description of topological spaces and objects known as the Ehresmann-Scheerer theorem. 
-6.He developed the category theory and the generalized inverse limit theory to algebraic topology and homology theory. 
-7.He constructed a geometric interpretation of homological algebra
-8.He was a major exponent of the homotopical approach to PDEs. 
-9.He put forth a highly stylized system of axioms for geometry related to the category of smooth invertible functions.
+* Charles, however, was from that time on taught in French.
+* In 1924 Ehresmann entered the École Normale Supérieure in Paris.
+* After spending the years 1928-29 in Rabat, Ehresmann continued his education going to Göttingen to undertake research.
+* From 1932 to 1934 Ehresmann studied at Princeton in the United States.
+* Ehresmann's doctorate was awarded by Paris in 1934.
+* Ehresmann followed the moves of the university then, in 1955, a chair of topology was specially created for him in the University of Paris.
+* Although he was 70 years old when he retired, Ehresmann did not give up lecturing for at this time he moved to Amiens, where his second wife was a professor of mathematics, and he taught there.
+* Ehresmann was one of the creators of differential topology.
+* Beginning in 1941, Ehresmann made major contributions toward establishing the current view of fibre spaces, manifolds, foliations and jets.
+* After 1957 Ehresmann became a leader in category theory and he worked in this area for 20 years.
+* Between 1980 and 1983 Andrée Charles Ehresmann, his wife, edited his complete works.
+* These appeared in seven volumes: Charles Ehresmann: Oeuvres complètes et commentées Ⓣ(Charles Ehresmann: Complete Works and commentaries) as supplements to the Journal Cahiers de Topologie et Géometrie Différentielle Categoriques which Charles Ehresmann created in 1957.
 
 Born 19 April 1905, Strasbourg, Alsace (now France). Died 22 September 1979, Amiens France.
 

@@ -7,10 +7,10 @@ orderid: 400
 title: Yang, Xiahou
 born: 400
 died: 470
-keywords: Xiahou Yang, Mathematical Manual, Astronomical texts, If-then Proposition, Yuanzhu, Linear Equations, Spherical Astronomy
-description: Chinese mathematician Xiahou Yang wrote influential texts like Mathematical Manual and Astronomical Texts, introducing the If-then proposition and Yuanzhu, solving Linear equations and researching Spherical Astronomy.
+keywords: xiahou yang,yang
+description: Xiahou Yang was a Chinese mathematician who wrote the text Xiahou Yang suanjing (Xiahou Yang's Mathematical Manual).
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Xiahou Yang** was a Chinese mathematician who wrote the text _Xiahou Yang suanjing_ (Xiahou Yang's Mathematical Manual).
 
 ### Mathematical Profile (Excerpt):
-1. Author of astronomical texts “Changling Dogong” and “Xihe Gudutong”. 
-2. Credited with the introduction of the if-then proposition into Chinese mathematics. 
-3. Pioneered an innovative method of calculation called yuanzhu (“original beads”) that allowed the introduction of mathematical complexity. 
-4. Acknowledged with the invention of a “fast algorithm of bilateral computation”. 
-5. Established a new numerical system for the determination of specific path analysis. 
-6. Developed the earliest known Chinese method for solving linear equations. 
-7. Applied geometry to solve engineering problems and to calculate the area of various shapes. 
-8. Made significant contributions to the study of spherical astronomy. 
-9. Established the principle of treatise on arithmetic, which became the basis for later Chinese mathematicians. 
-10. Researched and wrote a number of influential books including “Precious Mirror of the Four Elements” and the “Rhomboid and Rectangular Principles”.
+* Nothing is known of Xiahou Yang except as the supposed author of the Xiahou Yang suanjing (Xiahou Yang's Mathematical Manual).
+* What we have done is to use the best available evidence for the dates when the Xiahou Yang suanjing was written and deduce approximate dates for Xiahou Yang from that.
+* We have comments by Zhang Qiujian which criticise the accuracy of one of the solutions given in the Xiahou Yang suanjing (Xiahou Yang's Mathematical Manual).
+* Xiahou Yang notes that to multiply a number by 10, 100, 1000, or 10000 all that needs to be done is that the rods on the counting board are moved forwards by 1, 2, 3, or 4 decimal places.
+* What is significant here is that Xiahou Yang seems to understand not only positive powers of 10 but also decimal fractions as negative powers of 10.
+* Although Xiahou Yang has no symbol for 0 in an empty place, there is good evidence from his description of moving numbers to the right and left that he at least has a virtual zero in mind despite the lack of a symbol.
+* In particular some of the problems dealing with areas in the Xiahou Yang suanjing (Xiahou Yang's Mathematical Manual) use incorrect formulae.
 
 Born about 400, China. Died about 470, China.
 

@@ -7,10 +7,10 @@ orderid: 1916
 title: Edmonds, Sheila May
 born: 1916
 died: 2002
-keywords: Sheila Edmonds, Mathematics, Bronze Medal, NSF, Richard V. Andree Award, MIT, AMC
-description: Sheila Edmonds, English mathematician and Vice-Principal of Newnham College, Cambridge, achieved excellence in Mathematics, winning Bronze Medal in '05, NSF mention in '18, Richard V. Andree Award '08/'09, MIT degree in '11, & AMC perfect score '12.
+keywords: sheila edmonds,edmonds
+description: Sheila Edmonds was an English mathematician who worked infinite series and went on to become Vice-Principal of Newnham College, Cambridge.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sheila Edmonds** was an English mathematician who worked infinite series and went on to become Vice-Principal of Newnham College, Cambridge.
 
 ### Mathematical Profile (Excerpt):
-1. Awarded a Bronze Medal in the International Mathematical Olympiad in 2005.
-2. Earned a full scholarship to the University of Michigan Mathematics Camp in 2006.
-3. Published her first article in a mathematics journal at age 14.
-4. Received an honorable mention in the 2018 National Science Foundation (NSF) Graduate Research Fellowship Program.
-5. Awarded the American Mathematical Society's Richard V. Andree Award for Exceptional Achievement in Mathematics two consecutive years (2008 and 2009). 
-6. Graduated from Massachusetts Institute of Technology (MIT) with a Bachelor of Science degree in Mathematics in 2011.
-7. Received a perfect score on the American Mathematics Competition (AMC) exam in 2012. 
-8. Selected to give a keynote presentation at the 2017 Joint Mathematics Meetings in Atlanta.
+* Although women could attend classes and take the examinations at the University of Cambridge in Edmonds' time, they could still not graduate with a degree which only became possible in 1947.
+* Edmonds' doctoral thesis Some multiplication problems was completed in 1944.
+* In the second of the two papers Edmonds looks at conditions under which the integral from 0 to ∞ of the product of two functions f(x)f (x)f(x) and g(x)g(x)g(x) is equal to the integral from 0 to ∞ of the product of the cosine transforms of the two functions f(x)f (x)f(x) and g(x)g(x)g(x).
+* In a series of papers published over the following years Edmonds examined a whole variety of different conditions on the functions fff and ggg which give the required equalities.
+* In 1957 Edmonds published Sums of powers of the natural numbers.
+* Edmonds wished to give this aspect of her job 100% of her effort, so after 1957 she published no further papers.
+* Edmonds made important contributions in addition to her teaching.
 
 Born 1 April 1916, Kingston, Kent, England. Died 2 September 2002, Cambridge, England.
 

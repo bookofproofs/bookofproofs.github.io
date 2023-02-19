@@ -7,10 +7,10 @@ orderid: 1868
 title: Sommerfeld, Arnold Johannes Wilhelm
 born: 1868
 died: 1951
-keywords: Arnold Sommerfeld, electromagnetic theory, relativity, quantum theory, periodic motion, fine structure model, Fermi-Dirac statistics
-description: Arnold Sommerfeld was a seminal physicist working on electromagnetic theory, relativity, quantum theory and more, developing models and theories like periodic motion, fine structure model, on-shell scattering matrix and more.
+keywords: arnold sommerfeld,sommerfeld
+description: Arnold Sommerfeld was a theoretical physicist who worked in electromagnetic theory, relativity and quantum theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Arnold Sommerfeld** was a theoretical physicist who worked in electromagnetic theory, relativity and quantum theory.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced the mathematical concept of periodic motion with his famous ‘t' equation in 1908.
-2. Developed the Sommerfeld fine structure model of the atom in 1915.
-3. Established the mathematical foundation of the quantum theory in 1906 with his development of the theories of stopbands.
-4. Developed the theory of Fermi-Dirac statistics and quantum electron theory.
-5. Solved the two-body scattering problem for large energies with the on-shell scattering matrix in 1936.
-6. Established the Sommerfeld-Weiss perturbation theory, which advanced the study of partial differential equations.
-7. Worked on a reformulation of thermodynamics laws in terms of entropy in 1932.
+* Franz was 48 years old when Arnold was born while his wife Cäcile was 29; they had been married for six years.
+* Arnold wrote autobiographical notes in around 1917 (which he updated towards the end of his life) and we give some quotations from these throughout this biography.
+* Sommerfeld entered the Altstädtisches Gymnasium in Königsberg in 1875.
+* Sommerfeld entered the University of Königsberg immediately after passing the Abitur but although mathematics was his main subject, he followed his all round interests by attending lectures in natural sciences, philosophy, and political economy as well.
+* Hilbert, Hurwitz and Lindemann all lectured to Sommerfeld and, after attending a course by Hilbert on the theory of ideal numbers, he felt that abstract pure mathematics was the right subject for him.
+* However Sommerfeld's interests were in mathematics rather than physics.
+* It was the custom of German students to move from one university to another, yet Sommerfeld did not do so, remaining in Königsberg.
+* Lindemann was Sommerfeld's doctoral thesis advisor and, in 1891, he was awarded his doctorate from Königsberg for his thesis Die willkürlichen Functionen in der mathematischen Physik Ⓣ(The arbitrary functions of mathematical physics).
+* After completing his doctorate, Sommerfeld remained at Königsberg to work for the teaching diploma which would let him teach mathematics and physics at a Gymnasium.
+* Many academics find military service a necessary evil to be suffered but not so Sommerfeld.
+* In 1893, after completing his military training in the September, Sommerfeld went to Göttingen, knowing it to be "the seat of mathematical high culture", and he first spent a year as an assistant in the Mineralogical Institute.
+* As indicated, the direction of Sommerfeld's research was immediately influenced by Klein who at this time was heavily involved in applying the theory of functions of a complex variable, and other pure mathematics, to a range of physical topics from astronomy to dynamics.
+* Sommerfeld's first work under Klein's supervision was an impressive piece of work on the mathematical theory of diffraction.
+* In March 1895 Sommerfeld presented his habilitation thesis The mathematical theory of diffraction to Göttingen and became a privatdozent in mathematics.
+* The lectures Klein gave in 1895-96 on the spinning top led to Klein and Sommerfeld starting a joint project to write a four volume text on the theory of gyroscopes.
+* While at Göttingen he had met Johanna Höpfner, the daughter of Ernst Höpfner who was the curator of university, but they could not marry while Sommerfeld was a privatdozent with insufficient income to support a wife.
+* From October 1897 Sommerfeld taught at Clausthal where he became professor of mathematics at the mining academy.
+* The marriage between Sommerfeld and Johanna Höpfner produced three sons and one daughter.
+* In September 1903 Klein founded a so-called "vector commission" consisting of Sommerfeld, Ludwig Prandtl, and Rudolf Mehmke.
+* It was he who strongly believed that engineering should be based on a strong mathematical base, so he had pressed hard for Sommerfeld to be appointed to this professorship.
+* Sommerfeld's work led him to replace the circular orbits of the Niels Bohr atom with elliptical orbits; he also introduced the magnetic quantum number in 1916 and, four years later, the inner quantum number.
+* In the later part of his career, Sommerfeld used statistical mechanics to explain the electronic properties of metals.
+* Sommerfeld's approach was to regard electrons in a metal as a degenerate electron gas.
+* Anti-Semitism, always present in that country, became virulent in the Hitler period and Sommerfeld was obliged to witness the emigration of famous colleagues, including Einstein.
+* Finally let us give a brief indication of the many honours Sommerfeld received.
 
 Born 5 December 1868, Königsberg, Prussia (now Kaliningrad, Russia). Died 26 April 1951, Munich, Germany.
 

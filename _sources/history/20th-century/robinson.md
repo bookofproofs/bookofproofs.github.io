@@ -7,10 +7,10 @@ orderid: 1918
 title: Robinson (3), Abraham
 born: 1918
 died: 1974
-keywords: non-standard analysis, model theory, infinitesimals, abstract algebra, syntactic proofs, decidability, completeness
-description: Abraham Robinsondeveloped the technique of non-standard analysis to solve previously unsolvable math problems, revolutionizing model theory, algebra, and logic.
+keywords: abraham robinson,robinson
+description: Abraham Robinson was a Polish-born mathematician best known for the development of non-standard analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Abraham Robinson** was a Polish-born mathematician best known for the development of non-standard analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the technique of non-standard analysis to solve mathematical problems that were previously not considered possible to solve using traditional methods.
-2. Provided the basis for modern model theory, laying the foundations for fields such as mathematical logic and abstract algebra.
-3. Published the book on the Model Theory of algebra in 1965, in which he outlined his contributions to the field.
-4. Developed the concept of infinitesimals and was the first mathematician to extend calculus to include a full range of infinities.
-5. Pioneered the development of syntactic proofs, providing an alternative to proof by contradiction.
-6. Devised the technique of abstraction, allowing mathematicians to model any given situation as a formal system, in order to aid with the analysis.
-7. Collaborated with Yehoshua Bar-Hillel to extend the theory of models to include decidability and completeness.
-8. Established the concept of hyper-primitive recursive functions, a tool used for constructing functions in a recursive manner.
-9. Proved the completeness of first-order predicate logic, which was a major advance in the field of logic and mathematics.
+* Abraham Robinson's father was also named Abraham Robinson and his mother was Hedwig Lotte.
+* He was the second child of the family, his older brother Saul Robinson also went on to have an outstanding career; he became an expert on comparative education.
+* Abraham Robinson senior was also a highly talented man.
+* After studying chemistry he became an important writer and philosopher but Abraham junior never knew his father for he died shortly before Abraham junior was born.
+* It was a Jewish family and although Abraham Robinson senior was a Zionist he had never been to Palestine but he had accepted the position of head of the Hebrew National Library in Jerusalem just before he died.
+* Hedwig Robinson was a teacher and she brought up her two sons in Germany until 1933 when Abraham was fourteen years old.
+* Hedwig, Abraham and Saul Robinson avoided the problems that Jews would have in Germany from 1933 by starting a new life in Palestine.
+* There Robinson completed his schooling and, in 1935, began studying mathematics under Fraenkel and Levitzki at the Hebrew University of Jerusalem.
+* Robinson was a brilliant student and, after graduating in 1939, he was awarded a scholarship to allow him to study at the Sorbonne in Paris.
+* As an undergraduate at the Hebrew University Robinson has been interested in both algebra and mathematical logic.
+* By now Robinson was a world leading authority in aerodynamics yet he continued with his interest in mathematical logic.
+* A collection of papers Model theory and algebra was published in 1975 as a memorial tribute to Robinson.
+* For Robinson was more than an excellent mathematician.
+* Robinson was a leading expert in remarkably different areas of mathematics.
+* Only one of his books deals with applied mathematics but it may surprise mathematicians who think of Robinson only as a mathematical logician to realise that almost half his papers are on applied mathematics, particularly on aerodynamics.
+* Robinson is best known, however, for his work on mathematical logic.
+* Robinson's contributions to model theory were developed during his time at the University of Toronto.
+* Robinson's most famous invention was non-standard analysis which he introduced in 1961.
+* In 1966 Robinson published his famous text Non-standard analysis.
+* We end this biography by giving some comments on Robinson's personality.
 
 Born 6 October 1918, Waldenburg, Germany (now Wałbrzych, Poland). Died 11 April 1974, New Haven, Connecticut, USA.
 

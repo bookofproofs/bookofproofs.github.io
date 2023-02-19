@@ -7,10 +7,10 @@ orderid: 1920
 title: Certaine, Jeremiah
 born: 1920
 died: 1993
-keywords: African American, Harvard, Howard University, Applied Mathematician, Algebra, Trigonometry, Calculus
-description: Jeremiah Certaine was an African American mathematician awarded a Ph.D. by Harvard Univ. for a thesis on algebra. He advanced trigonometry and the theory of equations and invented "Certaine's Symbols" and the sums of squares theorem.
+keywords: jeremiah certaine,certaine
+description: Jeremiah Certaine was an African American mathematician who was awarded a Ph.D. by Harvard University for a thesis on algebra in 1945. He taught at Howard University for a few years but for most of his career he was an applied mathematician for Nuclear Development Associates and the United Nuclear Corporation.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jeremiah Certaine **was an African American mathematician who was awarded a Ph.D. by Harvard University for a thesis on algebra in 1945. He taught at Howard University for a few years but for most of his career he was an applied mathematician for Nuclear Development Associates and the United Nuclear Corporation.
 
 ### Mathematical Profile (Excerpt):
-1. He developed the concept of trigonometric coordinates and advanced the theory of equations.
-2. He constructed the tables of logarithms which captured the attention of the early 17th century mathematicians.
-3. He published his first book of mathematical solutions, "Approach Teachings to Mathematics", which included solutions to trigonometric problems.
-4. He originated the idea that any shape can be described and analysed mathematically, a breakthrough idea.
-5. He was the first to suggest the decimal system of arithmetic as a way of solving mathematical equations.
-6. He invented a new set of algebraic symbols, now known as 'Certaine's Symbols' to simplify algebraic equations. 
-7. He developed the "sums of squares" theorem which became a foundation for the development of calculus. 
-8. He was the first to use Bernoulli's Numbers to solve problems in calculus. 
-9. He invented the new mathematical tool of integration which allowed for the solution of equations with exponential functions. 
-10. He proposed a new mathematical definition of the trigonometric functions which increased their accuracy.
+* Lawrence Certaine, born in Hansometown, Duval, Florida, USA, worked as a carrier for the US Government, then later as a postman for the US Mail.
+* He married Sadie Hall, born in Maryland, USA, and they had nine children, five boys and four girls, with Jeremiah, the subject of this biography, being their sixth child.
+* Jeremiah was brought up and attended school in Philadelphia.
+* Certaine was awarded a B.A. by Temple University in 1940 and was accepted to continue studying mathematics at Temple University for a Master's Degree which he was awarded in 1941.
+* Name: Jeremiah Certaine; Race: Black; Age: 21; Birth Date: 6 June 1920; Birth Place: Philadelphia, Pennsylvania, USA; Residence Place: Philadelphia, Philadelphia, Pennsylvania, USA; Registration Date: 1 July 1941; Registration Place: Philadelphia, Philadelphia, Pennsylvania, USA; Height: 5 ft 11 ins; Weight: 150 lbs; Complexion: Light Brown; Hair Colour: Black; Eye Colour: Brown; Next of Kin: Sadie Certaine.
+* After the award of his Master's Degree, Certaine went to Harvard University where he began research advised by Garrett Birkhoff.
+* In 1945 Certaine was awarded a Ph.D. from Harvard University for his 69-page thesis Lattice-Ordered Groupoids and Some Related Problems.
+* In 1945, Certaine was appointed to the Radiation Laboratory at the Massachusetts Institute of Technology on a one year position.
+* The new assistant professor was Jeremiah Certaine, who had just received his Ph.D. from Harvard, and who remained at Howard until 1951.
+* While at Howard University, Certaine became a member of the Mathematical Association of America in 1949.
+* It was Jeremiah Certaine, the Black Harvard PhD, who helped me see the beauty of algebraic structure.
+* Certaine left Howard University in 1951 when he was appointed as Senior Mathematician for the Nuclear Development Associates at White Plains, New York.
+* Certaine continued to produce many reports, some single authored, others co-authored with other workers at Nuclear Development Associates.
+* From 1964 Certaine worked as Science Advisor for the Office of the Manager, Research and Development Division, United Nuclear Corporation.
 
 Born 6 June 1920, Philadelphia, Pennsylvania, USA. Died 30 July 1993, Mount Vernon, Westchester, New York, USA.
 

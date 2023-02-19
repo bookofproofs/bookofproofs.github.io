@@ -7,10 +7,10 @@ orderid: 1797
 title: Duhamel, Jean Marie Constant
 born: 1797
 died: 1872
-keywords: differential equations, potential theory, harmonic analysis, Fourier series, Duhamel's Principle, calculus of variations, operator splitting
-description: 18th century scientist Jean-Marie Duhamel developed modern theory of differential equations, advanced potential theory & harmonic analysis, discovered Fourier series & Duhamel's Principle. Also identified operator splitting & calculus of variations.
+keywords: jean-marie duhamel,duhamel
+description: Jean-Marie Duhamel worked on partial differential equations and applied his methods to the theory of heat, to rational mechanics and to acoustics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jean-Marie Duhamel** worked on partial differential equations and applied his methods to the theory of heat, to rational mechanics and to acoustics.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the modern theory of differential equations in the 18th century. 
-2. Developed the principles of potential theory and harmonic analysis 
-3. Solved the heat equation by introducing the concept of Fourier series 
-4. Discovered the Duhamel's Principle of superposition in integral equations 
-5. Developed calculus of variations and the theory of integral equations 
-6. Developed the Duhamel-Jacobi identity, an important tool in functionaldifferential equations 
-7. Was among the first to describe the operator splitting method, now an essential technique in numerical analysis 
-8. Was named an Invited Professor of the Durmont Institute as well as a Member of the Royal Academy of Sciences 
-9. Published collected works covering hydrodynamics, integral equations, analytical mechanics, and calculus of variations.
+* Monge remained as director of the École Polytechnique and it was as this time that Duhamel began his university studies there.
+* Duhamel returned to Rennes, but did not go back to Paris after the École Polytechnique was reorganised and reopened in 1817, preferring to remain in Rennes where he studied law.
+* Duhamel did return to Paris after taking his law degree and taught mathematics and physics both at the Institution Massin and at the Lycée Louis-le-Grand.
+* Despite having a heavy work laod, Duhamel found time to continue his mathematical studies and in 1823 he presented his first paper Problèmes et développements sur diverses parties des mathématiques Ⓣ(Problems and developments in various parts of mathematics)  written jointly with Antoine-André-Louis Reynaud.
+* Duhamel was elected to the Academy of Sciences in 1840.
+* Appointed as entrance examiner at the École Polytechnique in 1835, Duhamel was named professor of analysis and mechanics in 1836.
+* Also from 1851 Duhamel was professor at the Faculté des Sciences in Paris.
+* Duhamel worked on partial differential equations and applied his methods to the theory of heat, to rational mechanics, and to acoustics.
+* 'Duhamel's principle' in partial differential equations arose from his contributions to the distribution of heat in a solid with a variable boundary temperature.
+* However, Duhamel did some experimental work of his own, particularly in the area of vibrating strings.
+* Duhamel published Cours d'analyse de l'École Polytechnique Ⓣ(Analysis Course of the polytechnic) in two volumes, the first in 1840 and the second in the following year.
 
 Born 5 February 1797, St Malo, France. Died 29 April 1872, Paris, France.
 

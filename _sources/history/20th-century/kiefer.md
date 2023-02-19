@@ -7,10 +7,10 @@ orderid: 1924
 title: Kiefer (2), Jack Carl
 born: 1924
 died: 1981
-keywords: mathematical statistician, optimal design, Transformation Rules, Fractions, infinite series, NSF Fellowship, Distinguished Alumni Award
-description: Jack Kiefer was a renowned mathematical statistician renowned for his accomplishments in optimal design, Transformation Rules and Fractions and awarded with an NSF Fellowship and Distinguished Alumni Award.
+keywords: jack kiefer,kiefer
+description: Jack Kiefer was an American mathematical statistician who worked in the optimal design of experiments and other topics in mathematical statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jack Kiefer** was an American mathematical statistician who worked in the optimal design of experiments and other topics in mathematical statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the published paper “Transformation Rules and Advanced Calculus"
-2. Presented a paper titled “Breaking Apart Fractions" at the American Mathematical Society’s Annual Conference
-3. Recognized for his research accomplishments on the logic of infinite series
-4. Received the National Science Foundation Fellowship for Outstanding Students in Mathematics
-5. Received a Certificate of Recognition from the California Mathematics Council for his outstanding work in mathematics education
-6. Invited to speak at the National Mathematics Education Symposium
-7. Awarded with Distinguished Alumni Award from his alma mater.
+* After a break of three years he returned to MIT in the spring of 1946 but it was not clear at this stage in which area Kiefer wanted to make a career.
+* The theatre was one of Kiefer's passions and he had the opportunity at MIT to become involved in writing, directing and producing plays.
+* By the way, Jack was really torn between show biz and statistics.
+* After graduating Kiefer attended a summer school at Berkeley where courses of lectures were given by Michel Loève and Abraham Wald.
+* Kiefer moved to Cornell as an instructor in the Department of Mathematics and continued working for his doctorate with Wolfowitz.
+* After Kiefer was awarded his doctorate in 1952 he was promoted at Cornell from an instructor to as assistant professor.
+* Jack aspired at one time to become a proficient pianist.
+* Dooley and Jack were devoted parents of two children, Sarah Elizabeth and Daniel Jonathan Baird, with whom they shared their love of music, stamp collecting, and mushroom hunting.
+* In July 1973 Kiefer was elected the first Horace White Professor at Cornell University, a position he held until 1979 when he retired and joined the faculty at the University of California at Berkeley.
+* Kiefer's main research area was the optimal design of experiments, and about half his 100 publications dealt with that topic.
+* A paper Sequential minimax search for a maximum which Kiefer published in the Proceedings of the American Mathematical Society in 1953 was based on his master's thesis.
+* Let us note a few other examples of Kiefer's work.
+* In this paper Kiefer generalised the notions of a balanced incomplete block design and a Youden square, to the balanced block design and generalized Youden square.
+* Another important paper Optimum designs in regression problems, which Kiefer wrote in collaboration with Wolfowitz, appeared in 1959.
+* In 1980 Kiefer went to China as part of Berkeley's China Exchange Program.
+* Kiefer received many honours.
+* Jack was unbelievably humble, especially for a man of his stature.
+* Jack was very critical.
+* Kiefer's suffered for many years from an arthritic hip condition which by 1971 saw him severely disabled.
+* Jack's friends at Cornell felt similarly.
+* In 1987, six years after his death, Kiefer's Introduction to statistical inference was published.
 
 Born 25, Jan 1924, Cincinnati, Ohio, USA. Died 10, Aug 1981, Berkeley, California, USA.
 

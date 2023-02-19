@@ -7,10 +7,10 @@ orderid: 1821
 title: Von Seidel, Philipp Ludwig
 born: 1821
 died: 1896
-keywords: dioptics, fluid dynamics, algebraic methods, differential equations, power series, rigid body, Prime Number Theorem
-description: Philipp von Seidel contributed to dioptics, fluid dynamics, algebraic methods, differential equations, power series, rigid body motion and the Prime Number Theorem.
+keywords: philipp von seidel,von
+description: Philipp von Seidel was a German mathematician who worked on dioptics and mathematical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Philipp  von Seidel** was a German mathematician who worked on dioptics and mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed exact solutions to fluid dynamics problems, including the heat equation in an infinite system and the Navier-Stokes equation.
-2. Instituted a system of secondary school mathematics instruction and examination based on his Reelle und ganze Arithmetik.
-3. Used algebraic methods to generalize and extend numerical calculations of convergence series.
-4. Provided handbooks for teachers of elementary mathematics and advanced calculus courses.
-5. Developed fundamental concepts for the modern theory of differential equations.
-6. Laid the foundations of the theory of power series, providing the first comprehensive theory of formal functions.
-7. Pioneered the use of elliptic functions to study dynamical systems, leading him to formulate the equations of motion of a free rigid body, and provided the first modern treatment of Joukowski transformation theory.
-8. Gave the first proof of the Prime Number Theorem.
-9. Developed arithmetic-geometric mean iteration and applied it to the solution of second order differentials.
-10. Systematically developed the concept of the limit of a sequence and founded the modern theory of limits.
+* His father, Justus Christian Felix Seidel, worked for the German post office and his job entailed him moving frequently.
+* This meant that Philipp attended several different schools during his upbringing.
+* Although Seidel completed his school studies in the autumn of 1839 he did not enter university immediately but received private coaching in mathematics before beginning his university career.
+* This was valuable coaching for Seidel, particularly since Schnürlein was a good mathematician who had studied under Gauss.
+* Seidel entered the University of Berlin in 1840 and studied under Dirichlet and Encke.
+* The custom among German students at this time was to spend time at different universities and, following the usual custom, Seidel moved to Königsberg in 1842 where he studied under Bessel, Jacobi and Franz Neumann.
+* Bessel certainly seems to have expected Jacobi to be away from Königsberg for a long while since he advised Seidel to go to Munich to study for his doctorate.
+* Like these two theses, Seidel worked on dioptics and mathematical analysis throughout his career.
+* His work on lenses, and identified mathematically five coefficients describing the aberration of a lens, now called 'Seidel sums'.
+* These Seidel sums correspond to spherical aberration, coma, astigmatism, Petzval curvature and distortion.
+* Seidel progressed rapidly at Munich.
+* An interesting aspect of Seidel's astronomical work involved, as we mentioned above, the use of probability theory.
+* Problems with his eyesight forced Seidel into early retirement.
+* Since he had never married he had no immediate family to help him when he became ill, but he had an unmarried sister Lucie Seidel who looked after him until 1889.
 
 Born 24 October 1821, Zweibrücken, Germany. Died 13 August 1896, Munich, Germany.
 

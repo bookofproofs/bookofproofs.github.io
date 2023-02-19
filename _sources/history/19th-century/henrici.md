@@ -7,10 +7,10 @@ orderid: 1840
 title: Henrici, Olaus Magnus Friedrich Erdmann
 born: 1840
 died: 1918
-keywords: Olaus Henrici, Mathematics, Triangle Area, Trigonometric Series, Integration, Probability, Astronomy
-description: Olaus Henrici was a German mathematician who formulated theories about trigonometric series and probability, improved methods for integration and approximation, and applied mathematics to solve astronomical problems.
+keywords: olaus henrici,henrici
+description: Olaus Henrici was a German mathematician who became a professor in London.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Olaus  Henrici** was a German mathematician who became a professor in London.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new procedure for determining the area of a triangle and a circle.
-2. Formulated a general theory of trigonometric series during his dissertation in 1798.
-3. Worked out the formulas for finding the coefficients of trigonometric series through integration.
- 4. Proved fundamental theorems in probability and precisely evaluated the Gaussian normal distribution.
-5. Developed methods to approximate integrals and calculate the coefficients of Taylor series expansion.
-6. Established theorems regarding generalized binomial and hypergeometric series.
-7. Applied his mathematical techniques to solve multiple problems related to astronomical observations.
+* Olaus entered the gymnasium at Meldorf in 1852 and studied there until 1856.
+* While training for this occupation, Henrici's talents were recognised by Clebsch and he entered the Polytechnicum at Karlsruhe in 1859 to study mathematics.
+* Clebsch persuaded Hesse to take Henrici on as a Ph.D. student at Heidelberg in 1862.
+* Henrici then went to Berlin and studied under Weierstrass and Kronecker.
+* Employing Henrici as an assistant seemed like a good way of reducing his workload so that is precisely what Hirst did.
+* In 1869 Henrici was appointed professor of mathematics at Bedford College for Women.
+* Whether the loss of his assistant was a contributory fact to Hirst taking ill around Easter of 1870 is unclear, but being unable to perform his teaching duties he asked Henrici to take over.
+* Henrici, who at this stage was doing the teaching anyway, was appointed professor of mathematics at University College.
+* Their son, Ernst Olaf Henrici, became a major in the Royal Engineers but was a fine mathematician who collaborated with his father on a paper in 1912.
+* In 1879 Clifford, who had been professor of applied mathematics and mechanics at University College, died, and Henrici was asked to take over his teaching duties.
+* Clearly the duties of the two chairs were too much for one person so in 1880 Henrici was formally installed as professor of applied mathematics and mechanics and resigned his chair of mathematics.
+* Henrici wrote some excellent little books to introduce undergraduates to mathematical ideas such as projective geometry in Congruent Figures (1878), and vector methods in Vectors and Rotors (1903).
+* Henrici was elected a fellow of the Royal Society in 1874 and was a member of its Council during 1882-83.
 
 Born 9 March 1840, Meldorf, Holstein (now Germany). Died 10 August 1918, Chandler's Ford, Hampshire, England.
 

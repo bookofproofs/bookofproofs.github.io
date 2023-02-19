@@ -7,10 +7,10 @@ orderid: 1888
 title: Fraser (2), David Kennedy
 born: 1888
 died: 1962
-keywords: David Kennedy Fraser, Glasgow, Leipzig, Cornell, Edinburgh, Jordanhill College, Mathematics
-description: David Kennedy Fraser studied at universities in Scotland, Germany, and the US and contributed to mathematics through numerous publications and lectures, pioneering a novel approach to the study of surface algebra and integral equations.
+keywords: david kennedy fraser,fraser
+description: David Kennedy Fraser studied at Glasgow, Leipzig and Cornell Universities. He returned to Edinburgh as a Lecturer in Education before moving to Jordanhill Training College.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**David Kennedy Fraser** studied at Glasgow, Leipzig and Cornell Universities. He returned to Edinburgh as a Lecturer in Education before moving to Jordanhill Training College. 
+**David Kennedy Fraser** studied at Glasgow, Leipzig and Cornell Universities. He returned to Edinburgh as a Lecturer in Education before moving to Jordanhill Training College.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of surface algebra, providing a convenient tool for examining algebraic equations of curved surfaces.
-2. Established a methodology for investigating functions of several variables and the calculation of their tangent planes.
-3. Discovered the fundamental theorem of surface analysis, which is vital to geometric modeling.
-4. Pioneered a novel approach to the study of integral equations involving arcs and pieces.
-5. Described a unified approach to the matrix representation of quadrics in 3-space.
-6. Contributed to the important theory of Quadratic forms.
-7. Proposed the law of iterated covariances for the least squares approximation to a function.
-8. Authored numerous publications and lectured extensively in mathematics.
+* His mother was  Marjory Kennedy (1857-1930).
+* David's father died when he was two years old.
+* His mother, Marjory, then lived in Mayfield Road, Edinburgh, with her own mother Elizabeth Kennedy and her two sisters Margaret and Jessie.
+* David had a younger sister, Helen (born 1890).
+* David Kennedy Fraser attended George Watson's Boys' College in his home town of Edinburgh from 1893 to 1904.
+* Fraser passed Latin at Higer level in the Scottish Leaving Certificate examinations in 1903, then, also at the Higher grade, Mathematics (Honours), Dynamics, and English in the following year.
+* Kennedy-Fraser was awarded a B.Sc. (Pure) in 1908 and an M.A. with Second Class Honours in Mathematics and Natural Philosophy in 1909.
+* Mr Fraser studied at the Teachers' Training College at Edinburgh and also at the University of Leipzig.
+* Dr Fraser is a man of broad education, thoroughly conversant with his field, and familiar with the methods which have made the work of the educational laboratory famous.
+* Back in Scotland, Kennedy-Fraser was appointed as a Lecturer in Education at Edinburgh University in 1919 and also at Moray House.
+* David Kennedy Fraser joined the Edinburgh Mathematical Society in June 1908 while he was still a student at the University of Edinburgh.
 
 Born 10 February 1888, Edinburgh, Scotland. Died 26 August 1962, Milngavie, Dunbartonshire, Scotland.
 

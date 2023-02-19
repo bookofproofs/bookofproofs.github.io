@@ -7,10 +7,10 @@ orderid: 1865
 title: Philip (2), Flora
 born: 1865
 died: 1943
-keywords: Flora Philip, Edinburgh University, Algebraic Topology, Group Theory, Fourier Series, Integrals, Linear Equations
-description: Flora Philipwas a Scottish mathematician who made groundbreaking contributions to Algebraic Topology, Group Theory and more. She pioneered a field, solved major problems and developed new methods.
+keywords: flora philip,philip
+description: Flora Philip was a Scottish mathematician who studied at Edinburgh University and was among the first women to receive a degree there when they changed the rules. She was the first woman member of the Edinburgh Mathematical Society.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Flora Philip** was a Scottish mathematician who studied at Edinburgh University and was among the first women to receive a degree there when they changed the rules. She was the first woman member of the Edinburgh Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-1. Established the framework for the pioneering field of algebraic topology.
-2. Solved a major open problem in the field of group theory.
-3. Demonstrated a new method of calculating the coefficients in the 1-periodic Fourier series.
-4. Developed a novel short-cut method for calculating a certain type of integrals.
-5. Published critical essays for evaluating a wide range of discrete optimization problems.
-6. Developed a novel algorithm for the efficient solution of linear equations.
-7. Formulated a new type of partial differential equations that revealed an exact connection between 2-dimensional geometry and dynamical systems.
-8. Published several highly regarded research papers on non-linear equations and dynamical systems theory.
+* He is described on Flora's birth certificate as "an Inspector of Decks and Piers".
+* Flora's mother was Isabella McDougall; William and Flora had been married in Leith in August 1864.
+* Flora's birth certificate also informs us that she was born at five minutes past four in the morning and that her birth was registered on 31 May at Tobermory by Jessie McDougall, Flora's aunt, who was present at her birth.
+* Flora was educated in Tain Academy.
+* This Association was providing university level education for over 300 women at the time when Philip began her studies.
+* At a meeting of the Association on Wednesday 22 April 1885 at 15 Shandwick Place, Edinburgh, the Principal of Edinburgh University, Sir William Muir, presented the Edinburgh University Certificate in Arts to Flora Philip.
+* Flora Philip's main interests were mathematics and Greek and she was the first woman member of the Edinburgh Mathematical Society, joining the Society in December 1886 three years after the Society was founded.
+* Philip received further awards from the Edinburgh Association for the University Education of Women on 18 April 1888 when they presented her with a Diploma for passing seven subjects.
+* Philip was then appointed assistant mistress in St George's High School for Girls in Edinburgh, the founding of which was one of the Association's many enterprises and which was opened in 1888 at No. 3 Melville Street.
+* Flora Philip was one of these eight.
+* In 1893, the year of her graduation, Flora Philip married George Stewart, S.S.C. and thereafter her life was that of the mother of a family and the wife of an Edinburgh Solicitor.
 
 Born 19 May 1865, Tobermory, Isle of Mull, Argyle, Scotland. Died 14 August 1943, Edinburgh, Scotland.
 

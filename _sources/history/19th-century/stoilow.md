@@ -7,10 +7,10 @@ orderid: 1887
 title: Stoilow, Simion
 born: 1887
 died: 1961
-keywords: Stoilow, Mathematics, Romanian, Complex Analysis, Alexander Polynomial, Algebraic Topology, Betti Numbers
-description: Simion Stoilow was a Romanian mathematician, founding the Stoilow Institute of Mathematics and pioneering to study of Alexander Polynomial, Algebraic Topology and Betti Numbers.
+keywords: simion stoilow,stoilow
+description: Simion Stoilow was a Romanian mathematician, creator of the Romanian school of complex analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Simion Stoilow** was a Romanian mathematician, creator of the Romanian school of complex analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Stoilow Institute of Mathematics in Bucharest, which focuses on research in algebraic topology, algebraic geometry, and analysis. 
-2. Established an international mathematical research center in Romania, which brought Russian and French mathematicians to the country to collaborate. 
-3. Received the Grand Cross of the Romanian Academy of Sciences for his contribution to mathematics research and teaching in Romania.
-4. Proved the existence of the Alexander polynomial, a tool that topologists use to study the properties of knots. 
-5. Published approximately 150 mathematician papers in many areas, including algebraic topology, functional analysis and partial differential equations. 
-6. Developed the Stoilow-Hopf Theory of Integrable Hamiltonian Systems.
-7. Conducted analyses of partial differential equations related to integral invariants, algebras and groups.
-8. Pioneered the study of betti numbers and elementary groups.
-9. Contributed to the development of several mathematical theories, including the theory of non-linear differential equations, the theory of analytic functions and the theory of complex movements. 
-10. Established the Stoilow Seminar for theoretical physics, which aimed to foster collaboration between mathematicians and physicists.
+* Stoilow attended both primary and secondary school in Craiova, and showed great potential in mathematics.
+* In Paris Stoilow was able to benefit from being in a major centre for mathematical research.
+* Stoilow's thesis advisor was Émile Picard, and in 1914 he submitted his doctoral thesis Sur une classe de fonctions de deux variables definies par les equations lineaires aux derivees partielles Ⓣ(On a class of functions of two variables defined by linear equations with partial derivatives).
+* In 1919 Stoilow was appointed as a lecturer in the Department of Mathematical Analysis at the University of Iasi.
+* Stoilow was Dean of Cernauti University for two periods during the sixteen years he spent there, namely in 1925-26 and again in 1932-39.
+* Stoilow returned to Bucharest in 1939 when he was appointed Head of the Department of the Theory of Functions at the Polytechnic Institute, succeeding Dimitrie Pompeiu.
+* Finding out my political situation, Stoilow fought with might and main in order to help me.
+* Before he took up his first university appointment in 1919, Stoilow concentrated on the theory of partial differential equations in the complex domain.
+* Three theorems of Stoilow, published in 1928, 1932 and 1935, constitute his main contribution to the topological theory of analytic functions, a field of which he must be considered one of the founders.
+* In 1936 Stoilow addressed the International Congress of Mathematicians in Oslo.
+* Stoilow gave a series of six lectures on Riemann surfaces at the Istituto di Alta Matematica in Rome in April, 1957.
+* These lecturers were published as Sur quelques points de la théorie moderne des surfaces de Riemann Ⓣ(On some points of the modern theory of Riemann surfaces) (1957) and provide an excellent account of Stoilow's contributions and how they fit around other progress in the same areas over the years.
+* In the two volumes of Theory of functions of a complex variable (Romanian) (1954, 1958), we see lecture courses which Stoilow gave at the University of Bucharest.
+* In 1936 Stoilow was elected a corresponding member of the Romanian Academy of Sciences and he became a full member in 1945.
 
 Born 14 September 1887, Bucharest, Romania. Died 4 April 1961, Bucharest, Romania.
 

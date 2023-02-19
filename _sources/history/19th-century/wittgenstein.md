@@ -7,10 +7,10 @@ orderid: 1889
 title: Wittgenstein, Ludwig Josef Johann
 born: 1889
 died: 1951
-keywords: Wittgenstein, Philosophy, Mathematics, Tractatus, Logico-Philosophicus, Language Games, Logical Typing
-description: Ludwig Wittgenstein revolutionized philosophy and mathematics with his work, specifically around the Tractatus Logico-Philosophicus, Language Games and Logical Typing.
+keywords: ludwig wittgenstein,wittgenstein
+description: Ludwig Wittgenstein was a philosopher who worked on the foundations of mathematics and on mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,45 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ludwig Wittgenstein** was a philosopher who worked on the foundations of mathematics and on mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. Revolutionized the Gottingen School of Mathematics with his publication of the Tractatus Logico-Philosophicus in 1921.
-2. Built on the theories of Gottlob Frege and Bertrand Russell to develop a new logical system of philosophy. 
-3. Developed a theory of language around the notion of logical meaning, known as the picture theory of meaning.
-4. Created the theory of languag games, which describes how language is used in different ways in different contexts.
-5. Deepened understanding of the mathematical foundations of philosophy, concentrating on issues such as logical necessity and the limits of philosophical analysis.
-6. Developed the concept of ‘family resemblances’ to explore the complexity of language use. 
-7. Used mathematical analysis to explore the distinction between what is said and what is shown in language.
-8. Developed the concept of logical typing, showing how the use of specific types of expressions can lead to false conclusions. 
-9. Formulated the concept of ‘language games’ in response to questions about the truth in logic. 
-10. Developed a system of connective logic andmathematical logic to study the properties of language.
+* Ludwig was baptised into the Catholic Church.
+* His parents were both very musical and Ludwig was brought up in a home which was always filled with music, Brahms being a frequent guest.
+* Ludwig's parents had eight children who were all highly gifted both artistically and intellectually.
+* There were three girls, Gretl, Hermine, and Helene, and five boys Hans, Kurt, Rudolf, Paul, and Ludwig.
+* Perhaps at this stage we should make some comments on Ludwig's brothers and sisters, for it will help to understand something of Ludwig's lifestyle as he grew up and also what he went through.
+* Ludwig was the youngest of the children and he was educated at home until he was fourteen years of age.
+* In 1903 Wittgenstein began three years of schooling at the Realschule in Linz, Austria, which specialised in mathematics and natural science.
+* Coming from a cultured background into a school filled with working class children gave Wittgenstein a difficult and unhappy time.
+* The school enhanced Wittgenstein's love of technology, however, and made him decide to study engineering at university.
+* Intending to study for his doctorate in engineering, Wittgenstein went to England in 1908 and registered as a research student in an engineering laboratory of the University of Manchester.
+* At this stage Wittgenstein was much more practically minded than one might suppose, given his later highly theoretical work, and he not only studied the theoretical design of the propeller but he actually built and tested it.
+* Russell had published his Principles of Mathematics in 1903 and Wittgenstein turned to this work as he sought a better understanding of foundations of his subject.
+* Wittgenstein travelled to Jena to ask Frege's advice and was told that he should study under Russell.
+* Wittgenstein left his aeronautical research in Manchester in 1911 to study mathematical logic with Russell in Trinity College, Cambridge.
+* Russell was not one to be easily impressed by a student, but he was certainly very impressed by Wittgenstein.
+* By 1912 Russell had become convinced that Wittgenstein possessed a genius which should be directed towards mathematical philosophy.
+* He therefore persuaded Wittgenstein to give up any ideas that he still had to resume his applied mathematical work on aeronautics.
+* The first paper that Wittgenstein presented was to the Cambridge Philosophical Society in 1912.
+* During this period at Cambridge, Wittgenstein continued to work on the foundations of mathematics and also on mathematical logic.
+* During these four years of active service Wittgenstein had written his great work in logic, the Tractatus, and the manuscript was found in his rucksack when he was taken prisoner.
+* Having written what he believed was his final word on philosophy, Wittgenstein's intention was now to give up his study of the subject.
+* But although Wittgenstein was a strong believer in these principles and tried with great enthusiasm to provide the children that he taught in the mountain village of Wiener Neustadt with the best possible education, there were factors working against his success.
+* Perhaps the biggest difficulty that Wittgenstein faced was that giving away the family fortune did nothing to enable someone with his highly privileged background to fit into the culture of the children of farmers whom he taught.
+* During this period Wittgenstein was again desperately unhappy and came close to committing suicide on a number of occasions.
+* Eventually, feeling largely that he had failed as a primary school teacher, Wittgenstein gave up in 1925.
+* Although Wittgenstein had not wished to return to academic life during this period he was not completely isolated from the study of mathematical logic, the foundations of mathematics, and philosophy.
+* In 1929 Wittgenstein returned to Cambridge where he submitted the Tractatus as his doctoral thesis.
+* Words, Wittgenstein argued, were representations of objects and combining words led to propositions which were statements about reality, or as he says, pictures of reality.
+* Conversely, the world as presented by Wittgenstein in the Tractatus, consists of facts.
+* However, it was not until 1953, two years after Wittgenstein's death, that this second great work Philosophical Investigations was published.
+* After the award of his doctorate, Wittgenstein was appointed a lecturer at Cambridge and he was made a fellow of Trinity College.
+* In the following years Wittgenstein lectured there on logic, language, and the philosophy of mathematics.
+* G H von Wright was a pupil of Wittgenstein at Cambridge.
+* Because of the depth and originality of his thinking, it is very difficult to understand Wittgenstein's ideas and even more difficult t incorporate them into one's own thinking.
+* to learn from Wittgenstein without coming to adopt his forms of expression and catchwords and even to imitate his tone of voice, his mien and gestures was almost impossible.
+* There is a suggestion here that Wittgenstein would never have fitted in as the leader of a large group of students and researchers.
+* Although he did have students who went on produce important work, yet remain true to his way of thinking, Wittgenstein always seemed an isolated figure.
+* Wittgenstein did not seem unhappy at the diagnosis since he said that he did not wish to live any longer.
+* Wittgenstein was never happy with his own writings and as a result only the one major work, the Tractatus, was published during his life.
 
 Born 26 April 1889, Vienna, Austria. Died 29 April 1951, Cambridge, England.
 

@@ -7,10 +7,10 @@ orderid: 1777
 title: Brisson, Barnabé
 born: 1777
 died: 1828
-keywords: Barnabé Brisson, Engineering, Canals, Differential Equations, Analytical Geometry, Motion and Force, Optics, Astronomy
-description: Barnabé Brisson, engineer and mathematician, developed key concepts in differential equations and analytical geometry, described laws of motion and forces, and made contributions to Optics, Geography, and Astronomy.
+keywords: barnabé brisson,brisson
+description: Barnabé Brisson was a French engineer who built canals. He also worked on partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Barnabé Brisson** was a French engineer who built canals. He also worked on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the third equation of motion in 1583, providing the first mathematical description of motion and linking mathematics to the physical world.
-2. First to posit the idea of instantaneous velocity in 1607.
-3. Pioneered the use of analytical geometry, transforming the subject from a a rule-of-thumb geometrical technique to a tool of rigorous mathematical analysis. 
-4. Discovered the close relationship between uniform motion (constant speed) and its time derivative (acceleration), describing a law of motion he called "quantity and quality."
-5. Developed key ideas in differential calculus through the two-variable analysis of tangents and the recognition of the inverse squared nature of force.
-6. Explored the reciprocal relationship between angle and slope in 1583.
-7. Made contributions to Optics, Geography, Astronomy and Latin Lexicography.
+* Barnabé studied at the Collège Oratorien de Juilly.
+* In 1795, while Brisson was a student there, the École Centrale des Travaux Publics was renamed the École Polytechnique.
+* During these years he met Jean-Baptiste Biot and, as a consequence of their friendship, Biot got to know Brisson's sister Gabrielle who was sixteen at the time.
+* Brisson was highly thought of by Gaspard Monge, who was one of his teachers at the École Polytechnique.
+* Brisson married Monge's niece, Anne-Constance Huart de l'Enclos (born 18 November 1789), in 1808.
+* After sixteen months working in Doubs, Brisson was conscripted into the army on 12 September 1799.
+* Brisson's method thus overcame the limitations of contemporary cartography while avoiding the drawbacks of the traditional methods that employed the judgment of the human eye on the ground or the costly and time-consuming detailed instrument survey of alternative possibilities.
+* By locating the appropriate summit point for any canal without leaving his study, Brisson could propose as "possible" over one hundred new canals, find the technically optimal (i.e. shortest and cheapest) routes for them to follow, and even determine for long and complicated lines compounded of several waterways the correct combination of summit points.
+* Between 1802 and 1809 Brisson collaborated in the construction of the St Quentin Canal, beginning the project on 3 July.
+* While working on this project Brisson was promoted, first to Ordinary Engineer First Class on 28 March 1805 and again to Chief Engineer Second Class on 1 May 1808, a very great honour for someone only thirty years old.
+* Between 1809 and 1814 Brisson was employed extending dikes and canals in the l'Escaut region, beginning this project on 1 March.
+* The events of 1814, when Belgium was made independent of France, brought Brisson back home and, on 1 August of that year, he was given the duties of chief engineer of the Department of Marne by Baron Pasquier.
+* Brisson carried out routine duties, based at Chalons-sur-Marne, but his fortunes improved markedly in October 1819 when François Becquey, the General Director of the Bureau of Ponts et Chaussées, toured the provinces and the two met.
+* Becquey was about to initiate a programme of canal building and he discovered that Brisson was the man with precisely the expertise he needed.
+* Becquey read Brisson's memoir and sent him an encouraging reply on 8 December.
+* In it he asked Brisson to come to Paris as quickly as possible to work with M.
+* The innovative geometric methods which Brisson had introduced in his 1801 memoir written with Dupuis de Torcy formed the basis of Brisson's approach and Becquey asked for a copy of the 1801 paper.
+* Becquey chose him to be his "intimate counsellor" because the obscure young Brisson possessed exactly what Becquey needed to put together his canal programme.
+* The report retained Brisson's first class and second class canals but added a third class consisting of all other options that had been suggested.
+* Brisson's career, however, began a rapid rise to fame.
+* In the 1820s, Brisson was at the centre of everything concerned with canals: professor and administrative head of a newly revitalised École des Ponts et Chaussées, secretary of the General Council, charter member of Becquey's new Canal Commission, and consultant to private companies.
+* It is remarkable that following its first publication in 1820, nineteen editions of Brisson's edition were published up to 1922.
+* Brisson also wrote Notice historique sur Gaspard Monge Ⓣ(Historical notice of Gaspard Monge) (1818) following Monge's death in 1818.
+* Brisson drew up two important reports on this subject.
+* Cauchy followed the way opened by Brisson, who thus became one of those who developed the methods of functional calculus.
 
 Born 11 October 1777, Lyon, France. Died 25 September 1828, Nevers, France.
 

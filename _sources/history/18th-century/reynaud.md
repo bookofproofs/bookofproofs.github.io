@@ -7,10 +7,10 @@ orderid: 1771
 title: Reynaud, Antoine-André-Louis
 born: 1771
 died: 1844
-keywords: Antoine-André-Louis Reynaud, Pascaline, tables, Cauchy, Clement equation, Reynaud Alphabet, mathematics
-description: Antoine-André-Louis Reynaud was a French mathematician who published texts describing the Pascaline, tables, Cauchy numerical method, Clement equation and the Reynaud Alphabet.
+keywords: antoine-andré-louis reynaud,reynaud
+description: Antoine-André-Louis Reynaud was a French mathematician who published a number of extremely influential textbooks.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Antoine-André-Louis Reynaud** was a French mathematician who published a number of extremely influential textbooks.
 
 ### Mathematical Profile (Excerpt):
-1. In 1819, published a paper describing the construction of an early version of a mechanical calculator, the Pascaline, capable of performing all four basic mathematical operations. 
-2. In the same year, developed a system for presenting mathematical results, known as the method of tables, which was recognized and praised by the scientific community. 
-3. Working with Augustin-Louis Cauchy, developed and published a method of calculating numerical values of expressions in calculus, a precursor to modern numerical integration and differentiation. 
-4. In 1830, developed a set of equations that were able to fully describe the behavior of a vibrating elastic string, now known as the clement equation, a vital component of modern acoustics. 
-5. Established the basis of a consistent system of notations for mathematical symbolism, known as the Reynaud ‘alphabet,’ which would later be adopted by mathematicians the world over.
+* Reynaud was attracted to literature when he was young and he wrote a number of plays.
+* Reynaud lived through a time of great political upheaval in France since he was 17 years of age when the storming of the Bastille took place in 1789.
+* The direction of Reynaud's career was changed, however, through pressure by his family who persuaded him to give up his military aspirations in favour of a career as an accountant.
+* In 1796 Reynaud gave up his accountant job and entered the École Polytechnique in Paris.
+* In 1800 a school was founded to prepare pupils for entry to the École Polytechnique and Reynaud began teaching mathematics at the school, although he received no salary for this post.
+* Reynaud was to hold a variety of different posts.
+* Although strongly republican in views in his youth, Reynaud became more liberal in his views and from 1814 he supported Louis XVIII.
+* Reynaud published a number of extremely influential textbooks.
+* His best known texts, however, were his editions of Bézout's Traité d'arithmétique Ⓣ(Treatise on arithmetic) which appeared in at least 26 versions containing much original work by Reynaud.
+* It appears that Reynaud became interested in algorithms when he was working with de Prony.
+* At this time de Prony was very much involved in trying to get his logarithmic and trigonometric tables published and it seems to have made Reynaud think about analysing algorithms.
+* Certainly Reynaud, although his results in this area were rather trivial, must get the credit for being one of the first people to give an explicit analysis of an algorithm, an area of mathematics which is of major importance today.
 
 Born 12 September 1771, Paris, France. Died 24 February 1844, Paris, France.
 

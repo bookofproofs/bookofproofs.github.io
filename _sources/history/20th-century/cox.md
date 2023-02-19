@@ -7,10 +7,10 @@ orderid: 1900
 title: Cox (2), Gertrude Mary
 born: 1900
 died: 1978
-keywords: Gertrude Cox, statistician, experimental design, North Carolina State, Praxis Series, psychometrics, Psychometric Society
-description: Gertrude Cox, an American statistician, established the first statistics department in the US and pioneered experimental design. She also developed Praxis Series, psychometric tests, co-authored books, and founded the Psychometric Society.
+keywords: gertrude cox,cox
+description: Gertrude Mary Cox was an American statistician who worked in experimental design.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gertrude Mary Cox** was an American statistician who worked in experimental design.
 
 ### Mathematical Profile (Excerpt):
-1. Established the first university-level statistics department in the United States at North Carolina State University. 
-2. Pioneered the field of experimental design in the 1940s. 
-3. Developed the "Praxis Series" statistical experiments, which allowed for statistical studies in the physical and social sciences. 
-4. Established the modern field of psychometrics by pioneering the definition, application, and use of educational and psychological tests. 
-5. Authored or co-authored 19 books and hundreds of articles and research papers on educational and psychological testing and statistical methods. 
-6. Edited the Newsletter of the American Statistical Association. 
-7. Was a founding member of the Psychometric Society and was its first female president. 
-8. Developed the Randomized Block Design Experiment, which is still used today. 
-9. Founded the journal Psychometrika, which is still published today. 
-10. Developed a course titled "Elementary Statistical Methods," which was widely credited as a forerunner of modern statistics courses.
+* The Cox family moved to Perry, Iowa, where Gertrude studied at Perry High School, graduating in 1918.
+* As an undergraduate at Iowa State College, Cox worked part-time for the Mathematics Statistical Service.
+* From 1931 to 1933 Cox undertook graduate studies in psychological statistics at the University of California at Berkeley, where she was also a graduate assistant.
+* He wrote at home, and Brandt and Cox were given charge of the administrative and consulting tasks in statistics.
+* Cox assisted Snedecor as he worked on his book by providing him with the data sets he needed for his examples.
+* Cox and Snedecor also collaborated in writing three research papers around this time: Disproportionate subclass numbers in tables of multiple classification (1935); Covariance used to analyse the relation between corn yield and acreage (1936); and Analysis of covariance of yield and time to first silks in maize (1937).
+* Professor Snedecor prepared a list of persons (all males) and before mailing it to Dr Forster showed the list to Miss Cox.
+* At North Carolina State College, Cox headed the new department of Experimental Statistics in the School of Agriculture.
+* Miss Cox is professor of Experimental Statistics.
+* Dean Schaub says Miss Cox will establish a statistical laboratory and teach advanced courses in statistical methods.
+* In the same year of 1945 Cox became the editor of Biometrics Bulletin and of Biometrics, holding this editorship for 10 years.
+* At this time he had begun working with Cox on a book based on their course notes.
+* This brought Cox and Cochran together again and they were able to continue writing their text.
+* Cox received many honours in addition to some already mentioned.
+* However, despite retiring twice, Cox set off on another consulting trip to Egypt in 1964 as a consultant for the Ford Foundation to Cairo University's Institute of Statistical Studies and Researches.
+* For example, in 1930 while she was studying for her Master's Degree, Cox sent some of her craft to the New York Society of Craftsmen.
 
 Born 13 January 1900, Dayton, Iowa, USA. Died 17 October 1978, Durham, North Carolina, USA.
 

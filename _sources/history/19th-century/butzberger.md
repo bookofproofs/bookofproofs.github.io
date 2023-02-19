@@ -7,10 +7,10 @@ orderid: 1862
 title: Bützberger, Fritz (Friedrich
 born: 1862
 died: 1922
-keywords: Fritz Bützberger, Swiss, Schoolteacher, Mathematician, Analysis, Probability, Traffic
-description: Fritz Bützberger was a Swiss schoolteacher and Mathematician who pioneered many analysis and probability theories and developed mathematical models to study traffic systems.
+keywords: fritz (friedrich) bützberger,bützberger
+description: Fritz (Friedrich) Bützberger was a Swiss schoolteacher who helped organise the first International Congress of Mathematicians.
 references: bookofproofs$6909
-contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
+contributors: @Stefanie-Eminger,bookofproofs
 
 ---
 
@@ -23,13 +23,12 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 **Fritz (Friedrich) Bützberger** was a Swiss schoolteacher who helped organise the first International Congress of Mathematicians.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the Alternating Series Test, a fundamental theorem of mathematical analysis in 1954.
-2. Developed the concept of the Cyclic Service Curve, which is a key mathematical tool for analyzing traffic systems in 1965.
-3. Established the fact that certain linear coupled system of iterative equations can be solved in one dimension in a two-dimensional system in 1975.
-4. Used an iterative projection procedure to solve certain constrained optimization problems which was later known as the "Bützberger Method" in 1980.
-5. Proved the fundamental theorem of probability theory: the law of total variance in 1989.
-6. Advanced the theory of concurrent queues and developed a mathematical model for analyzing ship traffic in 1993. 
-7. Developed a mathematical model to analyze the operation of an isolated railroad line in 1995.
+* Bützberger was the 11th  of Schläfli's 12 doctoral students.
+* Bützberger became a mathematics teacher at the Kantonsschule in Zürich in 1896.
+* The collection of Bützberger's papers is now stored in the ETH Library Archive.
+* Bützberger was married to Rosa Kohler.
+* The couple had two children: a son, Fritz, and a daughter, Marie.
+* There is little information about Bützberger's personal life in the obituaries and his estate.
 
 Born 26 March 1862, Bleienbach, Bern canton, Switzerland. Died 1 November 1922, Bern, Switzerland.
 

@@ -7,10 +7,10 @@ orderid: 1928
 title: Gruenberg, Karl Walter
 born: 1928
 died: 2007
-keywords: Karl Gruenberg, Mathematics, Fuzzy sets, Supermapping, Lattice theory, Fixed-point theorem, Non-standard Analysis
-description: Karl Gruenberg, an Austrian mathematician, developed theories on fuzzy sets, created supermapping, pioneered lattice theory & developed fixed-point theorem, & authored many papers on topology & non-standard analysis.
+keywords: karl gruenberg,gruenberg
+description: Karl Gruenberg was an Austrian mathematician who worked in finite group theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karl Gruenberg** was an Austrian mathematician who worked in finite group theory.
 
 ### Mathematical Profile (Excerpt):
-1. Extended Mathias Schöning's theories on fuzzy sets, which was the basis for his doctoral dissertation in mathematics.
-2. Developed the theory of supermapping and the concept of supergeneralized continuity as part of a prodigious research output.
-3. Applied his research to the development of prediction models in economics and stock markets, in particular, developing an internationally-renowned price fluctuations model that is used to predict price movements.
-4. Pioneered the field of lattice theory, which is a field of mathematics that deals with the abstract algebra of partially ordered sets.
-5. Co-authored the landmark work on fixed-point theorems and set-valued mappings in the early 1960s.
-6. Established the fixed-point theory argument, which was the first of its kind in mathematics.
-7. Authored numerous papers on the fields of topology, lattice theory, and non-standard analysis, as well as the foundational book "The Theory of Fixed-Point Theorems" in 1965.
-8. Created a branch of mathematics known as "Gruenberg's Theory of Fixed-Point Theorems" which is heavily based on his research and findings.
+* The Kindertransport allowed Karl to be sent to England in March of 1939 but life was not easy for the ten year old German speaking boy.
+* At first Karl attended Shaftesbury Grammar School in Dorset.
+* Gradually life got better and in 1943 Karl and his mother moved to London where he entered Kilburn Grammar School.
+* Soon Gruenberg flourished, achieving excellent school grades, and his broad international based views meant he became very happy with his new life.
+* By this time Gruenberg had become a British citizen, all the procedures being completed by 1948.
+* Before the award of his doctorate Gruenberg had published a number of papers such as Some theorems on commutative matrices (1951), A note on a theorem of Burnside (1952), Two theorems on Engel groups (1953), and Commutators in associative rings (1953).
+* Back in England after his two years in the United States, Gruenberg returned to Queen Mary College where he was appointed as a Lecturer in Mathematics.
+* Gruenberg's first research topic led him to a study of Engel groups.
+* Results of many mathematicians such as Burnside, Thompson, Serre, Mac Lane, Magnus, Fox, Iwasawa, Golod, Safarevic, Roquette, and Gaschütz are discussed, but large parts of the work was based on results by Gruenberg himself.
+* In addition to these research level texts, Gruenberg also published an undergraduate level text (written jointly with A J Weir) Linear geometry.
+* Gruenberg was always encouraging to his mathematical colleagues, and he showed particular kindness to those embarking on a mathematical career.
+* Kurt Hirsch and Karl Gruenberg sat in the front row and both made encouraging and helpful comments to me after my talk.
 
 Born 3 June 1928, Vienna, Austria. Died 10 October 2007, London, England.
 

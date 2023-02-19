@@ -7,10 +7,10 @@ orderid: 1800
 title: Talbot, William Henry Fox
 born: 1800
 died: 1877
-keywords: Fox Talbot, Photography, Permanent Images, Calotype, Photomicrographs, Stereoscopic Photographs, Royal Photographic Society
-description: Fox Talbot: Pioneer photographer, developed permanent images, calotype, photomicrographs, stereoscopic photographs, wrote 1st illustrated photobook, established Royal Photographic Society.
+keywords: henry fox talbot,talbot
+description: Fox Talbot was a pioneer English photographer who also did work on elliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,38 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Fox Talbot** was a pioneer English photographer who also did work on elliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneering the concept of photography and developing a technique for making permanent images from paper originals. 
-2. Creating the earliest surviving photographic negative in 1835. 
-3. Developing the calotype process to create high-contrast detailed negatives. 
-4. Creating photomicrographs, which are images enlarged using a microscope. 
-5. Writing and publishing The Pencil of Nature in 1844, which was the world’s first illustrated book to use photography. 
-6. Developing a permanent stereoscopic photograph technique, which allowed three-dimensional images to be produced in the early 1840s. 
-7. Envisioning the use of photography in cataloging, documentation and identification, which led to its wide use in the scientific field. 
-8. Establishing the Photographic Society of London in 1853, which later became the Royal Photographic Society.
+* However, he greatly disliked this version and always made it known that he wished to be Henry F Talbot or H F Talbot.
+* We shall at least go some way towards his wishes and refer to him as Talbot (or Henry) throughout this article.
+* Henry's father was William Davenport Talbot and his mother was Elisabeth Theresa Fox-Strangways.
+* Davenport Talbot owned Lacock Abbey in Wiltshire which had been in the possession of the Talbot family since the 1500s but this only happened because two husbands took their wife's name of Talbot to keep the Talbot family name from dying out.
+* Lady Elisabeth Fox-Strangways was the eldest child of Henry Thomas Fox-Strangways, second earl of Ilchester, and was from a family which moved in the highest political circles.
+* Given the status of the families one might expect Henry to be born into a wealthy but, on the contrary, when he was born, Lacock Abbey was £30,000 in debt, this being a substantial sum in those times.
+* Financial problems was not the only difficulty the family had, for Davenport Talbot died was Henry was only five months old leaving Lady Elisabeth in a somewhat tricky situation.
+* Henry's mother was a rather remarkable woman, however, being highly intelligent and very well educated.
+* Her skilful management of the Lacock Abbey estate would mean that Henry would eventually face no financial problems.
+* Of course Lady Elizabeth's family owned a number of properties and Henry and his mother lived in a number of these at different times.
+* He was a devoted step-father to Henry who never lacked a father's love from that time.
+* In 1810 Henry went to Harrow school where he remained until 1815 after which his preparation for university was completed with two years private tuition at home.
+* Talbot received a healthy income from the estate.
+* Talbot wrote papers on elliptic integrals, building on work of Euler, Legendre, Jacobi and Abel.
+* They quickly became firm friends and Talbot's interests turned more towards the study of light.
+* David Brewster, the Scottish physicist, was also experimenting with light at this time and he published a number of Talbot's articles.
+* Talbot was elected a Fellow of the Royal Society in 1831 for his mathematical work.
+* In addition to his work on mathematics and physics, Talbot also published on astronomy.
+* John Herschel was very interested in Talbot's experiments and devised many of the terms still in use today.
+* He gave the name "negative" to the inverted image that Talbot was producing on his paper covered with suitably chosen chemicals, and "fixing" to the process that Talbot perfected of treating the paper with further chemicals to prevent further action by light.
+* We have an example of a negative produced by Talbot in August 1835 which is a picture of the Oriel window in the South Gallery at Lacock Abbey.
+* Talbot was able to find a way to print back his negatives onto sensitive paper giving a correct representation of the scene pictured.
+* By the autumn of 1838 Talbot took up again his photographic work and began to contemplate writing a paper to be submitted to the Royal Society describing his discoveries.
+* Talbot quickly moved to publicise his own work sending examples of his photographs to the Royal Institution in London less than a week after he heard of the French announcement, and he wrote to Arago claiming priority a couple of days later.
+* Later papers by Talbot on photography, however, the Society chose not to publish.
+* In 1840 Talbot made further brilliant advances, discovering how to use chemicals to bring out an image from his sensitive paper after it had only been exposed for a very short time.
+* Two factors meant that Talbot's process would not achieve the widespread use that Daguerre's process did.
+* One was simply that Daguerre made his process freely available while Talbot charged a fee for anyone to use his, and secondly Daguerre's process produced much sharper image.
+* This said, however, nobody can look at the images produced by Talbot without being impressed by their great beauty.
+* The acrimonious proceedings had stained Talbot's reputation so severely that the prejudices raised continue to surface in historical literature.
+* Talbot's home was Lacock Abbey but he spent much time in Scotland.
+* In his lifetime, Talbot had published seven books and nearly sixty scientific and mathematical articles.
 
 Born 11 February 1800, Melbury Sampford, Dorset, England. Died 17 September 1877, Lacock Abbey (near Chippenham), Wiltshire, England.
 

@@ -7,10 +7,10 @@ orderid: 1905
 title: Kalmár, László
 born: 1905
 died: 1976
-keywords: László Kalmár, mathematical logic, theoretical computer science, Algebraic School, sets, algorithms, function, stochastic process, Gödel's incompleteness, game theory, discrete mathematics, group theory, Kolmogorov-Smirnov statistic
-description: László Kalmár was a leader of Hungarian mathematical logic and made pioneering contributions such as founding Algebraic School, co-authoring sets theory and developing algorithms, functions, stochastic processes etc.
+keywords: lászló kalmár,kalmár
+description: László Kalmár worked on mathematical logic and theoretical computer science. He was ackowledged as the leader of Hungarian mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **László Kalmár** worked on mathematical logic and theoretical computer science. He was ackowledged as the leader of Hungarian mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Algebraic School of Mathematics in Hungary in 1912.
-2. Co-authored the Theory of Sets in 1909, a pioneering work on the foundations of mathematics.
-3. Proposed a general theory of algorithms in 1936, which laid the groundwork for modern algorithms and computational complexity theory.
-4. Developed the concept of a function in 1928, introducing the idea of “mathematical objectivity”.
-5. Conceived of the mathematical concept of a “stochastic process”, a mathematical model of randomly changing systems.
-6. Proved Gödel’s incompleteness theorem in 1931.
-7. Pioneered the use of game theory in economics, social sciences and engineering.
-8. Developed the field of discrete mathematics in 1910.
-9. Played a key role in the development of group theory in the early 20th century.
-10. Developed the concept of the Kolmogorov-Smirnov statistic in 1933.
+* Zsigmond Kalmár was a bailiff on an estate in Transdanubia in northwestern Hungary, the estate being located about 30 km from Lake Balaton.
+* Zsigmond Kalmár died while László was a young boy and Rósa Kalmár then moved to Budapest with László.
+* Kalmár began his secondary schooling in Budapest during World War I.
+* However, while still at secondary school Kalmár's mother also died so by the time he entered the University of Budapest in 1922 he was an orphan.
+* As a student at the University of Budapest Kalmár had teachers who were leading mathematicians so he received teaching which brought him to the cutting edge of research.
+* Kalmár would later provide important help to Péter in her career.
+* Kalmár graduated in 1927 and the direction of his work was influenced when he visited Göttingen in 1929.
+* At Szeged Kalmár acted at first as a research assistant to both Haar and Riesz.
+* In 1933 Kalmár married Erzsébet Arvay and they had four children.
+* Kalmár was appointed a full professor at Szeged in 1947.
+* Kalmár was also involved in theoretical computer science and promoted the development of computer science and the use of computers in Hungary.
+* For his outstanding contributions to mathematics and computer science Kalmár received many honours.
 
 Born 27 March 1905, Edde (N of Kaposvar), Hungary. Died 2 August 1976, Mátraháza, Hungary.
 

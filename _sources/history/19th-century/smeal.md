@@ -7,10 +7,10 @@ orderid: 1890
 title: Smeal, Glenny
 born: 1890
 died: 1974
-keywords: mathematical modelling, CFD, inverse algorithms, scientific papers, fluid flow, convective heat transfer, teaching awards
-description: Glenny Smealexcelled in mathematical modelling, CFD, teaching, and research, authoring multiple scientific papers and a book. Won awards for excellence in the field.
+keywords: glenny smeal,smeal
+description: Glenny Smeal studied at Melbourne University and Imperial College London. After some time in Edinburgh he moved to a post in Statistical Methods and Computation at Leeds.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Glenny Smeal** studied at Melbourne University and Imperial College London. After some time in Edinburgh he moved to a post in Statistical Methods and Computation at Leeds.
 
 ### Mathematical Profile (Excerpt):
-1. Developed mathematical models for predicting heat transfer performance in automotive vehicles.
-2. Pioneered the use of CFD (Computational Fluid Dynamics) in thermal analysis in the automotive industry.
-3. Led the development of fourier-based inverse algorithms for non-destructive testing.
-4. Authored more than 18 peer-reviewed scientific papers on mathematical theories and applications.
-5. Developed a novel algorithm for the analysis of fluid flow in complex geometries.
-6. Developed a numerical method for simulation of three-dimensional laminar convective heat transfer.
-7. Authored a book on mathematical modelling and computational analysis.
-8. Won multiple awards for her excellence in research and teaching.
+* Smeal's studies at Imperial College were financed by a 1851 Exhibition Scholarship from 1912 to 1914.
+* In 1914 Smeal was appointed as Assistant Lecturer in Mathematics at the University of Edinburgh, Scotland.
+* Smeal's letter of resignation was put to the Court of Edinburgh University on 25 April 1921.
+* Edinburgh University appointed George Robinson as Smeal's successor at Edinburgh.
+* From 1925 to 1946 Smeal was a Lecturer in Statistical Method and Computation at the University of Leeds.
+* Smeal joined the Edinburgh Mathematical Society in December 1914 soon after his appointment as an Assistant at Edinburgh.
+* We note that Smeal corresponded with R A Fisher after moving to Leeds.
+* Fisher's papers contain 24 letters and notes, with tables and copies of printed examination papers in statistics, sent by Smeal to Fisher between December 1925 and March 1928.
+* Among Smeals' publications are (with Ernest Frederick John Love) The psychrometric formula (1911), (with S Brodetsky) On Graeffe's method for complex roots of algebraic equations (1924) and  The equations of the gravitational field in orthogonal coordinates (1926).
 
 Born 13 February 1890, Ararat, Victoria, Australia. Died 24 February 1974, Wandsworth, London, England.
 

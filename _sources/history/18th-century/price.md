@@ -7,10 +7,10 @@ orderid: 1723
 title: Price, Richard
 born: 1723
 died: 1791
-keywords: Richard Price, statistics, calculus of finite differences, money, epidemiology, exponential concept, unified language
-description: Richard Price was a Welsh congregational minister known for his contributions to money, statistics, and epidemiology. He devised the exponential concept, established a unified language and notation, and developed the calculus of finite differences.
+keywords: richard price,price
+description: Richard Price was a Welsh congregational minister who made contributions to statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Richard Price** was a Welsh congregational minister who made contributions to statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the calculus of finite differences in 1786.
-2. Published "A Review of the Principal Questions Relating to the Science of Money, Credit and Exchange" in 1768.
-3. Established the foundations of present day epidemiology and public health in his 1789 publication "Observations on the Importance of the Preservation of Health in the Different Classes of the Community".
-4. Devised the exponential concept of compound interest and popularized the mathematical symbol 'e' in 1779.
-5. Introduced a unified mathematical language and notation for the language of science and philosophy in 1791. 
-6. Published "A Prize Essay on the Applications of Mathematics to the Useful Arts" in 1785. 
-7. Led an inquiry which demonstrated the equality of annuities and advocated for their use for pension schemes in 1771.
+* At quite a young age Richard seems to have adopted somewhat different religious opinions from those of his father, being attracted towards more liberal Christian views.
+* Price left Fund Academy in 1744 and moved to Stoke Newington where he was family chaplain to George Streatfield.
+* In 1756 George Streatfield and an uncle of Price died, and as a result of money left to him Price's financial circumstances improved greatly.
+* Price published Review of the Principal Questions in Morals in 1757 which contains his theory of ethics.
+* Certainly up to this point nothing we have mentioned about Price would suggest that he should be in this archive, but the reason that we have included him is his contributions to statistics.
+* Several of Bayes's papers were therefore given to Price.
+* A Notebook written by Bayes is still preserved in the muniment room of the Equitable Life Assurance Society and one has to assume that it was deposited there because Price was interested in the work of that Society, and involved with it.
+* Price was responsible for the communication of Bayes's Essay towards solving a problem in the doctrine of chances to the Royal Society.
+* At times it is hard to tell which contributions Price made to Bayes's work, but it is clear that Price was a modest man who did not seek credit for his contributions.
+* The Royal Society elected Price a fellow in 1765 on the strength of his contributions to probability.
+* It was in 1769, in a letter to Benjamin Franklin, that Price commented on the expectation of lives, the increase of mankind, and the population of London.
+* In May 1770 Price wrote to the Royal Society explaining how to calculate the values of contingent reversions.
+* Price seemed to be well aware that the recently established insurance and benefit societies were basing the calculations of their policies on erroneous theory.
+* We know that Price's scientific interests were very broad.
+* In fact Joseph Priestley, the discoverer of oxygen, was a friend of Price.
+* They were both ordained to the Dissenting ministry and Priestley frequently visited Price in Newington Green.
+* in 1776 Price published a pamphlet Observations on Civil Liberty and the War with America.
+* It is said that the Declaration of Independence of the Thirteen Colonies made on 4 July 1776 was influenced by Price's pamphlet.
+* Sarah Price died in 1786 and by this time Price's health was deteriorating.
+* The Unitarian Society was established in 1791, shortly before Price's death, and he became a founder member.
+* Price was buried in Bunhill Fields on 26 April 1791 and at the service Joseph Priestley gave the funeral sermon.
+* Price was famous in his day, although his views were highly controversial, and many came to hear him preach.
 
 Born 23 February 1723, Tyn-ton, Llangeinor, Glamorgan, Wales. Died 19 April 1791, Newington Green (near London), England.
 

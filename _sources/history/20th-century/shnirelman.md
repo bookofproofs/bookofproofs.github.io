@@ -7,10 +7,10 @@ orderid: 1905
 title: Shnirelman, Lev Genrikhovich
 born: 1905
 died: 1938
-keywords: Lev Shnirelman , Moscow Mathematical Society , Loève Prize , Pontifical Academy , Demidov Prize , International Congress of Mathematicians , Chebyshev Prize
-description: Lev Shnirelmanwas a celebrated mathematician, honored with prizes from mathematics societies, academies & Congresses from 1975-2006.
+keywords: lev shnirelman,shnirelman
+description: Lev Shnirelman was a Belarussian mathematician who made important contributions to the Goldbach conjecture.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lev Shnirelman** was a Belarussian mathematician who made important contributions to the Goldbach conjecture.
 
 ### Mathematical Profile (Excerpt):
-1. Lev Shnirelman won the Moscow Mathematical Society Prize in 1975.
-2. He was awarded the Loève Prize for his work in probability theory in 1989.
-3. In 1994, he was named corresponding member of the Pontifical Academy of Sciences.
-4. He was a full member of the Russian Academy of Sciences from 1998.
-5. In 1998, he was awarded the Demidov Prize for his work in probability theory.
-6. He was a Plenary Speaker at the International Congress of Mathematicians in 1998.
-7. In 2004, he was awarded the Chebyshev Prize by the Russian Academy of Sciences.
-8. He was an honorary member of the International Statistical Institute.
-9. He was awarded the Moscow Mathematical Society Prize twice in 2005.
-10. He was awarded the Andrey Kolmogorov Prize in 2006.
+* Lev showed remarkable abilities when he was still a young child and his parents quickly realised that he had outstanding abilities.
+* These abilities are illustrated by the fact that he studied, in his own  home, the complete school course of mathematics between the ages of eleven and twelve.
+* Shnirelman started research in algebra, geometry and topology as a student but did not consider his results sufficiently important to merit publication.
+* Shnirelman was appointed to the chair of mathematics at the Don Polytechnic Institute in Novocherkassk in 1929.
+* L A Lyusternik became a friend and important collaborator with Shnirelman and together they made significant contributions to topological methods in the calculus of variations in a series of paper written jointly between 1927 and 1929.
+* Shnirelman and Lyusternik also applied their "principle of the stationary point" to other problems of geometry "im Grossen".
+* In 1930 Shnirelman introduced important new ideas into number theory.
+* In a talk delivered at a meeting of the German Mathematical Society on the morning of 17 September 1931, Shnirelman first reported on his now famous researches in additive number theory which were to be presented in the 1933 paper given above.
+* Later significant contributions by Shnirelman include his two papers On the additive properties of numbers, and On addition of sequences  published in 1940 after his death.
 
 Born 2 January 1905, Gomel, Belarus. Died 24 September 1938, Moscow, USSR.
 

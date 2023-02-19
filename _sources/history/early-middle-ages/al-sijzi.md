@@ -7,10 +7,10 @@ orderid: 945
 title: Al-Sijzi, Abu Said Ahmad ibn Muhammad
 born: 945
 died: 1020
-keywords: Al-Sijzi, Islamic, Astronomy, Mathematics, Geometry, Circles, Parabolic
-description: Islamic astronomer & mathematician Al-Sijzi wrote on geometry & spheres, developed equations on conic sections, constructed a parabolic line, modelled a solar system, & investigated circles & intersecting chords.
+keywords: al-sijzi,al-sijzi
+description: Al-Sijzi was an Islamic astronomer and mathematician who wrote on the geometry of spheres.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Al-Sijzi** was an Islamic astronomer and mathematician who wrote on the geometry of spheres.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method to construct a parabolic line using intersecting circles.
-2. Developed a number of equations to demonstrate problems related to conic sections, cylindrical helix, and cubic equations.
-3. Developed a method to calculate the area of any inscribed quadrilateral.
-4. Created a solar model complete with a six-part symmetrical planetary system.
-5. Maintained a comprehensive list of various geometric transformations.
-6. Wrote a treatise on fundamental principles of geometrical sociology.
-7. Discovered and formulated three lenstriction equations for the connection between algebra, geometry, and physics.
-8. Developed a physical model of the universe to prove his theories on planetary motion. 
-9. Explained the relations between circumference and area of circles based on the sizes of circles inscribed in similar polygons. 
-10. Conducted extensive studies on the use of chords and secants in circles, as well as their intersection points, and resulting chords.
+* It is quite possible that 'Adud ad-Dawlah was al-Sijzi's patron since he was a leader well known for patronising the arts and science.
+* We also know that al-Sijzi worked in Shiraz making astronomical observations during 969-970.
+* We mentioned above that al-Sijzi corresponded with al-Biruni.
+* Al-Sijzi's mathematical papers are less numerous but more significant than his astrological ones, and he is therefore better known as a geometer.
+* Among the problems al-Sijzi discusses are the following.
+* A treatise on spheres by al-Sijzi Book of the measurement of spheres by spheres is of considerable interest.
+* The treatise, dated by al-Sijzi 969, contains twelve theorems investigating a large sphere containing between one and three smaller spheres.
+* Al-Sijzi finds the volume inside the large sphere which is outside the small ones inside it.
+* is due to an oversight made by Al-Sijzi, who does not use four-dimensional spheres anywhere else in his treatise.
+* We note that the treatise was written around 969 AD, at a time when al-Sijzi was a very young and perhaps inexperienced geometer.
+* Another short work by al-Sijzi is the Treatise on how to imagine the two lines which approach but do not meet when they are produced indefinitely, which the excellent Apollonius mentioned in the second Book of the Conics.
+* This is considered by most historians to be a three-dimensional extension by al-Sijzi of the geometrical algebra propositions in Book 2 of Euclid's Elements.
 
 Born about 945, Sijistan, Persia (now Iran). Died about 1020.
 

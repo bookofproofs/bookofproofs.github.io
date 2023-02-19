@@ -7,10 +7,10 @@ orderid: 1933
 title: Almgren, Frederick Justin
 born: 1933
 died: 1997
-keywords: Almgren, Geometric Measure Theory, Analysis, Real Analysis Exchange, Generalized Functions, Isoperimetric Theorem, Mathematical Physics
-description: Frederick Almgren developed new research methods in Geometric Measure Theory, proving properties of boundaries of sets & new techniques to characterize evolution of sets. He wrote publications, served as editor, solved analysis/geometry problems, & published a monograph & an isoperimetric theorem.
+keywords: frederick justin almgren,almgren
+description: Frederick Almgren was an American mathematician who worked in geometric measure theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Frederick Almgren** was an American mathematician who worked in geometric measure theory.
 
 ### Mathematical Profile (Excerpt):
-1. Established new research methods in geometric measure theory, which combines aspects of differential geometry, analysis and partial differential equations. 
-2. Demonstrated properties of boundaries of arbitrary sets.
-3. Developed mathematical proofs regarding the behavior of sets of arbitrary finite perimeter. 
-4. Discovered new geometric measure theory techniques which can be applied to characterize the evolution of sets over time.
-5. Wrote over 50 scientific publication related to functional analysis and geometric measure theory.
-6. Served as editor of the American Mathematical Society's journal Real Analysis Exchange.
-7. Developed and implemented new mathematical interpretations of area and surface area.
-8. Solved difficult problems in analysis and geometry.
-9. Published a monograph titled, The Theory of Generalized Functions and its Applications in Mathematical Physics. 
-10. Developed the Almgren–Taylor isoperimetric theorem.
+* Frederick Almgren Junior's mother was Sarah Cone Wright who worked as a real estate agent.
+* Frederick had a younger brother David, and a younger sister Linda.
+* Almgren was an undergraduate at Princeton University but he did not major in mathematics, rather his main topic was engineering and it was in that subject that he graduated in 1955.
+* In 1958 Almgren entered Brown University to begin research in mathematics.
+* Federer supervised Almgren doctoral studies and Almgren wrote a thesis The Homotopy Groups of the Integral Cycle Groups  which earned him a Ph.D. in 1962.
+* After completing his studies at Brown University, Almgren was appointed as an Instructor in Mathematics at Princeton University.
+* In 1968 Almgren was promoted to associate professor and then full professor in 1972.
+* Almgren was married twice.
+* Almgren's second wife was his first Ph.D. student, Jean Ellen Taylor; they married on 6 October 1973 (the year Jean was awarded her doctorate) and had one daughter Karen.
+* Almgren was diagnosed with bone marrow cancer in August 1996 and underwent a bone marrow transplant (donated by his sister) in Boston in September.
+* Throughout his career, Almgren brought great geometric insight, technical power, and relentless determination to bear on a series of the most important and difficult problems in his field.
+* Almost certainly Almgren's most impressive and important result was only published in 2000, three years after his death.
+* Around 1974, Almgren started on what would become his most massive project, culminating ten years later in a three-volume, 1700-page preprint containing a proof that the singular set not only has m-dimensional measure 0, but in fact has dimension at most (m - 2).
+* Now, thanks to the efforts of editors Jean Taylor and Vladimir Scheffer, Almgren's three-volume, 1700-page typed preprint has been published as a single, attractively typeset volume of less than 1000 pages.
+* Let us record three comments by former Ph.D. students of Almgren.
+* Fred Almgren received many honours for his outstanding contributions.
 
 Born 3 July 1933, Birmingham, Alabama, USA. Died 5 February 1997, Princeton, USA.
 

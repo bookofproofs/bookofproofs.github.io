@@ -7,10 +7,10 @@ orderid: 1905
 title: Kuroda, Sigekatu
 born: 1905
 died: 1972
-keywords: Kuroda, Number Theory, Mathematical Logic, Binary Quantics, Fuzzy Set Theory, Fractal Geometry, Granular Computing
-description: Kuroda was a Japanese mathematician working in number theory, mathematical logic, binary quantics, fuzzy set theory and fractal geometry, among other fields, who developed principles around granular computing.
+keywords: sigekatu kuroda,kuroda
+description: Sigekatu Kuroda was a Japanese mathematician who worked in number theory and mathematical logic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sigekatu Kuroda** was a Japanese mathematician who worked in number theory and mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the algebra of binary quantics, also known as the Kuroda algebra.
-2. Proposed a complete set of axioms for a fuzzy set theory.
-3. Developed significant contributions to the theory of fuzzy numbers.
-4. Demonstrated the possibility of re-expressing fuzzy numbers using the Kuroda operator.
-5. Contributed to the development of Sobolev's $\frac12$-inequality, which established the basis of fractal geometry.
-6. Proposed an axiomatic characterization of the topology of fuzzy sets.
-7. Developed important advances in the application of group theory to fuzzy systems.
-8. Demonstrated the possibility of modular representation of fuzzy sets through the use of modules.
-9. Coined the term "granular computing" for applying mathematics to fields such as robotics and computer vision.
-10. Developed principles of granular computing which form the basis of fuzzy control systems.
+* His professor at Tokyo Imperial University was Teiji Takagi, who was a leading researcher in algebraic number theory, and he gave Kuroda a lasting interest in that topic.
+* However, Kuroda decided to specialise in the foundations of mathematics and, for that reason, Takagi is said to have called his student a "lazybones".
+* Kuroda's first three papers were all entitled Zur Algebra der Logik Ⓣ(On the algebra of logic) published in the Proceedings of the Imperial Academy of Tokyo.
+* Kuroda married Yaeko, the third of Takagi's daughters; they had three sons who became mathematicians including Sige-Yuki Kuroda (1934-2009).
+* Sigekatu Kuroda served as an Assistant at Tokyo Imperial University in 1932-33 before being appointed as a Professor at Ochyanomizu University, Tokyo, in 1933.
+* In many ways Kuroda's work on the foundations of mathematics and mathematical logic had made it difficult for him to become a central figure in Japanese mathematics.
+* In 1942 Kuroda was appointed as Professor at the newly founded Imperial University of Nagoya, Chikusa-ku, Nagoya, Japan, where he worked for over 20 years building up a strong Department of Mathematics.
+* Despite his many deep works on mathematical logic and the foundations of mathematics, Kuroda had a lifelong interest in algebraic number theory.
+* In 1962 Kuroda went to the United States when he spent a year as a Visiting Professor at the University of Maryland.
+* The collected papers of Teiji Takagi, edited by Sigekatu Kuroda, was published in 1973, with a preface by S Iyanaga.
+* We should also mention the important contribution Kuroda made to publishing, being one of the founders of the Nagoya Mathematical Journal and serving on the editorial board until his death.
 
 Born 11 November 1905, Tokyo, Japan. Died 3 November 1972, Baltimore, Maryland, USA.
 

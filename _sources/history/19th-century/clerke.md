@@ -7,10 +7,10 @@ orderid: 1842
 title: Clerke, Agnes Mary
 born: 1842
 died: 1907
-keywords: Astronomy, Biography, Statistics, Spectroscopy, Cepheid Variables, Luminosity, Indexing System
-description: Agnes Mary Clerke was an Irish astronomer & biographer who authored "A Popular History of Astronomy", pioneered the use of stats to study star clusters, coined "astronomical spectroscopy", established terms in astronomy & devised an indexing system to simplify astronomical work.
+keywords: agnes mary clerke,clerke
+description: Agnes Mary Clerke was an Irish astronomer and writer on both astronomy and biography.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Agnes Mary Clerke** was an Irish astronomer and writer on both astronomy and biography.
 
 ### Mathematical Profile (Excerpt):
-1. Authored the book "A Popular History of Astronomy During the Nineteenth Century" which outlined her mathematical and astronomical knowledge.
-2. Pioneered the use of statistics to study the structure and evolution of star clusters, pioneering the technique of using statistical measures such as luminosity and color.
-3. Coined the phrase “astronomical spectroscopy" which describes the process of using a spectroscope to identify the chemical composition of astronomical objects.
-4. Established several terms in astronomy, including "the Cepheid variables", which are used to measure the distance between stars.
-5. Demonstrated that red stars, which appeared dimmer than blue stars, were actually more luminous, due to a wrong assignment of distances.
-6. Devised an indexing system to simplify the usage of star catalogues and maps, simplifying astronomical work of the time.
+* John William Clerke (born 1814) was a graduate of Trinity College, Dublin, where he had studied classics but had also taken courses in mathematics and astronomy.
+* Agnes' mother Catherine, educated at the Ursuline Convent, Cork, was an intellectual lady with considerable musical talents playing piano and harp.
+* The Clerke family were Protestants while the Deasy family were Roman Catholics.
+* Together with her older sister Ellen (born 1840), Agnes was educated at home by her parents.
+* Agnes's father owned a 4-inch telescope and she grew up regularly observing Saturn's rings and Jupiter's moons.
+* The family moved to Dublin when Clerke was aged 19 for her father changed profession at that stage and became a registrar at the court of his brother-in-law Rickard Deasy who by this time was a High Court Judge.
+* At this time Agnes made university level studies of advanced mathematics, physics and astronomy being tutored by her brother Aubrey who was studying mathematics and physics at Dublin University.
+* Clerke began publishing in that year when her articles Brigandage in Sicily and Copernicus in Italy (both written during her time in Italy) appeared in the Edinburgh Review.
+* The volumes before G had already been completed so when they invited Clerke to contribute it was to write biographies of famous mathematicians and astronomers whose names began with a letter between G and L.
+* Clerke wrote articles for other encyclopaedias such as the article Astronomy for the Catholic Encyclopaedia.
+* This text was revised three times for four different editions in Clerke's lifetime (the last in 1902).
+* Although Clerke was not a practical astronomer, nor an author of original research articles, she did spend three months at the Royal Observatory at the Cape of Good Hope where she was the guest of the director, Sir David Gill, and his wife.
+* A Popular History of Astronomy during the Nineteenth Century was only one of many books that Clerke wrote.
+* In fact while Clerke was writing this book she was informally offered an appointment at the Royal Observatory in Greenwich.
+* Not all Clerke's writings were on science for she wrote, among several literary contributions, essays on Don Sebastian (1882), the letters of Edward Fitzgerald (1894), and Familiar Studies in Homer (1892).
+* Clerke wrote 159 biographies for the Dictionary of National Biography.
+* In 1903, with Lady Huggins, she was elected an honorary member of the Royal Astronomical Society, a rank previously held only by two other women, Caroline Herschel and Mary Somerville.
+* The famous eleventh edition of Encyclopaedia Britannica  was published in 1910 and Clerke had been asked to contribute articles on both astronomy and its history.
 
 Born 10 February 1842, Skibbereen, Co. Cork, Ireland. Died 20 January 1907, London, England.
 

@@ -7,10 +7,10 @@ orderid: 1908
 title: Dinghas, Alexander
 born: 1908
 died: 1974
-keywords: Alexander Dinghas, Greek mathematician, number theory, Fermat's Last Theorem, Dinghas equation, prime numbers, sums of prime numbers
-description: Alexander Dinghas was a Greek mathematician who published a paper on number theory, developed a solution to Fermat's Last Theorem and authored books on mathematics, including his discovery of the Dinghas equation and his demonstration of the relationship between prime numbers and their products.
+keywords: alexander dinghas,dinghas
+description: Alexander Dinghas was a Greek mathematician who worked in function theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alexander Dinghas** was a Greek mathematician who worked in function theory.
 
 ### Mathematical Profile (Excerpt):
-1. Published a groundbreaking paper on number theory in 1915, introducing the concept of a Dinghas prime number. 
-2. Developed a process for solving the Fermat’s Last Theorem in 1934. 
-3. Authored three books on the history and theory of mathematics, entitled The Fundamental Elements of Mathematics, The Mathematics of Infinity, and The Theory of Structures and Equations. 
-4. Discovered the Dinghas equation, which links the powers of x and y to the sum and product of numbers. 
-5. Demonstrated the relationship between the number of prime numbers and their product. 
-6. Discovered a link between the sums of prime numbers and the prime numbers themselves. 
-7. Proved that the equation x + y = ab is satisfied by any group of prime numbers a and b in which a+b is not greater than ab.
+* Alexander attended primary school in Smyrna and began his secondary schooling there.
+* In 1922 his parents moved from Smyrna to Athens and Alexander moved with the family to complete the last three years of his secondary schooling there.
+* In 1931 Dinghas began his studies at Berlin.
+* However, many other talented mathematicians and theoretical physicists were also at Berlin and influenced Dinghas.
+* It was the teaching of Schmidt in particular which convinced Dinghas that mathematics rather than physics was the subject for him to pursue.
+* Right from the time he began his studies in 1931, Dinghas became interested in Nevanlinna theory.
+* He attended lectures on the topic given by Schmidt and it was these lectures which Schmidt gave "with almost religious enthusiasm" which turned Dinghas from an engineer/physicist into a mathematician.
+* Dinghas produced a series of papers on isoperimetric problems in spaces of constant curvature.
+* His work here was much influenced by Schmidt who also produced important results which Dinghas used in his work.
+* Although Dinghas had a wonderful feel for mathematics, he frequently waved his hands somewhat when he gave a proof.
+* Dinghas felt the man's hunger and got the waiter to send him food and drink which Dinghas paid for.
+* Dinghas received many honours for his work.
 
 Born 9 February 1908, Smyrna (now Izmir), Turkey. Died 19 April 1974, Berlin, Germany.
 

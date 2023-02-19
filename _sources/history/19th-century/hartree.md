@@ -7,10 +7,10 @@ orderid: 1897
 title: Hartree, Douglas Rayner
 born: 1897
 died: 1958
-keywords: Douglas Hartree, numerical analysis, differential analyser, Hartree Approximation, Monte Carlo Method, wave equations, quantum mechanics, Manchester Mark I
-description: Douglas Hartree was an English mathematician and physicist who pioneered numerical analysis and developed groundbreaking computational methods like the Hartree Approximation and Monte Carlo Method.
+keywords: douglas hartree,hartree
+description: Douglas Hartree was an English mathematician and physicist who worked in numerical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Douglas Hartree** was an English mathematician and physicist who worked in numerical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the electronic numerical analysis in the 1930s, utilizing the differential analyser, an analog computer based on mechanical components.
-2. Developed the Hartree Approximation, a mathematical method for solving equations.
-3. Used the newly developed Monte Carlo Method to predict atomic wavefunctions for multi-electron atoms in 1929. 
-4. Devised an algorithm for differentiating between wave functions in the Hartree method. 
-5. Solved the wave equation for the planetary model of an atom.
-6. Developed a relativistic wave equation for the Hamiltonian matrix of an atom.
-7. Developed an equation based on oscillator theory to predict the optical properties of molecules. 
-8. Made contributions to the principles of quantum mechanics.
-9. Assisted in operational research during the Second World War.
-10. Spearheaded the development of the Manchester Mark I, the first stored-program digital computer in Britain.
+* Eva and William had three sons; Douglas was the oldest and both of his two younger brothers died before reaching adulthood.
+* Douglas's school education was in Cambridge and Petersfield.
+* Hartree held the chair at Manchester from 1929 to 1937 when he moved to the chair of theoretical physics.
+* Hartree was basically a theoretical physicist, and he developed powerful methods in numerical analysis.
+* However Niels Bohr gave a lecture course in Cambridge in 1921 and Hartree was much influenced, working on applications of numerical methods for integrating differential equations to calculate atomic wave functions.
+* Hartree learnt of a differential analyzer being developed by Vannevar Bush in the USA.
+* Hartree visited Boston to learn about the workings of the differential analyzer, then returned to Manchester and built his own.
+* The differential analyzer was soon to be replaced by electronic computers and when John Eckert set up ENIAC, Hartree was asked to go to the USA to advise on its use.
+* In addition to applying numerical methods to ballistics, Hartree applied them to the physics of the atmosphere and to hydrodynamics.
+* One of Hartree's strengths was in the breadth of his research knowledge.
 
 Born 27 March 1897, Cambridge, England. Died 12 February 1958, Cambridge, England.
 

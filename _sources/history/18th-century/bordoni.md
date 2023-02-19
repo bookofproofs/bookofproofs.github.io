@@ -7,10 +7,10 @@ orderid: 1789
 title: Bordoni, Antonio Maria
 born: 1789
 died: 1860
-keywords: mathematics, analysis, geometry, mechanics, algorithm, theorem, polynomials
-description: Antonio Bordoni was an Italian mathematician who did research in mathematics, analysis, geometry, and mechanics, creating an algorithm and a theorem, discovering polynomials, and more.
+keywords: antonio bordoni,bordoni
+description: Antonio Bordoni was an Italian mathematician who did research on mathematical analysis, geometry, and mechanics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Antonio Bordoni** was an Italian mathematician who did research on mathematical analysis, geometry, and mechanics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm for approximating the optimal solution of diophantine equations.
-2. Discovered a theorem which states that any algorithm for solving diophantine equations eventually requires an exponentially long sequence of calculations.
-3. Introduced a new class of polynomials.
-4. Showed a connection between number theory and probability theory.
-5. Developed new techniques for dealing with the linear programming problem. 
-6. Performed extensive research in the fields of numerical analysis and computational complexity.
-7. Contributed to the understanding of group theory.
-8. Explored new applications of knot theory to the understanding of diophantine equations.
-9. Published numerous papers on various mathematical topics.
-10. Developed a novel approach to the theory of computation.
+* At the time Bordoni was born the town belonged to Savoy.
+* During his time at the military school Bordoni published a number of mathematical works including: Memorie matematiche: 1, sopra le trasformazioni delle equazioni: Sopra l'integrazione delle equazioni a differenze finite e parziali delle funzioni a piu variabili Ⓣ(Mathematical Memoirs: 1, the transformation of the equation: On the integration of equations in finite differences and partial of the more variable functions) (1808); Nuovo rapporto tra la teoria del centro di gravita e quella della composizione delle forze Ⓣ(New relationship between the theory of the centre of gravity and the composition of forces) (1810); Memoria matematica dedicata al sig.
+* These political events led to the closing of the military school in Pavia in 1816 and Bordoni was out of a job.
+* At Pavia, Bordoni joined the other Chairs in Mathematics, namely Marchesi in Architecture, Lotteri in Preliminary Calculus, and Gratognini in Mechanics, Statics, Hydrodynamics, Hydraulics (Applied Mathematics).
+* Bordoni began to study differential geometry as early as the 1820s.
+* When Bordoni was appointed to the University of Pavia, Mathematics was part of the Faculty of Philosophy.
+* In 1854 Bordoni was elected Director of Mathematical Studies and, in 1859, he tried again to make major changes to the structure of Mathematics, in particular emphasising the further development of advanced courses in Civil Engineering.
+* In February 1860, Bordoni was appointed as a senator but died one month later.
+* He was also honoured more than twenty years after his death when the Istituto Tecnico Bordoni, established in Pavia in 1861, was named after Bordoni in 1882.
+* Among Bordoni's students at Pavia were Felice Casorati, who became his assistant after graduating in 1856.
+* Brioschi was appointed professor of applied mathematics at the University of Pavia in 1852, becoming Bordoni's colleague.
+* Luigi Cremona was also taught by Bordoni when a student of Civil Engineering at Pavia beginning in 1849.
 
 Born 20 July 1789, Mezzana Corti, now Cava Manara, Savoy,. Died 26 March 1860, Pavia, Italy.
 

@@ -7,10 +7,10 @@ orderid: -85
 title: Pollio, Marcus Vitruvius
 born: -85
 died: -20
-keywords: Marcus Vitruvius, modulor, three orders, linear perspective, construction, bridge, geometry, earthquakes
-description: Marcus Vitruvius developed principles of modulor, three orders of architecture, linear perspective and construction procedures for buildings and bridges, plus an understanding of geometry and earthquakes.
+keywords: vitruvius,pollio
+description: Marcus Vitruvius Pollio was a Roman who wrote an influential early work on Architecture.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Marcus Vitruvius Pollio** was a Roman who wrote an influential early work on Architecture.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of modulor, a proportioning system based on the proportions exhibited by the human body based on the writings of the Roman architect and philosopher Marcus Vitruvius.
-2. Developed the principle of the “three orders,” or the three architectonic orders: Doric, Ionic, and Corinthian.
-3. Developed the principles of linear perspective, which is the mechanism through which the three-dimensionality of the real world could be depicted in two-dimensional drawings. 
-4. Proposed a system for the construction of large buildings in which floors would be capable of supporting the weight of upper levels.
-5. Planned a system for the construction of bridges in his treatise on civil engineering and mechanics, De Architectura.
-6. Developed an understanding of geometrical measurements and the effects of earthquakes on buildings.
+* Even his name is in doubt with only Vitruvius being certain.
+* The Romans were building a city there in Vitruvius's time.
+* After Caesar was assassinated in 44 BC, Vitruvius joined the army of Octavian (later the Emperor Augustus), as a military engineer.
+* His most famous (and only known) work is the ten volumes of On Architecture which we know was written near the end of Vitruvius's life.
+* The second comment must be that, for Vitruvius, architecture had a much wider scope than we would consider today.
+* For example water clocks, sundials and pumps are all described by Vitruvius, topics which would hardly be considered to be part of the study of architecture today.
+* Next we note Vitruvius's interest in history - this means that we are treated to information about earlier works and scientists which would otherwise have been lost.
+* After giving the fundamentals of architecture, Vitruvius looks at the siting of a city and city walls.
+* Vitruvius describes machines for lifting and transporting weights using a pulley, he gives the principle of the lever, and describes machines that convert circular to linear motion and vice-versa.
 
 Born about 85 BC, possibly Fundi, Campania (now Italy). Died about 20 BC, Italy.
 

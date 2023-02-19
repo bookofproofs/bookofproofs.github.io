@@ -7,10 +7,10 @@ orderid: 1759
 title: Bernoulli (8), Jacob
 born: 1759
 died: 1789
-keywords: Jacob (II) Bernoulli, calculus of variations, Bernoulli numbers, binomial theorem, Taylor series, law of large numbers, calculus of variations
-description: Jacob (II) Bernoulli made fundamental contributions to mathematical physics with study of calculus of variations, Bernoulli numbers, binomial theorem, Taylor series, law of large numbers, and calculus of variations.
+keywords: jacob (ii) bernoulli,bernoulli
+description: Jacob (II) Bernoulli was a member of the Swiss Bernoulli family who worked on mathematical physics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jacob (II) Bernoulli** was a member of the Swiss Bernoulli family who worked on mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-1. Jacob (II) Bernoulli developed a calculus of variations which he applied to problems in mechanics, geometry, and astronomy
-2. He discovered the famous Bernoulli numbers in a paper entitled Specimen Investigationis de SERIEBUS INFINITISTARUM and in this work also derived the binomial theorem
-3. He developed integral calculus and made several advances in the field, such as introducing the concepts of the Taylor series, L'Hôpital's rule and the Bernoulli differential equation
-4. His work on series, Geometric Exercises,was the first book on probability theoretical principles in the western world
-5. He established the law of large numbers, also known as Bernoulli's theorem, which states that in a repeated independent trials, the expected value of the critical random variable increases with the number of trials 
-6. He proved that the probability of a coin turning up heads is the same for every single toss
-7. He formulated the law of homogeneity for large numbers, now known as Bernoulli's weak law of large numbers
-8. He produced some of the earliest work in the field of calculus of variations, pioneering mathematical analysis of the catenary curve
+* In 1782 Jacob (II) Bernoulli's uncle Daniel Bernoulli died and his chair of physics in Basel became vacant.
+* Jacob (II) applied for the chair and presented a work on mathematical physics to support his application.
+* Jacob (II) Bernoulli was unlucky and he was not offered this position which he would really have liked.
+* Despite the rather harsh climate, the city of St Petersburg had great attractions for Jacob(II) Bernoulli since his uncle Daniel Bernoulli had worked there with Euler.
+* In fact Jacob(II) married a granddaughter of Euler in St Petersburg but, tragically, the city was to lead to his death.
+* St Petersburg, built on 42 islands in the Neva River, is a city of waterways and bridges and because of this it is called the "Venice of the North." This has great attraction but Jacob (II) Bernoulli drowned, while still only 29 years of age, in the Neva River while he was swimming.
 
 Born 17 October 1759, Basel, Switzerland. Died 15 August 1789, St Petersburg, Russia.
 

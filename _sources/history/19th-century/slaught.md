@@ -7,10 +7,10 @@ orderid: 1861
 title: Slaught, Herbert Ellsworth
 born: 1861
 died: 1937
-keywords: Mathematics, College Algebra, Theory of Equations, Lagrange, Cubic Equation, Sigma Mu Sigma, MAA President
-description: Herbert Ellsworth Slaught was a mathematician who authored textbooks, developed a teaching approach & formulas, proposed a nomenclature system, co-founded an honor society, and was president of the Mathematical Association of America.
+keywords: herbert ellsworth slaught,slaught
+description: Herbert Ellsworth Slaught was an American mathematician who became president of the Mathematical Association of America.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Herbert Ellsworth Slaught**  was an American mathematician who became president of the Mathematical Association of America.
 
 ### Mathematical Profile (Excerpt):
-1. Authored or co-authored numerous textbooks, including: An Introduction to College Algebra (1927), Elementary Algebra (1941), andIntroduction to the Theory of Equations (1947).
-2. Developed a teaching approach that emphasized the history and theory of equations and encouraged students to solve problems.
-3. Developed a series of algebraic formulas based on the Lagrange approach to solving equations.
-4. Devised the first general cubic equation solver via the use of elliptic functions.
-5. Proposed a multi-level system of nomenclature which paved the way for the modern use of variables.
-6. Co-founded the Sigma Mu Sigma honor society in mathematics aimed at encouraging mathematical scholarship.
-7. Emeritus faculty member of the American Mathematical Society and a Fellow of the American Association for the Advancement of Science.
-8. Served as president of the Mathematical Association of America from 1946 to 1947.
+* The name Ellsworth was chosen by his parents to honour Colonel Ephraim Elmer Ellsworth who had been killed in the civil war on 24 May 1861.
+* Herbert's parents had been married in Hector, New York in 1838 and had lived mainly on their farm on the east shore of Seneca Lake.
+* However, at the time that Herbert was born, his father was working in Watkins, New York and the family had moved there although it was only about 10 km from their farm.
+* Slaught himself has said that he would probably have spent his life working on the farm if it had not happened, and the farm was apparently not a very good one.
+* Slaught, with his invalid mother, a sister and two brothers, moved to Hamilton, New York, in 1875.
+* Slaught attended Colgate Academy in Hamilton until he graduated in 1879.
+* Slaught was quickly promoted at the Peddie Institute, first to assistant principal in 1886, then to principal in 1889.
+* So in 1892 Slaught accepted a two-year appointment to one of the first three fellowships awarded by the Department of Mathematics at the University of Chicago, which was just then opening its doors.
+* Chicago had not been Slaught's first choice, for he had planned to undertake research for his doctorate at Johns Hopkins University and had applied for a fellowship.
+* Slaught soon received promotion at the University of Chicago.
+* Slaught remained at Chicago for the rest of his career, retiring from his chair in 1931.
+* Many students who had studied calculus before, learned what the subject really meant in Professor Slaught's class.
+* During 1902-3 Slaught travelled in Europe attending lectures by the leading mathematicians.
+* The proposition took a more definite shape, under Slaught's impetus, at the April 1914 meeting of the Chicago Section of the Society.
+* Slaught also became active in the organisation of the Mathematical Association of America and served as its President in 1919.
+* Slaught was chairman of the local organising committee.
+* Slaught acted as toastmaster at a joint dinner for all three societies.
+* We can see from Slaught's work for many societies and associations which were interested in secondary school teaching that he had a strong interest in that area.
+* Professor Slaught's manner was entirely unpretentious and free from the slightest affectation.
 
 Born 21 July 1861, Watkins, New York, USA. Died 21 May 1937, Chicago, Illinois, USA.
 

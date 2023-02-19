@@ -7,10 +7,10 @@ orderid: 1904
 title: Davies (2), Evan Tom
 born: 1904
 died: 1973
-keywords: Differential Geometry, Calculus of Variations, Harmonic Analysis, Partial Differential Equations, Wavelets, Whitehead Prize, PhD advisor
-description: E.T
+keywords: evan (ianto) davies,davies
+description: E T Davies graduated from the University of Wales at Aberystwyth and then studied in Rome and Paris. After lecturing at King's College London he was appointed to a professorship in Southampton. He worked in Differential Geometry and the Calculus of Variations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **E T Davies** graduated from the University of Wales at Aberystwyth and then studied in Rome and Paris. After lecturing at King's College London he was appointed to a professorship in Southampton. He worked in Differential Geometry and the Calculus of Variations.
 
 ### Mathematical Profile (Excerpt):
-1. Received a Prize Fellowship from the Leverhulme Trust in 2000 for research into harmonic and related functional analysis.
-2. Published a book, “Harmonic Analysis & Partial Differential Equations” in 2018, which provided an up-to-date overview of the subject.
-3. Developed a machine-assisted proof for the convergence rate of multilevel solvers for elliptic equations, which was published in 1992.
-4. Co-authored the book “Introduction to Wavelets and Other Filtering Methods in Finance and Economics” in 1998.
-5. Published numerous papers and lectured extensively on the topics of harmonic analysis, measure theory, and partial differential equations.
-6. Served as advisor to several PhD students and post-doctoral researchers. 
-7. Received the Whitehead Prize in Pure Mathematics from the London Mathematical Society in 2002.
-8. Appointed Professor of Mathematics at the University of Bristol in 1996.
+* Davies attended primary school in Pencader but for his secondary education he attended Llandysul County School, an excellent high school in the nearby market town of Llandysul.
+* This secondary school, at which Davies won a free place, had an outstanding headmaster William Lewis.
+* Lewis had been a fifth Wrangler in the Mathematical Tripos at Cambridge, and it was through him that Davies became attracted to mathematics and physics.
+* Remarkably Davies was not the only pupil at the school who was outstanding in mathematics for, one year older than Davies, was Evan James Williams; the two boys became close friends.
+* After taking his Higher School Certificate at Llandysul County School, Davies entered the University College of Wales at Aberystwyth in 1921.
+* The person who influenced Davies most during these years was Paul Dienes, a Hungarian who had worked under Émile Borel and Jacques Hadamard in Paris.
+* Davies was taught by both Dienes and Young during his undergraduate years in Aberystwyth.
+* At Swansea, Davies had worked under Dienes who advised him to work on the absolute differential calculus.
+* The leading expert on the absolute differential calculus was Tullio Levi-Civita who lectured in Rome, so in August 1926, following Dienes' advice, Davies travelled to Rome.
+* This was the first visit of many that Davies made to Rome where, as intended, he studied under Levi-Civita.
+* Rome was an enjoyable but stressful experience and Davies' health broke down through overwork.
+* In 1930 Davies returned from the Continent to take up a post as assistant lecturer at King's College, part of the University of London.
+* Davies loved spending time on the Continent, both for holidays and for discussing research at various universities.
+* Davies moved to Bristol to carry on with his university duties.
+* The University College, Southampton, offered Davies the chair of mathematics in 1946, a few months after his promotion to a Readership at King's College.
+* Retirement did not mean an end to mathematical research for Davies for, after he retired, he went to Canada to spend two years as Professor of Mathematics at the University of Calgary.
+* In 1971 Davies, remaining in Canada, took up an appointment as Professor of Mathematics at the University of Waterloo.
+* In his first few papers, Davies used the Lie derivative to examine the action of an infinitesimal transformation on a submanifold of a Riemannian manifold.
+* In papers such as On the invariant theory of contact transformations (1953) Davies studies invariant theory of contact transformations by using tensor calculus.
+* Davies had many interests outside mathematics.
 
 Born 24 September 1904, Pencader, Carmarthenshire, Wales. Died 8 October 1973, Waterloo, Ontario, Canada.
 

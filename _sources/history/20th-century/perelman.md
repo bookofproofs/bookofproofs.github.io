@@ -7,10 +7,10 @@ orderid: 1966
 title: Perelman, Grigori Yakovlevich
 born: 1966
 died: 0
-keywords: Grigori Perelman, Poincaré Conjecture, Fields Medal, Geometrization Conjecture, Ricci flow, number theory, geometry & topology
-description: Grigori Perelman is a Russian mathematician who famously proved the Poincaré Conjecture and refused to accept awards for his work.
+keywords: grigori yakovlevich perelman,perelman
+description: Grigori Perelman is a Russian mathematician who proved the Poincaré Conjecture and who refused to accept a Fields Medal or the $1 000 000 Clay Prize.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Grigori Perelman** is a Russian mathematician who proved the Poincaré Conjecture and who refused to accept a Fields Medal or the $1 000 000 Clay Prize.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the soul conjecture, a landmark result in Riemannian geometry. 
-2. He settled the Poincaré conjecture, one of the most notorious problems in mathematics. 
-3. Designed a new algorithm for solving the Geometrization Conjecture of Thurston, which was used by Richard S. Hamilton to successfully settle the conjecture. 
-4. Introduced and studied the Alexandrov Spaces, an important technique in analysis. 
-5. Developed a new approach to Ricci flow, a powerful tool for studying geometric structures and providing rigorous proofs for various underlying conjectures. 
-6. Discovered a novel method for describing sum-free sets, a topic in elementary number theory. 
-7. Wrote several influential articles and volumes of research on topics in the fields of geometry and topology.
+* Grigori Yakovlevich, their first child, is often known by the name Grisha.
+* Rukshin quickly  saw Perelman's potential even though at first there was little to distinguish him from other bright children in the group.
+* There developed a bond, an understanding, between the two with Perelman becoming Rukshin's favourite pupil.
+* In the summer of 1980 Rukshin tutored Perelman in English so that he could enter Leningrad's Special Mathematics and Physics School Number 239 in September of that year.
+* To allow Perelman to get this intense tuition, learning the English covered in four years of schooling in a few weeks, the Perelman family had to remain in Leningrad over the summer rather than going to the country which would have been the norm.
+* The class that Perelman entered in School 239 was unusual in that the group of highly talented mathematicians tutored by Rukshin were put into the same class.
+* As well as mathematics, Ryzhik ran a chess club on one evening a week which Perelman attended, showing considerable talents at the game.
+* When he was fifteen, Perelman attended the summer camp run by Rukshin.
+* This was the first time that he had spent a night away from his mother but the bond between Rukshin and Perelman helped the potentially difficult situation.
+* Perelman was already interested in the violin and classical music but Perelman was able to broaden his musical interests.
+* Although he would attend camps with Rukshin, Perelman never took part in the trips arranged by Ryzhik.
+* In January 1982 Perelman was chosen as a potential member of the 1982 Soviet Mathematical Olympiad team.
+* Perelman excelled and the next step was a two-day session in Odessa in April when they were given harder problems than those expected at the Olympiad competition.
+* Perelman achieved full marks as he did at the International Mathematical Olympiad competition in Budapest in July.
+* Being a member of the Soviet team gave Perelman automatic entry to university.
+* Perelman entered Leningrad State University in autumn 1982.
+* Eventually Rukshin had to stop Perelman assisting at the summer camps.
+* Aleksandr Danilovic Aleksandrov wrote to the director requesting that Perelman be allowed to undertake graduate work under his supervision at the Leningrad branch of the Steklov Mathematics Institute.
+* Perelman defended his thesis Saddle Surfaces in Euclidean Spaces in 1990.
+* The invitation allowed Perelman to spend several months at IHES working with Gromov on Aleksandrov spaces.
+* Perelman's first major paper, written jointly with Burago and Gromov, was A D Aleksandrov spaces with curvatures bounded below (1992).
+* After visiting the IHES near Paris, Perelman returned to the Steklov Mathematics Institute in Leningrad but, thanks to Gromov, Perelman was invited to the United States to talk at the 1991 Geometry Festival held at Duke University in Durham, North Carolina.
+* In 1992 Perelman was invited to spend the autumn semester at the Courant Institute, New York University, on a postdoctoral fellowship, and the spring 1993 semester at Stony Brook, a campus of the State University of New York, again funded by a fellowship.
+* While Perelman was in the United States in 1992, his mother stayed with friends in New York, his father had earlier emigrated to Israel, and Perelman's young sister Lena was still being educated in St Petersburg (Leningrad returned to its original name of St Petersburg in 1991).
+* Perelman attended a conference in Israel in 1993 then accepted a two-year Miller Research Fellowship at the University of California, Berkeley.
+* Perelman was invited to address the International Congress of Mathematicians in Zürich in 1994 and he gave the lecture Spaces with curvature bounded below.
+* When Perelman was going to lectures at the Institute for Advanced Study he attended a lecture there by Hamilton and talked with him after the lecture.
+* When he was a Miller fellow at Berkeley, Perelman attended some further lectures by Hamilton and he began to understand why Hamilton could not make any further progress towards proving the Poincaré Conjecture using the Ricci flow.
+* While he was in the United States, Perelman received several requests asking him to apply for professorships.
+* Perelman had realised that Hamilton was making no progress with the Poincaré Conjecture when he read a paper Hamilton published in 1995 and, in the following year, he wrote to Hamilton explaining that he might have a way round the problem and offering to collaborate with him.
+* When he received no reply, Perelman seems to have decided to work on solving the Poincaré Conjecture alone.
+* On 11 November 2002, Perelman put his paper The Entropy Formula for the Ricci Flow and Its Geometric Applications on the web.
+* It took some time for experts in the field to convince themselves that Perelman had solved the Poincaré Conjecture and a little longer to work through the details to see that he had also solved the Thurston Geometrization Conjecture.
+* In March 2010 the Clay Mathematics Institute announced that Perelman had met the conditions for the award of one million US dollars which they had offered for the solution of the Poincaré Conjecture.
 
 Born 13 June 1966, Leningrad, USSR (now St Petersburg, Russia).
 

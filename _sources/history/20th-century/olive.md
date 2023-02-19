@@ -7,10 +7,10 @@ orderid: 1923
 title: Olive, Gloria
 born: 1923
 died: 2006
-keywords: Gloria Olive, Mathematics, University of Toronto, ICM, ADE, NSERC, Elizabeth L. Scott Award
-description: Gloria Olive, a prominent American mathematician, earned her Masters from University of Toronto, represented Canada at ICM, led ADE research group, won NSERC funding, published research, and received Elizabeth L. Scott Award.
+keywords: gloria olive,olive
+description: Gloria Olive was an American mathematician who worked on on applications of generalised powers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gloria Olive** was an American mathematician who worked on on applications of generalised powers.
 
 ### Mathematical Profile (Excerpt):
-1. Completed a master's degree in Mathematics from the University of Toronto.
-2. Represented Canada at the International Congress of Mathematicians (ICM).
-3. Organised an interdisciplinary workshop on mathematical models of data science.
-4. Established a research group called Algorithmic Data Exploration (ADE).
-5. Awarded multiple National Science and Engineering Council (NSERC) grants for her research.
-6. Developed new techniques for solving data science challenges.
-7. Published several breakthrough research papers in top mathematics journals.
-8. Led numerical experiments for successful problem solving in data analysis.
-9. Developed the mathematical model for a new generation of artificial intelligence algorithms.
-10. Received the prestigious Elizabeth L. Scott Award for excellence in mathematics research.
+* Lazar Olive was born on 13 October 1876 in Poland (although formally it was Russia at this time) and emigrated to the USA.
+* The Registration shows he was naturalised, married to Flora Olive and living at 534 West 178 Street, apartment 23, in Manhattan, New York City.
+* Lazar and Florence Olive had two children, a son Milton Olive born on 1 April 1914 in New York, who became a photographer, and Gloria Olive, the subject of this biography.
+* In 1930, the Olive family moved to Brighton Beach, Brooklyn.
+* Gloria Olive completed her school education at Abraham Lincoln High School in Brooklyn, New York, graduating in 1940.
+* After graduating, Olive was appointed as a Graduate Assistant at the University of Wisconsin where she spent the two academic years 1944-46.
+* From Wisconsin, Olive moved to the University of Arizona in 1946 where she was appointed as an instructor.
+* Her next appointment in Oregon State University in 1950 was as a Graduate Assistant and after this one-year post she left the academic world for a short time, taking a job as a cryptographer in the U.S. Department of Defense in Washington, D.C. After a year in Washington, Olive returned to an academic position being appointed to Anderson College in 1952.
+* At Anderson College, Olive built up the mathematics department and began to become interested in mathematical research, in particular studying generalised powers.
+* C C MacDuffee, who had taught Olive at the University of Wisconsin, agreed to accept a visiting professorship at Oregon State University so that he could supervise her doctoral thesis.
+* Sadly he died in 1961 and Olive was left without a thesis advisor.
+* Olive continued to work at Anderson College until 1968 when she accepted a professorship at the University of Wisconsin-Superior.
+* Olive stayed at the University of Wisconsin-Superior until 1972, the year after it joined the University of Wisconsin, and went to New Zealand where she was appointed as a senior lecturer at the University of Otago.
+* Her exam results were consistently higher than others, and examiners meetings took a familiar form, Gloria putting her arguments against scaling, with a freshness as though she were making them for the first time, and with so much energy that for much of the meeting she was standing, and frequently gesturing, at her seat, the rest of us putting, with stony patience (if only in our minds), the counter-arguments.
+* My own relationship with Gloria was instantly turbulent.
+* Much of Olive's research was on applications of generalised powers.
+* Towards the end of her life, Gloria relied on a thick magnifying glass to read, but eventually even that proved ineffective, and when she was no longer able to walk she consciously allowed herself to die.
+* There was a death notice in the 'Otago Daily Times' but, at Gloria's request, no funeral.
 
 Born 8 June 1923, New York City, USA. Died 17 April 2006, Dunedin, New Zealand.
 

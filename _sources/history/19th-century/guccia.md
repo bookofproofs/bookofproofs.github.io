@@ -7,10 +7,10 @@ orderid: 1855
 title: Guccia, Giovanni Battista
 born: 1855
 died: 1914
-keywords: algebraic geometry, absolute time, local time, Guccian ellipse, circumference, interpolation, spherical astronomy
-description: Giovanni Battista Guccia revolutionized mathematics and astronomy by introducing absolute time, the "Guccian ellipse," logarithms, and more.
+keywords: giovanni guccia,guccia
+description: Giovanni Battista Guccia was an Italian mathematician who worked in algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Giovanni Battista Guccia** was an Italian mathematician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered the concept of absolute time, as distinct from local time.
-2. Created the first modern treatise on humanistic geography.
-3. Introduced quadrants for the measurement of time and astronomical calculations.
-4. Developed the "Guccian ellipse" or "ellipsis" as a means of solving plane problems in solid geometry.
-5. Developed an equation to calculate a circle's circumference.
-6. Developed the first tables and formulas to more accurately measure the length of a year.
-7. Discovered the concept and technique of interpolation, enabling more precise calculations.
-8. Established the first major school of spherical astronomy and geometry.
-9. Developed logarithm tables and formulae, allowing more accurate trigonometric calculations.
-10. Conducted early investigations into the properties and properties of light.
+* Giovanni was born in Sicily into an important wealthy Sicilian family.
+* His father was related to the Marquis of Ganzaria and no expense was spared to give Giovanni a good education.
+* Guccia began his studies at the university in Palermo but he later undertook research under Cremona in Rome.
+* While a student at Rome, Guccia attended the French Association for the Advancement of Science which was held at Rheims.
+* In 1880 Guccia submitted his doctoral dissertation on a class of surfaces representable point by point on a plane to the University of Rome and after successfully defending his thesis he returned to his native town of Palermo.
+* Guccia himself had four articles appear in the first volume of this publication, the first on Cremona transformations and a generalisation of a theorem due to Hirst, while the second was on a generalisation of a theorem due to Max Noether.
+* When Guccia's society passed a statute allowing foreign members in February 1888, it had rapidly reached its goal of becoming a top quality international society with a leading mathematical publication.
+* In 1889 Guccia was appointed to the chair of geometry at Palermo which he held for the rest of his life.
+* Guccia became editor of all these publications.
+* As we have indicated above, Guccia's work was on geometry, in particular Cremona transformations, classification of curves and projective properties of curves.
 
 Born 21 October 1855, Palermo, Kingdom of the Two Sicilies (now Italy). Died 29 October 1914, Palermo, Italy.
 

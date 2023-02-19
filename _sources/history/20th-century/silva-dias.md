@@ -7,10 +7,10 @@ orderid: 1913
 title: Dias, Cândido Silva
 born: 1913
 died: 1998
-keywords: Cândido Silva Dias, analytic function theory, Dirichlet series, Dirichlet's theorem, number theory, prime numbers, revised definition
-description: Cândido Silva Dias, a Brazilian mathematician, extended Dirichlet's theorem regarding prime numbers, advancing the fields of analytic and algebraic number theory.
+keywords: cândido silva dias,dias
+description: Cândido Silva Dias was a Brazilian mathematician who worked in analytic function theory.
 references: bookofproofs$6909
-contributors: @Paulo-Cesar-Xavier-Duarte,bookofproofs,@ChatGPT
+contributors: @Paulo-Cesar-Xavier-Duarte,bookofproofs
 
 ---
 
@@ -23,11 +23,20 @@ contributors: @Paulo-Cesar-Xavier-Duarte,bookofproofs,@ChatGPT
 **Cândido Silva Dias** was a Brazilian mathematician who worked in analytic function theory.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the concept of multiple Dirichlet series in a systematic way and presented it in his 1965 publication.
-2. Actively collaborated with Alberto Rodrigues da Silva to propose extensions to Dirichlet's theorem, helping to create a major advance in the field of number theory.
-3. Developed a number of major results in analytic and algebraic number theory, many of which were collected in two survey papers published in 1967 and 1969.
-4. Played a major role in extending the concept of Dirichlet's theorem, which is one of the most important theorems in mathematics and number theory.
-5. Developed a revised definition of the Dirichlet's theorem concerning prime numbers, which was an influential modern interpretation.
+* Since his childhood he used to play with numbers because his father was an engineer and he enjoyed stimulating Silva Dias to do mathematics.
+* As a result of this time playing with numbers, Silva Dias had an early start with arithmetic.
+* Teachers and also the students had the possibility to live at the school, and this was where Silva Dias boarded.
+* During his summer vacation of 1938-39, Silva Dias presented a course on Mathematical Analysis which some engineers had requested.
+* Silva Dias married Odila Leite Ribeiro in 1937; they had four children: Cândido Leite da Silva Dias (born 1938), now retired, Maria Odila Leite da Silva (born 1940), a University Professor now retired, Guilherme Leite da Silva Dias (born 1942), a University Professor now retired, and Pedro Leite da Silva Dias, a University Professor.
+* Silva Dias remained in this position until 1941.
+* In August 1943 Silva Dias took part in the examining board for the doctoral examinations of the graduate Benedito Castrucci (1909-1995).
+* On 6 July 1943 Silva Dias presented the work "Application of the theory of the analytical functionals to the study of a solution for a differential equation of infinite order" to the Brazilian Academy of Sciences, communicated by Francisco de Oliveira Castro, which was published in its Annals.
+* In 1946 Silva Dias was appointed professor of infinitesimal calculus at the newly founded College of Industrial Engineering.
+* In July 1948 Silva Dias was transferred to the University of Chicago and was nominated "Research Associate" in the mathematics department.
+* Silva Dias attended a seminar on "Fiber Spaces" with Professor Shiing-shen Chern and conferences with Professor Norman Steenrod on Algebraic Topology.
+* In December 1949, Cândido was elected President of the Mathematical Society of São Paulo.
+* In August 1950, Silva Dias returned to the United States to represent Brazil together with Professor Leopoldo Nachbin at the Union Conference that discussed the statutes of an International Union of Mathematics that had just been founded.
+* In June 1951, Silva Dias presented his work on analytic functional structure to the Brazilian Academy of Sciences.
 
 Born 31 December 1913, Mococa, São Paulo, Brazil. Died 15 September 1998, São Paulo, São Paulo, Brazil.
 

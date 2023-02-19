@@ -7,10 +7,10 @@ orderid: 1923
 title: Flett, Thomas Muirhead
 born: 1923
 died: 1976
-keywords: Thomas Flett, Real Analysis, Morse-Thue, Prime Number Theorem, Polygonal Shapes, Euler's Formula, Irrational Numbers
-description: Thomas Flett, English mathematician, developed complex Morse-Thue sequence, proof of Prime Number Theorem, and method to calculate triangles in polygonal shapes. He also established math foundation for Euler's formula, subtracted irrational numbers and published on qualitative theory of diff. equations.
+keywords: thomas flett,flett
+description: Thomas Flett was an Eglish mathematician who worked in Real analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Thomas Flett** was an Eglish mathematician who worked in Real analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a Morse-Thue sequence, which is a complex mathematical sequence with interesting algorithmic properties.
-2. Developed a new set of equations which provided deeper insights into the previously unknown properties of prime numbers.
-3. Discovered a proof of the Prime Number Theorem, which put forth the idea that the density of primes within large intervals is distributed in a predictable manner.
-4. Invented a method to calculate the number of triangles in any given polygonal shape.
-5. Established a mathematical foundation to why Euler's formula for polyhedra works.
-6. Developed a novel method for subtracting irrational numbers.
-7. Puclished a paper on the qualitative theory of differential equations.
+* James and Margaret Flett were married in Kirkintilloch, Dumbarton, Scotland in 1916 and moved to London shortly before the birth of their son Thomas.
+* Flett spent three years working at Dollis Hill and during this time he was able to continue his education by enrolling as a part-time student at Acton Technical College.
+* This College trained their students to take the University of London degree examinations and Flett was awarded first class Honours in the London University B.Sc. General Degree in Mathematics and Physics.
+* In 1943 Flett left the Post Office Research Station at Dollis Hill and spent two years working at the Simmonds Aerocessories Company at Brentford, London.
+* Flett was employed as a research physicist and again this was working for a company who were heavily involved in contributing to the war effort.
+* While working at the Simmonds Aerocessories Company, Flett continued his higher education at Chelsea Polytechnic and, in 1945, he was awarded first class Honours in the B.Sc. Special Degree Examinations in Mathematics.
+* Dr A E Ludlam was the Head of the College's Mathematics Department at the time when Flett studied there.
+* Rex Tims, who has a biography in this archive, went on to have an outstanding career as a mathematician and he learnt much from Flett.
+* Both Tims and Dunnage acknowledged that Flett's 1946-47 Analysis course had been an inspiration.
+* In 1947 Flett was awarded a University of London Sherbrooke Studentship which meant that he could undertake research at the University of Cambridge.
+* At Cambridge Flett's advisor was J E Littlewood and he was awarded a Ph.D. from Cambridge in 1950 for his thesis Some applications of estimates of exponential sums to the theory of functions.
+* At Cambridge one of Flett's tasks was working on rewriting J E Littlewood's Lectures on the theory of functions (1944).
+* While undertaking research at Cambridge, Flett married Joan F Ayers.
+* Tom and Joan Flett became well-known as authors of papers and books on dancing and we shall refer below to this second of Flett's passions.
+* Let us also note that in 1948, while he was undertaking research at Cambridge, Flett was offered a permanent lectureship in mathematics at Chelsea Polytechnic.
+* Choosing to continue his research at Cambridge, and so have an uncertain future regarding employment, must have been difficult but Flett's passion for mathematics meant that he had to pursue his research.
+* After completing his Ph.D., Flett did indeed get a good position for he was appointed as an Assistant Lecturer in Pure Mathematics at the University of Liverpool in 1950.
+* Of course, this paid considerably less than what he might have earned had he taken the Chelsea Polytechnic position, but Flett never regretted his decision.
+* When Flett came to Liverpool in 1950 he was already an established teacher with well considered views on syllabuses and teaching methods in analysis at all levels.
+* The best known of Flett's research students is U Kuran who came from Turkey to work with Flett for a Ph.D. He later joined the staff and is now a Reader in the department, with a solid reputation in Analysis.
+* Over 200 papers listed in Mathematical Reviews contain a review or a title that refers to Flett, often referring to 'Flett's mean value theorem', 'Flett potentials' or 'Flett's function'.
+* During his time at Liverpool, Flett spent a term as Visiting Professor at the Middle East Technical University in Ankara, Turkey, in 1964, and he spent the academic year 1966-67 in the United States as Visiting Professor at the University of Washington in Seattle.
+* Flett wrote a number of books and, perhaps rather surprisingly, they are not all on mathematics.
+* Flett also wrote An Early Nineteenth Century Arithmetic Exercise Book (1961) which describes an exercise book written by Edward Winder, a schoolboy in Wyresdale, a little valley some seven miles south-east of Lancaster, around 1827.
+* A second paper, written jointly by Flett and his wife Joan F Flett, Some Notes in an Old Wyresdale Exercise Book (1960), describes various cures inserted by Winder in blank spaces in his arithmetic exercise book.
+* Returning to the interest that Flett and his wife had in dance we note that they had published the jointly-authored books Traditional Dancing in Scotland (1964, re-issued 1985), Traditional Step-Dancing in Lakeland (1979) and Traditional Step-Dancing in Scotland (1996).
+* After Professor Flett's death their research into the step-dancing of Cumbria was published by the English Folk Dance and Song Society in "Traditional Step-Dancing in Lakeland" in 1979.
+* A book on the solo dances of Scotland was completed by Mrs Flett and was published as "Traditional Step-Dancing in Scotland" in 1996.
+* However those of us who knew Tom Flett personally have a double sense of loss - we have not only lost a colleague with good judgement who was contributing actively in many ways, but we have lost a personal friend who was both caring and kind.
 
 Born 28 July 1923, London, England. Died 13 February 1976, Sheffield, England.
 

@@ -7,10 +7,10 @@ orderid: 1936
 title: Allan, Graham
 born: 1936
 died: 2007
-keywords: functional analysis, Written Mathematics, Lonely Paths, International Journal of Mathematics, New Realities Project, Senior Whitehead Prize, Royal Belgian Mathematical Society
-description: Graham Allanwas an English mathematician renowned for his work in functional analysis, authoring books, editing journals, leading research projects, and delivering lectures that earned him the Senior Whitehead Prize and Gold Medal of the Royal Belgian Mathematical Society.
+keywords: graham allan,allan
+description: Graham Allan was an English mathematician who specialised in functional analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Graham Allan** was an English mathematician who specialised in functional analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored the book Written Mathematics: A Mathematician's Journey (2018), which provides an accessible introduction to the field of mathematics.
-2. Authored the book Lonely Paths in Mathematical Science (2009), which contains examples of interesting equations and solutions.
-3. Served as editor-in-chief of the International Journal of Mathematics from 2004 to 2011.
-4. Participated in the 36-year-long collaboration project "The New Realities Project" at Cambridge University, investigating the properties of the real world through mathematics.
-5. Led a large undergraduate mathematics class at Cambridge University for several years.
-6. Delivered keynote lectures at international mathematics conferences.
-7. Awarded the Senior Whitehead Prize by the British Mathematical Colloquium in 2007.
-8. Received the Gold Medal of the Royal Belgian Mathematical Society in 2005.
+* Graham attended Minchenden Grammar School in Southgate and his outstanding mathematical achievements led to him being awarded an exhibition in mathematics to Sidney Sussex College, Cambridge, at the age of eighteen.
+* For the two years 1955-57 Allan served with the Royal Air Force, spending most of the time stationed in East Anglia at a radar station.
+* After completing his doctorate, Allan was elected a Fellow and Director of Studies of Churchill College, Cambridge.
+* Allan was appointed to lead and build up a group in modern mathematical analysis; he was very successful in leading the development of a new undergraduate syllabus, and in building up a strong research team.
+* In order to gain further understanding of why Allan wished to return to Cambridge, we should look at this point at his leading mathematical contributions.
+* Between 1976 and 1983 only one of Allan's papers was published, so it become easy to understand how he wished to return to an environment where he could concentrate more on the research he loved.
+* In fact Allan had over 20 research students, including include John Rennison (Kent), Ian Craw (Aberdeen), Garth Dales (Leeds), Peter McClure (Manitoba), Peter Dixon (Sheffield), Ghotsi Haghany (Isfahan), Thomas Ransford (Laval), Michael White (Newcastle), Frederic Gourdeau (Laval) and Thomas Vils Pedersen (Copenhagen).
+* Always Graham was kind, quiet, thoughtful, and considerate; he inspired great affection in his research students and others; he was very modest about his own achievements.
 
 Born 13 August 1936, Southgate, Middlesex, England. Died 9 August 2007, Cambridge, England.
 

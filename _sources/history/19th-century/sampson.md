@@ -7,10 +7,10 @@ orderid: 1866
 title: Sampson, Ralph Allen
 born: 1866
 died: 1939
-keywords: Ralph Sampson, Astronomy, John Hopkins Univ., Mathematics, National Maths Comp., Academic Decathlon, Soddy Number Theory
-description: Ralph Sampson was an Irish Astronomer who won the Academic Decathlon & was the youngest student to complete honors courses at John Hopkins Univ. for his research on Soddy Number Theory.
+keywords: ralph sampson,sampson
+description: Ralph Sampson was an Irish astronomer who worked on the theory of the motions of Jupiter's four Galilean satellites.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ralph  Sampson** was an Irish astronomer who worked on the theory of the motions of Jupiter's four Galilean satellites.
 
 ### Mathematical Profile (Excerpt):
-1. Lycée Jean-Baptiste Poquelin (or Le Lycée), Paris: In 1972, when Sampson was 10 years old, he received a scholarship to attend this prestigious school and quickly excelled in mathematics.
-2. John Hopkins University: In 1975, Sampson began attending this prestigious school and became the valedictorian of his class in 1979.
-3. National Mathematics Competitions: Sampson won the prestigious Academic Decathlon at the age of 15, studying mathematics across a variety of topics.
-4. College Mathematics Courses: Sampson consistently received excellent grades in college mathematics courses and was the youngest student to ever complete the honors courses at John Hopkins.
-5. First Prize in Mathematics: In 1979, Sampson was awarded first prize for his mathematical research project on the Soddy Number Theory.
+* Ralph was the fourth of his parents' five children and was born in Schull, County Cork, Ireland, where his father was working at the time.
+* After two years of illness James Sampson died and his family continued to struggle financially.
+* Only at age fourteen did Ralph's formal education begin when he entered the Liverpool Institute.
+* After two years as a lecturer in mathematics in London, Sampson returned to Cambridge in 1891 when he became the first holder of the Isaac Newton Studentship in Astronomy and Physical Optics.
+* Although Sampson had been brought up as an Anglican, his wife belonged to the Society of Friends.
+* Sampson used a series of accurate observations from Harvard College Observatory to amend the existing theory of the satellite orbits, but the disagreement between theory and observation persisted.
+* Sampson also did a superb job editing one volume of the papers of his former tutor, John Couch Adams.
+* The whole work was published in several volumes between 1896 and 1900, with Sampson's volume appearing in 1900.
+* In 1910 Sampson was appointed to a professorship at the University of Edinburgh and also as Astronomer Royal for Scotland.
+* More significant was that during Sampson's presidency, women were admitted as fellows on equal terms to men.
+* Sampson received many honours for his contributions.
 
 Born 25 June 1866, Schull, Co Cork, Ireland. Died 7 November 1939, Bath, England.
 

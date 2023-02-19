@@ -7,10 +7,10 @@ orderid: 1648
 title: Ceva (2), Tommaso
 born: 1648
 died: 1737
-keywords: Tommaso Ceva, geometry, gravity, arithmetic, numerical integration, limits, Fundamental Theorem of Algebra
-description: Tommaso Ceva, a Jesuit, revolutionized geometry, gravity, arithmetics and numerical integration by solving geometric problems, determining relationships between zeros of equations and coefficients and establishing the Fundamental Theorem of Algebra.
+keywords: tommaso ceva,ceva
+description: Tommaso Ceva was an Italian Jesuit who worked in geometry, gravity and arithmetic.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Tommaso Ceva** was an Italian Jesuit who worked in geometry, gravity and arithmetic.
 
 ### Mathematical Profile (Excerpt):
-1. Established a new method for solving geometric problems.
-2. Identified the law of permutation of roots of the equations of higher degree.
-3. Developed a method of numerical integration
-4. Founded the modern theory of the centroids of quadriatic surfaces.
-5. Pioneered the use of the method of limits and exhaustion in calculus.
-6. Demonstrated basic principles of the fundamental theorem of algebra.
-7. Determined the relationship between multiple zeros of equations and the coefficients of the equation.
-8. Improved Bernoulli’s method of integration in calculus.
-9. Discovered the formula for the volume of an ellipsoid.
-10. Established the first proof of the Fundamental Theorem of Algebra.
+* Their father, Carlo Francesco Ceva (1610-1690), was a man who undertook many different activities such as buying and selling houses and land.
+* They had several children: Laura Maria Francesca Elisabetta Ceva (born 1640), Clara Giustina Bonaventura Ceva (born 1642), Iginio Nicolò Ceva (born 1644), Francesco Ceva (born 1645), Giovanni Benedetto Ceva (who also has a biography in this archive, born 1647), Tomasso Ceva (the subject of this biography, born 1648), Teresa Francesca Ceva (born 1650), and Cristoforo Vittore Ceva (born 1652).
+* Tomasso Ceva's cousin, also named Carlo Francesco Ceva, was the Bishop of Tortona.
+* Tommaso Ceva became professor of mathematics and rhetoric at the Jesuit College of Brera in Milan and taught rhetoric, moral theology and mathematics there for more than forty years.
+* During most of this time the city was under Spanish rule and Ceva made sure of their support by writing pieces to celebrate civic events and dedicating works to Guzman, the Spanish governor of Milan.
+* Many would suggest that Ceva's success in persuading Saccheri to undertake research in mathematics was his greatest contribution to the subject.
+* the primary subject of an extensive correspondence between Ceva and Guido Grandi.
+* Ceva proposed the problem; Grandi reported that such curves had well-defined properties.
+* Grandi replied to Ceva's questions not only in letters, but also in a work on the logarithmic curve published in 1701 with an appended letter by Ceva.
+* Ceva was a close friend of the mathematician Pietro Paolo Caravaggio (1617-1688).
+* Like Ceva, he published both mathematics (his most famous work is In Geometria Male Retaurata (1650)) and poetry.
+* Ceva also formed a close friendship with Caravaggio's son, also named Pietro Paolo Caravaggio (1658-1723), who was an assistant to his father at the Milan College, becoming professor of mathematics there in 1688 following his father's death.
+* However, in many ways Tommaso Ceva was more of a Jesuit humanist than a mathematician, spending more time producing Latin prose than he did mathematics.
+* It return, Joseph named Ceva 'Caesarian Theologian'.
+* Ceva immediately recognised the new rulers and transferred his allegiance to them.
+* We have mentioned some of Ceva's friends above, but there is another friend who we should mention since she played an important role in Ceva's career.
+* Clelia Borromeo founded the Academy for Natural Science in Milan (the Accademia dei Vigilanti) and both Tommaso Ceva and his student Giovanni Saccheri were members of this Academy.
+* Ceva gained much from his frequent visits to the Academy and it was through his friendship with Clelia Borromeo that he made contact with both Vicenzo Viviani and Guido Grandi, corresponding with them on mathematical matters.
+* In addition to this scientific academy, Tommaso Ceva was also a fellow of the literary Academy of Arcadia from 1718.
+* In particular the academy promoted poetry written in the classical Greek or Roman style, so Ceva's poetic style fitted extremely well and his poetry was rated very highly by the Academy.
 
 Born 20 December 1648, Milan, Hapsburg Empire (now Italy). Died 3 February 1737, Milan, Hapsburg Empire (now Italy).
 

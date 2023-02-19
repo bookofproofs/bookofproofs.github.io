@@ -7,10 +7,10 @@ orderid: 1888
 title: Butchart, Raymond Keiller
 born: 1888
 died: 1930
-keywords: Raymond Butchart, War I, Dundee, Raffles College, Malaria, Probability Theory, Mathematical Statistics
-description: Raymond Butchart was a Scottish mathematician who made important contributions to probability theory and mathematical statistics, such as the theory of random walks and the Borel-Cantelli Lemma. He sadly died of malaria on his way home from Raffles College.
+keywords: raymond butchart,butchart
+description: Raymond Butchart was a Scottish mathematician who was badly wounded in World War I and afterwards returned to Dundee as a lecturer. He was appointed Professor of Mathematics at Raffles College Singapore but died of malaria on his way home on his first leave.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Raymond Butchart** was a Scottish mathematician who was badly wounded in World War I and afterwards returned to Dundee as a lecturer. He was appointed Professor of Mathematics at Raffles College Singapore but died of malaria on his way home on his first leave.
 
 ### Mathematical Profile (Excerpt):
-1. Raymond Butchart was a mathematician who made significant contributions to the field of probability theory and mathematical statistics.
-2. He established the theory of random walks and solved the gambler’s ruin problem. 
-3. He also gave a definitive solution to the riddle of Poisson’s games of chance.
-4. He published key papers on the foundations of statistical inference and introduced the concept of the ‘Borel-Cantelli Lemma’.
-5. He was a pioneer in his application of the Laplace transform technique to stochastic processes and applied transform theory to the analysis of probability distributions.
-6. He authored a book on the theory of process management and applied it to the development of random sampling techniques.
-7. He developed analytical solutions to a number of difficult problems in the area of stochastic processes.
+* His mother was  Margaret R Butchart (born in Dundee about 1853).
+* Raymond Butchart was educated at Morgan Academy in Dundee and Dundee High School before matriculating at the University of St Andrews.
+* In fact Butchart did not even travel the 12 miles to St Andrews, for his studies were in University College, Dundee, at that time part of the University of St Andrews.
+* After graduating with a B.Sc. in 1913, Butchart began undertaking research in mathematics at Dundee and at the same time working as a mathematics tutor in the Department.
+* Butchart took the Commission and acted as Brigade Signalling Officer.
+* In 1921 Butchart was awarded his doctorate from the University of St Andrews, married Jean Ainslie Broome, and was promoted to Lecturer in Mathematics in University College, Dundee.
+* It was not to be, for Butchart died of malaria while on the voyage and he was buried at sea, 65 miles South East of Colombo.
+* Raymond Butchart was a member of the Edinburgh Mathematical Society, joining in December 1914.
 
 Born 4 May 1888, Dundee, Scotland. Died 30 March 1930, At sea, 65, miles south-east of Colombo.
 

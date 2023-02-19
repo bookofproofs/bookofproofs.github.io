@@ -7,10 +7,10 @@ orderid: 1892
 title: Burchnall, Joseph Langley
 born: 1892
 died: 1975
-keywords: Joseph Langley Burchnall, Irish Mathematical Society, linear transformations, linear differential operators, Burchnall Operators, Sylvester Medal, General Theory
-description: Joseph Langley Burchnall founded the Irish Mathematical Society, developed linear transformation and Burchnall Operators theories, won Sylvester Medal, and wrote two books related to linear differential equations.
+keywords: joseph burchnall,burchnall
+description: Joseph Langley Burchnall was an English mathematician who worked in the theory of differential operators.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Joseph Langley Burchnall** was an English mathematician who worked in the theory of differential operators.
 
 ### Mathematical Profile (Excerpt):
-1. Founded the Irish Mathematical Society in 1921.
-2. Developed the Burchnall-Chaundy theory of linear transformations in the 1920s that enabled the development of an algebraic representation for linear differential equations.
-3. Published the book Linear Differential Operators in 1924 which detailed the theory of linear transformations he had developed.
-4. Invented the Burchnall Operators in 1929 as an extension of his linear transformation theory. 
-5. Won the Sylvester Medal from the Royal Society of Edinburgh in 1933 for pioneering mathematical research.
-6. Collaborated with W. L. Irwin in studying a class of once-twisted periodic functions between 1942 and 1945. 
-7. Published the book General Theory in 1958 which looked at the algebraic representations of linear differential equations.
+* It was a large family with Henry and his wife Ann Newport having four sons and two daughters - Joseph was their first child.
+* Around 1900, when Joseph was eight years of age, the family moved north-east when his father became a school master in the village of Butterwick, near Boston, in Lincolnshire.
+* Joseph was educated at Boston Grammar School, supported by a Holland County Council Scholarship, where he won the Parry Gold Medal in 1908.
+* It is not entirely clear that an academic career was Burchnall's first choice for, later in life, he told a friend that he would have liked to have joined the Civil Service but thought that with his disability life in London would be too difficult.
+* He played a large part in the discussions on reconstitution, and although the Durham Council's recommendations were not all implemented, it was due to Burchnall and a small group of others that the Durham Colleges emerged from this chastening period with so much of their character intact.
+* Almost half of Burchnall's mathematical papers were written with T W Chaundy, with whom he collaborated for 20 years.
+* This called for wise planning and control and Professor Burchnall was a leading figure at all stages.
+* Burchnall retired in 1959 and, although he continued his interest in mathematics in his retirement, he wrote no further research papers.
 
 Born 8 December 1892, Whichford, near Chipping Norton, Warwickshire, England. Died 29 April 1975, Southwold, Suffolk, England.
 

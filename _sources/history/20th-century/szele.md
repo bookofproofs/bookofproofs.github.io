@@ -7,10 +7,10 @@ orderid: 1918
 title: Szele, Tibor
 born: 1918
 died: 1955
-keywords: combinatorics, abstract algebra, Mathematics for All, technology, physics, graph theory, four-color problem, finance
-description: Tibor Szele was a Hungarian mathematician working in combinatorics, algebra, and finance; he co-authored a book and researched topics such as mathematics education, physics, graph theory, and the four-color problem.
+keywords: tibor szele,szele
+description: Tibor Szele was a Hungarian mathematician who worked in combinatorics and abstract algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Tibor Szele** was a  Hungarian mathematician who worked in combinatorics and abstract algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Co-authored a book entitled "Mathematics for All" with fellow mathematician David P. Robbins, which outlines various mathematical topics for a general audience. 
-2. Led a research project to study the use of technology in math instruction and its effect on learning outcomes.
-3. Developed a mathematical approach to support learning physics in the classroom. 
-4. Authored several papers on graph theory, covering topics such as trees, random graphs and directed graphs.
-5. Became a recognized expert in the field of transformations of graphs. 
-6. Created an algorithm to determine the optimal route of a bus or train. 
-7. Co-discovered the solution to the four-color problem, which shows that any planar map can be colored with just four colors. 
-8. Conducted research and wrote lecture notes on the mathematics of finance, including topics on optimal portfolios and interest rate models.
+* Tibor was his parents' only child and they lavished great care on him as he grew up.
+* Now since the 16th  century Debrecen had been a stronghold of the Hungarian Reformed Church and, certainly in Szele's day, was known as "the Calvinist Rome." In common with many Hungarian school children with mathematical talents at this time, he entered the mathematics competitions organised by KöMal, the Középiskolai Matematikai és Fizikai Lapok (High School Mathematics and Physics Journal).
+* In 1934, when he was sixteen years old, Szele won first prize in the KöMal competition.
+* Szele entered the 1936 Eötvös Competition, in the year he graduated from the Debrecen Reformed Church Gymnasium.
+* Despite this great success in mathematics, Szele did not enrol for a degree in mathematics at university but rather began to study mechanical engineering at the Technical University of Budapest.
+* Szele was then appointed as an assistant in the Institute of Theoretical Physics at Szeged University but his research interests were close to László Rédei and László Kalmár who worked in the Mathematical Institute at Szeged.
+* Young men in Hungary were called up for military service and Szele was one of these.
+* From 1946 to 1948 Szele was an assistant at the Mathematical Institute at the University of Szeged.
+* Szele left only when he had to rush to catch the night train back to Debrecen.
+* We should note that Laszlo Fuchs wrote two joint papers with Szele.
+* Rédei discussed the problem with Szele who was able to make significant improvements in the proof and published he the paper Neuer vereinfachter Beweis des gruppentheoretischen Satzes von Hajós Ⓣ(New simplified proof of the group theoretical theorems of Hajos) (1949).
+* Szele's remarkable talent began to unfold, and his interest soon developed into a lifelong commitment to the theory of abelian groups.
+* Szele was filled with ideas which he shared with everybody who was willing to listen.
+* Szele and Kertész wrote the joint paper On the existence of non-discrete topologies in infinite abelian groups which was published in 1953.
+* In fact Szele, Kertész and Fuchs wrote the three author paper On a special kind of duality in group theory which was also published in 1953.
+* We should note that it was not only students at Debrecen University who benefitted from Szele's teaching.
+* Kovács was strongly influenced by Szele in his first year at Debrecen University but Szele died before Kovács began his second year at university.
+* In 1952 Szele was awarded the Kossuth Prize, the most prestigious cultural award in Hungary.
+* Sadly Szele died at the young age of 36 after a short illness.
+* The Tibor Szele Commemorative Medal was founded by the János Bolyai Mathematical Society in 1970.
+* An International Colloquium on Group Theory to the memory of Tibor Szele (1918-1955) was held 16-20 September 1985, in Debrecen.
 
 Born 21 June 1918, Debrecen, Hungary. Died 5 April 1955, Szeged, Hungary.
 

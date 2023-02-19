@@ -7,10 +7,10 @@ orderid: 1857
 title: Dudeney, Henry Ernest
 born: 1857
 died: 1930
-keywords: Henry Dudeney, Amusements in Mathematics, Puzzles, Logic Puzzles, Chess Problems, Polyominoes, Heptominoes, Euler Path, Fourth Order Curve
-description: Henry Dudeney's puzzles, logic puzzles, and mathematical research revolutionized the study of recreational mathematics.
+keywords: henry ernest dudeney,dudeney
+description: Henry Dudeney is best known for his publications of mathematical problems and pastimes, some of which provoked serious mathematical research.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Henry Dudeney** is best known for his publications of mathematical problems and pastimes, some of which provoked serious mathematical research.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced the first commercial paper on recreational mathematics, called Amusements in Mathematics, in 1917.
-2. Published over 300 puzzles and problems in periodicals and books. 
-3. Established a logic puzzle called the Dudeney Puzzle in which a figure of four dots must be connected by three straight lines.
-4. Developed a mathematical system for solving chess problems known as two-move problems.
-5. Determined the perfect way to disassemble polyominoes and heptominoes.
-6. Discovered the answer to the Sum of Three Cubes, which had been posed as a mathematical puzzle in 1869.
-7. Developed a solution to the classic eight-queens problem, which is the challenge of arranging eight chess queens on a standard chessboard such that none of them can attack another.
-8. Proposed the 'Euler Path' which is a path traversing every edge of a graph exactly once, travelling all the vertices.
-9. Solved the knight's tour problem, in which the knight must move around an 8x8 chessboard, touching each square exactly once.
-10. Proposed a mathematical equation to calculate the Fourth Order Curve, describing the path of a projectile when it is subjected to acceleration due to gravity.
+* Henry's father Gilbert Dudeney(born in Mayfield, Sussex about 1825) was a schoolmaster and his father, Henry's paternal grandfather, although he began life as a shepherd, taught himself mathematics and astronomy and left his life on the hills to become a schoolmaster in Lewes.
+* Henry had one older brother Thomas (born about 1855).
+* Henry learnt to play chess at a young age and soon became interested in chess problems.
+* Dudeney worked as a clerk in the Civil Service from the age of 13 but continued to study mathematics and chess.
+* In 1884 Dudeney married and his wife, a popular novelist of the day, helped to make the family very well off financially.
+* Sam Loyd started sending his puzzles to England in 1893 and a correspondence started between him and Dudeney.
+* Of the two puzzle experts it was Dudeney who showed the more subtle mathematical skills.
+* We have indicated that Dudeney had a mathematical talent and this is very clear looking at some of his famous puzzles.
+* The Royal Society was interested in this geometrical novelty and in 1905 Dudeney demonstrated his geometrical puzzle at a meeting of the Society.
+* Dudeney contributed to the Strand Magazine for over 30 years, beginning after his collaboration with Loyd ended, and from around the same time he began publishing in Blighty, Cassell's, The Queen, Tit-Bits, and the Weekly Dispatch.
+* Dudeney's very popular collections of mathematical puzzles The Canterbury Puzzles (1907), Amusements in Mathematics (1917), and Modern Puzzles published in 1926, contain a wealth of fascinating examples which would provide any teacher of mathematics with a treasure trove of material.
+* Since we are looking at the more mathematical aspects of Dudeney's work, the chapter headings of Amusements in Mathematics will prove interesting.
+* Like Loyd, Dudeney produced many non-standard chess problems such as one where the White pieces are in their initial position, while Black only has a King which is on its own initial square.
+* After Dudeney's death his wife helped edit a collection of his puzzles Puzzles and Curious Problems (1931) and later on she again helped edit a second collection which was entitled A Puzzle Mine.
+* Let us now look at a few more examples of Dudeney's puzzles.
+* Dudeney invented something he called Verbal Arithmetic.
 
 Born 10 April 1857, Mayfield, Sussex, England. Died 24 April 1930, Lewes, Sussex, England.
 

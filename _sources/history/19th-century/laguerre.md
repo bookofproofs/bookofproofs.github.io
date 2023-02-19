@@ -7,10 +7,10 @@ orderid: 1834
 title: Laguerre, Edmond Nicolas
 born: 1834
 died: 1886
-keywords: Edmond Laguerre, Laguerre polynomials, least squares, polynomial equations, differential equations, Dirichlet's problem, Laguerre–Gauss
-description: Edmond Laguerre developed the Laguerre polynomials and contributed to differential equations, polynomial equations, least squares, Dirichlet's problem and Gauss quadrature.
+keywords: edmond laguerre,laguerre
+description: Edmond Laguerre studied approximation methods and is best remembered for the special functions: the Laguerre polynomials.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edmond Laguerre** studied approximation methods and is best remembered for the special functions: the Laguerre polynomials.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Laguerre polynomials, a set of orthogonal polynomials which can be used to solve certain types of differential equations and to model certain physical phenomena.
-2. Researched the method of least squares, and published findings that are still used today for linear and non-linear regression. 
-3. Derived and developed an accurate method to calculate the roots of higher-order polynomial equations.
-4. Developed the Laguerre Differential Equation and the associated Laguerre transform, a powerful tool in signal processing.
-5. Published many influential works on differential equations, including on Dirichlet's problem and Abel's theorem.
-6. Developed the Laguerre–Gauss quadrature formula for calculating integrals. 
-7. Made numerous contributions to the theory of equations, including the method of Laguerre's elimination to solve polynomial equations.
+* Laguerre graduated from the École Polytechnique in 1854 and decided on a military career.
+* Laguerre studied approximation methods and is best remembered for the special functions the Laguerre polynomials which are solutions of the Laguerre differential equations.
+* He also found a continued fraction expansion for the integral, the convergents of which involved the Laguerre polynomials.
+* He went on to investigate properties of the polynomials, proving orthogonality relations and also showing that an arbitrary function could be expanded in a 'Fourier type' series in Laguerre polynomials.
+* Other than mathematics, it was only his family which played a large role in Laguerre's life.
+* Laguerre wrote 140 memoirs which he published in the leading journals of his time so it is reasonable to ask why he is only known for the results mentioned specifically above.
+* Because as brilliant as Laguerre was, he worked only on details - significant details, yet nevertheless details.
+* Laguerre, on the other hand, proved the addition theorem with the help of anallagmatic curves using Poncelet's theorem on inscribed and circumscribed polygons to two conics.
+* The complete works of Laguerre were published in two volumes; Volume 1 in 1898 and Volume 2 in 1905.
+* In 1986 a reprint of Recherches sur la géométrie de direction Ⓣ(Research on the geometry of direction) appeared which Laguerre had first published in 1885.
+* The work contains six of Laguerre's papers originally published in the Nouvelles Annales de Mathématiques : Sur le règle des signes en géométrie Ⓣ(On the rule of signs in geometry) (1870); Transformations par sémi-droites réciproques Ⓣ(Transformations by semi-straight reciprocals) (1882); Sur les anticaustiques par réflexion de la parabole, les rayons incidents étant parallèles Ⓣ(On anticaustics of reflection of the parabola, the incident rays being parallel) (1883); Sur quelques propriétés des cycles Ⓣ(On some properties of cycles) (1883); Sur les courbures de direction de la troisième classe Ⓣ(On the direction curves of the third class) (1883); and Sur les anticaustiques par réfraction de la parabole, les rayons incidents étant perpendiculaires à l'axe Ⓣ(On anticaustics of refraction of the parabola, the incident rays being perpendicular to the axis) (1885).
 
 Born 9 April 1834, Bar-le-Duc, France. Died 14 August 1886, Bar-le-Duc, France.
 

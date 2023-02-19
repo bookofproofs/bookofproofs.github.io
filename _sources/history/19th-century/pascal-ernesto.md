@@ -7,10 +7,10 @@ orderid: 1865
 title: Pascal (3), Ernesto
 born: 1865
 died: 1940
-keywords: Ernesto Pascal, mathematics, textbooks, trigonometry, quadrilaterals, Theorem, mechanical calculator
-description: Ernesto Pascal, a revered Italian mathematician, wrote influential books in trigonometry, quadrilaterals, Theorem, mechanical calculator and much more!
+keywords: ernesto pascal,pascal
+description: Ernesto Pascal was an Italian mathematician best known for a wide range of textbooks that he produced.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ernesto Pascal** was an Italian mathematician best known for a wide range of textbooks that he produced.
 
 ### Mathematical Profile (Excerpt):
-1. He wrote a text book on trigonometry that greatly influenced the field of mathematics in his time and beyond. 
-2. He showed that any quadrilateral could be divided into triangles in two distinct ways. 
-3. He proved Pascal’s Theorem, a theorem in plane geometry.
-4. He published a major mathematical treatise on "arithmetic and geometry".
-5. He created a mechanical calculator on which he was able to calculate square roots, probabilities and divisors.
-6. He demonstrated that a circle divided into equal parts has an angle number fixed for each part.
-7. He developed a method for calculating the area of a curved surface by dividing it into a series of small rectangles.
-8. He designed an octagonal wheel for measuring angles in a precise manner. 
-9. He was the first mathematician to introduce irrational numbers into algebraic equations.
-10. He demonstrated that the arithmetical triangle, known as Pascal’s Triangle, had numerous mathematical applications.
+* Of course, the name Pascal sounds French and indeed it is since Stefano Pascal's family were originally from France, coming from the town of Tarascon which is about 20 km south west of Avignon.
+* Ernesto had a brother, Carlo Pascal (1866-1926), who was born on 21 October 1866, also in Naples.
+* He was an outstanding scholar, probably at least as eminent in his own field as his brother Ernesto was in the field of mathematics.
+* Ernesto Pascal's education was in his home town of Naples and, after attending school there, he entered the University of Naples.
+* Pascal graduated with a laurea in mathematics in 1887 but, even before the award of the degree, he had begun to publish mathematical papers.
+* This journal had been founded in Naples by Giuseppe Battaglini together with Nicola Trudi (1811-1894) and Vincenzo Janni (1819-1891) two years before Pascal had been born.
+* After graduating, Pascal left Naples and went to the University of Pisa where he continued his studies during the academic year 1887-88.
+* Pascal continued his remarkable publication record, another six papers appearing in 1888.
+* The leading centre for mathematics in the world at this time was the University of Göttingen in Germany and this is where Pascal went after his year in Pisa.
+* Hermann Schwarz and Felix Klein were two leading mathematicians at Göttingen at this time and Pascal particularly benefited from Klein's teaching.
+* This meant that, after the year 1888-89 in Göttingen, Pascal returned to Italy in 1889, still only 24 years old, but having considerable experience which would put him in a good position in competitions for chairs in Italy.
+* Both Alberto Pascal, born on 23 December 1894, and Mario Pascal, born on 31 May 1896, were born in Pavia.
+* Let us return to discuss the career of Ernesto Pascal at Pavia.
+* It was during his seven years at Pavia that Pascal began some projects which he continued throughout his life.
+* Pascal's production of texts, while at the same time producing a stream of high quality research papers, is quite remarkable.
+* Pascal how to present higher mathematics in didactic form.
+* Pascal left Pavia in 1907 when he was appointed to the chair of Complementary Algebra and Higher Analysis at the University of Naples.
+* Pascal was strongly opposed to Fascist ideas although his colleagues described him as arrogant and authoritarian.
+* His most famous student at Naples was Renato Caccioppoli who graduated in 1925 having written a thesis guided by Pascal.
+* We should mention one further aspect of Pascal's work which was his interest in mathematical instruments.
+* Pascal received many awards and honours for his contributions.
+* The Liceo Sientifico Statale Ernesto Pascal in Pompei is named after him.
+* A road, the via Ernesto Pascal, in the city of Naples is also named for him.
 
 Born 7 February 1865, Naples, Italy. Died 25 January 1940, Naples, Italy.
 

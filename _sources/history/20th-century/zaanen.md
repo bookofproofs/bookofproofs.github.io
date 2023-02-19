@@ -7,10 +7,10 @@ orderid: 1913
 title: Zaanen, Adriaan Cornelis
 born: 1913
 died: 2003
-keywords: mathematical, analysis, geometry, Lebesgue, vector, psychological, theory
-description: Adriaan Zaanen was a Dutch mathematician prominent for contributions to analysis and geometric theories, introducing Lebesgue integration, authoring mathematical books and receiving the homage of his peers.
+keywords: adriaan cornelis zaanen,zaanen
+description: Adriaan Cornelis Zaanen was a Dutch mathematician who worked mainly in analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Adriaan Cornelis Zaanen** was a Dutch mathematician who worked mainly in analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the first numerical analysis of the motion of an inclined plane using analytical geometry in 1939.
-2. Credited with introducing the concept of Lebesgue integration in Dutch mathematics in 1951. 
-3. Published the definitive work on vector analysis in 1959.
-4. Established a psychological mathematical theory that was later influential to research in artificial intelligence in 1963.
-5. Led the construction of the first mathematical bridge in the Netherlands in 1965.
-6. Authored numerous books on mathematics, including "Linear Analysis" in 1976 and "Analytical Geometry in Space" in 1977.
-7. Awarded the Dutch Mathematical Society's highest honor in 1977 for contributions to mathematics throughout his career.
+* His parents were Pieter Zaanen and Ariaantje de Bruin.
+* Aad Zaanen was brought up in Rotterdam where he attended the secondary school (hogere burgerschool).
+* After completing a first degree in Mathematics and Physics in 1935, Zaanen continued his studies at Leiden undertaking research with Johannes Droste as his advisor.
+* After completing his doctoral studies, Zaanen became a secondary school teacher in Rotterdam, teaching mathematics.
+* Zaanen married Jacoba (Ada) van der Woude in 1943; they had four sons.
+* After three years in Indonesia, Zaanen returned to the Netherlands where he was appointed as Professor of Analysis in the Technical University of Delft in 1950.
+* On the other hand it reflects Zaanen's mathematical career over more than forty years.
+* During this period Zaanen made essential contributions to several parts of mathematics, mainly in functional analysis, integration theory and Riesz space theory.
+* Through these four decades Zaanen established his own school of thought with its centre of gravity in Leiden and with its representatives abroad.
+* When he retired Zaanen gave the address Looking back: farewell lecture at the University of Leiden on 3 December 1982.
+* An important contribution by Zaanen was the texts that he published.
+* In 1967 Zaanen published a completely revised and extended edition of An introduction to the theory of integration under the title Integration.
+* In 1989 Zaanen published Continuity, integration and Fourier theory.
 
 Born 14 June 1913, Rotterdam, The Netherlands. Died 1 April 2003, Wassenaar, The Netherlands.
 

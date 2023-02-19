@@ -7,10 +7,10 @@ orderid: 1909
 title: Weise, Karl Heinrich
 born: 1909
 died: 1990
-keywords: Karl-Heinrich Weise, Algebra, Geometry, Differential Geometry, Primitive Element Theorem, Weise-Laguerre Formula, Engineering, Physics
-description: Karl-Heinrich Weise unified Algebra & Geometry, proved the Primitive Element Theorem, standardized terms & symbols, & founded the Acta Mathematica Journal.
+keywords: karl heinrich weise,weise
+description: Karl-Heinrich Weise was a German mathematician who worked on differential geometry and topology.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Karl-Heinrich Weise** was a German mathematician who worked on differential geometry and topology.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the First Unified Theory of Algebra and Geometry in 1835, integrating algebra and geometry into a single subject.
-2. Proved the Primitive Element Theorem, which provided a unified approach to solving equations with one or several unknowns.
-3. Established the Weise-Laguerre formula, a recursive formula used to efficiently solve equations.
-4. Standardized terms and symbols necessary for understanding algebra and geometry, allowing for further advancements in mathematics.
-5. Created the Weise differential equation, which has been used in many engineering and physics applications.
-6. Developed the Weise plane theorem, which states that the plane of a triangle is independent of the triangle's size and shape.
-7. Proposed the Weise ellipse theorem, which states that the area of an ellipse is proportional to the square of its major axis.
-8. Developed the Weise circle theorem, which states that the circumference of a circle is proportional to its radius.
-9. Published the influential books "Theory of Algebra" and "Geometry Applied" in 1843 and 1848 respectively, which are still used today in many universities.
-10. Founded the influential Acta Mathematica journal, which features many of his mathematical theories and those of other prominent mathematicians.
+* During the bombing, the rooms of the 'Mathematisches Seminar' had been completely destroyed and so it was Weise's task to make a new start under extremely difficult circumstances.
+* Weise very early realized the potential of electronic computers for mathematics and in fact in 1957-58, together with the nuclear physicist Erich Bagge, he founded the computer centre of the university.
+* Weise himself, with an assistant, did computations on knot theory, Bodo Schender, one of his former students who was to become the first professor of computer science at Kiel, developed formula manipulation methods for trigonometric functions, and also the first steps in what is now known as 'Computational Group Theory' were undertaken as early as 1959 on the Z22.
+* In 1971 Weise also founded a new 'Institut für Informatik und Praktische Mathematik' which became the nucleus of Computer Science at Kiel.
+* Weise also lent his insight and organisational talent to a wide range of organisations furthering science in Germany.
+* Weise's mathematical work was mainly on questions from differential geometry and topology.
+* In years soon after the war Weise published a small but concise book Gewöhnliche Differentialgleichungen Ⓣ(Ordinary differential equations) (1948) in which he discusses Legendre, Bessel, and Sturm-Liouville equations.
+* Weise acted as supervisor of PhD students from a wide range of mathematical fields, a dozen of them went on to become professors, among them Wolfgang Gaschütz (finite groups), Wolfgang Haken (knot theory and the solution of the four-colour-problem), Wilhelm Klingenberg (differential geometry) and Jens Mennicke (topology).
+* Let us look in a little more detail at Weise's influence on one of these students, Wolfgang Haken, who studied mathematics, physics and philosophy at the University of Kiel.
+* Haken attended Heinrich Heesch's talk on his contributions to the Four Colour Problem, but he was most enthused by Weise's lectures on topology.
+* In these lectures, Weise described three long-standing unsolved problems - the Poincaré Conjecture, the Four Colour Problem, and a problem on knot theory.
+* Haken decided to attempt to solve all three problems and began this challenge while studying for a doctorate at Kiel with Weise as his thesis advisor.
+* Weise was retired on 30 September1977, and in the following year the Christian Albrechts Universität conferred on him the title of 'Ehrensenator' (honorary senator).
 
 Born 24 May 1909, Gera, Thüringen, Germany. Died 15 April 1990, Kiel, Germany.
 

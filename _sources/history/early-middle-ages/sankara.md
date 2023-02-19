@@ -7,10 +7,10 @@ orderid: 840
 title: Narayana, Sankara
 born: 840
 died: 900
-keywords: Sankara Narayana, Bhaskara I, square root, indeterminate equations, linear equations, quadratic equations, probability, harmonic analysis, binomial congruence, quadratic congruence, functional equations
-description: Sankara Narayana, Indian astronomer and mathematician, developed solutions for extracting square roots, solving indeterminate equations, linear and quadratic equations, and created the Mathematical Theory of Probability. His innovative theories extended to harmonic analysis, binomial congruence, quadratic congruence, and functional equations.
+keywords: sankara narayana,narayana
+description: Sankara Narayana was an Indian astronomer and mathematician. He wrote a commentary on the work of Bhaskara I.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sankara Narayana** was an Indian astronomer and mathematician. He wrote a commentary on the work of Bhaskara I.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Sankara-Narayana method of extracting square roots of higher degree equations.
-2. Contributed to the field of applied number theory by resolving problems related to indeterminate equations.
-3. Developed a general numerical method to find the solutions of linear and quadratic equations with an unlimited number of variables.
-4. Defined the Mathematical Theory of Probability, formulating the Principle of Inclusion and Exclusion.
-5. Extended the techniques of harmonic analysis to analyze non-linear phenomena.
-6. Developed a new type of binomial congruence theory and also developed the theory of quadratic congruences.
-7. Developed solutions for unstable and regular periodic solutions for functional equations, known as the Sankara-Narayana method.
+* The Laghubhaskariya vivarana was written by Sankara Narayana in 869 AD for the author writes in the text that it is written in the Shaka year 791 which translates to a date AD by adding 78.
+* Perhaps the most unusual feature of the Laghubhaskariya vivarana is the use of katapayadi numeration as well as the place-value Sanskrit numerals which Sankara Narayana frequently uses.
+* Sankara Narayana is the first author known to use katapayadi numeration with this name but he did not invent it for it appears to be identical to a system invented earlier which was called varnasamjna.
+* The numeration system varnasamjna was almost certainly invented by the astronomer Haridatta, and it was explained by him in a text which many historians believe was written in 684 but this would contradict what Sankara Narayana himself writes.
+* First we should explain ideas behind Sankara Narayana's katapayadi numeration.
+* Very unusually for an Indian text, Sankara Narayana expresses his thanks to those who have gone before him and developed the ideas about which he is writing.
+* This in itself is not so unusual but the surprise here is that Sankara Narayana claims to give the list in chronological order.
+* However, putting Haridatta after Govindasvami would seem an unlikely mistake for Sankara Narayana to make if Haridatta really did write his text in 684 since Sankara Narayana was himself a disciple of Govindasvami.
+* If the dating given by Sankara Narayana is correct then katapayadi numeration had been invented only a few years before he wrote his text.
 
 Born about 840, India. Died about 900, India.
 

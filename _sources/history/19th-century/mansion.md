@@ -7,10 +7,10 @@ orderid: 1844
 title: Mansion, Paul
 born: 1844
 died: 1919
-keywords: Paul Mansion, Non-Euclidean Geometry, History of Mathematics, Differential Equations, Anharmonic Lattices, Energy-Momentum Form, Casimir Energy
-description: Paul Mansion explored non-Euclidean geometry and differential equations, contributing research on anharmonic lattices and energy-momentum forms like Casimir energy.
+keywords: paul mansion,mansion
+description: Paul Mansion was a Belgian mathematician who wrote extensively on non-Euclidean geometry, history of mathematics and differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Paul Mansion**  was a Belgian mathematician who wrote extensively on non-Euclidean geometry, history of mathematics and differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced a novel approach to studying anharmonic lattices in quantum field theory, providing new insights into the structure of crystalline solids.
-2. Derived a formula for estimating the relativistic energy-momentum form of particle interactions in a medium.
-3. Proposed a new method for calculating the Casimir energy, a conceptual approach for understanding the energy-momentum structure of empty space.
-4. Developed a mathematical model for understanding the behavior of systems of weakly interacting fermions.
-5. Contributed to the mathematical formulation of the Lifshitz tail effect in solid-state physics.
-6. Proposed new theories which explain why some electrons in solids are free-moving.
-7. Researched long-range correlations between electrons in solids and devised mathematical models to explain these correlations.
+* Young Paul played hard and studied hard so that he excelled in elementary school.
+* Mansion was particularly grateful to three teachers at the College for the positive influence they had on him, namely J Poumay, who taught him French and German, G Smiet, who taught him mathematics, and J Kunders , who taught him Latin and Greek.
+* Mansion was awarded his doctorate in mathematical and physical sciences with distinction.
+* Let us say a little about Félix Dauge (1829-1899) and Mathias Schaar (1817-1867) who had such a strong influence on Mansion and on the direction of his research throughout his life.
+* By October 1867 Mansion, who had only been awarded his doctorate two months earlier, had been appointed to teach Schaar's advanced mathematics courses.
+* After his appointment as an extraordinary professor, Mansion married to Marie-Cécile Belpaire (1846-1924), the daughter of Alphonse Belpaire (1817-1854), a mathematician, poet and musician, and Elizabeth Teichmann (1821-1900).
+* Paul and Marie-Cécile Mansion had several children: Alphonse Mansion 1872-1873, Marie Mansion 1874-1912, Cécile Mansion 1875-1894, Joseph Mansion 1877-1937, and Victor Mansion 1879-1902.
+* In 1892 Mansion succeeded Emmanuel-Joseph Boudin when he was appointed to the Chair of the Calculus of Probabilities at Ghent.
+* In fact Mansion's first publication, appearing before he submitted his doctoral thesis, was a 13-page paper on probability Sur le problème des partis Ⓣ(On the problem of points) which appeared in the Mémoires of the Royal Belgium Academy of Science in 1868.
+* This was a vast and difficult undertaking and Mansion decided to enter but to restrict himself to the theory of first order partial differential equations.
+* Mansion submitted the 289-page memoir Mémoire sur la théorie des équations aux dérivées partielles du premier ordre which was judged the winning entry.
+* In 1875 Mansion's winning entry was published in the Mémoires of the Royal Belgium Academy of Science.
+* Of course living in Ghent made Mansion particularly aware of the famous mathematician Adolphe Quetelet who was born in that city some 50 years before Mansion was born, and who had studied at the university there.
+* Quetelet and Jean-Guillaume Garnier (1766-1840), the professor of astronomy and higher mathematics at Ghent, had edited the Belgium publication Correspondance mathématique et physique and in 1874 Mansion, together with Eugène Catalan and Joseph Neuberg, founded the journal Nouvelle correspondance mathématique named to honour the earlier Correspondance mathématique et physique and to follow the naming pattern set by the French journal Nouvelles Annales de Mathématiques which followed the Annales de Mathématiques.
+* The journal which Mansion, Catalan and Neuberg founded was published between 1874 and 1880.
+* During these years Mansion published 15 papers in the journal, for example: Démonstration d'un théorème de Liouville Ⓣ(Proof of a theorem of Liouville) (1874); Théorie analytique des transformations linéaires Ⓣ(Analytic theory of linear transformations) (1874, 1876, 1887, 1888); Sur les carrés magiques Ⓣ(On magic squares) (1876); Remarques sur les théorèmes arithmétiques de Fermât Ⓣ(Notes on the arithmetic theorems of Fermat) (1879); and Dérivées des fonctions élémentaires d'une variable imaginaire Ⓣ(Derivatives of elementary functions of an imaginary variable) (1880).
+* After this journal ceased publication, Catalan encouraged Mansion and Neuberg to collaborate in publishing a new journal and, indeed, they did precisely this, publishing Mathesis from 1881 onwards.
+* Mansion became director of Mathesis and continued with this project until he retired in 1910.
+* After he retired in 1910, Mansion was made professor emeritus on 9 November of that year.
+* In 1916 he published the book Leçons de calcul des probabilités Ⓣ(Lessons in probability calculation) which consisted of Emmanuel-Joseph Boudin's lectures at the University of Ghent given between 1846 and 1890, together with numerous notes and additions by Mansion.
+* Mansion translated into French mathematical works by Riemann, Plücker and Clebsch.
+* Despite the rather critical tone of these comments we should point out that, as the reader will have already observed, Mansion was highly productive.
+* Among the honours which Mansion received was election to the Royal Belgium Academy of Science.
 
 Born 3 June 1844, Belle-Maison, Marchin, near Huy, Belgium. Died 16 April 1919, Ghent, Belgium.
 

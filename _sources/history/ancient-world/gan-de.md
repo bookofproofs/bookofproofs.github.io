@@ -7,10 +7,10 @@ orderid: -400
 title: Gan De
 born: -400
 died: -340
-keywords: Gan De, Chinese, Astronomy, Mathematics, Negative Numbers, Continued Fraction, Pi, Algebraic, Quadratic Formula, Right Angle, Trigonometry, Compass-and-Straightedge
-description: Gan De, one of earliest Chinese astronomers, compiled mathematics texts & pioneered mathematical concepts like negative numbers, pi, quadratic equations & trigonometry.
+keywords: gan de,gan
+description: Gan De was one of the earliest of the Chinese astronomers.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gan De** was one of the earliest of the Chinese astronomers.
 
 ### Mathematical Profile (Excerpt):
-1. Compiled the bundle of the nine chapters on mathematics, a text known today as the "Sea Mirror of the Circle Measurements". 
-2. Introduced the use of negative numbers to solve equations involving ratios.
-3. Discovered the square root of 2 could be expressed as a continued fraction.
-4. Discovered pi's numerical value and proved pi can be calculated as the ratio between a circle's circumference and diameter.
-5. Developed an algebraic method to calculate the cube root and quartic root of numbers.
-6. Performed numerous calculations of the square of a circle and the area of a triangle.
-7. Discovered the quadratic formula for determining the solution to any quadratic equation.
-8. Recognized and described the concept of a right angle.
-9. Developed a sophisticated approach to solving various problems in trigonometry. 
-10. Developed a novel compass-and-straightedge construction for calculating the area of a circle.
+* He was one of the earliest of Chinese astronomers and made observations which he recorded giving dates and coordinates.
+* We have included Gan De this archive for one reason only.
+* That is that a quotation from his book Suixing Jing (Treatise on Jupiter) was recorded by later writers.
+* Apparently, there was a small reddish star appended to its side.
+* Of course the intriguing question is what was the small reddish star which Gan De saw?
+* If he did see one of the Galilean satellites, then it would have been Ganymede which is the brightest of the four.
+* Ganymede can have a magnitude of 4.6 which means that it is within the range which anyone might expect to see.
+* However the reason that Ganymede is not readily visible is that Jupiter, being so much brighter and so close to Ganymede when viewed from earth, obscures the faint satellite.
+* Gan De might have possessed exceptional eyesight and been able to separate the faint Ganymede and the bright Jupiter.
+* The only thing in the description which would have one doubt this is the fact that Gan De records the small star on the side of Jupiter to be reddish.
+* However, we must remember that he observed under conditions of absolutely no light pollution, something impossible today.
+* Evidence on the positive side suggesting that he did indeed observe Ganymede comes from the accuracy of his observations in general.
+* and also gave accurately observed details of the planet's movements throughout its 12 year cycle.
+* We also know that Gan De produced star catalogues.
 
 Born about 400 BC, China. Died about 340 BC, China.
 

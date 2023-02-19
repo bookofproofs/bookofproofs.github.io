@@ -7,10 +7,10 @@ orderid: 1894
 title: Khinchin, Aleksandr Yakovlevich
 born: 1894
 died: 1959
-keywords: Khinchin, probability theory, linear forms, law of large numbers, Khinchin axioms, entropy measure, Khinchin–Lévy theorem
-description: Russian mathematician Aleksandr Khinchin developed theories concerning probability & linear forms, law of large numbers, entropy & Khinchin–Lévy theorem.
+keywords: aleksandr yakovlevich khinchin,khinchin
+description: Aleksandr Yakovlevich Khinchin was a Russian mathematician who contributed to many fields including number theory and probability.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Aleksandr Yakovlevich Khinchin** was a Russian mathematician who contributed to many fields including number theory and probability.
 
 ### Mathematical Profile (Excerpt):
-1. Developed and proposed the theory of linear forms, a central result in the mathematical theory of probability.
-2. Wrote influential works on measure theory, including the book "Mathematical Foundations of Probability Theory".
-3. Provided an exact formulation of the law of large numbers, which is fundamental in probability theory.
-4. Developed the Khinchin axioms, which characterize the values of certain sums in probability theory.
-5. Estimated the speed of convergence in the central limit theorem, known as the Khinchin theorem.
-6. Introduced the concept of entropy as a measure of information in probability theory.
-7. Discovered the theory of pair correlation of arithmetical functions and developed an asymptotic formula for estimating the number of prime numbers.
-8. Showed that certain sum of an arithmetic function could be reduced to one sum over primes at most of the same order, known as the Khinchin–Lévy theorem.
-9. Established the Gauss–Kuzmin–Wirsing theorem from which many other arithmetic results eventually flowed.
+* Khinchin attended the technical high school in Moscow where he became fascinated by mathematics.
+* At university in Moscow Khinchin worked with Luzin and others.
+* This first paper began a series of publications by Khinchin on properties of functions which are retained after deleting a set of density zero at a given point.
+* After graduating in 1916, Khinchin remained at Moscow University undertaking research for his dissertation which would allow him to become a university teacher.
+* Around 1922 Khinchin took up new mathematical interests when he began to study the theory of numbers and probability theory.
+* In 1927 Khinchin was appointed as a professor at Moscow University and, in the same year, he published Basic laws of probability theory.
+* Khinchin left Moscow in 1935 to spend two years at Saratov University but returned to Moscow University in 1937 to continue his role of building the school of probability theory there in partnership with Kolmogorov and others, including in particular their student Gnedenko.
+* We shall look at some of Khinchin's major publications and in this way get a feel for the large number of important contributions he made in a remarkably large range of topics.
+* Khinchin first published the book Continued Fractions in 1936 with a second edition being published in 1949.
+* The third chapter, the longest and most important, contains an account of Khinchin's own contributions to the topic of the metrical theory of Diophantine approximations.
+* Another contribution by Khinchin to number theory is the short book Three pearls of number theory which appeared in an English translation in 1952.
+* The book Eight lectures on mathematical analysis by Khinchin ran to several editions.
+* Khinchin published Mathematical Principles of Statistical Mechanics in 1943.
+* Khinchin's book Mathematical Foundations of Information Theory, translated into English from the original Russian in 1957, is important.
+* Khinchin generalised some of Shannon's results in this book which was written in an elementary style yet gave a comprehensive account with full details of all the results.
+* Among the many honours which Khinchin received for his work was election to the USSR Academy of Sciences in 1939 and the award of a State Prize for scientific achievements in the following year.
 
 Born 19 July 1894, Kondrovo, Kaluzhskaya guberniya, Russia. Died 18 November 1959, Moscow, USSR.
 

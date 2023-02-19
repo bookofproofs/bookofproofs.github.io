@@ -7,10 +7,10 @@ orderid: 1846
 title: Réthy, Mór
 born: 1846
 died: 1925
-keywords: Mór Réthy, Bolyais, Réthy-Brückner theorem, Advanced Calculus, numerical methods, Réthy fractional calculus, syzygy theorem
-description: Mór Réthywas an influential Hungarian mathematician who made groundbreaking contributions such as the Réthy-Brückner theorem, Advanced Calculus, and the Réthy fractional calculus.
+keywords: mór réthy,réthy
+description: Mór Réthy was a Hungarian mathematician. He became an expert on the Bolyais.
 references: bookofproofs$6909
-contributors: @R-Oláh-Gál,@M-Rupp,bookofproofs,@ChatGPT
+contributors: @R-Oláh-Gál,@M-Rupp,bookofproofs
 
 ---
 
@@ -23,13 +23,22 @@ contributors: @R-Oláh-Gál,@M-Rupp,bookofproofs,@ChatGPT
 **Mór Réthy** was a Hungarian mathematician. He became an expert on the Bolyais.
 
 ### Mathematical Profile (Excerpt):
-1. The discovery of the Réthy-Brückner theorem, which established a relationship between Abelian integrals and the Euler-Jacobi equation.
-2. Co-authored the influential "Advanced Calculus" textbook, which introduced the students of mathematics to more advanced mathematical principles.
-3. Pioneered the integration of numerical methods into calculus, a technique which is still used today in mathematics.
-4. Established certain diagonalization techniques for singular systems of algebraic equations.
-5. Developed the Réthy fractional calculus, one of the foundations of modern fractional calculus.
-6. Extension of the definition of the integral from cases of simple closed-curves to more complex cases.
-7. His advances in the syzygy theorem, which revolutionized the ways in which mathematicians can solve systems of equations.
+* Mór went to primary and to secondary school in his native town of Nagykörös.
+* Following his graduation, Réthy worked for two years as a teacher of mathematics and descriptive geometry at the Modern Technical School of Körmöcbánya.
+* Unfortunately, although only 39 years old, Clebsch died of diphtheria in November 1872 and Réthy had to face up to his sudden death.
+* Leo Königsberger and Réthy remained in a close contact: Réthy's nine letters from 1875 to 1898 can still be found in the Staatsbibliothek zu Berlin Handschriftabteilung.
+* Mór Réthy took part in very fruitful debates between outstanding mathematicians of his age and soon enriched the literature with two papers on the topic.
+* This paper throws light on Réthy's efforts to introduce and popularize absolute geometry.
+* And he went a step further: starting from the fact that in absolute geometry in infinitely small segments of space the theorems of Euclidean geometry hold true, and relying on the recognition that spherical trigonometry is independent of Euclid's 5th  postulate, Réthy built up Bolyai's trigonometry independently.
+* Another merit of Réthy is that he was the first to review and elaborate the hyperbolic constructions of the Appendix in detail.
+* In 1886 Mór Réthy was invited to the Technical University of Budapest, where he first lectured on geometry.
+* Mór Réthy was one of the professors - Gyula König, Arpád Geötze, Jenö Hunyadi, Gyula Farkas etc.
+* Of course the correct data can also be found: Réthy, Mór; früher Rothbaum (1846-1925) Physiker und Mathematike.) His literary heritage is divided between mathematics and physics.
+* In 1900 Mór Réthy became a full-member of the Hungarian Academy of Sciences.
+* Internationally, however, better known are Réthy's investigations in physics.
+* Also well known is Réthy's research into the Ostwald theory and into the classic "principles" of mechanics.
+* Mandato Academiae scientiarum hungaricae suis adnotationibus adiectis ediderunt Julius König et Mauritius Réthy.
+* ediderunt Josephus Kurschák, Mauritius Réthy, Béla Tötössy de Zepethnek) Ⓣ(Wolfgang Bolyai: An elementary and pure youth, zealous in his interest in astrology, in the higher elements of his own, to introduce this evidently intuitive method, with a third appendix.
 
 Born 9 November 1846, Nagykörös, Hungary. Died 16 October 1925, Budapest, Hungary.
 

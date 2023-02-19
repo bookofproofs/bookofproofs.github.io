@@ -7,10 +7,10 @@ orderid: 1819
 title: Bouquet, Jean Claude
 born: 1819
 died: 1885
-keywords: French mathematician, Fermat's Last Theorem, Fermat quartic, semicubical parabola, Prix Borel, diffraction theory, computer algebra system
-description: Claude Bouquet, a French mathematician, made significant advances in geometry, series expansions and diffraction theory; discovered Fermat quartic, semicubical parabola & the ring of power series; and created the 1st computer algebra system.
+keywords: jean-claude bouquet,bouquet
+description: Claude Bouquet was a French mathematician who worked on differential geometry and on series expansions of functions and elliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Claude Bouquet** was a French mathematician who worked on differential geometry and on series expansions of functions and elliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new proof of Fermat's Last Theorem in 1994.
-2. Discovered the Fermat quartic in 1997. 
-3. Published two books, Discourse on the Method of Learning Mathematics in 1995 and A Natural Introduction to Mathematics in 2003.
-4. Discovered the semicubical parabola in 1990.
-5. Was the recipient of the prestigious Prix Borel in 2009 for his contributions to mathematics. 
-6. Collaborated with André Weil on a joint paper on algebraic geometry published in 1936.
-7. Established the relation between elliptic curves and modular forms in 1973.
-8. Published multiple papers on diffraction theory in collaboration with Beppo Levi.
-9. Discovered the ring of power series over a field k in 1935. 
-10. Played a major role in the development of the first ever computer algebra system in 1956.
+* Jean-Claude became a school friend of Briot, who was also brought up in the Doubs region, and he went on to work with him for much of his life, collaborating both in teaching and in research.
+* In fact Bouquet was two years younger than Briot but they became friends at the Lycée since both had a fascination for mathematics.
+* Bouquet was brought up in a period of unrest with the revolution of 1830.
+* However by the time Bouquet went to Paris to enter university there, France had entered a period of political stability and relative prosperity.
+* Bouquet entered the École Normale Supérieure in 1839, obtaining his doctorate in 1842 for a thesis Sur la variation des intégrales doubles Ⓣ(On the variation of double integrals)   which he submitted to the Faculty of Science in Paris.
+* Briot had been a school teacher of mathematics for a year before entering the École Normale Supérieure and he took one year longer to obtain his doctorate than Bouquet so the two friends obtained their doctorates in the same year.
+* Bouquet was appointed professor of mathematics at the Lycée in Marseilles, then he went to Lyon as professor of mathematics in the Faculty of Science.
+* Bouquet returned to Paris shortly before Louis-Napoleon declared himself emperor of the French on 2 December 1852; the Second Empire lasted until 1870.
+* From 1852 until 1858 Bouquet taught at the Lycée Bonaparte (later renamed the Lycée Condorcet) in Paris.
+* In 1858 Bouquet moved to the Lycée Louis-le-Grand, the school Galois had graduated from 30 years before, and there again put his energies into preparing pupils for the entrance examinations for the two major Paris universities.
+* In 1874 Bouquet was appointed professor of differential and integral calculus at the Sorbonne, succeeding Serret who had retired due to ill health.
+* Bouquet taught there until 1884, the year before his death.
+* Bouquet worked on differential geometry, writing on orthogonal surfaces Note sur les surfaces orthogonales Ⓣ(Note on orthogonal surfaces) (1946).
+* Bouquet and Briot developed Cauchy's work on the existence of integrals of a differential equation.
+* Between 1859 and 1875 Bouquet worked with Briot on elliptic functions and Bouquet published an excellent text Théorie des fonctions elliptiques Ⓣ(Theory of elliptic functions)  in 1875.
+* Bouquet was as enthusiastic a teacher as he was researcher.
+* It is worth commenting that although today joint research papers are the norm, this was certainly not the case in the time in which Bouquet worked.
 
 Born 7 September 1819, Morteau, Doubs, France. Died 9 September 1885, Paris, France.
 

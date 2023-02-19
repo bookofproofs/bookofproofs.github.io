@@ -7,10 +7,10 @@ orderid: 1858
 title: Scott (3), Robert Forsyth
 born: 1858
 died: 1942
-keywords: Forsyth, Analysis, Continental, Fellowship, Surfaces, Variations, Differential Geometry,
-description: Forsyth was a Fellow of the Royal Society of Edinburgh and renowned for introducing continental methods to analysis. He wrote influential works on surfaces, variations, differential geometry, hydrodynamics & potential theory.
+keywords: andrew forsyth,scott
+description: Forsyth wrote important works on analysis which were responsible for introducing continental methods into the subject in Britain.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Forsyth** wrote important works on analysis which were responsible for introducing continental methods into the subject in Britain.
 
 ### Mathematical Profile (Excerpt):
-1. He was appointed to a Fellowship of the Royal Society of Edinburgh in 187, specifically for his achievements in mathematics.
-2. He developed the concept of a surface of the second order, as well as a curvature operator for surfaces.
-3. He published several works throughout his career, most notably Treatise on Differential Equations in 1859.
-4. He was a co-founder of the Royal Society of Edinburgh's Mathematical and Physical Section.
-5. He discovered a method for computing the motions of mechanical systems and was one of the first to apply calculus of variations to physics.
-6. He developed the basic theory of vector analysis. 
-7. He formulated an important theorem in differential geometry. 
-8. He studied important partial differential equations related to the Earth’s shape and made great contributions to the theory of elasticity. 
-9. He wrote some very influential works on hydrodynamics and the potential theory.
+* John Forsyth was an engineer working in the Glasgow shipyards and his family came from Paisley.
+* However John Forsyth moved to Liverpool and, taking his family with him, Andrew was soon to show his exceptional mathematical abilities at secondary school in that city.
+* Forsyth entered Trinity College, University of Cambridge in 1877 and there he studied under Cayley, graduating in 1881.
+* This type of fellowship was competitive and candidates had to submit a thesis; Forsyth's thesis proved deep results on double theta functions.
+* Although Forsyth was back in Liverpool, the city which had become his home, he did not remain there for very long, accepting a lectureship at Cambridge in 1884.
+* In fact this is not surprising since the whole thrust of the book was to bring the great advances of Continental mathematics to Cambridge which Forsyth rightly saw as living in the past.
+* On Cayley's death Forsyth was appointed to his chair in 1895 becoming the Sadleirian professor of Pure Mathematics.
+* In fact one would have to say that Forsyth was unlucky, for although he saw the importance of Continental mathematics, at the same time his greatest strengths lay in his ability to handle complex formulae.
+* Famous texts which Forsyth published before his 1893 work Theory of Functions of a complex variable , are A treatise on differential equations (1885), and Theory of differential equations published in six volumes between 1890 and 1906.
+* Not everyone had such a high opinion of Forsyth, however.
 
 Born 18 June 1858, Glasgow, Scotland. Died 2 June 1942, London, England.
 

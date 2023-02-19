@@ -7,10 +7,10 @@ orderid: 1849
 title: Scott, Robert
 born: 1849
 died: 1933
-keywords: Robert Scott, Bursar, St. John's College Cambridge, Determinants, Algorithm, Analytical Methods, Computer Graphics
-description: Robert Scott was Bursar and Master of St. John's College Cambridge, authoring a book on Determinants; developing algorithms for equations, analytical methods for linear systems, numerical methods for PDEs, and computer graphics for nonlinear systems.
+keywords: robert scott,scott
+description: Robert Scott spent most of his career as Bursar and Master of St John's College Cambridge. He published a book on Determinants.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,11 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Scott**  spent most of his career as Bursar and Master of St John's College Cambridge. He published a book on Determinants.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm for solving equations involving both linear and quadratic terms.
-2. Developed analytical methods for analyzing the behavior of linear systems.
-3. Established a numerical method for solving boundary value problems in partial differential equations.
-4. Showed how computer graphics could be used to explore the properties of nonlinear dynamical systems.
-5. Formulated a method for computing the solution of singular integral equations arising in the theory of elasticity.
+* Robert's mother was Mary Forsyth, son of the Edinburgh advocate Robert Forsyth.
+* Robert Scott was educated at the High School, Edinburgh, then in Stuttgart before becoming a student at University College, London.
+* From London, Scott entered St John's College, Cambridge where he studied the Mathematical Tripos.
+* Scott then studied law, becoming a Barrister in 1880, and a Bencher of Lincoln's Inn in 1922.
+* Scott held this post for the rest of his life.
+* On 1 January 1904 a second paperback edition of Scott's book The theory of determinants and their applications was published.
+* The book was revised for this second edition by G B Mathews and on the title page Scott is described as Robert Forsyth Scott, M.A., of Lincoln's Inn, Fellow of St John's College Cambridge.
+* Scott's entry in Who's Who lists his recreations as: formerly rowing; antiquarian and biographical pursuits.
 
 Born 28 July 1849, Leith, near Edinburgh, Scotland. Died 18 November 1933, Cambridge, England.
 

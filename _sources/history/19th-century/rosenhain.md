@@ -7,10 +7,10 @@ orderid: 1816
 title: Rosenhain, Johann Georg
 born: 1816
 died: 1887
-keywords: Cramer's Rule, virtual work, linear equations, constant coefficient, mechanical energy, Legendre polynomials, least squares
-description: Johann Rosenhain developed methods like Cramer's Rule and virtual work, and discovered concepts like mechanical energy and constant coefficients, leading to the study of skew surfaces and equations of various variables.
+keywords: johann rosenhain,rosenhain
+description: Johann Rosenhain was a German mathematician who introduced theta characteristics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Johann  Rosenhain** was a German mathematician who introduced theta characteristics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a method for solving linear equations which are now known as Cramer's Rule.
-2. Demonstrated the principle of virtual work for elastic bodies, as well as for rigid bodies.
-3. Proved the uniqueness of a system of linear equations with only one solution.
-4. Discovered the principle of the constant coefficient for equations of several variables.
-5. Developed a mathematical theory of the distribution of mechanical energy in systems of vibrations.
-6. Discovered the dependence between the roots of a linear equation and its coefficients.
-7. Discovered the form of the solutions of integral equations in terms of Legendre polynomials.
-8. Found important applications of integrating factor in solving differential equations. 
-9. Established the method of least squares for approximating solutions of polynomial equations.
-10. Brought the study of skew surfaces to a new level by determining their shapes in terms of differential equations.
+* His parents were Nathan Rosenhain and Röschen Joseph.
+* In 1844 Rosenhain submitted his Habilitation thesis to the University of Breslau and was appointed as a Privatdozent there in that year.
+* Perhaps not surprisingly, Rosenhain's methods are more closely linked to those of Jacobi than are the methods of Göpel.
+* In this Rosenhain introduced sixteen theta functions in two variables (as did Göpel, by the way).
+* Rosenhain succeeded in demonstrating more simply than Göpel that these quotients solve the inverse problem for genus 2.
+* As we said above, these years for Rosenhain had been stunningly successful.
+* Rosenhain joined the revolution on the side of the people but those who participated were soon in deep trouble when the king had gained full control.
+* Rosenhain went to the University of Vienna in 1851.
+* Certainly the authorities could not risk Rosenhain returning to his democratic cause so they required him to sign an official declaration that he would not give any support to democratic movements.
+* It is impossible to be certain why Rosenhain never published anything other than his Academy Prize paper despite having shown outstanding mathematical abilities.
+* Another possibility is that Jacobi's death in 1851, at a critical stage in Rosenhain's career, caused him to lose interest in research.
+* It was not only as a mathematician that Rosenhain was extremely gifted for he was also gifted in languages and music.
 
 Born 10 June 1816, Königsberg, Prussia (now Kaliningrad, Russia). Died 14 May 1887, Berlin, Germany.
 

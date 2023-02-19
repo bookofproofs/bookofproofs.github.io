@@ -7,10 +7,10 @@ orderid: 1925
 title: Berdichevsky, Cecilia
 born: 1925
 died: 2010
-keywords: linear differential equations, autonomous differential equations, Bernoulli formula, Poisson manifold, Laplace Transformations, Volterra equations, Riccati equations
-description: Cecilia Berdichevsky, mathematician, developed general theories of linear differential equations, autonomous differential equations & the Bernoulli formula; pioneered research on Laplace Transformations; proved theorems & discovered integrations that solve differential equations.
+keywords: cecilia berdichevsky,berdichevsky
+description: Cecilia Berdichevsky was a mathematician who played a major role in developing work with the first computer to be installed in Argentina in 1961. This work ended in 1966 with the coup which caused many academics to leave Argentina. She remained in the country taking on numerous accounting and IT roles.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -22,20 +22,40 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Cecilia Berdichevsky** was a mathematician who played a major role in developing work with the first computer to be installed in Argentina in 1961. This work ended in 1966 with the coup which caused many academics to leave Argentina. She remained in the country taking on numerous accounting and IT roles.
 
-
-
-
 ### Mathematical Profile (Excerpt):
-1. Established the basis for a general theory of linear differential equations in matrix form.
-2. Published the influential treatise Autonomous Differential Equations, thoroughly revising the mathematical theory of linear differential equations.
-3. Developed the Bernoulli formula for the coefficients of a recurrence relation.
-4. Proved theorems regarding the existence and uniqueness of solutions for differential equations.
-5. Developed theory for smooth hyperbolic invariant manifolds that are used in the study of non-linear dynamical systems.
-6. Proved a theorem regarding the uniqueness of invariant invariant submanifolds in a smooth Poisson manifold.
-7. Authored various articles and books on linear and non-linear differential equations.
-8. Pioneered research on the existence, properties and generalizations of Laplace Transformations.
-9. Discovered the use of particular integrations in order to solve linear differential equations using the Laplace transform.
-10. Developed the theory of Volterra difference equations and Riccati differential equations.
+* The Tuwjasz family, unhappy at the increasingly dangerous situation for Jews, decided to leave Poland and Cecilia's father went to Argentina in 1928 to set up a new life for the family.
+* In 1930 Cecilia, her parents' only child, and her mother joined her father in Avellaneda, a port city in the province of Buenos Aires in Argentina.
+* Cecilia's father died not that long after they had settled in Avellaneda and, a few years later, her mother remarried.
+* Cecilia attended school in Avellaneda and it was at the High School she attended that she became friendly with a fellow pupil Rebeca Cherep.
+* Cecilia and Rebeca both loved mathematics and excelled at the topic at the High School.
+* Cecilia felt that there were two ways in which she could pursue a career in mathematics, either by doing an accounting degree or by studying for a B.Sc. in mathematics.
+* In 1951 Cecilia married Mario Berdichevsky (1921-1990), the son of Zelik Berdichevsky and Maria Olschansky.
+* In 1955 Cecilia accompanied Mario who was spending a year working in Paris, France and while there she decided to take a course studying statistics.
+* Rebeca had studied mathematics with Manuel Sadosky and had continued to encourage Cecilia to study pure mathematics.
+* Sadosky taught analysis at the University of Buenos Aires and Cecilia's friend Rebeca Guber was working as his assistant.
+* When Cecilia Berdichevsky returned to Argentina after spending the year in Paris, she enrolled to study mathematics at the University of Buenos Aires.
+* Berdichevsky was fifteen years older than Cora Sadosky which must have made her student years quite challenging.
+* This may explain why Manuel Sadosky spoke of Berdichevsky as being "a very shy young woman" when all who knew her later in life said she was extraordinarily outgoing.
+* Pilar Suter said Berdichevsky was a hard-working student who was one of the best students in every course she took.
+* While working for her B.Sc., Berdichevsky had been aware of the ongoing work to found a Computational Institute at the University of Buenos Aires and purchase a computer.
+* A small team began work with the new computer including Manuel Sadosky, Rebeca Guber, whom Berdichevsky describes as "a mathematician and excellent organiser" and Berdichevsky herself.
+* Berdichevsky received one of the fellowships and the second was never filled as nobody else had the necessary qualifications.
+* During her six months in England, Berdichevsky also found time to visit other computing centres such as the one at the University of Manchester and the one at the University of Cambridge.
+* While in France, Berdichevsky again attended lecture courses.
+* Back in Argentina, Berdichevsky continued to work at the Computational Institute.
+* When Manuel Sadosky was indisposed and could not give the theoretical lectures, Berdichevsky took over.
+* Cecilia, in addition to being a teacher, worked with Clementina at the Computational Institute.
+* Over time, the three students also joined the Computational Institute, and became colleagues and friends of Berdichevsky.
+* At the end of the day, the three of them and Cecilia would go to some pub chosen by Juan Carlos, the expert on the subject.
+* That day Cecilia did not return to her house until her doctor husband showed up unexpectedly.
+* "Take a good look at her," he told everyone, who had never seen him so angry, "because today is Cecilia's last day at the Institute.
+* She is finished, you will never see her around here again." The next day Cecilia reappeared punctually, as she did every day, to continue working hard on the Census issue.
+* Berdichevsky's exciting career at the Computational Institute came to an abrupt end in July 1966 as the result of a political coup.
+* From 1966 to 1970, Berdichevsky was a director of ACT and one of their consultants.
+* In all the references quoted below, we learn something of Berdichevsky's character.
+* "Cecilia is very enterprising," says Marcelo Larramendy, "once she gets something in her head, she doesn't stop.
+* For Ruti, her niece, Cecilia was ahead of her time.
+* "Cecilia is my aunt," says Julieta Burzomi, as if that phrase said it all.
 
 Born 30 March 1925, Vilnius, Poland (now Lithuania). Died 28 February 2010, Avellaneda, Argentina.
 

@@ -7,10 +7,10 @@ orderid: 1719
 title: Landen, John
 born: 1719
 died: 1790
-keywords: Landen, mathematics, mechanics, summation, elliptic functions, calculus, algebraic equations
-description: John Landen contributed to the development of mathematics through his work in mechanics, summation and elliptic functions, calculus, and algebraic equations.
+keywords: john landen,landen
+description: John Landen was an English amateur mathematician who wrote on mechanics, summation of series and elliptic functions.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Landen** was an English amateur mathematician who wrote on mechanics, summation of series and elliptic functions.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the concept of a 'Landen transformation' which is a complex analysis technique used to solve algebraic equations.
-2. Published a memoir in 1768 entitled "Institutiones calculi differentialis" which was the first work in differential calculus.
-3. Was a pioneering figure in the area of analytical geometry, introducing the use of rectangular coordinates and the method of generating curves from equations.
-4. Devised a new method for determining the next term of a converging series by using an infinite product, as well as several other series transformations. 
-5. Pioneered the use of graphs to express changing data, such as in his book “New Analysis of the Figure of the Earth” in which he demonstrated the accuracy of his methods.
-6. Pioneered the use of the 'number sequence' method to solve algebraic equations.
-7. Contributed significantly to the development of the calculus of variations.
-8. Developed a method of determining a numerical approximation to the area of a curve above the x-axis.
+* John trained to become a surveyor and practised that occupation in Peterborough from 1740 to 1762.
+* Landen was never a professional mathematician and his interest in mathematics was for him a leisure activity.
+* Lacroix discussed this work in Traité Du calcul différentiel where he stated that Landen was the first to present calculus in a purely algebraic setting.
+* Landen's work appeared as A Short Discourse Concerning the Residual Analysis published in 1758 and, in a more complete form, in Residual analysis which was published in 1764.
+* His ideas on this topic were later taken up by Lagrange although he describes Landen's contribution as an unsophisticated early attempt.
+* Landen investigated the dilogarithm in 1760, about the same time as Euler, and introduced the trilogarithm.
+* Landen wrote on dynamics, summation of series and an important transformation giving a relation between elliptic functions.
+* Naturally, Landen's language is that of his time, in terms of fluents and fluxions, and his arguments are not rigorous in the modern sense.
+* Applications of this result appeared in Landen's Mathematical memoirs of 1780.
 
 Born 23 January 1719, Peakirk (near Peterborough), England. Died 15 January 1790, Milton (near Peterborough), England.
 

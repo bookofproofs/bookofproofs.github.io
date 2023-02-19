@@ -4,13 +4,13 @@ categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy
 orderid: 1748
-title: De Tinseau, D'Amondans Charles
+title: De Tinseau, D&amp;#x27;Amondans Charles
 born: 1748
 died: 1822
-keywords: Tinseau, Calculus, Least Squares, Metric System, Tricolor Roundabout, Projectiles, Differential Equations
-description: Tinseau was a French mathematician who developed calculus textbooks, the principle of least squares, a metric system, tricolor roundabout, projectiles, analytical geometry and differential equations.
+keywords: charles tinseau,de
+description: Charles Tinseau was a French mathematician who wrote on the theory of surfaces.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Charles Tinseau** was a French mathematician who wrote on the theory of surfaces.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a calculus textbook for French students based on the works of Gottfried Wilhelm Leibniz, helping to popularize calculus in France.
-2. Developed an early version of the principle of least squares with the help of mathematicians Joseph-Louis Lagrange and Adrien-Marie Legendre.
-3. Able to convert measurements from the traditional French units to the more modern metric system, which was a critical development in the history of mathematics.
-4. Co-invented the tricolor roundabout, a mechanical device used to determine how surfaces intersect.
-5. Applied mathematics and physics to the study of projectiles, particularly to the development of a superior type of cannon.
-6. Illustrated the physical nature of the three-body problem in celestial mechanics, which turned into an important theoretical physics and mathematics subject.
-7. Used geometrical methods to solve equations of degrees greater than two, setting a standard for algebraic equations. 
-8. Pioneered methods of analytical geometry which enabled the modern definition of a differential equation.
+* However, there was still much pro-Spanish feeling in the region when Charles was growing up there.
+* His parents were Marie-Nicolas de Tinseau and Jeanne Petramand of Velay and Charles was one of their seven children, in fact the youngest but one.
+* It seems highly unlikely that Tinseau would have become a mathematician but for the inspiring teaching and encouragement of Monge.
+* For twenty years, from 1771 to 1791, Tinseau was an officer in the engineering corps.
+* Certainly given his noble birth, one would expect Tinseau to be a supporter of the French monarchy and this was indeed the case; he was a passionate supporter of the Bourbons despite the problems that they were encountering.
+* Tinseau joined in the efforts to support the doomed Bourbon monarchy but by this time the situation was out of control.
+* There he led a collection of émigrés including Tinseau.
+* Charles-Philippe, Comte D'artois (later Charles X) was the fifth son of the dauphin Louis and Maria Josepha of Saxony.
+* Charles-Philippe travelled to Austria, Prussia, Russia, and England.
+* Tinseau also lived in exile and conducted a vigorous campaign in support of the Bourbons and against the Revolution.
+* He published a series of anti-Revolution writings from 1792 onwards and tried to organise uprisings in France, as did Charles-Philippe who made an unsuccessful attempt to land in the Vendée to lead a royalist rising there.
+* Both men had a military career and Tinseau, with the rank of brigadier general, acted as aide de camp to Charles-Philippe.
+* In fact Tinseau supported the Allied powers against France and used his military knowledge to pass on information of strategic importance to the Allies.
+* Tinseau was as opposed to Napoleon and all he stood for as he had been to the earlier years of the Revolution.
+* This was vigorously rejected by Tinseau who continued to be a devoted supporter of the Bourbons.
+* Tinseau, like Charles-Philippe, lived in exile in England and was offered British nationality by the government.
+* Charles-Philippe returned to France after the fall of Napoleon but Tinseau did not return until 1816.
+* Tinseau wrote on the theory of surfaces, working out the equation of a tangent plane at a point on a surface, and he generalised Pythagoras's theorem proving that the square of a plane area is equal to the sum of the squares of the projections of the area onto mutually perpendicular planes.
 
 Born 19 April 1748, Besançon, France. Died 21 March 1822, Montpellier, France.
 

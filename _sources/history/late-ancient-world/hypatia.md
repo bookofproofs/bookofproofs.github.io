@@ -7,10 +7,10 @@ orderid: 370
 title: Hypatia Of Alexandria
 born: 370
 died: 415
-keywords: Hypatia, Mathematics, Geometry, Algebra, Astronomy, Christian, Ptolemy
-description: Hypatia pioneered mathematics, from geometry and algebra to astronomy, as well as developing theories such as conic sections and real numbers, and was tragically killed by a Christian sect.
+keywords: hypatia,hypatia
+description: Hypatia was the first woman to make a substantial contribution to the development of mathematics. She was killed by a fanatical Christian sect.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hypatia** was the first woman to make a substantial contribution to the development of mathematics. She was killed by a fanatical Christian sect.
 
 ### Mathematical Profile (Excerpt):
-1. Developed innovative and influential theories in geometry, algebra, and astronomy.
-2. Became the first woman to edit and publish her own scientific journal, ‘The Hypatia of Alexandria’
-3. Used innovative mathematical techniques such as conic sections to calculate the areas of circles, parabolas and other geometric figures.
-4. Developed and commented on the early theories of Ptolemy and Euclid.
-5. Provided detailed hermeneutical analysis of elements of Neoplatonic Theology and Philosophical dialogue.
-6. Pioneered the study and application of the concept of congruence.
-7. Advanced the understanding of the spiral and its relationship to the origin of the cosmos.
-8. Used symbolic notation to explain geometric and algebraic theorems.
-9. Developed the empirical concept of real numbers.
-10. Discovered new solutions to equations.
+* Hypatia was the daughter of the mathematician and philosopher Theon of Alexandria and it is fairly certain that she studied mathematics under the guidance and instruction of her father.
+* It is rather remarkable that Hypatia became head of the Platonist school at Alexandria in about 400 AD.
+* Hypatia based her teachings on those of Plotinus, the founder of Neoplatonism, and Iamblichus who was a developer of Neoplatonism around 300 AD.
+* Hypatia taught these philosophical ideas with a greater scientific emphasis than earlier followers of Neoplatonism.
+* Hypatia came to symbolise learning and science which the early Christians identified with paganism.
+* Many of the letters that Synesius wrote to Hypatia have been preserved and we see someone who was filled with admiration and reverence for Hypatia's learning and scientific abilities.
+* Hypatia was a friend of Orestes and this, together with prejudice against her philosophical views which were seen by Christians to be pagan, led to Hypatia becoming the focal point of riots between Christians and non-Christians.
+* A few years later, according to one report, Hypatia was brutally murdered by the Nitrian monks who were a fanatical sect of Christians who were supporters of Cyril.
+* There is no evidence that Hypatia undertook original mathematical research.
+* In addition to the joint work with her father, we are informed by Suidas that Hypatia wrote commentaries on Diophantus's Arithmetica, on Apollonius's Conics and on Ptolemy's astronomical works.
+* The passage in Suidas is far from clear and most historians doubt that Hypatia wrote any commentaries on Ptolemy other than the works which she composed jointly with her father.
+* All Hypatia's work is lost except for its titles and some references to it.
+* As mentioned above, some letters of Synesius to Hypatia exist.
+* Charles Kingsley (best known as the author of The Water Babies) made her the heroine of one of his novels Hypatia, or New Foes with an Old Face.
 
 Born about 370, Alexandria, Egypt. Died March 415, Alexandria, Egypt.
 

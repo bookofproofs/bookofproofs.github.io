@@ -7,10 +7,10 @@ orderid: 1731
 title: Maseres, Francis
 born: 1731
 died: 1824
-keywords: Mathematics, Francis Maseres, Algebraic & Analytic Geometry, Complex Analysis, Wave Equation, Polynomial Decomposition, Topology
-description: Francis Maseres was an English mathematician who made major contributions in Mathematics, including Algebraic and Analytic Geometry, Complex Analysis, Wave Equation, Polynomial Decomposition, and Topology.
+keywords: francis maseres,maseres
+description: Francis Maseres was an English mathematician who wrote some influential text-books.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Francis Maseres** was an English mathematician who wrote some influential text-books.
 
 ### Mathematical Profile (Excerpt):
-1. Pioneered work on integrating algebraic functions with complex analysis.
-2. Developed methods of investigating the behaviour of algebraic curves.
-3. Extended the Laplace transformation to solve several types of linear differential equations.
-4. Established the relationship between inverse slopes and curvature of curves.
-5. Was the first to extend Jean d'Alembert's wave equation to multiple dimensions.
-6. Founded the dual concept of algebraic and analytic geometry.
-7. Developed the theory of analytical tiling, outlining key ideas which later became fundamental in topology. 
-8. Presented the theory on polynomial decomposition and its applications to computational algebra. 
-9. Discovered a method for solving the cubic equation with real roots. 
-10. Discovered theorems on parametric equations and the convergence of infinite series.
+* Peter Maseres was a doctor who first lived in Broad Street, Soho, London but then moved to Rathbourne Place.
+* Francis had a brother Peter and they were brought up in a family that was well off.
+* Francis attended the Rev Richard Wooddeson's School in Kingston-upon-Thames before matriculating at Clare College, Cambridge, on 4 July 1748.
+* Francis' brother Peter matriculated on the same day and both brothers graduated from Clare College Cambridge in 1752 with a degree in classics and mathematics.
+* Francis was ranked as fourth wrangler meaning that he was fourth out of the students awarded a first class degree.
+* Francis was awarded the first chancellor's classical medal which was presented to him by the Duke of Newcastle.
+* In 1750 Maseres entered the Inner Temple meaning he was training to join the legal profession.
+* Maseres wrote many mathematical works which show a complete lack of creative ability.
+* It is probable that Maseres rejected all mathematics which he could not understand.
+* Maseres had an unfortunate influence on the teaching of algebra in Britain for several decades.
+* Of the reprints that Maseres made at his own expense, the most significant is the "Scriptores logarithmici" (1791-1807), six volumes devoted to the subject of logarithms, including works of Kepler, Napier, Snell, and others, interspersed with original tracts on related subjects.
+* Presumably a number of authors were indebted to Maseres for financial assistance of this sort.
 
 Born 15 December 1731, London, England. Died 19 May 1824, Reigate, Surrey, England.
 

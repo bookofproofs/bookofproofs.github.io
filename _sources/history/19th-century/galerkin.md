@@ -7,10 +7,10 @@ orderid: 1871
 title: Galerkin, Boris Grigorievich
 born: 1871
 died: 1945
-keywords: Galerkin Method, Key Variational Principle, Finite Element Method, Galerkin Triangles, Generalised Integral Transforms, Rayleigh-Ritz Method, Kinematical Approximation
-description: Boris Grigorievich Galerkin pioneered methods for solving Ordinary Differential Equations, Variational Form of the equations of linear elasticity, Finite Element Method and more.
+keywords: boris g galerkin,galerkin
+description: Boris Grigorievich Galerkin was a Soviet mathematician and engineer best known for his method of approximate integration.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Boris Grigorievich Galerkin** was a  Soviet mathematician and engineer best known for his method of approximate integration.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Galerkin Method for solving Ordinary Differential Equations, which has become a basic approach for the numerical analysis and modeling of many practical problems.
-2. Formulated and developed the Key Variational Principle, a formulation and generalisation of the classical Hamilton's Principle of Mechanics.
-3. Pioneered the Finite Element Method (FEM), a numerical approximation technique used to solve partial differential equations, which revolutionized computational mechanics.
-4. Formulated the variational form of the equations of linear elasticity and derived the corresponding coupled equations for strain and displacement fields.
-5. Developed the Enriched Finite Element Method for the analysis of solids and fluids.
-6. Demonstrated the existence of three-dimensional structures, now referred to as Galerkin triangles, which are often used to construct models for solving elasticity problems.
-7. Conceptualised the concept of Generalised Integral Transforms, a multi-dimensional version of Fourier Transforms.
-8. Pioneered the use of the Rayleigh-Ritz Method for solving boundary-value problems.
-9. Coined the term ‘Kinematical Approximation’ and developed methods to estimate kinematic fields in dynamical systems.
+* He attended secondary school in Minsk, then in 1893 he entered the Petersburg Technological Institute.
+* Here he studied mathematics and engineering but he needed to make money to survive so at first he took on private tutoring, then from 1896 he worked as a designer.
+* After graduating from the Technological Institute in 1899 he got a job at the Kharkov Locomotive Plant.
+* In 1903 Galerkin went to St Petersburg and there he became engineering manager at the Northern Mechanical and Boiler Plant.
+* From 1909 Galerkin began to study building sites and construction works throughout Europe.
+* In the same year he began teaching at the Petersburg Technological Institute.
+* His first publication on longitudinal curvature also appeared in 1909, work which carried on from beginnings which had been laid by Euler.
+* This paper was highly relevant to his study of construction sites since the results were applied to the construction of bridges and frames for buildings.
+* His visits around European construction sites ended around 1914 but his academic work then turned to the area for which he is today best known, namely the method of approximate integration of differential equations known as the Galerkin method.
+* In 1920 Galerkin was promoted to Head of Structural Mechanics at the Petersburg Technological Institute.
+* By this time he also held two chairs, one in elasticity at the Leningrad Institute of Communications Engineers and one in structural mechanics at Leningrad University.
+* In 1921 the St Petersburg Mathematical Society was reopened (it had closed in 1917 due to the Russian Revolution) as the Petrograd Physical and Mathematical Society.
+* Galerkin played a major role in the Society along with Steklov, Sergei Bernstein, Friedmann and others.
+* Other work for which Galerkin is famous is his work on thin elastic plates.
+* His major monograph on this topic Thin Elastic Plates was published in 1937.
+* From 1940 until his death, Galerkin was head of the Institute of Mechanics of the Soviet Academy of Sciences.
+* Galerkin was a consultant in the planning and building of many of the Soviet Union's largest hydrostations.
+* In 1929, in connection with the building of the Dnepr dam and hydroelectric station, Galerkin investigated stress in dams and breast walls with trapezoidal profile.
+* His results were used in planning the dam.
 
 Born 4 March 1871, Polotsk, Belarus. Died 12 June 1945, Moscow, USSR.
 

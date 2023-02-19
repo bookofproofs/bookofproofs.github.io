@@ -7,10 +7,10 @@ orderid: 1942
 title: Aubin, Thierry Émilien Flavien
 born: 1942
 died: 2009
-keywords: Thierry Aubin, abstract algebra, algebraic geometry, Riemannian geometry, algebraic topology, Galois theory, mathematical education
-description: Thierry Aubin, expert in Riemannian geometry and PDE, made breakthroughs in abstract algebra, algebraic geometry, algebraic topology, and Galois theory; authored a textbook in abstract algebra; awarded four prizes by French Mathematical Society.
+keywords: thierry aubin,aubin
+description: Thierry Aubin was a French mathematician who was a leading expert on Riemannian geometry and non-linear partial differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Thierry Aubin** was a French mathematician who was a leading expert on Riemannian geometry and non-linear partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed groundbreaking theories in abstract algebra and algebraic geometry.
-2. Published several papers on abstract algebra and related topics.
-3. Established new connections between algebraic geometry and other mathematical fields.
-4. Was awarded four prizes by the French Mathematical Society for his accomplishments in mathematics.
-5. Spearheaded research on algebraic topology and Galois theory.
-6. Constructed models to explain certain algebraic structures in geometric terms.
-7. Authored a textbook on abstract Algebra that is widely used in mathematical education.
+* Aubin submitted his thesis and graduated with a doctorate in 1969 but, in the previous year, he had already been appointed to the University of Lille.
+* Philippe Delanoë attended Aubin's graduate course at the Pierre and Marie Curie University in 1976-77 and then became his doctoral student.
+* This became known as the 'Yamabe problem' and it was something to which Aubin made substantial contributions.
+* Aubin proved an important special case of the Calabi conjecture in Equations du type Monge-Ampère sur les variétés kählériennes compactes Ⓣ(Equations of the Monge-Ampere type on compact Kähler varieties).
+* In fact in 1978 it was Shing-Tung Yau who extended Aubin's results and completed the proof of the Calabi conjecture which earned him a Fields medal in 1982.
+* Professor Aubin has also written several books about geometric PDE that have a wide influence in geometric analysis.
+* We consider Professor Aubin as one of the anchor in the field of geometric PDE in recent decades.
+* Let us now look briefly at three important books published by Aubin.
+* In 2001, Aubin published A course in differential geometry.
+* Aubin was honoured with the award of the Prix Servant from the Academy of Sciences in 1982.
+* Aubin applied these methods in novel ways to fully nonlinear equations, and to delicate semilinear variational problems.
+* Thierry Aubin was one of the true leaders.
+* Thierry Aubin was also a complex human being in search of new horizons.
+* Philippe Delanoë completed this Ph.D. with Aubin as his advisor in June 1982.
 
 Born 6 May 1942, Béziers, France. Died 21 March 2009, Paris, France.
 

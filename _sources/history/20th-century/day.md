@@ -7,10 +7,10 @@ orderid: 1941
 title: Day, Richard Alan
 born: 1941
 died: 1990
-keywords: Alan Day, lattice theory, universal algebra, Day's Theorem, probabilistic method, Day-Schoenberg conjecture, Day Transformation, fractional Gray code, algorithm, prime factorizations, game theory
-description: Alan Day was a Canadian mathematician who made significant contributions in lattice theory, universal algebra, and game theory, including the creation of Day's Theorem, the Day-Schoenberg conjecture and the Day Transformation.
+keywords: alan day,day
+description: Alan Day was a Canadian mathematician who worked in lattice theory and universal algebra.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Alan Day** was a Canadian mathematician who worked in lattice theory and universal algebra.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered and proved Day's Theorem, a number theory theorem
-2. Co-authored The Probabilistic Method in Graph Theory, a book outlining the probabilistic proof of graph theory
-3. Helped create the Day-Schoenberg conjecture, a mathematical model detailing the behavior of outer billiards trajectories
-4. Developed the commonly used Day Transformation in graph theory
-5. Proposed the idea of a fractional Gray code, a type of binary number notation
-6. Developed an algorithm to effectively compute prime factorizations of large numbers
-7. Co-authored The Limits of Contracting, a book outlining the mathematical theory of negotiation in game theory
+* It was in North Bay that Alan attended primary and then secondary school.
+* From 1959 to 1963 Day studied mathematics at McMaster University in Hamilton, Ontario.
+* Indeed Day quickly demonstrated that he had outstanding research potential.
+* Some of Day's early papers are: Injectives in non-distributive equational classes of lattices are trivial (1970), A note on the congruence extension property (1971), Injectivity in equational classes of algebras (1972), Splitting algebras and a weak notion of projectivity (1973), Filter monads, continuous lattices and closure systems (1975), and Splitting lattices generate all lattices (1975).
+* Day made many major contributions to lattice theory.
+* This paper introduced Day famous doubling construction.
+* Of course, everyone does, and it was for that reason that Alan was particularly proud of his doubling construction.
+* It is a subject to which Alan kept returning to the end.
+* Day wrote papers on splitting modular lattices, frames and coordinate rings, critical configurations for the Arguesian identity, modular congruence varieties, and application of modular lattices to database theory.
+* Alan Day was certainly a leader in the new wave of computer enthusiasts.
+* Day was married to Lise Minville.
 
 Born 9 October 1941, Sault Ste Marie, Ontario, Canada. Died 26 November 1990, Thunder Bay, Ontario, Canada.
 

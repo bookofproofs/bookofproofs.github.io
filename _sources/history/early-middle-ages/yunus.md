@@ -4,13 +4,13 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: african,ancient-arab,astronomy,origin-egypt
 orderid: 950
-title: Ibn Yunus, Abu'l-Hasan Ali Ibn Abd al-Rahman
+title: Ibn Yunus, Abu&amp;#x27;l-Hasan Ali Ibn Abd al-Rahman
 born: 950
 died: 1009
-keywords: Islamic mathematician, trigonometry, astronomical observations, sine functions, spherical geometry, pi, navigation
-description: Islamic mathematician Ibn Yunus made revolutionary contributions to trigonometry, astronomy, spherical geometry and navigation, including discovering the sine functions and calculating pi and the Earth's radius.
+keywords: ibn yunus,ibn
+description: Ibn Yunus was an Islamic mathematician known for his astronomical observations and for his many trigonometrical and astronomical tables.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,31 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ibn Yunus** was an Islamic mathematician known for his astronomical observations and for his many trigonometrical and astronomical tables.
 
 ### Mathematical Profile (Excerpt):
-1. He made significant progress in trigonometry, discovering the sine functions, tables of tangents and cotangents, and the use of sine and other trigonometric functions in astronomical calculations.
-2. He accurately measured the Earth's radius and circumference, refining existing knowledge of spherical geometry and the practical application of these calculations.
-3. He pioneered methods of calculating pi accurately, contributing to the development of the approximate formula 3.1416 (often used to calculate the circumference of a circle).
-4. He was the first to apply the mathematical principles of combination to astronomy, enabling astrological observations to be made with more accuracy.
-5. He also helped develop methods for calculating the position of stars and planets, thus enabling more accurate navigation of sea vessels.
-6. He made significant advancements in interpolation techniques and was the first to calculate the difference between the mean tropical year and the sidereal year, which is the length of time it takes the Earth to make a full rotation on its axis.
+* As the name indicates, his great-grandfather was called Yunus, his grandfather was Ahmad, and his father Abd al-Rahman.
+* We know little of ibn Yunus's childhood but we do know that he grew up in a period of military conquest in Egypt.
+* Ibn Yunus was closely connected with the Fatimids and two Caliphs supported his scientific work.
+* Al-Aziz became Caliph in 975 on the death of his father al-Mu'izz and, two years later, ibn Yunus began to make astronomical observations.
+* Although there is uncertainty about the instruments that ibn Yunus used, it is claimed by early writers that al-Aziz provided ibn Yunus with at least some instruments.
+* Famed for his astronomical observations, ibn Yunus was also an astrologer but he is most famous for his many trigonometrical and astronomical tables.
+* Of course it was very reasonable for a Caliph to support the type of astronomical work that ibn Yunus was undertaking.
+* Perhaps al-Aziz would have given better support to ibn Yunus if he had not been so involved in military and political ventures in northern Syria trying to expand the Fatimid empire.
+* For most of his 20 year reign he worked towards this aim while ibn Yunus toiled on his astronomical work.
+* Certainly al-Hakim supported ibn Yunus in his astronomical work, although it is hard to determine the strength of that support.
+* Perhaps al-Hakim's interest in astrology meant that he favoured ibn Yunus who is reported by his biographers to have devoted considerable amounts of time to making astrological predictions.
+* Ibn Yunus and al-Hakim were both eccentrics, although al-Hakim's eccentricities were more damaging, while ibn Yunus's sound rather typical of someone totally absorbed in academic pursuits.
+* On the other hand al-Hakim ordered the sacking of the city al-Fustat, the city in which ibn Yunus sometimes observed from his great-grandfather's house.
+* However, probably because of his interest in astrology, al-Hakim kept some astronomical instruments in his house overlooking Cairo and we know that on at least one occasion ibn Yunus observed Venus from al-Hakim's house.
+* Ibn Yunus's major work, an astronomical handbook, was al-Zij al-Hakimi al-kabir.
+* 'Al-kabir' means 'large' which is apt and 'al-Hakimi' means that the work is dedicated to Caliph al-Hakim who certainly supported ibn Yunus.
+* There are lists of observations made by Yunus and also observations made by his predecessors.
+* We can confirm, using modern knowledge of the positions of the planets, that ibn Yunus was exactly right in his description and that the distance of one third of a degree that he gives is again exactly right.
+* We gathered to observe this eclipse at al-Qarafa, in the Mosque of Ibn Nasr al Maghribi.
+* Ibn Yunus gives tables to convert dates between these calendars.
+* Many other tables have been attriributed to ibn Yunus.
+* The author notes that ibn Yunus used data for these tables that he had collected for the Hakimi Zij.
+* The high degree of accuracy displayed by these tables suggests to D A King that ibn Yunus used systems of nonlinear interpolation.
+* Perhaps it is worth mentioning that, contrary to claims which are often made, there is no evidence to suggest that ibn Yunus used a pendulum for time measurements.
+* Ibn Yunus predicted the date of his own death to be in seven days time when he was in good health.
 
 Born 950, Egypt. Died 1009, Fustat, Egypt.
 

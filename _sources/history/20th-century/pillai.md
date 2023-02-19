@@ -7,10 +7,10 @@ orderid: 1920
 title: Pillai, K. C. Sreedharan
 born: 1920
 died: 1985
-keywords: India, Mathematics, Statistics, International Mathematical Olympiad, Shanti Swarup Bhatnagar Award, Padma Shri Award, TWAS Prize
-description: Sree Pillai was an Indian mathematician who represented India in International Mathematical Olympiad, won multiple awards and authored acclaimed books. He also served Indian govt. in scientific advisory roles.
+keywords: sree pillai,pillai
+description: Sree Pillai was an Indian mathematician who worked in America. His principle work was in statistics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Sree Pillai** was an Indian mathematician who worked in America. His principle work was in statistics.
 
 ### Mathematical Profile (Excerpt):
-1. Represented India in the International Mathematical Olympiad in 1969 and 1970, won a silver medal and shared a bronze medal respectively.
-2. Was the first Indian to win the prestigious Shanti Swarup Bhatnagar Award in Mathematical Sciences in 1974.
-3. Authored the acclaimed books ‘Mathematical Circles Squared’ and ‘Mathematical Circles Revisited’ which helps students get a better understanding of classical mathematics.
-4. Received the prestigious Padma Shri award in 2004.
-5. Served as the Director of the Institute of Mathematical Sciences in Chennai from 1998-2010.
-6. Was the winner of the TWAS (The World Academy of Sciences) Prize for Mathematics in 2006.
-7. Has made significant contributions in the field of number theory particularly with regard to Several Complex Variables and Graph Theory. 
-8. Served as a scientific advisor to the Indian government on various occasions.
+* In 1937, just after Pillai began his studies there, the University of Travancore changed its name to the University of Kerala.
+* Pillai was appointed a lecturer at the University of Kerala in 1945 and worked there for six years until he went to the United States in 1951.
+* After studying for one year at Princeton, Pillai went to the University of North Carolina where he was awarded a doctorate in statistics in 1954.
+* In 1962 Pillai was appointed Professor of Statistics and Mathematics at Purdue University.
+* Pillai's research was in statistics, in particular in multivariate statistical analysis.
+* Pillai was honoured by being elected a Fellow of the American Statistical Association and a Fellow of the Institute of Mathematical Statistics.
+* As well as his work at Purdue in developing the graduate programmes these Pillai was a keen golfer.
 
 Born 24 February 1920, Kerala, India. Died 5 June 1985, Lafayette, Indiana, USA.
 

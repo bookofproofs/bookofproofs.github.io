@@ -7,10 +7,10 @@ orderid: 1903
 title: Segre (2), Beniamino
 born: 1903
 died: 1977
-keywords: Algebraic Geometry, Finite Geometry, Beniamino Segre Conjecture, Strong Subregularity Conjecture, Harmonic Analysis, Bochner-Riesz Conjecture, Sobolev Inequalities
-description: Beniamino Segre was an Italian mathematician who made many groundbreaking contributions to algebraic geometry, finite geometry, harmonic analysis and more.
+keywords: beniamino segre,segre
+description: Beniamino Segre was an Italian mathematician who was a major contributor to algebraic geometry and was one of the founders of finite geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Beniamino Segre** was an Italian mathematician who was a major contributor to algebraic geometry and was one of the founders of finite geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Beniamino Segre Conjecture with Dimitri Shlyakhtenko in 2000.
-2. Developed a new proof for the strong subregularity conjecture.
-3. Published several articles on harmonic analysis and inequalities.
-4. Proved the existence of the normal-type representation for the Fourier transform of the time-frequency concentrations.
-5. Established abstract analogues of Littlewood-Paley inequalities for polynomials.
-6. Established new results for complex interpolation of vector-valued Hardy spaces.
-7. Proved a remarkable inequality for the Gaussian measure.
-8. Solved the Bochner-Riesz conjecture in 2015.
-9. Discovered new properties of operators arising from harmonic analysis.
-10. Proved several theorems concerning Sobolev inequalities.
+* Beniamino attended school in Turin and, at the age of sixteen having won a university scholarship, he entered Turin University in 1919.
+* His teachers at Turin University included Guiseppe Peano, Gino Fano, Guido Fubini, Carlo Somigliana and Corrado Segre.
+* His thesis advisor was Corrado Segre.
+* Few mathematicians have published a substantial paper in a totally different area of mathematics from their thesis in the year they graduated but this is exactly what Segre achieved publishing Sul moto sferico vorticoso di un fluide incompressibile Ⓣ(On vortex spherical motion of an incompressible fluid) (1923).
+* After studying in Paris with Élie Cartan for the year 1926-27, supported by a Rockefeller scholarship, Segre became Francesco Severi's assistant in Rome.
+* Article 4 of the Royal Decree Law of 5 September 1938 was titled 'Measures for the defence of race in fascist schools' and, after Segre had been identified as Jewish by the University of Bologna, he was expelled from the University on 16 October 1938.
+* Segre, with his wife and three young children, fled to England as refugees.
+* This was probably the unhappiest period in the family's life, and later they were rarely willing to speak of it at all; during it, while Mrs Segre was living in London with Leonard Roth and his Italian wife, who were old friends, their youngest child died; and when the Andorra Star, carrying prisoners of war and internees to Canada, was sunk in the Atlantic, she had no idea for some time whether her husband was on it or not.
+* Segre rejoined his family in London and later they returned to Cambridge, but it is perhaps hardly surprising that his list of publications shows a marked gap during the early war years.
+* Of course, despite the extremely difficult circumstances, Segre continued to devote himself to mathematics, writing the monograph The Non-singular Cubic Surfaces during these years.
+* Segre was appointed to a teaching post in Manchester with Louis Mordell in 1942.
+* Segre's output of research papers on geometry and related topics reached nearly 300 not counting a long list of other publications.
+* Segre's contributions to geometry are many but, particularly in the latter part of his life, he is remembered for his study of geometries over fields other than the complex numbers.
+* By 1955 Segre was concentrating on geometries over a finite field and was producing results which we would now class as combinatorics rather than geometry.
+* ended with Segre and another member of the audience occupying opposite ends of the blackboard and holding forth quite independently.
+* was constantly interrupted by Lefschetz in strong disagreement: the situation developed with Segre at the blackboard, firmly explaining what he thought was the resolution of the difference, while Severi and Lefschetz continued to shout each other down in French.
+* In 1973 Segre reached the age of 70 and retired from his university chair.
+* Segre continued to keep up the high work rate which had marked his whole career, but his wife's death was a blow from which he never recovered.
 
 Born 16 February 1903, Turin, Italy. Died 22 October 1977, Frascati, Italy.
 

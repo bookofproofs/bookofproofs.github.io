@@ -7,10 +7,10 @@ orderid: 1842
 title: Rosanes, Jakob
 born: 1842
 died: 1922
-keywords: Jakob Rosanes, Algebraic Geometry, Invariant Theory, Analytische Geometrie des Raumes, Absolute Geometry, Projective Geometry, Resultants
-description: Jakob Rosanes, German mathematician and chess master, is remembered for his influential work in algebraic geometry, invariant theory, absolute and projective geometry, and resultants.
+keywords: jakob rosanes,rosanes
+description: Jakob Rosanes was a German mathematician and chess master who worked on algebraic geometry and invariant theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jakob Rosanes** was a German mathematician and chess master who worked on algebraic geometry and invariant theory.
 
 ### Mathematical Profile (Excerpt):
-1. Published a book on geometry entitled Analytische Geometrie des Raumes, in 1832.
-2. Introduced a number of concepts including absolute geometry and projective geometry which would become the foundation for various branches of contemporary mathematics.
-3. Published a number of mathematical treatises, including Über analytische Geometrie, Über die Transformation der algebraischen Formen, and Über die algebraischen Curven.
-4. Founded the Academy of ‘Loideneck’, a college dedicated to education in mathematics, in 1834.
-5. Discovered the pair of basic invariants of a binary form in 1838
-6. Developed the method of resultants, which is still used in mathematics today.
-7. Published the Goldberg-Coxeter paper, a formative work in the area of abstract algebra, in 1940.
-8. Established the concept of modern group theory, now widely used in mathematics, in 1945.
+* Akiva Eger's second marriage was to Brendel HaLevy Feibelman, the eleventh of their children being Beile Eger who was Jakob Rosanes's mother.
+* Jacob's father was Leo Meir Rosanes who had married Hadassah Eger, another of the children of Akiva Eger.
+* However after Hadassah's death in Brody some time before 1837, Leo Meir Rosanes married her sister Beile Eger who had been born in Posen in 1822.
+* Leo Rosanes, Jakob's father, was a merchant in Brody which was becoming increasingly important as a trade centre because of its location which made it a transit point for goods moving between the Austrian and Russian empires.
+* Jakob's education was not quite what one would have expected of someone who would go on to an academic career.
+* Rosanes, however, wanted to attend university and between 1858 and 1860 he prepared himself to enter the University of Breslau.
+* In addition to Schroeter, Rosanes had been taught by some excellent lecturers at Breslau such as Ferdinand Joachimsthal, Rudolf Lipschitz, O E Meyer, and Paul Bachmann.
+* He formed a close friendship with his fellow student Moritz Pasch, who also had Heinrich Schroeter as a thesis advisor and was awarded his doctorate in the same year as Rosanes.
+* Following the award of his doctorate, Rosanes went to Berlin to continue his studies.
+* In fact there were gaps in both Rosanes' and Max Noether's proofs, and these were not filled until the first years of the 20th  century by Guido Castelnuovo.
+* Rosanes taught at Breslau for the rest of his life.
+* Rosanes wrote on many aspects of algebraic geometry and invariant theory (particularly between 1870 and 1890) which were in fashion at that time.
+* Max Born attended Rosanes' course on linear algebra, which introduced him to matrix theory, in the first years of the 20th  century.
+* Not everyone was an enthusiastic as Born, however, for Rosanes had a mixed reputation as a lecturer.
+* Rosanes' rectorial address, however, everyone agreed was inspirational.
+* Perhaps Rosanes' main interest outside mathematics was chess.
+
+Born attended Rosanes' course on linear algebra, which introduced him to matrix theory, in the first years of the 20th  century.
+* Not everyone was an enthusiastic as Born, however, for Rosanes had a mixed reputation as a lecturer.
+* Rosanes' rectorial address, however, everyone agreed was inspirational.
+* Perhaps Rosanes' main interest outside mathematics was chess.
 
 Born 16 August 1842, Brody, Austria-Hungary (now Ukraine). Died 6 January 1922, Breslau, Germany (now Wrocław, Poland).
 

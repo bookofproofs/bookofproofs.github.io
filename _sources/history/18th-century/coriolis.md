@@ -7,10 +7,10 @@ orderid: 1792
 title: De Coriolis, Gaspard Gustave
 born: 1792
 died: 1843
-keywords: Coriolis, force, frame of reference, laws of motion, Coriolis Effect, centrifugal force, angular velocity
-description: Gaspard-Gustave de Coriolisdeveloped the Coriolis force, laws of motion, Coriolis Effect and centrifugal force, as well as equations of motion and angular velocity.
+keywords: gaspard-gustave de coriolis,de
+description: Gaspard-Gustave de Coriolis is best remembered for the Coriolis force. He showed that the laws of motion could be used in a rotating frame of reference.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,30 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Gaspard-Gustave de Coriolis** is best remembered for the Coriolis force. He showed that the laws of motion could be used in a rotating frame of reference.
 
 ### Mathematical Profile (Excerpt):
-1. Coriolis developed the Coriolis force, which explains how the Earth influences the movement of objects and fluids. 
-2. He developed the concept of a rotating frame of reference, which became fundamental to understanding how the Earth and other planets move. 
-3. He formulated the equations of motion in a rotating frame of reference, which are now known as the equations of Coriolis. 
-4. He developed the Coriolis Effect, which explains the behavior of large-scale systems moving over a rotating surface such as the Earth. 
-5. He developed the centrifugal force, which explains the behavior of particles moving in a curved path under the influence of the Coriolis force. 
-6. He developed the equations of vertical motion, which describe the behavior of objects falling through a rotating atmosphere or oceans. 
-7. He derived a relationship between the speed of an object and the pressure exerted by the atmosphere or other forces on it, which became known as the Coriolis relation. 
-8. He developed the concepts of absolute angular momentum and relative angular momentum, which are used to explain motion in a rotating environment. 
-9. He developed the concept of kinetic and potential energy, which are used to explain the behavior of objects in a rotating environment. 
-10. He developed the concept of angular velocity, which is used to explain the behavior of objects rotating in a curved path.
+* Gaspard-Gustave Coriolis was born in June 1792 and on 21 September of that year the monarchy was abolished.
+* Coriolis's father fled to Nancy where he became an industrialist.
+* Coriolis was brought up in Nancy and attended school there.
+* He sat the entrance examination for the École Polytechnique in 1808 and he was placed second of all the students entering that year.
+* On graduating he entered the École des Ponts et Chaussées in Paris.
+* After his father died Coriolis had to support the family and, with his health already poor, he decided to accept a post in the École Polytechnique in 1816 tutoring analysis.
+* He had been recommended for this position by Cauchy.
+* Coriolis became professor of mechanics at the École Centrale des Artes et Manufactures in 1829.
+* Coriolis was offered Cauchy's position at the École Polytechnique but by this time he was highly involved in his research and decided not to take on any further teaching duties.
+* Despite not accepting further duties at the École Polytechnique, Coriolis did take on a position at the École des Ponts and Chaussées in 1832.
+* Navier died in 1836 and Coriolis was appointed to his chair at the École des Ponts and Chaussées.
+* He was also elected to replace Navier in the mechanics section of the Académie des Sciences.
+* Coriolis continued teaching at the École Polytechnique until 1838 when he decided to end teaching and take on the role of director of studies.
+* Coriolis studied mechanics and engineering mathematics, in particular friction, hydraulics, machine performance and ergonomics.
+* Coriolis began developing his ideas in 1819 and he showed some papers to Poncelet in 1824.
+* Both Coriolis and Poncelet published in 1829; the paper by Coriolis being Du Calcul de l'effet des machines Ⓣ(Calculation of the effect of machines).
+* Despite the two papers appearing in 1829 there was no argument as to who initiated the idea, with Poncelet acknowledging that the word "work" was brought in by Coriolis.
+* Coriolis proposed a unit of work, namely the 'dynamode'.
+* The unit represents 1000 kilogram-metres and was proposed by Coriolis as a measure which could provide a sensible unit with which to measure the work which a person might do, a horse, or a steam engine.
+* However, although his term 'work' has become standard, the dynamode did not prove popular as the unit of work.
+* It is not the ideas of 'work' for which Coriolis is best remembered, however, rather it is for the Coriolis force which appears in the paper Sur les équations du mouvement relatif des systèmes de corps Ⓣ(On the equations of relative movement of the body's systems) (1835).
+* He showed that the laws of motion could be used in a rotating frame of reference if an extra force called the Coriolis acceleration is added to the equations of motion.
+* In 1835 Coriolis wrote on a mathematical theory of billiards in Théorie mathématique des effets du jeu de billiard Ⓣ(Mathematical theory of the properties of the game of billiards).
+* He also wrote Traité de la mécanique des corps solides Ⓣ(Treatise on the mechanics of solids) (1844).
 
 Born 21 May 1792, Paris, France. Died 19 September 1843, Paris, France.
 

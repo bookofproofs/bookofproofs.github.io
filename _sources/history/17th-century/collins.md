@@ -7,10 +7,10 @@ orderid: 1624
 title: Collins, John
 born: 1624
 died: 1683
-keywords: John Collins, Accountant, Publisher, Linear Equations, Linear Programming, Combinatorial Problems, Matrix Computations
-description: John Collins, an accountant and publisher, made lasting contributions to the fields of linear algebra, linear programming, and matrix computations.
+keywords: john collins,collins
+description: John Collins was an English accountant and publisher who corresponded extensively with the mathematicians of his day.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Collins** was an English accountant and publisher who corresponded extensively with the mathematicians of his day.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a practical computational method for solving special classes of linear equations. 
-2. Devised general algorithms for solving linear programming problems. 
-3. Proposed a heuristic for solving certain combinatorial problems.
-4. Made significant contributions to the theory of matrix computations.
-5. Developed fast methods for solving linear systems of equations.
-6. Proved the existence of mathematical objects (polytopes) possessing certain properties. 
-7. Demonstrated the possibility of simulating polynomial time algorithms on a quantum computer. 
-8. Used mathematical methods to optimize the design of radio communications systems. 
-9. Published several books and papers on linear algebra, theory of matrix computations, linear programming and combinatorial optimization.
+* Collins seems to have decided to leave England because of the Civil War and he became a seaman.
+* From 1660 onwards Collins worked at a number of jobs but most often as an accountant for various different organisations.
+* Collins also held a position as an accountant in the Excise Office from 1668 to 1670.
+* However times were not easy and Collins only received a small fraction of his proper salary from the Council of Plantations.
+* In 1671 Collins had moved to a house in Westminster close to that of William Austin who was the King's chef.
+* Collins married Bellona.
+* Collins's importance is, as Barrow said, being "the English Mersenne" .
+* Collins published books by Barrow and Wallis and left a collection of 2000 books and an uncounted number of manuscripts.
+* Collins went to Oxford in 1683 to survey the proposed route of the canal.
 
 Born 5 March 1624, Wood Eaton (4km north of Oxford), England. Died 10 November 1683, London, England.
 

@@ -7,10 +7,10 @@ orderid: 1896
 title: Wazewski, Tadeusz
 born: 1896
 died: 1972
-keywords: Ważewski, Differential Equations, Control Theory, Analytic Spaces, Number Theory, Combinatorics, Inversion Process
-description: Tadeusz Ważewskideveloped theorems, criteria, proofs, and processes that continue to shape the fields of Differential Equations, Number Theory and more.
+keywords: tadeusz ważewski,wazewski
+description: Tadeusz Ważewski was a Polish mathematician who contributed to the theory of differential equations, control theory and the theory of analytic spaces.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Tadeusz Ważewski** was a Polish mathematician who contributed to the theory of differential equations, control theory and the theory of analytic spaces.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Ważewski theorem of additive number theory which provides an incredibly succinct formulation of the number of ways a given number can be written as a sum of two integers.
-2. Established rudimentary criteria for determining a string's primes and nontotients, a major step forward in solving algebraic Diophantine equations.
-3. Proved that any Diophantine equation has only a finite number of solutions.
-4. Published groundbreaking research on the Euler-Maclaurin summation formulae.
-5. Proved the Diophantine Frobenius theorem which enables calculation of a finite number of primitive solutions for any diophantine equation with integer coefficients.
-6. Investigated the properties of continuants which have since become a basic tool in the field of number theory.
-7. Developed a method for efficiently solving linear Diophantine equations.
-8. Explored the theory of plane partitions which are of fundamental importance in Combinatorics.
-9. Developed the method of plane partitions which is still in use today.
-10. Pioneered the inversion process which is used to calculate starting values of ratio-expansions.
+* Russia controlled much of the country and in the years prior to Ważewski's birth there had been strong moves by Russia to make "Vistula Land", as it was called, be dominated by Russian culture.
+* Ważewski attended secondary school in Tarnów, today in the south-east of Poland, but at that time part of Austrian controlled Galicia.
+* Under Zaremba, Ważewski became interested in set theory and topology and decided to study in Paris for his doctorate.
+* This was a typical route for Polish mathematicians of this period, forced to study abroad (as Poland was partitioned) many chose the same route as Ważewski studying in Polish universities in Austrian controlled Galicia and completing their education in France.
+* Ważewski studied in Paris between 1921 and 1923 continuing his interest in topology acquired during his studies at Kraków under Zaremba.
+* Having secured his doctorate, Ważewski returned to the Jagiellonian University in Kraków where he was he was appointed a docent in 1927.
+* Ważewski was sent to the Sachsenhausen- Oranienburg concentration camp north-west of Berlin where he survived for two years.
+* Ważewski returned to Kraków and taught in the underground university there despite the severe risk to his life.
+* Ważewski was appointed a full professor at the Jagiellonian University and put all his efforts into restoring the educational system which had been destroyed.
+* Ważewski made important contributions to the theory of ordinary differential equations, partial differential equations, control theory and the theory of analytic spaces.
+* We mentioned above that Ważewski worked in control theory.
 
 Born 24 September 1896, Galicia, Poland. Died 5 September 1972, Rabka-Zdrùj, Poland.
 

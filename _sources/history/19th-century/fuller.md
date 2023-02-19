@@ -7,10 +7,10 @@ orderid: 1895
 title: Fuller (2), Richard Buckminster
 born: 1895
 died: 1983
-keywords: Buckminster Fuller, Synergetics, Geodesic Dome, Vector Equilibrium, Energetic-Synergetics Geometry, IVM, Tensegrity
-description: Buckminster Fuller invented the geodesic dome and developed new geometric and mathematical formulations like Synergetics, Vector Equilibrium, and Tensegrity.
+keywords: r buckminster fuller,fuller
+description: R Buckminster Fuller is best known for the invention of the geodesic dome.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **R Buckminster Fuller** is best known for the invention of the geodesic dome.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a new geometry in the 1940s, which he called the “Synergetics” and which integrated ideas from metaphysics, mathematics, geometry, and engineering.
-2. Developed the vector equilibrium, a geometric form which uses twenty equilateral triangles to represent strength with minimum material and maximum structural integrity.
-3. Wrote over thirty books and articles on mathematics, engineering, and design.
-4. Co-developed the geodesic dome, a lightweight but strong structure composed of a complex network of triangles.
-5. Developed the first comprehensive and unified geometric and mathematical definition of “geometry,” which he termed “Energetic-Synergetic Geometry.”
-6. Developed a flexible, three-dimensional coordinate system called Isotropic vector matrix (IVM), which is used in architectural and engineering design.
-7. Co-authored “A Partial Differential Equation of Line Synergetic Geometry” to describe curved surfaces and structures in three dimensions.
-8. Co-authored the “Dymaxion Deployment Units” for a defense system that utilized game theory to create a strategy for war.
-9. Worked with German mathematician Ludwig Glaser to develop a theorem which uses symmetries to design efficient and cost-effective structures.
-10. Developed the concept of “tensegrity,” a structural philosophy that uses tension and compression components to create a resilient and efficient structure.
+* Fuller's family were from New England and he grew up with a boyhood fascination for ship-building and fishing which were part of life on the coast of Maine.
+* inherited that blend of romantic idealism and Yankee practicality which made him the spiritual heir to Benjamin Franklin and Emerson.
+* He married Anne Hewlett, daughter of a well-known architect, in 1917, and he served in the US Navy from 1917 to 1919.
+* Twice expelled from Harvard University, business disasters with the construction company in which he was a minority stockholder, and the death of his four year old daughter, brought him close to suicide.
+* technology could save the World from itself, providing it is properly used .
+* In 1927 he designed the Dynaxion House which was intended to house the technology needed for people to live.
+* With its wire construction it was in no way intended to be aesthetic but aimed to be a totally practical machine to live in.
+* For many years Fuller worked on ideas for buildings, eventually arriving at the structure for which he is most famous.
+* He examined a vectorial system of geometry, Energetic- Synergetic geometry, based on the tetrahedron which provides maximum strength with minimum structure.
+* Over 200,000 of such domes have been built, the most famous example being the United States pavilion at the 1967 international exhibition at Montreal.
+* Another of Fuller's projects, which he began in 1928, involved the design of a highly unconventional car.
+* It was called the Dymaxion car, a three wheeled machine capable of carrying 12 passengers, of crossing fields as well as having a top speed of nearly 200 km per hour.
+* With a manoeuvrability which allowed it to turn within its own length this was a remarkable conception and development continued until 1943.
+* However, it was never launched as a commercial venture.
+* Fuller was the author of many books, including Nine chains to the Moon (1938) which was his first book.
+* Later came No more second-hand God (1962), Utopia or oblivion (1969), and Education automation.
+* Most famous of all is his 1969 classic Operating manual for spaceship Earth but he also published Earth, Inc.
+* (1973), and Critical Path (1981).
+* A collection of his writings was published in 1970 as The Buckminster Fuller reader.
+* Fuller was research professor at Carbondale, Southern Illinois University, from 1959 to 1968.
+* He was appointed as Charles Eliot Norton Professor of Poetry at Harvard University in 1962.
+* In 1968 he became a university professor at Southern Illinois University and retained this post until he retired in 1975.
+* Fuller was awarded many honours, including a fellowship of the Royal Institute of British Architects.
+* This Institute awarded him their Royal Gold Medal in 1968.
+* He also received the Gold Medal Award of the National Institute of Arts and Letters in 1968.
+* it may be thought, however, that Fuller's greatest contribution lay in the field of education.
+* He was a compulsive talker and he canalized this trait into magical extempore lectures of extraordinary duration - often of up to a day or more with breaks for meals.
+* Through these he transmitted an enthusiasm for his ideas to generation after generation of students across the world.
+* He conceived of man as a passenger in a cosmic spaceship - a passenger whose only wealth consists in energy and information.
 
 Born 12 July 1895, Milton, Massachusetts, USA. Died 1 July 1983, Los Angeles, California, USA.
 

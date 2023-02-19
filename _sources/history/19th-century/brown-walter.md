@@ -7,10 +7,10 @@ orderid: 1886
 title: Brown (2), Walter
 born: 1886
 died: 1957
-keywords: Walter Brown, University of Pennsylvania, Howard University, American Mathematical Society, National Association of Mathematicians, Mathematical Association of America, Alpha Chi Sigma Excellence in Undergraduate Teaching Award
-description: Walter Brown was an African American pioneer in mathematics, becoming the first to receive a doctoral degree, serve as professor, give keynote speeches, publish papers, be elected & receive awards.
+keywords: walter brown,brown
+description: Walter Brown graduated from Glasgow University and worked at Hong Kong University. He was interned by the Japanese in World War II and on his release he returned to posts in Scotland.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Walter Brown** graduated from Glasgow University and worked at Hong Kong University. He was interned by the Japanese in World War II and on his release he returned to posts in Scotland.
 
 ### Mathematical Profile (Excerpt):
-1. Walter Brown was the first African American to receive a doctoral degree in mathematics from University of Pennsylvania.
-2. He was the first African American to serve as professor of Mathematics at Howard University. 
-3. He gave a keynote speech in the 1960 National Congress of Mathematicians at the University of California, Berkeley. 
-4. He was the first African American to be inducted in the American Mathematical Society. 
-5. He served as President of both the National Association of Mathematicians and the Mathematical Association of America.
-6. He was the first African American to publish papers in mathematical journals. 
-7. He was the first African American to be elected to the Philadelphia Mathematical Society. 
-8. He was the founding editor of the Howard University Mathematics Journal. 
-9. He was a Fellow of the American Association for the Advancement of Science. 
-10. He was a winner of the Alpha Chi Sigma Excellence in Undergraduate Teaching Award.
+* Walter attended Allan Glen's School, Glasgow, completing his studies there in 1903, the year he first matriculated at Glasgow University.
+* Brown then spent three years, 1911-1914, as an Assistant Master at Allan Glen's School, Glasgow, the school where he had been educated.
+* Brown was taken prisoner by the Japanese and held in Stanley Camp.
+* After the war ended Hong Kong University reopened but at this stage Brown retired and returned to Scotland where he worked first as a Lecturer in Civil and Mechanical Engineering at the Royal Technical College, Glasgow, during 1946-47, and then a lecturer in Mathematics at Glasgow University in 1947-48.
+* Brown joined the Edinburgh Mathematical Society in March 1911.
+* Walter Brown was elected to the Royal Society of Edinburgh on 5 March 1923, his proposers being Andrew Gray, George A Gibson, John Walter Gregory, James Gordon Gray, Dugald Black McQuistan.
 
 Born 29 April 1886, Glasgow, Scotland. Died 14 April 1957, Marandellas, near Salisbury, Rhodesia (now Harare, Zimbabwe).
 

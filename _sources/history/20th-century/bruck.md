@@ -7,10 +7,10 @@ orderid: 1905
 title: Brück, Hermann
 born: 1905
 died: 2000
-keywords: Hermann Brück, relativity, Brück Equation, conservation of energy, Brück Principle, astronomy, Davy Medal
-description: German astronomer Hermann Brück generalized the theory of relativity, developed the Brück Equation and Principle, and won the Davy Medal for his achievements in astronomy and mathematics.
+keywords: hermann brück,brück
+description: Hermann Brück was a German-born astronomer who spent the great portion of his career in various positions in Britain and Ireland.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,28 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hermann Brück** was a German-born astronomer who spent the great portion of his career in various positions in Britain and Ireland.
 
 ### Mathematical Profile (Excerpt):
-1. Generalized the theory of relativity and discovered the Brück Equation in 1935.
-2. Developed a fundamental theorem on the conservation of energy that explained several natural phenomena such as stellar energy and planetary motion. 
-3. Used his work to develop a mathematical model of the universe that revealed the relationship between gravity and the constant expansion of space. 
-4. Proposed a new theory of gravity based on the rotation of a body in space - the Brück Principle.
-5. Established the mathematical foundation of cosmology.
-6. His theory of relativity was applied to interstellar distance calculation and aided in the development of the Apollo Moon mission. 
-7. Won the Davy Medal for his achievements in mathematics, including his work on the nature of black holes. 
-8. Developed the concept of "astronomical units" - measuring distances between celestial bodies. 
-9. Published the influential book The Theory of Relativity and Gravitation. 
-10. Developed fundamental formulations for gravitation and motion.
+* An only child, Hermann was brought up by his mother.
+* For quite a while his mother had wanted Hermann to study law but for him science was the topic where his interests lie.
+* Kisskalt held the a chair of Bacteriology and Public Health at the University of Kiel and, to see if Brück was good enough, he arranged for his colleague Otto Toeplitz to test his ability.
+* Brück moved more than most, spending the summer semester of 1924 at Kiel, the winter semester of 1924 at Munich and the summer semester of 1925 at Bonn.
+* Brück continued to study Sommerfeld's courses on quantum and wave mechanics but continued to take mathematics courses, particularly, in Brück's words, "the brilliant lectures of Carathéodory." He also took both a lecture course and a laboratory course by Wilhelm Wien on experimental physics.
+* To study for a doctorate under Sommerfeld, Brück had to join Sommerfeld's seminar and to do this he had to prove he was good enough by presenting details of a recent paper.
+* Brück graduated with his doctorate, magna cum laude, from the University of Munich on 24 July 1928.
+* It was Sommerfeld who suggested the next step in Brück's career.
+* Sommerfeld was fascinated by Arthur Eddington's book The Internal Constitution of Stars (1926) and, knowing that Brück loved astronomy, suggested that he should work on astrophysics.
+* At this time Brück lived at the Observatory during the week and returned to his family home in Berlin at the weekends.
+* After two years on the Research Fellowship, Brück was offered a permanent post at the Observatory.
+* Brück had been brought up a Lutheran but, under the influence of two Roman Catholics, converted to Roman Catholicism in 1935.
+* In 1936 Brück abruptly left Germany with his girl friend Irma Waitzfelder (1905-1950) and he went to Italy to work as a research assistant at the Vatican Observatory at Castel Gandolfo.
+* After a year in Italy, Brück travelled to England where he took up a post as Assistant Observer at the Solar Physics Observatory in Cambridge, working under Arthur Eddington.
+* Hermann and Irma Brück had two children, Maria C Brück (birth registered in Cambridge 4th quarter of 1937), and Peter Michael Brück born 22 March 1940 in Cambridge.
+* Peter Brück became a geologist at University College Dublin (1964-68), the Geographical Survey Ireland (1968-79) and Professor of Geology at University College, Cork since 1979.
+* Eddington died in 1944, and in 1946 Brück became the Assistant Director of the Cambridge Observatory.
+* The particular collaboration was between Armagh and Dunsink and the Boyden Observatory in South Africa, which was set up by Brück and handed over to the joint management of the Irish observatories.
+* She returned to Dublin taking up a position at Dunsink Observatory where she met Brück; they had three children, Anne, Catherine and Andrew.
+* Brück served as Dean of the Faculty of Science of the University of Edinburgh in 1968-1970.
+* After retiring, Brück's interests turned to the history of astronomy and he wrote two important books, The Story of Astronomy in Edinburgh (1983), and, jointly with his wife Mary Brück, The Peripatetic Astronomer: a biography of Charles Piazzi Smyth (1988).
+* Mary Brück died on 11 December 2008 and following a Funeral Mass on 22 December in the Sacred Heart Church, Penicuik, Midlothian, Scotland, she was buried beside her husband in Mortonhall Cemetery.
 
 Born 15 August 1905, Berlin, Germany. Died 4 March 2000, Edinburgh, Scotland.
 

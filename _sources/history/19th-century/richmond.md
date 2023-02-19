@@ -7,10 +7,10 @@ orderid: 1863
 title: Richmond, Herbert William
 born: 1863
 died: 1948
-keywords: Herbert Richmond, Algebraic Geometry, Modern Mathematics, Mathematical Logic, Royal Society, British Ministry, BBC Radio
-description: Herbert Richmond, leader of the Royal Society, pioneer of mathematical logic and Algebraic Geometry, wrote Modern Mathematics, established math research in Britain, popularized mathematics on BBC radio & was awarded Sylvester Medal.
+keywords: herbert richmond,richmond
+description: Herbert Richmond studied at Cambridge and spent his whole career there, His main interest was in Algebraic Geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Herbert Richmond** studied at Cambridge and spent his whole career there, His main interest was in Algebraic Geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Development of the first 17 chapters of Modern Mathematics for Beginners, a hugely successful textbook for young students.
-2. Pioneering work on the foundations of modern mathematical logic.
-3. Establishing mathematical research as a path for talented young mathematicians to take up in England.
-4. Establishment of a mathematics department at the British Ministry of Munitions.
-5. Leadership of the Royal Society during its wartime organisation.
-6. Contributions to mathematical problem solving competitions, which opened mathematics up to the general public.
-7. Introducing a course that changed the way mathematical research is conducted in England.
-8. Popularisation of mathematics to the public by appearing regularly on the BBC radio programme ‘Mathematician at Large’.
-9. Becoming the first British mathematician to receive the Royal Society’s Sylvester Medal.
-10. Appointment as a Fellow of the Royal Society of Edinburgh.
+* His mother was Charlotte Mary Richmond (born Ewell, Surrey about 1836).
+* Herbert William Richmond had younger siblings, George (born about 1865), Margaret (born about 1867), Ethel (born about 1869) and Alfred (born about 1872).
+* Herbert entered Merchant Taylors' School in London in 1875 and studied there until he graduated in 1882.
+* At King's College, Richmond was coached by the famous coach Dr Routh.
+* According to Richmond the intense work needed to succeed at Cambridge made him turn away from mathematics after his graduation and he took up music for a while.
+* Richmond was a college lecturer from 1891 to 1927 and, in addition, a university lecturer from 1901 until he retired in 1923.
+* Richmond was honoured by being elected a Fellow of the Royal Society in 1911.
+* Special mention should be made of the work Richmond undertook during World War I.
 
 Born 17 July 1863, Tottenham, Middlesex, England. Died 22 April 1948, Cambridge, England.
 

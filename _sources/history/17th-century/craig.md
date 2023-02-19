@@ -7,10 +7,10 @@ orderid: 1663
 title: Craig, John
 born: 1663
 died: 1731
-keywords: Craig, mathematics, theorem, linearized stability, Walnum–Craig–Stern, Craig– Paredes, Craig– Wylie
-description: John Craig was a Scottish mathematician renowned for his theorems related to maximal speed, linearized stability, absorption boundary conditions, and nonlinear configuration models.
+keywords: john craig,craig
+description: John Craig was a Scottish mathematician who published three important textbooks.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Craig** was a Scottish mathematician who published three important textbooks.
 
 ### Mathematical Profile (Excerpt):
-1. Established the Craig–Lee theorem, providing a means to calculate the maximal speed of spread of a gradient-like phenomenon across a wall dividing two fluid layers of different densities.
-2. Expanded on the theory of linearized stability.
-3. Developed the Craig–Bampton theorem which is used to reduce the order of a large linear system.
-4. Contributed to the formulation of the Walnum–Craig–Stern theorem, providing a method for the simplification of absorbing boundary conditions. 
-5. Proposed the Craig– Paredes theorem which makes possible the simultaneous analysis of multiple nonlinear configuration models.
-6. Discovered the master variable theorem, which is related to linear perturbation of systems.
-7. Pioneered the use of the Craig– Wylie theorem to analyze the stability of physical systems subject to instabilities.
+* John was his parents second son, having a brother William six years his senior.
+* Craig was a pupil of David Gregory in Edinburgh.
+* As well as his life as Church of England clergyman, Craig also had a life as a mathematician.
+* Craig published several more papers on topics such as the logarithmic curve, the curve of quickest descent, and on the quadrature of figures.
+* a formula tantamount to a logistic model for posterior odds: that is, Craig's probability should be understood as the logarithm of the ratio of the probability of the historical testimony as received at the present time, given the historical hypothesis in question, to the probability of the same testimony, given the negation of that hypothesis.
+* In 1718 Craig published a work on optics Quibus subjunguntur libri duo de optica analytica Ⓣ(Two books on the subject of analytical optics).
+* It is worth noting that despite using Leibniz's notation for the calculus in his earlier works, in this later one Craig used Newton's fluxion notation.
+* We left our description of Craig's church career at the point where he was vicar of Potterne in Wiltshire.
+* His brother William, who had been held the spiritual charge of Gillingham, died in 1721 and on 28 June 1726 Craig was appointed to the Gillingham role formerly held by William.
+* In the last part of his life Craig went to London in the hope that his mathematical abilities would be noticed.
 
 Born 1663, Hoddom, Dumfries, Scotland. Died 11 October 1731, High Holborn, London, England.
 

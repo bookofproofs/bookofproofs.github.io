@@ -7,10 +7,10 @@ orderid: 1923
 title: Henrici (2), Peter
 born: 1923
 died: 1987
-keywords: Peter Henrici, numerical analysis, Henrici polynomials, mesh selection process, nonlinear differential equations, numerical methods, automatic differentiation
-description: Swiss mathematician Peter Henrici developed groundbreaking numerical methods, algorithms, and applications of computers which revolutionized numerical analysis.
+keywords: peter henrici,henrici
+description: Peter Henrici was a Swiss mathematician best known who worked in the field of numerical analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Peter Henrici** was a Swiss mathematician best known who worked in the field of numerical analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Peter Henrici developed numerical methods such as the Henrici polynomials and the mesh selection process, which are used to solve partial differential equations efficiently. 
-2. He made significant contributions to the study of nonlinear differential equations.
-3. He played a role in successful efforts to rigorously quantify the stability of numerical methods.
-4. He developed algorithms which allowed the calculation of eigenvalues and eigenvectors of large matrices.
-5. He made significant progress in the field of numerical analysis by introducing a new method for numerically solving hyperbolic partial differential equations.
-6. He worked on pioneering applications of computers to mathematics, such as automatic differentiation.
-7. He worked on developing computerized versions of mathematical theorems and formulas, which allowed for the easier transmission of complex mathematical ideas.
+* By this time Henrici was working in the United States.
+* In 1951 Henrici had gone to the United States where he obtained a position at the American University in Washington, D.C, and also was a visitor at the National Bureau of Standards.
+* Let us look briefly at some of the classic texts that Henrici published.
+* Another impressive text by Henrici Elements of numerical analysis appeared in 1964.
+* These texts were rightly praise as remarkable achievements, but the high point of Henrici's writings must he the three volume work Applied and computational complex analysis.
+* In 1964 Henrici was an invited plenary speaker at the sixteenth British Mathematical Colloquium held in Leicester and he lectured to the Colloquium on Some applications of the quotient-difference algorithm in classical analysis.
+* Peter Henrici the man - his personality, his warmth and humour and modesty - will remain in our memories, as will for some of us his passion for music, the experience of listening to or playing with an extraordinarily gifted pianist.
+* A Prize has been established to honour Henrici.
+* This Prize is given to honour Peter Henrici who was such an eminent figure in Applied Mathematics and Numerical Analysis.
 
 Born 13 September 1923, Basel, Switzerland. Died 13 March 1987, Zürich, Switzerland.
 

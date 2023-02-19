@@ -7,10 +7,10 @@ orderid: 1756
 title: West, John
 born: 1756
 died: 1817
-keywords: Scottish, mathematician, pastor, Jamaica, geometry, group theory, algebraic fields
-description: John West: Scottish mathematician, pastor in Jamaica; identified foundational principles of group theory & algebraic fields; discovered Theorem of Groups.
+keywords: john west,west
+description: John West was a Scottish mathematician who became a pastor in Jamaica. He published works on geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John West** was a Scottish mathematician who became a pastor in Jamaica. He published works on geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Developed and published the influential paper on group theory, “The Theory of Sets and Groups”, which laid the foundation for many topics in the field of mathematics.
-2. Conducted groundbreaking research on the abstract structure of algebraic fields.
-3. Formulated three defining principles of group theory and invented the concept of groupoids, which is a generalization of groups.
-4. Brought the theories of Paul Dirichlet and Richard Dedekind to a wider audience and is credited with popularizing the modern theory of algebra. 
-5. Co-founded the influential mathematical journal, “The Strassburg Mathematical Journal”, which published foundational work in the field of algebra. 
-6. Devised a method for calculating the degrees of finite fields, which was described as one of the most important theorems in modern mathematics. 
-7. Discovered and proved the West’s theorem of groups and acted as the mentor for many influential mathematicians in the 19th century.
+* Samuel was a Church of Scotland minister in Logie, about ten km north west of St Andrews, from 1751.
+* John was the second of his parents' four sons, the eldest being Stewart and the two younger being Maurice and Samuel.
+* There were also five girls in the family, two born before John and three later.
+* John's father Samuel West died in 1766, the year that Stewart matriculated at the University of St Andrews.
+* The family were now in financial difficulties and although they were helped out by the kindness of the presbytery clerk who donated his small salary from that role, Margaret West had a hard struggle to educate her sons.
+* John matriculated at the University of St Andrews in 1769 at the age of thirteen and was successful in his studies winning prizes for mathematics and physics.
+* Nicholas Vilant was the regius professor of mathematics at St Andrews when West was a student, but around 1775 his health deteriorated and he employed assistants.
+* West was assistant to Nicholas Vilant from 1775 to 1780 in which year he was given full charge of all mathematics classes at St Andrews.
+* His mother had died in 1777 and since both his brothers Stewart and Maurice West had emigrated to Jamaica, it left John as the eldest son responsible for supporting his sisters.
+* While teaching at St Andrews, West taught John Leslie and James Ivory.
+* By this time two of his four sisters had already emigrated to Jamaica and the two sisters who had remained in Scotland now emigrated with John West.
+* In the year he left Manning's School, West married Anne Kelly; they had several children.
+* Let us look now at West's Elements of Mathematics (1784).
+* The second is to say that, although not a commentary on Euclid's Elements, nevertheless it does follow a similar path albeit with West's own ordering and own proofs.
+* Two manuscript treatises were sent, after his death, to John Leslie, but these were not published until 1838.
+* These show West to have been familiar with the works of Lagrange, Laplace and Arbogast and, had they been published promptly, would have established him as a leading British exponent of Continental analysis and its applications.
+* West died in Jamaica.
 
 Born 10 April 1756, Logie (near Cupar), Scotland. Died 17 October 1817, Morant Bay, Jamaica.
 

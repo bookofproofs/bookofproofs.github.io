@@ -7,10 +7,10 @@ orderid: 1952
 title: Jones (4), Vaughan
 born: 1952
 died: 2020
-keywords: Vaughan Jones, Fields Medal, Williams College, Crafoord Prize, New Zealand Order of Merit, Rolf Schock Prize, Onsager Medal, Wolf Prize
-description: Vaughan Jones, a New Zealand mathematician, has achieved great successes in mathematics, having won awards including the Fields Medal, Williams College's Award for Excellence in Mathematics and the Wolf Prize.
+keywords: vaughan jones,jones
+description: Vaughan Jones is a New Zealand mathematician who won a Fields Medal for his work on Knot theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Vaughan Jones** is a New Zealand mathematician who won a Fields Medal for his work on Knot theory.
 
 ### Mathematical Profile (Excerpt):
-1. Williams College awarded Vaughan Jones their Award for Excellence in Mathematics in 2018. 
-2. He won the Fields Medal in 1990. 
-3. He was the first ever New Zealand born mathematician to win a Fields Medal. 
-4. Jones was awarded the Crafoord Prize in Mathematics in 2007. 
-5. He was honoured with a 2006 New Zealand Order of Merit in recognition of his mathematical achievements. 
-6. He won the Rolf Schock Prize in Mathematics in 1993. 
-7. Jones was awarded the Onsager Medal in 2011 in recognition of his work in the area of von Neumann algebras. 
-8. He was a co-recipient of the 2018 Wolf Prize in Mathematics.
+* In 1970 Jones entered the University of Auckland graduating with a B.Sc. in 1972 and an M.Sc. with First Class Honours in 1973.
+* In 1979 Jones was awarded his Docteur es Sciences (Mathématiques), and the following year he was awarded the Vacheron Constantin Prize for his doctoral thesis.
+* In 1980 Jones moved to the United States spending the academic year 1980-81 as E R Hedrick Assistant Professor of Mathematics at the University of California at Los Angeles.
+* Jones worked on the Index Theorem for von Neumann algebras, continuing work begun by Connes and others.
+* Jones was awarded a Fields Medal at the 1990 International Congress in Kyoto, Japan for his remarkable and beautiful mathematical achievements.
+* Jones gave a lecture to the 1990 Congress dressed in a rather unusual way for a mathematics lecture.
+* The central connecting link in all this mathematics was a tower of nested algebras which Jones had discovered some years earlier in the course of proving a theorem which is known as the "Index Theorem".
+* During the past few years Jones wrote letters to various people which described his important new discoveries at an early stage, when he did not yet feel ready to submit them for journal publication because he had much more work to do.
+* Jones has received many honours for his work in addition to the Fields Medal.
+* Jones has made many other contributions to the mathematical community, particularly in his editorial work as editor or associate editor for many journals: the Transactions of the American Mathematical Society, the Pacific Mathematics Journal, the Annals of Mathematics, the New Zealand Journal of Mathematics, Advances in Mathematics, the Journal of Operator Theory, Reviews in Mathematical Physics, the Russian Journal of Mathematical Physics, the Journal of Mathematical Chemistry, Geometry and Topology, and L'Enseignement Mathematique.
 
 Born 31 December 1952, Gisborne, New Zealand. Died 6 September 2020, Nashville, Tennessee, USA.
 

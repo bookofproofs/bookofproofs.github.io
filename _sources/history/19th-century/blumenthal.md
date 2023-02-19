@@ -7,10 +7,10 @@ orderid: 1876
 title: Blumenthal, Ludwig Otto
 born: 1876
 died: 1944
-keywords: Otto Blumenthal, Complex Function Theory, Aerodynamics, Mathematischen Annalen, Linear Mathematics, Invariant Approach, Integral Equations
-description: Otto Blumenthal, a German mathematician, made major contributions to complex function theory, aerodynamics, and the journal Mathematischen Annalen, with his seminal texts in linear mathematics, invariant approach, and integral equations.
+keywords: otto blumenthal,blumenthal
+description: Otto Blumenthal was a German mathematician who worked in complex function theory and aerodynamics. He was executive editor of the journal Mathematischen Annalen for many years.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,35 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Otto Blumenthal** was a German mathematician who worked in complex function theory and aerodynamics. He was executive editor of the journal _Mathematischen Annalen_ for many years.
 
 ### Mathematical Profile (Excerpt):
-1. Played a major role in developing the field of linear algebra with his seminal text, "Lineare Mathematische Theorie der Lage" (Linear Mathematical Theory of Position). 
-2. Pioneered the use of the invariant approach to differential equations and his contributions to the theory of integral equations. 
-3. Made important contributions to the theory of analytic functions of several complex variables and the theory of potential theory and partial differential equations. 
-4. Authored a number of papers and papers on conformal mappings, chaotic motion, and integrable systems. 
-5. Developed the Poincaré Series and its use in the study of first-order linear differential equations. 
-6. Developed the notion of the trace map, an essential tool in algebraic geometry. 
-7. Developed the Kramer-Blumenthal theorem, an important theorem in multilinear algebra. 
-8. Introduced the notion of a group a group of transformations, which are essential in modern research. 
-9. Developed the Blumenthal Conjecture, an important problem on geometry. 
-10. Taught a number of influential mathematicians, such as David Hilbert and Felix Klein.
+* Otto's mother was Eugenie Posen from a notable family involved with leather manufacturing in Offenbach.
+* Otto attended the Goethe Gymnasium in Frankfurt am Main where he was good at all his subjects and took his university entrance examinations in 1894.
+* He had some outstanding teachers at Göttingen, where his lecturers included Schönflies, Hilbert and Klein, and it was in this outstanding mathematical environment that Blumenthal undertook research.
+* He was much influenced by Sommerfeld, at this time Klein's assistant, and although formally Blumenthal is considered as Hilbert's first research student, nevertheless his work was also guided by Sommerfeld.
+* After submitting his doctoral dissertation, Blumenthal took his oral examination on 25 May 1898 and passed with distinction.
+* Having submitted his habilitation thesis Blumenthal could now lecture at Göttingen as a Privatdozent, which he did from the autumn of 1901 until the summer of 1905.
+* He knew Blumenthal's high capabilities and when a position in Aachen became available he recommended Blumenthal.
+* Indeed Blumenthal was appointed to a Chair of Mathematics at the Rheinisch-Westfälische Technische Hochschule Aachen in October 1905.
+* Three years after he took up the position in Aachen, Blumenthal married Mali Ebstein, the daughter of pathologist Wilhelm Ebstein and his wife Elfriede.
+* Otto and Mali had two children, a daughter Margrete born in 1911 and a son Ernst born in 1914.
+* After the war ended Blumenthal made efforts to ensure that German mathematicians were integrated back into the international mathematical scene.
+* One of the major roles that Blumenthal played in mathematics, outside his research contributions which we shall look at briefly throughout in this article, was his role as executive editor of the journal Mathematischen Annalen.
+* In 1926 Blumenthal was 50 years old and his mathematical friends organised a birthday present to thank him for his contributions to Mathematischen Annalen.
+* In fact Blumenthal had also taken on a second major editorial role two years before this when, in 1924, he became editor of the Jahresberichte der Deutschen Mathematiker-Vereinigung.
+* Blumenthal's life changed abruptly after the National Socialists came to power on 30 January 1933.
+* On 27 April Blumenthal was arrested and detained.
+* Following Blumenthal's suspension, Bieberbach apears to have put pressure on him to resign as editor of the Jahresberichte der Deutschen Mathematiker-Vereinigung which he did.
+* Blumenthal and his wife continued to live in Aachen but their son Ernst was sent to England to study in Manchester.
+* Blumenthal continued with his role of executive editor of Mathematischen Annalen until 1938 when he finally was prevented from continuing any work.
+* A law was also passed which meant that scientific societies could only have German members (as defined by the civil law) and, after many years of outstanding service, Blumenthal's membership of the German Mathematical Society came to an end.
+* In July 1939 Blumenthal was given permission to privately tutor students at the Technical University of Delft.
+* The Blumenthals arrived in the Netherlands on 13 July and were given refuge in a house near Utrecht.
+* However, Blumenthal only found one Delft student to tutor and he had to live on charity, at first provided by the Protestant Hulpcomite.
+* About two weeks later Wolff and Blumenthal established a weekly mathematical colloquium of their own.
+* The remarkable thing was that there were just two members, Wolff and Blumenthal, and the colloquium took place in their private rooms and ran for nearly two years until October 1942.
+* The Blumenthals were sent to the concentration camp at Westerbork where Mali Blumenthal died following her humiliating treatment.
+* On 20 January 1944 Blumenthal was sent, at his own request, to the "old people's ghetto" Theresienstadt since he had heard that his sister had been sent there in July 1942.
+* Blumenthal himself died at Theresienstadt after suffering from pneumonia, dysentery and tuberculosis.
+* We have given a brief indication above of some of the mathematical topics Blumenthal studied.
 
 Born 20 July 1876, Frankfurt am Main, Germany. Died 13 November 1944, Theresienstadt, Bohemia (now Czech Republic).
 

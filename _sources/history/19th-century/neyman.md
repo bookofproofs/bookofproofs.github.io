@@ -7,10 +7,10 @@ orderid: 1894
 title: Neyman, Jerzy
 born: 1894
 died: 1981
-keywords: Neyman, Statistics, Probability, Hypothesis Testing, Calibration Curve, Neyman-Fisher Distribution, Multiple Linear Regression
-description: Jerzy Neyman, a Russian-born American mathematician, developed key theories in probability & statistics - including Neyman–Pearson Lemma, calibration curve & Neyman-Fisher Distribution - to improve hypothesis testing & predictive models.
+keywords: jerzy neyman,neyman
+description: Jerzy Neyman was a Russian born American mathematician who did important work in probability and statistics including applications to meteorology and medicine.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jerzy Neyman** was a Russian born American mathematician who did important work in probability and statistics including applications to meteorology and medicine.
 
 ### Mathematical Profile (Excerpt):
-1. Established a sound basis for the theory of hypothesis testing in statistics, as outlined in his 1933 paper, “On the Two-Sample Problem.”
-2. Developed the Neyman–Pearson Lemma to provide an optimally powerful statistical test of a hypothesis in the context of decisions.
-3. Developed the Neyman–Scott problem for an asymptotic evaluation of the power of a test statistic.
-4. Developed the calibration curve, a graphical representation of probability of detection of false alarms.
-5. Established the Neyman-Fisher distribution theorem, used to calculate the maximum likelihood estimate of the parameters of a statistical model, and the Neyman–Pearson Lemma a tool used to compare different tests of hypothesis. 
-6. Showcased the concept of confidence intervals to determine the true population parameters from the sample data.
-7. Advanced Neyman–Pearson hypothesis testing, a tool used to incorporate prior knowledge of the parameters of the population into the data.
-8. Developed the Neyman–Pierson Test which examines the behaviour of a statistic under a given null hypothesis. 
-9. Created the multiple linear regression model, a tool for predicting responses of multiple variables to changes in independent variables.
+* Jerzy was the youngest of his parents four children but, since the oldest child Karol was sixteen when Jerzy was born and two girls had by this time died, he was essentially brought up as an only child.
+* It is worth noting that despite the political situation which existed at the time (officially Poland did not exist as a separate country), Jerzy was born into a Roman Catholic family which considered itself to be Polish and was certainly Polish speaking.
+* We should also note that Neyman wrote papers for a few years under the name Splawa-Neyman, but he dropped the first part (which is more like a sign of nobility) at the age of 30.
+* As a young boy, Jerzy lived in several different towns: first Bendery, then Kherson, then Melitopol in the Crimea, and by the time he was eight years old the family lived at Simferopol also in the Crimea.
+* Neyman excelled at the gymnasium at Kharkov and he decided, probably because he had an outstanding mathematics teacher, that he would study mathematics at university.
+* Neyman began his studies at Kharkov University in the autumn if 1912.
+* In the academic year 1915-16 Aleksandr Bernstein lectured to him on probability; he strongly influenced Neyman and encouraged him to read Karl Pearson's The Grammar of Science.
+* In September 1917, having completed his undergraduate studies, Neyman remained at Kharkov University preparing for an academic career.
+* There was great hardship and not surprisingly Neyman's health began to deteriorate.
+* Ten days after he was married, Neyman was imprisoned and held for about six weeks.
+* Despite the difficulties that he was under, Neyman passed his examinations and became a lecturer at Kharkov University, teaching higher algebra, integration, and set theory.
+* Disappointed at the lack of mathematics in the statistics being studied at University College, London, Neyman obtained an extension of his fellowship to allow him to spend a year in Paris.
+* In Paris for session 1926-27 Neyman attended lectures by Borel, Lebesgue (whose lectures he particularly enjoyed) and Hadamard and his interests began to move back towards sets, measure and integration.
+* Neyman went on to produce fundamental results on hypothesis testing and, when Egon Pearson visited Paris in the spring of 1927, they collaborated in writing their first paper.
+* Neyman returned to Poland in May 1927 and immediately tried to set up a biometric laboratory in Warsaw.
+* Between 1928 and 1933 Neyman and Egon Pearson had written a number of important papers on hypothesis testing and the collaboration was highly productive with papers such as On the problem of the most efficient tests of statistical hypotheses (1933) and The testing of statistical hypotheses in relation to probabilities a priori (1933).
+* Neyman obtained a three month leave of absence to go in England in 1934 to fill a temporary post in Egon Pearson's department.
+* The following year the post was made permanent and Neyman held it until 1938.
+* Although Fisher had inspired much of Neyman's work, now that they were working in the same building relations seemed to break down.
+* In the spring of 1937 Neyman spent six weeks in the United States on a lecture tour of universities organised by Wilks.
+* Then Neyman received an offer from Evans of a lectureship at the University of California at Berkeley.
+* On 21 April 1938 Neyman accepted the offer from Berkeley and he arrived there in August; he worked in Berkeley for the rest of his life.
+* Neyman undertook military research, particularly working on bomb sights and targeting problems.
+* The mission to Greece was not a great success as far as Neyman was concerned.
+* Since the professor was not neutral in the elections, articles were published in the press, and Neyman was dismissed when he disobeyed orders not to respond.
+* Neyman's contributions to research in statistics over the latter part of his career were mostly in the areas of applications to meteorology and medicine.
 
 Born 16 April 1894, Bendery, Bessarabia, Russian Empire (now Transnistria, Moldova). Died 5 August 1981, Oakland, California, USA.
 

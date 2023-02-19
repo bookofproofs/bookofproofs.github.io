@@ -7,10 +7,10 @@ orderid: 1060
 title: Brahmadeva
 born: 1060
 died: 1130
-keywords: Brahmadeva, Indian, Math, Square root, Lemma of Pythagoras, Chakrawalaka, Kuttaka, Pi, Volume of Sphere
-description: Brahmadeva, an Indian mathematician, developed various formulas and concepts relating to math in the 4th-9th centuries, such as the square root, Lemma of Pythagoras, Chakrawalaka, Kuttaka, pi, and volume of sphere.
+keywords: brahmadeva,brahmadeva
+description: Brahmadeva was an Indian mathematician who wrote a commentary on the work of Aryabhata I.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Brahmadeva** was an Indian mathematician who wrote a commentary on the work of Aryabhata I.
 
 ### Mathematical Profile (Excerpt):
-1. Developed two formulas to calculate the square root of any number in the fourth century.
-2. Established the concept of 'Lemma of Pythagoras' to calculate the cost of squaring a triangle in the fifth century.
-3. Developed the 'Chakrawalaka' formula for computing cosines and sines in the sixth century.
-4. Re-discovered the ‘Kuttaka’ formula for solving numerical equations in the sixth century.
-5. Re-introduced the value of the ancient Indian number 'pi' to be equal to 3.1416 in the eighth century.
-6. Developed the formula for calculating the volume of a sphere in the ninth century.
+* The Brahman caste had a strong tradition of education so Brahmadeva would have received one of the best educations of men of his time.
+* We have only one work by Brahmadeva and this is Karanaprakasa which is a commentary on the Aryabhatiya by Aryabhata I.
+* Brahmadeva's work is in nine chapters and it follows the contents of the original Aryabhatiya.
+* Brahmadeva's commentary seems to have been particularly popular in Madras, Mysore and Maharastra.
+* Commentaries on Brahmadeva's work continued to appear up to the seventeenth century.
 
 Born about 1060, (possibly) Mathura, India. Died about 1130, India.
 

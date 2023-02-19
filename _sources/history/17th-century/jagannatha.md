@@ -7,10 +7,10 @@ orderid: 1690
 title: Jagannatha
 born: 1690
 died: 1750
-keywords: Jagannatha, Mathematics, Formula, Astronomy, Tables, Prime Numbers, Ganitakaumudi
-description: Jagannatha was an Indian mathematician who developed mathematical formulas such as the Jagannatha Expansion and Tables of Sin and Cosine, used in Astronomy & to identify prime numbers, and wrote "Ganitakaumudi" to comprehensively explain Arithmetic & Geometry.
+keywords: jagannatha,jagannatha
+description: Jagannatha was an Indian mathematician who is important as a translator of important Greek works into Sanskrit.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Jagannatha** was an Indian mathematician who is important as a translator of important Greek works into Sanskrit.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the well-known Jagannatha expansion formula, which enabled astronomers to more accurately predict the position of planets and stars.
-2. Developed tables of sin and cosine functions, allowing more precise calculations in astronomy.
-3. Developed the sine-table formula and the half-chord formula.
-4. Enumerated the prime numbers between 0 and 120.
-5. Developed the summation formula by which infinite series can be summed.
-6. Developed methods of calculating odd and even perfect numbers.
-7. Wrote a book called Ganitakaumudi, which is believed to be the first work to provide comprehensive knowledge on arithmetic and geometry.
+* His financial success let him finance the scholarly works of people such as Jagannatha.
+* Jai Singh ruled Amber throughout the period in which Jagannatha was producing his scientific work.
+* So Jai Singh employed Jagannatha to make Sanskrit translations of the important Greek scientific works which at that time were only available in Arabic translations.
+* Jagannatha translated Euclid's Elements from the Arabic translation by Nasir al-Din al-Tusi made nearly 500 years earlier.
+* Jagannatha translated al-Tusi's Arabic version but he did more than this for he included in the same work, which he called Siddhantasamrat, his own comments on related work of other Arabic mathematical astronomers such as Ulugh Beg and al-Kashi.
+* It is clear from Jagannatha's work that he is working as one of a group of mathematicians and astronomers gathered by Jai Singh in his scheme to bring the best in scientific ideas from outside India to reinvigorate the scientific scene in India.
 
 Born about 1690, Amber (now Jaipur), India. Died about 1750, India.
 

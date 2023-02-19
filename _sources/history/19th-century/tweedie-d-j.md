@@ -7,10 +7,10 @@ orderid: 1870
 title: Tweedie (3), David J.
 born: 1870
 died: 1926
-keywords: Tweedie Methodology, Brownian motion, pricing options, hedging strategies, Institute Chartered Accountants Scotland (ICAS), Tweedie-Ford Ratio, risk measurement
-description: David J Tweedie developed Tweedie Methodology for forecasting financial returns, devised Brownian motion of stock prices, and founded ICAS. He also formed the Tweedie-Ford Ratio and established mathematical models for risk measurement.
+keywords: david j tweedie,tweedie
+description: David J Tweedie graduated with an Ordinary degree from Edinburgh University and then taught at George Heriot's Hospital School in Edinburgh. He became headmaster of the school at Kilconquhar in Fife.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,18 +20,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**David J Tweedie** graduated with an Ordinary degree from Edinburgh University and then taught at George Heriot's Hospital School in Edinburgh. He became headmaster of the school at Kilconquhar in Fife. 
+**David J Tweedie** graduated with an Ordinary degree from Edinburgh University and then taught at George Heriot's Hospital School in Edinburgh. He became headmaster of the school at Kilconquhar in Fife.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the "Tweedie Methodology" for forecasting financial returns.
-2. Developed an algorithm for the Brownian motion of stock prices.
-3. Devised models to price options and develop hedging strategies.
-4. Was a founding member of the Institute of Chartered Accountants of Scotland in 1854.
-5. Established a mathematical foundation for accounting principles.
-6. Established a standard system of auditing.
-7. Developed the Tweedie-Ford Ratio, a statistical measure of efficiency.
-8. Created mathematical models to measure and report risk.
-9. Pioneered modern financial methods for predicting future trends.
+* There is, rather confusingly, also a David Tweedie who was a member at much the same time.
+* David Tweedie's father was  David Tweedie (born in Cleish, Kinrossshire about 1847) who was a colliery clerk and book keeper.
+* His mother was  Jemima Tweedie (born in Perth, Perthshire about 1845).
+* He had several younger siblings, Marjory  (born about 1875 who was a Pupil Teacher in 1891), Alice (born about 1877), James (born 1881) and John (born about 1885).
+* Tweedie obtained passes at Higher level in Latin, Greek, and Mathematics.
+* Tweedie married Jeanie (Jessie) Fleming Allison on 13 April 1879 and they had children: Jean (Ena) (1898-1963) and David (1901-1987).
+* In January 1897 Tweedie joined the Edinburgh Mathematical Society.
+* The move from Edinburgh seems to have made Tweedie decide that his membership of the Edinburgh Mathematical Society was not now useful, and he left the Society in the following year.
 
 Born 17 October 1870, Edinburgh, Scotland. Died 25 August 1926, Stichill, Roxburgh, Scotland.
 

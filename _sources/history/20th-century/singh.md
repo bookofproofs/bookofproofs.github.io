@@ -7,10 +7,10 @@ orderid: 1920
 title: Singh, Udita Narayana
 born: 1920
 died: 1989
-keywords: Udita Narayana Singh, Fourier series, Math Olympiad, Gold Medal, Presidential Award, Number Theory, Math Training Programs
-description: Udita Narayana Singh was a renowned Indian mathematician, who excelled in Fourier series, was awarded a Gold Medal at the Math Olympiad, and wrote two books on Math training programs.
+keywords: udita narayana singh,singh
+description: Udita Narayana Singh was an Indian mathematician who worked in Fourier series and became vice-chancellor of Allahabad University
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Udita Narayana Singh** was an Indian mathematician who worked in Fourier series and became vice-chancellor of Allahabad University
 
 ### Mathematical Profile (Excerpt):
-1. Achieved a perfect score of 100 out of 100 on the Math Olympiad exam at age 13. 
-2. Represented India at the International Math Olympiad (IMO) in 2004, where she scored a Gold Medal. 
-3. Awarded the 2013 Presidential Award for Outstanding Academic Excellence for scoring the highest marks in India in Mathematics.
-4. Her research in number theory, from her Ph.D. thesis, is regarded as some of the most influential in the field. 
-5. Authored two books about Math Olympiad training in India, published in 2005 and 2006.
-6. Conducted math training programs for aspiring Math Olympians in India.
+* After the award of his D.Phil., Singh went to France were he studied at the Sorbonne advised by Szolem Mandelbrojt.
+* Singh spent one academic year (1963-64) at the University of Illinois at Urbana-Champaign.
+* In 1969, U N Singh was invited to join the University of Delhi as Professor of Pure Mathematics and he was pleased to accept.
 
 Born 19 November 1920, Benares (now Varanasi) India. Died 9 April 1989, Delhi, India.
 

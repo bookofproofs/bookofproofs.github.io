@@ -7,10 +7,10 @@ orderid: 1930
 title: Abhyankar, Shreeram Shankar
 born: 1930
 died: 2012
-keywords: Shreeram Shankar Abhyankar, Algebraic Geometry, Mordell Conjecture, Resolution of Singularities, Bhatnagar Prize, National Medal of Science, INSA
-description: Shreeram Shankar Abhyankar, mathematician legendary for solving Mordell Conjecture in Algebraic Geometry, developed resolution of singularities and won Bhatnagar Prize and National Medal of Science from INSA.
+keywords: shreeram shankar abhyankar,abhyankar
+description: Shreeram Shankar Abhyankar was an Indian-born American mathematician who worked in algebraic geometry.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,24 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Shreeram Shankar Abhyankar** was an Indian-born American mathematician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-1. Established the proof of Mordell Conjecture, the famous Diophantine equation, in a series of landmark papers in 1964-65. 
-2. Contributed to the development of algebraic geometry, commutative algebra and number theory.
-3. Introduced the technique of resolution of singularities of algebraic surfaces.
-4. Received the Shanti Swarup Bhatnagar Prize for Science and Technology in mathematics in 1978.
-5. Was a Fellow of the prestigious Indian National Science Academy (INSA) from 1971 to 1983.
-6. Worked with Atiyah, Hirzebruch and Kodaira on some important number-theoretic problems in algebraic geometry during the period 1967-68. 
-7. Became a foreign honorary member of American Academy of Arts and Sciences in 1996.
-8. Was awarded the National Medal of Science from the National Science Foundation in 1997.
+* Although Shreeram (known to his friends as Ram) was born in Ujjain, he only spent the first two years of his life there.
+* Shreeram was brought up in Gwalior where his father Shankar later became principal of the college.
+* Shreeram was the second oldest of his parents' six surviving children having two sisters and three brothers.
+* Shreeram attended school in Gwalior and, after graduating, went to the Royal Institute of Science of Bombay University intending to major in physics.
+* The only mathematician who was there that morning was Oscar Zariski, so Abhyankar had his first meeting with Zariski who immediately began asking Abhyankar what courses he would take.
+* Abhyankar had already talked to Masani before leaving India and been advised by him on suitable courses but Zariski, quickly realising Abhyankar's potential, suggested the most advanced courses.
+* Abhyankar was awarded a Master's Degree by Harvard in 1952 and continued to study there for his doctorate advised by Zariski.
+* Zariski was very interested in the question of resolution of singularities of positive characteristic surfaces and mentioned this to Abhyankar as an important problem which was probably too difficult for a Ph.D. problem.
+* Abhyankar became fascinated with this problem, and after a tremendous effort solved it as his Ph.D. thesis.
+* Around the time that Abhyankar was a research student working in algebraic geometry, Alexander Grothendieck was taking a totally new approach to the topic.
+* Shreeram and Yvonne Abhyankar had two children: a son, Hari, born in 1970, and a daughter, Kashi, born in 1973.
+* In 1963 Abhyankar was appointed to Perdue University as a full professor and he was named Marshall Distinguished Professor of Mathematics at Perdue in 1967.
+* Let us quote from several of the people who knew Abhyankar and his approach to mathematics.
+* Not everyone appreciated Abhyankar's style, however, particularly his love of arguing with others.
+* In particular he loved to get into deep arguments with other professors when he was at the University of Pune and this annoyed the vice-chancellor so much that he banned Abhyankar from the premises.
+* Abhyankar was elected a Fellow of the Indian National Science Academy (1987) and a Fellow of the Indian Academy of Sciences (1988).
+* The American Mathematical Society introduced a new honour of 'Fellow of the American Mathematical Society' in 2012 and Abhyankar was among the initial list of those receiving this honour on 1 November 2012.
+* Abhyankar suffered a heart attack in his home while sitting at his desk working on mathematics on the morning of Friday 2 November 2012.
 
 Born 22 July 1930, Ujjain, India. Died 2 November 2012, West Lafayette, Indiana, USA.
 

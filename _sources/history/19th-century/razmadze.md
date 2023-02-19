@@ -7,10 +7,10 @@ orderid: 1889
 title: Razmadze, Andrei Mikhailovich
 born: 1889
 died: 1929
-keywords: Andrea Razmadze, calculus, variations, gamma function, Dedekind zeta function, Fourier Analysis, approximation theory, Mahler measure
-description: Andrea Razmadze made significant contributions to mathematics through his discoveries of the Razmadze-Delaunay formula, Razmadze-Rokhlin integral equation, Mahler-Razmadze theorem and co- authored two textbooks.
+keywords: andrei razmadze,razmadze
+description: Andrea Razmadze was a Georgian mathematician who worked in in the calculus of variations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Andrea Razmadze** was a Georgian mathematician who worked in in the calculus of variations.
 
 ### Mathematical Profile (Excerpt):
-1. Discovered the Razmadze-Delaunay formula which shows an explicit connection between the gamma function and the Dedekind zeta function.
-2. Developed the Razmadze–Rokhlin integral equation which is related to the solution of the Dirichlet problem. 
-3. Proved the central limit theorem for holomorphic functions in higher dimensions.
-4. Made significant contributions to the field of Fourier analysis and approximation theory. 
-5. Published three books related to Fourier analysis, singular integrals, and potential theory. 
-6. Developed a subspace of Schmidt’s linear forms which was later named after him.
-7. Developed a method of estimating the Mahler measure, the Mahler–Razmadze theorem. 
-8. Co-authored two textbooks in the field of numerical analysis.
+* Andrei attended secondary school in Kutaisi, completing his studies there in 1906, and in the same year he entered Moscow University.
+* Graduating with a degree in mathematics in 1910, Razmadze taught mathematics in secondary schools while he continued to work for his Master's degree.
+* Razmadze was one of the founders of Tbilisi University and he taught at this university from the time that it opened in 1918.
+* Razmadze wrote the first textbooks in Georgian on analysis and integral calculus.
+* This is undoubtedly another expression of the international recognition of Razmadze's scientific contribution and his talent.
 
 Born 11 August 1889, Chkhenisi, Russia (now Samtredia, Georgia). Died 2 October 1929, Tbilisi, USSR.
 

@@ -7,10 +7,10 @@ orderid: 1936
 title: Velez-Rodriguez, Argelia
 born: 1936
 died: 0
-keywords: Cuban-American, mathematics, educators, PhD, curriculum, textbooks, technology
-description: Cuban-American mathematician Argelia Velez-Rodriguez earned a PhD in Math, developing a curriculum and textbooks, using tech to enhance math education and spearheading initiatives for underserved communities.
+keywords: argelia velez-rodriguez,velez-rodriguez
+description: Argelia Velez-Rodriguez is a Cuban-American mathematician and educator. She was the first Black woman to earn a doctorate in mathematics in Cuba.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Argelia Velez-Rodriguez** is a Cuban-American mathematician and educator. She was the first Black woman to earn a doctorate in mathematics in Cuba.
 
 ### Mathematical Profile (Excerpt):
-1. Obtained a PhD in Mathematics from the University of California, Berkeley in 2003. 
-2. Developed the Argelia Velez-Rodriguez Mathematics based curriculum now widely implemented in schools throughout Mexico. 
-3. Authored several mathematics textbooks used in high school classrooms. 
-4. Published numerous articles in academic journals on topics concerning mathematics. 
-5. Presented lectures at international conferences on using technology as a tool to enhance mathematics education.
-6. Spearheaded initiatives to bring technology and mathematics education to underserved communities. 
-7. Led trainings for mathematics teachers to inspire them to use technology to enhance mathematics instruction.
-8. Collaborated with local and state governments to create new policies and initiatives for mathematics education. 
-9. Developed a national mathematics competition for high school students with prizes for top performers.
+* Argelia, who was born into a Black Roman Catholic family, was brought up in Cuba at the time of this improving situation.
+* Velez married Raul Rodriguez in 1954 while she was an undergraduate and we will now refer to her as Velez-Rodriguez.
+* After gaining her Bachelor's Degree from the Marianao Institute in 1955, Velez-Rodriguez continued on to graduate studies at the University of Havana.
+* However, as we remarked above, Velez-Rodriguez was Black.
+* During her doctoral studies Velez-Rodriguez's second child, a daughter, was born in 1959.
+* Velez-Rodriguez became increasing unhappy with Communist Cuba and in 1962 the Roman Catholic school which her seven year old son was attending was taken over by the Communist government.
+* Velez-Rodriguez emigrated from Cuba to the United States in 1962.
+* In 1962 Velez-Rodriguez began teaching mathematics and physics at Texas College.
+* It was in 1972 that Velez-Rodriguez became an American citizen.
 
 Born 23 November 1936, Havana, Cuba.
 

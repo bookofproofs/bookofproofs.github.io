@@ -7,10 +7,10 @@ orderid: 1875
 title: Cholesky, Andre-Louis
 born: 1875
 died: 1918
-keywords: Cholesky decomposition, linear equations, linear algebra, boundary value problems, Cholesky-Banachiewicz algorithm, orthogonal Latin squares, prime numbers
-description: André-Louis Cholesky was a French mathematician who developed the Cholesky decomposition, numerical methods for solving equations, and the Cholesky-Banachiewicz algorithm, among others, contributing to number theory and linear algebra.
+keywords: andre-louis cholesky,cholesky
+description: André-Louis Cholesky was a French military officer and mathematician who devised a clever method of dealing with geodesic measurements.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **André-Louis Cholesky** was a French military officer and mathematician who devised a clever method of dealing with geodesic measurements.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Cholesky decomposition, a powerful tool for the numerical solution of linear equations.
-2. His work on the Cholesky decomposition helped shape the field of linear algebra.
-3. Developed numerical methods for solving boundary value problems.
-4. Authored two textbooks on linear equations and linear algebra.
-5. Developed the Cholesky-Banachiewicz algorithm for solving tridiagonal systems of linear equations.
-6. Demonstrated the existence of sets of mutually orthogonal Latin squares.
-7. His research in number theory contributed to a better understanding of prime numbers and Diophantine equations.
+* Cholesky entered l'École Polytechnique on 15 October 1895 being placed 88th  out of 223 entrant students in that year.
+* From January to June 1902, Cholesky carried out a mission in Tunisia, then he was sent on a second mission from November 1902 to May 1903.
+* On 31 December 1903 Cholesky began a period of service in Algeria.
+* To solve the condition equations in the method of least squares, Cholesky invented a very ingenious computational procedure which immediately proved extremely useful:  it is now known as the Method of Cholesky and we describe it below.
+* Cholesky and his wife had three children; a son and two daughters.
+* Cholesky was sent to Crete on 7 November 1907 as one of the three officers assigned to carry out the task.
+* After his fellow officers were dispatched to other duties, Cholesky carried out a triangulation as well as making a topographical survey of the French and British sectors.
+* Political events, however, prevented land surveys being carried out and Cholesky left Crete on 25 June 1908.
+* Similar work had to be carried out in Morocco and Cholesky devised methods to allow the work to be undertaken more quickly yet still retaining the necessary accuracy.
+* On 25 May 1913, Cholesky was assigned to the Ministry of Foreign Affairs and he was named head of Topographical Service of the Regency of Tunis.
+* Cholesky died from wounds received on the battle field on 31 August 1918 at 5 o'clock in the morning in the North of France.
+* After his death one of his fellow officers, Commandant Benoit, published Cholesky's method of computing solutions to the normal equations for some least squares data fitting problems in Note sur une méthode de resolution des équations normales provenant de l'application de la méthode des moindres carrés à un système d'équations lineaires en nombre inferieure à celui des inconnues.
+* Application de la méthode à la resolution d'un système defini d'équations lineaires (Procede du Commandant Cholesky) Ⓣ(Note on a method for resolution of the normal equations from the application of the method of least squares to a linear system of equations in a lower number of unknowns.
+* Application of the method to the resolution of a defined system of linear equations (following Cholesky)), published in the Bulletin géodesique  in 1924.
 
 Born 15 October 1875, Montguyon, Charentes Maritime, France. Died 31 August 1918, North France.
 

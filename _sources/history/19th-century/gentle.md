@@ -7,10 +7,10 @@ orderid: 1877
 title: Gentle, William
 born: 1877
 died: 1964
-keywords: William Gentle, University of Edinburgh, George Heriot's School, World War I, Numerical Analysis, Calculator, Algorithms
-description: William Gentle: WWI vet, taught & Headmaster at George Heriot's School Edinburgh, known for pioneering advancements in numerical analysis engineering 1950-1979.
+keywords: william gentle,gentle
+description: William Gentle graduated from the University of Edinburgh and taught at George Heriot's School Edinburgh. After being wounded in World War I he returned to George Heriot's and eventually became headmaster there.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,15 +20,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Gentle.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Gentle.jpg?raw=true)
 
-**William Gentle** graduated from the University of Edinburgh and taught at George Heriot's School Edinburgh. After being wounded in World War I he returned to George Heriot's and eventually became headmaster there. 
+**William Gentle** graduated from the University of Edinburgh and taught at George Heriot's School Edinburgh. After being wounded in World War I he returned to George Heriot's and eventually became headmaster there.
 
 ### Mathematical Profile (Excerpt):
-1. First published a paper on the Introduction to Numerical Analysis in 1950. 
-2. Developed the first calculator to solve fourth-order equations in 1954.
-3. Pioneered the development of self-organizing message routing algorithms on networks in 1962.
-4. Led the development of a generalised algebraic language for use in numerical analysis in 1967. 
-5. Developed an algorithm to determine the solutions of systems of linear equations in 1972.
-6. Published an influential textbook on numerical analysis in 1979.
+* William Gentle had two older siblings: Alexander (born about 1866) and Margaret (born about 1874).
+* William Gentle began his school education in Dundee, attending Rosebank School, Dundee, from 1885 to 1887, then Morgan Academy, Dundee, 1887 to 1889.
+* After matriculating at Edinburgh University, Gentle had an outstanding undergraduate career winning bursaries and prizes.
+* Following graduation, Gentle was appointed as a Mathematics and Physics Master at George Heriot's School in Edinburgh.
+* In 1908 the head of Physics at George Heriot's, J B Clark, was appointed as headmaster of the school and Gentle replaced him as Principal Teacher of Physics at a salary of £250 per annum.
+* Gentle took a temporary break in his career when he signed up for war service during World War I.
+* When J B Clark retired as Headmaster in 1926, Gentle was appointed to succeed him.
+* After carefully considering the matter, the Committee resolved not to advertise for candidates, but, in view of his qualifications and record, to recommend that Mr William Gentle, B.Sc., F.R.S.E., of the School staff, and present Depute-Headmaster, be appointed Headmaster in succession to Mr Clark, as from the commencement of next session at a salary of £1000.
+* He had very great pleasure in moving the adoption of the recommendation that Mr Gentle be appointed.
+* He was certain that no one could read the record of Mr Gentle without being satisfied that he was undoubtedly fully qualified for the post.
+* Councillor Wilson M'Laren, Sir Thomas Hudson Beare, and Councillor Bruce Lindsay paid like tributes to Mr Clark, and the view was expressed that Mr Gentle would prove a worthy successor.
+* Mr Gentle was then called into the meeting, informed of his appointment, and congratulated.
+* Gentle held this post until he retired.
+* William Gentle was a member of the Edinburgh Mathematical Society, joining in December 1903.
 
 Born 19 January 1877, Dundee, Angus, Scotland. Died 31 March 1964, Edinburgh, Scotland.
 

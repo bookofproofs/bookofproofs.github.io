@@ -7,10 +7,10 @@ orderid: 1874
 title: Størmer, Carl
 born: 1874
 died: 1957
-keywords: Størmer, mathematics, number theory, Mouton-Størmer Theory, complex analysis, vector calculus, geomagnetism
-description: Carl Størmer was a Norwegian mathematician and astrophysicist who developed the Mouton-Størmer Theory of magnetism and proved theorems in number theory and complex analysis.
+keywords: carl størmer,størmer
+description: Carl Størmer was a Norwegian mathematician and astrophysicist. In mathematics, he is known for his work in number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Carl Størmer** was a Norwegian mathematician and astrophysicist. In mathematics, he is known for his work in number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Mouton-Størmer Theory of the origin of magnetism. 
-2. Proved a number of theorems in the field of complex analysis, including the ‘Størmer's theorem’ on linearization of absolutely convergent Fourier series. 
-3. Applied the method of vector calculus to the space problems of geomagnetism and aurora variation. 
-4. Established mathematical foundations for the calculation of space curves in terms of analytic functions. 
-5. Formulated equations which led to the solution of the three-body problem in dynamical astronomy. 
-6. Led to the establishment of numerous institutions, such as the Norwegian Sea Ice Service. 
-7. Published extensive treatment of ‘Irregularities in the Motion of the Moon’. 
-8. Determined the shape of the earth to be a slightly flattened sphere. 
-9. Founded an Institute for Mathematical and Physical Geomagnetism. 
-10. Published numerous papers in the field of geometry, hydrodynamics and the currents of the North Atlantic Ocean.
+* Størmer entered the University of Christiana (as Oslo was then called) in 1892.
+* It is unusual for anyone to publish a paper in the year they enter university as an undergraduate, but this is exactly what Størmer did with a paper on the summation of trigonometric series.
+* Yet another work which came out in 1902 was a posthumous paper of Sophus Lie, edited by Størmer and Guldberg.
+* It was a post that Størmer held until 1946 yet, although he did continue to publish the occasional pure mathematics paper during this period, his interests were diverted by a different topic.
+* Birkeland, one of Størmer's colleagues, had put forward a theory in 1896 that auroras were caused by electrons emitted by the sun which interacted with the earth's magnetic field.
+* A summary of all of this work appeared in Størmer's book The polar aurora  published in 1955.
+* Certainly Størmer was not the first to photograph an aurora.
+* Størmer was honoured in many ways: he was elected to several Scandinavian academies, the Royal Society of London and the Paris Academy of Sciences.
 
 Born 3 September 1874, Skien, Norway. Died 13 August 1957, Oslo, Norway.
 

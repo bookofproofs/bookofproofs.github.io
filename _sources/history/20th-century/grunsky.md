@@ -7,10 +7,10 @@ orderid: 1904
 title: Grunsky, Helmut
 born: 1904
 died: 1986
-keywords: Grunsky, complex analysis, geometric function theory, differential geometry, topology, Morse theory, linear differential equations
-description: Helmut Grunsky, a German mathematician, devised an innovative approach to differential geometry and greatly contributed to the fields of complex analysis and Morse theory. He was awarded the Fields Medal for his achievements.
+keywords: helmut grunsky,grunsky
+description: Helmut Grunsky was a German mathematician who worked in complex analysis and geometric function theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Helmut Grunsky** was a German mathematician who worked in complex analysis and geometric function theory.
 
 ### Mathematical Profile (Excerpt):
-1. Devised a novel approach to the field of differential geometry in 1949, based on the work of Riemann which became known as Grunsky–Fischer duality.
-2. Was awarded the prestigious Fields Medal in 1950 for his work on differential geometry and developing the modern field of differential equations.
-3. Established the foundations of the area of topology known as Morse theory in 1956. 
-4. Was a renowned professor of mathematics at the University of Göttingen in the 1950s.
-5. Contributed to the theories of metric spaces and partial differential equations.
-6. Published numerous important works in mathematics, including "Differential Geometry and General Topology" (1956) and "Theory of Matrices" (1958).
-7. Developed a new method for solving linear differential equations in the 1970s.
-8. Played a key role in facilitating the development of the Riemann Hypothesis.
-9. Actively promoted the spread of mathematical research among the scientific community throughout his career.
+* Helmut was brough up in Aalen where he attended high school.
+* Grunsky worked on complex analysis for his doctorate but he took a job before submitting his thesis.
+* In November 1930 Grunsky took a job with the journal Jahrbuchs über die Fortschritte der Mathematik Ⓣ(Yearbook on the progress of mathematics) which was published by the Preussische Akademie der Wissenschaften.
+* At this stage Grunsky continued his work for the journal Jahrbuchs über die Fortschritte der Mathematik Ⓣ(Yearbook on the progress of mathematics) while he worked on his habilitation thesis.
+* In 1935 Grunsky married Irma Schenk; they had three children Wolfgang (born in 1936), Hiltrud (born in 1938), and Eberhard (born in 1941).
+* In the same year that he married Grunsky became editor of the journal and, three years later he published Koeffizientenbedingungen für schlicht abbildende meromorphe Funktionen Ⓣ(Coefficient conditions for simple imaging meromorphic functions) in Mathematische Zeitschrift.
+* This was Grunsky's thirteenth paper which was written as an habilitation dissertation.
+* Grunsky became qualified to lecture just before the start of World War II.
+* Difficulties at the end of the war did not allow him to enter university teaching even then so in 1945 Grunsky took a position as a high school teacher in Trossingen, Württemberg.
+* It is worth noting that due to various circumstances Grunsky did not enter university teaching until he was 45 years old.
+* Grunsky have an invited address at the International Congress of Mathematicians held at Cambridge, Massachusetts in 1950.
+* In 1958 Grunsky moved to the University of Würzburg where he became a full Professor.
+* Grunsky published three books and 44 papers, and he supervised eight doctoral students.
+* is most closely related to Helmut Grunsky's overall activity and consists of a reworking of some of his most significant contributions to function theory, in many cases with a considerable simplification of exposition.
 
 Born 11 July 1904, Aalen, Württemberg, Germany. Died 5 June 1986, Würzburg, Bavaria, Germany.
 

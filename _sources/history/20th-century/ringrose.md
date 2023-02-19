@@ -7,10 +7,10 @@ orderid: 1932
 title: Ringrose, John Robert
 born: 1932
 died: 0
-keywords: John Ringrose, Non-Self-Adjoint Operators, Algebra, Perfect Numbers, Riemann Hypothesis, Prime Numbers, Gordan's Theory of Invariants
-description: John Ringrose, a leading world expert on non-self-adjoint operators and operator algebras, advanced algebra by developing a concept of linear algebra, perfect numbers, and the use of prime numbers. He also developed Gordan's Theory of Invariants and integral equations.
+keywords: john ringrose,ringrose
+description: John Ringrose is an English mathematician who is a leading world expert on non-self-adjoint operators and operator algebras.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,18 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **John Ringrose** is an English mathematician who is a leading world expert on non-self-adjoint operators and operator algebras.
 
 ### Mathematical Profile (Excerpt):
-John Ringrose was an English mathematician known for his work in algebra. He is considered to be one of the key figures in the development of modern algebra.
-
-1. Developed a concept of linear algebra and wrote a book called The Theory Of Algebraic Equations. 
-2. Developed the concept of perfect numbers and the first use of latent roots.
-3. pioneered the use of the Riemann hypothesis and the use of congruence relations in algebra. 
-4. Wrote important works such as "An Elementary Treatise on Convergences and Divergences" and "The Theory of Algebraic Equations". 
-5. Developed a theorem that states that any positive integer greater than 2 can be expressed as a sum of at most three prime numbers.
-6. Established the fundamental theorem of algebra, which states that a polynomial equation of degree n has exactly n roots. 
-7. Developed Gordan's theory of invariants, which is a tool for solving algebraic equations. 
-8. His contribution of the ring-theoretic approach for approaching algebraic equations.
-9. Formulated the concept of integral equations.
-10. Developed and developed a sequence of nested functions for certain types of equations.
+* After leaving the school, Ringrose entered St John's College, Cambridge and he received an M.A., then later a Ph.D. from Cambridge in 1957.
+* After completing his Ph.D., Ringrose was appointed a lecturer in mathematics at King's College of the University of Newcastle-upon-Tyne in 1957.
+* He was also elected a fellow of his old College, St John's College, Cambridge.
+* He remained at Cambridge for two years then, in 1963, Ringrose returned to Newcastle where he was appointed a senior lecturer in mathematics.
+* Ringrose is a leading world expert on non-self-adjoint operators and operator algebras.
+* The second volume treats advanced topics which Ringrose and Kadison consider to be fundamental for an understanding of current research in operator algebras.
+* The Royal Society of London elected Ringrose as a fellow in 1977 and he has also been elected a fellow of the Royal Society of Edinburgh.
 
 Born 21 December 1932, Edmonton, London, England.
 

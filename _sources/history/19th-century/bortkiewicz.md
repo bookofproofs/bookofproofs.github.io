@@ -7,10 +7,10 @@ orderid: 1868
 title: Bortkiewicz, Ladislaus Josephowitsch
 born: 1868
 died: 1931
-keywords: Bortkiewicz, mathematical economics, law of small numbers, method of moments, Pearson correlation coefficient, probability theory, econometrics
-description: Bortkiewicz was a leading Russian economist and statistician who developed theories of mathematical economics and led the way for the emergence of econometrics through his statistical models.
+keywords: ladislaus bortkiewicz,bortkiewicz
+description: Ladislaus Bortkiewicz was a Russian economist and statistician. He made contributions to mathematical economics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ladislaus Bortkiewicz**  was a Russian economist and statistician. He made contributions to mathematical economics.
 
 ### Mathematical Profile (Excerpt):
-1. Bortkiewicz developed a mathematical theory of the law of small numbers and a law of large numbers.
-2. He introduced the method of moments for the fitting of statistical distributions, and applied statistical methods to experiments on the passage of electric current through partially heated and cooled cathodes.
-3. He developed a mathematical foundation for the correlation coefficient, which is now known as the Pearson correlation coefficient.
-4. His work laid the foundation for modern probability theory and led to more accurate models of many phenomena.
-5. He established a model of how statistical data should be collected, an early example of statistical data validation.
-6. Bortkiewicz developed a statistical model of change in the size of bills of exchange before their maturity that is still in use today.
-7. He applied statistical methods to the study of economic data, paving the way for the emergence of econometrics in the 20th century.
-8. Bortkiewicz was a leading figure in bridging the gap between mathematical and economic approaches in the sciences.
+* Joseph Bortkiewicz came from the Russian nobility.
+* Ladislaus certainly was influenced by his father's academic interests.
+* Bortkiewicz studied law at St Petersburg, graduating in 1890 and then went on to study political economy and statistics for a year of postgraduate work.
+* Bortkiewicz became an ordinary professor of statistics and political economy at the University of Berlin in 1920 and he spent the rest of his life there.
+* An unfortunate argument with an Italian statistician Gini, who accused Bortkiewicz of plagiarism, led to an unhappy episode near the end of Bortkiewicz's life.
+* Bortkiewicz worked on mathematical statistics and applications to actuarial science and political economy.
+* Bortkiewicz was interested in the law of small numbers and he used the divergence coefficient Q, deducing its expectation and standard deviation.
+* We also mentioned that Bortkiewicz worked on political economy.
+* Other areas to which Bortkiewicz applied his statistical methods include radioactivity (1913), order statistics, and applications to legal studies.
+* Bortkiewicz was critical of the approach of Karl Pearson to statistics.
+* This, claimed Bortkiewicz, was worthless.
+* Bortkiewicz does not get any less obscure as he goes on.
+* Bortkiewicz received many honours including membership of the Swedish Academy of Sciences, the Royal Statistical Society, the American Statistical Association and the International Statistical Institute.
 
 Born 7 August 1868, St Petersburg, Russia. Died 15 July 1931, Berlin, Germany.
 

@@ -7,10 +7,10 @@ orderid: 1908
 title: Schmid, Hermann Ludwig
 born: 1908
 died: 1956
-keywords: Hermann Ludwig Schmid, Göttingen-Darmstadt Lemma, algebraic forms, invariant theory, linearization, hyperelliptic curves, homogeneous polynomials
-description: Hermann Ludwig Schmid was a German mathematician who developed theories relating to algebra and algebraic number theory, such as describing a connection between linearization and hyperelliptic curves and the Fried-Schmid theorem.
+keywords: hermann ludwig schmid,schmid
+description: Hermann Ludwig Schmid was a German mathematician who worked in algebra and algebraic number theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,15 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Hermann Ludwig Schmid**  was a German mathematician who worked in algebra and algebraic number theory.
 
 ### Mathematical Profile (Excerpt):
-1. Proved the "Göttingen-Darmstadt Lemma" (which presented a sufficient condition for a function to be linearizable).
-2. Founded "Schmidssche Theorie der algebraischen Formen" (which dealt with the concept of invariant forms).
-3. Published important works such as "Erläuterungen zur Theorie der Invarianten" (which explained invariant theory).
-4. Discovered a connection between the linearization problem and hyperelliptic curves.
-5. Authored the book "Der rechnerische und graphische Aufbau der Invariantentheorie" (which laid out a computational and graphical framework for the theory of invariants).
-6. Was the first to prove that invariants can always be represented by homogeneous polynomials.
-7. Demonstrated how the action of an algebraic group on a variety can be used to study invariants and the equations of classical varieties.
-8. Developed the structure theorem of invariant theory and the Fried?Schmid theorem.
-9. Pioneered new methods of using computers in mathematics.
+* Hermann was brought up by his mother, Walburga Wechsler (1879-1961).
+* In particular Hermann Weyl left his chair at Göttingen and accepted a position at Princeton in the United States.
+* In 1935 Schmid followed his former supervisor to Göttingen where he spent the two years 1935-37 as Hasse's assistant.
+* In fact Schmid and Witt collaborated on developing what today is called the 'Witt vector calculus'.
+* Leaving Göttingen, Schmid moved to the University of Giessen where he became editorial secretary of the Zentralblatt für Mathematik in 1938.
+* It was through Schmid's efforts that Helmut Hasse was brought to Berlin in 1946 after being dismissed from his position at Göttingen.
+* Also on 1 October 1946, together with Hasse and Erhard Schmidt, Schmid succeeded in founding the Forschungsinstitut für Mathematik (Research Institute for Mathematics) as part of the newly founded Deutsche Akademie der Wissenschaften zu Berlin (German Academy of Sciences in Berlin).
+* Largely it was on Schmid's initiative that the journal was founded and he became its managing edito; Erhard Schmidt was appointed editor-in-chief of the journal.
+* Schmid was also able to restart a major project editing the Mathematisches Wörterbuch (Dictionary of Mathematics), again as a project in the new Research Institute.
+* It is worth noting that the 127 mathematicians involved in writing the articles were associated with the Institute for Mathematics which Schmid had set up as part of the German Academy of Sciences in Berlin.
+* One section was 'Mathematik und Editionen' (Mathematics and Editing) with Schmid as its director.
+* Schmid moved to Würzburg in 1953 and Josef Naas took over his role as director of the Mathematik und Editionen section of the Research Institute for Mathematics.
+* Schmid immediately concentrated his efforts on the planning of the construction of a new building for the Mathematics department and on establishing a research section with numerous non-resident collaborators who continued his extensive mathematical work.
+* Soon, Schmid became Dean of the Faculty of Science and finally Rector of the University.
+* Following his move to Berlin, the direction of Schmid's research changed somewhat and he moved away from algebraic number theory, becoming interested in topics in algebraic geometry and Lamé differential equations.
+* Hermann Schmid died following a sudden heart attack at the age of 47.
 
 Born 26 June 1908, Göggingen near Augsburg, Bavaria, Germany. Died 16 April 1956, Würzburg, Germany.
 

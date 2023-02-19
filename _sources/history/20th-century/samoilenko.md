@@ -7,10 +7,10 @@ orderid: 1938
 title: Samoilenko, Anatoly Mykhailovych
 born: 1938
 died: 2020
-keywords: Samoilenko, Linear Differential Equations, Nonlinear Differential Equations, Samoilenko-Vishik Theory, Oscillatory Processes, Stability, Inverse Problem
-description: Ukrainian mathematician Anatoly Samoilenko researched linear/nonlinear differential equations and developed the Samoilenko-Vishik theory, providing insights into their stability, oscillatory processes, and inverse problems.
+keywords: anatoly mykhailovych samoilenko,samoilenko
+description: Anatoly Mykhailovych Samoilenko was a Ukrainian mathematician who worked on linear and nonlinear ordinary differential equations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Anatoly Mykhailovych Samoilenko** was a Ukrainian mathematician who worked on linear and nonlinear ordinary differential equations.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Samoilenko-Vishik theory on oscillatory processes and linear equations with deviating arguments.
-2. Found a general theory of nonselfadjoint linear equations with deviating arguments.
-3. Researched the existence of oscillatory solutions of ordinary and partial differential equations.
-4. Investigated the existence of solutions to the inverse problem of dynamics.
-5. Developed a theory of stability and instability of solutions of differential equations.
-6. Proved the existence and behavior of an continuous soliton representation in weakly dispersive media.
-7. Provided insights into the dynamics of nonlinear systems with internal and external sources.
-8. Identified a continuous spectrum of data processing equation with periodic solutions.
-9. Established a unique solution theorem in the theory of linear differential equations with deviating arguments.
-10. Constructed a homological theory of partial differential equations and generalized nonselfadjoint linear equations.
+* Samoilenko had been appointed as a senior research fellow at the Institute of Mathematics of the Academy of Sciences of the Ukraine in Kiev in 1965, and he also taught at the Shevchenko Kiev State University from 1967.
+* In 1987 Samoilenko was appointed head of the Department of Ordinary Differential Equations at the Institute of Mathematics of the Ukrainian Academy of Sciences in Kiev.
+* Samoilenko worked on both linear and nonlinear ordinary differential equations.
+* A monograph on the method of accelerated convergence, written jointly by Samoilenko, N Bogolyubov, and Yu Mitropolskii in 1969, gives an exhaustive analysis of the speed of convergence, error estimates, stability, and applications.
+* With contributions from Mikola Oleksiiovich Perestyuk, Samoilenko put the application of asymptotic methods to solve discontinuous and impulsive systems on a rigorous foundation.
+* Samoilenko was to undertake several joint projects with Mitropolskii who had become the Director of the Institute of Mathematics in Kiev where he worked.
+* In 1987 Samoilenko published the book Elements of the Mathematical Theory of Multifrequency Oscillations.
+* Further fundamental monographs continued to be written by Samoilenko and his collaborators.
+* With Petryshyn, Samoilenko has written books such as Multifrequency oscillations of nonlinear systems (Ukrainian) (1998) which appeared in an English translation in 2004.
+* A recent book by Samoilenko, written with Yu V Teplinskii, is Elements of the mathematical theory of evolution equations in Banach spaces (Ukranian) (2008).
+* Although we have taken a brief look at Samoilenko's mathematics by looking at a few of the monographs he has written, we must not give the impression that these monographs are his only publications.
+* Nothing could be further from the truth, for MathSciNet lists over 400 publications by Samoilenko.
+* As well as having a reputation as an outstanding researcher, Samoilenko is renowned as a fine teacher.
+* Another aspect of Samoilenko's contributions is his editorial work for many different journals.
+* Samoilenko has received widespread recognition for his outstanding achievements.
+* Anatoly Mykhailovych Samoilenko was married to Lypa Hryhorivna; they had a son Anatolii who is a geneticist with a doctorate from Göttingen University.
 
 Born 2 January 1938, Potiivka, Radomyshl, Zhytomyr oblast, Ukraine. Died 4 December 2020, Kyiv, Ukraine.
 

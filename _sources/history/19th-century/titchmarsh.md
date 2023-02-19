@@ -7,10 +7,10 @@ orderid: 1899
 title: Titchmarsh, Edward Charles
 born: 1899
 died: 1963
-keywords: Edward Titchmarsh, Isoperimetric Inequality, Theory of Functions, Titchmarsh Convolution Theorem, Singularity Theory, Dirichlet Eigenvalues, Alternating Process
-description: Edward Titchmarsh was an English mathematician renowned for his numerous discoveries, ranging from the Isoperimetric Inequality to Dirichlet Eigenvalues.
+keywords: edward titchmarsh,titchmarsh
+description: Edward Titchmarsh was an English mathematician best known for his work in analysis.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,13 +23,26 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Edward Titchmarsh** was an English mathematician best known for his work in analysis.
 
 ### Mathematical Profile (Excerpt):
-1. Formulated the Isoperimetric Inequality, which has been described as “the most remarkable inequality in mathematics”.
-2. Authored the book The Theory of Functions, which has become a renowned textbook in the field of mathematics.
-3. Demonstrated the Titchmarsh convolution theorem, a highly influential result in Fourier analysis.
-4. Established mathematical foundations in singularity theory and its application to differential equations.
-5. Discovered Titchmarsh’s theorem, as well as several other theorems in function theory.
-6. Approximated integrals using his famous “alternating process” method.
-7. Proposed the concept of Dirichlet eigenvalues for semi-infinite linear systems.
+* His grandfather was a grocer in Royston while Ted's father, Edward Harper Titchmarsh, became a Congregational minister in Newbury, Berkshire.
+* Ted was the second of three children born to Edward and Caroline Titchmarsh.
+* In December 1916, when he was seventeen years old, Titchmarsh won an Open Mathematical Scholarship to Balliol College, Oxford and he began his studies there in October 1917.
+* Titchmarsh was fortunate to have arrived in France at a point when the tide of the war had changed.
+* There had been major offensives by the German armies throughout June and July of 1918 but as Titchmarsh landed in France the Allied forces were making steady advances, driving the German troops out of France.
+* Titchmarsh carried out his duties as a dispatch rider first on horseback and then on a motorcycle.
+* However Titchmarsh served with the Royal Engineers for almost a further year before he was able to return to his interrupted studies in Oxford in October 1919.
+* Some of Titchmarsh's solutions replaced the official ones.
+* Titchmarsh attended this class, as did Mary Cartwright.
+* Of course Titchmarsh and Hardy had a common passion, namely cricket, which must have served Titchmarsh well.
+* His uncle was a professional cricketer and Titchmarsh often played in the regular cricket matches with Hardy.
+* Titchmarsh graduated with a First Class degree in 1922 and won mathematical scholarships for his outstanding work.
+* This appointment in London did not see Titchmarsh end his association with Oxford.
+* During the academic year 1928-29 Hardy was at Princeton, and it was Titchmarsh who took over the supervision of Mary Cartwright who was, at that time, one of Hardy's doctoral students at Oxford.
+* Despite having duties at both London and Oxford, Titchmarsh found time to visit his father who was by this time a Congregational minister in Essex.
+* Titchmarsh was appointed to Burkill's chair at Liverpool, a post he held for two years before he succeeded to Hardy's Savilian chair at Oxford when Hardy moved to Cambridge.
+* Titchmarsh said no, but (encouraged by Ferrar) thought that he might.
+* Titchmarsh held the Savilian Chair of Geometry at Oxford for 30 years.
+* All Titchmarsh's work was in analysis, in fact he refused to lecture on any other topic.
+* From 1939 Titchmarsh concentrated on the theory of series expansions of eigenfunctions of differential equations, work which helped to resolve problems in quantum mechanics.
 
 Born 1 June 1899, Newbury, Berkshire, England. Died 18 January 1963, Oxford, England.
 

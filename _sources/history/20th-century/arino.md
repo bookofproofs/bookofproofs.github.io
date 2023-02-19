@@ -7,10 +7,10 @@ orderid: 1947
 title: Arino, Ovide
 born: 1947
 died: 2003
-keywords: Ovid Arino, Differential Equations, Banach spaces, Algorithm, Elliptic Curves, Number Theory, Finite Fields
-description: Ovid Arino was a French mathematician studying differential equations, Banach spaces, and number theory, where he developed an algorithm considering Diophantine equations, constructed elliptic curves, computed the genus of algebraic curves, and devised a method to compute elliptic curves over finite fields.
+keywords: ovide arino,arino
+description: Ovide Arino was a French mathematician who worked in differential equations and Banach spaces.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,12 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Ovide Arino** was a French mathematician who worked in differential equations and Banach spaces.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an algorithm  that considered the computational complexity of various Diophantine equations.
-2. Constructed a general method for developing elliptic curves that could be used in cryptographic applications.
-3. Studied several topics in number theory including irreducible polynomials, Fermat's Last Theorem, and Mordell's Conjecture.
-4. Developed a tool to determine the genus of an algebraic curve over an algebraic number field.
-5. Devised a new method for computing elliptic curves over finite fields.
-6. Used number theory to study random number generators and analyze the security of cryptographic protocols.
+* Pau is a town in the Pyrenees and the university there had opened in 1970, just three years before Arino was appointed.
+* In the years following his appointment Arino published a number of papers, all joint publications with mathematicians such as Claude Delode, Jean-Paul Penot, Pierre Séguier, Serge Gautier, and Kacem Khouk.
+* Arino spent most of his career at the University of Pau.
+* Ovide was always active and spent a large portion of his career organizing and teaching.
+* At closing session in the 2003 Alcala meeting, Dr Rafa Bravo, the chair of the Second Mathematical Ecology meeting referred to Ovide as the brain of the conference and expressed his admiration for Ovide's ability to work literally 24 hours a day.
+* Even the greatest brain is physiologically limited in the amount of work it can perform and Ovide left us a few weeks after the Alcala meeting.
+* Ovide was much more than a great scientist: he was very much a family man, extremely generous, always ready to lend a helping hand and a great conversationalist.
+* Ovide is survived by his wife Elizabeth, three sons Julien, Emilien and Lucien, one daughter Lisa and one grandson Samuel.
+* Following Arino's death, several tributes to him have been made.
+* In May 2004, the SFBT awarded the Prix Ovide Arino during its first international conference.
+* In June 2004, the Université Abou Bekr Belkaid, Tlemcen, Algeria, awarded the Prix Ovide Arino 2004 to Tarik Touaoula.
 
 Born 24 April 1947, Toulouse, France. Died 29 September 2003, Bedlewo, Poland.
 

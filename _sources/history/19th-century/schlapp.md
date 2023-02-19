@@ -7,10 +7,10 @@ orderid: 1899
 title: Schlapp, Robert
 born: 1899
 died: 1991
-keywords: Robert Schlapp, Edinburgh, Cambridge, Mathematics, Physics, Fuzzy Logic, Research
-description: Robert Schlappwas a pioneering math & physics professor at Edinburgh & Cambridge; developed formulas, theorem, equations & optimization principles.
+keywords: robert schlapp,schlapp
+description: Robert Schlapp studied at Edinburgh and Cambridge universities. He spent his whole career at Edinburgh University teaching mathematics and Physics. He was also interested in the History of Mathematics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Robert Schlapp** studied at Edinburgh and Cambridge universities. He spent his whole career at Edinburgh University teaching mathematics and Physics. He was also interested in the History of Mathematics.
 
 ### Mathematical Profile (Excerpt):
-1. Developed the Schlapp-Galtzberg formula for solving algebraic equations of degree greater than two.
-2. Successfully incorporated aspects of fuzzy logic into mathematical theories.
-3. Led pioneering research on differential equations and number theory.
-4. Authored several mathematical papers on topics including the theory of substitution groups and integer estimations.
-5. Established the Schlapp theorem which ties gamma functions together to solve a variety of mathematical problems.
-6. Pioneered the use of parametric equations in applied mathematics.
-7. Conducted research that reduced the complexity of certain iterative equations, aiding with the development of fast-computing algorithms.
-8. Developed a new approach to mathematical optimization by unifying the principles of calculus and linear algebra.
+* Robin (as Robert was known to all his colleagues including the authors of this biography) was educated at George Watson's School, Edinburgh, and completed his school education as dux of the School in 1917.
+* Returning to Edinburgh University after the war ended, Schlapp graduated with an M.A. with First Class Honours in Mathematics and Natural Philosophy.
+* Schlapp was then appointed as an Assistant in Natural Philosophy at Edinburgh University.
+* Schlapp married Mary Fleure in 1940; they had two daughters.
+* In January 1923 Schlapp joined the Edinburgh Mathematical Society.
+* As explained in this obituary, Schlapp published little after 1940.
 
 Born 18 July 1899, Edinburgh, Scotland. Died 31 May 1991, Ashford, Kent, England.
 

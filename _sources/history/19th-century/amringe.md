@@ -7,10 +7,10 @@ orderid: 1835
 title: Van Amringe, John Howard
 born: 1835
 died: 1915
-keywords: Howard Van Amringe, Mathematics, Geometry, Model, Journals, Notation, Theorem, Foundation
-description: Howard Van Amringe developed a unique model of geometry, advanced mathematics knowledge, and contributed journals, notation and a theorem. He also founded a foundation to support math-related research.
+keywords: howard van amringe,van
+description: Howard Van Amringe was an American educator and mathematician.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Howard Van Amringe** was an American educator and mathematician.
 
 ### Mathematical Profile (Excerpt):
-1. Developed a unique model of geometry called the "Van Amringe Model of Euclidean Geometry".
-2. Published several mathematical journals, including: "Mathematical Thoughts", "Mathematician's Mecca" and "Mathematical Controversies".
-3. Made extensive contributions to mathematics including discoveries of new equations, analysis of existing formulas, and crafted new methods for problem-solving.
-4. Developed an innovative mathematical notation system, which helped in conveying the complexities of advanced mathematical problems in a simplified way.
-5. Authored several textbooks on mathematics which became textbooks in various universities.
-6. Discovered a new method for computing approximate values of triangular waveforms and other waveforms. 
-7. Demonstrated the Chernoff-Holte model which led to groundbreaking insights into wave behavior.
-8. Formulated the HVAR Theorem, which reconciled the divergence of multiple theorems proposed to resolve the same issue.
-9. Significantly advanced the body of knowledge on the plane Euclidean geometry.
-10. Established the Howard Van Amringe Foundation which funds mathematics-based research and philanthropic activities.
+* Howard's paternal grandfather Lionel Van Amringe was born in Rotterdam, served under Frederick the Great, married Elizabeth Oborne, a Hampshire woman, in London and emigrated from Holland to the United States in 1791.
+* William Frederick Van Amringe was born on 22 May 1791, became a lawyer, published the massive book An Investigation of the Theories of the Natural History of Man in 1848 and The nature and origin of heat and the forces of the universe in 1869, and died on 16 March 1873.
+* Howard was educated at home by his father until he entered Montgomery Academy in New York.
+* Van Amringe taught at Columbia while an undergraduate but not, as one might expect, in the Department of Mathematics but rather in the Department of Greek.
+* Van Am, as he was known, spent his entire career at Columbia College.
+* At the meeting on 5 December 1890, Van Amringe proposed that the Society should publish a Bulletin.
+* He was also a member of the New York Historical Society and the American Society for the Advancement of Science.
+* Van Amringe was married to Cornelia Bucknor, daughter of William G Bucknor, in New York City on 20 June 1865 by the Revd George Jarvis Geer.
+* Howard and Cornelia Van Amringe, who lived at 48 West Fifty-ninth Street, New York, had a daughter Emily and a son Guy who became a New York lawyer.
+* Among many honours given to Van Amringe let us mention in particular the bust of the Dean Van Amringe that the alumni of Columbia University donated in March 1913 to the Columbia University Club.
+* What the Yale fence is to Yale, the ivy to Princeton, Van Am is to Columbia - a tangible, concrete expression of sentiment to which our members lovingly cling.
+* The sight of Van Am raised my hat from my head.
+* D'ye ken Van Am with his fine old way.
 
 Born 3 April 1835, Philadelphia, Pennsylvania, USA. Died 10 September 1915, Morristown, New Jersey, USA.
 

@@ -7,10 +7,10 @@ orderid: 1832
 title: Zehfuss, Georg
 born: 1832
 died: 1901
-keywords: Nonlinear Analysis, Complex Analysis, Tensor Product, Differential Topology, Bifurcation Theory, Variational Iteration, Technical University Berlin
-description: Georg Zehfuss developed nonlinear analysis approach and proved several theorems, linking differential topology with global stability. He also pioneered complex analysis and bifurcation theory, established a research school and a research group at the Technical University of Berlin.
+keywords: georg zehfuss,zehfuss
+description: Georg Zehfuss was a German mathematician and physicist who made important contributions to the theory of the tensor product of matrices.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,37 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Georg Zehfuss** was a German mathematician and physicist who made important contributions to the theory of the tensor product of matrices.
 
 ### Mathematical Profile (Excerpt):
-1. Developed an independent approach to nonlinear analysis which has been applied to a variety of engineering problems. 
-2. Pioneered the use of complex analysis in problem solving related to problems in engineering and applied mathematics.
-3. Constructed rigorous mathematical models of nonlinear dynamic systems, helping to fuel research into new areas in science and engineering.
-4. Proved several fundamental theorems in nonlinear analysis, including the famous Kronecker-Capelli theorem. 
-5. Established a link between differential topology and global stability, leading to insights in applied dynamical systems. 
-6. Contributed to the advancement of algebraic and numerical techniques for solving nonlinear problems. 
-7. Pioneered the use of bifurcation theory for explaining global behavior. 
-8. Founded the German Research School for Information Technology. 
-9. Developed an important method called Variational Iteration which has found applications in several fields. 
-10. Helped to establish a world-class research group in numerical analysis and nonlinear analysis at the Technical University of Berlin.
+* The Polytechnic which Kern mentions in this quote is actually the Höhere Gewerbeschule Darmstadt which was renamed the Polytechnic School in 1868, many years after Zehfuss had completed his studies there.
+* At the Gewerbeschule, Zehfuss took classes in mathematics, technical drawing, physics and chemistry.
+* In his first years at the school Zehfuss was taught chemistry by Adolph Strecker (1822-1871) but Strecker left in 1846 to take up an appointment at the University of Giessen.
+* Another of Zehfuss's teachers was Ludwig Christian Wiener who was appointed to the Höhere Gewerbeschule in 1848 and taught physics, mechanics, hydraulics and descriptive geometry.
+* Zehfuss graduated "summa cum laude" from the Höhere Gewerbeschule Darmstadt in 1850 and began his studies of mathematics at the Justus Liebig University of Giessen.
+* Zehfuss completed his studies in Giessen on 31 January 1853 when he obtained a doctorate and qualified to teach in a Gymnasium.
+* In 1857 Zehfuss habilitated in mathematics and physics at the Ruprecht-Karls University of Heidelberg when he submitted his dissertation Abhandlung über einige mathematische Gegenstände.
+* He had made investigations into the theory of determinants while undertaking research on invariant theory and he inspired Zehfuss to work on determinant theory.
+* Zehfuss published his first work on this topic in 1858 with three papers appearing in that year, namely: Über die Zeichen der einzelnen Glieder einer Determinanten Ⓣ(On the Signs of the Individual Members of a Determinant); Über eine gewisse Determinante Ⓣ(On a certain determinant); and Kommentar des Buches von Richard Baltzer "Theorie und Anwendungen der Determinanten mit Beziehung auf die Orginalquellen" Ⓣ(Commentary on Richard Baltzer's 'Theory and Applications of Determinants with Relation to the Original Sources'.).
+* In the first of these papers Zehfuss proves a rule stated by Gabriel Cramer about the change in the signs of determinants.
+* Some authors believe that the tensor product, often called the Kronecker product, should be called the 'Zehfuss product'.
+* See below for quotes about the 'Zehfuss product'.
+* Zehfuss worked as a docent at the University of Heidelberg for four years between 1857 and 1861.
+* On 11 July 1861 Zehfuss married Louise Stein (1838-1911).
+* Zehfuss applied for the vacant position in Zürich but it was offered to Rudolf Lipschitz.
+* Zehfuss, unable to find a permanent position in Germany, accepted the post of high school professor of mathematics and physics in Reval (now Tallinn in Estonia) in September 1860.
+* He taught at the Cathedral School in Reval and while there his son Gustav Heinrich Julius Wilhelm Zehfuss was born on 20 August 1862.
+* However, Zehfuss was not very happy at the Cathedral School in Reval since he did not feel that this offered him the environment to reach his full potential as a researcher.
+* In February 1862 Zehfuss applied for a position as a professor in mathematics or physics at the Polytechnic of Riga in Latvia.
+* Zehfuss was appointed and took up the position as professor of higher mathematics at the Polytechnic of Riga on 9 January 1863.
+* Zehfuss decided to return to Germany when offered a position at the Gewerbeschule in Frankfurt am Main.
+* His second child, a daughter Cornelia Charlotte Marie Auguste Mathilde Victoria Zehfuss, was born in Darmstadt on 16 September 1864.
+* Zehfuss continued in his position at the Gewerbeschule in Frankfurt am Main for the rest of his career.
+* Zehfuss died in Frankfurt am Main on 5 May 1901.
+* Also buried there are his wife Luisa, his daughter Cornelia (1864-1949), and his daughter's husband Georg Anton Karch (1856-1937).
+* Today the name of Zehfuss is not known by many but those who are aware of his contributions almost certainly know him through his contribution to the tensor product of matrices.
+* Without offering a definite opinion as to whether the 'Kronecker product' should be called the 'Zehfuss product' let us simply quote from a number of sources.
+* It has since been called by various names, including the Zehfuss product, the Producttransformation, the conjunction, the tensor product, the direct product and the Kronecker product.
+* Following Muir's lead, a few later authors have called A ⊗ B the 'Zehfuss matrix' of A and B, for example "D E Rutherford, On the Condition that two Zehfuss matrices be equal, Bull.
+* Zehfuss wrote in terms of determinants rather than matrices, following the then customary practice of employing the term 'determinant' both for what we now call a square matrix as well as for its determinant.
+* The book commences with an historical introduction in which Zehfuss refers to sewage systems mentioned in the Bible, those constructed by the Hindus, the ancient Egyptians, the Babylonians, and the Romans in 600 B.C. A patent was sought in the United States for the sewage system Zehfuss describes in the book and he received a letter of patent from the United States Patent Office in 1870 (letter of patent No. 100,347).
 
 Born 10 April 1832, Darmstadt-Bessungen, Darmstadt, Grand Duchy of Hesse, now Germany. Died 5 May 1901, Frankfurt am Main, Germany.
 
