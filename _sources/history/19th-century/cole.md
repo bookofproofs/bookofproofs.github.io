@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While he completed writing his doctoral thesis, Cole had already begun to lecture at Harvard and he continued to lecture there until 1887.
 * In 1895 Cole was appointed professor at Columbia University, a post which he held until his death.
 * Another important contribution to the theory of groups made by Cole was his work in publishing his English translation of Netto's book on group theory.
-* In fact Netto revised the German text of his book so that the English translation by Cole could incorporate some improvements.
+* Netto revised the German text of his book so that the English translation by Cole could incorporate some improvements.
 * As a lecturer Cole was described as "truly inspiring" by Osgood, who was not in general one to give praise easily.
 * He established the Frank Nelson Cole Prizes in algebra and number theory and today these are highly prestigious awards.
 * The way this came about was that when Cole ended his spell of twenty-five years of secretarial and editorial duties for the American Mathematical Society his fellow members of the Society were so appreciative of his contributions that they collected money to give him to show their recognition.

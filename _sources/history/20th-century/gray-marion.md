@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1932 she discovered a semisymmetric cubic graph on 54 vertices which today is known as the 'Gray graph'.
 * showed that the Gray graph is the smallest possible semisymmetric cubic graph.
 * One hundred forty of her reviews were classified as "optics, electromagnetic theory, circuits" while another 52 were classified as "special functions." In 1954 Gray served on an ad hoc committee formed when the National Science Foundation asked the National Bureau of Standards to prepare a handbook of mathematical tables.
-* Let us note that looking at the 258 reviews that Gray wrote it is clear that she was equally happy reading papers in English, French, German and Italian.
+* Looking at the 258 reviews that Gray wrote it is clear that she was equally happy reading papers in English, French, German and Italian.
 * Marion Gray joined the Edinburgh Mathematical Society in session 1921-22, while she was an undergraduate at Edinburgh, although she was formally elected in the meeting in December 1922.
 * Various papers by Gray were read to the Society: The equation of telegraphy (which appeared in volume 42 of the Proceedings and she read to the meeting of the Society in November 1923), The equation of conduction of heat (which also appeared in volume 42 of the Proceedings), and On the equation of heat (which appeared as Particular solutions of the equation of conduction of heat in one dimension in volume 43 of the Proceedings).
 * Gray continued to be a member of the Society through the various changes in her career.

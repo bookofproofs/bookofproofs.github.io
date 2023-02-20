@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Peterson's paper 'On curves on surfaces'  (1867) and the book 'Über Curven und Flächen' Ⓣ(On curves and surfaces) (1868) were devoted to differential geometry.
 * Some of the results of these papers of Peterson were later duplicated by G Darboux and other foreign geometers, but after E Cosserat's translations of Peterson's main works from 1866-1867 were published in Toulouse in 1905, his work achieved general recognition.
 * In addition to his mathematical research while he taught in Moscow schools, Peterson also worked with Brashman and Davidov in founding the Moscow Mathematical Society.
-* In fact the first such Society had been founded in 1810 but had ceased to function and a totally new Society, which Peterson helped found and organise, started to operate in 1864.
+* The first such Society had been founded in 1810 but had ceased to function and a totally new Society, which Peterson helped found and organise, started to operate in 1864.
 * Mathematicheskii Sbornik, the journal of the Society, first appeared in October 1866 and from that time on Peterson published almost all his research papers in that journal.
 
 Born 25 May 1828, Riga, Russia (now Latvia). Died 19 April 1881, Moscow, Russia.

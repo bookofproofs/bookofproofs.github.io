@@ -76,7 +76,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Nikolaj-Zachary,bookofproofs
 * Giannini was also on a short break on 28 June 1785, given as unwell, the note explaining that he was indisposed as he had been "hit by a horse." He was also missing in the rolls of the 8th, 9th, 11th, and 14th of July of 1785, but had returned by the 28th.
 * As mentioned earlier, Giannini's salary was less than that of his predecessors, and this was discussed from 1786 into the early part of 1787.
 * This discussion was ended by a letter from Lacy stating that "an order from the King has mandated that Don Pedro Giannini Primer Professor ...
-* receive an annual salary of 12000 reals, as a result of His Majesty having had his attention brought to Giannini's merit and great performance in his role." This 12000 (including bonuses) was a great increase on Giannini's income, which had started at 8000, and then risen to 9600 in the years between his hiring and this even greater augmentation.
+* He received an annual salary of 12000 reals, as a result of His Majesty having had his attention brought to Giannini's merit and great performance in his role." This 12000 (including bonuses) was a great increase on Giannini's income, which had started at 8000, and then risen to 9600 in the years between his hiring and this even greater augmentation.
 * Ten years after his initial appointment it is evident that Giannini found himself isolated.
 * Giannini, however, had no interest in anything but work.
 * It does appear, though, that Giannini's relations with Galiano were no less cold than with his other colleagues.

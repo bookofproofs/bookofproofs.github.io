@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Sommerfeld, who had an outstanding reputation as a thesis advisor, offered to supervise Kappos's thesis and suggested a topic for him to work on.
 * Carathéodory was one of the leading mathematicians in the world and he introduced Kappos to the ways of mathematical research.
 * During his stay in Munich, Kappos mostly worked on the Theory of Dynamics, Real Functions, and Calculus.
-* In fact Kappos studied under Carathéodory for five years (1934-1938) in Munich, although Carathéodory did spend some time in the United States in 1936-37.
+* Kappos studied under Carathéodory for five years (1934-1938) in Munich, although Carathéodory did spend some time in the United States in 1936-37.
 * These years in Munich allowed Kappos to have close contact with Carathéodory but after he returned to Greece he was in frequent contact with the professor who, by this time, had retired from his professorship.
 * Of course the years 1934 to 1938 that Kappos spent in Munich were years in which the Nazis were consolidating power and gearing up for war.
 * Although this had an increasing effect on universities, with those of Jewish background being dismissed, Carathéodory kept his head down trying hard to avoid trouble and Kappos's education did not suffer although it must have been a very difficult period for the young man.

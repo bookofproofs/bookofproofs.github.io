@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hevelius had a brewery to run which could have taken up much of his time.
 * In 1641 he was elected an alderman of Danzig, an event which meant that despite his wife's efforts running the brewery, Hevelius was again busy with duties which kept him away from astronomy.
 * Hevelius continued to increase his reputation across Europe, being awarded a pension by the French in 1663 and being elected to the Royal Society of London in 1664.
-* In fact Hevelius had been in correspondence with Oldenburg, the secretary of the Royal Society, from January 1663 and they exchanged around 80 letters over the next 14 years (Oldenburg died in 1677).
+* Hevelius had been in correspondence with Oldenburg, the secretary of the Royal Society, from January 1663 and they exchanged around 80 letters over the next 14 years (Oldenburg died in 1677).
 * Hevelius also corresponded with most of the leading astronomers including Wallis, Flamsteed and Halley in England, and Gassendi and Boulliau in France.
 * This dispute began when Hooke read Hevelius's Machina Coelestis Ⓣ(The heavenly machine) (1673).
 * As well as giving details of his observations, Hevelius described his methods of using naked eye observations for positions of celestial objects.

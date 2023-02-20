@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After this unsuccessful military venture, Albert worked hard to form regional peace alliances.
 * No charges were brought against Albert, however, who remained as Bishop of Halberstadt until his death in 1390.
 * The reader of this biography might well be wondering by now why Albert is included in this archive for, except for mentioning that he taught natural philosophy while in Paris, we have not mentioned any other mathematical expertise.
-* In fact Albert was mainly a transmitter of good mathematical ideas but he did contribute a great deal of his own to these.
+* Albert was mainly a transmitter of good mathematical ideas but he did contribute a great deal of his own to these.
 * He wrote about the ideas of Bradwardine, Ockham, Oresme and others.
 * In all he published around 30 texts, mostly produced during his years teaching in Paris, many of these being commentaries on the works of Aristotle.
 * Albert was quite an independent thinker who sometimes combined the theories of his predecessors (especially those of Buridan, Oresme, and the English and Parisian masters) or chose to present problems in a didactic manner.

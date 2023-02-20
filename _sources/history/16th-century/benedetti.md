@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When he was only twenty-two years of age Benedetti wrote Resolutio omnium Euclidis problematum aliorumque ad hoc necessario inventorum una tantummodo circini data apertura which was published in Venice in 1553.
 * It must be significant that the question of proving some of Euclid's theorems with only a compass of fixed opening had been posed by Tartaglia as challenges to Cardan and Ferrari so it is likely that this provided the motivation for Benedetti's study.
 * Both Ferrari and Tartaglia produced results on using only a compass of fixed opening but neither produced anything as systematic or of the quality that Benedetti did.
-* In fact Tartaglia's last work was Trattato generale di numeri e misure (1560) on precisely that topic - it is not of the quality of Benedetti's work and, interestingly, does not even mention Benedetti or the Resolutio.
+* Tartaglia's last work was Trattato generale di numeri e misure (1560) on precisely that topic - it is not of the quality of Benedetti's work and, interestingly, does not even mention Benedetti or the Resolutio.
 * This is a dedication in the form of a letter addressed to Gabriel de Guzman, a Spanish Dominican priest with whom he had held discussions in Venice in 1552 on Benedetti's theory of the free fall of bodies.
 * Guzman had suggested that Benedetti publish a mathematical treatment of the speeds of free fall and this letter was his answer to Guzman.
 * The answer is that Benedetti feared that his ideas would be stolen if he did not get them into print quickly, so he chose this route.

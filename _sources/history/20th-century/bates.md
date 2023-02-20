@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Only one of his three older siblings survived beyond being a baby, namely Margaret (Peggy) Bates.
 * Realising that David required better educational prospects than Omagh could offer, his parents decided to make a considerable sacrifice.
 * Once in Belfast, the nine year old Bates continued his education at the Inchmarlo Preparatory School.
-* In fact the emphasise that the school put on sport meant that Bates was not happy at the school.
+* The emphasise that the school put on sport meant that Bates was not happy at the school.
 * Their excellent teaching quickly persuaded Bates to give up his notions about studying chemistry and he graduated in 1937 with a First Class degree in both Experimental Physics and Mathematical Physics.
 * Harrie Massey suggested that, for a Master's degree, Bates should work with his fellow student Joseph John Unwin.
 * The thesis, Recombination in the upper atmosphere, involved much heavy computation which was shared by Bates and Unwin.

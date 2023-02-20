@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this stage their significance was not understood, but twenty years later it was realised that it was a sketch of the computer described by Schickard.
 * Bruno von Freytag Löringhoff constructed the computer between 1957 and 1960 using the sketch and the descriptions in Schickard's letters.
 * He then tested the range of calculations which were possible to try to ascertain exactly what purpose Schickard had in building the calculating machine.
-* In fact we know that Schickard also wrote to Kepler suggesting a mechanical means to calculate ephemerides.
+* We know that Schickard also wrote to Kepler suggesting a mechanical means to calculate ephemerides.
 * In 1631 Schickard had rather a change of subject, being appointed to the chair of mathematics and astronomy at the University of Tübingen left vacant by the death of his teacher Michael Mästlin.
 * As professor of astronomy Schickard lectured on the topic and undertook research into the motion of the moon.
 * We should note that, at a time when the Church was trying to insist that the Earth was at the centre of the universe, Schickard was a staunch supporter of heliocentric system.

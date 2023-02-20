@@ -78,7 +78,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However in 1908, near the beginning of his career, he gave a law describing how the proportions of dominant and recessive genetic traits would be propagated in a large population.
 * Hardy considered it unimportant but it has proved of major importance in blood group distribution.
 * There was only one passion in Hardy's life other than mathematics and that was cricket.
-* In fact for most of his life his day, at least during the cricket season, would consist of breakfast during which he read The Times studying the cricket scores with great interest.
+* For most of his life his day, at least during the cricket season, would consist of breakfast during which he read The Times studying the cricket scores with great interest.
 * After breakfast he would work on his own mathematical researches from 9 o'clock till 1 o'clock.
 * Then, after a light lunch, he would walk down to the university cricket ground to watch a game.
 * In the late afternoon he would walk slowly back to his rooms in College.

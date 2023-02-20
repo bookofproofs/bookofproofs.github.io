@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Øystein was born in Kristiania, Norway.
-* In fact the city was still named Kristiania when Ore attended the Katedralskole there.
+* The city was still named Kristiania when Ore attended the Katedralskole there.
 * The city of Kristiania was renamed Oslo in 1925 by which time Ore had returned there as an assistant, but before this he had studied in a number of universities while undertaking research.
 * Ore's research was supervised by Thoralf Skolem at Kristiania but he spent time at Göttingen University where he was influenced by Emmy Noether finding her new approach to algebra particularly exciting.
 * Before taking up the research assistant position at the University of Oslo in 1925, which we referred to above, he made another visit to Göttingen University as a fellow of the International Education Board, and also visited the Sorbonne in Paris.

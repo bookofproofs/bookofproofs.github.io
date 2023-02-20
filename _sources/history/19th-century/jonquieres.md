@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He made many contributions many of them extending the work of Poncelet and Chasles.
 * An early work, the treatise Mélanges de géométrie pure Ⓣ(Diversions in  pure geometry) (1856) contains: an amplifications of Chasles' ideas on the geometric properties of an infinitely small movement of a free body in space; a commentary on Chasles' work on conic sections; the principle of homographic correspondence; and constructions relating to curves of the third order.
 * In a final section de Jonquières presented a French translation of Maclaurin's work on curves.
-* In fact de Jonquières' paper was not published until 1885 although a summary of it was published in 1864.
+* De Jonquières' paper was not published until 1885 although a summary of it was published in 1864.
 * In addition de Jonquières discovered results in the area of Schubert's Abzählende Geometrie Ⓣ(Enumerative geometry) .
 * his results form a series of detailed supplements to the work of others and reflect Jonquières's inventiveness in calculating rather than a more profound contribution to the advancement of the field.
 * de Jonquières has a right to a distinguished place among the geometers of second rank who flourished in France in the latter half of the nineteenth century.

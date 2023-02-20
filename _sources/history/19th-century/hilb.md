@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Friedrich Emil Fritz Prym (1841-1915) had studied for a doctorate at the University of Berlin advised by Ernst Kummer and had been on the faculty at the University of Würzburg since 1867.
 * The mathematicians at Würzburg knew of Hilb as a very promising young mathematician and Rost went to Erlangen to listen to one of Hilb's lectures.
 * The shortlist of candidates was drawn up ranking Ernst Zermelo as first, Hilb as second and Gerhard Hessenberg (1874-1925) in third place.
-* In fact Zermelo had been a candidate for a extraordinary professorship at Würzburg in 1906 but Rost had been appointed then and again in 1909, despite being ranked first, he was not offered the position but the offer was made to Hilb.
+* Zermelo had been a candidate for a extraordinary professorship at Würzburg in 1906 but Rost had been appointed then and again in 1909, despite being ranked first, he was not offered the position but the offer was made to Hilb.
 * At Würzburg Hilb supervised the doctoral studies of eleven students: Otto Haupt (1911), Emil Goldschmidt (1912), Friedrich Betschler (1914), Siegfried Weikersheimer (1914), Gustav Löwenstein (1915), Richard Bär (1916), Axel Schur (1920), Walter Weidringer (1929), Joseph Roth (1930), Valentin Völker (1931) and Beda Thum (1932).
 * With the exception of Wagner, Hilb liked to listen to classical music.
 * He deeply disappointed a music-loving doctoral student when he told him: "If you want to work scientifically, you have to give up your music!" Hilb was also interested in literature and theatre.

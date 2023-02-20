@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Aaboe graduated in 1940 and entered the University of Copenhagen.
 * However Aaboe was able to study mathematics, astronomy, physics, and chemistry at the University, being particularly influenced by his mathematics lecturer Harald Bohr.
 * Later in 1948 Aaboe returned to Denmark to take up a position at Birkerod Statsskole where he was appointed Adjunkt in Mathematics.
-* In fact when Aaboe was appointed the institution was known as Tufts College, changing its name to Tufts University in 1954.
+* When Aaboe was appointed the institution was known as Tufts College, changing its name to Tufts University in 1954.
 * Aaboe continued with his interest in the history of mathematics and published the paper Al-Kashi's iteration method for the determination of sin 1°  in 1954.
 * There was good reason for Aaboe to register for a Ph.D. at Brown University for although he became the only graduate student in the History of Mathematics Department, he became a student of the eminent historian of mathematics Otto Neugebauer who had been Professor of the History of Mathematics at Brown University since 1947.
 * When Aaboe first came to Brown, Neugebauer was in the final stages of preparing his groundbreaking study of Babylonian mathematical astronomy, Astronomical Cuneiform Texts (1955).

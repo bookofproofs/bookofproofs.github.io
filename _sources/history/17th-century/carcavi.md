@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His parents were Jean de Carcavi, a banker from Cahors, and Françoise Sablé.
 * Jean de Carcavi was an important man, being Receiver General of the districts of Languedoc, Guyenne and Lyonnais.
 * Although no record exists proving that Pierre received a university education, one can deduce from the career he embarked on that he must have studied law.
-* In fact he first met Pierre de Fermat in 1632 when they were both members of the Parliament in Toulouse and they remained close friends.
+* He first met Pierre de Fermat in 1632 when they were both members of the Parliament in Toulouse and they remained close friends.
 * Carcavi clearly was fascinated by mathematics before meeting Fermat, but contact with such an inspirational mathematician fired Carcavi's interest even further.
 * Fermat had already built up a correspondence with the leading mathematicians in France and Carcavi was encouraged by him to correspond with Descartes, Roberval and Torricelli.
 * The friendship remained and Fermat, clearly having considerable respect for Carcavi as a mathematician, sent details of his mathematical discoveries to him in Paris.
@@ -71,8 +71,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In particular Carcavi strongly supported Colbert's ideas to create the Académie des Sciences covering as wide a range of topics as possible.
 * Carcavi was elected to the Académie des Sciences in 1666; his expertise as a mathematician qualified him for entry but he was also invaluable for the range of contacts he had.
 * It was Carcavi who announced to the first meeting on 22 December 1666 that the King would protect the new institution.
-* In fact the Academy met at first in the Royal Library and Henry Oldenburg, secretary of the Royal Society in London, mistakenly believed that Carcavi was president of the new Academy due to the contacts he made on its behalf.
-* In fact he later asked Oldenburg to obtain "every important book" published in England for inclusion in the Royal Library.
+* The Academy met at first in the Royal Library and Henry Oldenburg, secretary of the Royal Society in London, mistakenly believed that Carcavi was president of the new Academy due to the contacts he made on its behalf.
+* He later asked Oldenburg to obtain "every important book" published in England for inclusion in the Royal Library.
 * In 1668 Carcavi was appointed to a committee, along with Huygens, Roberval, Auzout, Jean Picard and Gallois, to test whether the method of determining longitude, which had been submitted to the Académie des Sciences by a German, was practical.
 * Here is an another example of Carcavi's influence.
 * The Académie de Physique received a grant from Colbert in 1670, having previously received several grants.

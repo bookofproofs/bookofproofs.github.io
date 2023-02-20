@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Temple never wrote a Ph.D. thesis but rather submitted the three papers A theory of relativity in which the dynamical manifold can be conformally represented upon the metrical manifold (1925), On mass and energy (1925), Static and isotropic gravitational fields (1926) as his dissertation and was awarded the degree (in 1924, according to the student records).
 * In 1928 Chapman obtained an 1851 Exhibition for Temple to undertake further research and he spent a year at Imperial working on quantum theory before going to Cambridge where he worked with Arthur Eddington.
 * Back working at Imperial College, Temple's first book An introduction to quantum theory was published in 1931.
-* Let us note that William Gee Bickley (1893-1969), Temple's co-author, had been awarded an external University of London first class degree in mathematics in 1913 after studying at University College, Reading.
+* William Gee Bickley (1893-1969), Temple's co-author, had been awarded an external University of London first class degree in mathematics in 1913 after studying at University College, Reading.
 * After two years working at Imperial College, in 1932 Temple was appointed to a chair of mathematics at King's College London.
 * Both Halliday and Jolliffe opposed Temple's appointment, having another candidate as their preferred choice.
 * Temple, however, had strong support from Arthur Eddington and Andrew Forsyth who had held the chair of mathematics at Imperial College London from 1913 until he had retired in 1923.

@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Mark-Anderson,bookofproofs
 * In 1795 Playfair published an edition of the Elements which he intended for use by his students.
 * The main innovation was Playfair's use of algebraic notation to abbreviate the proofs which he taught in his class.
 * It is curious that Playfair's name should be associated with this axiom, particularly since he clearly points out that he derived the axiom from Proclus.
-* and this is what is usually known as Playfair's Axiom.
+* "Given a line and a point not on the line, it is possible to draw exactly one line through the given point parallel to the line." is what is usually known as Playfair's Axiom.
 * To these books, which specifically deal with plane geometry, Playfair added three more books intended to supplement the preceding six; On the Quadrature of the Circle and the Geometry of Solids, Elements of Plane and Spherical Trigonometry and The Arithmetic of Sines.
 * The fact that it ran to six editions shows the popularity of Playfair's edition of Euclid.
 * The death of his friend, James Hutton, moved Playfair to compose a biographical memoir, which gradually became a reply to the critics of Hutton's theories of geology.

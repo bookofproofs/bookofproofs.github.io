@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Had Hecke succeeded in his attempt to get Hamburg to offer Rademacher an ordinary professorship then he would almost certainly have remained there, but the university would not make the offer that Hecke requested and, after much thought, Rademacher went to Breslau.
 * Normal expectations were completely overturned for most people and in particular for Rademacher the expectation that he would remain in Breslau vanished.
 * Despite this, Rademacher was ever after to remain loyal to the University of Pennsylvania for providing him refuge from the horror that had engulfed his native land.
-* In fact 1947 was also the year in which Rademacher's second marriage also ended in divorce.
+* 1947 was also the year in which Rademacher's second marriage also ended in divorce.
 * Rademacher's early arithmetical work dealt with applications of Brun's sieve method and with the Goldbach problem in algebraic number fields.
 * Rademacher also wrote important papers on Dedekind sums and investigated many problems relating to algebraic number fields.
 * In December 1938 Rademacher was invited to lecture to the American Mathematical Society and he lectured on Fourier expansions of modular forms and problems of partition  which surveyed work on modular forms of positive dimension and the resulting formulas for partition functions.

@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * William was educated at Winchester, where his favourite hobby was shooting, then entered New College Oxford where he studied chemistry and mathematics.
 * Gosset obtained a post as a chemist with Arthur Guinness Son and Company in 1899.
 * Many people are familiar with the name "Student" but not with the name Gosset.
-* In fact Gosset wrote under the name "Student" which explains why his name may be less well known than his important results in statistics.
+* Gosset wrote under the name "Student" which explains why his name may be less well known than his important results in statistics.
 * Gosset discovered the form of the ttt distribution by a combination of mathematical and empirical work with random numbers, an early application of the Monte-Carlo method.
 * Gosset certainly did not work in isolation.
 * At the end of 1935 Gosset left Ireland to take charge of the new Guinness brewery in London.

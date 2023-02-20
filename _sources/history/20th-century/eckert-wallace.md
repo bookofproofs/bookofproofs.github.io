@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Eckert had joined the Faculty at Columbia University in 1926 and later he became professor there.
 * Eckert was an early user of IBM punch card equipment to reduce astronomical data and solve numerically planetary orbits.
 * In 1937 Columbia University and IBM established the Thomas J Watson Astronomical Computing Bureau as a result of the collaboration with Eckert.
-* In fact the work which led to this development was published by Eckert in Punched card methods in scientific computation (1940).
+* The work which led to this development was published by Eckert in Punched card methods in scientific computation (1940).
 * In 1940 Eckert became director of the US Nautical Almanac Office and produced work vital to navigation during World War II.
 * In 1945 Eckert became director of the Watson Scientific Computing Laboratory at Columbia University.
 * Eckert directed the construction of a number of innovative computers.

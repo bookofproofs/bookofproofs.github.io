@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us say a little about Félix Dauge (1829-1899) and Mathias Schaar (1817-1867) who had such a strong influence on Mansion and on the direction of his research throughout his life.
 * By October 1867 Mansion, who had only been awarded his doctorate two months earlier, had been appointed to teach Schaar's advanced mathematics courses.
 * In 1892 Mansion succeeded Emmanuel-Joseph Boudin when he was appointed to the Chair of the Calculus of Probabilities at Ghent.
-* In fact Mansion's first publication, appearing before he submitted his doctoral thesis, was a 13-page paper on probability Sur le problème des partis Ⓣ(On the problem of points) which appeared in the Mémoires of the Royal Belgium Academy of Science in 1868.
+* Mansion's first publication, appearing before he submitted his doctoral thesis, was a 13-page paper on probability Sur le problème des partis Ⓣ(On the problem of points) which appeared in the Mémoires of the Royal Belgium Academy of Science in 1868.
 * This was a vast and difficult undertaking and Mansion decided to enter but to restrict himself to the theory of first order partial differential equations.
 * Mansion submitted the 289-page memoir Mémoire sur la théorie des équations aux dérivées partielles du premier ordre which was judged the winning entry.
 * In 1875 Mansion's winning entry was published in the Mémoires of the Royal Belgium Academy of Science.

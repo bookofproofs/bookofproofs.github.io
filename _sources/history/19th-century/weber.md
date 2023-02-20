@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the first of these, Weber introduced his dynamometer to test Ampère's law of force between electric current elements, to a degree of precision exceeding Ampère's, and also investigated electromagnetic induction.
 * Weber showed how an electrical quantity could be stated in terms of the unit of time, length, and mass, without any reference to other electrical phenomena, and this was a new and great achievement.
 * The British Association Committee on Electrical Standards adopted Weber's work as a basis for their standards of units.
-* In fact what Weber achieved was a bringing together of three laws, namely that describing the interactions of two electric charges at rest, Ampère's law for moving electric currents, and the law describing electrical induction.
+* What Weber achieved was a bringing together of three laws, namely that describing the interactions of two electric charges at rest, Ampère's law for moving electric currents, and the law describing electrical induction.
 * The door was thus opened for Weber to return to Göttingen but his position had already been filled by Johann Benedict Listing in 1839 despite the fact that he had never published a paper.
 * Weber insisted that Listing should keep the chair so he returned to Göttingen in 1849 as the Director of the Astronomical Observatory.
 * Gauss died in 1855, and shortly before this Weber began a collaboration with Rudolph Hermann Arndt Kohlrausch who was then at Marburg.
@@ -54,7 +54,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Weber's later years at Göttingen were devoted to work in electrodynamics and the electrical structure of matter.
 * For his outstanding achievements Weber received many honours.
 * In 1935 the unit of magnetic flux was named the weber in his honour.
-* In fact around that time the term weber was quite widely used for the unit of electric current but Helmholtz had been in a number of disputes with Weber so he was keen to not have such an important unit named after someone with whom he frequently disagreed.
+* Around that time the term weber was quite widely used for the unit of electric current but Helmholtz had been in a number of disputes with Weber so he was keen to not have such an important unit named after someone with whom he frequently disagreed.
 * Weber left his more lasting impression on physical theory with his atomistic conception of electrical charge and his vision of the role of such charges in determining the electrical, magnetic and thermal properties of matter.
 
 Born 4 October 1804, Wittenberg, Saxony (now Germany). Died 23 June 1891, Göttingen, Germany.

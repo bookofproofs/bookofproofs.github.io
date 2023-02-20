@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should now look at some of al-Zarqali's accomplishments.
 * The Spanish Arab Ibrahim ibn Yahya al-Zarqali (Azarquiel) invented a type of astrolabe known in Europe as the azafea (from Arabic al-safiha, plate) ...
 * These tables contained much copied from earlier tables such as those by al-Khwarizmi, al-Battani and Ptolemy, but they also contained the observations of al-Zarqali and the other members of Qadi ibn Said's large astronomy group which consisted of both Muslim and Jewish scholars.
-* In fact it is claimed that al-Zarqali observed the sun for twenty-five years and the moon for thirty years.
+* It is claimed that al-Zarqali observed the sun for twenty-five years and the moon for thirty years.
 * It is interesting to compare work being carried out in Toledo by al-Zarqali and his group with that being carried out in Esfahan by the group set up there by Omar Khayyam who was about twenty years younger than al-Zarqali.
 * Let us look at some other of al-Zarqali's achievements.
 * We know from references in other sources that in this book al-Zarqali details the motion of the solar apogee, giving it a motion of 1° in 279 years.

@@ -43,13 +43,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After 1905 Einstein continued working in the areas described above.
 * In 1908 Einstein became a lecturer at the University of Bern after submitting his Habilitation thesis Consequences for the constitution of radiation following from the energy distribution law of black bodies.
 * By 1909 Einstein was recognised as a leading scientific thinker and in that year he resigned from the patent office.
-* In fact 1911 was a very significant year for Einstein since he was able to make preliminary predictions about how a ray of light from a distant star, passing near the Sun, would appear to be bent slightly, in the direction of the Sun.
+* 1911 was a very significant year for Einstein since he was able to make preliminary predictions about how a ray of light from a distant star, passing near the Sun, would appear to be bent slightly, in the direction of the Sun.
 * This would be highly significant as it would lead to the first experimental evidence in favour of Einstein's theory.
 * About 1912, Einstein began a new phase of his gravitational research, with the help of his mathematician friend Marcel Grossmann, by expressing his work in terms of the tensor calculus of Tullio Levi-Civita and Gregorio Ricci-Curbastro.
 * Einstein called his new work the general theory of relativity.
 * Einstein returned to Germany in 1914 but did not reapply for German citizenship.
 * After a number of false starts Einstein published, late in 1915, the definitive version of general theory.
-* In fact Hilbert submitted for publication, a week before Einstein completed his work, a paper which contains the correct field equations of general relativity.
+* Hilbert submitted for publication, a week before Einstein completed his work, a paper which contains the correct field equations of general relativity.
 * When British eclipse expeditions in 1919 confirmed his predictions, Einstein was idolised by the popular press.
 * In 1920 Einstein's lectures in Berlin were disrupted by demonstrations which, although officially denied, were almost certainly anti-Jewish.
 * During 1921 Einstein made his first visit to the United States.

@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This work of Pratt's was, as the title indicates, on the shape of the Earth.
 * Pratt's next contribution was motivated by measurements made by George Everest published in 1847 (Mount Everest was renamed in his honour in 1865).
 * Pratt, however, looked for other reasons for obtaining different values.
-* In fact the difference discovered by George Everest should have been larger! In 1855 Pratt postulated density differences in the Earth's crust, lower densities under mountains, higher densities in lowlands, to explain the (too nearly constant) values obtained for gravity at a given latitude.
+* The difference discovered by George Everest should have been larger! In 1855 Pratt postulated density differences in the Earth's crust, lower densities under mountains, higher densities in lowlands, to explain the (too nearly constant) values obtained for gravity at a given latitude.
 * Both Pratt's and Airy's proposals have their merits but are oversimplifications of the actual situation.
 * Pratt also published religious works; Scripture and science not at variance (1856) was a popular work which ran to many editions.
 * Pratt died of cholera while on a visit to Ghazipur in India.

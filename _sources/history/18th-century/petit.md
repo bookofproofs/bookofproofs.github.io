@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The judges for the competition declared they had not received entries of sufficient merit and so the same topic was proposed for the Grand Prix for the following year.
 * In 1818 Petit and Dulong won the Academy Prize for their work on the law of cooling but at this stage they had not yet discovered the Dulong-Petit law for which they are best known.
 * The following year, in April 1819, they published the Dulong-Petit law on the theory of heat.
-* the attacks on established opinion which it delivered were seen as being no less important, both by Dulong and Petit themselves and by their contemporaries.
+* The attacks on established opinion which it delivered were seen as being no less important, both by Dulong and Petit themselves and by their contemporaries.
 * In 1818 Petit also published on the general principles of machine theory.
 
 Born 2 October 1791, Vesoul, Haute-Saône, France. Died 21 June 1820, Paris, France.

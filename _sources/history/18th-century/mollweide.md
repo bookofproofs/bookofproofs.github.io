@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mollweide announced his projection in 1805.
 * To correct these defects, Mollweide drew his elliptical projection; but in preserving the correct relation between the areas he was compelled to sacrifice configuration and angular measurement.
 * Aesthetically, Mollweide's map, which represents the whole world in an ellipse whose axes are in a 2:1 ratio, reflects the essentially round character of the earth better than rectangular maps.
-* In fact the Mollweide projection is distortion-free along the parallels 40.7 degrees North and South.
+* The Mollweide projection is distortion-free along the parallels 40.7 degrees North and South.
 * The second piece of work to which Mollweide's name is attached today is the Mollweide equations which are sometimes called Mollweide's formulas.
 * These trigonometric identities appear in Mollweide's paper Zusätze zur ebenen und sphärischen Trigonometrie Ⓣ(Additions to plane and spherical trigonometry) (1808).
 * One of the more puzzling aspects is why these equations should have become known as the Mollweide equations since in the 1808 paper in which they appear Mollweide refers the book by Antonio Cagnoli (1743-1816) Traité de Trigonométrie Rectiligne et Sphérique, Contenant des Méthodes et des Formules Nouvelles, avec des Applications à la Plupart des Problêmes de l'astronomie Ⓣ(containing methods and new formulas with applications to most astronomical problems) (1786) which contains the formulas.

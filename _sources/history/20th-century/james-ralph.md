@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1943 James was invited to become a Professor of Mathematics at the University of British Columbia.
 * In 1948 James became Head of the Department of Mathematics at the University of British Columbia.
 * James contributed in a major way towards the development of mathematics in North America.
-* In fact all the previous presidents had served terms of four years, but James felt that this was too long a period to hold the position so it was reduced to a two year term.
+* All the previous presidents had served terms of four years, but James felt that this was too long a period to hold the position so it was reduced to a two year term.
 * Ralph James served his university very well in many capacities.
 
 Born 8 February 1909, Liverpool, England. Died 19 May 1979, Salt Spring Island, British Columbia, Canada.

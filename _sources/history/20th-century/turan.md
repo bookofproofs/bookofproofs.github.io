@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His Ph.D. was supervised by Fejér, and Turán was awarded the degree in 1935.
 * Not only was 1938 significant in that Turán now at least had employment, but it was also the year in which he had his most fruitful mathematical idea.
 * Turán mentioned these problems and told me that they were not only interesting in themselves but their positive solution would have many applications.
-* In fact Turán invented the power sum method while investigating the zeta function and he first used the method to prove results about the zeros of the zeta function.
+* Turán invented the power sum method while investigating the zeta function and he first used the method to prove results about the zeros of the zeta function.
 * If times had been extremely hard for Turán up to 1938, then any appearance that they were about to get better was short lived for soon they became far worse.
 * In 1940 Turán was sent to a labour camp, and he was in and out of various forced labour camps throughout the war.
 * Another remarkable fact is that extremal graph theory, an area which Turán founded, was one of the "best ideas" that he had while in the labour camps.

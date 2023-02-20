@@ -32,14 +32,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For example Heisuke Hironaka, who won a Fields Medal in 1970, was in his final undergraduate year at Kyoto when Nagata arrived and he continued to work in the Kyoto School of Algebraic Geometry for the following four years.
 * Nagata was promoted to associate professor at Kyoto University in 1957 and, in February 1963, was appointed to the Chair of Algebra at Kyoto succeeding Yasuo Akizuki.
 * It is worth commenting at this point that Nagata's skill in producing counterexamples led to his fellow mathematicians giving him the nicknamed "Mr Counterexample".
-* In fact Nagata announced his negative solution to Hilbert's 14th  problem in his invited lecture On the fourteenth problem of Hilbert at the International Congress of Mathematicians held in Edinburgh, Scotland, in August 1958.
+* Nagata announced his negative solution to Hilbert's 14th  problem in his invited lecture On the fourteenth problem of Hilbert at the International Congress of Mathematicians held in Edinburgh, Scotland, in August 1958.
 * As well as this outstanding research contribution, Nagata is famed for his outstanding books.
 * Nagata's most famous book, Local rings, appeared in 1962.
 * It is worth noting that the Noetherian rings which Nagata calls 'pseudo-geometric rings' in this book are now known as 'Nagata rings'.
 * A number of Nagata's books are based of lecture courses he gave at different institutions.
 * Polynomial rings and affine spaces (1978) is a written version of lectures given by Nagata in 1977 at Northern Illinois University.
 * Among Nagata's students, we must mention Shigefumi Mori who studied for his doctorate with Nagata at Kyoto between 1975 and 1978.
-* In fact Mori was appointed to a chair at Kyoto University in 1990, the year in which his former supervisor Nagata retired.
+* Mori was appointed to a chair at Kyoto University in 1990, the year in which his former supervisor Nagata retired.
 * Nagata died of cancer at the age of 81.
 
 Born 9 February 1927, Obu, Aichi Prefecture, Japan. Died 27 August 2008, Kyoto, Japan.

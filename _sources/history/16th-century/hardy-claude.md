@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Sébastien Hardy was an educated man who used his skill in languages to made translations from Spanish and Italian.
 * We know nothing of Claude's upbringing other than the locations of the homes in which he lived.
-* composed in Latin by Erasmus; translated into French by Claude Hardy, Parisian, aged nine years.
 * It is possible, of course, that Hardy did translate the work when nine years old but it was only published some six years later.
 * The poetry was translated from Latin to French by Hardy and published as a prose work Les Distique Moraux de Michel Verin Ⓣ(The moral disorders of Michel Verin).
 * translated into French by Claude Hardy, Parisian, aged eleven years.

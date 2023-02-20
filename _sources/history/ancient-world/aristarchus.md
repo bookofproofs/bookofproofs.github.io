@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We only know of Aristarchus's theory because of a summary statement made in Archimedes' The Sand-Reckoner and a similar reference by Plutarch.
 * But Aristarchus has brought out a book consisting of certain hypotheses, wherein it appears, as a consequence of the assumptions made, that the universe is many times greater than the 'universe' just mentioned.
 * Archimedes having reported the views of Aristarchus, criticised those views as giving mathematically meaningless proportions.
-* In fact the way that Aristarchus expresses his proportions is, according to Heath, similar to other expressions which occur in Greek writings and indicated that Aristarchus considered that the radius of the sphere of the fixed stars was infinitely large compared with the orbit of the earth.
+* The way that Aristarchus expresses his proportions is, according to Heath, similar to other expressions which occur in Greek writings and indicated that Aristarchus considered that the radius of the sphere of the fixed stars was infinitely large compared with the orbit of the earth.
 * Of course, Aristarchus had to make some such assumption, for otherwise parallax effects would be visible.
 * Plutarch gives us a little extra information, for he reports that Aristarchus followed Heraclides of Pontus in believing that the apparent daily rotation of the fixed stars was due to the rotation of the earth on its axis.
 * The only surviving work of Aristarchus, On the Sizes and Distances of the Sun and Moon, is not based on the sun centred theory and unfortunately his work on that sun centred theory referred to by Archimedes has been lost.

@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another project on which Grimaldi worked was a survey, using triangulation, to determine a meridian line for Bologna.
 * Grimaldi did a considerable amount of observing and the data from his observations of stars was published in Riccioli's Astronomia Reformata Ⓣ(Astronomy reformed) (1665).
 * Now although we have given quite a lot of information about Grimaldi's work, everything we have mentioned so far was published in works by Riccioli.
-* In fact Grimaldi has no works published under his own name during his lifetime.
+* Grimaldi has no works published under his own name during his lifetime.
 * The work is an attempt by Grimaldi to determine whether light is a substance or whether it is a quality of another substance.
 * Grimaldi makes it clear that his own view is that light is not a substance and he believes that the arguments in the second book make it probable that light is a quality.
 * Book 1 begins with a description of Grimaldi's most famous discovery, namely the diffraction of light.

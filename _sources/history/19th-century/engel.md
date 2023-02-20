@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1889 Engel was promoted to assistant professor to fill the position which became vacant when Friedrich Schur moved to Dorpat.
 * Engel's final post was the chair of mathematics at Giessen which he accepted in 1913 and he remained there for the rest of his life.
 * The collaboration between Engel and Lie led to Theorie der Transformationsgruppen Ⓣ(Theory of transformation groups) a work of three volumes published between 1888 and 1893.
-* prepared by S Lie with the cooperation of F Engel ...
 * In many ways it was Engel who put Lie's ideas into a coherent form and made them widely accessible.
 * Lie had died in 1899 and, from 1922 to 1937, Engel published Lie's collected works in six volumes and prepared a seventh (which in fact was not published until 1960).
 * Lie's peculiar nature made it necessary for his works to be elucidated by one who knew them intimately and thus Engel's 'Annotations' competed in scope with the text itself.

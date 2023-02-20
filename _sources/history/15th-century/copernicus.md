@@ -59,9 +59,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As part of the recovery plan, Copernicus put forward a scheme for the reform of the currency which he presented to the Diet of Graudenz in 1522.
 * Copernicus returned to Frauenburg where his life became less eventful and he had the peace and quiet that he longed for to allow him to make observations and to work on details of his heliocentric theory.
 * Although Copernicus was a canon, he had never become a priest.
-* In fact on 4 February 1531 his bishop threatened to take away his income if he did not enter the priesthood, yet Copernicus still refused.
+* On 4 February 1531 his bishop threatened to take away his income if he did not enter the priesthood, yet Copernicus still refused.
 * A full account of Copernicus's theory was apparently slow to reach a state in which he wished to see it published, and this did not happen until the very end of Copernicus's life when he published his life's work under the title De revolutionibus orbium coelestium Ⓣ(On the revolutions of the heavenly spheres) (Nuremberg, 1543).
-* In fact had it not been for Georg Joachim Rheticus, a young professor of mathematics and astronomy at the University of Wittenberg, Copernicus's masterpiece might never have been published.
+* Had it not been for Georg Joachim Rheticus, a young professor of mathematics and astronomy at the University of Wittenberg, Copernicus's masterpiece might never have been published.
 * In May 1539 Rheticus arrived at Frauenburg where he spent about two years with Copernicus.
 * In September 1539 Rheticus went to Danzig, visiting the mayor of Danzig, who gave him some financial assistance to help publish the Narratio Prima Ⓣ(First report) or, to give it its full title First report to Johann Schöner on the Books of the Revolutions of the learned gentleman and distinguished mathematician, the Reverend Doctor Nicolaus Copernicus of Toruń, Canon of Warmia, by a certain youth devoted to mathematics.
 * The publication of this work encouraged Copernicus to publish the full mathematical details of his theory which he had promised 27 years earlier.

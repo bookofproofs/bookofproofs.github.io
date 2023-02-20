@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While an undergraduate, Szemerédi collaborated with two outstanding young mathematicians András Sárközi and János Komlós.
 * Szemerédi graduated with a Master's Degree from Eötvös Loránd University in 1965.
 * At the Mathematical Research Institute, Szemerédi began to collaborate with Paul Erdős who was a frequent visitor.
-* In fact Szemerédi's first paper with Erdős also included Andras Sárközi as a co-author.
+* Szemerédi's first paper with Erdős also included Andras Sárközi as a co-author.
 * Szemerédi went on to write many (around 30) joint papers with Erdős but, in fact, this number was well beaten by his other co-author from these early days, Andras Sárközi, who has the record of the most joint papers with Erdős (around 50).
 * For the impressive work he had done up to this time Szemerédi was awarded the Grünwald Prize in 1967 by the János Bolyai Mathematical Society, and he received the prize again in the following year.
 * At this stage Szemerédi did not have a doctorate and, given that Hungary now had strong links with Russia and Alexander Gelfond was a world leading number theorist, Szemerédi applied to do research in Moscow with Gelfond as his thesis advisor.

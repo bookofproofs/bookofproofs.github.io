@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Smale was awarded a Fields Medal at the International Congress at Moscow in 1966.
 * One of Smale's impressive results was his work on the generalised Poincaré conjecture.
 * Smale proved the higher dimensional Poincaré conjecture in 1961 for nnn at least 5.
-* In fact Smale attacked the generalised Poincaré conjecture using Morse theory.
+* Smale attacked the generalised Poincaré conjecture using Morse theory.
 * Another discovery of Smale's related to strange attractors.
 * Smale discovered strange attractors which lead to chaotic dynamical systems.
 * The nnn-body problem and electric circuit theory were among the applications that Smale framed in the language of dynamical systems.

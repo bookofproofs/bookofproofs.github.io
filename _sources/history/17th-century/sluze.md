@@ -51,14 +51,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Oldenburg inquired about the natural history of the country around Liège, a well-known centre for mining, and about "whatever novelties there may be of a mechanical kind" ...
 * Sluse was later to reply fully to all these requests, satisfying the Society's mathematical interests in good measure as well as Oldenburg's expressed interest in natural history and the history of trades.
 * In this first instance he responded only with polite acknowledgements, doubting, he said, whether a sustained correspondence was possible since it had taken three months for Oldenburg's letter to arrive.
-* In fact the return letter took only nine days and a regular correspondence was possible.
+* The return letter took only nine days and a regular correspondence was possible.
 * Sluse's interests were in some cases very close to those of Newton and he received eagerly the accounts of his work written by Collins specifically for Oldenburg to transmit to him.
 * De Sluze received information that Newton had devised a method to find tangents and on other topics that Newton had been working on such as infinite series.
 * He responded in 1671 that he was going to publish an old work of his own on the topic of tangents, a method he had perfected using ideas from Descartes and Fermat.
 * In the following year de Sluze sent full details of his method of finding tangents to Oldenburg, who published it in the Philosophical Transactions of the Royal Society in 1672 under the title An extract of a letter from the excellent Renatus Franciscus Slusius, Canon of Liège and Councellor of his Electoral Highness of Cologne.
 * Written to the publisher in order to be communicated to the Royal Society, concerning his short and easier method of drawing tangents to all geometrical curves without labour of calculation.
 * One has to say that this work on tangents makes de Sluze a major figure in the development of the calculus.
-* In fact Leibniz learned much through reading de Sluze's writings.
+* Leibniz learned much through reading de Sluze's writings.
 * Oldenburg responded to de Sluze with full details of Newton's method as described to him by Collins.
 * When he received the details, de Sluze realised that his method was essentially identical to that of Newton.
 * But if it had been otherwise yet since he first imparted it to his friends and the world, it ought deservedly to be accounted his.

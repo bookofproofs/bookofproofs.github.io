@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Once we went on holiday together to the West coast of Scotland, when Mrs Freundlich was unable to come.
 * Freundlich became the Napier Professor of Astronomy in St Andrews on 1 January 1951, a post he held until 1955 when the university regulations forced him to retire.
 * In 1957 Freundlich left for Wiesbaden where he was appointed honorary professor at the University of Mainz.
-* In fact improvements to the telescope were made by van Breda and others after Freundlich left St Andrews.
+* Improvements to the telescope were made by van Breda and others after Freundlich left St Andrews.
 
 Born 29 May 1885, Biebrich, Germany. Died 24 July 1964, Wiesbaden, Germany.
 

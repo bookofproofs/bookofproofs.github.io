@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These discussions, says Ruelle, "were more interesting and effective than a case-by-case discussion of individual applications, with the usual guesswork of how to read between the lines of letters of recommendation." Still, there was dissatisfaction over Kuiper's lack of attention to physics and his inability to penetrate the workings of the French bureaucracy.
 * Kuiper retired as director of the Institut des Hautes Études Scientifiques in 1985.
 * The book Tight and taut submanifolds contains a paper based on the Roever Lectures in Geometry Kuiper gave at Washington University in St Louis, USA, from 20 January to 24 January 1986.
-* Finally let us note that the IHES paid tribute to Kuiper by naming their new library the "Nicolaas Kuiper Library".
+* The IHES paid tribute to Kuiper by naming their new library the "Nicolaas Kuiper Library".
 * During his mandate, Nicolaas Kuiper succeeded in getting European support and helped greatly to build the international reputation of IHES.
 * Among the honours given to Kuiper were membership of the Royal Netherlands Academy of Sciences in 1965, membership of the Brazilian Academy of Sciences in 1978, Chevalier de la Légion d'honneur in 1981, Honorary Doctorate from Brown University in 1984, Knight of the Order of the Dutch Lion in 1985, Humboldt Prize for scientific cooperation between Germany and France in 1986 and corresponding membership of the Göttingen Academy in 1990.
 

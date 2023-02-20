@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicolaus Bernoulli** was one of the famous Swiss family of mathematicians. He is most important for his correspondence with other mathematicians including Euler and Leibniz.
 
 ### Mathematical Profile (Excerpt):
-* In fact it was Jacob Bernoulli who supervised Nicolaus's Master's degree at the University of Basel which he was awarded in 1704.
+* It was Jacob Bernoulli who supervised Nicolaus's Master's degree at the University of Basel which he was awarded in 1704.
 * In 1712 Nicolaus Bernoulli toured Europe visiting Holland, England and France.
 * Nicolaus Bernoulli was appointed to Galileo's chair at Padua in 1716 which Hermann had filled immediately prior to Nicolaus's appointment.
 * From Montmort's work we can see that Nicolaus formulated certain problems in the theory of probability, in particular the problem which today is known as the St Petersburg problem.

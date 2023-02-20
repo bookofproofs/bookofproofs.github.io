@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * the authors wish to express their gratitude to Professor S Verblunsky of Belfast, for his helpful criticism and advice.
 * After he retired from his chair at Queen's University, Belfast, Verblunsky moved away from the city but remained living in Northern Ireland.
 * The Verblunsky Room is in De Morgan House, Russell Square, London and at present it is a Members' Room housing the London Mathematical Society's special collections consisting of the Hardy Collection and the Philippa Fawcett Collection.
-* Finally, let us note that MathSciNet lists 17 papers with 'Verblunsky coefficients' in the title and another 73 with this term in the review text.
+* MathSciNet lists 17 papers with 'Verblunsky coefficients' in the title and another 73 with this term in the review text.
 * It also lists 10 papers with 'Verblunsky parameters' in the review text, all published since 2007.
 
 Born 25 June 1906, Whitechapel, London, England. Died 1996, Northern Ireland.

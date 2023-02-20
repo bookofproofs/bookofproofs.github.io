@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However Adler did not simplify Mascheroni's proof.
 * This 1906 publication was not the first by Adler studying this problem.
 * Since we know from Steiner's work that using the ruler alone can only solve any second degree problem if a fixed circle can be used in the plane, the use of the ruler in the sense of Mr Adler is of course different understand as with Steiner, namely in such a way that it also allows a parallel to a straight line to be drawn at a fixed distance (width of the ruler).
-* In fact Hilbert refers to this paper by Adler in the 1902 course which was attended and recorded by Adler.
+* Hilbert refers to this paper by Adler in the 1902 course which was attended and recorded by Adler.
 * As well as his interest in descriptive geometry, Adler was also interested in mathematical education, particularly in teaching mathematics in secondary schools.
 * David Eugene Smith wrote the Report of Sub-Commission A of the International Commission on the Teaching of Mathematics: Intuition and Experiment in Mathematical Teaching in the Secondary Schools which he delivered to the International Congress of Mathematicians held in Cambridge, England, on 27 August 1912.
 * One final work by Adler should be mentioned, namely the five figure logarithm tables Fünfstellige Logarithmen Ⓣ(Five-figure logarithms) which he published in 1909.

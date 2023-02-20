@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Raymond Butchart was educated at Morgan Academy in Dundee and Dundee High School before matriculating at the University of St Andrews.
-* In fact Butchart did not even travel the 12 miles to St Andrews, for his studies were in University College, Dundee, at that time part of the University of St Andrews.
+* Butchart did not even travel the 12 miles to St Andrews, for his studies were in University College, Dundee, at that time part of the University of St Andrews.
 * After graduating with a B.Sc. in 1913, Butchart began undertaking research in mathematics at Dundee and at the same time working as a mathematics tutor in the Department.
 * Butchart took the Commission and acted as Brigade Signalling Officer.
 * It was not to be, for Butchart died of malaria while on the voyage and he was buried at sea, 65 miles South East of Colombo.

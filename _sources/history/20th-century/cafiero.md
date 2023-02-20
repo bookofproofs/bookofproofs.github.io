@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Calcolatrice Elettronica Pisana was completed in 1961 but Cafiero had left Pisa two years before this.
 * Given the exciting mathematical developments that were happening in Pisa, at first it might seem a little strange that Cafiero chose to move after only three years.
 * Naples held a special affection for Cafiero who, although a Sicilian by birth, considered Naples as his adopted home (it was, of course, also the nearest city to his parents' home town).
-* In fact this was the last move that Cafiero made, spending the last twenty years of his life in Naples.
+* This was the last move that Cafiero made, spending the last twenty years of his life in Naples.
 * Cafiero played an important role in building a vigorous mathematical school at Naples which included (in alphabetical order) Luigi Albano, Ugo Barbuti, Antonio Chffi, Paolo De Lucia, Nicola Fedele, Renato Fiorenza, Francesco Guglielmino, Giuseppe Pulvirenti, Giuseppe Santagati and Antonio Zitarosa.
 * We have already seen that Cafiero made contributions to the theory of ordinary differential equations and to the theory of measure and integration.
 * Cafiero was an enthusiastic believer in educational reform particularly in the universities.

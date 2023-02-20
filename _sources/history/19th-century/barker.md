@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Barker was admitted as a sizar to Trinity College, Cambridge on 22 March 1858 and began his studies of the mathematical tripos at the start of the Michaelmas term in October.
 * Barker was studying the mathematical tripos coached by Edward Routh.
 * Routh became the most famous of the Cambridge coaches but when he began coaching Barker he was near the beginning of his career.
-* In fact it was the group of students studying for the mathematical tripos along with Barker, with Barker as the best, who established Routh's reputation as the best Cambridge coach.
+* It was the group of students studying for the mathematical tripos along with Barker, with Barker as the best, who established Routh's reputation as the best Cambridge coach.
 * Barker was the Senior Wrangler in 1862, meaning he was ranked first among the First Class students.
 * Already in 1861 Barker had been appointed as an Assistant Tutor, a position he held until 1865.
 * It was a remarkable achievement but Barker was not at all happy with the system which operated at Cambridge at the time despite having been so successful as a student in that system.

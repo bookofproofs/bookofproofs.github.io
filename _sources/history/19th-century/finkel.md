@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * They received an enthusiastic response from professors at universities and colleges but a very poor response from high school teachers who did not seem to think that a publication such as Finkel was proposing was needed.
 * L E Dickson joined Finkel as an editor of the Monthly in October 1902, H E Slaught joined him in January 1907, and G A Miller in January 1909.
 * While retaining his position at Drury College, Finkel was appointed as Harrison Fellow in mathematics at the University of Pennsylvania in 1905.
-* Finally, let us note that Finkel was honoured by Drury College in 1923 when they awarded him an honorary degree.
+* Finkel was honoured by Drury College in 1923 when they awarded him an honorary degree.
 * Finkel contributed many problem and biographies to the Monthly and it is remarkable that, in 2013, the third most accessed Monthly article in the previous three years was one by Finkel - in fact his biography of René Descartes.
 
 Born 5 July 1865, Amanda, Fairfield County, Ohio, USA. Died 5 February 1947, Springfield, Missouri, USA.

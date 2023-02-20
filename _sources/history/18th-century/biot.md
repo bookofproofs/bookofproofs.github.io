@@ -36,10 +36,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had found a patron in Sylvestre-François Lacroix who was highly influential in helping Biot develop his career.
 * It might seems remarkable that even someone as able as Biot could move from being an undergraduate straight into a professorship.
 * Biot taught Gabrielle mathematics and physics so that she might translate into French a German text by Ernst Gottfried Fischer.
-* It was Claude Louis Berthollet who had asked Biot to make the translation which was published as Physique mécanique Ⓣ(Mechanical Physics) in 1806.
+* It was Claude Louis Berthollet who had asked Biot to make the translation which was published as "Physique mécanique" Ⓣ(Mechanical Physics) in 1806.
 * However, in line with the practice of the time, the book records Biot himself as the translator rather than his wife.
 * It was largely through Lacroix that Biot had been appointed at Beauvais and Lacroix advised him frequently through the first years that he worked there.
-* In fact in late 1799 Biot approached Laplace, who had taught him at l'École Polytechnique, and offered to proof-read the Mécanique céleste Ⓣ(Celestial mechanics) which at that time was with the publisher.
+* In late 1799 Biot approached Laplace, who had taught him at l'École Polytechnique, and offered to proof-read the "Mécanique céleste" Ⓣ(Celestial mechanics) which at that time was with the publisher.
 * Biot was, by this time, an entrance examiner at the École Polytechnique so was frequently in Paris.
 * Certainly the effort required by Biot was enormous.
 * Laplace was also interested in the research on mathematics which Biot was undertaking and gave him advice both on the material and on getting it published.

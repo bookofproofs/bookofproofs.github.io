@@ -45,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If Recorde showed little common sense in his argument with the Earl of Pembroke, this was in stark contrast to the remarkable good sense and learning which he showed in all his academic work.
 * Recorde virtually established the English school of mathematics and first introduced algebra into England.
 * Anyone who reads Recorde's works will be led to believe that, although no evidence survives, he must have taught for some time since he has a deep understanding of how to teach.
-* in Recorde's own words.
 * In 1552 Recorde published a second enlarged version of The Grounde of Artes extending the work of the first edition to rational as well as whole numbers and including such topics as 'false position'.
 * In 1551 Recorde wrote Pathwaie to Knowledge which some consider an abridged version of Euclid's Elements .
 * No proofs are given in this book but instead Recorde explains why the theorems are true and gives examples to aid a student to understand not only what was being taught, but also why it was being taught.

@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Cristoforo Alasia** was an Italian school teacher who produced papers on astronomy, geometry, rational mechanics and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Let us note that there are problems with Cristoforo Alasia's year of birth.
-* Halsted wrote his article during Alasia's lifetime and indeed had corresponded with Alasia before writing the article.
-* If, as we believe, the 1864 date is correct, we suggest the error occurred by Halsted misreading Alasia's handwriting.
 * Cristoforo Alasia studied at the universities of Cagliari, Turin and Rome.
 * The name "Alasia Cristoforo", appears in the yearbook of the University of Turin as matriculated in the first year of the course for the Diploma in Mathematical, Physical and Natural Sciences in the academic year 1883-1884.
 * His surname is linked to the theory of Alasia and, in particular, with being the founder and the first editor of the magazine Le Matematiche Pure ed Applicate, Periodico mensile di matematiche pure ed applicate, superiori ed elementari, ad uso dell'istruzione media e superiore Ⓣ(Pure and Applied Mathematics, Monthly Periodical of Elementary and Advanced Pure and Applied Mathematics, for the use of intermediate and advanced education), to which important mathematicians such as Charles Hermite contributed.

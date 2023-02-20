@@ -34,7 +34,7 @@ He is best known for his theorem giving a necessary and sufficient condition for
 * Although his education was disrupted, one benefit to mathematics was that Kuratowski could no longer study engineering and mathematics would gain enormously.
 * Kuratowski was one of the first students to study mathematics when the university reopened.
 * There were two others on the staff at the University of Warsaw who were also to have a major influence on Kuratowski.
-* In fact the first paper which Kuratowski wrote was On the definitions in mathematics, written in 1917, which was a consequence of discussions which he had while attending Łukasiewicz's seminar.
+* The first paper which Kuratowski wrote was On the definitions in mathematics, written in 1917, which was a consequence of discussions which he had while attending Łukasiewicz's seminar.
 * After graduating in 1919, Kuratowski undertook his doctoral studies working under Janiszewski and Mazurkiewicz.
 * In 1921 Kuratowski was awarded his doctorate, but sadly one of his supervisors Janiszewski had died in 1920.
 * Janiszewski had been the leader in a move to set up the new journal Fundamenta Mathematicae and the first volume, which appeared in 1920, contained a joint paper Sur les continus indécomposable Ⓣ(On the indecomposable continuum) by Janiszewski and Kuratowski.

@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the following year Claude Chevalley and Jean Leray entered the mathematics classes adding to the group of friends and future colleagues who combined their talents in a remarkable collaboration as Bourbaki in 1935.
 * It was a collaboration in which Delsarte took a leading role and, looking at reports of their meetings, one is struck with the humour, the passion, and the self-belief that these young men of the École Normale displayed.
 * Delsarte graduated from the École Normale in 1925.
-* In fact Delsarte was to remain on the staff at Nancy for the rest of his career but his first promotion was to Maître de Conférences in October 1928.
+* Delsarte was to remain on the staff at Nancy for the rest of his career but his first promotion was to Maître de Conférences in October 1928.
 * In 1932 Delsarte's outstanding research was recognised with an invitation to address the International Congress of Mathematicians in Zürich.
 * Not only did Delsarte teach some outstanding mathematics courses at Nancy but he taught a public course on astronomy from 1929, continuing to give this when at Nancy for the rest of his career.
 * It was during his regular visits to Paris during 1934-35 that Delsarte became heavily involved in the Bourbaki project to write a new analysis textbook which expanded into the remarkable Éléments de Mathématique Ⓣ(Elements of mathematics).
@@ -51,7 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Delsarte showed that fff is harmonic under the weaker condition that f(x)f (x)f(x) is the mean value on two spheres centre xxx, radius aaa and bbb, provided a/ba/ba/b does not take one of a particular finite set of values.
 * Other important work by Delsarte was on transmutation operators.
 * Although Delsarte remained permanently on the staff at Nancy all his life, he did lecture in many different universities from 1947 onwards, particularly ones in India, North America and South America.
-* In fact Delsarte had originally intended to spend four years in Japan but cut short his visit, partly due to health problems, in particular his eyesight was rapidly deteriorating.
+* Delsarte had originally intended to spend four years in Japan but cut short his visit, partly due to health problems, in particular his eyesight was rapidly deteriorating.
 * Despite his health problems, Delsarte taught the mechanics course in 1967-68.
 * Delsarte had, of course, always advocated educational reforms, but he did not support the extreme methods adopted by some students.
 * Near the end of September 1968 Delsarte suffered a heart attack.

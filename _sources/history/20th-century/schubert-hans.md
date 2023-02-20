@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1918, when Hans was ten years old, he entered the Realgymnasium in the nearby town of Crimmitschau.
-* In fact Heisenberg was appointed to a chair at Leipzig and started teaching there in the year in which Schubert began his undergraduate career.
+* Heisenberg was appointed to a chair at Leipzig and started teaching there in the year in which Schubert began his undergraduate career.
 * It was the applied mathematician L Lichtenstein who became Schubert's thesis advisor in 1933 and under his guidance Schubert wrote a thesis Über einige Lichtensteinsche Hilfssätze der Potentialtheorie und ihre Anwendung auf die Hydrodynamik Ⓣ(About some lemmas of Lichtenstein on potential theory and its application to the hydrodynamics)  on potential theory and its applications to hydrodynamics.
 * On 1 April of that year Schubert was appointed as an assistant to H Schmidt in Köthen, a position which he held until October.
 * The years during which Schubert was undertaking research were the years during which there were huge changes in Germany.

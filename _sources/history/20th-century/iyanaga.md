@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Most of the graduate students from Tokyo went to study in Germany but Iyanaga decided to go to France as well as Germany.
 * Takagi came over to Europe for this Congress (he was vice-President) and met up with Iyanaga who had gone from Hamburg to Zürich for the Congress.
 * Iyanaga went to Paris in 1932 where he met up with Chevalley whom he had got to know well while in Hamburg.
-* In fact Iyanaga did, for various reasons, little original research from this time on.
+* Iyanaga did, for various reasons, little original research from this time on.
 * Iyanaga managed to solve a question of Artin on generalising the principal ideal theorem and this was published in 1939.
 * Iyanaga was promoted to Professor at Tokyo University in 1942 but by this time Japan had entered World War II.
 * Iyanaga joined the Science Council of Japan in 1947.

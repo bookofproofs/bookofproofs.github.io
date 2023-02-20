@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Chebyshev proved Bertrand's conjecture in 1850.
 * The proof of this result was only completed two years after Chebyshev's death by Hadamard and (independently) de la Vallée Poussin.
 * Chebyshev was promoted to extraordinary professor at St Petersburg in 1850.
-* In fact Chebyshev's interest both in the theory of mechanisms and in the theory of approximation stem from his 1852 trip.
+* Chebyshev's interest both in the theory of mechanisms and in the theory of approximation stem from his 1852 trip.
 * set the foundations of the Russian school of approximation theory: we show the relation of Chebyshev's ideas in approximation theory to applied problems (theory of mechanisms and computational mathematics).
 * It was in this work that his famous Chebyshev polynomials appeared for the first time but he later went on to develop a general theory of orthogonal polynomials.
 * It was Chebyshev who saw the possibility of a general theory and its applications.

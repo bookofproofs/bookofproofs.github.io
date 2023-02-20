@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this stage in his education there was a crisis for Coulomb.
 * At this stage Coulomb's interests were mainly in mathematics and astronomy and while in Montpellier he joined the Society of Sciences there in March 1757 and read several papers on these topics to the Society.
 * Coulomb wanted to enter the École du Génie at Mézières but realised that to succeed in passing the entrance examinations he needed to be tutored.
-* Camus had been appointed as examiner for artillery schools in 1755 and it was his Cours de mathématiques Ⓣ(A course of mathematics) that Coulomb studied for several months.
+* Camus had been appointed as examiner for artillery schools in 1755 and it was his "Cours de mathématiques" Ⓣ(A course of mathematics) that Coulomb studied for several months.
 * In 1758 Coulomb took the examinations set by Camus which he passed and he entered the École du Génie at Mézières in February 1760.
 * Coulomb graduated in November 1761.
 * Coulomb was put in charge of the building of the new Fort Bourbon and this task occupied him until June 1772.
@@ -40,8 +40,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Coulomb wanted the state and the individual to play equal roles.
 * In 1779 Coulomb was sent to Rochefort to collaborate with the Marquis de Montalembert in constructing a fort made entirely from wood near Ile d'Aix.
 * During his time at Rochefort, Coulomb carried on his research into mechanics, in particular using the shipyards in Rochefort as laboratories for his experiments.
-* His studies into friction in Rochefort led to Coulomb's major work on friction Théorie des machines simples Ⓣ(Theory of simple machines) which won him the Grand Prix from the Académie des Sciences in 1781.
-* In fact this 1781 memoir changed Coulomb's life.
+* His studies into friction in Rochefort led to Coulomb's major work on friction "Théorie des machines simples" Ⓣ(Theory of simple machines) which won him the Grand Prix from the Académie des Sciences in 1781.
+* This 1781 memoir changed Coulomb's life.
 * The importance of Coulomb's law for the development of electromagnetism is examined and discussed.
 * These papers on electricity and magnetism, although the most important of Coulomb's work over this period, were only a small part of the work he undertook.
 * Coulomb worked closely with Bossut, Borda, de Prony, and Laplace over this period.

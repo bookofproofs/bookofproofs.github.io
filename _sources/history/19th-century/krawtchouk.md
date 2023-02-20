@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Krawtchouk's contacts with other mathematicians were extremely valuable, particularly those with Jacques Hadamard, David Hilbert, Richard Courant and Francesco Tricomi.
 * In 1929 Krawtchouk published his most famous work, Sur une généralisation des polynômes d'Hermite Ⓣ(On a generalisation of Hermite polynomials).
 * In this paper he introduced a new system of orthogonal polynomials now known as the Krawtchouk polynomials, which are polynomials associated with the binomial distribution.
-* Let us note that, in March 2021, MathSciNet lists 112 papers with 'Krawtchouk' in the title, 88 of these having 'Krawtchouk polynomials' in the title.
+* In March 2021, MathSciNet lists 112 papers with 'Krawtchouk' in the title, 88 of these having 'Krawtchouk polynomials' in the title.
 * These polynomials belong to the class of orthogonal polynomials with discrete variables and were introduced by the Ukrainian mathematician M Krawtchouk in 1929.
 * The content of original works by Krawtchouk devoted to this topic is described in detail here.
 * A survey of the further developments and applications of Krawtchouk polynomials is provided.

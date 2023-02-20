@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bendixson returned to Abel's original contribution and showed that Abel's methods could be extended to describe precisely which equations could be solved by radicals.
 * Abel himself had written shortly before his death that he hoped to be able to achieve this, and it is interesting that Bendixson was able to do so using Abel's methods.
 * Bendixson published these results in Acta Mathematica and it is worth noticing that he was prepared to accept the new ideas of set theory but not of group theory.
-* In fact Bendixson was a frequent contributor to Acta Mathematica, the journal founded by his colleague Mittag-Leffler.
+* Bendixson was a frequent contributor to Acta Mathematica, the journal founded by his colleague Mittag-Leffler.
 * Bendixson is probably best remembered for the Poincaré- Bendixson theorem.
 * We shall say a little about how Bendixson came to prove this result.
 * In examining periodic solutions of differential equations Bendixson used methods based on continued fractions.

@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bachet wrote Problèmes plaisans et delectables qui se font par les nombres Ⓣ(Pleasant and delectable problems that are done by numbers) (1612), of which there were at least five editions, the last as late as 1959.
 * Finally, we mentioned above that Bachet gave the Josephus problem.
 * Bachet also worked on number theory.
-* In fact the work contains relatively little original material by Bachet who based his text on the problems of Diophantus which appeared in Bombelli's Algebra  and on a complete Latin translation by Wilhelm Holzmann (also known as Xylander) in 1575.
+* The work contains relatively little original material by Bachet who based his text on the problems of Diophantus which appeared in Bombelli's Algebra  and on a complete Latin translation by Wilhelm Holzmann (also known as Xylander) in 1575.
 
 Born 9 October 1581, Bourg-en-Bresse, France. Died 26 February 1638, Bourg-en-Bresse, France.
 

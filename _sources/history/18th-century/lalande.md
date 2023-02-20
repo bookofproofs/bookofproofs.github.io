@@ -51,8 +51,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By this time Lalande was sixty years old, he had survived the Terror during the French Revolution unscathed, something which he put down to his atheist views.
 * What was being celebrated was a religion to substitute for Christianity and Lalande played a leading role.
 * We are nearing the end of our description of Lalande's career, but let us pause to look at some aspects of his character.
-* In fact Lalande character seemed to contain many contradictions.
-* In fact Napoleon had been happy to agree that Lalande add his name to the Dictionary of Atheists in 1799.
+* Lalande character seemed to contain many contradictions.
+* Napoleon had been happy to agree that Lalande add his name to the Dictionary of Atheists in 1799.
 * Lalande took the opportunity to reissue his Dictionary of Atheists with Napoleon's name included which caused the new Emperor to demand that the Institut de France censure Lalande.
 * Delambre, who was at this time the Permanent Secretary to the Institut, tried hard to make Lalande bend to the Emperor's demands without being seen to undermine the highly prized intellectual freedom that members of the Institut enjoyed.
 * Lalande refused to stop putting forward his atheist views.

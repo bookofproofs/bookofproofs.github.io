@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1934 Nakayama had his first three papers published.
 * Nakayama graduated with his Rigakushi (diploma) from Tokyo Imperial University in 1935 and, in the same year, he was appointed as an assistant at Osaka Imperial University (now Osaka University).
 * Shoda had been appointed as a professor in the Faculty of Science at Osaka University in 1933 so Nakayama's appointment there allowed them to easily continue their work together.
-* In fact Nakayama published the book Local Class Field Theory in the year he was appointed to Osaka.
+* Nakayama published the book Local Class Field Theory in the year he was appointed to Osaka.
 * Experience abroad was important to leading Japanese mathematicians in this period and Nakayama followed this pattern spending time in the United States having been invited to the Institute for Advance Study at Princeton.
 * Before Nakayama left for the United States he had been ill and had contracted tuberculosis.
 * Richard Brauer was by this time a professor at Toronto and he invited Nakayama to make two research visits to Toronto during his time in the United States, When he visited Brauer, he become inspired to work on group representations, publishing articles such as Some studies on regular representations, induced representations and modular representations (1938) and A remark on representations of groups (1938).

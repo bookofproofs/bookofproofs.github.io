@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Zhang Qiujian wrote his mathematical text Zhang Qiujian suanjing (Zhang Qiujian's Mathematical Manual) some time between 468 and 486.
 * No other work by Zhang Qiujian is known, and nothing about its author is known.
-* although the dats we give are based on the best available evidence, some authors place Zhang Qiujian 100 years earlier than we have done.
+* Although the dats we give are based on the best available evidence, some authors place Zhang Qiujian 100 years earlier than we have done.
 * In particular Zhang sees the reduction of fractions to a common denominator as hard.
 * The method Zhang gives is to find the greatest common divisor of 150, 120 and 90.
 * Zhang gives the solution by solving a quadratic equation, but his formulae are not particularly accurate.

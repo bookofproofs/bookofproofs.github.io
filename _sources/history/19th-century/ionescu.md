@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ionescu graduated from the National School of Bridges and Roads in 1894 with an engineering degree.
 * After graduating in 1894, Ionescu was employed as a railway engineer, working on the Cernavoda-Fetesti 21 km line connecting the Cernavoda-Constanta railway line and the new Bucharest-Fetesti railway line.
 * In conclusion, it was proposed to set up a Romanian mathematics journal for "our high school students".
-* Let us note that, remarkably, over the years from 1895 to 2005, Ionescu published 421 articles in the Gazeta Matematica, well over double that of any other contributor over this period.
+* Over the years from 1895 to 2005, Ionescu published 421 articles in the Gazeta Matematica, well over double that of any other contributor over this period.
 * Let us at this stage say a little about the best known of the problems that Ionescu contributed.
 * (Actually, to be strictly correct, Ionescu stated the contrapositive of this proposition.) A rigorous proof was given by N Muzicescu and published in Gazeta Matematica in 1898, the year after it was posed by Ionescu.
 * Weitzenböck's name is attached simply because after he published it in the much more widely read Mathematische Zeitschrift in 1919 it became known as the Weitzenböck inequality but later when Ionescu's earlier statement was noted, it was given its current name.

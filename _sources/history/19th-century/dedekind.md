@@ -44,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dirichlet supported his application writing that Dedekind was 'an exceptional pedagogue'.
 * In the spring of 1858 the Swiss councillor who made appointments came to Göttingen and Dedekind was quickly chosen for the post.
 * Dedekind was appointed to the Polytechnikum in Zürich and began teaching there in the autumn of 1858.
-* In fact it was while he was thinking how to teach differential and integral calculus, the first time that he had taught the topic, that the idea of a Dedekind cut came to him.
+* It was while he was thinking how to teach differential and integral calculus, the first time that he had taught the topic, that the idea of a Dedekind cut came to him.
 * Dedekind's brilliant idea was to represent the real numbers by such divisions of the rationals.
 * Dedekind and Riemann travelled together to Berlin in September 1859 on the occasion of Riemann's election to the Berlin Academy of Sciences.
 * In Berlin, Dedekind met Weierstrass, Kummer, Borchardt and Kronecker.

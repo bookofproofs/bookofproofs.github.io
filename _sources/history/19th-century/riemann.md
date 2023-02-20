@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Riemann's lecture Über die Hypothesen welche der Geometrie zu Grunde liegen Ⓣ(On the hypotheses at the foundations of geometry), delivered on 10 June 1854, became a classic of mathematics.
 * There were two parts to Riemann's lecture.
 * In the first part he posed the problem of how to define an nnn-dimensional space and ended up giving a definition of what today we call a Riemannian space.
-* In fact the main point of this part of Riemann's lecture was the definition of the curvature tensor.
+* The main point of this part of Riemann's lecture was the definition of the curvature tensor.
 * The second part of Riemann's lecture posed deep questions about the relationship of geometry to the world we live in.
 * Returning to the faculty meeting, he spoke with the greatest praise and rare enthusiasm to Wilhelm Weber about the depth of the thoughts that Riemann had presented.
 * In the mathematical apparatus developed from Riemann's address, Einstein found the frame to fit his physical ideas, his cosmology, and cosmogony: and the spirit of Riemann's address was just what physics needed: the metric structure determined by data.

@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Grassmann only spent a year at the Gewerbeschule before a new opportunity arose back in his home town of Stettin.
 * A new school, the Otto Schule, had just opened and Grassmann was appointed to teach mathematics, physics, German, Latin, and religious studies.
 * Over the next four years Grassmann took his teaching very seriously, yet he was able to find time to devote to mathematical research as well as concentrating on preparing himself for further examinations.
-* In fact the examinations that Grassmann took in 1840 were significant for him in another way.
+* The examinations that Grassmann took in 1840 were significant for him in another way.
 * Although his essay was accepted by the examiners they totally failed to see the importance of the innovations which Grassmann had introduced.
 * On the other hand it had shown Grassmann that his theory was widely applicable and he decided to spend as much time as he could spare on further developing his ideas on vector spaces.
 * Of course Grassmann could not devote too much time to research since he was a dedicated teacher who wanted to put considerable effort into doing that job to the very best of his ability.

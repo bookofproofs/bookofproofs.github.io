@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * This innocent little comment in fact hides a period of great difficulty and suffering for Kato.
-* In fact this last paper contains one of Kato's most important results, namely the self-adjointness of Hamiltonians of Schrödinger type.
+* This last paper contains one of Kato's most important results, namely the self-adjointness of Hamiltonians of Schrödinger type.
 * After Kato was awarded his doctorate he was appointed as assistant professor of physics at the University of Tokyo in 1951.
 * In 1954-55 Kato visited the United States for the first time, spending time at the University of California at Berkeley, and at New York University.
 * The Department of Mathematics of the University of California, Berkeley, published Kato's notes Quadratic forms in Hilbert spaces and asymptotic perturbation series in 1955.
@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These notes extend results which were published in Kato's famous 1951 Transactions of the American Mathematical Society paper mentioned above.
 * Although still based in Japan, Kato made many visits to the United States during the following years, visiting the National Bureau of Standards in 1955-56, and the University of California at Berkeley and the California Institute of technology in 1957-58.
 * František Wolf at Berkeley had become interested in perturbation theory through Kato's work and played a major role in an effort which brought Kato to Berkeley in 1962 to become Professor of Mathematics.
-* In fact Kato had major difficulties in obtaining a visa for the United States because of the tuberculosis he had suffered.
+* Kato had major difficulties in obtaining a visa for the United States because of the tuberculosis he had suffered.
 * Let us mention a few more from Kato's great wealth of results.
 * In 1983 he discovered the "Kato smoothing" effect while studying the initial-value problem associated with the Korteweg-de Vries equation, which was originally introduced to model the propagation of shallow water waves.
 * Kato retired from his chair at Berkeley in 1988 but remained extremely active in research.

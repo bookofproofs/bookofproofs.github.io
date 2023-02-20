@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1808 Nikolai Ivanovich Lobachevsky had the good fortune to study with Bartels at Kazan University not long after he took up his post there.
 * Not only did Bartels assist Lobachevsky with his studies, but he also looked after his young student, supporting him when he got into trouble with the authorities (which happened quite often!) When Lobachevsky was due to graduate it was Bartels who spent three days lobbying the other professors to award him a Master's degree.
 * Bartels won the argument and Lobachevsky was awarded a Master's Degree.
-* After graduating in 1811, Lobachevsky remained in Kazan to study with Bartels who guided his reading of Gauss's Disquisitiones Arithmeticae Ⓣ(Investigations in arithmetic) and Laplace's Mécanique Céleste Ⓣ(Celestial Mechanics).
+* After graduating in 1811, Lobachevsky remained in Kazan to study with Bartels who guided his reading of Gauss's "Disquisitiones Arithmeticae" Ⓣ(Investigations in arithmetic) and Laplace's "Mécanique Céleste" Ⓣ(Celestial Mechanics).
 * In 1814 it was mainly due to Bartels that Lobachevsky was appointed as an assistant professor.
 * We should note that Lobachevsky took Bartels' course on the History of Mathematics which, following Montucla, considered in detail Euclid's Elements and his theory of parallel lines.
 * In 1821 Bartels moved to the university in Dorpat (now Tartu in Estonia).
@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One such result is the famous Frenet-Serret formulas that were discovered first by Bartels.
 * To each point of a space curve Bartels associated a trihedron, which later became called the Frenet trihedron, and Bartels obtained the formulas now known as the Frenet-Serret formulas.
 * We only know of this since they were published in a prize work by his student Carl Eduard Senff in Principal theorems of the theory of curves and surfaces in 1831, with due acknowledgement to Bartels.
-* Let us note that Bartels corresponded with Gauss from the time that he was working in Switzerland.
+* Bartels corresponded with Gauss from the time that he was working in Switzerland.
 * After Gauss became famous, a joke went round that Bartels was the best mathematician in Germany because Gauss was the best mathematician in the world.
 * A couple of years after Bartels moved to Dorpat, he became a Privy Councillor in 1823.
 

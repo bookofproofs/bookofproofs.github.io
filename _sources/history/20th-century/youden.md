@@ -27,9 +27,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Youden was sixteen years old when he began to live in Rochester and he was nearing the age to begin his university education.
 * In September 1922 Youden entered Columbia University to study, first for his Master's Degree which was awarded in 1923, then for his doctorate which was awarded in 1924.
 * So far we have seen nothing which might indicate why Youden would be the right person to include in this history of mathematics archive.
-* In fact up to this time Youden had shown no interest in statistics, the area to which he would eventually make a major contribution.
+* Up to this time Youden had shown no interest in statistics, the area to which he would eventually make a major contribution.
 * Youden did not become interested in statistics for a few years.
-* In fact over the first few years that he worked at the Institute Youden became more and more disillusioned with the way that measurements were made in biology.
+* Over the first few years that he worked at the Institute Youden became more and more disillusioned with the way that measurements were made in biology.
 * This book opened up a new world for Youden who now saw that he had the perfect opportunity to carry out agricultural experiments which could be set up using the new experiment designs put forward by Fisher.
 * In 1931 Youden published his first paper on statistical methods.
 * the beginning of Youden's "missionary" efforts to acquaint research workers with statistical methods of value in their work.

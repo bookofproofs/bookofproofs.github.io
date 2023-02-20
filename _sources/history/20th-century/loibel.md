@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gilberto Francisco Loibel** was a Brazilian mathematician who played a major role in the development of mathematical sciences in Brazil. He supervised 19 Master's dissertations and 8 Doctoral theses.
 
 ### Mathematical Profile (Excerpt):
-* In fact Dr Gertrud Loibel (age 36) and Gerda Angelica Loibel (age 2) sailed from Hamburg, Germany, to Brazil on the ship General Osorio leaving on 3 April 1930.
+* Dr Gertrud Loibel (age 36) and Gerda Angelica Loibel (age 2) sailed from Hamburg, Germany, to Brazil on the ship General Osorio leaving on 3 April 1930.
 * Gilberto's primary education was in Germany and he also began his secondary education there.
 * When Gilberto attended, it was actually named Colégio Estadual e Escola Normal of Jundiaí, only adopting the name Instituto de Educação in 1953.
 * Loibel completed his studies at the college in 1951 and, in the following year, he was ranked first in the entrance examination for the bachelor's degree in Mathematics at the Faculty of Philosophy, Sciences and Letters of the University of São Paulo.

@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In collaboration with Lauri Kahanpää, Pekka Kekäläinen, and William Traves, Smith wrote up the lectures and published them as the book An invitation to algebraic geometry (2000).
 * Karen Smith, a highly accomplished young commutative algebraist, was led by the momentum of her work and its results to apply her techniques to problems in algebraic geometry.
 * The book was reprinted in 2004, the same year as a second book by Smith was published.
-* Let us note that Smith is (or has been) an editor for a number of journals including: the American Journal of Mathematics; Advances in Mathematics; the Journal of the American Mathematical Society; the American Mathematical Monthly; Annales de Toulouse; and the Transactions of the American Mathematical Society.
+* Smith is (or has been) an editor for a number of journals including: the American Journal of Mathematics; Advances in Mathematics; the Journal of the American Mathematical Society; the American Mathematical Monthly; Annales de Toulouse; and the Transactions of the American Mathematical Society.
 * But of course we live in America, and Karen is 100% American ...
 
 Born 9 May 1965, Red Bank, New Jersey, USA.

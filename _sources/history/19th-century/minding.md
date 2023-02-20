@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While mentioning Minding's famous students we should include Axel Harnack who studied with Minding while an undergraduate but went to Germany for his doctorate.
 * At Dorpat, Minding taught algebra, analysis, geometry, probability, mechanics and physics.
 * For example, in 1830 Minding published on the problem of the shortest closed curve on a given surface enclosing a given area.
-* In fact Gauss had proved these results in 1825 before either Minding or Bonnet, but he had not published them.
+* Gauss had proved these results in 1825 before either Minding or Bonnet, but he had not published them.
 * Minding also studied the bending of surfaces proving what is today called Minding's theorem in 1839.
 * Lobachevsky had published, also in Crelle's Journal, related results three years earlier and these results by Lobachevsky and Minding formed the basis of Beltrami's interpretation of hyperbolic geometry in 1868.
 * In a later article (1840), Minding arrived at another interesting result, though without perceiving its important implications.

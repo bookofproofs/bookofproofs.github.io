@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As well as undertaking research at the Centre de Physique Théorique in Marseille, Bratteli also spent time at the Zentrum für interdisziplinäre Forschung of Bielefeld University in Germany.
 * Bratteli continued to collaborate with Robinson and made several trips to Australia.
 * In 1980 Bratteli became a professor at the Norwegian University of Technology in Trondheim.
-* In fact the last single author paper Bratteli wrote was a conference paper published in 1988, and he had around 50 multi-author works in the following 20 years.
+* The last single author paper Bratteli wrote was a conference paper published in 1988, and he had around 50 multi-author works in the following 20 years.
 * Bratteli wrote several further books.
 * For example, he received: (i) The Professor Ingerid Dal and Sister Ulrikke Greve Dal's scholarship in support of humanistic research in 2001; (ii) The Nansen Foundation's prize for outstanding research from The Norwegian Academy of Sciences in 2004; and (iii) The Research Council of Norway's prize, the Möbius Prize, for outstanding research in 2004.
 

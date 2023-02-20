@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * They shared a love of climbing mountains but their exploits here were not simply for pleasure as Herschel continually learnt about science from his environment.
 * Other trips abroad by Herschel included one in 1822 and another with Babbage in 1824.
 * On the 1824 trip Herschel had visited Fraunhofer and had met with Fox Talbot who was visiting Fraunhofer at the time.
-* In fact 1822 was the year in which John Herschel published his first paper on astronomy, a relatively minor work on a new method to calculate eclipses of the moon.
+* 1822 was the year in which John Herschel published his first paper on astronomy, a relatively minor work on a new method to calculate eclipses of the moon.
 * John Herschel published an important paper on this topic in 1826 but did not succeed in determining the parallax of any star.
 * Herschel's involvement with the Royal Society had important influences on his career.
 * This was part of a battle that was going on in the Society between reformers and traditionalists, Herschel being the champion of the reformers.
@@ -63,7 +63,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Without knowing any details, Herschel was able to take photographs himself within a few days.
 * Indeed Herschel was able to achieve this remarkably rapid breakthrough due to the work that he had conducted and published in 1819 on chemical processes related to photography.
 * Herschel went on to publish a number of further papers on photography, in 1839, 1840 and 1842.
-* In fact many people have wondered why Herschel himself never made the steps which would have led to his being recognised as the inventor of photography.
+* Many people have wondered why Herschel himself never made the steps which would have led to his being recognised as the inventor of photography.
 * It was not a job which Herschel found to his liking.
 * There were difficulties in dealing with staff, difficulties in dealing with the Treasury, but perhaps most significantly of all to Herschel, he no longer could pursue his scientific interests.
 * Herschel was a scientist by nature, not a business man.

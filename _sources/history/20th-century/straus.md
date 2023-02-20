@@ -30,10 +30,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During the four years that Straus worked with Einstein they wrote three joint papers.
 * Straus submitted his doctoral thesis on Einstein's unified field theory to Columbia University and was awarded his doctorate in 1948.
 * Straus had been working with Einstein on mathematical physics yet while at Princeton he had developed an interest in number theory from Artin, Erdős, Selberg and Siegel.
-* In fact Straus became a close friend of Erdős and went on to write 21 joint papers with him over many years.
+* Straus became a close friend of Erdős and went on to write 21 joint papers with him over many years.
 * When he went to the University of California at Los Angeles as an instructor in mathematics in 1948, Straus therefore had already wide mathematical interests.
 * In 1949 Straus collaborated with Richard Bellman publishing Continued fractions, algebraic functions and the Padé table in which they gave a method for obtaining the rational approximants of Frobenius-Padé for power series expansions of algebraic functions.
-* Let us note that Straus had a close association with the Pacific Journal of Mathematics being on the editorial board from 1951 to 1964, and being the managing editor between 1954 and 1959.
+* Straus had a close association with the Pacific Journal of Mathematics being on the editorial board from 1951 to 1964, and being the managing editor between 1954 and 1959.
 * Two years later Straus published Curvature in Hilbert geometries also written jointly with Kelly.
 * Straus wrote 21 joint papers with Erdős.
 * An earlier joint paper by Straus and Erdős was On linear independence of sequences in a Banach space (1953).

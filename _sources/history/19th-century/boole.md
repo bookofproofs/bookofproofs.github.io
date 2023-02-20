@@ -36,14 +36,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boole was appointed to the chair of mathematics at Queens College, Cork in 1849.
 * In May 1851 Boole was elected as Dean of Science, a role he carried out conscientiously.
 * Boole began to give Mary informal mathematics lessons on the differential calculus.
-* Let us now look at Boole's most important work.
 * Boole approached logic in a new way reducing it to a simple algebra, incorporating logic into mathematics.
 * It began the algebra of logic called Boolean algebra which now finds application in computer construction, switching circuits etc.
 * Boole himself understood the importance of the work.
 * Boole also worked on differential equations, the influential Treatise on Differential Equations appeared in 1859, the calculus of finite differences, Treatise on the Calculus of Finite Differences (1860), and general methods in probability.
 * Many honours were given to Boole as the genius in his work was recognised.
 * She put Boole to bed and threw buckets of water over the bed since his illness had been caused by getting wet.
-* published his "Computation or Logique" he had a remote glimpse of some of the points which are placed in the light of day by Mr Boole.
+* He published his "Computation or Logique" he had a remote glimpse of some of the points which are placed in the light of day by Mr Boole.
 * Boolean algebra has wide applications in telephone switching and the design of modern computers.
 * Boole's work has to be seen as a fundamental step in today's computer revolution.
 

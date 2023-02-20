@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Not only did this mark the start of Pitman's collaboration with Scott and the State Department of Agriculture, but Scott also showed him a copy of R A Fisher's Statistical Methods for Research Workers.
 * Pitman had no thoughts of publishing research articles at this stage in his career.
 * This was only the first of several visits Pitman made to the United States.
-* In fact most of these visits were made after Pitman retired, which was in 1962 when he reached the age of sixty-five.
+* Most of these visits were made after Pitman retired, which was in 1962 when he reached the age of sixty-five.
 * In 1979, Pitman published a book entitled Some basic theory for statistical inference.
 * Pitman received many honours for his contributions to mathematics and statistics.
 * Two years earlier he had been made an honorary life member of the Statistical Society of Australia and the Society now awards the Pitman Gold Medal as its highest honour.

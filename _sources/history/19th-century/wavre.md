@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from Paris, Wavre returned to Switzerland where he undertook research for his doctorate at the University of Geneva.
 * Wavre was appointed as an extraordinary professor of differential and integral calculus and rational mechanics on 18 July 1922.
 * Rolin Wavre was sitting with his friends Jean de la Harpe, Jean Piaget and Leon Bopp near the wall facing the lake.
-* Let us note that his friend Jean de la Harpe (1892-1947) was a philosopher who, like Wavre, had been taught by Arnold Reymond and Léon Brunschvicg.
+* His friend Jean de la Harpe (1892-1947) was a philosopher who, like Wavre, had been taught by Arnold Reymond and Léon Brunschvicg.
 * Jean Piaget (1896-1980) was a psychologist who had, like Wavre, been born in Neuchâtel.
 * Wavre became an ordinary professor of mathematics at the University of Geneva on 11 July 1934.
 * It is not difficult to see how the questions that Wavre considered in this paper came to interest him since he had been taught by Arnold Reymond and Léon Brunschvicg, two outstanding teachers of the philosophy of mathematics.

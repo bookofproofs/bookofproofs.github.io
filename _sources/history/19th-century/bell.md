@@ -53,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This original and scholarly book is an honour to American mathematics.
 * At this level Bell wrote books which included Men of Mathematics (1937) and Mathematics, Queen and Servant of Science (1951).
 * In addition to popular and high-level books, Bell also wrote many papers in which he gave his strong, often provocative, views on many subjects.
-* the excuse, Bell himself once wrote, being that if these popular novels made money, some publishers might be interested in more serious books.
 * Given the remarkable mathematical output of Bell, it is amazing that he was able to write two or three science fiction books each year.
 * All these juicy horrors are described in such hair-raising detail and with such devilish pleasure that Bell's books almost all land in the can't-put-it-down class - even for some of Bell's squeamish academic colleagues who never meant to take them up at all.
 * Although Bell (as John Taine) was known as one of the leading science fiction writers of his day, these books have not become classics and are today little read.

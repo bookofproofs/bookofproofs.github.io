@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While still training to be a lawyer Cayley went to Dublin to hear William Rowan Hamilton lecture on quaternions.
 * Cayley was a good friend of Hamilton's although the two disagreed as to the importance of the quaternions in the study of geometry.
 * Another of Cayley's friends was James Joseph Sylvester who was also in the legal profession.
-* In fact Cayley and Thomson were also good friends.
+* Cayley and Thomson were also good friends.
 * About a year after he began legal training Cayley began a correspondence with Thomas Kirkman.
 * He spent 14 years as a lawyer but Cayley, although very skilled in conveyancing (his legal speciality), always considered it as a means to make money so that he could pursue mathematics.
 * Cayley maintained contact with Cambridge and from serving as Senior Examiner at the annual Trinity College examinations, he progressed to the responsibility of being Senior Moderator for the Mathematical Tripos in 1851 and Senior Examiner in 1852.

@@ -32,10 +32,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lamé had played a major role in advising Boussinesq and the thesis clearly shows his influence in the way Boussinesq approached his subject.
 * The examining committee, however, comprised of Joseph Serret, Joseph Bertrand and Charles Auguste Briot and Boussinesq defended his thesis in Paris before this committee on 13 May 1867.
 * Boussinesq had not concentrated on his thesis to the exclusion of other research, for he had worked on the theory of linear elasticity at the same time.
-* In fact from this time on Saint-Venant was Boussinesq's staunchest supporter and became even more influential in 1868 when he was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
+* From this time on Saint-Venant was Boussinesq's staunchest supporter and became even more influential in 1868 when he was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
 * Saint-Venant understood the system well and was able to advise Boussinesq that to obtain a university position in mechanics would be very difficult unless he had both a mathematics and a physics qualification.
 * Boussinesq's research contributions up to this point had been very substantial.
-* In fact Boussinesq gave the first mathematical treatment of the problem of the stability of solitary waves in the first of these 1871 papers.
+* Boussinesq gave the first mathematical treatment of the problem of the stability of solitary waves in the first of these 1871 papers.
 * Boussinesq had been working on open-channel theory for some time.
 * In his first derivation of the solitary wave, published in 1871 in the 'Comptes rendus', Boussinesq sought an approximate solution of Euler's equations that propagated at the constant speed c without deformation in a rectangular channel.
 * A century later Boussinesq managed to include these terms.

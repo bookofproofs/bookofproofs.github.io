@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ernst refused to let the small matters of war get in the way of his research.
 * After this a Baltic University was set up in Hamburg in March 1946 to provide education for displaced students and Öpik became Professor of Astronomy and the Rector for Estonian students.
 * This University was always going to be a short-term venture so Öpik had to find permanent employment.
-* In fact the University closed in 1949 but Öpik had left in 1948.
+* The University closed in 1949 but Öpik had left in 1948.
 * The astronomers at Harvard learnt of Öpik's predicament and Eric Mervyn Lindsay (1907-1974) came to his help.
 * Lindsay had, therefore, been a research student at Harvard at the time Öpik worked there and, in fact, Öpik had been one of the examiners of Lindsay's Ph.D. thesis.
 * In December 1947 Lindsay offered Öpik the position of Research Associate at Armagh Observatory and he arrived in Northern Ireland to take up the position in June 1948.

@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Epernon, the town where Chasles was born, is in the region of Chartres lying about one third of the way from the town of Chartres to Paris.
-* In fact  Chasles was christened Floréal Chasles by his parents after the month of the Republican calendar.
+* Chasles was christened Floréal Chasles by his parents after the month of the Republican calendar.
 * This calendar fell out of use and a court order was obtained to change his name from Floréal to Michel a few days after his sixteenth birthday.
 * Chasles attended the Lycée Impérial for his secondary education.
 * Chasles was called up to take part in the defence of Paris in early 1814.

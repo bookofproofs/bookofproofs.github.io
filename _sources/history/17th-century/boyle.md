@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If any one event shaped Boyle's life and directed him towards science, then it was this.
 * Boyle became a strong supporter of Galileo's philosophy and believed strongly from this time in the new approach to studying the world through mathematics and mechanics.
 * He did send £250 to pay for Boyle's return, but the money never reached him.
-* In fact although Boyle inspected his new home after four months, it was much longer before he was able to move in.
+* Although Boyle inspected his new home after four months, it was much longer before he was able to move in.
 * Although Boyle did not intend to spend long at Stalbridge, he remained there for around six years.
 * This "new philosophical college" is also called by Boyle the "Invisible College" later in the letter.
 * It is the society which would soon became the "Royal Society of London" and it provided Boyle's only contact with the world of science while he lived a somewhat lonely life at Stalbridge.

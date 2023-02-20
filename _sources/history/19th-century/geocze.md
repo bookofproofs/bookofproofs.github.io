@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Zoárd Geöcze** was a Hungarian mathematician famous for his theory of surfaces.
 
 ### Mathematical Profile (Excerpt):
-* In fact Budapest had been created from the union of the towns of Pest, Buda, and Obuda in the year before Zoárd was born there, although it had operated as a single town from the time that the Chain Bridge across the Danube was opened in 1849.
+* Budapest had been created from the union of the towns of Pest, Buda, and Obuda in the year before Zoárd was born there, although it had operated as a single town from the time that the Chain Bridge across the Danube was opened in 1849.
 * Geöcze attended two secondary modern schools in Budapest where his performance was about average, and showed nothing of the brilliant mathematical abilities which he would later display.
 * However, things did not go particularly well for Geöcze for he managed to fall out with his professor Julius König.
 * König ran a seminar at the University of Budapest which inspired Geöcze who submitted a paper to König as his entry in a competition.

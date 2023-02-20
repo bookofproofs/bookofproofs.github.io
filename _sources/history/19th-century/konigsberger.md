@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fuchs had also given Königsberger a love for mathematics, so from this time on he knew that it was the subject he wanted to study.
 * When Königsberger arrived at the University of Berlin, his friend and former tutor Fuchs was still an undergraduate there.
 * In his first semester at the university, which was in the year 1857, Königsberger was taught by Karl Weierstrass who had been appointed to the University of Berlin in the previous year.
-* In fact Königsberger had been so well prepared for university study that he attended Weierstrass's lectures on the theory of elliptic functions (which was Weierstrass's main research topic) and by the end of the course he was one of only four or five students who remained including Fuchs.
+* Königsberger had been so well prepared for university study that he attended Weierstrass's lectures on the theory of elliptic functions (which was Weierstrass's main research topic) and by the end of the course he was one of only four or five students who remained including Fuchs.
 * This was the first course that Weierstrass gave on elliptic functions and Königsberger's publication was of considerable historical importance.
 * Königsberger also attended lectures by Eduard Kummer, who had been appointed to Berlin two years before Königsberger began his undergraduate studies.
 * Königsberger was given a research topic by Weierstrass.

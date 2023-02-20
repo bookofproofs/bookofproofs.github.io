@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On Hans Hahn's recommendation, despite having never habilitated, Reidemeister was appointed as associate professor of geometry at the University of Vienna in October 1923.
 * It was Wirtinger who interested Reidemeister in knot theory, the topic for which he is best remembered today.
 * In particular Wirtinger showed Reidemeister how to compute the fundamental group of a knot from its projection.
-* In fact this move to Austria was very beneficial for Reidemeister since it allowed him to escape from the misery of hyper-inflation in Germany with the strikes and unrest which resulted.
+* This move to Austria was very beneficial for Reidemeister since it allowed him to escape from the misery of hyper-inflation in Germany with the strikes and unrest which resulted.
 * While in Vienna, Reidemeister came across the Tractatus by Wittgenstein and joined the Vienna Circle of Logical Positivists.
 * Led by Reidemeister, the group of mathematicians at Vienna spent a year studying the deep ideas on logic and mathematics in the Tractatus.
 * In 1925 Reidemeister was offered the chair in Königsberg which had been left vacant when Wilhelm Meyer retired, which he accepted.

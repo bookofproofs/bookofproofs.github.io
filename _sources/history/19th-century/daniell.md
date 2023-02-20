@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Percy Daniell** was a Chilean-born English mathematician who worked in both  pure and applied mathematics. He is best known for his work on integration.
 
 ### Mathematical Profile (Excerpt):
-* In fact Percy spent the first six years of his life in Chile, only returning to live in Birmingham in 1895 when his parents settled back in England.
+* Percy spent the first six years of his life in Chile, only returning to live in Birmingham in 1895 when his parents settled back in England.
 * As part of his primary school education, Percy spent a couple of years at a private school at Fladbury, Worcestershire.
 * When Percy began his education there, the school was in New Street in the centre of the city.
 * In 1903, halfway through Daniell's time at King Edward's School, Levett retired but his approach was very successfully carried on by his successor Charles Davison.
@@ -38,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Up to the time he moved to the United States Daniell had not published a single paper.
 * The paper gives an abstract definition of integration now known as the Daniell integral.
 * This work represents a remarkable achievement but, amazingly, Daniell also made a highly innovative contribution to a totally different area of mathematics at the same time as he was working on the Daniell integral.
-* by the English mathematician P J Daniell.
 * It could in fact be claimed that Daniell was at least thirty years ahead of his time, for it took that long for his major results to be rediscovered.
 * another important paper of Daniell's, 'Integral Products and Probability' (1921), ...
 * After this remarkable period, Daniell was promoted to full professor at the Rice Institute in 1920.

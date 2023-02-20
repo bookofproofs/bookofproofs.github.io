@@ -38,9 +38,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Le Tenneur replied with a long letter to Mersenne written on 13 April 1647.
 * As Zeno's paradoxes had shown in antiquity, the idea of a mathematical instant led to difficulties.
 * Fabri had argued that mathematical instants do not exit and hence Galileo's theory breaks down immediately since he assumes their existence.
-* Le Tenneur then argues that Galileo's theory is superior to that of Fabri since it did not depend of the unit of time used for measurements.
-* the multiplication of times according to any proportion whatsoever always confirms the uniform proportion among the spaces, and it does not happen that you get a larger or a smaller space if the equal times get longer or shorter ....
-* Nor will there be a larger ratio between four spaces and two spaces, than between two spaces and one space; nor will there occur a larger or smaller space.
+* Le Tenneur then argues that Galileo's theory is superior to that of Fabri since it did not depend on the unit of time used for measurements.
+  * The multiplication of times according to any proportion whatsoever always confirms the uniform proportion among the spaces, and it does not happen that you get a larger or a smaller space if the equal times get longer or shorter ....
+  * Nor will there be a larger ratio between four spaces and two spaces, than between two spaces and one space; nor will there occur a larger or smaller space.
 * Another part of Fabri's argument was that it was impossible for a body sliding down an inclined plane and another body in free fall to both pass through an infinite number of velocities.
 * This argument really claims that two lines of different lengths cannot both contain an equal number of points.
 * Le Tenneur essentially refutes this by showing that in a right-angled triangle every point on one of the shorter sides corresponds to a point on the hypotenuse by drawing a line parallel to the other short side, and visa-versa.

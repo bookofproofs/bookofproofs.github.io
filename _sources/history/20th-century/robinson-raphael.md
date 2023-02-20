@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the time that Robinson wrote this paper the last five of these primes were larger than any that had previously been found.
 * it is refreshing and stimulating to encounter one of Robinson's papers.
 * In a major paper Undecidability and nonperiodicity for tilings of the plane published in 1971, Robinson continued to study problems of a kind that he had examined for a long while.
-* In fact Robinson had already made a substantial contribution to problems of this type in earlier papers.
+* Robinson had already made a substantial contribution to problems of this type in earlier papers.
 * In the 1971 paper mentioned above, Robinson asks a question about undecidability and nonperiodicity results for tilings of the hyperbolic plane.
 * Undecidability involves the halting problem for Turing machines and in 1991, when Robinson was aged 80, he published Minsky's small universal Turing machine which describes a universal Turing machine with 4 symbols and 7 states.
 

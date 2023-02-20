@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By June 1806 Bowditch had read the first four of Laplace's five volumes (the fifth volume was not published by Laplace until 1825).
 * Bowditch was now coming up in the world and he gave up his career as a sailor in 1804 to move into the business world.
 * During the years of his presidency of this Company Bowditch undertook mathematical and astronomical investigations which gave him a high reputation in the academic world.
-* In fact Bowditch loved to carry out complex mathematical computations and the task of checking and correcting Moore's work was one he greatly enjoyed.
+* Bowditch loved to carry out complex mathematical computations and the task of checking and correcting Moore's work was one he greatly enjoyed.
 * Bowditch had already received high recognition for his academic contributions, including election to the American Academy of Arts and Sciences in 1799.
 * Harvard University was not the only one to offer Bowditch a chair.
 * However, Bowditch had a salary from the Essex Fire and Marine Insurance Company which was 50% higher than the $2,000 which Virginia offered him.

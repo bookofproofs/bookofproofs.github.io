@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Iosiph Mikhailovich was arrested in 1937, the year that the 'Great Terror' was at its worst, and declared to be one of the 'Enemies of the People'.
 * The Molotov-Ribbentrop non-aggression pact between Germany and the Soviet Union meant that the initial years of the war had little effect on life in Kharkov and Kadets continued his secondary school education.
-* In fact this occurred only a few days after Kadets graduated from secondary school.
+* This occurred only a few days after Kadets graduated from secondary school.
 * German troops advanced towards Kharkov and Kadets was evacuated from the city and underwent military training.
 * In 1946 Kadets enrolled in the Faculty of Physics and Mathematics of Kharkov State University.
 * Baltaga, who gave the course on mathematical analysis, drew Kadets' attention to the question of infinite-dimensional extensions of the theorem of Steinitz on conditionally convergent series.

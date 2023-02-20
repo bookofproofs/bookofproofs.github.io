@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * John Fallows became parish clerk at the church of St Bridget's in Bridekirk, 3 km north of  Cockermouth, where the vicar was Rev Humphrey Archer Hervey (1768-1843).
 * John Fallows was proud of the mathematical skills that Fearon was demonstrating and told the Rev Hervey.
 * Mr Temple employed Fallows as an assistant but, in 1808, Temple died.
-* on the death of Mr Temple, the Rev Edward Stanley, rector of Plumbland, offered the situation to Fearon, who accepted it.
+* On the death of Mr Temple, the Rev Edward Stanley, rector of Plumbland, offered the situation to Fearon, who accepted it.
 * This was a fortunate introduction for Fallows, as the Rev Mr Stanley, a man of superior character and discernment, soon ascertained the young schoolmaster's worth and high abilities, and laudably exerted himself to promote his advancement.
 * The clergy, gentry, and others in the neighbourhood, on hearing of Fearon's great promise, willingly co-operated with the Rev Messrs Hervey and Stanley in getting up a subscription to enable him to go to Cambridge, and in the year 1809 he commenced residence as a student of St John's College, Cambridge.
 * Cambridge was a wonderful place for Fallows who was very happy in the academic atmosphere and, after years of basically being self-taught, was delighted to be able to learn from leading mathematicians such as Robert Woodhouse.

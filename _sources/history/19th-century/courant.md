@@ -67,9 +67,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Meanwhile attempts were made to offer Courant posts elsewhere.
 * His forced leave was changed to ordinary leave and Courant left for England, going to New York University the following year.
 * Courant built up an applied mathematics research centre in New York based on the Göttingen model, making many new appointments such as Friedrichs.
-* and it records Courant's views of mathematics.
 * Perhaps one of Courant's most famous pieces of mathematics from around this time was his "finite element method".
-* In fact this method first appeared in an existence proof of a version of the Riemann mapping theorem in the Hurwitz-Courant book of 1922.
+* This method first appeared in an existence proof of a version of the Riemann mapping theorem in the Hurwitz-Courant book of 1922.
 * The idea appeared again as a footnote in the Courant-Hilbert publication Methoden der mathematischen Physik Ⓣ(Methods of mathematical physics)  in 1924.
 * The first application as a numerical method, however, was given by Courant in 1943 in his solution of a torsion problem.
 * The name "finite element method" was not due to Courant, however, but appears only in the 1960s.

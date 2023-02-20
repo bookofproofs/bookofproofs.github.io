@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lifshitz was in Moscow in early 1938, teaching from February of that year at the All-Union Leather Institute.
 * Lifshitz decided that the safest thing for him to do was to keep out of sight in case he attracted the same attention from the KGB.
 * In 1939 Lifshitz's thesis for the DSc examination of Leningrad State University was accepted.
-* In fact it was Peter Kapitsa, the director of the Institute of Physical Problems, who invited Lifshitz to Moscow and arranged for him to share with Landau a 5-room apartment on two floors.
+* It was Peter Kapitsa, the director of the Institute of Physical Problems, who invited Lifshitz to Moscow and arranged for him to share with Landau a 5-room apartment on two floors.
 * Landau lived on the upper floor where there were three rooms, and Lifshitz and his wife, Elena Konstantinovna Berezovskaya, lived on the lower floor.
 * Lifshitz deeply admired Kapitsa's courage in sending these letters and he treasured copies of the letters which he kept throughout his life.
 * In the afternoon, Evgenii Lifshitz would drop by Landau's place, and from behind the study's closed doors one could hear their loud arguments.

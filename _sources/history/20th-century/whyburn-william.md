@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * William attended Bethel School in the small settlement of Bethel which was situated near the present intersection of Bethel School Road and Moore Road to the east of Coppell.
 * This school, which had existed since 1858, only taught pupils up to the ninth grade so, in 1916, when William was not yet fifteen years old, he entered North Texas State College in Denton.
 * North Texas State College was a liberal arts college, mainly aimed at training teachers, but its President from 1906 to 1923 was William Hershel Bruce who had organised the starting of Bachelor of Arts and Bachelor of Science degree programmes in 1917-18.
-* Let us note that William Hershel Bruce was a mathematician who had been a mathematics professor at North Texas State College for five years before becoming President.
+* William Hershel Bruce was a mathematician who had been a mathematics professor at North Texas State College for five years before becoming President.
 * Whyburn studied at North Texas State College until 1920 when he went to the University of Texas in Austin.
 * We note that Clifton Thomas Whyburn studied mathematics and was awarded a Ph.D. in 1964 from The University of North Carolina at Chapel Hill.
 * Returning to our description of William Whyburn's career, after the award of his Master's degree he continued to study at University of Texas for his Ph.D. His thesis advisor was Hyman Joseph Ettlinger (1889-1986), who had been a student of G D Birkhoff, and Whyman was awarded a doctorate in June 1927 for his thesis Linear Boundary Value Problems for Ordinary Differential Equations and Their Associated Difference Equations.

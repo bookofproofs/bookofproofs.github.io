@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Craig was a pupil of David Gregory in Edinburgh.
 * As well as his life as Church of England clergyman, Craig also had a life as a mathematician.
 * Craig published several more papers on topics such as the logarithmic curve, the curve of quickest descent, and on the quadrature of figures.
-* a formula tantamount to a logistic model for posterior odds: that is, Craig's probability should be understood as the logarithm of the ratio of the probability of the historical testimony as received at the present time, given the historical hypothesis in question, to the probability of the same testimony, given the negation of that hypothesis.
+* Craig's probability should be understood as the logarithm of the ratio of the probability of the historical testimony as received at the present time, given the historical hypothesis in question, to the probability of the same testimony, given the negation of that hypothesis.
 * In 1718 Craig published a work on optics Quibus subjunguntur libri duo de optica analytica Ⓣ(Two books on the subject of analytical optics).
 * It is worth noting that despite using Leibniz's notation for the calculus in his earlier works, in this later one Craig used Newton's fluxion notation.
 * We left our description of Craig's church career at the point where he was vicar of Potterne in Wiltshire.

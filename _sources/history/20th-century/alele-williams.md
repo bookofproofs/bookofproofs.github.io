@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * But being appointed the first female vice chancellor of a Nigerian or an African university was barely the issue for Alele-Williams.
 * Mama Grace Alele-Williams opened her doors to everyone, treated students with respect, listened to what they had to say, encouraged academic freedom, victimized no one on account of holding contrary views and made the University of Benin a true place of learning.
 * Given her remarkable achievements, Alele-Williams received many awards and honours.
-* Let us note that Alele-Williams's birth place was Warri which was in Bendel State, but it is now Delta State.
+* Alele-Williams's birth place was Warri which was in Bendel State, but it is now Delta State.
 * On Saturday, 25 November 2017, Alele-Williams was awarded an honorary doctorate by the University of Benin.
 * On that day six eminent Nigerians were awarded honorary degrees, one of the six being Alele-Williams.
 

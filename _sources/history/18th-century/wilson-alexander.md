@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Soon after this Baine quit the partnership leaving Wilson the sole owner of the type foundry.
 * Despite his other scholarly activities which we will examine below, the firm run by Wilson in partnership with his sons continued to operate throughout his life.
 * He published A Specimen of some of the Printing Types Cast in the Foundry of Alexander Wilson and Sons in 1772 which provides a fine example of the capabilities of the firm.
-* In fact Alexander Wilson and Sons continued to be a thriving business after the death of its founder, a branch was set up in Edinburgh in 1832 and the headquarters moved from Glasgow to London in 1834.
+* Alexander Wilson and Sons continued to be a thriving business after the death of its founder, a branch was set up in Edinburgh in 1832 and the headquarters moved from Glasgow to London in 1834.
 * What were Wilson's 'other scholarly activities' we referred to above?
 * Melvill died in Geneva in 1753 at twenty-seven years of age and Wilson did not continue with the experiments on which they had collaborated.
 * In 1760, Wilson was appointed to the chair of astronomy in Glasgow University, holding the post until he resigned in 1784.

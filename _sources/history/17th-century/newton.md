@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Isaac was taken away from school but soon showed that he had no talent, or interest, in managing an estate.
 * This time he lodged with Stokes, who was the headmaster of the school, and it would appear that, despite suggestions that he had previously shown no academic promise, Isaac must have convinced some of those around him that he had academic promise.
 * Another piece of evidence comes from Isaac's list of sins referred to above.
-* which tells us that Isaac must have had a passion for learning.
 * We know nothing about what Isaac learnt in preparation for university, but Stokes was an able man and almost certainly gave Isaac private coaching and a good grounding.
 * There is no evidence that he learnt any mathematics, but we cannot rule out Stokes introducing him to Euclid's Elements which he was well capable of teaching (although there is evidence mentioned below that Newton did not read Euclid before 1663).
 * Anecdotes abound about a mechanical ability which Isaac displayed at the school and stories are told of his skill in making models of machines, in particular of clocks and windmills.

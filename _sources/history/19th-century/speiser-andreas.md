@@ -34,14 +34,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Speiser took over the course Introduction to Analysis which was the main course taken by mathematicians and physicists.
 * Paul Finsler was appointed to the University of Zürich in 1927 where he was Speiser's colleague for seventeen years.
 * Certainly one of Speiser's greatest mathematical achievements was his book on group theory, Die Theorie der Gruppen von endlicher Ordnung, mit Anwendungen auf algebraische Zahlen und Gleichungen sowie auf die Kristallographie Ⓣ(The theory of groups of finite order, with applications to algebraic numbers and equations, and to crystallography), which was published in 1923.
-* In fact Speiser's work on group theory had already led him to think more generally about symmetry and, in particular, to think about how mathematics related to many cultural activities throughout history.
+* Speiser's work on group theory had already led him to think more generally about symmetry and, in particular, to think about how mathematics related to many cultural activities throughout history.
 * Many of us have answered that the interaction was especially fostered by Andreas Speiser's early group theory textbook, 'Theorie der Gruppen von endlicher Ordnung'.
 * For, in all editions beginning with the second in 1927, Speiser included a large section dealing with the symmetries of ornament, in which he introduced us to the plane crystallographic groups using the notation of his colleague, Niggli.
 * This, combined with the thesis of his student Edith Müller on symmetries of ornaments in the Alhambra, as well as Speiser's other cultural writings, persuaded many of us that designers of ornament from ancient times had at least a subconscious understanding of basic ideas of group theory.
 * Speiser was, in the eyes of many, the first to make this connection.
 * Speiser worked on several different mathematical topics.
 * He was forced to give up the editorship in 1928 due to ill health and at that time Speiser took over the editorship.
-* In fact 35 volumes of the "Collected Works of Leonhard Euler" were published under Speiser's editorship.
+* 35 volumes of the "Collected Works of Leonhard Euler" were published under Speiser's editorship.
 * Habicht, who had studied for his doctorate at the Eidgenössische Polytechnikum Zürich, became a colleague of Speiser's in Basel in 1963.
 * Speiser wrote articles on diverse topics, several of which he reprinted in the book Die geistige Arbeit Ⓣ(The spiritual work) (1955) which contains lectures and essays from various topics in art, science, philosophy and theology.
 * A highlight of his mathematical life in Zürich was the International Congress of Mathematicians in 1932; Speiser was a Vice President.

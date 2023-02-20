@@ -40,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The American Mathematical Society honoured Keller by choosing him to be their Gibbs Lecturer in 1977, and the Society of Industrial and Applied Mechanics honoured him as their von Neumann Lecturer in 1983.
 * His outstanding contributions cover problems in mechanics, quantum mechanics, thermodynamics, and statistical mechanics, and include the so-called Keller-Maslov index, the Keller-Rubinov formula for forward scattering, and pioneering work on random media.
 * In 2007 the International Congress on Industrial and Applied Mathematics awarded its Lagrange Prize to Keller.
-* Finally let us note that Keller gives as his hobbies hiking and skiing.
 
 Born 31 July 1923, Paterson, New Jersey, USA. Died 7 September 2016, Palo Alto, California, USA.
 

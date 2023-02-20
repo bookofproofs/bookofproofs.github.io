@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Pauline was born in Peabody, northeastern Massachusetts, which is 27 km northeast of Boston.
-* In fact the town had been called South Danvers but it was renamed Peabody after the philanthropist George Peabody 17 years before Sperry was born.
+* The town had been called South Danvers but it was renamed Peabody after the philanthropist George Peabody 17 years before Sperry was born.
 * Since Sperry would turn out to be a philanthropist herself, there is a little coincidence here.
 * Sperry studied at Smith College which was a liberal arts college for women in Northampton, Massachusetts.
 * This College had a special place in Sperry's life and her undergraduate days there were very happy ones.

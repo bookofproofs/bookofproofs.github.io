@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He is the Ismael Boulliau of this biography.
-* Let us note that there was in Loudun an important circle of intellectuals of which Ismael Boulliau Senior was part.
+* There was in Loudun an important circle of intellectuals of which Ismael Boulliau Senior was part.
 * It was important for the young Ismael who attended these meetings and became acquainted with many leading men of the day.
 * Boulliau was brought up a Calvanist by two Calvanist parents.
 * It had been catalogued in 1622, ten years before Boulliau arrived in Paris, and Pierre and Jacques Dupuy travelled throughout France amassing books and manusctripts for the library.

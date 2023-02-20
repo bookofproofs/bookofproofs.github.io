@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * De Beaune did, however, publish some work for he produced the first important introduction to Descartes' cartesian geometry.
 * He wrote Notes brièves Ⓣ(Brief notes) which was published in 1649 as part of the first Latin edition of Descartes' La Géométrie.
 * Two other papers by de Beaune on algebra appeared as part of the second edition of La Géométrie.
-* In fact de Beaune and Descartes were good friends and corresponded frequently on mathematical topics.
+* De Beaune and Descartes were good friends and corresponded frequently on mathematical topics.
 * When he was very ill near the end of his life, de Beaune entrusted Bartholin with several manuscripts and asked him to arrange for their publication.
 * 'Doctrine de l'angle solide construit sous trois angles plans' for posthumous publication, but the treatise never found its way into print because of the complexity of its accompanying diagrams.
 * The treatise is of interest chiefly because it is a work of pure synthetic geometry consisting of some 125 propositions composed in the style of Euclid by one of the ablest practitioners of the new analytical art typified by the works of Descartes and Fermat.

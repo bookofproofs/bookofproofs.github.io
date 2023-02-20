@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His full name was Abu Abdallah Mohammad ibn Jabir ibn Sinan al-Raqqi al-Harrani al-Sabi al-Battani.
 * Al-Battani was born in Harran, called Carrhae in earlier times by the Romans, which lies on the Balikh River, 38 km southeast of Urfa.
-* In fact Thabit was also born in Harran and would have still have been living there at the time that al-Battani was born.
+* Thabit was also born in Harran and would have still have been living there at the time that al-Battani was born.
 * Al-Battani, unlike Thabit, was not a believer in the Sabian religion, however, for "Abu Abdallah Mohammad" indicates that he was certainly a Muslim.
 * Al-Battani made his remarkably accurate astronomical observations at Antioch and ar-Raqqah in Syria.
 * The town of ar-Raqqah, where most of al-Battani's observations were made, became prosperous when Harun al-Rashid, who became the fifth Caliph of the Abbasid dynasty on 14 September 786, built several palaces there.

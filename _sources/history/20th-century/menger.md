@@ -71,7 +71,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1948 Menger went to the Illinois Institute of Technology and he was to remain in Chicago for the rest of his life.
 * Menger was solicitous of students.
 * We have seen how Menger's interests extended beyond mathematics to philosophy and economics.
-* In fact ..., many important ideas of the Vienna Circle originated with Menger - though they are often attributed to others.
+* Many important ideas of the Vienna Circle originated with Menger - though they are often attributed to others.
 * Generally, Menger could be described as the most logical positivist of them all.
 
 Born 13 January 1902, Vienna, Austria. Died 5 October 1985, Chicago, Illinois, USA.

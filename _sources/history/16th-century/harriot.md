@@ -75,7 +75,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Harriot would suffer this "evil" for a further three years before the cancer took his life.
 * There are a few other major mathematical achievements due to Harriot which we should mention.
 * The loxodromes are the straight lines on the Mercator map, which Harriot computed with great precision.
-* In fact in order to achieve this degree of precision, Harriot introduced finite-difference interpolation.
+* In order to achieve this degree of precision, Harriot introduced finite-difference interpolation.
 * There is an interesting history to a problem which has only recently been solved, yet originated with Harriot.
 * Raleigh asked Harriot to solve certain problems regarding the stacking of cannonballs.
 * On a manuscript dated 12 December 1591 (Sunday), Harriot set out a table to answer Raleigh's questions.

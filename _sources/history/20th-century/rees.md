@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rees, however, had already formed the opinion that the lecturers at the College were not well enough qualified.
 * Appointed as an assistant teacher at Hunter High School, Rees continued her studies at Columbia University.
 * After receiving her M.A. in 1925, Rees returned to Hunter College where she was appointed to the post of instructor.
-* In fact Rees had some good fortune for, within a month of her arrival in Chicago, the new president of the University of Chicago, Robert Maynard Hutchins, was inaugurated.
+* Rees had some good fortune for, within a month of her arrival in Chicago, the new president of the University of Chicago, Robert Maynard Hutchins, was inaugurated.
 * Rees represented the Hunter College Mathematics Department at the inauguration and was a guest of honour at the dinner given by the Chicago Mathematics Department to celebrate the occasion.
 * Despite these difficulties, in 1931 Rees graduated with her doctorate for a thesis entitled Division algebras associated with an equation whose group has four generators.
 * Mina's thesis was finished in the spring of 1931.

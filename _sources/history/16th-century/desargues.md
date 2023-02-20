@@ -73,7 +73,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A vicious argument between Curabelle and Desargues followed with various pamphlets attacking each other and with Desargues threatening to sue Curabelle if he did not retract.
 * Desargues appears to have grown tired of the continuous battles he was involved in and, from 1645, turned to architecture.
 * Let us end this biography with two quotes regarding Desargues' mathematical contributions.
-* was due to Desargues.
 * In a work published in 1639 Desargues set forth the foundation of the theory of four harmonic points, not as done today but based on the fact that the product of the distances of two conjugate points from the centre is constant.
 
 Born 21 February 1591, Lyon, France. Died October 1661, Lyon, France.

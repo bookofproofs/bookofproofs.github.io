@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the University of Glasgow, Haldane took the standard course for at this time all university students basically studied the same subjects.
 * The chair had fallen vacant on the death of Nicholas Vilant on 25 May 1807 and had remained vacant until Haldane was appointed.
 * We have not included Haldane in this collection of biographies of mathematicians because of his expertise in mathematics.
-* In fact Haldane was appointed to the Regius Chair in preference to several other candidates who were in a different class to him as a mathematician.
+* Haldane was appointed to the Regius Chair in preference to several other candidates who were in a different class to him as a mathematician.
 * The two most mathematically talented of the candidates who were rejected in favour of Haldane were Wallace and Ivory.
 * Haldane applied for the Edinburgh Chair of Mathematics which was at that time considered the most prestigious mathematics chair in Scotland.
 * In the end it came down to a straight contest between Haldane and Wallace; Wallace was appointed by 18 votes to 10.

@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Their son, Michel Rocard was born on 23 August 1930.
 * Yves and Renée Rocard were divorced on 20 June 1963.
 * Returning to Rocard's academic career, in 1938 he was appointed as a lecturer in physics at the Faculty of Science at Clermont-Ferrand.
-* In fact this was to prove a significant time for Rocard in the development of his scientific ideas, for at this time he learnt that radars in England had been shown to have detected strong radio emission from the Sun.
+* This was to prove a significant time for Rocard in the development of his scientific ideas, for at this time he learnt that radars in England had been shown to have detected strong radio emission from the Sun.
 * After the war, Rocard returned to France and proposed that France set up a site to conduct radio astronomy.
 * Rocard was even able to get his hands on equipment to start off such a project, providing two German radar mirrors of 'Wurzburg' type each having a 7.5 meter diameter.
 * Using his wartime contacts, Rocard was able to give his scientists access to the Research Centre of the French Navy at Marcoussis.

@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The Mathematics Department of King's College was moved to Bristol, where Kneebone worked.
-* In fact 1943 was the year Kneebone was awarded his Ph.D. for his thesis The foundations of mathematics: A critical examination of the foundations of the mathematical theory of probability and statistics.
+* 1943 was the year Kneebone was awarded his Ph.D. for his thesis The foundations of mathematics: A critical examination of the foundations of the mathematical theory of probability and statistics.
 * was a mathematical study, but a remark in the Preface expressed a holistic view that stayed with Kneebone through his later work on the foundations of mathematics: 'mathematics itself cannot be regarded as something self-contained, but must be treated as an integral part of the whole body of possible knowledge'.
 * After the award of his thesis, in 1943 Kneebone was appointed as an assistant lecturer at Westfield College, part of the University of London.
 * When Kneebone joined the College, it was a women's college and had been since its founding in 1849.

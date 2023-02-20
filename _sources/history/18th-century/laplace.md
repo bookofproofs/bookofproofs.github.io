@@ -51,7 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The effect on his colleagues would have been only mildly eased by the fact that Laplace was right! Laplace had a wide knowledge of all sciences and dominated all discussions in the Académie.
 * Although Laplace soon returned to his study of mathematical astronomy, this work with Lavoisier marked the beginning of a third important area of research for Laplace, namely his work in physics particularly on the theory of heat which he worked on towards the end of his career.
 * In 1784 Laplace was appointed as examiner at the Royal Artillery Corps, and in this role in 1785, he examined and passed the 16 year old Napoleon Bonaparte.
-* In fact this position gave Laplace much work in writing reports on the cadets that he examined but the rewards were that he became well known to the ministers of the government and others in positions of power in France.
+* This position gave Laplace much work in writing reports on the cadets that he examined but the rewards were that he became well known to the ministers of the government and others in positions of power in France.
 * Laplace served on a committee set up to investigate the largest hospital in Paris and he used his expertise in probability to compare mortality rates at the hospital with those of other hospitals in France and elsewhere.
 * Laplace was promoted to a senior position in the Académie des Sciences in 1785.
 * Two years later Lagrange left Berlin to join Laplace as a member of the Académie des Sciences in Paris.

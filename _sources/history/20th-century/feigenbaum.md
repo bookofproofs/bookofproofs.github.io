@@ -23,10 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mitchell Feigenbaum** was an American mathematical physicist who discovered the so-called Feigenbaum constant in chaos theory.
 
 ### Mathematical Profile (Excerpt):
-* In fact up until the time he went to university Mitchell would not enjoy the company of his fellow pupils.
+* Up until the time he went to university Mitchell would not enjoy the company of his fellow pupils.
 * The school system seemed unable to provide Feigenbaum with the right stimulus for he tried as hard as he could to avoid classes despite making remarkable academic progress and scoring full marks in mathematics and science in the examinations covering the State.
 * Even when he went to Tilden High School in Brooklyn, a school with a fine reputation, Feigenbaum found the education there no more enjoyable, despite once again excelling in examinations.
-* In fact while at school Feigenbaum had usually learnt more in studying by himself than in the formal lessons.
+* While at school Feigenbaum had usually learnt more in studying by himself than in the formal lessons.
 * The machine came with a paper by Shannon on Boolean logic which fascinated Feigenbaum with his self-learning attitude.
 * In February 1960, at the age of sixteen, Feigenbaum entered the City College of New York.
 * It was while he was at MIT that Feigenbaum first used a computer but not as part of his studies there.

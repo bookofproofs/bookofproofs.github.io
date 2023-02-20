@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Straus quickly became enthusiastic about the algebra she was learning in his classes.
 * Straus graduated with a B.A. from the University of Toronto in 1947 and won a fellowship to attend graduate school at Harvard University.
 * Richard Brauer had given Straus a love of algebra but at Harvard she was assigned to Oscar Zariski who was working on algebraic geometry.
-* In fact Zariski had been appointed to the chair of mathematics at Harvard in 1947, the year in which Straus began her graduate studies there.
+* Zariski had been appointed to the chair of mathematics at Harvard in 1947, the year in which Straus began her graduate studies there.
 * Although when she arrived at Harvard, Straus had been expecting to study first for a Master's degree, then proceed to a Ph.D., in fact she somewhat lost confidence in herself in the highly charged competitive environment.
 * Marguerite sensed a grudging tolerance and disparagement in his glance, and she seemed to freeze in his presence.
 * Marguerite arranged to take classes in history and philosophy in Paris, France, back where she had spent the first eleven years of her life.

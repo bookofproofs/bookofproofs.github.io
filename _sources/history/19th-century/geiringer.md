@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Again of course, Geiringer had to learn another language in order to teach.
 * In addition to her lecturing duties at Bryn Mawr College, Geiringer undertook classified work for the National Research Council as part of the war effort.
 * Neyman, who himself had emigrated to the United States, wrote a report on Geiringer in April 1940, shortly after she arrived from Turkey.
-* and Mrs Geiringer does not belong in this category.
 * There were only two members of the mathematics faculty at Wheaton College and Geiringer longed for a situation where she was among mathematicians who were carrying out research.
 * For Geiringer who had been so discriminated against in Germany because of her Jewish background, to now be discriminated against because she was a woman must have been a difficult blow.
 * In 1953 von Mises died and the following year Geiringer, although retaining her job at Wheaton College, began to work at Harvard on editing von Mises' works.

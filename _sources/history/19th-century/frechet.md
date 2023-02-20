@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This parallel is drawn by Fréchet himself who requires sufficient structure on his abstract systems so that limits and continuity can be studied.
 * A versatile mathematician, Fréchet served as professor of mathematics at the Lycée in Besançon (1907-08), professor of mathematics at the Lycée in Nantes (1908-09), then professor of mechanics at the Faculty of Science in Poitiers (1910-19).
 * Fréchet had arranged to spend the academic year 1914-15 at the University of Illinois at Urbana in the United States and had accepted an appointment there for one year.
-* In fact there is evidence that Fréchet had arranged with some American mathematicians to publish his complete works if he did not survive the war.
+* There is evidence that Fréchet had arranged with some American mathematicians to publish his complete works if he did not survive the war.
 * Not only did he undertake this dangerous work during the war, but Fréchet continued to produce frequent mathematics papers.
 * For the period of the war Fréchet retained his post at the Faculty of Science in Poitiers despite not being able to teach there.
 * As he had been in earlier times, Fréchet was able to continue to produce a large research output despite heavy duties.

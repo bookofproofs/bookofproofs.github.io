@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hallerstein decided that this offer from India was what he wanted and, instead of going to China, he would accept Jai Singh's offer.
 * On 24 April 1736 both Hallerstein and Laimbeckhoven boarded the Saint Peter of Alkantar which, on the following day, set sail for Goa.
 * It was not until 11 May 1738 that Hallerstein left Goa sailing on to Malacca, then continuing to Macao which was reached on 4 September 1738.
-* after Hallerstein's arrival in Macao on 4 September 1938, the news that he was an excellent mathematician came quickly to Beijing, so the next year he was asked to come to Beijing, where the emperor Qianlong became fond of him and ordered him to become the aid of Ignatius Kögler (1680-1746).
+* After Hallerstein's arrival in Macao on 4 September 1938, the news that he was an excellent mathematician came quickly to Beijing, so the next year he was asked to come to Beijing, where the emperor Qianlong became fond of him and ordered him to become the aid of Ignatius Kögler (1680-1746).
 * Following Pereira's death in 1743, Hallerstein had become vice-president of the Board of Mathematics and the natural successor to Kögler.
 * In order to appreciate the conditions under which Hallerstein worked in China, we need to look a little at the background of the Jesuit mission to China.
 * Not only was there opposition to Hallerstein's religious mission but there was also opposition against Jesuits holding leading positions which the Chinese felt that they should have.

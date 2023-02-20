@@ -62,7 +62,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jacobi had frequently corresponded with Alexander von Humboldt.
 * Dirichlet's request to Friedrich Wilhelm IV, supported strongly by Alexander von Humboldt, was successful and Jacobi received a grant to allow him to spend time in Italy.
 * The climate in Italy did indeed help Jacobi to recover and he began to publish again, his health having prevented him working for some time before this.
-* In fact Jacobi's interests in mathematics were very wide and while in Rome he took the opportunity to satisfy his interest in the history of mathematics working on manuscripts of Diophantus's Arithmetica which were kept in the Vatican.
+* Jacobi's interests in mathematics were very wide and while in Rome he took the opportunity to satisfy his interest in the history of mathematics working on manuscripts of Diophantus's Arithmetica which were kept in the Vatican.
 * Lagrange's view that mechanics could be pursued as an axiomatic-deductive science forms the centre of Jacobi's criticism and is rejected on mathematical and philosophical grounds.
 * Jacobi's criticism is motivated by a changed evaluation of the role of mathematics in the empirical sciences.
 * As a consequence Jacobi's request to be allowed to join the staff of the University of Berlin was refused by the Prussian government.

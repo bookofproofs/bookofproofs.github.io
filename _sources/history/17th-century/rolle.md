@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Traité d'algèbre Ⓣ(Treatise on algebra) Rolle used the Euclidean algorithm to find the greatest common divisor of two polynomials.
 * Rolle then constructs the 'second cascade' which is the second derivative, and continues in this fashion.
 * Rolle's theorem, an important proposition of the calculus, also owes its origin to the method.
-* In fact Rolle is best remembered for 'Rolle's Theorem' which was published in Démonstration d'une Méthode pour resoudre les Egalitez de tous les degrez Ⓣ(Demonstration of a method for solving equations of all degrees) in 1691.
+* Rolle is best remembered for 'Rolle's Theorem' which was published in Démonstration d'une Méthode pour resoudre les Egalitez de tous les degrez Ⓣ(Demonstration of a method for solving equations of all degrees) in 1691.
 * The name 'Rolle's Theorem' was given to this basic result by Giusto Bellavitis in 1846.
 * In his 1691 work Rolle adopted the notion that if a>ba > ba>b then −b>−a-b > -a−b>−a.
 * Rolle published another important work on solutions of indeterminate equations in 1699, Méthode pour résoudre les équations indéterminées de l'algèbre Ⓣ(Method for solving indeterminate algebraic qquations).

@@ -23,9 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marinus** succeeded Proclus as head of the Academy at Athens. He published some work on astronomy.
 
 ### Mathematical Profile (Excerpt):
-* In fact when Proclus wrote a commentary on the Myth of Er, he dedicated it to Marinus.
+* When Proclus wrote a commentary on the Myth of Er, he dedicated it to Marinus.
 * Marinus succeeded Proclus as head of the Academy at Athens in 485.
-* In fact Marinus was a great believer in mathematics, something which he shared with fellow late Neoplatonists.
+* Marinus was a great believer in mathematics, something which he shared with fellow late Neoplatonists.
 * Although Marinus followed closely the views of his teacher, Proclus he did show originality which is much to his credit.
 * Yet when Marinus felt that Proclus was in error he was quite prepared to give his own views.
 * One concerns the Milky Way and Marinus discusses whether it is affected by precession.

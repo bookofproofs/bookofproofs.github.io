@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this volume Lalla examined topics such as: graphical representation; the celestial sphere; the principle of mean motion; the terrestrial sphere; motions and stations of the planets; geography; erroneous knowledge; instruments; and finally selected problems.
 * In Shishyadhividdhidatantra Lalla uses Sanskrit numerical symbols.
 * Lalla argues in his commentary, like many other Indian astronomers before him such as Varahamihira and Brahmagupta, that if the earth rotated then the speed would have to be such that one would have to ask how do the bees or birds flying in the sky come back to their nests?
-* In fact Lalla misinterpreted some of Aryabhata I's statements about the rotating earth.
+* Lalla misinterpreted some of Aryabhata I's statements about the rotating earth.
 * Lalla improved on these tables and he produced a set of corrections for the Moon's longitude.
 * One aspect of Aryabhata I's work which Lalla did follow was his value of π.
 * Lalla also wrote a commentary on Khandakhadyaka Ⓣ('edible bite' or 'morsel of food'), a work of Brahmagupta.

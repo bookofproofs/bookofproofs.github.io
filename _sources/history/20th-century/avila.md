@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Artur Ávila** is a Brazilian mathematician who has made deep contributions to dynamical systems theory which has transformed the subject. His work has been honoured with numerous prizes including a Fields Medal in 2014.
 
 ### Mathematical Profile (Excerpt):
-* In fact it was Raimundo who taught Artur to read and write when he was three years old and, as part of this, first introduced him to mathematics.
+* It was Raimundo who taught Artur to read and write when he was three years old and, as part of this, first introduced him to mathematics.
 * When he was six years old Artur began his schooling at Colégio de São Bento in Rio de Janeiro, a Benedictine school for boys.
 * Artur was rather bored by the lessons and looked to learn more by reading advanced books on his own.
 * It was his mathematics teacher at São Bento, Luiz Fabiano Pinheiro, who gave Artur his firm commitment to mathematics when he told him about the local junior Mathematical Olympiad competition and suggested he take part.

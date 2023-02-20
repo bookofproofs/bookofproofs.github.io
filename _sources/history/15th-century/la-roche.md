@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Because of where he lived when young, La Roche was sometimes known as 'Villefranche.' This is almost the total information about his life which is known.
-* It comes from the Lyon tax register of 1493, which also describes de la Roche as a qualified master of 'argorisms.' This is a rather unusual spelling of 'algorisms,' but let us note that de la Roche uses the same spelling 'argorisms' in his book.
+* It comes from the Lyon tax register of 1493, which also describes de la Roche as a qualified master of 'argorisms.' This is a rather unusual spelling of 'algorisms,' but de la Roche uses the same spelling 'argorisms' in his book.
 * De la Roche's date of birth is unknown, and the date we have given of 1470 is simply a guess based on the fact that he had to be old enough to be described as a qualified master of 'argorisms' by 1493.
 * At the time when de la Roche lived in Lyon it was the commercial capital of France so it is natural that someone living there would become interested in the mathematics of the time relevant to commerce.
 * La Roche taught commercial arithmetic in Lyon for 25 years.

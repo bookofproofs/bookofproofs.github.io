@@ -36,10 +36,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Of course usually mathematicians are delighted to see others using their results to push forward, and consider it a compliment if someone publishes a new proof of their results, but it seems to be the arrogant way that Landau did such things that annoyed his colleagues.
 * Landau also criticised proofs of theorems published by Blaschke, again saying that the proofs were unnecessarily complicated.
 * Despite having friends who were well informed as to what the Nazis might do if they came to power, Landau failed to recognise the danger.
-* In fact before any official work reached Göttingen from the Ministry, the Dean wrote to Landau on 28 April asking him not to give his summer lecture courses and these were given instead by Landau's assistant.
+* Before any official work reached Göttingen from the Ministry, the Dean wrote to Landau on 28 April asking him not to give his summer lecture courses and these were given instead by Landau's assistant.
 * Having received no further advice from the university authorities, Landau decided to give his autumn lectures as advertised.
 * Teichmüller, as leader of the students, had organised the boycott of Landau's lectures.
-* In fact Teichmüller went to Landau's office after the boycott and explained that it was not the work of any organised group.
+* Teichmüller went to Landau's office after the boycott and explained that it was not the work of any organised group.
 * Landau then asked Teichmüller to put this in writing and he included it with his request to the Ministry that he be retired.
 * Landau was given permission on 19 November to work at Groningen, in the Netherlands, and the permission was later extended to allow him to remain there for the winter semester.
 * Landau's main work was in analytic number theory and the distribution of primes.

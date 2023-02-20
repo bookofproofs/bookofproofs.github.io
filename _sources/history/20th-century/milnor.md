@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The paper came as the result of the differential geometry course Milnor attended given by Albert Tucker.
 * In the lectures Karol Borsuk's question on the total curvature of a knotted curve was mentioned and Milnor solved the problem "after a few days thought".
 * In particular he played Kriegspiel (a game of blindfold chess), Go and Nash (a game invented by John Nash and now called Hex).
-* In fact John Nash was at Princeton during these years and Milnor and Nash often talked about game theory.
+* John Nash was at Princeton during these years and Milnor and Nash often talked about game theory.
 * Milnor's next paper, written while he was undertaking research, was Sums of positional games (1953).
 * This was only one of several papers that Milnor published in 1953.
 * In 1954 Milnor received his doctorate for his 44-page thesis Isotopy of Links written under Ralph Fox's supervision.

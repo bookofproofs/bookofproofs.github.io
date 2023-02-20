@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite appearing in the middle of a war zone, the city was peaceful and it is doubtful whether the young Boscovich was aware of the fighting.
 * The first education that Boscovich received was from the local priest who taught him the basics of reading and writing.
 * Boscovich left Dubrovnik on 16 September 1725, crossed the Adriatic, then travelled by stage-coach to Rome.
-* In fact the year 1740 also marked the advent of a new Pope, Benedict XIV, and he would soon involve Boscovich in important roles.
+* The year 1740 also marked the advent of a new Pope, Benedict XIV, and he would soon involve Boscovich in important roles.
 * In 1742 Boscovich was asked to give an opinion on the cracks which had been evident in the dome of St Peter's for many years.
 * (Poleni was also consulted about the problem and gave the same advice.) The Pope was well pleased with Boscovich's advice and he was given various other architectural tasks.
 * Boscovich was the first to give a procedure to compute a planet's orbit from three observations of its position and he also gave a procedure for determining the equator of a planet from three observations of a surface feature.

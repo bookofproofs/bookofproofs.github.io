@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * White did attend one of Klein's courses from the time he arrived, however, taking the slightly less advanced course on potential theory.
 * White's other task was to use this semester to learn background on abelian functions so that he could start Klein's three semester course on that topic in the next academic year.
 * White's doctorate was awarded for the thesis Abelsche Integrale auf singularitätenfreien, einfach überdeckten, vollständigen Schnittkurven eines beliebig ausgedehnten Raumes  in 1891.
-* In fact White returned to the United States in March 1890, before completing his doctorate, to take up a temporary position in a school attached to Northwestern University in Evanston, Illinois.
+* White returned to the United States in March 1890, before completing his doctorate, to take up a temporary position in a school attached to Northwestern University in Evanston, Illinois.
 * The University hired some excellent mathematicians, and there White became a colleague of Story and Bolza.
 * White began teaching advanced courses in his area of research interest, in particular on algebraic geometry, projective geometry, and invariant theory.
 * Nine of the eleven members of faculty left Clark including both  White and Bolza.

@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wilks had written to many American Universities while in England but all had replied that no position was available.
 * However, Luther Eisenhart, Head of Mathematics at Princeton, Dod Professor of Mathematics and Dean of the Graduate School, was keen to start up a programme in mathematical statistics and probability theory and was persuaded by Harold Hotelling, who knew Wilks well, to offer Wilks an instructorship in mathematics at Princeton.
 * At first Wilks taught the usual mathematics courses that instructors are assigned to teach, namely calculus and analytic geometry.
-* In fact Wilks had planned to visit the National University in Santiago for a semester and gives lectures in South America but increasing involvement in war work meant he could not carry out this plan.
+* Wilks had planned to visit the National University in Santiago for a semester and gives lectures in South America but increasing involvement in war work meant he could not carry out this plan.
 * Wilks's work was all on mathematical statistics.
 * In 1941 Wilks developed his theory of 'tolerance limits'.
 * The annual Wilks Memorial Award (consisting of a medal, a citation and a cash honorarium) was established by the American Statistical Association in 1964.

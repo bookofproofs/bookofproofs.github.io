@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The first question that the reader will naturally ask, therefore, is why Jimmie Savage is named Savage.
-* In fact the reason he was called 'Jimmie Savage' is even more complicated.
+* The reason he was called 'Jimmie Savage' is even more complicated.
 * However, the name 'Jimmie' stuck and he was known as Jimmie as he was growing up.
 * Many years later, when Jimmie was undertaking classified war work, he had his name legally changed from Leonard Ogashevitz to Leonard Jimmie Savage.
 * Although known as Jimmie all his life, he wrote his papers under the name Leonard Savage.

@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1905 Lebesgue gave a deep discussion of the various conditions Lipschitz and Jordan had used in order to ensure that a function f(x)f (x)f(x) is the sum of its Fourier series.
 * What Lebesgue was able to show was that term by term integration of a uniformly bounded series of Lebesgue integrable functions was always valid.
 * What made the new definition important was that Lebesgue was able to recognise in it an analytic tool capable of dealing with - and to a large extent overcoming - the numerous theoretical difficulties that had arisen in connection with Riemann's theory of integration.
-* In fact, the problems posed by these difficulties motivated all of Lebesgue's major results.
+* The problems posed by these difficulties motivated all of Lebesgue's major results.
 * Lebesgue held his post at the Sorbonne until 1918 when he was promoted to Professor of the Application of Geometry to Analysis.
 * It is interesting that Lebesgue did not concentrate throughout his career on the field which he had himself started.
 * This was because his work was a striking generalisation, yet Lebesgue himself was fearful of generalisations.

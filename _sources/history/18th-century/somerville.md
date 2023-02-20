@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After this Mary returned to her home in Burntisland but she began to educate herself by reading every book that she could find in her home.
 * In order that she might learn the correct skills for a young lady, Mary was sent to a school in Burntisland where she was taught needlework.
 * Mary balanced her life between the social life expected of a young lady at this time and her own private study.
-* In fact it was through Nasmyth that Mary first became interested in mathematics.
+* It was through Nasmyth that Mary first became interested in mathematics.
 * There was another quite different reason why Mary became interested in studying algebra.
 * Mary became so engrossed in mathematics that her parents worried that her health would suffer because of the long hours of study that she put in, usually during the night.
 * However Samuel was in the Russian navy and Mary's parents did not allow the marriage to take place until Greig received an appointment in London, for they did not want Mary to go to Russia.

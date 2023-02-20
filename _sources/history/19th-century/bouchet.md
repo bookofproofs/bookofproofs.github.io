@@ -26,8 +26,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * William Bouchet was born in South Carolina, but moved to New Haven where he worked as a slave for a plantation owner.
 * At this time there was total segregation in school education and Edward Bouchet attended the first school in New Haven for African Americans, the Artisan Street Colored School.
 * Bouchet attended this school until 1866 when he entered New Haven High School.
-* In fact Sarah Wilson played an important role in Bouchet's career since she encouraged him to learn and to make the most of his obviously exceptional academic abilities.
-* In fact, Edward Bouchet was not the first African American student at Yale, the first being Richard Henry Green who graduated in 1857.
+* Sarah Wilson played an important role in Bouchet's career since she encouraged him to learn and to make the most of his obviously exceptional academic abilities.
+* Edward Bouchet was not the first African American student at Yale, the first being Richard Henry Green who graduated in 1857.
 * Edward Bouchet entered Yale College in September 1870 and graduated summa cum laude with a B.A. in 1874.
 * The Yale chapter of Phi Beta Kappa had been inactive for a few years so Bouchet was not elected Phi Beta Kappa until 1884.
 * George Washington Henderson (1850-1936) of the University of Vermont was elected Phi Beta Kappa in 1877 so the delay at Yale meant that Bouchet was denied the honour of being the first African American Phi Beta Kappa.

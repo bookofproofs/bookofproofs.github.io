@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By April 1861 the civil war had broken out and by February 1862 McClintock felt that he had to return to support his country.
 * By the time McClintock returned to the United States the South had already introduced conscription and the Union was encouraging volunteers for military service although they had not yet introduced conscription.
 * McClintock immediately decided to volunteer for the Union army and was offered a post as a second lieutenant in the Topographical Engineers.
-* In fact McClintock was for many years the leading actuary in America.
+* McClintock was for many years the leading actuary in America.
 * In 1889 when McClintock took up his actuarial post with the Mutual Life Insurance Company in New York, the New York Mathematical Society was just coming into existence.
 * McClintock joined the Society in December 1889 and was elected vice-president of the Society.
 * During McClintock's presidential term, Klein visited the Society and talked on non-euclidean spherical trigonometry.

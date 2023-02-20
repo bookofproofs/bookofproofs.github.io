@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Santaló left Madrid and returned to his home town of Girona where he joined the Republican air force.
 * By early 1939 the Republicans were defeated and Santaló together with many of his fellow soldiers and civilian refugees, escaped from Barcelona to France.
 * Santaló was now one of around 500,000 Spanish refugees in France but they were not welcomed there, especially the Republican soldiers.
-* In fact Santaló was sent to a concentration camp at Argeles sur Mer but managed to escape to Colliure from where he wrote to Rey Pastor and Blaschke asking for help.
+* Santaló was sent to a concentration camp at Argeles sur Mer but managed to escape to Colliure from where he wrote to Rey Pastor and Blaschke asking for help.
 * Santaló knew that many of his fellow Republicans had, after fleeing to France, been shipped to South America.
 * On arrival he was met by another Spanish mathematician, Manuel Balanzat (1912-1994), who had arrived in Argentina after a similar experience to Santaló, having fled to France at the end of the Spanish Civil War and from there sailing to Argentina.
 * Julio Rey Pastor had arranged for Balanzat to meet Santaló when his ship arrived in Buenos Aires.

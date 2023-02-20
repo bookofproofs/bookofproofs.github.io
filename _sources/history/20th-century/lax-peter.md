@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Together with Phillips, Lax developed a broad theory of scattering and described the long-term behaviour of solutions (specifically, the decay of energy).
 * Let us now look briefly at some books which Lax wrote.
 * Following up on a hint in Gelfand's address to the 1962 Stockholm International Congress, they showed that the Lax-Phillips scattering theory, applied to the wave equation appropriate to hyperbolic space, is a natural tool in the theory of automorphic functions.
-* In fact the use of scattering theory for automorphic functions was studied by Lax and Phillips in Scattering theory for automorphic functions (1976).
+* The use of scattering theory for automorphic functions was studied by Lax and Phillips in Scattering theory for automorphic functions (1976).
 * However, Lax published other books between these two texts on scattering theory.
 * In 1970 Lax and Glimm published Decay of solutions of systems of nonlinear hyperbolic conservation laws, a difficult work which requires familiarity with earlier work of both authors.
 * SIAM published Lax's Hyperbolic systems of conservation laws and the mathematical theory of shock waves  in their Conference Series in Applied Mathematics in 1973.

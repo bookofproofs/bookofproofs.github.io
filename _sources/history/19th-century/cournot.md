@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was not the easiest of occupations for Cournot who was finding difficulties with his vision both in his secretarial work and in his university studies.
 * Poisson was impressed with Cournot and, in 1833, he obtained a position for him with the Academy in Paris.
 * Again with Poisson's recommendation, Cournot was appointed to a newly created chair in analysis at Lyon in 1834.
-* In fact Cournot had begun publishing papers on mechanics before he submitted his thesis.
+* Cournot had begun publishing papers on mechanics before he submitted his thesis.
 * On 24 October 1835 Cournot became professor of mathematics at Grenoble and rector there.
 * He replaced Louis Antoine Stanislas Ferriot (1779-1859) who had himself replaced Armand Berroyer, who had taught Cournot mathematics at Besançon.
 * This work makes Cournot a pioneer of mathematical economics, 25 years before Stanley Jevons.

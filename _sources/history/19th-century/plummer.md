@@ -38,8 +38,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Irish War of Independence then broke out and Plummer, who was a gentle, peace-loving man, shut himself up in the Dunsink Observatory, reluctant to even venture into Dublin.
 * Plummer wrote a number of books.
 * While looking at the books Plummer wrote, we should explain briefly about The Correspondence of Isaac Newton.
-* In fact Plummer had agreed to undertake on the editorship of Isaac Newton's correspondence in 1938 but was still working on the project when he died in 1946.
-* In fact four further volumes were published, the seventh in 1978, exactly 40 years after Plummer took on the task.
+* Plummer had agreed to undertake on the editorship of Isaac Newton's correspondence in 1938 but was still working on the project when he died in 1946.
+* Four further volumes were published, the seventh in 1978, exactly 40 years after Plummer took on the task.
 * The Royal Astronomical Society elected Plummer as their president in 1939 and he served in this role until 1941.
 * No one was awarded a medal that year and Plummer spoke on The Development of the Vertical Telescope.
 * The Royal Astronomical Society had elected Plummer as a Fellow on 8 December 1899.

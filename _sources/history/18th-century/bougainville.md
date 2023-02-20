@@ -29,11 +29,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Académie des Sciences noticed the work in January 1753.
 * This work led to Bougainville's election to the Royal Society of London in 1756.
 * Bougainville then gave up mathematics.
-* he went to Canada as aide-de-camp to Gen.
 * Louis-Joseph de Montcalm and distinguished himself against the British in the French and Indian War.
 * In 1766 the French government commissioned Bougainville to sail round the world.
 * Bougainville had an open mind on the question of a southern continent.
-* if any considerable land existed hereabouts we could not fail meeting with it.
 * In November 1766, accompanied by naturalists and other scientists, Bougainville sailed from Nantes in the frigate La Boudeuse.
 * He put into Brest for repairs and set off again on 5 December.
 * He called in at Rio de Janeiro and there met up with his supply ship.

@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Shimura presented his paper On complex multiplications to the International Symposium and, probably as a result of meeting Weil, Shimura received an invitation from him in 1956 to spend the academic year 1957-58 in Paris.
 * The Paris trip was memorable for Shimura.
 * At the end of his ten-month Paris visit, Shimura spent seven months at the Institute for Advanced Study at Princeton.
-* In fact Weil had been appointed as a professor at Princeton so Shimura remained in contact with Weil during this visit.
+* Weil had been appointed as a professor at Princeton so Shimura remained in contact with Weil during this visit.
 * The opportunity arose when André Weil visited Japan in 1961 and Shimura asked him if it would be possible to find a position for him in the United States.
 * Weil arranged a position at Princeton and, in September 1962, Shimura returned to Princeton but this time he was attached to the University, not the Institute for Advanced Study where he had spent time earlier in his career.
 * Shimura's next book Abelian varieties with complex multiplication and modular functions (1998) was an expanded edition of his 1961 text Complex multiplication of abelian varieties and its applications to number theory co-authored with Yutaka Taniyama.

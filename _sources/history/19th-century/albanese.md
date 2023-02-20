@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His name is remembered today for Albanese varieties used as a standard tool in algebraic geometry.
 * In other notes from 1924-1927 Albanese proved sufficient conditions for a surface to be rational; he resolved the problem of the base for the curves on a surface and undertook a general study of the geometry of manifolds.
 * This was in the years in which Albanese became professor of geometry at the University of Catania, going later to Palermo and then to Pisa.
-* Let us look briefly at Albanese's paper Sulle condizioni perchè una algebraica riducible si possa considerare come limite di una curva irreducible Ⓣ(On the conditions that a reducible algebraic curve can be considered as the limit of an irreducible curve) (1928).
+* Albanese published a paper Sulle condizioni perchè una algebraica riducible si possa considerare come limite di una curva irreducible Ⓣ(On the conditions that a reducible algebraic curve can be considered as the limit of an irreducible curve) (1928).
 * The reason Albanese was sent to Brazil in 1936 was as part of the move to establish universities there.
 * Albanese spent the rest of his life in São Paulo, holding the chair of Analytical, Projective and Descriptive Geometry, except for the year 1942 when he returned to Pisa because of World War II.
 * Soon after the war ended, Albanese, who was by then back in São Paulo, became closely acquainted with André Weil, who taught there from 1945 to 1947.

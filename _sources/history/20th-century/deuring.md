@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Deuring's 'greatest mathematical idea' which we referred to above was an idea on how to generalise Hasse's result but to do this he had to introduce a radically new approach.
 * Deuring was in Leipzig in 1936, having failed to be accepted at Göttingen in the previous year as we explained above.
 * What Deuring had found was a way to approach extending Hasse's results from curves of genus 1, the elliptic curves, to curves of higher genus.
-* In fact it was neither Hasse nor Deuring who finally proved the result which both were trying to obtain.
+* It was neither Hasse nor Deuring who finally proved the result which both were trying to obtain.
 * However Deuring presented his new ideas on the algebraic theory of correspondences in two papers, both of which were published by Crelle's journal.
 * The generalisation of the Riemann hypothesis to function fields of arbitrary genus was first achieved by André Weil in 1948, but he did so using Deuring's theory of correspondences.
 * Deuring continued to produce important papers.

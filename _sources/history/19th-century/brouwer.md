@@ -78,7 +78,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In particular he used simplicial approximation, which approximated continuous mappings by piecewise linear ones.
 * He also introduced the idea of the degree of a mapping, generalised the Jordan curve theorem to nnn-dimensional space, and defined topological spaces in 1913.
 * Van der Waerden, in the above quote, said that Brouwer would not lecture on his own topological results since they did not fit with mathematical intuitionism.
-* In fact Brouwer is best known to many mathematicians as the founder of the doctrine of mathematical intuitionism, which views mathematics as the formulation of mental constructions that are governed by self-evident laws.
+* Brouwer is best known to many mathematicians as the founder of the doctrine of mathematical intuitionism, which views mathematics as the formulation of mental constructions that are governed by self-evident laws.
 * His doctrine differed substantially from the formalism of Hilbert and the logicism of Russell.
 * His doctoral thesis in 1907 attacked the logical foundations of mathematics and marks the beginning of the Intuitionist School.
 * His views had more in common with those of Poincaré and if one asks which side of the debate between Russell and Poincaré he came down on then it would have with the latter.

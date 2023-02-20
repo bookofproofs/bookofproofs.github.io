@@ -50,18 +50,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The atmosphere in Göttingen had proved very helpful to Aleksandrov, particularly after the death of Urysohn, and he went there every summer from 1925 until 1932.
 * Of course Aleksandrov also taught in Moscow University and from 1924 he organised a topology seminar there.
 * At Göttingen, Aleksandrov also lectured and participated in Emmy Noether's seminar.
-* In fact Aleksandrov always included Emmy Noether and Hilbert among his teachers, as well as Brouwer in Amsterdam and Luzin and Egorov in Moscow.
+* Aleksandrov always included Emmy Noether and Hilbert among his teachers, as well as Brouwer in Amsterdam and Luzin and Egorov in Moscow.
 * From 1926 Aleksandrov and Hopf were close friends working together.
 * Then Aleksandrov and Hopf spent the academic year 1927-28 at Princeton in the United States.
 * This was an important year in the development of topology with Aleksandrov and Hopf in Princeton and able to collaborate with Lefschetz, Veblen and Alexander.
 * During their year in Princeton, Aleksandrov and Hopf planned a joint multi-volume work on Topology the first volume of which did not appear until 1935.
-* In fact before the joint work with Hopf appeared in print, Aleksandrov had begun yet another important friendship and collaboration.
+* Before the joint work with Hopf appeared in print, Aleksandrov had begun yet another important friendship and collaboration.
 * The year 1929 marks not only the beginning of the friendship with Kolmogorov but also the appointment of Aleksandrov as Professor of Mathematics at Moscow University.
 * In 1935 Aleksandrov went to Yalta with Kolmogorov, then finished the work on his Topology book in the nearby Crimea and the book was published in that year.
 * Here is the house owned since 1935 by Aleksandrov and Kolmogorov.
 * In 1938-1939 a number of leading mathematicians from the Moscow University, among them Aleksandrov, joined the Steklov Mathematical Institute of the USSR Academy of Sciences but at the same time they kept their positions at the University.
 * Aleksandrov wrote about 300 scientific works in his long career.
-* in swimming across the Volga or other broad stretches of water, in skiing excursions lasting for hours on the slopes outside Moscow, slopes to which Aleksandrov gave striking, fantastic names...
 * Many honours were given to Aleksandrov for his outstanding contribution to mathematics.
 * Many other societies elected Aleksandrov to membership including the Göttingen Academy of Sciences, the Austrian Academy of Sciences, the Leopoldina Academy in Halle, the Polish Academy of Sciences, the National Academy of Sciences of the United States, the London Mathematical Society, the American Philosophical Society, and the Dutch Mathematical Society.
 * After Aleksandrov's death in November 1982, his colleagues from the Department of Higher Geometry and Topology, in which he had held the chair, sent a letter to Moscow University's rector A A Logunov proposing that one of Aleksandrov's former students should become Head of the Department, to preserve Aleksandrov's scientific school.

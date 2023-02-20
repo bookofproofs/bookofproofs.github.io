@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We discuss this second phase in the article Bourbaki: the post-war years.
 * In particular Roger Godement, Pierre Samuel, Jacques Dixmier and Jean-Pierre Serre joined Bourbaki in the late 1940's.
 * Armand Borel first became acquainted with the Bourbaki team in 1949.
-* a Bourbaki member is supposed to take an interest in everything he hears.
+* A Bourbaki member is supposed to take an interest in everything he hears.
 * These chapters set up the basic properties of integration theory which, as far as Bourbaki is concerned, means integration on locally compact spaces.
 * The "third generation" of Bourbaki members joined around the time that the project to produce the six books was well on its way to completion.
 * Bourbaki will always remain young and lively; like mankind he renews himself constantly.

@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Alberti made numerous innovations in his design with the traditional division into nave and aisles discarded in favour of providing a continuous space.
 * There is certainly a mathematical flavour to the way that Alberti has sequences of small and large chapels alternating along the sides of the main space.
 * In addition to the Church of S Andrea, Mantua, Alberti had earlier articulated the facade of the Santa Maria Novella in Florence, which he began work on in 1447, and the Palazzo Rucellai, mentioned in the quote of Gombrich above.
-* In fact Alberti wrote some autobiographical notes which survive in which he boasts of his physical abilities.
+* Alberti wrote some autobiographical notes which survive in which he boasts of his physical abilities.
 * Even if untrue, these delightful quotes tell us much of Alberti's personality.
 
 Born 18 February 1404, Genoa, French Empire (now Italy). Died 3 April 1472, Rome, Papal States (now Italy).

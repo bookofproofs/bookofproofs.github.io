@@ -24,7 +24,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * At the time Bordoni was born the town belonged to Savoy.
-* During his time at the military school Bordoni published a number of mathematical works including: Memorie matematiche: 1, sopra le trasformazioni delle equazioni: Sopra l'integrazione delle equazioni a differenze finite e parziali delle funzioni a piu variabili Ⓣ(Mathematical Memoirs: 1, the transformation of the equation: On the integration of equations in finite differences and partial of the more variable functions) (1808); Nuovo rapporto tra la teoria del centro di gravita e quella della composizione delle forze Ⓣ(New relationship between the theory of the centre of gravity and the composition of forces) (1810); Memoria matematica dedicata al sig.
+* During his time at the military school Bordoni published a number of mathematical works including: 
+  * "Memorie matematiche: 1, sopra le trasformazioni delle equazioni: Sopra l'integrazione delle equazioni a differenze finite e parziali delle funzioni a piu variabili" Ⓣ(Mathematical Memoirs: 1, the transformation of the equation: On the integration of equations in finite differences and partial of the more variable functions) (1808); 
+  * "Nuovo rapporto tra la teoria del centro di gravita e quella della composizione delle forze" Ⓣ(New relationship between the theory of the centre of gravity and the composition of forces) (1810); 
+  * "Memoria matematica dedicata al sig. dottor Vincenzo Brunacci ..." (1810)
+  * "Sopra l'equilibrio di un poligono qualunque" Ⓣ (1814); 
+  * "Nuovi teoremi di meccanica elementare" Ⓣ (1815); 
+  * "Dell'ombra del toro, dell'ovolo dello spaccato di una volta emisferica e della scozia" Ⓣ (1815); and 
+  * "De' contorni delle ombre ordinarie" Ⓣ (1816).
 * At Pavia, Bordoni joined the other Chairs in Mathematics, namely Marchesi in Architecture, Lotteri in Preliminary Calculus, and Gratognini in Mechanics, Statics, Hydrodynamics, Hydraulics (Applied Mathematics).
 * Bordoni began to study differential geometry as early as the 1820s.
 * When Bordoni was appointed to the University of Pavia, Mathematics was part of the Faculty of Philosophy.

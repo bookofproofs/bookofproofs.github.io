@@ -65,7 +65,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These culminated in a series of articles in the 'Nieuw Tijdschrift voor Wiskunde' (New Journal of Mathematics), which were later collected, together with some other items, in a three volume publication entitled 'Historische Studien' (1926).
 * De Vries wrote in the introduction that he wanted to focus attention on the historical development of very precisely defined topics, even specific problems or theorems.
 * He knew how to give fascinating talks about the origins of Analytical Geometry, the misunderstood 'Rough draft for an essay on the results of taking plane sections of a cone' of Desargues, the brilliant young man Blaise Pascal, and especially about Gaspard Monge, who as a student at the École Militaire, using some simple constructions, solved an important problem ...
-* and had thereby also invented Descriptive Geometry!  All these issues De Vries treated in his Historical Studies in his own entertaining and vivid way.
 * He made many a witty remark 'en passant'.
 * Hendrik de Vries and Gerrit Mannoury had reached retirement age.
 * Brouwer, as director of the Institute, addressed them in the name of the faculty, and Max Euwe spoke on behalf of the students.

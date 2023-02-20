@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After his year in Germany, Fekete returned to Budapest where he taught in secondary schools for eighteen years.
 * Michael and Dora Fekete had two sons but, sadly, Dora died in 1922.
 * During these years in which he was a school teacher, Fekete also taught at the university as a docent.
-* In fact Fekete had taught von Neumann while he was still at school as he had been employed as a private tutor.
+* Fekete had taught von Neumann while he was still at school as he had been employed as a private tutor.
 * By this time Fekete had already published about 20 papers, but this was von Neumann's first paper published only one year after he completed his studies at the Gymnasium.
 * This paper looked at the transfinite diameter of a set, a concept which Fekete worked on throughout the rest of his career.
 * Fekete emigrated in 1928 when he became a lecturer at the Hebrew University of Jerusalem.

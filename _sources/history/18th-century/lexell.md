@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lexell's work in mathematics is mainly in the area of analysis and geometry.
 * Lexell made a detailed investigation of exact equations differential equations.
 * Lexell made major contributions to spherical geometry and trigonometry.
-* In fact trigonometry was the main tool used by Lexell in his work on polygonometry.
+* Trigonometry was the main tool used by Lexell in his work on polygonometry.
 * Specific problems which Lexell studied in astronomy were his calculation of the solar parallax and his calculation of the orbits of several comets.
 * Lexell found that it had a period of five and a half years which made it the first comet to be discovered with a short period.
 * He observed it pass close to Jupiter and its moons and since the moons were unaffected Lexell deduced that, despite the large size of comets, their mass was extremely low.

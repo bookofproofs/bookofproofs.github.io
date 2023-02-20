@@ -55,7 +55,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second example that we shall give to illustrate Shen's mathematics is that of a pile of unit sized items.
 * Shen does not specify what the items are, but leaves the formula general, he takes them to be of unit volume and also neglects (deliberately) volumes left between the items.
 * In his astronomical work Shen had to convert from coordinates given in equatorial form to those given in ecliptic form.
-* In fact Shen demonstrated a remarkable ability to view spatial arrangements and he gave an approximate formula for the length of a circular arc in terms of the cord subtending the arc.
+* Shen demonstrated a remarkable ability to view spatial arrangements and he gave an approximate formula for the length of a circular arc in terms of the cord subtending the arc.
 * Shen's work in astronomy is remarkable in many ways.
 * Unlike Greek astronomers who tried to explain all motions as circular, Shen proposed that planets moved in a willow leaf motion composed with circular motion round the earth.
 * In addition to Brush talks from Dream Brook Shen wrote Supplement to Brush Talks and Sequel to Brush Talks.

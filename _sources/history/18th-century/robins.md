@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Robins also published Remarks on M Euler's Treatise of Motion in 1739.
 * Robins' attacks on Walpole meant that after Walpole was removed from office in 1741, Robins was in favour with the Tory Party and he was appointed as secretary to a secret committee set up to investigate Walpole's conduct.
 * The Royal Military Academy was founded at Woolwich, in south-east London, in 1741 with the purpose of educating "good officers of artillery and perfect engineers." Robins was a candidate for the position of professor of fortification at the Academy but failed to be appointed; the post was given to a Mr Muller.
-* it has been said that Mr Robins published his discoveries and improvements in gunnery, to show, it was thought, what sort of man had been overlooked on that occasion.
+* It has been said that Mr Robins published his discoveries and improvements in gunnery, to show, it was thought, what sort of man had been overlooked on that occasion.
 * The work Robins published in 1742 was New Principles of Gunnery which formed the basis for all subsequent work on the theory of artillery and projectiles.
 * The work grew out of a course Robins intended to give, but changed his mind on not being appointed to the new Royal Military Academy.
 * This, and other work by Robins, would influence not only the British military but also that of other European countries.

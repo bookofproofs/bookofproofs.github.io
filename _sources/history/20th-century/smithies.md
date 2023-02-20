@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Frank Smithies Senior was an engineer who was a staunch trade union man with strong Socialist views.
-* In fact it was their Socialist involvement which led to their meeting after Frank Senior moved to Edinburgh in 1907.
+* It was their Socialist involvement which led to their meeting after Frank Senior moved to Edinburgh in 1907.
 * Roberts was so impressed by Frank that he accepted him free of charge.
 * Roberts did an excellent job and ensured that Frank was in a good position to take the entrance examination for Edinburgh University in March 1927.
 * This is particularly significant since Smithies developed a love of the history of mathematics and made many excellent contributions which we discuss towards the end of this biography.

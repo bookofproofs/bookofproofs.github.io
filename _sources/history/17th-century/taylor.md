@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Taylor also corresponded with de Moivre on probability and at times there was a three-way discussion going on between these mathematicians.
 * Between 1712 and 1724 Taylor published thirteen articles on topics as diverse as describing experiments in capillary action, magnetism and thermometers.
 * Taylor added to mathematics a new branch now called the "calculus of finite differences", invented integration by parts, and discovered the celebrated series known as Taylor's expansion.
-* In fact the first mention by Taylor of a version of what is today called Taylor's Theorem appears in a letter which he wrote to Machin on 26 July 1712.
+* The first mention by Taylor of a version of what is today called Taylor's Theorem appears in a letter which he wrote to Machin on 26 July 1712.
 * In this letter Taylor explains carefully where he got the idea from.
 * It was, wrote Taylor, due to a comment that Machin made in Child's Coffeehouse when he had commented on using "Sir Isaac Newton's series" to solve Kepler's problem, and also using "Dr Halley's method of extracting roots" of polynomial equations.
 * Taylor initially derived the version which occurs as Proposition 11 as a generalisation of Halley's method of approximating roots of the Kepler equation, but soon discovered that it was a consequence of the Bernoulli series.

@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aleksandr Nekrasov** was a Russian mathematician who applied mathematics to hydromechanics and aeromechanics.
 
 ### Mathematical Profile (Excerpt):
-* In fact Nekrasov worked for a Master's degree in both astronomy and mechanics and he qualified for these in 1909 and 1911.
+* Nekrasov worked for a Master's degree in both astronomy and mechanics and he qualified for these in 1909 and 1911.
 * The two scientists who most influenced Nekrasov most were Zhukovsky and Chaplygin.
 * Zhukovsky and Chaplygin set up the Central Aerohydrodynamic Institute in 1918 where Nekrasov worked.
 * After Zhukovsky died in 1921 Chaplygin and Nekrasov continued to build on the foundations which he had put in place.

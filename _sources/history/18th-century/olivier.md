@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Olivier became a professor at the École Centrale des Arts et Manufactures when it opened in the Hôtel de Juigné in the Marais district of Paris in 1829.
 * In his role as professor Olivier lectured on descriptive geometry and mechanics.
 * From the 1840's Olivier wrote textbooks.
-* In fact Olivier earned quite a good income from selling these models, particularly in the United States.
+* Olivier earned quite a good income from selling these models, particularly in the United States.
 * Other institutions in the United States such as the Columbia School of Mines also purchased models from Olivier while Princeton had copies of Olivier's models made for them.
 * In 1849 Olivier presented a full set of the range of models he had created to the Conservatoire National des Arts et Métiers.
 * In 1857, four years after Olivier died, Harvard University purchased 24 of Olivier's models from Fabre de Lagrange and after the university received the order Benjamin Peirce gave a series of lectures on the mathematics which they illustrated.

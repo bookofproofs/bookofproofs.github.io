@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Herzberger had to decide which industry would suit him best with his outstanding mathematical skills, yet with a lack of laboratory experience and a dislike of the chemistry practical work that he had experienced at university.
 * His attempt to habilitate at the University of Jena in 1930 was rejected by the Thuringian Ministry, despite strong support from the Jena faculty, almost certainly because Herzberger was Jewish.
 * However, worse was to follow for Herzberger.
-* In fact Herzberger was the only mathematician dismissed from the University of Jena under the 1933 Civil Service Law.
+* Herzberger was the only mathematician dismissed from the University of Jena under the 1933 Civil Service Law.
 * In 1962 Herzberger was awarded the Frederic Ives Medal by the Optical Society of America.
 * In the citation for the award, Herzberger's achievements are described.
 * Dr Herzberger, with the algebraic approach, has the ambition to make clear the entire phenomena of optical imagery in such a manner that the required lens design will follow logically and even obviously from prescribed performance requirements.

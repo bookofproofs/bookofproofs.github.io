@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We note that Alexander Crum Brown was the Professor of Chemistry at Edinburgh, while John Hutton Balfour was the Professor of Botany.
 * In 1880 Macfarlane was appointed as temporary professor of physics at the University of St Andrews, a position he held for a year.
 * In 1885 Macfarlane was appointed to the chair of physics at the University of Texas in Austin, Texas, United States.
-* In fact Macfarlane's appointment came through his correspondence with Halsted on the algebra of logic.
+* Macfarlane's appointment came through his correspondence with Halsted on the algebra of logic.
 * Macfarlane read the paper On the definitions of the trigonometric functions to the International Mathematical Congress in Chicago in August 1893.
 * In 1894, Macfarlane resigned his chair of physics at the University of Texas.
 * Macfarlane was appointed to Mathematical Physics and organised the programme from 1895 to 1897.

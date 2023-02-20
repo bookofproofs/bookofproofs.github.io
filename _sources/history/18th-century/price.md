@@ -34,9 +34,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In May 1770 Price wrote to the Royal Society explaining how to calculate the values of contingent reversions.
 * Price seemed to be well aware that the recently established insurance and benefit societies were basing the calculations of their policies on erroneous theory.
 * We know that Price's scientific interests were very broad.
-* In fact Joseph Priestley, the discoverer of oxygen, was a friend of Price.
+* Joseph Priestley, the discoverer of oxygen, was a friend of Price.
 * They were both ordained to the Dissenting ministry and Priestley frequently visited Price in Newington Green.
-* in 1776 Price published a pamphlet Observations on Civil Liberty and the War with America.
+* In 1776 Price published a pamphlet Observations on Civil Liberty and the War with America.
 * It is said that the Declaration of Independence of the Thirteen Colonies made on 4 July 1776 was influenced by Price's pamphlet.
 * Sarah Price died in 1786 and by this time Price's health was deteriorating.
 * The Unitarian Society was established in 1791, shortly before Price's death, and he became a founder member.

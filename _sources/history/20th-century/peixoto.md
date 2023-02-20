@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 2010 Peixoto was 89 years old.
 * In that year Marcelo Viana, the director of the Institute of Pure and Applied Mathematics, wanted to select Peixoto's most important articles and publish them in a book.
 * Peixoto suggested that Viana wait for a few years since he felt the work he was doing at the time should be included.
-* In fact Peixoto published four papers in 2011 and his final paper was published in 2014.
+* Peixoto published four papers in 2011 and his final paper was published in 2014.
 
 Born 15 April 1921, Fortaleza, Ceará, Brazil. Died 28 April 2019, Rio de Janeiro, Brazil.
 

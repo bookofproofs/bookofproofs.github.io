@@ -33,9 +33,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The plane, a twin-engine Beechcraft, piloted by Gregory Rudolph crashed while attempting to land at Cedar City Airport.
 * Dan Rudolph spent 23 years at the University of Maryland where he was appointed as a full professor in 1985.
 * Before 1991, Rudolph would work at the university all day and then spend his evenings with friends or participating in his modern dance.
-* In fact he would often perform with modern dance companies and a friend even choreographed a duet dedicated to Rudolph's parents entitled 'For Bill and Johnalou' in which he starred.
+* He would often perform with modern dance companies and a friend even choreographed a duet dedicated to Rudolph's parents entitled 'For Bill and Johnalou' in which he starred.
 * Rudolph published two important books.
-* In fact Janet Whalen Kammeyer was Rudolph's first Ph.D. student, writing her thesis Classifying the two point extensions of Bernoulli Z actions at the University of Maryland and receiving the degree in 1988.
+* Janet Whalen Kammeyer was Rudolph's first Ph.D. student, writing her thesis Classifying the two point extensions of Bernoulli Z actions at the University of Maryland and receiving the degree in 1988.
 * In 2005 Rudolph was appointed to the Albert C Yates Endowed Chair in Mathematics in the College of Natural Sciences of Colorado State University.
 
 Born 3 October 1949, Sheridan, Wyoming, USA. Died 4 February 2010, Fort Collins, Colorado, USA.

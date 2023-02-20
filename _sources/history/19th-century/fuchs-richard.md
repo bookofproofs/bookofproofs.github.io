@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fuchs was sent to the German Research Institute for Aviation in Adlershof near Berlin.
 * Fuchs contributed to the first of these two areas making studies of the mechanics of flight, in particular studying longitudinal and lateral stability of the aircraft and well as wing theory.
 * In addition to his position at the Technische Hochschule Berlin-Charlottenburg, from 1922 to 1936 Fuchs also worked at the German Research Institute for Aviation in Berlin-Adlershof where he had carried out war work during the 1914-18 war.
-* Let us note that one of Fuchs' publications relating to his work at the Institute for Aviation was Berechnung der Luftkräfte in der Flugtechnik mittels der Theorie der Funktionen einer komplexen Veränderlichen Ⓣ(Calculation of air forces in aeronautical engineering by means of the theory of functions of a complex variable) (1928).
+* One of Fuchs' publications relating to his work at the Institute for Aviation was Berechnung der Luftkräfte in der Flugtechnik mittels der Theorie der Funktionen einer komplexen Veränderlichen Ⓣ(Calculation of air forces in aeronautical engineering by means of the theory of functions of a complex variable) (1928).
 * Fuchs was a half-Jew so certainly came under the non-Aryan definition of the Civil Service Law but he had served in the 1914-18 war so came under the exemption clause.
 
 Born 5 December 1873, Greifswald, Prussia now Germany. Died 28 December 1944, Bad Doberan, near Rostock, Germany.

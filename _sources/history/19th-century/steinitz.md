@@ -48,8 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Steinitz has deliberately kept away from special figures, save as examples, since they have been fully treated in such works as Brückner's 'Vielecke und Vielflache'.
 * Steinitz introduces polyhedra from many different aspects: metrical, combinatorial, topological, analytical, projective and axiomatic.
 * Steinitz defines a "K-polyhedron" as a Eulerian polyhedron with the property that whenever two faces have two vertices in common, the join of these vertices is an edge.
-* Finally let us mention some of Steinitz's other mathematical contributions.
-* In fact, perhaps surprisingly, it was in the context of his work on series that he set out what today is often called the 'Steinitz replacement theorem' for vector spaces.
 
 Born 13 June 1871, Laurahütte, Silesia, Germany (now Siemianowice Śląskie, Poland). Died 29 September 1928, Kiel, Germany.
 

@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mostowski however remembered Rasiowa's impressive work and persuaded her to return to the University of Warsaw to complete a second Master's Thesis under his supervision.
 * Rasiowa was promoted steadily, reaching the rank of Professor in 1957 and Full Professor in 1967.
 * Of course Rasiowa's work on algebraic logic was in precisely the right area to make her a natural contributor to theoretical computer science.
-* In fact in 1984 Rasiowa introduced an important concept of inference where the basic information was incomplete.
+* In 1984 Rasiowa introduced an important concept of inference where the basic information was incomplete.
 * Rasiowa wrote over 100 papers, books and monographs.
 * Rasiowa remained active right up to her death, having completed eight chapters of a new monograph Algebraic analysis of non-classical first order logics before entering hospital with her final illness.
 

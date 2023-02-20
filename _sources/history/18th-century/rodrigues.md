@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We certainly know that he did not use his first name Benjamin and was known as Olinde Rodrigues.
-* In fact Olinde was not one of his given names.
+* Olinde was not one of his given names.
 * At this point Olinde was added to Rodrigues names.
 * Sometimes in later life he used the name Benjamin-Olinde.
 * Olinde entered the Lycée Impérial (now the Lycée Louis-le-Grand) in Paris.

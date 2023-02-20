@@ -51,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He gave tables of all these six functions in this major work which was completed and published in 1596 by Valentine Otho many years after Rheticus's death.
 * Otho had studied at Wittenberg and then set out to visit Rheticus in a similar way to that in which Rheticus himself had visited Copernicus.
 * Given the dramatic and eventful life that Rheticus led it is interesting to think about his personality.
-* one were to point to the single most prominent trait in Rheticus's personality, based upon the tone of his writings, the testimonies of his contemporaries, and his own life activities, one would have to seize upon his great energy and intensity - whether in the vitality of his work, in his widespread travels, or in his evident pursuit to lay to rest something inside himself.
 
 Born 16 February 1514, Feldkirch, Austria. Died 4 December 1574, Kassa, Hungary (now Kosice).
 

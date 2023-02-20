@@ -69,7 +69,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Talbot took up his position there, it was still named Morgan College and only in 1975, two years before he retired, did it become a university with the right to award doctorates.
 * After moving to Baltimore, Talbot lived at 4902 Pilgrim Road.
 * The situation for African-Americans began to improve during Talbot's time at Morgan College.
-* In fact Talbot was on the American Mathematical Society Committee on Legal Aid in 1977.
+* Talbot was on the American Mathematical Society Committee on Legal Aid in 1977.
 * More than any other single individual, it was Talbot's leadership, guidance, organizational skills, and networking skills that raised funds for the establishment of NAM.
 * Mrs Cynthia Harvey, an assistant professor, said "Dr Talbot provided excellent leadership for the department by getting new faculty involved with student activities.
 * He encouraged them to expand their horizons.

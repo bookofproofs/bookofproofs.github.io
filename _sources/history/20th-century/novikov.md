@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Novikov showed, in 1952, that the word problem for groups is insoluble.
 * The problem was first posed by Dehn in 1912 and Novikov was able to show that no such algorithm exists in general.
 * Novikov was awarded the Lenin Prize in 1957 for this outstanding piece of work.
-* In fact Boone published another proof of this result in 1957, the same year that Novikov received his prize.
+* Boone published another proof of this result in 1957, the same year that Novikov received his prize.
 * The word problem was not the only problem of major importance in combinatorial group theory which Novikov solved.
 * Although in 1959 Novikov announced that for every n>71n > 71n>71 there exists a finitely generated infinite group with every element of order dividing nnn, his proof was not quite correct.
 * Novikov's argument of 1959 was correct in general terms but the details were not, and in putting the arguments right it was found that one required larger values of nnn.

@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The next day Erhard Schmidt started his lecture with a protest against this dismissal and even Bieberbach, who later made himself a shameful reputation as a Nazi, came out in Schur's defence.
 * Schur went on quietly with his work on algebra at home.
 * Schur saw himself as a German, not a Jew, and could not comprehend the persecution and humiliation he suffered under the Nazis.
-* In fact Schur's dismissal was revoked and he was able to carry out some of his duties for a while.
+* Schur's dismissal was revoked and he was able to carry out some of his duties for a while.
 * By November 1933 when Walter Ledermann took his Staatsexamen  he was examined by Schur together with Bieberbach who was wearing Nazi uniform.
 * There were invitations to Schur to go to the United States and to Britain but he declined them all, unable to understand how a German was not welcome in Germany.
 * For example Ledermann obtained a scholarship to go to St Andrews in Scotland in the spring of 1934 and he tried unsuccessfully to persuade Schur to join him in St Andrews.

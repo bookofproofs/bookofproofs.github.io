@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The project was completed by 1655 and the results published by Riccioli in Geographiae Hydrographiae Reformatae (1661).
 * Although a theologian, Riccioli had always felt that his main work and publications should be on astronomy.
 * This made Riccioli very angry and one might suppose that this would have made him think again about his wholehearted support for the position the Inquisition took over Galileo.
-* In fact it was quite the reverse and, after this, Riccioli went even further in condemning Galileo than the Inquisition had done - his views seem to become more and more hardened against Galileo.
+* It was quite the reverse and, after this, Riccioli went even further in condemning Galileo than the Inquisition had done - his views seem to become more and more hardened against Galileo.
 * Riccioli's book defended the doctrine of the Immaculate Conception of Mary against a Dominican who had rejected it.
 * However, Riccioli went ahead and published the papal infallibility book with an altered permission to print, thus angering the Dominican inquisitor at Bologna.
 * Riccioli published another astronomy book, Astronomia reformata (1665) dedicated to Ferdinand, Duke of Bavaria.

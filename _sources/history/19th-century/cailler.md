@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * After graduating from secondary school, he entered the Faculty of Sciences of the University of Geneva where he worked under the direction of professors Charles Cellérier (1818-1889) and Gabriel Oltramare (1816-1906).
-* In fact Cailler's thesis was on this topic of calculus of generalisation.
+* Cailler's thesis was on this topic of calculus of generalisation.
 * By the age of twenty-two Cailler was a doctor of mathematical sciences having submitted the thesis Recherches sur les équations aux dérivées partielles et sur quelques points du calcul de généralisation Ⓣ(Research on partial differential equations and on some points of the generalization calculation).
 * After graduating from the University of Geneva with his doctorate, Cailler undertook postdoctoral studies at the University of Berlin where he spent two years.
 * At this time Berlin was a remarkable place to study mathematics with mathematicians such as Karl Weierstrass, Leopold Kronecker and Lazarus Fuchs, the latter having replaced Eduard Kummer who had retired a few years before Cailler arrived.

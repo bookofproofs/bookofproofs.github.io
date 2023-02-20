@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A few more details help to complete a picture of Bennett.
 * Note also an article entitled Wari by Bennett in Robert Sutherland Rattray's book Religion & Art in Ashanti published in 1927 in which he gives the rules and some strategies of the African game of owari.
 * Perhaps it is worth noting, as a partial defence of Bennett, that a Google Book Search for "G T Bennett" "Emmanuel College" yields around 200 hits.
-* Finally let us note that when Robert Macmillan went to Emmanuel College in 1941, he came to know Bennett for a short while (Bennett died while Macmillan was studying at the College).
+* When Robert Macmillan went to Emmanuel College in 1941, he came to know Bennett for a short while (Bennett died while Macmillan was studying at the College).
 * Bennett was popularly known then as "Beaver" Bennett, because he had a formidable white beard in his old age.
 
 Born 30 June 1868, Clerkenwell, Middlesex, England. Died 11 October 1943, Cambridge, England.

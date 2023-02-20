@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning to New York from San Francisco, Smullyan studied mathematics and logic on his own and it was at this time that he began to compose chess puzzles.
 * Although Smullyan had not heard of retrograde analysis at this time, such a field of chess problems did exist.
 * It sounds as if such a problem could not be solved, and this is exactly the type of problem that Smullyan liked.
-* In fact his magic act was very popular and Smullyan, although basically a shy man, gave a wonderful amusing and entertaining act as Five Ace Merrill, with hilariously funny patter.
+* His magic act was very popular and Smullyan, although basically a shy man, gave a wonderful amusing and entertaining act as Five Ace Merrill, with hilariously funny patter.
 * One of Smullyan's teachers at the University of Chicago had been Rudolf Carnap, the famous logician and philosopher of Logical Positivism.
 * He now recommended Smullyan for a mathematics post at Dartmouth College, the liberal arts college in Hanover, New Hampshire.
 * Smullyan had no formal qualifications at this time but was already working on mathematical research for future publications.

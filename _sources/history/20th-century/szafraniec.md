@@ -29,8 +29,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The co-workers and former students of Professor Szafraniec may be found in all major Kraków universities.
 * Szafraniec worked at the Jagiellonian University in Kraków for his whole career.
 * Professor Szafraniec's interests and activities in the mathematical world, together with his capability of co-operating, bears fruit in many publications which encompasses numerous joint papers with dozens of mathematicians.
-* In fact MathSciNet lists 123 items by Szafraniec (in July 2013), 36 of which are papers presented at conferences.
-* In fact Szafraniec has written 24 joint papers with Jan Stochel (as of July 2013).
+* MathSciNet lists 123 items by Szafraniec (in July 2013), 36 of which are papers presented at conferences.
+* Szafraniec has written 24 joint papers with Jan Stochel (as of July 2013).
 * Szafraniec has been as editor for the Proceedings of the semester long workshop Linear operators held in Warsaw in the Spring of 1994.
 * Szafraniec retired from his professorship at the Jagiellonian University in 2010 when he reached the age of seventy.
 

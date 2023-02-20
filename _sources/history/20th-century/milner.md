@@ -33,9 +33,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Milner took a lot of persuading but eventually decided that he would give it a try.
 * While he had been a student at King's College, London, Milner had met Esther Stella Lawton (known as Estelle).
 * We see that despite Milner having been doing research on quantum mechanics while in London, he had becoame interested in number theory at the University of Malaya.
-* In fact Milner's first research paper was the joint publication Generalized decimals (1955) with Oppenheim.
+* Milner's first research paper was the joint publication Generalized decimals (1955) with Oppenheim.
 * Milner's interest in number theory and combinatorial set theory was greatly increased by Paul Erdős who made several visits to Singapore.
-* In fact it may have been Erdős's influence which finally convinced Milner that a university career in mathematics was right for him.
+* It may have been Erdős's influence which finally convinced Milner that a university career in mathematics was right for him.
 * Certainly it was through a suggestion by Erdős that Milner spent his sabbatical leave, 1958-59, at the University of Reading with Richard Rado.
 * Milner knew Rado well from his time at King's College, London, and Rado had moved to Reading to take up the chair of mathematics there in 1954.
 * Another strong influence on Milner's career was Andras Hajnal whom he met in Reading in 1958.

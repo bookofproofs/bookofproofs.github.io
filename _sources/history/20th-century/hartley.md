@@ -30,14 +30,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hartley loved sports, particularly cycling and running.
 * There were different aspects to liking these sports for Brian.
 * There was yet another aspect that Brian loved which was his natural competitive spirit so that when he was at school he enjoyed both the training and the competition that came from being a member of the cross-country team.
-* In fact Hartley was awarded two scholarships to attend university, a State Scholarship based on his outstanding results in the General Certificate of Education Advanced Level papers, and a Major Scholarship in Natural Sciences at King's College, Cambridge, won in examinations taken in December 1956.
+* Hartley was awarded two scholarships to attend university, a State Scholarship based on his outstanding results in the General Certificate of Education Advanced Level papers, and a Major Scholarship in Natural Sciences at King's College, Cambridge, won in examinations taken in December 1956.
 * At this stage Hartley entered a Mathematics Faculty which was full of world-leading researchers.
 * There was Abram Besicovitch, who retired one year after Hartley began his studies and was replaced as Rouse Ball Professor of Mathematics by Harold Davenport.
 * At a dance at Christmas 1960, Hartley met Mary E Mawer.
 * Let us return to pick up the story of Hartley's Cambridge career.
 * In December 1961, while only beginning to undertake research, Hartley was elected to a Research Fellowship at Clare College.
 * Hartley's 127-page Ph.D. thesis The stability group of a series of subgroups was submitted in 1964 but before that, in May 1963, he had submitted a paper jointly written with Philip Hall, with the same title as his thesis to the London Mathematical Society.
-* In fact Hartley's first published paper was The order-types of central series which appeared in 1965.
+* Hartley's first published paper was The order-types of central series which appeared in 1965.
 * Hartley spent the year 1964-65 in Chicago which at that time was a world centre for algebra with many leading ring theorists on the staff such as Adrian Albert, Yitz Herstein, Irving Kaplansky, who was the departmental chairman, and Saunders Mac Lane.
 * Although in a different area of group theory from Hartley, John Thompson was also at Chicago and had just gained world fame with his 1963 paper, written with Walter Feit, proving all nonabelian finite simple groups were of even order.
 * During the year in Chicago, Hartley enjoyed the music scene, both classical and jazz, and continued his love of the outdoors learning to ski and going on camping holidays.
@@ -54,7 +54,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ravello is a stunningly beautiful town on the Amalfi coast and Brian loved being there.
 * In Ravello, Brian told me about the NATO Advanced Study Institute on Finite and Locally Finite Groups he was helping to organise in Istanbul, Turkey, which was be held in August of that year.
 * It was a great shock to me to hear of Brian's death just over a month after he returned from the Istanbul conference.
-* In fact Brian died walking in the hills that he loved.
+* Brian died walking in the hills that he loved.
 * There was a mountain in northern England that Brian always wanted to climb, namely Helvellyn, and he decided to try it before he got too old.
 * The picture of Brian Hartley above was taken in August 1993 at the Groups Galway / St Andrews Conference, held in Galway, Ireland.
 

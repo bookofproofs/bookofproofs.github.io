@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hamming is best known for his work on error-detecting and error-correcting codes.
 * Hamming codes, Hamming distance and Hamming metric are standard terms used today in coding theory but they are also used in many other areas of mathematics.
 * How did Hamming come to do this work?
-* In fact it was in 1947 when Hamming set computers at Bell Labs to work on a particular problem over the weekend.
+* It was in 1947 when Hamming set computers at Bell Labs to work on a particular problem over the weekend.
 * Hamming thought out a way not only to determine if a single error had occurred but also, by adding extra parity checks, to detect where it had occurred.
 * Work in codes is related to packing problems and the error-correcting codes discovered by Hamming led to the solution of a packing problem for matrices over finite fields.
 * In 1956 Hamming worked on the early computer, the IBM 650.

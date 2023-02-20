@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from St Petersburg in 1889, writing a dissertation on Bernoulli numbers, Voronoy decided to remain there and work for his teaching qualification.
 * Voronoy lectured at Warsaw University, being appointed professor of pure mathematics there in 1894.
 * Voronoy then discussed Jacobi's generalisation, after which he went on to look at generalisations due to Poincaré and Hurwitz.
-* In fact both Voronoy's master's thesis and his doctoral thesis were of such high quality that they were awarded the Bunyakovsky prize by the St Petersburg Academy of Sciences.
+* Both Voronoy's master's thesis and his doctoral thesis were of such high quality that they were awarded the Bunyakovsky prize by the St Petersburg Academy of Sciences.
 * Later Voronoy worked on the theory of numbers, in particular he worked on algebraic numbers and the geometry of numbers.
 * In considering tessellations, Voronoy introduced what are today called Voronoi diagrams or Voronoi tessellations.
 * In 1904 Voronoy attended the Third International Congress of Mathematicians at Heidelberg.

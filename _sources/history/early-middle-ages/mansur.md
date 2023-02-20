@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Seventeen works have survived and they show that Abu Nasr Mansur was an extremely able astronomer and mathematician.
 * Of Abu Nasr Mansur's works seven are on mathematics, the rest are on astronomy.
 * Many of Abu Nasr Mansur's works were dedicated to his student al-Biruni.
-* In fact al-Biruni himself lists twelve works which he says Abu Nasr Mansur dedicated to him (although some historians read al-Biruni's words as meaning that he wrote the works himself, but this interpretation seems highly unlikely).
+* Al-Biruni himself lists twelve works which he says Abu Nasr Mansur dedicated to him (although some historians read al-Biruni's words as meaning that he wrote the works himself, but this interpretation seems highly unlikely).
 * The first such work which Abu Nasr Mansur dedicated to al-Biruni was written around 997, soon after the civil war had disrupted their work.
 * In his own writings al-Biruni sometimes quotes results due to Abu Nasr Mansur which he says he worked on at al-Biruni's request.
 * Abu Nasr Mansur's main achievements are his commentry on the Spherics of Menelaus, his role in the development of trigonometry from Ptolemy's calculation with chords towards the trigonometric functions used today, and his development of a set of tables which give easy numerical solutions to typical problems of spherical astronomy.

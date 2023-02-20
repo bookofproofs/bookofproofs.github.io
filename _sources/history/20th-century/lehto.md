@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Lehto had permanent positions in Helsinki, from 1948 to 1983 he spent a total of ten years as a visiting professor abroad at institutions in the United States, India, Israel, and Japan.
 * There are other important contributions that Lehto has made to mathematics.
 * Yet throughout, the International Mathematical Union has sponsored international congresses around the world, and Professor Lehto's gripping story is one of individuals, among them many of the great mathematicians of our century, united in the common purpose of advancing their science, told against the backdrop of world events.
-* Let us note that Lehto served as Chairman of the Finnish Mathematical Society from 1962 to 1985.
+* Lehto served as Chairman of the Finnish Mathematical Society from 1962 to 1985.
 * Throughout his career, Lehto has received honours and prizes which recognise his outstanding contributions.
 * Lehto is one of the most internationally renowned mathematicians in Finland and an active writer on the topic of the history of science.
 * Finally, let us return to something we mentioned near the beginning of this biography, namely Lehto's love of butterflies.

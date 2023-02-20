@@ -43,10 +43,9 @@ contributors: @Elizabeth-Lewis,bookofproofs
 * It seems unlikely, therefore, that Terrot was ever a member of staff at the Academy.
 * Perhaps the obituarist had misinterpreted Terrot's influence on young Thomson.
 * Charles Hughes Terrot, D.D., elected in 1857 'Primus' of the Scottish Episcopal Church, and whose quaint little figure, with shovel-hat and knee-breeches, was long familiar in the streets of Edinburgh.
-* few men were more esteemed and respected by others than Dr. Terrot of the Episcopal Church.
+* Few men were more esteemed and respected by others than Dr. Terrot of the Episcopal Church.
 * It is possible that Terrot provided Thomson with private tuition in mathematics.
 * From the time of his fellowship at Trinity, Terrot had supplemented his income by taking on pupils for private tuition.
-* so large an advance has been at once made to Mr. Terrot's salary, making it higher than any clergyman of the chapel ever received before with the view of securing his undivided attention to his duties of minister of the chapel.
 * Terrot was known to have had a close association with Archdeacon William's successor as Rector of the Edinburgh Academy, Dr John Hannah (1818-1888) who was a former Fellow of Lincoln College, Oxford.
 * The two men lived near to each other and Dr. Hannah took great pleasure in familiarizing Terrot with 'Oxford forms of thought' at a time when the philosopher, Sir William Hamilton was promoting communication between Edinburgh and Oxford.
 * The two were also connected through the  RSE: Hannah was elected a Fellow in March 1848, having been proposed by Terrot in the January.

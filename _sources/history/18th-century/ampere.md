@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was a difficult time for Ampère since Julie became ill before he made the move to Bourg leaving her at Poleymieux.
 * While Ampère was in Bourg he spent much time teaching physics and chemistry but his research was in mathematics.
 * Laplace noticed an error, explaining the error to Ampère in a letter, which Ampère was able to correct and the treatise was reprinted.
-* In fact the treatise was modified a number of times and Ampère was reluctant to call it completed for fear that further changes might be required.
+* The treatise was modified a number of times and Ampère was reluctant to call it completed for fear that further changes might be required.
 * After a year in Bourg, Ampère moved closer to Poleymieux being appointed to a mathematics position at the Lycée in Lyon on Delambre's recommendation.
 * Like a number of other mathematicians, Ampère seemed able to concentrate on his theorems despite the personal tragedy around him and, sadly, this would be required of him throughout his unhappy life.
 * Although Ampère gradually adjusted to the priority disputes and infighting of the Parisian scientific community, he always longed for a return to the intellectual life he experienced in Lyon.

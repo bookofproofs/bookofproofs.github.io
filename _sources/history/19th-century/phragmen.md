@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was proof-reading papers for Acta Mathematica that first brought Phragmén to international recognition.
 * Phragmén found one dubious point after another.
 * However Phragmén found more problems with the paper and eventually, after the paper had been printed, it had to be withdrawn and completely rewritten by Poincaré.
-* In fact one of the points which Phragmén questioned prompted Poincaré to take the first steps in chaos theory.
+* One of the points which Phragmén questioned prompted Poincaré to take the first steps in chaos theory.
 * In 1892 Phragmén obtained a permanent position at Stockholm when he was appointed to succeed Sofia Kovalevskaya.
 * In 1904 Phragmén resigned his chair at the university and, from that time, he worked for the state run Royal Inspection of Insurance Companies becoming director and head of the department of insurance in the following year.
 * The mathematical result for which Phragmén is best remembered today is the Phragmén-Lindelöf principle.

@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Balogh had fallen in love with the university and so when he was offered a tenure track position there he decided that he would not return to Hungary as he had originally planned but he would accept the permanent position at Miami University.
 * Balogh had always known that his health might let him down again and indeed it did in the summer of 1999.
 * Balogh certainly did not ease up following this major stroke for he continued to undertake research with three papers appearing in print in 2001 and a further three in 2002.
-* In fact six papers by Balogh appeared in print in 2003 and later, submitted for publication before his death.
+* Six papers by Balogh appeared in print in 2003 and later, submitted for publication before his death.
 
 Born 7 December 1953, Debrecen, Hungary. Died 19 June 2002, Oxford, Ohio, USA.
 

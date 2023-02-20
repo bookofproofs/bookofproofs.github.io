@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mahalanobis was the first head of the Department of Statistics but, in 1945, he gave up this position and Bose became the Head.
 * Despite publishing a host of outstanding papers, Bose had never taken a doctorate and, in order to become a professor, he now required to rectify that.
 * Invitations came for Bose to spend time as a visiting professor in the United States.
-* In fact, Bose's name is an integral part of the terms BCH codes, Bose-Mesner algebra, and the like, and he was one of "Euler's spoilers".
+* Bose's name is an integral part of the terms BCH codes, Bose-Mesner algebra, and the like, and he was one of "Euler's spoilers".
 * First of we note that a BCH code is a Bose-Chaudhuri-Hocquenghem error correcting code, discovered in 1960.
 * After taking up the position at Chapel Hill in 1949, Bose remained on the staff there until he retired in August 1971.
 * After he retired in 1971, Bose was appointed Professor of Mathematics and Statistics at Colorado State University, Fort Collins.

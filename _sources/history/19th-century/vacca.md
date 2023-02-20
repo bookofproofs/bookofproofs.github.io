@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1904 Vacca returned to Turin and was assistant to Peano for one further year.
 * In 1905, this interest in Chinese became the road that Vacca decided to follow.
 * They shared mathematical interests and certainly Vacca continued his mathematical research and interest in the history of mathematics.
-* In fact Vacca would be one of the editors of Vailati's collected works, published in 1911, two years after Vailati's death.
+* Vacca would be one of the editors of Vailati's collected works, published in 1911, two years after Vailati's death.
 * Vacca spent 1907-08 in western China, spending a year in the city of Cheng-tu.
 * In 1922 Vacca succeeded his old professor of History and Geography of East Asia to the chair at Florence.
 * Vacca taught Chinese language and literature there until he retired in 1947.

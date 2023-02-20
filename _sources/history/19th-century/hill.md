@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Newcomb persuaded Hill to develop a theory of the orbits of Jupiter and Saturn and Hill's work on this topic is another major contribution to mathematical astronomy.
 * Hill's most important work dealt with the gravitational effects of the planets on the Moon's orbit so in this work he was considering the 4-body problem.
 * Examples of papers he published in the Annals of Mathematics  include: On the lunar inequalities produced by the motion of the ecliptic (1884), Coplanar motion of two planets, one having a zero mass (1887), On differential equations with periodic integrals (1887) (these differential equations are now called Hill's differential equation), On the interior constitution of the earth as respects density (1888), The secular perturbations of two planets moving in the same plane; with application to Jupiter and Saturn (1890), On intermediate orbits (1893), Literal expression for the motion of the Moon's perigee (1894) and Application of Chebyshev's principle in the projection of maps (1908).
-* In fact Hill worked on very similar problems to Adams.
+* Hill worked on very similar problems to Adams.
 * It is no coincidence that Adams was also led to investigate infinite determinants and he did this work quite independently of Hill.
 * Hill was elected to the National Academy of Sciences (United States) in 1874.
 * Hill was president of the American Mathematical Society from 1894 to 1896 delivering his presidential address on Remarks on the progress of celestial mechanics since the middle of the century.

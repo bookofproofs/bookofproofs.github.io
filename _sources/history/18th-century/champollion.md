@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Little progress had been made in understanding hieroglyphics until the work of two men at almost the same time, namely Thomas Young and Champollion.
 * These two men were very different in that Thomas Young was a mathematician, physicist and polymath who made contributions to the most amazingly wide range of topics, while Champollion was completely single minded in his research on Egypt and its languages.
 * Although today there is a belief among many that Thomas Young studied hieroglyphics first, and then Champollion made a major advance building on Young's work, in fact this is a vast over simplification.
-* In fact we saw above that Champollion began studying the Rosetta stone in 1808 but, although it was displayed in London from 1802 onwards, Young did not begin his studies until 1814.
+* We saw above that Champollion began studying the Rosetta stone in 1808 but, although it was displayed in London from 1802 onwards, Young did not begin his studies until 1814.
 * This said, de Sacy probably knew Champollion well enough to understand the young man's personality.
 * "D'Haussez and Pamphile then issued blood-curdling proclamations," writes Robert Alexander, "put Grenoble in a state of siege, and ordered arrests." Champollion was already under suspicion.
 * D'Haussez attacked with renewed ferocity, attempting to have Champollion charged with treason, an offence punishable by death.

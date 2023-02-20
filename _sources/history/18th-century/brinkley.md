@@ -47,8 +47,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Once the instrument was installed, Brinkley began the major research of his career, namely his attempts to measure the parallax of stars.
 * Other astronomers could not reproduce the results claimed by Brinkley on parallax and a controversy arose which went on for a considerable time.
 * It was John Pond (1767-1836), the Astronomer Royal, who argued with Brinkley from 1810 to 1824 about his results.
-* In fact Brinkley was wrong and his false results can be attributed to his 8-foot circle.
-* In fact the parallax of the stars investigated by Brinkley is too small to be discovered with his equipment.
+* Brinkley was wrong and his false results can be attributed to his 8-foot circle.
+* The parallax of the stars investigated by Brinkley is too small to be discovered with his equipment.
 * As a professor, Brinkley was not well paid so he sought additional funds from the Church.
 * When he was appointed as Bishop, it was said in Ireland that "he might thank his stars" for his promotion! It was fitting that after Brinkley resigned his chair and position as Royal Astronomer of Ireland, both positions were filled by William Rowan Hamilton.
 * It had been Brinkley who had taught Hamilton mathematics and encouraged him when he was a young boy.

@@ -54,7 +54,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However with this modified axiom, many of the theorems of Volume 1 do not go through and Frege must have known this.
 * He probably never realised that even with the modified axiom the system is inconsistent since this was only shown by Lesniewski after Frege's death.
 * One often sees it stated that Frege's work was worthless because of the inconsistency pointed out by Russell.
-* In fact this is far from the truth and one must view Frege as the person who made one of the most important contributions to the foundations of mathematics that has ever been made.
+* This is far from the truth and one must view Frege as the person who made one of the most important contributions to the foundations of mathematics that has ever been made.
 * Frege's influence in the short term came through the work of Peano, Wittgenstein, Husserl, Carnap and Russell.
 * In the longer term, however, Frege has become a major influence on the development of philosophical logic and the man who seems to have been largely ignored by his contemporaries has been avidly read by many in the second half of the twentieth century, particularly after his works were translated into English.
 * Another statement that one often reads is that Frege was so depressed after Russell's letters that he gave up research.

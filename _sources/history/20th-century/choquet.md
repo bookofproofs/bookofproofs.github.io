@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The importance of Choquet's work on capacities can be seen from the fact that in 2008 the International Journal of Approximate Reasoning produced a 'Special Issue on Choquet integration in honour of Gustave Choquet'.
 * One of the earliest and also deepest and most comprehensive of these approaches had been worked out by Gustave Choquet in his 1953/54 paper 'Theory of capacities'.
 * He died November 14 last year in Lyon at the age of 91, so this is a good time and place to appreciate those parts of his scientific work related to this issue and to see why, nowadays and with full justification, the integral w.r.t. a monotone non-additive measure is called Choquet integral.
-* In fact, Choquet's famous paper 'Theory of capacities', comprising 165 pages, is a monograph rather than an ordinary article.
+* Choquet's famous paper 'Theory of capacities', comprising 165 pages, is a monograph rather than an ordinary article.
 * In La naissance de la théorie des capacités: réflexion sur une expérience personnelle Ⓣ(Beginnings of capacity theory: reflection on personal experience) (1986), Choquet gives an interesting historical account of the development of the theory of capacities.
 * Choquet produced a number of important books.
 * Another three-volume work Lectures on analysis (1969) was based on Choquet's course in analysis given at Princeton during the autumn term in 1967.

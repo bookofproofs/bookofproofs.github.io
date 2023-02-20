@@ -51,7 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A friend of my parents, a statistician, once said about Dénes König: "He is great in his art but his art is so small".
 * Sadly König did not live to see this explosion of interest in graph theory which, at least in part, was motivated by his contributions.
 * König, however, although Jewish, was brought up a Christian and so was not in danger from this particular persecution of Hungarian Jews.
-* In fact König worked to help persecuted mathematicians.
+* König worked to help persecuted mathematicians.
 * This government moved immediately against all Hungarian Jews, and suddenly König's protection through his Christianity vanished overnight.
 * A reign of terror was launched against the Jews of Budapest and, rather than suffer the horrors that faced him, König took his own life.
 

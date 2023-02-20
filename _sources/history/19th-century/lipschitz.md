@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was supervised by Plücker, and examined by Lipschitz.
 * Perhaps if Klein had still been in Göttingen when Lipschitz was offered the chair there, he may have been more inclined to accept.
 * Lipschitz's work on the Hamilton-Jacobi method for integrating the equations of motion of a general dynamical system led to important applications in celestial mechanics.
-* In fact Lipschitz rediscovered Clifford algebras and was the first to apply them to represent rotations of Euclidean spaces, thus introducing the spin groups Spin(nnn).
+* Lipschitz rediscovered Clifford algebras and was the first to apply them to represent rotations of Euclidean spaces, thus introducing the spin groups Spin(nnn).
 
 Born 14 May 1832, Königsberg, East Prussia (now Kaliningrad, Russia). Died 7 October 1903, Bonn, Germany.
 

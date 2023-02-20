@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Brooke's parents recognised his brilliance before he entered primary school at Wallasey, where his teachers quickly saw his exceptional abilities.
 * In 1947 Benjamin entered Liverpool University where he studied engineering but continued to occupy a large part of his time with the Liverpool University Music Society, conducting several concerts in Liverpool.
 * Benjamin began working on bubbles in liquids, in particular studying how the bubbles collapse when pressure rises.
-* In fact, like most of his projects, Benjamin returned to them throughout his career.
+* Like most of his projects, Benjamin returned to them throughout his career.
 * In the Journal of Fluid Mechanics in 1995 he published the paper Verification of the Benjamin-Lighthill conjecture about steady water waves.
 * In 1958 Benjamin was appointed as Assistant Director of research, a post which saw him work partly in the Engineering Department and partly in the Applied Mathematics and Theoretical Physics Department.
 * Benjamin helped set up the fluid mechanics laboratory at Cambridge in 1964 and three years later he was promoted to Reader in Hydrodynamics.

@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had two younger siblings, Harriet Hannah Mathews and Arthur Mathews, twins born in July 1865 in Canonbury, Islington.
 * In 1872 George Ballard Mathews entered Ludlow Grammar School in Ludlow, Shropshire.
 * After graduating from Ludlow Grammar School Mathews went to University College, London where he studied mathematics taught by Olaus Henrici and also began to study Sanskrit.
-* In fact in 1879 St John's College, Cambridge offered him a senior scholarship in either mathematics or classics, leaving Mathews to make his choice of subjects.
+* In 1879 St John's College, Cambridge offered him a senior scholarship in either mathematics or classics, leaving Mathews to make his choice of subjects.
 * The most successful coach at Cambridge over many years had been Edward John Routh and, when Mathews matriculated at Cambridge, Routh had coached every Senior Wrangler in the Mathematical tripos since 1862.
 * It was Mathews who broke Routh's run of 22 consecutive Senior Wrangler's when he graduated as Senior Wrangler in 1883.
 * The year after graduating, 1884, Mathews was elected a Fellow of St John's College and awarded a Smith's Prize, and later in the same year he was appointed to the chair of mathematics at the University College of North Wales at Bangor, this being the year the university opened.

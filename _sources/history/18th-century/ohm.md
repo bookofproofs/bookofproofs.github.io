@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was a better school than any that Ohm had taught in previously and it had a well equipped physics laboratory.
 * As he had done for so much of his life, Ohm continued his private studies reading the texts of the leading French mathematicians Lagrange, Legendre, Laplace, Biot and Poisson.
 * The Jesuit Gymnasium of Cologne failed to continue to keep up the high standards that it had when Ohm began to work there so, by 1825, he decided that he would try again to attain the job he really wanted, namely a post in a university.
-* In fact he had already convinced himself of the truth of what we call today "Ohm's law" namely the relationship that the current through most materials is directly proportional to the potential difference applied across the material.
+* He had already convinced himself of the truth of what we call today "Ohm's law" namely the relationship that the current through most materials is directly proportional to the potential difference applied across the material.
 * The result was not contained in Ohm's firsts paper published in 1825, however, for this paper examines the decrease in the electromagnetic force produced by a wire as the length of the wire increased.
 * The paper deduced mathematical relationships based purely on the experimental evidence that Ohm had tabulated.
 * In two important papers in 1826, Ohm gave a mathematical description of conduction in circuits modelled on Fourier's study of heat conduction.
@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second paper certainly is the first step in a comprehensive theory which Ohm was able to give in his famous book published in the following year.
 * What is now known as Ohm's law appears in this famous book Die galvanische Kette, mathematisch bearbeitet Ⓣ(The galvanic chain, processed mathematically) (1827) in which he gave his complete theory of electricity.
 * We should also remark that, despite Ohm's attempts in this introduction, he was not really successful in convincing the older German physicists that the mathematical approach was the right one.
-* in neither the introduction nor the body of the work, which contained the more rigorous development of the theory, did Ohm bring decisively home either the underlying unity of the whole or the connections between fundamental assumptions and major deductions.
+* In neither the introduction nor the body of the work, which contained the more rigorous development of the theory, did Ohm bring decisively home either the underlying unity of the whole or the connections between fundamental assumptions and major deductions.
 * It is interesting that Ohm's presents his theory as one of contiguous action, a theory which opposed the concept of action at a distance.
 * Ohm believed that the communication of electricity occurred between "contiguous particles" which is the term Ohm himself uses.
 * As we described above, Ohm was at the Jesuit Gymnasium of Cologne when he began his important publications in 1825.

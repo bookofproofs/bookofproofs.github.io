@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to Schroeter, Rosanes had been taught by some excellent lecturers at Breslau such as Ferdinand Joachimsthal, Rudolf Lipschitz, O E Meyer, and Paul Bachmann.
 * He formed a close friendship with his fellow student Moritz Pasch, who also had Heinrich Schroeter as a thesis advisor and was awarded his doctorate in the same year as Rosanes.
 * Following the award of his doctorate, Rosanes went to Berlin to continue his studies.
-* In fact there were gaps in both Rosanes' and Max Noether's proofs, and these were not filled until the first years of the 20th  century by Guido Castelnuovo.
+* There were gaps in both Rosanes' and Max Noether's proofs, and these were not filled until the first years of the 20th  century by Guido Castelnuovo.
 * Rosanes taught at Breslau for the rest of his life.
 * Rosanes wrote on many aspects of algebraic geometry and invariant theory (particularly between 1870 and 1890) which were in fashion at that time.
 * Max Born attended Rosanes' course on linear algebra, which introduced him to matrix theory, in the first years of the 20th  century.

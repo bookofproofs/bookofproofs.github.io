@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Van Lint entered Utrecht University in 1950 and there he was strongly influenced by Hans Freudenthal, Jan Popken and Frederik van der Blij.
 * Then he spent session 1956-1957 first at the University of Göttingen then at the University of Münster but during this period he was undertaking research for his doctorate with van der Blij as his thesis advisor.
 * In the thesis van Lint also studied modular forms of non-integral dimensions that have an Euler product.
-* We will discuss his mathematical achievements below, but first let us note that van Lint was an excellent sportsman, particularly excelling as an outstanding swimmer.
+* We will discuss his mathematical achievements below, but van Lint was an excellent sportsman, particularly excelling as an outstanding swimmer.
 * At Eindhoven the Van Lint Students Sports Week was instigated and also the International Professor van Lint Tournament.
 * Van Lint's research following the award of his doctorate continued on a number of distinct paths, one of which was a direct outcome of the work of his thesis.
 * In 1982 van Lint published Introduction to coding theory.

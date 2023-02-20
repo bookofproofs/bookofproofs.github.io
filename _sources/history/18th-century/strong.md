@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Strong was persuaded that chemistry was the subject for him principally through the inspiring influence of Silliman.
 * However Strong was also much influenced by Timothy Dwight, president of Yale from 1795 to 1817.
 * Dwight organised debates for the senior students and Strong afterwards said that it was Dwight's example during these debates which showed him how to think and argue logically.
-* In fact Strong did not follow his intentions in chemistry for Dwight recommended him as a mathematics tutor at Hamilton College.
+* Strong did not follow his intentions in chemistry for Dwight recommended him as a mathematics tutor at Hamilton College.
 * In 1812 the college was chartered as Hamilton College, the third institution of higher education to be established in the state of New York, and employed Strong from this time.
 * Four years later, in 1816, Strong was appointed as Professor of Mathematics and Natural Philosophy at the College.
 * After gaining a reputation as an excellent Professor of Mathematics, Strong was offered several professorships.
@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was therefore the first to write an English treatise on the calculus using differential notation and it was around this time that Strong began to build up a library of Continental texts.
 * The use of Leibniz's approach, as developed by Laplace and Lagrange, was used by Strong in his papers from about 1825 onwards so he participated actively in the introduction of the continental approach to differential and integral calculus into America.
 * In total Strong published two books, thirty-three articles, and numerous problems.
-* they follow the format of a text-book, but both contain some of Strong's original mathematical research, which was unsuitable for a novice.
+* They follow the format of a text-book, but both contain some of Strong's original mathematical research, which was unsuitable for a novice.
 * Among the honours which Strong received was election to the American Academy of Arts and Sciences (1832) and the American Philosophical Society.
 
 Born 26 July 1790, South Hadley, Massachusetts, USA. Died 1 February 1869, New Brunswick, New Jersey, USA.

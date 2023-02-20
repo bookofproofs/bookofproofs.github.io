@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lacroix had written the excellent textbook Traité élémentaire de calcul differéntiel et du calcul intégral (1802) to support his lectures and Lloyd now introduced this into the Trinity curriculum.
 * This work was also introduced into the Trinity curriculum by Lloyd.
 * Deeply impressed with this feeling, Dr Lloyd, singly and unassisted, conceived and executed the most rapid revolution ever effected in the details of a great public institution.
-* In fact in 1822, the year that Lardner wrote the above remarks, Lloyd moved from the Chair of Mathematics to the Erasmus Smith Chair of Natural and Experimental Philosophy which had become vacant on the death of William Davenport.
+* In 1822, the year that Lardner wrote the above remarks, Lloyd moved from the Chair of Mathematics to the Erasmus Smith Chair of Natural and Experimental Philosophy which had become vacant on the death of William Davenport.
 * We should mention that, while professor of mathematics, Lloyd published A Treatise on Analytic Geometry (1819).
 * The work referred to in this quote is Lloyd's two-volume work An Elementary Treatise of Mechanical Philosophy, written for the use of the undergraduate students of the University of Dublin (1828).
 * Dr Lloyd, therefore, unites the highest claims to our gratitude for his bold and successful effort to supply, in an important part, this deficiency.

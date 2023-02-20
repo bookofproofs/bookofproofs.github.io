@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Minnie Beckwith Hughes (1871-1975) was the teacher at Hughesville School from 1911 to 1916 so she taught McDaniel for the last three of his five years at school.
 * Frequently the evidence of its having found its mark is not apparent for years.
 * This is an interesting comment since clearly one of her arrows found its mark with McDaniel.
-* Let us note that, after Minnie Hughes left Hughesville School in 1916, Lillie C McDaniel, Reuben McDaniel's eldest sibling, was appointed as the teacher at this school.
+* After Minnie Hughes left Hughesville School in 1916, Lillie C McDaniel, Reuben McDaniel's eldest sibling, was appointed as the teacher at this school.
 * Reuben McDaniel studied at Hughesville School for five years, the required length of schooling which had to be taken by African Americans at this time.
 * Reuben had ideas about how to obtain better yields by rotating crops.
 * William Moore was a labourer, working in a shop, and Maria made extra money by working as a laundress in her own home.

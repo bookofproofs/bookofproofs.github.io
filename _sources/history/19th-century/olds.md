@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Olds undertook graduate studies at the University of Pittsburgh and was awarded a Master's degree.
 * Today the Carnegie Institute of Technology is part of Carnegie Mellon University but this was only created with the merger of the Carnegie Institute and the Mellon Institute a few years after Olds' death.
 * Olds' main interests were in statistics and he was highly influential in directing some outstanding students into that area.
-* In fact many graduates from Olds' course went on to become founding members of the American Society for Quality.
+* Many graduates from Olds' course went on to become founding members of the American Society for Quality.
 * Olds was passionately interested in teaching as well as in research.
 
 Born 20 April 1898, Buffalo, Erie, New York, USA. Died 10 October 1961, Pittsburgh, Allegheny, Pennsylvania, USA.

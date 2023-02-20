@@ -59,7 +59,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On the other hand, L'Hôpital's personality and deep understanding of the concepts led colleagues to take his side.
 * Only in 1921 did a manuscript copy of the course given by Johann Bernoulli to L'Hôpital come to light and it was seen how closely the book followed the course notes.
 * Also when the agreement between the two men was seen, more understanding of the events became possible.
-* In fact Bernoulli had not been in a position to complain when L'Hôpital's book was published because of the agreement between them.
+* Bernoulli had not been in a position to complain when L'Hôpital's book was published because of the agreement between them.
 * Certainly it was nothing for L'Hôpital to be proud of.
 * Careful examination of the letters in which L'Hôpital reported his mathematical progress to Leibniz and Huygens shows that with one or two possible exceptions L'Hôpital did not lie, but rather referred to Bernoulli in a condescending tone without acknowledging any debt whatever to him and in matters of provenance wrote in such a way as to suggest without actually asserting.
 * So why did Johann Bernoulli agree so quickly to L'Hôpital's proposal?

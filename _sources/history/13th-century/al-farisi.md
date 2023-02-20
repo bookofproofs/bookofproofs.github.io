@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Farisi made a number of important contributions to number theory.
 * Al-Farisi's most impressive work in number theory is on amicable numbers.
 * It was not a simple modification that al-Farisi made.
-* In fact al-Farisi's approach is based on the unique factorisation of an integer into powers of prime numbers, and, according to Rashed, he states and attempts to prove this, the so-called fundamental theorem of arithmetic, in this work.
+* Al-Farisi's approach is based on the unique factorisation of an integer into powers of prime numbers, and, according to Rashed, he states and attempts to prove this, the so-called fundamental theorem of arithmetic, in this work.
 * There is no doubt that al-Farisi proved these to be amicable numbers long before Euler.
 * However, al-Farisi was probably not the first to discover these amicable numbers.
 * Al-Farisi saw the relation between polygonal numbers and the binomial coefficients and he presented arguments, using an early type of mathematical induction, which showed a relation between triangular numbers, the sums of triangular numbers, the sums of the sums of triangular number, etc., and the combinations of nnn objects taken kkk at a time.

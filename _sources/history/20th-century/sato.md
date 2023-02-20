@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mikio Sato** was a Japanese mathematician whose vision of "algebraic analysis" and mathematical physics initiated several fundamental branches of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* In fact Mikio was seven years old only days after beginning school but the entrance rules were rigorously imposed.
+* Mikio was seven years old only days after beginning school but the entrance rules were rigorously imposed.
 * It was around the time that Sato entered middle school that he became interested in mathematics.
 * Other school subjects, however, did not interest Sato and except for mathematics he found middle school boring.
 * In 1945, after the war ended, Sato entered the First High School in Tokyo, a school closely linked to the University of Tokyo.

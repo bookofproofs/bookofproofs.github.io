@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His work for Hooke seems to have been mainly as a low paid secretary and, on 1 March 1681, Papin returned to France to work with Huygens.
 * In 1681 Papin left for Italy where he was director of experiments at the Accademia publicca di scienze in Venice until 1684.
 * Sarotti had met Papin in England at the time when Sarotti had been elected to the Royal Society in 1679.
-* In fact when Sarotti had returned to Venice, he took with him one of Papin's air pumps.
+* When Sarotti had returned to Venice, he took with him one of Papin's air pumps.
 * After leaving Italy, there were religious reasons why Papin could not return to France.
 * Papin returned to London in 1684 working again with the Royal Society until 1687.
 * Papin's desire to marry Marie was opposed by the local pastor on the grounds of consanguinity and only achieved, on 1 January 1691, by special dispensation from the landgrave of Hesse.

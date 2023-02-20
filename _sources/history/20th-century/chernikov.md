@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Even before the award of his doctorate, Chernikov had been made Head of the Mathematics Department at the Saratov Pedagogic Institute.
 * After five years at the Ural State University, Chernikov was appointed to a similar position at Perm University.
 * In 1961 Chernikov was appointed as Head of the Department of Algebra and Geometry of the Sverdlovsk branch of the Steklov Institute of the USSR Academy of Sciences.
-* In fact Chernikov had two special research interests, the first being that of infinite groups which we have referred to above.
+* Chernikov had two special research interests, the first being that of infinite groups which we have referred to above.
 * He then wrote a beautiful survey article Finiteness conditions in the general theory of groups which was published in 1959 and contained many of Chernikov's own results and those of others.
 * One thing was clear, Chernikov was not just looking round for results which he could prove, he was developing a systematic theory in the way that is the hallmark of top quality mathematicians.
 * The other algebraists mentioned in the quote above who began to help Chernikov in building his theory included O J Schmidt, Malcev, Baer, Kurosh, Hall, and others.

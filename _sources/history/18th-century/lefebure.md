@@ -41,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Louis-le-Grand, Louis Lefébure de Fourcy was promoted to teach the special class in October 1817.
 * Of the 21 students in the special class of 1817-18, one was the poet, novelist, and dramatist, Victor Hugo.
 * He crossed the class in a stride, giving rapid demonstrations, streaking the table with lines.
-* a detailed plan, but a list of books by which it is taught, and the authors for the mathematics texts are Euler, Lagrange and Lacroix in algebra, Lacroix or Biot for applications of algebra to geometry, Monge and Poinsot for statics, and Delambre or Biot for astronomy.
 * The Royal College of Saint-Louis was founded in 1820 and Lefébure was appointed as professor of mathematics.
 * Lefébure taught at the College of Saint-Louis for five years, leaving in December 1825 when he was appointed as an assistant to Sylvestre Lacroix at the faculty of Science in Paris.
 * The country was divided into four regions, and also Paris, and an examiner travelled in a region for some weeks during the summer to interview promising young boys nominated by local families or dignitaries.
@@ -53,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The treatise on Descriptive geometry, by Mr Lefébure de Fourcy has, therefore, been selected, and the following pages are, for the most part, translated from it.
 * Lefébure's text was very popular and in 1881 the eighth edition of the book was published.
 * By 1858 a seventh edition of Éléments de trigonométrie Ⓣ(Elements of trigonometry) was in print while Leçons d'algèbre Ⓣ(Algebra lessons), much revised over the years, was in its tenth edition in 1893.
-* good ordering of materials, elegant methods, and clarity of style.
 * However, other have criticised them for being "totally devoid of original ideas." It would be tempting to believe that their popularity might have come from the fact that many students trying to gain entry to top education institutions had to be examined by Lefébure.
 * However, the popularity of these texts continued long after Lefébure ceased being an examiner.
 * As an examiner, Lefébure had a reputation which made the candidates extremely fearful.

@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the same period, Burckhardt established a quick method for calculating the orbit of a comet given limited data, a method applied successfully to the orbit of the first asteroid discovered, by Giuseppe Piazzi, on 1 January 1801.
 * In 1799 he took French nationality and from that time used the name Jean Charles Burckhardt.
 * Burckhardt published articles in Zach's Monatlicher Correspondenz, Bode's Jahrbüchern and in the Astronomischen Nachrichten.
-* The Bureau des Longitudes had to chose the best lunar tables for their astronomical almanac, the Connaissance des Temps Ⓣ(Understanding time), so they appointed a committee consisting of Laplace, Delambre, Bouvard, Arago and Poisson to compare Burckhardt's tables with those of Johann Tobias Bürg, an astronomer working in Vienna, that were the most accurate available at the time.
+* The Bureau des Longitudes had to chose the best lunar tables for their astronomical almanac, the "Connaissance des Temps" Ⓣ(Understanding time), so they appointed a committee consisting of Laplace, Delambre, Bouvard, Arago and Poisson to compare Burckhardt's tables with those of Johann Tobias Bürg, an astronomer working in Vienna, that were the most accurate available at the time.
 * Burckhardt had used, probably for the first time, the method of least squares to find the best approximation from his data.
 * The committee used a sum-of-squares method to compare Burckhardt's and Bürg's tables, coming to the conclusion that Burckhardt's were the most accurate.
 * Burckhardt was a member of various academies including the American Academy of Arts and Sciences to which he was elected on 22 August 1822.

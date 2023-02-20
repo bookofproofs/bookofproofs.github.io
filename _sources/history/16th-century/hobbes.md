@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1610 Hobbes went with Cavendish on a European tour and they visited France, Germany, and Italy.
 * On his return Hobbes took up studying Greek and Latin again.
 * So far we have not mentioned any interest by Hobbes in mathematics, and perhaps even more surprisingly no particular interest in philosophy.
-* In fact Hobbes was about forty years old before he became fascinated by mathematics.
+* Hobbes was about forty years old before he became fascinated by mathematics.
 * Back in England in 1637 Hobbes worked on The Elements of Law, Natural and Politic which was not published at the time.
 * When the Civil War began in 1640 Hobbes feared for his life, especially as he was a well known Royalist, and he fled to save his life.
 * Hobbes's theory of vision and images serves him to ground his philosophy of man on his philosophy of body.
@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hobbes published a new expanded edition of De Cive in 1647, then three years later, in 1650, his earlier work The Elements of Law, Natural and Politic was published without his permission.
 * Hobbes was the mathematics tutor of the Prince of Wales between 1646 and 1648.
 * Passages near the end of the Leviathan appeared to indicate that Hobbes was trying to make his peace with the English government, which angered the Royalists.
-* In fact in these passages Hobbes was remaining consistent with his view that one showed allegiance to a ruler only so long as that ruler could provide protection.
+* In these passages Hobbes was remaining consistent with his view that one showed allegiance to a ruler only so long as that ruler could provide protection.
 * Hobbes had also attacked the Roman Catholic Church which made his position in Paris pretty untenable.
 * Hobbes' masterpiece Leviathan set out his ideas with great clarity.
 * It is, Hobbes argues, the rational way for people to behave so moral behaviour is rational.

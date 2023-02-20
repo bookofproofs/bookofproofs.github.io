@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Whatever the reason, he admitted in 1710 that Maria had made the discovery.
 * Maria Kirch has a small number of publications to her name.
 * Gottfried Leibniz was president of the Academy and he supported Maria Kirch's application for the position.
-* In fact the Academy appointed Johann Heinrich Hoffmann who had far less experience than Maria Kirch and very quickly showed that he was not up to the job.
+* The Academy appointed Johann Heinrich Hoffmann who had far less experience than Maria Kirch and very quickly showed that he was not up to the job.
 
 Born 25 February 1670, Panitzsch, near Leipzig, Germany. Died 29 December 1720, Berlin, Germany.
 

@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Prouhet assisted Lebesgue in the preparation of his book Exercices d'Analyse numérique.
 * However, prince Alphonse de Polignac (1826-1863), himself a number theorist, supported the publication of Lebesgue's second book Introduction à la Théorie des Nombres Ⓣ(Introduction to number theory) (Mallet-Bachelier, Paris, 1862).
 * Although Lebesgue had only spent 20 years as professor at Bordeaux, nevertheless by the time he retired in 1858 he had published 80 mathematics articles.
-* In fact after retiring from Bordeaux, Lebesgue returned to Paris where he spent the years from 1858 to 1861 working on the two books we have just mentioned.
+* After retiring from Bordeaux, Lebesgue returned to Paris where he spent the years from 1858 to 1861 working on the two books we have just mentioned.
 * Despite the fact that he was working on his books during these years in Paris, Lebesgue still managed to publish three papers in 1858, seven papers in 1859, and three papers in 1860.
 * Lebesgue and Hoüel collaborated and Hoüel did much to help Lebesgue in preparing Tables diverses pour la Décomposition des Nombres en leurs Facteurs premiers Ⓣ(Various tables for the decomposition of Numbers into their prime factors) (Gauthier-Villars, Paris, 1864).
 * After two years at Bordeaux, when he was working on his Tables, Lebesgue again went to Paris but after only a short stay he again returned to south west France, living in Bordeaux.

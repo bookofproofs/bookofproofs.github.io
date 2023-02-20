@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Christopher Brookes, one of Allen's assistants, became Oughtred's son-in-law.
 * He edited Oughtred's The Solution of All Spherical Triangles by the Planisphere (1651).
 * Although Oughtred had not had instruments made early in his career, he had invented them while at Cambridge.
-* In fact one of his pupils at Albury, William Forster, spent the summer of 1630 living in Oughtred's home and was so impressed with Oughtred's mathematical instruments that he persuaded Oughtred to let him publish an English translation of Oughtred's unpublished Latin description.
+* One of his pupils at Albury, William Forster, spent the summer of 1630 living in Oughtred's home and was so impressed with Oughtred's mathematical instruments that he persuaded Oughtred to let him publish an English translation of Oughtred's unpublished Latin description.
 * Both invented, and the uses of both written in Latin by Mr William Oughtred.
 * Translated into English and set forth for the public benefit by William Forster.
 * Although, as we have seen, Oughtred gained from the support of Thomas Howard, 21st Earl of Arundel, nevertheless he felt that he never received the rewards that he deserved from his patron.

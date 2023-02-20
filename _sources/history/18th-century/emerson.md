@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * To complete his education, Dudley sent William to a school in Newcastle and then to one in York.
 * This, however, did not prove successful for although Emerson was a highly intelligent and learned man, he had no patience as a teacher and frequently lost his temper with pupils who were unable to benefit from his high-powered teaching.
 * He treated his scruffy son-in-law with contempt and refused to pay, so Emerson loaded all his wife's clothes in a barrow and wheeled it round to the parsonage, saying he refused "to be beholden to such a fellow for a single rag".
-* vulgar language was typical of Emerson, as was the coarseness of his dress.
+* Vulgar language was typical of Emerson, as was the coarseness of his dress.
 * In 1743 Emerson published his first mathematical textbook, The doctrine of fluxions.
 * Indeed this view is supported by reading Emerson's long Preface where he spends much time defending the method of fluxions against criticism.
 * Perhaps one of the most remarkable facts here is that Emerson constructed the many instruments illustrated in this work, including the spinning-wheel he constructed for his wife.

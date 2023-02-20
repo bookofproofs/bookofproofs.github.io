@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This, of course, was the school at which Betti had studied.
 * During these years when Betti was a secondary school teacher, he was undertaking research with Mossotti as his advisor.
 * Betti explains his ideas about research to Mossotti, in particular he was working to give satisfactory proofs of many propositions which Galois had simply stated without giving any proof.
-* In fact Betti became the first to publish observations and demonstrations on Galois theory with his papers of 1851-1852.
+* Betti became the first to publish observations and demonstrations on Galois theory with his papers of 1851-1852.
 * We should note, however, that these are not Betti's first publications for he had published the paper on mathematical physics Sopra la determinazione analitica dell'efflusso dei liquidi per una piccolissima apertura Ⓣ(On the analytical determination of the flow of fluids through a very small opening) in 1850.
 * Betti was appointed as professor of higher algebra at the University of Pisa in 1857.
 * In particular in Göttingen Betti met and became friendly with Riemann.
@@ -59,9 +59,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Betti's errors appear to relate to normal subgroups of groups and he makes the false assumption that (in modern terms) every extension splits.
 * We have already mentioned above that Riemann visited Betti in Pisa in 1863.
 * Influenced by discussions with his friend Riemann, Betti was inspired to do important work in theoretical physics, in particular in potential theory and elasticity.
-* In fact this change of direction by Betti towards mathematical physics led to him substituting chairs at Pisa in 1870 as we remarked above.
+* This change of direction by Betti towards mathematical physics led to him substituting chairs at Pisa in 1870 as we remarked above.
 * Dini, who Betti had taught earlier, was appointed to fill his chair of analysis and higher geometry.
-* Let us look in a little more detail at Betti's work on mathematical physics and in particular on elasticity.
 * In his work on capillarity, 'Memoria sopra la teoria della capillarità' Ⓣ(Memoir on the theory of capillaries) published in the 'Annali delle Università toscane (Pisa)', Betti assumes bodies as formed by molecules which attract each other at short distance and repel at very short distance, and which do not practically interact at larger, but still very short distances.
 * In his memoirs 'La teorica delle forze che agiscono secondo la legge di Newton e sue applicazioni all'elettrostatica' on Newtonian forces, Betti declared his Newtonian ideaology.
 * Betti changed his attitude in his second memoir on capillarity, 'Teoria della capillarità' published in 'Nuovo Cimento', by giving the potential an energetic meaning and a founding role, on the basis of William Thomson's studies.

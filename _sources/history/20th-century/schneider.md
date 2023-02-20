@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Siegel gave Schneider a number of possible problems which he might work on for his doctorate.
 * However, Schneider had so loved Siegel's course on transcendental  numbers that he began to look at one of the open problems that Siegel had listed in that course.
 * Using Gelfond's ideas, Siegel showed how to prove this for a real quadratic bbb and he gave an indication of this in his course on transcendental numbers that Schneider attended.
-* In fact Gelfond had also, independently, managed to extend the ideas in his 1929 paper to complete the proof of Hilbert's Seventh Problem so the result is now known as the Gelfond-Schneider Theorem.
+* Gelfond had also, independently, managed to extend the ideas in his 1929 paper to complete the proof of Hilbert's Seventh Problem so the result is now known as the Gelfond-Schneider Theorem.
 * Schneider published his proof of Hilbert's Seventh Problem in the paper Transzendenzuntersuchungen periodischer Funktionen Ⓣ(Investigations of the transcendence of periodic functions) (1934) which appeared in Crelle's Journal.
 * Schneider then produced another five pages on transcendence of elliptic functions and the two parts formed his thesis, also entitled Transzendenzuntersuchungen periodischer Funktionen Ⓣ(Investigations of the transcendence of periodic functions), which earned him a doctorate in 1934.
 * If Schneider wanted to carry on with his studies or find a university post, he would have to join a Nazi organisation.

@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The University of Kazan flourished while Lobachevsky was rector, and this was largely due to his influence.
 * There was a marked increase in the number of students and Lobachevsky invested much effort in raising not only the standards of education in the university, but also in the local schools.
 * Owing to resolute and reasonable measures taken by Lobachevsky the damage to the University was reduced to a minimum.
-* for his activity during the cholera epidemic Lobachevsky received a message of thanks from the Emperor.
+* For his activity during the cholera epidemic Lobachevsky received a message of thanks from the Emperor.
 * Despite this heavy administrative load, Lobachevsky continued to teach a variety of different topics such as mechanics, hydrodynamics, integration, differential equations, the calculus of variations, and mathematical physics.
 * However Lobachevsky was not lucky in his marriage.
 * After Lobachevsky retired in 1846 (essentially dismissed by the University of Kazan), his health rapidly deteriorated.

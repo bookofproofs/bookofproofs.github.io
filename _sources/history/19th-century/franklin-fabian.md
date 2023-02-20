@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Franklin's second paper, published in the fourth part of the first volume of the American Journal of Mathematics in 1878, was On a Problem of Isomerism.
 * It is an important paper for here we see Franklin beginning his research into partitions of integers, the topic for which he is most often remembered today.
 * In this paper Franklin gave a different, and simpler, proof of a result on partitions that Sylvester had just published.
-* In fact Franklin would publish a number of papers giving clever proofs of existing theorems over the following years.
+* Franklin would publish a number of papers giving clever proofs of existing theorems over the following years.
 * Another thing to note about the Note on Partitions is Franklin's use of generating functions, another topic he returned to several papers.
 * The next papers that Franklin published came from the work he did acting as Sylvester's assistant.
 * These were Tables of the Generating Functions and Groundforms for the Binary Quantics of the First Ten Orders (1879) and Tables of the Generating Functions and Groundforms for Simultaneous Binary Quantics of the First Four Orders, Taken Two and Two Together (1879), both joint papers by Franklin and Sylvester.

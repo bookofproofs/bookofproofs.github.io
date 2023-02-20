@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is also worth noting that Sven LagerBring undertook a great deal of research but it is considered defective both in style and method.
 * We relate this to explain that his influence on Bring was not the most positive and, perhaps as a consequence, Bring's work on history is not considered to be important.
 * Bring's research contributions to history were mainly a continuation of his teaching and these were at a rather elementary level.
-* Perhaps his most important historical work is Commentarii de vita academica, quam Londini Gothorum degit Samuel Pufendorf Ⓣ(Commentaries on the academic life: when Samual Pufendorf lived in London) (1781) which is useful because of the extensive knowledge that Bring had of the archives of the university through his time at a notary.
+* Perhaps his most important historical work is "Commentarii de vita academica, quam Londini Gothorum degit Samuel Pufendorf" Ⓣ(Commentaries on the academic life: when Samual Pufendorf lived in London) (1781) which is useful because of the extensive knowledge that Bring had of the archives of the university through his time at a notary.
 * His biography of Andreas Rydelius was completed in 1782 but only published in 1806 after Bring's death.
 * In 1790 Bring was rector of the university.
 

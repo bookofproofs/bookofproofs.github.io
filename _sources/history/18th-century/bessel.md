@@ -51,7 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bessel also worked out a method of mathematical analysis involving what is now known as the Bessel function.
 * Bessel functions appear as coefficients in the series expansion of the indirect perturbation of a planet, that is the motion caused by the motion of the Sun caused by the perturbing body.
 * In 1824 he developed Bessel functions more fully in a study of planetary perturbations and published a treatise on them in Berlin.
-* In fact it was probably Lagrange's work on elliptical orbits that first suggested to Bessel to work on the Bessel functions.
+* It was probably Lagrange's work on elliptical orbits that first suggested to Bessel to work on the Bessel functions.
 * Bessel also had a very significant impact on university teaching despite the fact that he never had a university education.
 
 Born 22 July 1784, Minden, Westphalia (now Germany). Died 17 March 1846, Königsberg, Prussia (now Kaliningrad, Russia).

@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Duncan Liddel** was a Scottish mathematician, physician and astronomer who lectured on mathematics and astronomy on the continent. He made several endowments to Marischal College, Aberdeen.
 
 ### Mathematical Profile (Excerpt):
-* Before we continue with Liddel's biography, let us note that all his publications appear to be in medicine with none in mathematics.
+* Before we continue with Liddel's biography, all his publications appear to be in medicine with none in mathematics.
 * Liddel wanted to make a career in mathematics, but that, like many others before him, he failed to do so, and turned instead (or, as well) to medicine - which was always, by strong contrast with mathematics, a reliable way to earn a steady, and often lucrative, income.
 * Liddel's polymathy, in short, can be seen as the result of necessity rather than as the untrammelled ranging of an ambitious free spirit.
 * After studying at King's College, Aberdeen, Liddel appears to have been uncertain as to what career he should follow and, in 1579, he left Scotland and travelled to Frankfurt an der Oder, now known as Frankfurt (Oder) a town in Germany close to the Polish border.

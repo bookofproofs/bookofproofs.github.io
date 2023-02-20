@@ -30,10 +30,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frank and Mary had met while Mary was visiting relatives in St Louis.
 * In the year following their marriage, they moved to Philadelphia where Baldwin rented a small shop and began to build his calculating machines.
 * Newcomb studied the operation of the calculator and highly complimented Baldwin on his invention.
-* In fact the basic ideas of Baldwin's calculator were taken up by Willgodt Theophile Odhner from Sweden.
-* very similar in design to the Baldwin machine and embodying the two distinctive features of Mr Baldwin's invention, the cam operated radial pins and the sliding wedge carrying mechanism.
+* The basic ideas of Baldwin's calculator were taken up by Willgodt Theophile Odhner from Sweden.
+* Very similar in design to the Baldwin machine and embodying the two distinctive features of Mr Baldwin's invention, the cam operated radial pins and the sliding wedge carrying mechanism.
 * Odhner interchanged the Baldwin static and moving parts, placing the numeral wheels in the carriage and the selector mechanism in the frame ...
-* Otherwise the disposition of parts and operation are very similar to those of the Baldwin machine.
+* Otherwise, the disposition of parts and operation are very similar to those of the Baldwin machine.
 * Baldwin did not entirely concentrate on calculating machines for he was granted a U.S. Patent for a Cement Mixer on 12 May 1891, and for a Roundabout on 7 June 1892.
 * However, he returned to further inventions relating to the calculator and he was awarded a U.S. Patent for the Baldwin Computing Engine on 9 January 1900.
 * Baldwin designed a listing machine in 1905 with only ten keys and a spacer.

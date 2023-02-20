@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Edge investigated a pencil of canonical curves of genus 6 on a del Pezzo quintic surface in a 5-dimensional projective space.
 * Edge was not someone uninterested in modern techniques, however, and it may come as a surprise to some that in a 1991 paper he included computer-drawn pictures.
 * Other topics Edge worked on, all of which exhibit his mastery of the subject, include nets of quadric surfaces, the geometry of the Veronese surface, Klein's quartic, Maschke's quartic surfaces, Kummer's quartic, the Kummer surface, Weddle surfaces, Fricke's octavic curve, the geometry of certain groups, finite planes and permutation representations of groups arising from geometry.
-* In fact when he attended the celebrations for Coxeter in Toronto in 1979 it was the first time Edge had crossed the Atlantic and he said only his great friendship with Coxeter had made him overcome his reluctance to travel.
+* When he attended the celebrations for Coxeter in Toronto in 1979 it was the first time Edge had crossed the Atlantic and he said only his great friendship with Coxeter had made him overcome his reluctance to travel.
 * "Never met Cayley" replied Edge.
 * A colleague now at St Andrews, C M Campbell, attended Edge's courses in the 1960s.
 * He described them as difficult lectures which required a lot of work to appreciate their content but, once this work had been put in, the quality and insight in Edge's lectures became apparent.

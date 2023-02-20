@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tinseau also lived in exile and conducted a vigorous campaign in support of the Bourbons and against the Revolution.
 * He published a series of anti-Revolution writings from 1792 onwards and tried to organise uprisings in France, as did Charles-Philippe who made an unsuccessful attempt to land in the Vendée to lead a royalist rising there.
 * Both men had a military career and Tinseau, with the rank of brigadier general, acted as aide de camp to Charles-Philippe.
-* In fact Tinseau supported the Allied powers against France and used his military knowledge to pass on information of strategic importance to the Allies.
+* Tinseau supported the Allied powers against France and used his military knowledge to pass on information of strategic importance to the Allies.
 * Tinseau was as opposed to Napoleon and all he stood for as he had been to the earlier years of the Revolution.
 * This was vigorously rejected by Tinseau who continued to be a devoted supporter of the Bourbons.
 * Tinseau, like Charles-Philippe, lived in exile in England and was offered British nationality by the government.

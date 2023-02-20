@@ -57,7 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Or we think of the object as occupying any of the positions through which its course is leading it; and while fixing our thought on that particular position we cannot help fixing the object itself and putting it at rest for one short instant.
 * So it is fair to say that Zeno here is pointing out a mathematical difficulty which would not be tackled properly until limits and the differential calculus were studied and put on a proper footing.
 * As can be seen from the above discussion, Zeno's paradoxes are important in the development of the notion of infinitesimals.
-* In fact some authors claim that Zeno directed his paradoxes against those who were introducing infinitesimals.
+* Some authors claim that Zeno directed his paradoxes against those who were introducing infinitesimals.
 * Certainly it appears unlikely that the reason given by Plato, namely to defend Parmenides' philosophical position, is the whole explanation of why Zeno wrote his famous work on paradoxes.
 * The most famous of Zeno's arguments is undoubtedly the Achilles.
 * As with most statements about Zeno's paradoxes, there is not complete agreement about any particular position.

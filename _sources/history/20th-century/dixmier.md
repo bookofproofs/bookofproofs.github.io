@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Living in Paris and working in Toulouse was certainly not an ideal thing for anyone to do, so Dixmier decided that, since Dijon was much closer to Paris, he would apply for the position there.
 * Dixmier was on the faculty at Dijon from 1949 to 1955 when he was nominated for a position at the Institut Henri Poincaré in Paris.
 * Dixmier wrote some excellent books.
-* In fact these books give a good indication of the areas to which Dixmier made important contributions, namely operator algebras, von Neumann algebras, C*-algebras and unitary representation theory.
+* These books give a good indication of the areas to which Dixmier made important contributions, namely operator algebras, von Neumann algebras, C*-algebras and unitary representation theory.
 * MathSciNet lists 187 published items for Dixmier (up to 2014).
 * When writing books, Dixmier liked to follow the style of Bourbaki but when he lectured his style was very different from that of his colleagues.
 * In 1984 Dixmier reached the age of 60 and, since a new law had been passed making it possible to retire at that age, Dixmier chose to retire but continued to undertake research at the Institut des Hautes Études Scientifiques at Bures-sur-Yvette.

@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Liouville became favourite to fill the chair at the École Polytechnique which fell vacant when Navier died in 1836.
 * In 1837 Liouville was appointed to lecture at the Collège de France as a substitute for Biot.
 * In 1838 Liouville was appointed Professor of Analysis and Mechanics at the École Polytechnique.
-* In fact the quarrel between Liouville and Libri intensified after his election to the Académie.
+* The quarrel between Liouville and Libri intensified after his election to the Académie.
 * In 1840, after a vacancy resulting from the death of Poisson, Liouville was elected to the Bureau des Longitudes.
 * In many ways 1840 was a turning point in Liouville's career.
 * Life for Liouville developed into a year with two distinct parts.
@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The election defeat proved another turning point in Liouville's life.
 * His chair at the Collège de France was declared vacant in 1850 and Cauchy and Liouville competed for the post.
 * In a close contest Liouville triumphed and began his lectures at the Collège de France in 1851.
-* In fact 1856 and 1857 were two of Liouville's most productive years.
+* 1856 and 1857 were two of Liouville's most productive years.
 * Not only did he have a high teaching load but Liouville was a perfectionist which meant that when he felt that he could not devote all the time necessary to give the best possible lectures he began to suffer.
 * Another blow to Liouville was the death of Dirichlet in 1859.
 * Liouville's mathematical work was extremely wide ranging, from mathematical physics to astronomy to pure mathematics.

@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Turing was the head of Hut 8, Alexander soon slotted into this role since he was an outstanding administrator while Turing was uninterested in organisational matters.
 * When Turing went to the United States in November 1942, Alexander became the official head.
 * with his urge for overcoming and taming opposition, with his enthusiasm for uncompromising struggle, Alexander pioneered the way for British players to modern, complicated and daring chess; chess players will never forget him.
-* In fact Alexander did play chess at the highest level again after the war, winning the Hastings International Tournament in 1946 and coming first equal with David Bronstein in the Hastings Tournament of 1953.
+* Alexander did play chess at the highest level again after the war, winning the Hastings International Tournament in 1946 and coming first equal with David Bronstein in the Hastings Tournament of 1953.
 * Hugh Alexander was a most vivid and attractive personality, who delighted his friends with his gaiety, humour, and warmth.
 * For his outstanding contributions to his country Alexander was awarded an OBE in 1946, a CBE in 1955, and a CMG in 1970.
 

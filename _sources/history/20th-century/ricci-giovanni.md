@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * After graduating, Ricci went to Rome where he was appointed as a lecturer.
-* In fact Ricci held this position for eight years.
+* Ricci held this position for eight years.
 * As examples of the papers Ricci published during his eight years as a professor in Pisa we mention: Sulle funzioni simmetriche delle radici dell'unità secondo un modulo composto Ⓣ(On symmetric functions of the roots of unity in a  compound form) (1931), Sui grandi divisori primi delle coppie di interi in posti corrispondenti di due progressioni aritmetiche.
 * Let us also note that, in 1951, Ricci wrote a paper on the school of mathematics in Pisa La scuola matematica pisana dal 1848 al 1948 Ⓣ(The mathematics school of Pisa from 1848 to 1948).
 * In 1936 Ricci moved to Milan where he was appointed as Professor of Mathematical Analysis at the University.

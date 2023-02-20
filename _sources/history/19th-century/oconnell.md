@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * O'Connell moved from Clongowes Wood College to Tullabeg, Rahan, the second school to be opened by the Society of Jesus and, in 1913, when he was seventeen years old, O'Connell entered the Society of Jesus at Tullabeg.
 * One of the tasks of the Juniors was to take readings on a seismograph which was being designed and built by Father William O'Leary (1869-1939) at Rathfarnham Castle in 1915, the year O'Connell began his studies there.
-* In fact O'Leary asked O'Connell to help him and the two worked together building the seismograph.
+* O'Leary asked O'Connell to help him and the two worked together building the seismograph.
 * From this time on O'Connell was interested in seismology and did important work in that area.
 * O'Connell would eventually become President of this Academy.
 * O'Connell's other mathematics lecturers were Michael Egan and Henry McWeeney, a graduate of University College Dublin, who had been appointed Professor of Mathematics in 1891.

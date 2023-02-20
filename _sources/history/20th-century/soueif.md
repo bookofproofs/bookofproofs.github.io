@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Laila Soueif** is an Egyptian mathematician who became a professor of mathematics at Cairo University. She is an activist for human rights and has been involved in many demonstrations including calling for academic freedom at Cairo University.
 
 ### Mathematical Profile (Excerpt):
-* In fact Mustafa Soueif translated the writings of Sigmund Freud into Arabic.
+* Mustafa Soueif translated the writings of Sigmund Freud into Arabic.
 * The mood of those around Soueif changed with everyone talking of the disaster for the country.
 * When Soueif was studying at the high school she would walk past Cairo University and see student sit-ins and banners of protest.
 * Soueif graduated from the high school in 1973 and, in the autumn of that year, she began to study mathematics at the University of Cairo.

@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By inviting Professor Goldstein to write our opening chapter, we acknowledge our great debt to him.
 * Goldstein retired from his Harvard chair in 1970.
 * During his career, Goldstein gave many lectures series, some of which were written up and published.
-* Finally let us note that Goldstein also wrote on his other passion, namely Zionism, along with applied mathematics.
+* Goldstein also wrote on his other passion, namely Zionism, along with applied mathematics.
 * On 15 February 1972, Goldstein gave a lecture at the University of Leeds which was published in the following year as Views on the meaning of Zionism and of applied mathematics fifty years ago and now (1973).
 * Goldstein received many honours in addition to his election to the Royal Society of London mentioned above.
 

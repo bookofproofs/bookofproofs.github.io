@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Edward Kasner, who was on the faculty at Columbia University, recognised Ritt's remarkable talents and he was offered a fellowship to undertake research for his doctorate at Columbia.
 * Ritt resigned his position at the Naval Observatory and began working for his doctorate which was awarded in 1917 for his thesis On a general class of linear homogeneous differential equations of infinite order with constant coefficients.
 * In 1921 Ritt was appointed as an assistant professor at Columbia University and was promoted to associate professor in 1927.
-* In fact Ritt published two important papers in 1922, namely Prime and composite polynomials  and On algebraic functions which can be expressed in terms of radicals.
+* Ritt published two important papers in 1922, namely Prime and composite polynomials  and On algebraic functions which can be expressed in terms of radicals.
 * One year before the publication of this work, Ritt had published Theory of Functions  which provides an introduction to the theory of functions in a series of short and to the point lecture notes giving the student an account of the fundamental definitions and theorems of the subject.
 * Ritt had begun a new major research topic in the 1930s when he began to create a theory of ordinary and partial differential equations.
 * The book considers the results obtained by Ritt and his students on topics such as differential polynomials, differential ideals, and differential manifolds.

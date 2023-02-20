@@ -61,7 +61,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this period Nash established the mathematical principles of game theory.
 * Whether we are analysing candidates' election strategies, the causes of war, agenda manipulation in legislatures, or the actions of interest groups, predictions about events reduce to a search for and description of equilibria.
 * However, my most vivid memory of this time is of the many games which were played in the common room.
-* In fact the game "Nash" was almost identical to Hex which had been invented independently by Piet Hein in Denmark.
+* The game "Nash" was almost identical to Hex which had been invented independently by Piet Hein in Denmark.
 * If he was in a room with twenty people, and they were talking, if you asked an observer who struck you as odd it would have been Nash.
 * Nash was totally spooky.
 * he'd take a lot of time answering a question.

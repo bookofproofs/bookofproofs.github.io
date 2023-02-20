@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Helmholtz graduated from the Medical Institute in Berlin in 1843 and was assigned to a military regiment at Potsdam, but spent all his spare time doing research.
 * Helmholtz argued in favour of the conservation of energy using both philosophical arguments and physical arguments.
 * That philosophical arguments came right up front in this work was typical of all of Helmholtz's contributions.
-* In fact it played a large role in Helmholtz's career for the following year he was released from his obligation to serve as an army doctor so that he could accept the vacant chair of physiology at Königsberg.
+* It played a large role in Helmholtz's career for the following year he was released from his obligation to serve as an army doctor so that he could accept the vacant chair of physiology at Königsberg.
 * Helmholtz was always prepared to admit his mistakes and indeed he did just this three years later when he published new experimental results showing those of his 1852 paper to be incorrect.
 * Franz Neumann, the professor of physics in Königsberg was involved in disputes concerning priority with Helmholtz and the cold weather in Königsberg had a bad effect on his wife's delicate health.
 * Helmholtz's paper Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen Ⓣ(On integrals of hydrodynamic equations, which correspond to the vortex motion) began by decomposing the motion of a perfect fluid into translation, rotation and deformation.

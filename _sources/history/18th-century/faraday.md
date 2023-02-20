@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1805, after a year as an errand-boy, Faraday was taken on by Riebau as an apprentice bookbinder.
 * From 1810 Faraday attended lectures at John Tatum's house.
 * In 1812 Faraday attended lectures by Humphry Davy at the Royal Institution and made careful copies of the notes he had taken.
-* In fact these lectures would become Faraday's passport to a scientific career.
+* These lectures would become Faraday's passport to a scientific career.
 * When his apprenticeship ended in October 1812, Faraday got a job as a bookbinder but still he attempted to get into science and again he took a somewhat ambitious route for a young man with little formal education.
 * Davy, unlike Banks, replied to Faraday and arranged a meeting.
 * Shortly after the interview Davy's assistant had to be sacked for fighting and Davy sent for Faraday and invited him to fill the empty post.

@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kazimierz Bartel** was a Polish mathematician who went on to become president of Poland up to the first World War.
 
 ### Mathematical Profile (Excerpt):
-* In fact it became part of Austria when Poland was partitioned in 1772 and it was still a part of that country when Bartel was born there - so officially he was born in Lemberg.
+* It became part of Austria when Poland was partitioned in 1772, and it was still a part of that country when Bartel was born there - so officially he was born in Lemberg.
 * Bartel was awarded his doctorate in 1911 and, three years later, he was made a professor at the Lemberg Polytechnic.
 * Bartel was conscripted into the Austro-Hungarian army for the duration of World War I.
 * For Bartel, as for many Poles, the war was seen as a positive step which could lead to Poland regaining its sovereignty.

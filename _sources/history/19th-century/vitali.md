@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the award of his teaching diploma, Vitali left university level mathematics to become a secondary school teacher.
 * Vitali, however, kept in contact with his mentors, and Arzelà in particular remained a constant point of reference for him, through exchange of letters and also meetings above all during the holiday periods (Vitali returned to Bologna during his teaching years in Voghera, and Arzelà, in his turn, spent long periods in Santo Stefano Magra in Liguria).
 * First Vitali was appointed to a chair in Modena.
-* In fact Vitali was only ranked as second choice by the referees (although Fubini and Levi-Civita had ranked him top), but the candidate who came top, Gustavo Sannia, did not accept the post when offered it.
+* Vitali was only ranked as second choice by the referees (although Fubini and Levi-Civita had ranked him top), but the candidate who came top, Gustavo Sannia, did not accept the post when offered it.
 * Then, in December 1925, Vitali was appointed to the chair of mathematical analysis at the University of Padua.
 * Despite serious health problems, Vitali was able to make huge contributions to Padua during the five years that he worked there.
 * Vitali was keen to set up a journal as part of the work of the Seminario and the Rendiconti del Seminario Matematico dell'Università di Padova began publishing in 1930.

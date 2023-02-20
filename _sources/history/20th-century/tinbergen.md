@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jan's other two siblings were Jacomiena (born 1905) and Dik (born 1909).
 * Jan attended primary school gaining a certificate stating he was "a most excellent pupil".
 * These schools allowed entry to the university system after passing additional examinations in Latin and Greek and this Tinbergen did.
-* In fact some of Tinbergen's first publications were articles he wrote for the socialist newspaper Het Volk in which he examined the effects of the economic depression of 1920-22 on unemployment and how the lives of the poor had been affected.
+* Some of Tinbergen's first publications were articles he wrote for the socialist newspaper Het Volk in which he examined the effects of the economic depression of 1920-22 on unemployment and how the lives of the poor had been affected.
 * After completing his undergraduate degree at Leiden, Tinbergen continued to study at Leiden for his doctorate under Ehrenfest's supervision.
 * Tinbergen was assigned to an administrative position at Rotterdam State prison where he was to serve for fifteen months.
 * Tinbergen submitted his thesis Minimumproblemen in de natuurkunde en de ekonomie Ⓣ(Minimum problems in physics and in economics) in 1929.

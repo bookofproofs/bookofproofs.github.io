@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, for the rest of this biography we will refer to him as Lichnerowicz.
 * Lichnerowicz entered the École Normale Supérieure on Rue d'Ulm in 1933.
 * Lichnerowicz was appointed as an assistant lecturer in mechanics at the University of Strasbourg, by then located in Clermont-Ferrand, in 1941.
-* In fact Lichnerowicz only just survived the war years.
+* Lichnerowicz only just survived the war years.
 * In November 1943 the Germans carried out a raid on the University of Strasbourg, in Clermont-Ferrand, and they arrested Lichnerowicz.
 * After the war ended in 1945, the University of Strasbourg returned to the city of Strasbourg where Lichnerowicz continued to perform his duties.
 * Lichnerowicz followed Bruhat's suggestion for the first of these books, and set about writing the textbook, Algèbre et Analyse Linéaires Ⓣ(Linear Algebra and Analysis) based on lectures he gave at Strasbourg.

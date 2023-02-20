@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After Grothendieck's thesis defense, which took place in Paris, Malgrange recalled that he, Grothendieck, and Henri Cartan piled into a taxicab to go to lunch at the home of Laurent Schwartz.
 * "In the taxi Cartan explained to Grothendieck some wrong things Grothendieck had said about sheaf theory," Malgrange recalled.
 * Grothendieck spent the years 1953-55 at the University of São Paulo and then he spent the following year at the University of Kansas.
-* In fact during this period Grothendieck had been supported by the Centre National de la Recherche Scientifique, the support beginning in 1950.
+* During this period Grothendieck had been supported by the Centre National de la Recherche Scientifique, the support beginning in 1950.
 * Grothendieck's Séminaire de Géométrie Algébrique Ⓣ(Algebraic geometry seminar) established the IHES as a world centre of algebraic geometry, and him as its driving force.
 * During this period Grothendieck's work provided unifying themes in geometry, number theory, topology and complex analysis.
 * Luc Illusie began attending Grothendieck's seminar at the Institut des Hautes Études Scientifiques in 1964.

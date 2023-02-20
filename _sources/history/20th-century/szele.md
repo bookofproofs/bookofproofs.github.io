@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Szele's remarkable talent began to unfold, and his interest soon developed into a lifelong commitment to the theory of abelian groups.
 * Szele was filled with ideas which he shared with everybody who was willing to listen.
 * Szele and Kertész wrote the joint paper On the existence of non-discrete topologies in infinite abelian groups which was published in 1953.
-* In fact Szele, Kertész and Fuchs wrote the three author paper On a special kind of duality in group theory which was also published in 1953.
+* Szele, Kertész and Fuchs wrote the three author paper On a special kind of duality in group theory which was also published in 1953.
 * We should note that it was not only students at Debrecen University who benefitted from Szele's teaching.
 * Kovács was strongly influenced by Szele in his first year at Debrecen University but Szele died before Kovács began his second year at university.
 * In 1952 Szele was awarded the Kossuth Prize, the most prestigious cultural award in Hungary.

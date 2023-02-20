@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In London Gregory also met Robert Moray, president of the Royal Society, and Moray attempted to arrange a meeting between Gregory and Huygens in Paris.
 * Moray was to play a major role in Gregory's career somewhat later.
 * In 1664 Gregory went to Italy.
-* teaching profoundly influenced Gregory, particularly in providing the twin keys to the calculus, the method of tangents (differentiation) and of quadratures (integration).
+* Teaching profoundly influenced Gregory, particularly in providing the twin keys to the calculus, the method of tangents (differentiation) and of quadratures (integration).
 * In Padua Gregory was able to live in the house of the Professor of Philosophy who was Professor Caddenhead, a fellow Scot.
 * Two works which were published by Gregory while he was in Padua are Vera circuli et hyperbolae quadratura published in 1667 and Geometriae pars universalis published right at the end of his Italian visit in 1668.
 * It is remarkable that some decades later, at the time when analysis was in a state of revolutionary development, exactness was at a much lower standard than with Gregory, and generally with the authors writing before the discoveries of Newton and Leibniz (e.g. Huygens, Mengoli, Barrow).

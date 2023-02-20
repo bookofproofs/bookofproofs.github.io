@@ -34,9 +34,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1822 Plateau graduated from the Athenaeum having achieved outstanding success.
 * However, although Plateau had shown great ability in these subjects, they were not the ones which interested him.
 * It was through Quetelet's influence that Plateau was offered the position of extraordinary professor of physics at the University of Ghent in 1835.
-* In fact 1840 was important for another reason for Plateau, for in that year he first began experiments which would lead him to study minimal surfaces.
+* 1840 was important for another reason for Plateau, for in that year he first began experiments which would lead him to study minimal surfaces.
 * Although Plateau had carried out his experiment of staring at the sun in 1829, he had retained reasonable vision until 1841.
-* although bodily Plateau remained plunged in the darkness of a sad profound night, the perspicacity of his mind, having become more intensive than ever, was to lead to the most brilliant discoveries and to conquer for Belgium science an immortal glory.
+* Although bodily Plateau remained plunged in the darkness of a sad profound night, the perspicacity of his mind, having become more intensive than ever, was to lead to the most brilliant discoveries and to conquer for Belgium science an immortal glory.
 * Despite now being unable to teach because of his blindness, Plateau was made a full professor at the University of Ghent on 29 June 1844.
 * Plateau's first major contributions were related to the work of his doctorate on perceptions of colour by the human eye.
 * He is best remembered in mathematics, however, for Plateau Problems.

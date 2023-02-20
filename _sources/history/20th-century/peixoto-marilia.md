@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Colégio Andrews had been founded by Isabella Robinson Andrews in 1918 and she was still running the school when Marília Chaves studied there.
 * When Marília Chaves studied there the college had around 1500 pupils in Primary, Secondary and "Superior" courses, which prepared students, both boys and girls, to enter the schools of Medicine, Law and Engineering.
 * Marília was by this time intent on studying mathematics and was taking the "Superior" course at the Colégio Andrews preparing to enter the National School of Engineering at the University of Brazil in Rio de Janeiro.
-* In fact Marília qualified for entry in 1939 to the National School of Engineering and achieved third place among the 73 students approved for entry.
+* Marília qualified for entry in 1939 to the National School of Engineering and achieved third place among the 73 students approved for entry.
 * The presence of women in engineering schools was not very common at the beginning of the century, but in 1939 Marília de Magalhaes Chaves was enrolled at the National School of Engineering ...
 * At the National School of Engineering, Maurício Matos Peixoto and Leopoldo Nachbin were both her fellow students, all three beginning their studies in the same year.
 * Marília's influence was very strong during these "golden years" ...

@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Charles suffered an unfortunate injury when he was seven years old.
 * Had young Charles told his parents immediately it is probable that doctors could have done enough to allow it to heal over time.
 * Mr Ivison, a clergyman of the English Church; and on Mr Ivison's removal to a curacy in the county of Durham, Mr Hutton succeeded him in his school at Jesmond.
-* In fact Hutton did work for a short time at Old Long Benton colliery between the time Mr Ivison left the school and when Hutton succeeded him.
+* Hutton did work for a short time at Old Long Benton colliery between the time Mr Ivison left the school and when Hutton succeeded him.
 * At this stage Hutton began studying mathematics at evening classes at Mr James' school in Newcastle.
 * In 1760 Hutton opened the Mathematical School in Newcastle but he also taught at the main secondary school in the city.
 * On the other hand these "higher class" people benefited greatly from the high quality of teaching that Hutton provided.

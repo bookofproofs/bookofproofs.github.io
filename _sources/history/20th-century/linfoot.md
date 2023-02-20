@@ -24,13 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * George Linfoot was a violinist and mathematician who was a school teacher of mathematics before becoming Director of Music for the Sheffield Local Education Authority.
-* In fact despite still being an undergraduate, Linfoot was already undertaking research and published his first paper The domains of convergence of Kummer's solutions to the Riemann P-equation in 1926.
+* Despite still being an undergraduate, Linfoot was already undertaking research and published his first paper The domains of convergence of Kummer's solutions to the Riemann P-equation in 1926.
 * In 1926 Linfoot graduated B.A. with First Class Honours in mathematics and he was awarded a Goldsmith Senior Scholarship to enable him to undertake research supervised by Hardy.
 * Three of Linfoot's papers were published in 1928: On the "Law of large numbers" I; On the "Law of large numbers" II; and Generalisation of two theorems of H Bohr.
 * Also in 1928, Linfoot was awarded his doctorate after submitting his thesis Applications of the Theory of Functions of a Complex Variable in which he studied almost periodic functions.
 * Linfoot had already adopted the practice of taking notes of high quality of all courses he attended, and most of his beautifully written notebooks survive including those of the Göttingen courses he attended.
 * Linfoot already spoke German fluently before his Göttingen visit, and after spending the year in Germany he was often mistaken for being German.
-* In fact the courses Linfoot attended in Göttingen were delivered in German but written up by him in English.
+* The courses Linfoot attended in Göttingen were delivered in German but written up by him in English.
 * After spending this year in Göttingen, Linfoot spent the next two academic years in Princeton supported by a Jane Eliza Procter Fellowship.
 * Linfoot returned to Balliol College in 1931 and taught there until he was appointed as an Assistant Lecturer at the University of Bristol in 1932.
 * He went to the University of Bristol and began lifelong friendship with Linfoot.

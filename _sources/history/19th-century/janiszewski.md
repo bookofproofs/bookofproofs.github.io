@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the end of the war it was Janiszewski who was the main force in the remarkable creation of one of the strongest schools of mathematics in the world.
 * Janiszewski started out with the assumption that Polish mathematicians do not have to be satisfied with the role of followers and customers of foreign mathematical centres but can achieve an independent position for Polish mathematics.
 * One of the best ways of achieving this goal, suggested Janiszewski, was for groups of mathematicians to concentrate on relatively narrow fields in which Polish mathematicians had common interests and - more importantly - had already made internationally important contributions.
-* In fact these were exactly the areas in which Janiszewski himself had already made internationally important contributions.
+* These were exactly the areas in which Janiszewski himself had already made internationally important contributions.
 * In addition to set theory (which at that time included parts of what we call topology today) Janiszewski produced important results in the foundations of mathematics and other parts of topology.
 * Janiszewski saw that mathematics was one scientific subject where Poland could rapidly reach a leading role, whereas other sciences required a much larger financial investment which Poland was not then in a position to give.
 * Janiszewski played a major role in the setting up of the journal Fundamenta Mathematicae and Kuratowski recalls that it was Janiszewski who proposed the name of the journal in 1919.

@@ -44,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to Auzout the others involved were Christiaan Huygens, Pierre de Carcavi, Gilles de Roberval, Bernard Frénicle de Bessy and Jacques Buot.
 * Auzout was one of these founding members and he quickly made a contribution.
 * This was the first known proposal for a scientific expedition and Auzout presented it to the Academy only three weeks after its first formal meeting.
-* In fact Auzout, despite being one of the most vigorous in pushing for the opening of the Academy, was already showing frustration that things were not going as he had hoped.
+* Auzout, despite being one of the most vigorous in pushing for the opening of the Academy, was already showing frustration that things were not going as he had hoped.
 * In 1668 Auzout resigned from the Académie des Sciences and left France.
 * Auzout had studied Vitruvius throughout most of his life and was fascinated by Roman architecture.
 * Auzout did not completely cut himself off from his previous life, however, for when William Petty claimed that London was greater than Paris and Rouen combined, quoting population statistics to prove his case, Auzout responded vigorously in November 1686.

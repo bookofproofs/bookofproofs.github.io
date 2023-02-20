@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * For example, Polozii is often written Polozhii or Polozhiy.
 * His patronymic name Nikolaevich appears in various spelling, but perhaps the most confusing is Mikolaevich meaning that often his name appears as G N Polozii or G M Polozii.
-* In fact some of his mathematical papers have the author's name as G N Polozii, while others have G M Polozii.
+* Some of his mathematical papers have the author's name as G N Polozii, while others have G M Polozii.
 * Nizhny Baskunchak is a small rural village on the west shore of the saline Lake Baskunchak and Georgii Nikolaevich attended school there.
 * Polozii would have wished to continue immediately to university studies but this was not allowed at that time before obtaining work experience.
 * He was taught by Georgy Petrovich Boev who had a huge influence on Polozii's development as a teacher, mathematician and scientist.

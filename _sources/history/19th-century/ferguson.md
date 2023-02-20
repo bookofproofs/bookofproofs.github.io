@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Robert Ferguson's birthdate is given as 1928 in his obituaries (see below) but this seems to be wrong.
-* Let us note that Ferguson was a founder member of the Edinburgh Mathematical Society, joining the Society at its first meeting in February 1883.
+* Ferguson was a founder member of the Edinburgh Mathematical Society, joining the Society at its first meeting in February 1883.
 * Robert Ferguson was elected to the Royal Society of Edinburgh on 6 January 1868, his proposers included Philip Kelland.
 
 Born 8 July 1829, Airdrie, Lanarkshire, Scotland. Died 31 December 1912, Edinburgh, Scotland.

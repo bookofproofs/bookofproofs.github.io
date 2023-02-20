@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hirsch advised Goldie to concentrate on an area of algebra other than universal algebra, so he decided that ring theory would provide a good area which would complement the active UK research area of group theory which was led by Philip Hall.
 * Thus it is not really surprising that Goldie's early work in ring theory was influenced by Jacobson's papers and books.
 * Jacobson and Goldie had met at the International Congress of Mathematicians in Amsterdam in 1954 and at that time Jacobson suggested that Goldie work on problems in Notherian rings.
-* In fact Goldie's first paper in this area Decompositions of semi-simple rings (1956) made an immediate impact since Jacobson included one of Goldie's theorems in his classic monograph Structure of Rings of 1956, acknowledging that it had been communicated by Goldie.
+* Goldie's first paper in this area Decompositions of semi-simple rings (1956) made an immediate impact since Jacobson included one of Goldie's theorems in his classic monograph Structure of Rings of 1956, acknowledging that it had been communicated by Goldie.
 * Over the next few years Goldie's work on non-commutative Notherian rings would totally revolutionise the subject.
 * On one of these occasions, Goldie showed Brauer his result on Noetherian domains.
 * Goldie published his results, now known as "Goldie's Theorem," in The structure of prime rings with maximum conditions (1958) and The structure of prime rings under ascending chain conditions (1958).

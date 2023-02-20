@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many of these methods involved great computational problems and Luke was led to another important area of his research, namely the design of algorithms to implement his numerical approximations.
 * It was not only through his research, however, that Luke contributed to mathematics.
 * In 1983 Luke travelled to Moscow to lecture there as part of this exchange programme.
-* In fact Luke wrote two books on the probabilities of winning at the card game of cribbage.
+* Luke wrote two books on the probabilities of winning at the card game of cribbage.
 
 Born 26 June 1918, Kansas City, Missouri, USA. Died 6 May 1983, Moscow, Russia.
 

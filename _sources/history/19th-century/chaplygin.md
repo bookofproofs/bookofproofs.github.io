@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Chaplygin had begun teaching in Moscow in the year 1893.
 * After the award of his Master's Degree (equivalent to a Ph.D.), Chaplygin worked on two classic problems of theoretical mechanics.
 * Three decades later, however, Chaplygin's dissertation served as a starting point for many studies by aerodynamics specialists and provided the basis for the solution of problems of subsonic flows.
-* In fact Chaplygin wrote his remarkable dissertation while he was on vacation at a resort in the Crimea.
+* Chaplygin wrote his remarkable dissertation while he was on vacation at a resort in the Crimea.
 * Nevertheless it continued to operate as an excellent university, providing Chaplygin with a very good education.
 * Chaplygin was one of the professors who resigned in 1911 along with a number of his colleagues in mathematics such as Boleslav Kornelievich Mlodzeevskii (1858-1923), who was very active in the Moscow Mathematical Society.
 * Zhukovsky was the president of the Moscow Mathematical Society at this time which gave Chaplygin more reason to maintain a high level of involvement.

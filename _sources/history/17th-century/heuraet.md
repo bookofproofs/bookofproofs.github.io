@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Most of the correspondence was directed through van Schooten in the sense that his students would tell him of their discoveries and he would inform the others as well as publish certain of their results as appendices to his own publications.
 * Van Schooten edited and published a Latin translation of Descartes' La Géométrie in 1649.
 * A second two-volume translation of the same work (1659-1661) contained appendices by de Witt, Hudde and van Heuraet.
-* In fact there are two papers by van Heuraet which appear as appendices.
+* There are two papers by van Heuraet which appear as appendices.
 * This work was typical of that being carried out by van Schooten's research group and this work was important since attempts to discover properties of curves of this type led to methods which eventually gave rise to the differential and integral calculus.
 * Van Heuraet's breakthrough is therefore significant in the development of mathematics.
 * We should note that William Neile, independently of van Heuraet, found the arc length of an algebraic curve in 1657 when he rectified the cubical parabola.
@@ -42,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Huygens realised the significance of van Heuraet's work and tried to claim credit for being first to discover another special case.
 * Van Heuraet had basically allowed Huygens his priority for the special cases to draw a line under the dispute and calm matters down.
 * If nothing else, Huygens strenuous attempts to gain some credit for van Heuraet's discovery tells us how significant he felt it to be.
-* he shared that letter with van Heuraet, with whom he then associated.
 * Even if this lesser claim by Huygens is true, it does not take anything away from van Heuraet.
 * Certainly examining all the correspondence which survives, seeing van Heuraet's reaction to Huygens claims and also van Schooten's support for van Heuraet, all suggest that he was not directly influenced by Huygens' special cases.
 * Certainly Huygens stressed the superiority of van Heuraet's methods over those of William Neile, simply, one supposes, because of his claim to have influenced van Heuraet.

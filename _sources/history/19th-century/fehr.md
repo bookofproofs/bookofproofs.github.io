@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A list of the members of the first Committee for the journal shows that support it received from leading mathematicians worldwide: Paul Emile Appell, Nicolai Vasilievich Bugaev, Moritz Benedikt Cantor, Luigi Cremona, Emanuel Czuber, Zoel García de Galdeano y Yanguas, Alfred George Greenhill, Felix Klein, Valerian Nikolaevich Ligin, Paul Mansion, Gösta Magnus Mittag-Leffler, Gabriel Oltramare, Julius Peter Christian Petersen, Émile Charles Picard, Henri Jules Poincaré, Pieter Hendrik Schoute, Kyparissos Stephanos, Francisco Gomes Teixeira, Alexandr Vasil'evich Vasil'ev, Alexander Ziwet.
 * Fehr was appointed as an ordinary professor of Algebra and Higher Geometry at the University of Geneva on 24 July 1900, a position he held until 1945.
 * We note that Oltramare was one of the organisers of the first International Congress of Mathematicians held in Zurich in 1897 which Fehr also attended.
-* In fact Fehr had the remarkable record of attending every International Congress of Mathematicians from this first in 1897 until the 1950 Congress.
+* Fehr had the remarkable record of attending every International Congress of Mathematicians from this first in 1897 until the 1950 Congress.
 * Fehr presented the printed report on the work of the International Commission on the Teaching of Mathematics to the 1912 Congress held in Cambridge, England, as well as presenting the reports of Denmark, Greece, Russia, Finland and Switzerland.
 * As well as editing L'Enseignement mathématique Fehr contributed many articles to it.
 * Heinrich Behnke spoke about Fehr's contributions to the teaching of mathematics at the symposium dedicated to the memory of Henri Fehr which was held on 1-2 July 1955 in Geneva.

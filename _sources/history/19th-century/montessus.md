@@ -42,7 +42,7 @@ contributors: @Hervé-Le-Ferrand,bookofproofs
 * In 1917, Robert de Montessus joined the editorial team of the Journal de Mathématiques Pures et Appliquée headed by Camille Jordan.
 * In the same year de Montessus was employed to work on ballistics by the French government.
 * After 1919, Robert de Montessus devoted much attention to the theory of probability and applied statistics.
-* In fact he was in correspondence with several Belgian mathematicians such as Paul Mansion, Charles de La Vallée Poussin, Maurice Alliaume, but also with Maurice Fréchet and Charles Jordan.
+* He was in correspondence with several Belgian mathematicians such as Paul Mansion, Charles de La Vallée Poussin, Maurice Alliaume, but also with Maurice Fréchet and Charles Jordan.
 * It is hard to conjecture the number of practical difficulties which de Montessus had to overcome in organizing this immense mass of data on the universities and learned societies of the world; the scientific qualities of which he had given evidence elsewhere came to his aid here.
 * Between the two world wars, Robert de Montessus gave courses of lectures on various branches of mathematics in Warsaw, Kraków, Lwów (now Lviv in Ukraine), Budapest, Vienna and at other universities such as Lausanne and Geneva.
 * En 1917, Camille Jordan avait introduit R de Montessus à la rédaction du Journal de Mathématiques.

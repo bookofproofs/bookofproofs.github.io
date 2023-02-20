@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was attended by around 200 students and Mañé gave the course on Ergodic Theory with Marcelo Viana helping him by running the exercise classes.
 * Mañé attended the Congress and delivered the lecture Ergodic variational methods: new techniques and new problems.
 * Although Mañé worked in Brazil throughout his career, he was not eligible for a fellowship of the Brazilian Academy of Sciences since he was not a Brazilian citizen.
-* In fact Mañé died before the award ceremony for The World Academy of Sciences Prize and the prize was received by one of his colleagues.
+* Mañé died before the award ceremony for The World Academy of Sciences Prize and the prize was received by one of his colleagues.
 * Juan Andrés Ramírez was one of four candidates in the election and Mañé travelled to Montevideo to vote for his cousin.
 * Mañé remained in Montevideo and gave a seminar at the Mathematics Centre in the middle of December.
 * There are two rather different accounts of Mañé's illness and we will give both.

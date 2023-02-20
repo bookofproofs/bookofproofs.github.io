@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bass spent the year 1963-64 as an NSF Postdoctoral Fellow at the College de France.
 * Bass served as Associate Professor and Chair at Barnard during 1964-65.
 * During his period as professor, Bass was a Guggenheim Fellow at the Institut des Hautes Études Scientifiques in Paris during the year 1968-69, then served as Chair of the Department of Mathematics at Columbia University from 1975 to 1979.
-* We have mentioned some areas of Bass's work above, but let us note that he himself gives his research interests as algebraic K-theory; number theory; group theory (geometric methods); and algebraic geometry.
+* We have mentioned some areas of Bass's work above, but he himself gives his research interests as algebraic K-theory; number theory; group theory (geometric methods); and algebraic geometry.
 * To many people, Bass is best known for his classic text Algebraic K-theory published in 1968.
 * For this outstanding book Bass was awarded the Van Amringe Prize from Columbia University in the year following its publication.
 * Bass has visited many leading institutions around the world, spending varying periods of time.

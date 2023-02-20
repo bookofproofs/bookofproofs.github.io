@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Novae coelestium orbium theoricae congruentes cum observationibus N Copernici (Venice, 1589), Magini writes about "absurd hypotheses, such as Copernicus imagined".
 * The book does contain, however, Magini's own version of an Earth-centred theory which was seen at the time as an impressive development.
 * In 1592 Magini published De Planis Triangulis which explains the use of quadrants in astronomy and in surveying, in particular describing details of calculations and measurements which could be performed with a quadrant.
-* In fact several quadrants have survived with an inscription involving Magini's name.
+* Several quadrants have survived with an inscription involving Magini's name.
 * Two quadrants exit, one with the inscription "Giovanni Antonio Magini of Padua designed this in Bologna in the year 1592", the other is dated 1595 and inscribed "Giovanni Antonio Magini Professor of Mathematics in the University of Bologna had this made".
 * The chair of mathematics at Bologna saw Magini receive a salary of 1000 lire which was doubled to 2000 lire in 1597.
 * As well as teaching the boys mathematics, Magini was astrologer to the Duke.

@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Maurolico left the city for a while to escape from the deadly illness.
 * Maurolico was able to concentrate on his scholarly pursuits during these years and he produced significant contributions in a broad range of different topics although his best work was done on mathematics.
 * Certainly he was not a wealthy man and required patrons to be able to publish his work and several leading men of Messina appear to have put up funds since their names appear in dedications in Maurolico's work.
-* In fact the governor attended Maurolico's lectures on these topics.
+* The governor attended Maurolico's lectures on these topics.
 * Perhaps as a result of these lectures, Maurolico wrote up his rearrangement and translation of part of Euclid's Elements and completed the task on 9 July 1532.
 * Another of Maurolico's patrons was Giovanni Ventimiglia, 6th  Marchese di Geraci, Prince of Castelbuono (a town in the province of Palermo, Sicily), and Governor of Messina.
 * As a Benedictine, Maurolico would have a life of simplicity, a feature that was much loved by the people.

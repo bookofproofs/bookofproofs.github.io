@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jacob Bernoulli had died 1705 and Cramer published his Works in two volumes in 1744.
 * In 1745, jointly with Johann Castillon, Cramer published the correspondence between Johann Bernoulli and Leibniz.
 * Cramer also edited the five volume work by Christian Wolff, first published between 1732 and 1741 with a new edition appearing between 1743 and 1752.
-* Finally we should describe Cramer's most famous book Introduction à l'analyse des lignes courbes algébraique Ⓣ(Introduction to the analysis of algebraic curves).
+* Finally we should describe Cramer's most famous book "Introduction à l'analyse des lignes courbes algébraique" Ⓣ(Introduction to the analysis of algebraic curves).
 * It is a work which Cramer modelled on Newton's memoir on cubic curves and he praises highly a commentary on Newton's memoir written by Stirling.
 * Of course Euler's book was only published in 1748 at which time much of Cramer's book might well have been written.
 * The suggestion that Cramer never mastered the calculus must be considered doubtful, particularly given the high regard that he was held in by Johann Bernoulli.
@@ -61,7 +61,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cramer's name has sometimes been attached to another problem, namely the Castillon-Cramer problem.
 * This problem, proposed by Cramer to Castillon, asked how to inscribe a triangle in a circle so that it passed through three given points.
 * Castillon solved the problem 25 years after Cramer's death, and the problem went on to various generalisations about inscribed polygons in a conic section.
-* Cramer had worked extremely hard over a long period with writing his Introduction à l'analyse Ⓣ(Introduction to analysis) and undertaking the large amount of editorial work in addition to all his normal duties.
+* Cramer had worked extremely hard over a long period with writing his "Introduction à l'analyse" Ⓣ(Introduction to analysis) and undertaking the large amount of editorial work in addition to all his normal duties.
 
 Born 31 July 1704, Geneva, Switzerland. Died 4 January 1752, Bagnols-sur-Cèze, France.
 

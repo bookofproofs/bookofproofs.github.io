@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This school, originally a Jesuit establishment, had been founded in 1519 and given several different names before being named the Lycée de Lyon in 1848 and then the Lycée Ampère in the year that Vessiot began teaching there.
 * However, school teaching was only part of Vessiot's work for at the same time he was undertaking research for his doctorate advised by Émile Picard.
 * After the award of his doctorate, Vessiot taught in a number of universities.
-* In fact Vessiot published a second edition in 1919.
+* Vessiot published a second edition in 1919.
 * The first edition ran to 326 pages but with the additions that Vessiot made to the second edition it was 376 pages.
 * Vessiot taught for thirteen years in the Faculty of Science Lyon before gaining an appointment in Paris in 1910.
 * As we mentioned above, Vessiot applied continuous groups to the study of differential equations.

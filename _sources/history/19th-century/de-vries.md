@@ -44,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Korteweg and de Vries proved John Scott Russell was right and produced the necessary mathematical justification.
 * We now know that this work by Korteweg and de Vries is extremely important, but sadly this was not recognised at the time and it was over seventy years before this fundamental research led to the rapidly expanding research topic of 'solitons'.
 * However, both Korteweg and de Vries seem to have completely missed the fact that the equation, now called the Korteweg-de Vries equation, had already appeared in the work of Joseph Valentin Boussinesq.
-* In fact the equation appears as a footnote in Boussinesq's 680-page treatise Essai sur la théorie des eaux courantes Ⓣ(Essay on the theory of flowing water) (1885), but this should not in any way diminish the importance of de Vries's contribution.
+* The equation appears as a footnote in Boussinesq's 680-page treatise Essai sur la théorie des eaux courantes Ⓣ(Essay on the theory of flowing water) (1885), but this should not in any way diminish the importance of de Vries's contribution.
 * Although he found it difficult to work in his home at Ripperdapark 45, de Vries published two further papers in 1900.
 * These concern cyclones and were published in the Proceedings of the Royal Netherlands Academy.
 * However, despite many attempts, he failed to get a better position for himself.

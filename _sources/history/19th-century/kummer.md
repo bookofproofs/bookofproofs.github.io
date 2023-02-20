@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During Kummer's first period of mathematics he worked on function theory.
 * In 1843 Kummer, realising that attempts to prove Fermat's Last Theorem broke down because the unique factorisation of integers did not extend to other rings of complex numbers, attempted to restore the uniqueness of factorisation by introducing 'ideal' numbers.
 * The Paris Academy of Sciences awarded Kummer the Grand Prize in 1857 for this work.
-* In fact the prize of 3000 francs was offered for a solution to Fermat's Last Theorem but when no solution was forthcoming, even after extending the date, the Prize was given to Kummer even though he had not submitted an entry for the Prize.
+* The prize of 3000 francs was offered for a solution to Fermat's Last Theorem but when no solution was forthcoming, even after extending the date, the Prize was given to Kummer even though he had not submitted an entry for the Prize.
 * Soon after Kummer was awarded the Grand Prix he was elected to membership of the Paris Academy of Sciences and then, in 1863, he was elected a Fellow of the Royal Society of London.
 * Kummer's geometric period was one when he devoted himself to the study of the ray systems that Hamilton had examined, but Kummer treated these problems algebraically.
 * The Kummer surface has 16 isolated conical double points and 16 singular tangent planes and was published in 1864.

@@ -74,7 +74,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lectures by Weyl on Lie algebras in 1934-35 introduced Albert to the theory of non-associative algebras.
 * It was not until 1942, however, that he published his first major work on non-associative algebras.
 * At times a particular line of attack failed to fulfil the promise it had shown; he would then exercise his sound instinct and good judgement by shifting the assault to a different area.
-* In fact, he repeatedly displayed an uncanny knack for selecting projects which later turned out to be well conceived ...
+* He repeatedly displayed an uncanny knack for selecting projects which later turned out to be well conceived ...
 * Albert received many honours for his outstanding achievements.
 * He was elected to the National Academy of Sciences in 1943, the Brazilian Academy of Sciences in 1952, and the Argentine Academy of Sciences in 1963.
 * He served as chairman of the Mathematics Section of the National Research Council from 1958 to 1961, and President of the American Mathematical Society in 1965-66.

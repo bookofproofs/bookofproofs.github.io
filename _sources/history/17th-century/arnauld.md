@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In these letters Pascal attacked the moral teachings of the Jesuits which he saw as the weak point in their controversy with Port-Royal and Arnauld.
 * The letters also supported the views that Arnauld had expressed in On Frequent Communion in 1643 and, with Pascal's support, these ideas would indeed eventually became accepted.
 * The Jansenists, however, were persecuted between 1661 and 1669 and during this time Arnauld led the resistance to their persecutors.
-* In fact although Pascal died in 1662, his influence on Arnauld was clearly seen in the important works which he produced through the period that he led the resistance to the attacks on the Jansenists.
+* Although Pascal died in 1662, his influence on Arnauld was clearly seen in the important works which he produced through the period that he led the resistance to the attacks on the Jansenists.
 * In Port-Royal Grammar Arnauld argued that mental processes and grammar are virtually the same thing.
 * Arnauld's next work was Port-Royal Logic which was another book of major importance.
 * In 1667 Arnauld published New Elements of Geometry.

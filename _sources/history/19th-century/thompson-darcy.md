@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * D'Arcy combined skills in a way that made him unique.
 * Although he was to write around 300 scientific articles and books all D'Arcy's various skills came together in his most famous book On Growth and Form (1917).
 * D'Arcy related such things to the Greek work on approximating π, √2 and Euclid's Elements.
-* In fact fishes were of great interest to Thompson who was highly involved with the international organisation and regulation of fisheries as we mentioned above.
+* He fishes were of great interest to Thompson who was highly involved with the international organisation and regulation of fisheries as we mentioned above.
 * D'Arcy Thompson was elected a Fellow of the Royal Society of London in 1916 and was vice-president of the Society in 1931-33.
 
 Born 2 May 1860, Edinburgh, Scotland. Died 21 June 1948, St Andrews, Fife, Scotland.

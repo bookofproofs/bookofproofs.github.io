@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jungius begins with a common criticism of the chemical system, the impossibility of obtaining from metals any alleged elementary salt.
 * Thus the fact that metals can exist in the form of salts and liquids does not, according to Jungius, prove that salts and liquids exist as ingredients of metals.
 * Finally let us quote the opinion of one of Jungius's contemporaries.
-* there are few men that have not some idol, some man or woman whom they esteem, and admire, above the rest of mankind and Jungius is mine.
+
 
 Born 22 October 1587, Lübeck, Holstein (now Germany). Died 23 September 1657, Hamburg, Germany.
 

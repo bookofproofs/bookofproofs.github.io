@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This laboratory gained Poleni international fame.
 * In 1741 Poleni published Institutionum philosophiae mechanicae specimen.
 * Pope Benedict XIV summoned Poleni to Rome in 1743 to see if he could solve the problem of the cupola of St Peter's which seemed to be near to collapsing.
-* In fact the task was carried out with the aid of an instrument from Poleni's laboratory, a macchina divulsoria designed to determine the tensile strength of materials.
+* The task was carried out with the aid of an instrument from Poleni's laboratory, a macchina divulsoria designed to determine the tensile strength of materials.
 * We mention in particular Utriusque thesauri antiquitatum romanarum graecarumque nova supplementa Ⓣ(new supplies of both the treasures of the ancient times of the Roman graecarumque) (1737), and Exercitationes Vitruvianae primae, hoc est Ioannis Poleni Commentarius criticus de M Vitruvii Pollionis Architecti X Ⓣ(Vitruvius's first examples: Poleni's critical commentary of Vitruvius's Architecture  X) (1739).
 
 Born 23 August 1683, Venice, Venetian States (now Italy). Died 15 November 1761, Padua, Venetian States (now Italy).

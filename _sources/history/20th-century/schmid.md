@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * In particular Hermann Weyl left his chair at Göttingen and accepted a position at Princeton in the United States.
 * In 1935 Schmid followed his former supervisor to Göttingen where he spent the two years 1935-37 as Hasse's assistant.
-* In fact Schmid and Witt collaborated on developing what today is called the 'Witt vector calculus'.
+* Schmid and Witt collaborated on developing what today is called the 'Witt vector calculus'.
 * Leaving Göttingen, Schmid moved to the University of Giessen where he became editorial secretary of the Zentralblatt für Mathematik in 1938.
 * It was through Schmid's efforts that Helmut Hasse was brought to Berlin in 1946 after being dismissed from his position at Göttingen.
 * Also on 1 October 1946, together with Hasse and Erhard Schmidt, Schmid succeeded in founding the Forschungsinstitut für Mathematik (Research Institute for Mathematics) as part of the newly founded Deutsche Akademie der Wissenschaften zu Berlin (German Academy of Sciences in Berlin).

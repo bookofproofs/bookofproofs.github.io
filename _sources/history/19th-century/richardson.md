@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another application of mathematics by Richardson was in his study of the causes of war and he published the results of his analysis in a number of major books: Generalized Foreign Politics (1939), Arms and Insecurity (1949), and Statistics of Deadly Quarrels (1950).
 * Again Richardson made novel applications of mathematics.
 * However the way that Richardson modelled the causes of war was quite different, giving systems of differential equations which governed the interactions between countries caused by such things as attitudes and moods.
-* In fact before this Richardson had returned to university study and obtained a B.Sc. in psychology as an external University College, London, student in 1929.
+* Before this Richardson had returned to university study and obtained a B.Sc. in psychology as an external University College, London, student in 1929.
 * After he retired from Paisley College of Technology in 1940 Richardson began another major piece of work related to wars.
 * It is a fascinating approach to try to understand war, yet none of the factors Richardson investigated seemed statistically significant.
 

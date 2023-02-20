@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Gassendi** was a French astronomer who was the first to observe a transit of Venus. He wrote on astronomy, his own astronomical observations and on falling bodies.
 
 ### Mathematical Profile (Excerpt):
-* In fact Pierre Gassendi was actually given the name Pierre Gassend and only later used the now familiar Gassendi form.
+* Pierre Gassendi was actually given the name Pierre Gassend and only later used the now familiar Gassendi form.
 * When Pierre was seven years old he was sent to school in Digne, a much larger town across the valley about 10 km from Champtercier.
 * In 1607, Gassendi left school in Digne and returned to his native village of Champtercier where he spent the next two years.
 * He clearly was an exceptional student for when Fesaye was absent he asked Gassendi to take the lecture in his place.

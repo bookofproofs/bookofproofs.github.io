@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Later in 1935 Whitrow was elected to a Harmsworth Senior Scholarship in mathematics at Merton College.
 * Whitrow was awarded his D.Phil.
 * When the war ended in 1945, Whitrow returned to his university career but not back at Oxford, rather he was appointed as an assistant lecturer at Imperial College, London.
-* Let us note that Magda Whitrow became an outstanding bibliographer and historian of science.
+* Magda Whitrow became an outstanding bibliographer and historian of science.
 * Gerald Whitrow remained at Imperial College for the rest of his career.
 * Dr Whitrow is, however, particularly well qualified to write also upon both the historical and philosophical aspects of his subject: readers specially interested in these aspects will be glad to find that his presentation keeps them so well in view.
 * Whitrow also edited, and contributed to, Einstein: The man and his achievement (1967).

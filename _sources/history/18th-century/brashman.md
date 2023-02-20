@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Brashman had a number of outstanding students, including Pafnuty Lvovich Chebyshev and Osip Ivanovich Somov.
 * We note that Brashman's students had a huge respect for him both as a mathematician and as a person.
 * For example, Chebyshev felt that he had been inspired by Brashman and asked him for a photograph that he might keep with him; indeed he still had Brashman's photograph at the time of his death.
-* Finally, let us note that Brashman was a strong believer in the power of mathematics.
+* Brashman was a strong believer in the power of mathematics.
 * Brashman gives a strong refutation of William Hamilton's ideas.
 * Brashman was honoured for his contributions with election to the St Petersburg Academy of Sciences in 1855.
 

@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Knaster received his doctorate in 1923, becoming one of the first doctors of the new Polish University of Warsaw.
 * With such outstanding results Knaster's future career looked set for the highest level.
 * Knaster offered to have Zermelo stay at his apartment while in Warsaw and Zermelo accepted.
-* In fact Knaster organised everything concerning the Warsaw visit.
+* Knaster organised everything concerning the Warsaw visit.
 * In his 1930 report of his visit, Zermelo says he greatly appreciated the hospitality and discussions with Knaster.
 * Knaster clearly greatly enjoyed Zermelo's visit and the two corresponded between August 1929 and October 1932.
 * With his health improving, Knaster had returned to Warsaw in early 1929 and began to run his advanced seminar in topology, taught courses, took on editorial duties and other organizational activities.

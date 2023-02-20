@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henri Delannoy** was a French mathematician who worked on probability and recreational mathematics. He was also intersted inthe history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* In fact on his birth certificate his name appears as 'Henry' but in later life he had it officially changed to 'Henri' so in this biography we use the version of the name by which Delannoy himself wanted to be known.
+* On his birth certificate his name appears as 'Henry' but in later life he had it officially changed to 'Henri' so in this biography we use the version of the name by which Delannoy himself wanted to be known.
 * Omère Delannoy had fought in a number of Napoleon's military campaigns, in particular at the Battle of Waterloo, before becoming an administrator in the military.
 * Henri was brought up in Guéret where he attended the Collège de Guéret.
 * Delannoy saw action in 1859 in the Second Italian War of Independence.

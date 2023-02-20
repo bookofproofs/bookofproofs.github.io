@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Not surprisingly, Albert Slater was somewhat embarrassed by this and used the name D Albert Slater.
 * Slater was brought up in Blackburn where, after attending elementary school, he attended Blackburn Grammar School.
-* In fact although he did not obtain his doctorate until 1941, Slater had been appointed as an Observer at the Solar Physics Observatory in Cambridge in 1939.
+* Although he did not obtain his doctorate until 1941, Slater had been appointed as an Observer at the Solar Physics Observatory in Cambridge in 1939.
 * After the War ended in 1945, Slater took up his career again when he was appointed as a Lecturer in Applied Mathematics at the University of Leeds.
 * Slater continued to develop the work he undertook for his doctorate which led him to study a mathematical model for chemical reactions for many years.
 * Slater summarised his finding in this area in the monograph Theory of unimolecular reactions which was published in 1959.

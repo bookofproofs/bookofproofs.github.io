@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ralph Fox** was an American mathematician who made important contributions to differential topology and knot theory.
 
 ### Mathematical Profile (Excerpt):
-* In fact Swarthmore is less than 20 km from Philadelphia, so geographically this was not difficult, and Fox continued with these two studies for two years.
+* Swarthmore is less than 20 km from Philadelphia, so geographically this was not difficult, and Fox continued with these two studies for two years.
 * After taking his first degree from Swarthmore, Fox went to Johns Hopkins University where he studied for a Master's Degree in mathematics before going to Princeton where he undertook research advised by the topologist Solomon Lefschetz.
 * Fox spent the year after the award of his doctorate at the Institute for Advanced Studies at Princeton.
 * The year after Fox was appointed as a lecturer at Princeton, Emil Artin left Indiana University at Bloomington and was appointed to Princeton.
@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fox's definition suggested a natural generalization to the concept of a braid group on an arbitrary manifold, as the fundamental group of the space of nnn unordered, distinct points of that manifold.
 * The present investigation begins with Fox's definition, and studies the algebraic and geometric properties of these braid groups on arbitrary manifolds.
 * As a result of these visits, several Japanese knot theorists visited Princeton to collaborate with Fox's group there.
-* In fact Fox was very friendly and encouraging toward all young topologists and many of them received invitations to visit Princeton.
+* Fox was very friendly and encouraging toward all young topologists and many of them received invitations to visit Princeton.
 * Lee Neuwirth, from whom we quoted above, was one of Fox's doctoral students, being awarded a Ph.D. in 1959.
 * Other doctoral students of Fox with biographies in this archive include John Stallings (Ph.D. 1959) and Barry Mazur (Ph.D. 1959).
 * Fox's health deteriorated and in 1973 he entered the University of Pennsylvania Graduate Hospital to undergo open-heart surgery.

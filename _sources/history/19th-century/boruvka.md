@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boruvka then became Čech's research assistant and Čech interested Boruvka in differential geometry.
 * After being awarded his doctorate in 1923, Boruvka continued to undertake research at Masaryk University.
 * To many people Boruvka is best known for his solution of the Minimal Spanning Tree problem which he published in 1926 in two papers On a certain minimal problem (Czech) and Contribution to the solution of a problem of economical construction of electrical networks (Czech).
-* In fact the problem had been suggested to Boruvka before he became a university student.
+* The problem had been suggested to Boruvka before he became a university student.
 * Boruvka was offered a job with West-Moravian Powerplants at this time but declined.
 * Moreover, recent development places Boruvka's pioneering work in a new and very contemporary context.
 * One can even say that out of many available Minimal Spanning Tree algorithms, Boruvka's algorithm is presently the basis of the fastest known algorithms.

@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Puppini served for ten months in 1916-17 involved in the construction of fighting tunnels which, as well as providing cover, led to better logistics support.
 * After the war ended, Puppini returned to the University of Bologna where, in 1920, he became an extraordinary professor of hydraulic engineering, being made a full professor in 1924.
 * As mayor, Puppini was able to allocate funds for projects which were close to his heart.
-* We will return to Puppini's work supporting the University of Bologna as mayor but first let us note that Puppini was still actively working on fluid dynamics.
+* We will return to Puppini's work supporting the University of Bologna as mayor but Puppini was still actively working on fluid dynamics.
 * Puppini attended the Congress, giving his affiliation as R Scuola di Ingegneria di Bologna, and representing the Associazione Elettrotecnica Italiana.
 * Returning to Puppini's time as mayor of Bologna, he wanted to support the University by awarding them a special 25 year grant.
 * Mussolini was in Bologna and, of course, was being looked after by Mayor Puppini.

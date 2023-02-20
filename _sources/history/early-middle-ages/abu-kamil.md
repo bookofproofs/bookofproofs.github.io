@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Works by Abu Kamil which have survived, and will be discussed below, include Book on algebra, Book of rare things in the art of calculation, and Book on surveying and geometry.
 * Although we know nothing of Abu Kamil's life we do understand something of the role he plays in the development of algebra.
 * The role of Abu Kamil is important here as he was one of al-Khwarizmi's immediate successors.
-* In fact Abu Kamil himself stresses al-Khwarizmi's role as the "inventor of algebra".
+* Abu Kamil himself stresses al-Khwarizmi's role as the "inventor of algebra".
 * There is certainly no doubt that Abu Kamil considered that he was building on the foundations of algebra as set up by al-Khwarizmi and indeed he forms an important link in the development of algebra between al-Khwarizmi and al-Karaji.
 * There is another reason for Abu Kamil's importance, however, which is that his work was the basis of Fibonacci's books.
 * So not only is Abu Kamil important in the development of Arabic algebra, but, through Fibonacci, he is also of fundamental importance in the introduction of algebra into Europe.

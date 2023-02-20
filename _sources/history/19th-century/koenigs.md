@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However Koenigs, as the International Mathematical Union's General Secretary, argued that Germany should not attend since although they were eligible to join the International Research Council since 1926 they had not done so.
 * Koenigs himself, however, did not attend.
 * Koenigs was still General Secretary but was experiencing health problems and was not responding to any letter sent to him.
-* as Koenigs has never replied to any of my previous letters, he is not likely to do so to this.
 * Young was advised by de la Vallée Poussin to replace Koenigs, with Fehr being suggested as his replacement as General Secretary.
 * Young did nothing, however, so in early 1931 de la Vallée Poussin informed everyone in the Bureau about his proposal to replace Koenigs.
 * The matter was still unresolved when Koenigs died in October 1931.

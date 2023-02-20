@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Estermann entered the University of Göttingen, the leading German university for mathematics, and there he attended courses by David Hilbert and Edmund Landau.
 * Now although Rademacher was by this time turning towards number theory and Estermann's interests were in that area after attending Edmund Landau's lectures in Göttingen, Rademacher still did not feel confident enough to suggest a number theory topic to Estermann; instead, he suggested a problem in measure theory.
 * Estermann was awarded his doctorate in 1925 for his thesis Über Carathéodorys und Minkowskis Verallgemeinerungen des Laengenbegriffs Ⓣ(On Carathéodory's and Minkowski's generalizations of quantity terms) and, in the same year, he published a paper with the same title as his thesis.
-* In fact Estermann had visited her for a holiday in 1924 while he was a research student at Hamburg.
+* Estermann had visited her for a holiday in 1924 while he was a research student at Hamburg.
 * This was a highly productive period for Estermann  with papers: Über den Vektorenbereich eines konvexen Körpers Ⓣ(On the vector field of a convex body) (submitted September 1927); On the Representations of a Number as the Sum of Three Products (submitted April 1928); and On the Divisor-Problem in a Class of Residues (submitted July 1928).
 * Back in Hamburg before taking up the position in London, Estermann sent off his paper On the Representations of a Number as the Sum of Two Products (a 2-part paper, the first part submitted June 1929, second part November 1929).
 * Theodor Estermann was an invited speaker at the Colloquium on the 'Theory of Numbers' held at the University of Bristol in June 1935.

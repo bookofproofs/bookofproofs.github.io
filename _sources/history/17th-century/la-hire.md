@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bosse had published a series of works developing the geometric ideas that he had learnt from Desargues and had established his own school of art in 1661.
 * Much influenced by the work of Desargues, both directly and through his friendship with Bosse, La Hire worked on conic sections which he treated projectively.
 * He published his first work Observations sur les Points d'Attouchement de Trois Lignes Droites qui touchent la Section d'un Cone Ⓣ(Observations on the touching points of three straight lines which touch the section of a cone) in 1672, followed by his famous treatise Nouvelle méthode en géometrie pour les sections des superficies coniques et cylindriques Ⓣ(New methods in the geometry of conic sections and cylindrical surfaces) in 1673.
-* is a comprehensive study of conic sections by means of the projective approach, based on a homology which permits the deduction of the conic sections under examination from a particular circle.
+* It is a comprehensive study of conic sections by means of the projective approach, based on a homology which permits the deduction of the conic sections under examination from a particular circle.
 * This treatise was completed shortly afterwards by a supplement entitled 'Les planiconiques' which presented this method in a more direct fashion.
 * The 'Nouvelle méthode' clearly displayed Desargues' influence, even though La Hire, in a note written in 1679 ..., affirmed that he did not become aware of the latter's work until after publication of his own.
 * Yet what we know about La Hire's training seems to contradict this assertion.

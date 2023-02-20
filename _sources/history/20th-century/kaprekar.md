@@ -42,11 +42,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rearrange the digits to form the largest and smallest numbers with these digits, namely 7643 and 3467, and subtract the smaller from the larger to obtain 4167.
 * Continue the process with this number - subtract 1467 from 7641 and we obtain 6174, Kaprekar's constant.
 * Choose 3743 (which is the last four digits of EFR's telephone number!).
-* In fact applying Kaprekar's process to almost any four-digit number will result in 6174 after at most 7 steps (so our last example was one where the process has maximal length).
+* Applying Kaprekar's process to almost any four-digit number will result in 6174 after at most 7 steps (so our last example was one where the process has maximal length).
 * This was first discovered by Kaprekar in 1946 and he announced it at the Madras Mathematical Conference in 1949.
 * He published the result in the paper Problems involving reversal of digits  in Scripta Mathematica  in 1953.
 * Clearly starting with 1111 will yield 0 from Kaprekar's process.
-* In fact the Kaprekar process will yield either 0 or 6174.
+* The Kaprekar process will yield either 0 or 6174.
 * Exactly 77 four digit numbers stabilize to 0 under the Kaprekar process, the remainder will stabilize to 6174.
 * Anyone interested could experiment with numbers with more than 4 digits and see if they stabilise to a single number (other than 0).
 * What about other properties of digits which Kaprekar investigated?

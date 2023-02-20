@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However when Zuse proposed a computer based on electronic valves, the proposal was rejected on the grounds that the Germans were so close to winning the War that further research effort was not necessary.
 * Some of Zuse's computers were destroyed in bombing raids near the end of the war although the Z3 was reconstructed in 1960 for display in a museum in Munich.
 * Zuse began work on his Z4 computer in 1942, and it was almost complete when, due to continued air raids, it was moved from Berlin to Göttingen.
-* In fact Zuse designed several computers other than those of his Z series.
+* Zuse designed several computers other than those of his Z series.
 * The L1 computer which Zuse designed was not for solving arithmetical problems, but rather it was designed to solve logical problems.
 * Zuse set up his own computing company in 1950 and it was taken over by the Siemens electronics firm in 1967.
 * Zuse continued to undertake research on computers and acted as a consultant to Siemens after the firm took over complete control of Zuse's computer company in 1969.

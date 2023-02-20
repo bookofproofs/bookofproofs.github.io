@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There is another aspect of Pick's life which merits attention.
 * Pick was the driving force behind the appointment and Einstein was appointed to a chair of mathematical physics at the German University of Prague in 1911.
 * Pick, who played in a quartet, introduced Einstein into the scientific and musical societies of Prague.
-* In fact Pick's quartet consisted of four professors from the university including Camillo Körner, the professor of mechanical engineering.
+* Pick's quartet consisted of four professors from the university including Camillo Körner, the professor of mechanical engineering.
 * After Pick retired in 1927 he was named professor emeritus and returned to Vienna, the town of his birth.
 * Pick had been elected as a member of the Czech Academy of Sciences and Arts, but after the Nazis took over Prague, Pick was excluded from the Academy.
 * Pick was sent to Theresienstadt on 13 July 1942 and he died there two weeks later aged 82.

@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In his letter, Galileo said of Cavalieri, "few, if any, since Archimedes, have delved as far and as deep into the science of geometry." In support of his application to the Bologna position, Cavalieri sent Marsili his geometry manuscript and a small treatise on conic sections and their applications in optics.
 * Galileo's testimonial, as Marsili wrote him, induced the "Gentlemen of the Regiment"  to entrust the first chair in mathematics to Cavalieri, who held it continuously from 1629 to his death.
 * This was an ideal situation for Cavalieri who now had the peace to undertake mathematics research at the Jesuati convent while teaching mathematics at the university where he could have contacts with other mathematicians.
-* In fact Cavalieri's appointment to Bologna had, in the first instance, been for a 3-year trial period but, as we explain below, it was extended.
+* Cavalieri's appointment to Bologna had, in the first instance, been for a 3-year trial period but, as we explain below, it was extended.
 * Cavalieri's geometry manuscript which had been a factor in his appointment to Bologna, although completed in December 1627, was not published until 1635.
 * This theory allowed Cavalieri to find simply and rapidly the area and volume of various geometric figures.
 * Now, Cavalieri argued, if we slide each member of a parallel set of indivisibles of some planar piece along its own axis, so that the endpoints of the indivisibles still trace a continuous boundary, then the area of the new planar piece so formed is the same as that of the original planar piece, inasmuch as the two pieces are made up of the same indivisibles.

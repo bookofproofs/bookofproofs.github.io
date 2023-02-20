@@ -83,7 +83,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This time delay in the publication of Newton's work resulted in a dispute with Leibniz.
 * Another important piece of mathematical work undertaken by Leibniz was his work on dynamics.
 * It is clear that while he was in Rome, in addition to working in the Vatican library, Leibniz worked with members of the Accademia.
-* although Leibniz was ahead of his time in aiming at a genuine dynamics, it was this very ambition that prevented him from matching the achievement of his rival Newton.
+* Although Leibniz was ahead of his time in aiming at a genuine dynamics, it was this very ambition that prevented him from matching the achievement of his rival Newton.
 * Leibniz put much energy into promoting scientific societies.
 * Leibniz was appointed its first president, this being an appointment for life.
 * Other attempts by Leibniz to found academies were less successful.

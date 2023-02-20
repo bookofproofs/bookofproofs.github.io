@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second was based on an argument which purported to show that he lived later that Ptolemy, and, since Pappus refers to Heron, before Pappus.
 * Both of these arguments have been shown to be wrong.
 * There was a third date proposed which was based on the belief that Heron was a contemporary of Columella.
-* gave measurements of plane figures which agree with the formulas used by Heron, notably those for the equilateral triangle, the regular hexagon (in this case not only the formula but the actual figures agree with Heron's) and the segment of a circle which is less than a semicircle ...
+* He gave measurements of plane figures which agree with the formulas used by Heron, notably those for the equilateral triangle, the regular hexagon (in this case not only the formula but the actual figures agree with Heron's) and the segment of a circle which is less than a semicircle ...
 * However, most historians believed that both Columella and Heron were using an earlier source and claimed that the similarity did not prove any dependence.
 * We now know that those who believed that Heron lived around the time of Columella were in fact correct, for Neugebauer in 1938 discovered that Heron referred to a recent eclipse in one of his works which, from the information given by Heron, he was able to identify with one which took place in Alexandria at 23.00 hours on 13 March 62.
 * From Heron's writings it is reasonable to deduce that he taught at the Museum in Alexandria.

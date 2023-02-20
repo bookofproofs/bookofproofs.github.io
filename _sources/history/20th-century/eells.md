@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The success of Eells symposium led to the setting up of a Mathematics Division of the Centre and Eells became its first director in 1986.
 * The work of the Centre is particularly aimed at helping scientist in Third World countries to participate fully in their specialities and Eells' role as Director of the Mathematics Division reflected his passion to support mathematicians working in low income countries.
 * We should say more about Eells substantial and deep contributions to mathematics.
-* In fact Eells went on to publish two definitive surveys on the topic with Luc Lemaire who studied for a doctorate under Eells' supervision.
+* Eells went on to publish two definitive surveys on the topic with Luc Lemaire who studied for a doctorate under Eells' supervision.
 * In 1992 a selection of Eells' papers on Harmonic maps was published as a book with this title in 1992.
 * Other books written by Eells on this topic were Selected topics in harmonic maps (1983) with Luc Lemaire, Harmonic maps and minimal immersions with symmetries (1992) with Andrea Ratto (another PhD student of Eells' who received his doctorate in 1987), and Harmonic maps between Riemannian polyhedra (2001) with the Danish mathematician B Fuglede.
 * In 1992 Eells retired from his professorship at the University of Warwick and ended his role as director of the Mathematics Division of the International Centre for Theoretical Physics at Trieste.

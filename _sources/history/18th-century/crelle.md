@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Crelle was certainly not a great original mathematician, but he had three qualities which made him as important for the subject as any great researcher might have been.
 * Crelle was very much in control of the journal, and he acted as editor-in-chief for the first 52 volumes.
 * Crelle realised the importance of Abel's work and published several articles by him in this first volume, including his proof of the insolubility of the quintic equation by radicals.
-* In fact Abel and Steiner had strongly encouraged Crelle in his founding of the journal and Steiner was also a major contributor to the first volume of Crelle's Journal.
+* Abel and Steiner had strongly encouraged Crelle in his founding of the journal and Steiner was also a major contributor to the first volume of Crelle's Journal.
 * Other young mathematicians had their first papers published in Crelle's journal, largely due to his genius in spotting the importance of their research.
 * In addition to Abel, mathematicians such as Dirichlet, Eisenstein, Grassmann, Hesse, Jacobi, Kummer, Lobachevsky, Möbius, Plücker, von Staudt, Steiner, and Weierstrass all had their early works made famous by publication in Crelle's journal.
 * In 1828 Crelle left the service of the Prussian Ministry of the Interior and joined the Prussian Ministry of Education and Cultural Affairs.

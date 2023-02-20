@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Adam Ries's name appears with a number of different spellings, a common phenomenon with people living around this time who were certainly not consistent with their own spelling of their names.
 * Certainly Contz Ries was well-off.
 * Sturtz's home was a famous meeting place of the Humanists and Ries made many useful contacts there.
-* In fact it was Sturtz who gave Ries a collection of manuscripts on algebra and arithmetic which had been given to him by Johannes Widman.
+* It was Sturtz who gave Ries a collection of manuscripts on algebra and arithmetic which had been given to him by Johannes Widman.
 * Ries wrote his first two books while in Erfurt: these are Rechnung auff der linihen Ⓣ(Reckoning with lines) (1518) and Rechnung auff der linihen und Federn Ⓣ(Reckoning with lines and springs) (1522).
 * In 1523 Ries became 'Bergbeamter' (engineer and inspector of mines) in Annaberg, which is a centre for the silver-mining region of Saxonia, and he also taught mathematics there.
 * In the same year of 1525, Ries took the necessary oath to become a citizen of the city.

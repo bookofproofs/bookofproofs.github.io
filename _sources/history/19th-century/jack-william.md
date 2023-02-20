@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is worth noting that Gibson had been an assistant of Jack's at the University before he took up the appointment at Glasgow Technical College.
 * In the year after Jack's retirement, the William Jack Prize was founded in commemoration of his services to Glasgow University.
 * In commemoration of his fifty years of service as teacher of mathematics, a fund of three hundred pounds has been secured, the income of which will be known as the William Jack prize.
-* Let us note that MacRobert, who succeeded Gibson as professor of Mathematics at Glasgow University himself won the William Jack Prize in 1916.
+* MacRobert, who succeeded Gibson as professor of Mathematics at Glasgow University himself won the William Jack Prize in 1916.
 * William Jack was elected an honorary member of the Edinburgh Mathematical Society in March 1902.
 
 Born 29 May 1834, Stewarton, Ayrshire, Scotland. Died 23 March 1924, Glasgow, Scotland.

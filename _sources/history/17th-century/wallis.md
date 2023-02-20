@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He also studied logic at this school but mathematics was not considered important in the best schools of the time, so Wallis did not come in contact with that topic at school.
 * In 1637 Wallis received his BA and continued his studies receiving his Master's Degree in 1640.
-* one evening at supper, a letter in cipher was brought in, relating to the capture of Chichester on 27 December 1642, which Wallis in two hours succeeded in deciphering.
+* One evening at supper, a letter in cipher was brought in, relating to the capture of Chichester on 27 December 1642, which Wallis in two hours succeeded in deciphering.
 * This was the time of the Civil War between the Royalists and Parliamentarians and Wallis used his skills in cryptography in decoding Royalist messages for the Parliamentarians.
 * In 1644 Wallis became secretary to the clergy at Westminster and through this he was given a fellowship at Queen's College, Cambridge.
 * In this passage we have modernised Wallis's English a little to make it more easily understood.
@@ -48,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wallis made other contributions to the history of mathematics by restoring some ancient Greek texts such as Ptolemy's Harmonics, Aristarchus's On the magnitudes and distances of the sun and moon and Archimedes' Sand-reckoner.
 * Wallis became involved in a bitter dispute with Hobbes, who although a fine scholar, was far below Wallis's class as a mathematician.
 * Wallis's book Arithmetica infinitorum with his methods was in press at the time and he refuted Hobbes claims.
-* of Wallis with the pamphlet Six lessons to the Professors of Mathematics at the Institute of Sir Henry Savile.
 * Wallis replied with the pamphlet Due Correction for Mr Hobbes, or School Discipline for not saying his Lessons Aright to which Hobbes wrote the pamphlet The Marks of the Absurd Geometry, Rural Language etc.
 * One aspect of Wallis's mathematical skills has not yet been mentioned, namely his great ability to do mental calculations.
 * It was a feat which was rightly considered remarkable, and Oldenburg, the Secretary of the Royal Society, sent a colleague to investigate how Wallis did it.

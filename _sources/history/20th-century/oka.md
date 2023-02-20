@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kiyoshi Oka** was a Japanese mathematician who worked in the theory of several complex variables.
 
 ### Mathematical Profile (Excerpt):
-* In fact 1929 was a very significant year for Oka for in that year he took sabbatical leave and went to the University of Paris.
+* 1929 was a very significant year for Oka for in that year he took sabbatical leave and went to the University of Paris.
 * Oka remained on the staff at the Imperial University of Kyoto while he was on leave in Paris but on his return to Japan in 1932 he accepted a position as assistant professor in the Faculty of Science of Hiroshima University.
 * In 1938 Oka went to Kimitoge in Wakayama where he studied, presented his doctoral thesis to the University of Kyoto in 1940.
 * After obtaining his doctorate, Oka was a research assistant at Hokkaido University during 1941/41, then, with the support of the Huju-kai Foundation under the chairmanship of Takagi, he spent the next seven years again at Kimitoge in Wakayama.

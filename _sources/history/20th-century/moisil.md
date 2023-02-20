@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These algebras are now called Łukasiewicz-Moisil algebras or L-M algebras.
 * First we must comment on the title of this paper, in particular the term non-chrysippiennes used by Moisil in the title.
 * Moisil feels that the strictest standpoint in classical (formal) logic is represented by Chrysippus rather than Aristotle.
-* To show the breadth of Moisil's research, let us note that in 1940 he also published Sur les petits mouvements des corps élastiques Ⓣ(On the small movements of elastic bodies)  and Sur les géodésiques des espaces de Riemann singuliers Ⓣ(On the surveying of singular Riemann spaces).
+* To show the breadth of Moisil's research, in 1940 he also published Sur les petits mouvements des corps élastiques Ⓣ(On the small movements of elastic bodies)  and Sur les géodésiques des espaces de Riemann singuliers Ⓣ(On the surveying of singular Riemann spaces).
 * A position of professor at Bucharest University became available in 1941 and Moisil put himself forward for the position.
 * However, Vrănceanu, Barbilian and Miron Nicolescu also applied for the post and Moisil was the youngest of these four, very well qualified, applicants.
 * Moisil approached the ministry of education explaining what a great opportunity it would be for mathematics in Romania if all of them were to be appointed as professors in Bucharest.

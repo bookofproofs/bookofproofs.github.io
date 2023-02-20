@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While in Edinburgh Ledermann also worked with Max Born and A C Aitken.
 * In 1938 Ledermann returned to St Andrews.
 * Your special knowledge of the applications of mathematics to problems involving matrices and statistics is an advantage; but you will realise, Walter, in view of the needs of this Department, that proficiency in teaching Applied Mathematics and the functions connected therewith will be important.
-* In fact Ledermann remained at St Andrews from 1938 until 1946.
+* Ledermann remained at St Andrews from 1938 until 1946.
 * Ledermann accepted a lectureship at the University of Manchester in 1946.
 * By the time he left Manchester, Ledermann had been promoted to a Senior lecturer.
 * As well as work in matrix theory which we have commented on above, Ledermann was especially known for his work in homology theory, group theory, and number theory.
@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 Born and A C Aitken.
 * In 1938 Ledermann returned to St Andrews.
 * Your special knowledge of the applications of mathematics to problems involving matrices and statistics is an advantage; but you will realise, Walter, in view of the needs of this Department, that proficiency in teaching Applied Mathematics and the functions connected therewith will be important.
-* In fact Ledermann remained at St Andrews from 1938 until 1946.
+* Ledermann remained at St Andrews from 1938 until 1946.
 * Ledermann's wife Ruth (known as Rushi) was a psychotherapist and the newly married couple decided to move to a bigger city so that Ruth might be able to pursue her work.
 * Ledermann accepted a lectureship at the University of Manchester in 1946.
 * By the time he left Manchester, Ledermann had been promoted to a Senior lecturer.
@@ -59,7 +59,7 @@ Born and A C Aitken.
 Born and A C Aitken.
 * In 1938 Ledermann returned to St Andrews.
 * Your special knowledge of the applications of mathematics to problems involving matrices and statistics is an advantage; but you will realise, Walter, in view of the needs of this Department, that proficiency in teaching Applied Mathematics and the functions connected therewith will be important.
-* In fact Ledermann remained at St Andrews from 1938 until 1946.
+* Ledermann remained at St Andrews from 1938 until 1946.
 * Ledermann's wife Ruth (known as Rushi) was a psychotherapist and the newly married couple decided to move to a bigger city so that Ruth might be able to pursue her work.
 * Ledermann accepted a lectureship at the University of Manchester in 1946.
 * By the time he left Manchester, Ledermann had been promoted to a Senior lecturer.

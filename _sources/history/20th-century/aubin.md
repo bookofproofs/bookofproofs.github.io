@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Philippe Delanoë attended Aubin's graduate course at the Pierre and Marie Curie University in 1976-77 and then became his doctoral student.
 * This became known as the 'Yamabe problem' and it was something to which Aubin made substantial contributions.
 * Aubin proved an important special case of the Calabi conjecture in Equations du type Monge-Ampère sur les variétés kählériennes compactes Ⓣ(Equations of the Monge-Ampere type on compact Kähler varieties).
-* In fact in 1978 it was Shing-Tung Yau who extended Aubin's results and completed the proof of the Calabi conjecture which earned him a Fields medal in 1982.
+* In 1978 it was Shing-Tung Yau who extended Aubin's results and completed the proof of the Calabi conjecture which earned him a Fields medal in 1982.
 * Professor Aubin has also written several books about geometric PDE that have a wide influence in geometric analysis.
 * We consider Professor Aubin as one of the anchor in the field of geometric PDE in recent decades.
 * Let us now look briefly at three important books published by Aubin.

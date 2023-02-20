@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Clearly with Johnson in Annapolis where he had previously worked with the U.S. Naval Academy, he could continue to keep his links with the Academy despite teaching at St John's College.
 * We promised above to give some more details of Johnson's sons.
 * Charles William Leverett Johnson (1870-1954) was awarded a B.A. from Johns Hopkins University in 1891 and then continued to study there for a Ph.D. He was awarded his Ph.D. from Johns Hopkins in 1896 for his thesis Musical Pitch and the Measurement of Intervals Among the Ancient Greeks.
-* In fact Charles Johnson became an Instructor in Greek at Yale University publishing his thesis and the book The motion of the voice: In the theory of ancient music (1899).
+* Charles Johnson became an Instructor in Greek at Yale University publishing his thesis and the book The motion of the voice: In the theory of ancient music (1899).
 * Johnson's younger son, Theodore Woolsey Johnson (1872-1953), was as he said in the above quote, more in his own line.
 * Johnson was one of the founders of New York Mathematical Society in 1888.
 * The New York Mathematical Society became the American Mathematical Society in 1894 and Johnson served on the AMS Council.

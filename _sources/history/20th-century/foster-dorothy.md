@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dorothy sat the University of Cambridge General Certificate Examinations in the Summer of 1952 passing Latin, Mathematics and Further Mathematics at the Advanced Level and the General Paper at the Ordinary Level.
 * Dorothy's thesis was Some arithmetical properties of quadratic polynomials (May 1960).
 * Wilfred Norman Bailey (1893-1961) was Head of Mathematics at Bedford College when Dorothy studied there, retiring in 1958 before she completed her research.
-* In fact there had been a difficulty with Dorothy's Ph.D. studies for, in the middle of her work, her Ph.D. supervisor J H H Chalk had left Bedford College and moved to the University of Toronto in Canada.
+* There had been a difficulty with Dorothy's Ph.D. studies for, in the middle of her work, her Ph.D. supervisor J H H Chalk had left Bedford College and moved to the University of Toronto in Canada.
 * In February 1960, even before she had submitted her thesis to Royal Holloway College, Dorothy Foster was appointed to the Department of Mathematics at the University of St Andrews.
 * Dorothy continued as a member of Pure Mathematics throughout her career, although the Department later became the Division of Pure Mathematics in the School of Mathematics and Statistics.
 * As a lecturer Dorothy was always exceptionally well prepared, with well thought out lectures.

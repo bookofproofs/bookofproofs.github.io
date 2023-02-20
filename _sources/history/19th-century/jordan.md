@@ -28,12 +28,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cauchy in particular had been one to take this route and, like Cauchy, Jordan was able to work as an engineer and still devote considerable time to mathematical research.
 * Jordan's doctoral thesis was in two parts with the first part Sur le nombre des valeurs des fonctions Ⓣ(On the number of function values) being on algebra.
 * Jordan was examined on 14 January 1861 by Duhamel, Serret and Puiseux.
-* In fact the topic of the second part of Jordan's thesis had been proposed by Puiseux and it was this second part which the examiners preferred.
+* The topic of the second part of Jordan's thesis had been proposed by Puiseux and it was this second part which the examiners preferred.
 * Jordan was a mathematician who worked in a wide variety of different areas essentially contributing to every mathematical topic which was studied at that time.
 * Volumes 1 and 2 contain Jordan's papers on finite groups, Volume 3 contains his papers on linear and multilinear algebra and on the theory of numbers, while Volume 4 contains papers on the topology of polyhedra, differential equations, and mechanics.
 * Jordan introduced the notion of homotopy of paths looking at the deformation of paths one into the other.
 * Jordan was particularly interested in the theory of finite groups.
-* In fact this is not really an accurate statement, for it would be reasonable to argue that before Jordan began his research in this area there was no theory of finite groups.
+* This is not really an accurate statement, for it would be reasonable to argue that before Jordan began his research in this area there was no theory of finite groups.
 * It was Jordan who was the first to develop a systematic approach to the topic.
 * Serret, Bertrand and Hermite had attended Liouville's lectures on Galois theory and had begun to contribute to the topic but it was Jordan who was the first to formulate the direction the subject would take.
 * To Jordan a group was what we would call today a permutation group; the concept of an abstract group would only be studied later.

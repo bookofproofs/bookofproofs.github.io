@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This hypothesis is appealing, but other witnesses like Simioni, who claimed the number of those denounced by Giordano in the depositions he gave after his arrest were 259, cannot be ignored.
 * In any case Giordano spent four years in prison, until December of 1798 when the French troops led by general Philibert-Guillame Duhesme conquered L'Aquila.
 * On 27 January 1800 the state council, with the king's approval, sentenced Giordano to death.
-* the two prisoners, the same Annibale Giordano, expert in betrayals, and Francesco Bassetti, general of the republic, who revealed the advanced escape plan to the head of the fort in exchange for their freedom.
+* The two prisoners, the same Annibale Giordano, expert in betrayals, and Francesco Bassetti, general of the republic, who revealed the advanced escape plan to the head of the fort in exchange for their freedom.
 * And in fact, seventeen men suffered the cruellest fate: the two lived an infamous life, that of Bassetti was short, while Giordano's was long but not miserable.
 * In any case, Giordano's last years were never really "miserable".
 

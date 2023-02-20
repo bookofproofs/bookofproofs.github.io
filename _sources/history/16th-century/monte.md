@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should notice at this point that he signed himself Guidobaldo dal Monte (using 'dal' rather than 'del' as was fairly common at the time) so it is not unusual to see him referred to as Guidobaldo dal Monte rather than Guidobaldo del Monte.
 * For convenience, however, we will refer to him as Guidobaldo throughout this article, although in other places in this archive we refer to him as del Monte.
 * Guidobaldo studied mathematics at the University of Padua in 1564.
-* In fact Guidobaldo may have known Tasso before they studied at Padua together, for Tasso was almost exactly the same age as Guidobaldo and had been educated at the court of the Duke of Urbino, with the duke's son, from 1556.
+* Guidobaldo may have known Tasso before they studied at Padua together, for Tasso was almost exactly the same age as Guidobaldo and had been educated at the court of the Duke of Urbino, with the duke's son, from 1556.
 * For a while Guidobaldo served in the army during the war against the Ottoman in Hungary.
 * After serving in the army, Guidobaldo returned to his estate of Montebaroccio in Urbino where he was able to spend his time doing research into mathematics, mechanics, astronomy and optics.
 * Guidobaldo's book Liber mechanicorum (1577) was regarded as the greatest work on statics since Greek times.

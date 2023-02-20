@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Heawood was awarded a Junior Mathematical Scholarship in 1882 and a Senior Mathematical Scholarship in 1886.
 * In 1886 he was also awarded the Lady Herschell Prize.
 * In 1887 Heawood was appointed Lecturer in Mathematics at Durham Colleges (later Durham University).
-* In fact Heawood worked at Durham University all his life being appointed to the Chair of Mathematics there in 1911.
+* Heawood worked at Durham University all his life being appointed to the Chair of Mathematics there in 1911.
 * He served the university in many capacities, in particular he was a member of the Senate from 1905 and served as Vice-Chancellor from 1926 to 1928.
 * He did not retire until 1939 when he was 78 years of age but still went on to enjoy 16 years of retirement.
 * Heawood spent 60 years of his life working on the four colour theorem.

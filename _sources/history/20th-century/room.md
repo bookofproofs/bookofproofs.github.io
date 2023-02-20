@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By nature Room was a rather private person, who rarely showed his inner feelings in public.
 * Room served as Dean of the Faculty of Science from 1952 to 1956 and again from 1960 to 1965.
 * One other achievement for which he is known today by many is his introduction of "Room squares" in the paper A new type of magic square (1955).
-* In fact Robert Richard Anstice had constructed an infinite number of Room squares a hundred years before Room wrote his paper.
+* Robert Richard Anstice had constructed an infinite number of Room squares a hundred years before Room wrote his paper.
 * For many years it was thought that the squares first appeared in Room's paper so they were named for him.
 * In 1941 Room was awarded the Thomas Ranken Lyle Medal by the Australian National Research Council and in the same year he was elected a fellow of the Royal Society of London.
 * In 1968 Room retired from his professorship at the University of Sydney.

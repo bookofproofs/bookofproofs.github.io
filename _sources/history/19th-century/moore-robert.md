@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Robert received a good education at a private high school in Dallas, and before he entered university he had learnt university level calculus by studying the university textbooks.
 * He graduated with a Sc.B. in 1901 and after a year as a teaching fellow at the University of Texas, Moore spent the academic year 1902-03 as a mathematics instructor at the High School in Marshall, Texas.
-* In fact Moore would have remained at the University of Texas rather than spend the year teaching in a high school but, for some reason which is not clear, the university regents refused to renew his appointment despite strong protests from Halsted.
+* Moore would have remained at the University of Texas rather than spend the year teaching in a high school but, for some reason which is not clear, the university regents refused to renew his appointment despite strong protests from Halsted.
 * Halsted had suggested a problem in one of his classes which had led Moore to prove that one of Hilbert's geometry axioms was redundant.
 * Eliakim Moore, who was the head of mathematics at Chicago University, heard of this contribution and, since his research interests at the time were precisely on the foundations of geometry, Eliakim Moore organised the award of a scholarship that would allow Robert Moore to study for his doctorate in Chicago.
 * We should note that despite the fact that Eliakim Moore and Robert Moore shared the same surname and the same research interests, they were not related.

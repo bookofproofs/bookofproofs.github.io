@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Meyer presented his habilitation to the University of Tübingen in 1880 and taught there until 1888.
 * Meyer was appointed as professor of mathematics at the Bergakademie (mining academy) in Clausthal-Zellerfeld in the Harz Mountains in 1888.
-* In fact it is worth noting that Sommerfeld was appointed to fill the chair of mathematics at the mining academy in Clausthal-Zellerfeld when Meyer left in 1897.
+* It is worth noting that Sommerfeld was appointed to fill the chair of mathematics at the mining academy in Clausthal-Zellerfeld when Meyer left in 1897.
 * As indicated by the thesis which he submitted for his habilitation, the title of which we quoted above, Meyer's interests lie in the study of algebraic geometry, algebraic curves and projective invariant theory.
 * Meyer's article was very influential and was translated from German into French, Italian and Polish.
 * Together with Heinrich Weber and Klein, Meyer founded the Encyclopädie der Mathematischen Wissenschaften.

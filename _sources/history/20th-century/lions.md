@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre-Louis Lions** is a French mathematician best known for his work on partial differential equations and the calculus of variations.
 
 ### Mathematical Profile (Excerpt):
-* Let us note that Grasse is not very far from Draguignan where Alain Connes, who won a Fields Medal 12 years before Lions won his Fields Medal, was born.
+* Grasse is not very far from Draguignan where Alain Connes, who won a Fields Medal 12 years before Lions won his Fields Medal, was born.
 * Lions studied at the École Normale Supérieure from 1975 to 1979.
 * From 1979 to 1981 Lions held a research post at the Centre National de la Recherche Scientifique in Paris.
 * Lions has made some of the most important contributions to the theory of nonlinear partial differential equations through the 1980s and 1990s.
@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lions's clever idea was to introduce "concentration compactness" techniques which look at energy concentrations and so avoid problems which occur when examining the minimising sequences without compactness.
 * Lions has received many awards for his outstanding contributions to mathematics.
 * In addition to the Paris Academy, Lions has been elected a member of the Naples Academy and the European Academy.
-* Finally let us note that Lions was awarded the Prix Thomson (2004) and, on behalf of his team, the Prix Institut de Finance Europlace (2003).
+* Lions was awarded the Prix Thomson (2004) and, on behalf of his team, the Prix Institut de Finance Europlace (2003).
 * Lions lists his hobbies as cinema and reading, and his favourite sports as rugby and swimming.
 
 Born 11 August 1956, Grasse, Alpes-Maritimes, France.

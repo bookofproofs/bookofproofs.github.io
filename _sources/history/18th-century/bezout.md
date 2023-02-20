@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Of course on the face of it this does not help solve the equation but Bézout made the simplifying assumption that one of the two equations was of a particularly simple form.
 * Already this paper had introduced the topic to which Bézout would make his most important contributions, namely methods of elimination to produce from a set of simultaneous equations, a single resultant equation in one of the unknowns.
 * As a result of the ideas in this paper for solving systems of simultaneous equations, Sylvester, in 1853, called the determinant of the matrix of coefficients of the equations the Bézoutiant.
-* These and further papers published by Bézout in the theory of equations were gathered together in Théorie générale des équations algébraiques Ⓣ(General theory of algebraic equations) which was published in 1779.
+* These and further papers published by Bézout in the theory of equations were gathered together in "Théorie générale des équations algébraiques" Ⓣ(General theory of algebraic equations) which was published in 1779.
 * By a complete equation Bézout meant one defined by a polynomial which contains terms of all possible products of the unknowns whose degree does not exceed that of the polynomial.
 * Despite this Bézout, who was prepared to enter long and difficult algebraic manipulations, proved his theorem with just a little hand waving over an inductive argument.
 * In this work Bézout also gave the first satisfactory proof of a result of Maclaurin on the intersection of two algebraic curves.

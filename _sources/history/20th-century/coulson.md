@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Coulson thanks E T Copson in the Preface of the book for his help in preparing the text.
 * Coulson left his chair in London in 1952 when he was appointed Rouse Ball Professor of Mathematics at the University of Oxford where he was also made a fellow of Wadham College.
 * In 1970 Coulson underwent an operation for cancer of the prostate.
-* In fact Coulson was elected President of the Institute of Mathematics and its Applications in 1972 and held this position until his death.
+* Coulson was elected President of the Institute of Mathematics and its Applications in 1972 and held this position until his death.
 * Coulson was a talented expositor and this is demonstrated in all his works such as Waves and Electricity which we made special mention of above, and also his best-selling work Valence published in 1952.
 * Many honours were thrust on Coulson for his outstanding contributions to mathematics and chemistry.
 * However, one must not think that, because Coulson undertook such a massive amount of scientific work, he would have no time for other activities.

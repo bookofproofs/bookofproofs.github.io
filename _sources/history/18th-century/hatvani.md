@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hatvani made his most significant contribution when he published Introductio ad principia philosophicae solidioris Ⓣ(Introduction to the principles of solid philosophy) in 1757.
 * In this work Hatvani described the theory of probability, in particular basing his material on Jacob Bernoulli's Ars conjectandi Ⓣ(The art of conjecture).
 * For example Hatvani presents tables for the number of births in Debrecen for the years 1750 to 1753 inclusive.
-* In fact Hatvani used his medical skills not only in such investigations, but also in caring for the health of the students at the College of Debrecen.
+* Hatvani used his medical skills not only in such investigations, but also in caring for the health of the students at the College of Debrecen.
 
 Born 21 November 1718, Rimaszombat, Hungary (now Rimavská Sobota, Slovakia). Died 16 November 1786, Debrecen, Hungary.
 

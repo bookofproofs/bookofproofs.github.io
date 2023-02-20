@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Feller** was a Croatian-born American mathematician who worked on probability and is best known as the author of a standard work on Statistics.
 
 ### Mathematical Profile (Excerpt):
-* In fact his first name was not William.
+* His first name was not William.
 * William was educated by private tutors as well as attending secondary school at the First Realgymnasium, Zagreb.
 * William graduated from the Realgymnasium in June 1923 and entered the University of Zagreb in October of that year.
 * However, Vladimir Varicak was the lecturer who influenced Feller most.

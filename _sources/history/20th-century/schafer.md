@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another postgraduate student at the University of Chicago whom she met there was Richard Schafer.
 * Alice Schafer, as she was to become, had been awarded an M.S. by Chicago and continued to study there for her doctorate under E P Lane.
 * Under Lane she studied projective differential geometry and submitted her dissertation on Singularities of Space Curves.
-* In fact she later published two papers based on the work of her dissertation: Two singularities of space curves appeared in the Duke Mathematical Journal in 1944, and The neighborhood of an undulation point on a space curve appeared in the American Journal of Mathematics in 1948.
+* She later published two papers based on the work of her dissertation: Two singularities of space curves appeared in the Duke Mathematical Journal in 1944, and The neighborhood of an undulation point on a space curve appeared in the American Journal of Mathematics in 1948.
 * are inflection points and planar points.
 * The curve is assumed to be analytic and thus can be represented in the neighbourhood of the point in question by power series.
 * Choice of the proper projective coordinate system permits the reduction of these power series to simple canonical forms.

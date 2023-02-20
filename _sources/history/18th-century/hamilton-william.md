@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * William was educated at a variety of Scottish and English schools before entering the University of Glasgow when he was 12 years old to study Greek and Latin.
 * In 1807, having been award a Snell exhibition, Hamilton matriculated in Balliol College, Oxford.
-* on the personal side, Hamilton was aggressive and opinionated in discussion, and in a university that took the literary qualities of the classics more seriously than their philosophical qualities, his erudition may have seemed more awkward than attractive.
+* On the personal side, Hamilton was aggressive and opinionated in discussion, and in a university that took the literary qualities of the classics more seriously than their philosophical qualities, his erudition may have seemed more awkward than attractive.
 * Back in Edinburgh Hamilton joined the legal profession becoming an advocate.
 * From this time on he dropped his middle name of Stirling and called himself Sir William Hamilton of Preston and Fingalton, baronet.
 * In 1821 Hamilton was appointed professor of civil history at Edinburgh University but from 1829 he began to become known as a philosopher when he published an article in the Edinburgh Review which discussed Kant's ideas.

@@ -29,12 +29,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lazare's elementary education was first from M Masson, then from M Boisson, both excellent Latinists, at the small college in Nolay.
 * Here Carnot studied mathematics, logic and theology, his teacher being Abbé Bisson.
 * The Duke offered to contact the Ministry of War to allow Carnot to be admitted to the engineering corps despite recent moves to limit numbers entering.
-* He had noticed young Carnot ...
-* class of one hundred and fifteen taking the examination, Carnot was appointed as a second lieutenant to the engineering school at Mézières.
 * Carnot was taught at the School of Engineering in Mézières by Gaspard Monge among others.
 * Carnot, also from Burgundy, and now an expert on fortifications had entered the Dijon Academy's competition.
 * Carnot, now captain in the Corps du Royal Génie in the garrison at Arras, received two gold medals and the Academy's prize on 2 August 1784, the presentation being by the Prince of Condé himself.
-* Carnot's Éloge de Vauban Ⓣ(Tribute to Vauban) was praised for its enthusiasm, its warmth of expression, and its compassion and he was described as learned and eloquent.
+* Carnot's "Éloge de Vauban" Ⓣ(Tribute to Vauban) was praised for its enthusiasm, its warmth of expression, and its compassion and he was described as learned and eloquent.
 * Marc René, Marquis de Montalembert (1714-1800) had improved on Vauban's fortifications but now Carnot was quickly gaining a reputation for improving on Montalembert's ideas.
 * They had three sons: Sadi Carnot, an important mathematician with a biography in this archive, was born on 19 July 1794; Nicolas Léonard Sadi Carnot was born on 1 June 1796, he became a physicist who worked on thermodynamics; and Lazare Hippolyte Carnot, born 6 April 1801, who became a journalist and then Minister of Public Instruction and a member of the Academy of Moral and Political Sciences.
 * General Gratien thought this attack was too daring, so Carnot ordered his arrest right there on the battlefield.
@@ -47,17 +45,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The year 1797 was an eventful one for Carnot.
 * The book was an extended version of the essay which Carnot had submitted for the Berlin Academy Prize in 1786 but had failed to win, the prize being awarded to Simon Lhuilier.
 * Thiele writes that Carnot's approach to mathematics shows strongly his engineering background.
-* to Carnot negative quantities are impossible, and zero, just like infinity, is a limit.
+* To Carnot negative quantities are impossible, and zero, just like infinity, is a limit.
 * It is true that Weierstrass's point of view is the dominant one today; it is also true that it gives a satisfactory approach; but it is no less true that that of Carnot (who, moreover, owes a lot to Lagrange) could have given a just as satisfactory approach, and another explanation must be found for the choice ultimately made by history.
 * Indeed Carnot offers a true axiomatic approach.
-* a body of troops (including artillery), having rallied under Barras' window (adjacent to Carnot's in the Luxembourg Palace where the Directors had their apartments), came to Carnot's front door while unidentified "assassins" waited at the back in the garden.
-* Carnot fled to Switzerland going on to Nuremberg in Germany.
-* In 1800 Carnot returned to France with Napoleon's permission.
 * Carnot became Napoleon Bonaparte's minister of war for a period of five months and was promoted further to the rank of lieutenant-general.
 * Carnot's republican views made further service impossible and he retired from public life.
 * Carnot is best known as a geometer.
 * In this 1801 work, Carnot proposes an original idea regarding the difference between analysis and synthesis.
-* Carnot's military masterpiece De la défense des places fortes Ⓣ(Defending strongholds) was published in 1809.
+* Carnot's military masterpiece "De la défense des places fortes" Ⓣ(Defending strongholds) was published in 1809.
 * Carnot's interests turned toward the steam engine with the first steam engine coming to Magdeburg in 1818.
 * Sadi Carnot published his masterpiece on the thermodynamics of the steam engine three years later.
 * Carnot was convinced that the key to organise nations and people, to elevate citizens to become true nation-builders, is based on the moral quality of leadership whose excellence is not based in the academic knowledge of theories and books, but which shows in particular under conditions of crisis, wars, and duress.

@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was a difficult decision for Tucker who really enjoyed physics but felt that he had a deeper understanding of mathematics.
 * In his final year of undergraduate study Tucker was advised by DeLury to go abroad for graduate study.
 * Tucker immediately rejected the non-English speaking universities, and wrote to the University of Cambridge enquiring about their graduate programme.
-* In fact the courses did not look too attractive to Tucker so, after the award of his B.A. in 1928, he remained at Toronto for a fifth year.
+* The courses did not look too attractive to Tucker so, after the award of his B.A. in 1928, he remained at Toronto for a fifth year.
 * Tucker, however, wanted to go to Princeton and eventually DeLury agreed.
 * However there was a part-time Instructorship which Princeton was about to fill so, with Alfred DeLury's support, Tucker was appointed to this position for 1929-30.
 * Tucker received his doctorate in 1932 for his thesis An Abstract Approach to Manifolds.

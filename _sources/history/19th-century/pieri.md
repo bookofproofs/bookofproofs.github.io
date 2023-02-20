@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The competition for the permanent Bologna post did not take place until October 1896; Enriques was appointed with Pieri coming a close second.
 * In 1900 Pieri left Turin to take up an appointment at the University of Catania in eastern Sicily, after winning the competition for a chair.
 * After spending eight years in Sicily, Pieri moved to the north of Italy, taking up an appointment in Parma.
-* In fact, although Pieri's main area was projective geometry, and he is an important member of the Italian School of Geometers, however, after he moved to Turin, he became influenced by Giuseppe Peano at the University and Cesare Burali-Forti who was a colleague at the Military Academy.
+* Although Pieri's main area was projective geometry, and he is an important member of the Italian School of Geometers, however, after he moved to Turin, he became influenced by Giuseppe Peano at the University and Cesare Burali-Forti who was a colleague at the Military Academy.
 * Their influence had led Pieri to study the foundations of geometry.
 * In 1898 Pieri had published the memoir The principles of the geometry of position through the Academy of Sciences of Turin.
 * Pieri had been invited to attend both the Congress of Philosophy and the International Congress of Mathematicians in Paris in 1900.

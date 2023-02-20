@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kelly Miller** was an African-American mathematician, sociologist, essayist, newspaper columnist and author.
 
 ### Mathematical Profile (Excerpt):
-* In fact in 1865, when Kelly was two years old, Union troops led by General Sherman destroyed large parts of his home town of Winnsboro.
+* 1865, when Kelly was two years old, Union troops led by General Sherman destroyed large parts of his hometown of Winnsboro.
 * Kelly benefited from a newly set up primary school where he received an education.
 * Richardson, who taught Kelly humanities and classics, realised that he had considerable talents, particularly in mathematics, and he recommended that Kelly continue his education at the Fairfield Institute in Winnsboro, an Institute for African-Americans founded by Richardson who was its first principal.
 * Miller was awarded a scholarship to study there but had to take a 3-year Preparatory Course covering Latin, Greek, and mathematics before attending the College of Arts and Sciences at Howard.

@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Florence Nightingale David was given the names 'Florence Nightingale' by her parents because they were friends of Florence Nightingale.
-* In fact Florence Nightingale died a year after Florence Nightingale David was born.
+* Florence Nightingale died a year after Florence Nightingale David was born.
 * In 1929 Florence entered Bedford College for Women with the intention of becoming an actuary.
 * Pearson was certainly impressed with David and he offered her a research assistant position in University College London.
 * In that year Wilks and Churchill Eisenhart visited London and together with David attended Fisher's lectures.

@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Berkeley Chuaqui was advised by David Blackwell who had been appointed to a professorship at the University of California at Berkeley in 1954.
 * He advised Chuaqui who submitted his Ph.D. thesis A definition of probability based on equal likelihood in 1965.
 * After the award of his Ph.D., Chuaqui returned to Chile and was appointed to the Department of Mathematics in the Faculty of Sciences of the University of Chile.
-* In fact Chuaqui had begun writing this paper while still in Berkeley and had submitted it on 1 January 1965.
+* Chuaqui had begun writing this paper while still in Berkeley and had submitted it on 1 January 1965.
 * When Chuaqui took up his position in the Department of Mathematics in the University of Chile in Santiago de Chile he began enthusiastically contributing to its development.
 * Chuaqui did not agree with other members in the Faculty of Engineering on the direction that mathematics teaching should take and in 1969 he resigned and was appointed as a professor at the Pontifical Catholic University of Chile.
 * Abraham Robinson had met Chuaqui when he had visited the University of California in 1967.

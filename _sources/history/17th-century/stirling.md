@@ -68,7 +68,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 6 December 1733 Stirling read a paper to the Royal Society entitled Twelve propositions concerning the figure of the Earth.
 * Indeed Stirling did submit an extended version of his results which appeared as Of the figure of the Earth, and the variation of gravity on the surface in 1735.
 * Certainly Stirling was considered the leading British expert on the subject for the next few years by all including Maclaurin and Simpson who went on to make major contributions themselves.
-* In fact the French expedition to Ecuador, referred to by Stirling as 'the south', left in 1735 but did not return until 1744.
+* The French expedition to Ecuador, referred to by Stirling as 'the south', left in 1735 but did not return until 1744.
 
 Born May 1692, Garden (near Stirling), Scotland. Died 5 December 1770, Edinburgh, Scotland.
 

@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Geminus gave an historical account of earlier astronomical theories including those of Callippus and the Chaldeans.
 * Geminus represents observational data for the motion of the moon in longitude by means of an arithmetical function.
 * Geminus's mathematics text Theory of Mathematics is now lost but information about it is available from a number of sources.
-* In fact Proclus relies very heavily on the work of Geminus when he writes his own history of mathematics and it is fair to say that Geminus's books are the most valuable sources available to him.
+* Proclus relies very heavily on the work of Geminus when he writes his own history of mathematics and it is fair to say that Geminus's books are the most valuable sources available to him.
 * Geminus considers the concepts of 'hypothesis', 'theorem', 'postulate', 'axiom', 'line', 'surface', 'figure', 'angle' etc.
 * Geminus is critical of Euclid's axioms in this work and he offers a 'proof' of the fifth postulate.
 * The 'proof' which Geminus then gave of the parallel postulate is ingenious but it is false.

@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lindenbaum also attended a logic course by Tadeusz Kotarbiński (1886-1981).
 * Lindenbaum also attended a course on the history of philosophy given by Władysław Tatarkiewicz (1886-1880) who had taught in Wilno and Poznań before taking up an appointment in Warsaw in 1923.
 * Tatarkiewicz was also an expert on aesthetics and the history of art, and taught a course on French art which Lindenbaum attended.
-* In fact Lindenbaum's student career ended in a slightly strange way.
+* Lindenbaum's student career ended in a slightly strange way.
 * From 1929 to 1934 Lindenbaum worked on his habilitation thesis.
 * After the two papers listed above, Lindenbaum published the following papers between 1928 and 1934: Sur quelques propriétés des fonctions de variable réelle Ⓣ(On some properties of functions of a real variable) (1928); Remarques sur une question de la méthode axiomatique Ⓣ(Notes on a question of the axiomatic method) (1930); (with A Kozniewski) Sur les opérations d'addition et de multiplication dans les classes d'ensemble Ⓣ(On the operations of addition and multiplication in the general classes) (1930); Sur les ensembles ordonnés Ⓣ(On ordered sets) (1931); Bemerkung zu den vorhergehenden "Bemerkungen ..." des Herrn J.
 * After presenting his habilitation thesis, Lindenbaum became a docent in the Faculty of Mathematics and Natural Sciences.

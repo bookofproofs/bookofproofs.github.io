@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It must have been a difficult time for a woman such as Baxter taking what were considered at that time to be men's subjects.
 * With the award of her B.A. degree Baxter became the first ever woman to graduate with honours from Dalhousie University.
 * Miss Baxter spent another year in the study of Mathematics and Mathematical Physics and was awarded the degree of M.A. in 1892.
-* In fact the first three women to be awarded a Ph.D. in mathematics from Cornell University, Ida Metcalf (Ph.D. thesis Geometric Duality in Space, 1893), Annie MacKinnon (Ph.D. thesis Concomitant Binary Forms in Terms of the Roots, 1894) and Agnes Baxter (Ph.D. 1895) were all advised by James Oliver.
+* The first three women to be awarded a Ph.D. in mathematics from Cornell University, Ida Metcalf (Ph.D. thesis Geometric Duality in Space, 1893), Annie MacKinnon (Ph.D. thesis Concomitant Binary Forms in Terms of the Roots, 1894) and Agnes Baxter (Ph.D. 1895) were all advised by James Oliver.
 * When she graduated in 1895, Baxter became only the second Canadian woman to be awarded Ph.D. in Mathematics.
 * James Oliver died in the year that Baxter was awarded her Ph.D. and his mathematical notes were edited by Baxter for publication.
 * Albert Ross Hill had graduated from Dalhousie University in the same year as Baxter and had also studied for a doctorate at Cornell but his topic was philosophy, not mathematics.

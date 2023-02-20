@@ -77,7 +77,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following this, in 1873 Le Verrier again was given the post but his authority was severely restricted as he was supervised by a council.
 * Le Verrier's major piece of work looking at the whole planetary system began with a look at the inner planets and immediately he discovered a discrepancy in the motion in the perihelion of Mercury in 1855.
 * This leaves 43 seconds of arc per century unaccounted for.
-* In fact Le Verrier, because the masses of the planets was not known very accurately in his day, found an advance of the perihelion of Mercury of 38 seconds of arc per century unaccounted for.
+* Le Verrier, because the masses of the planets was not known very accurately in his day, found an advance of the perihelion of Mercury of 38 seconds of arc per century unaccounted for.
 * Now the advance of the perihelion of Mercury by more than Newtonian theory predicted was to become important evidence for Einstein's general theory of relativity, but of course none of this could be known to Le Verrier who, in a paper presented to the Academy of Sciences on 12 September 1859, attributed it to an undiscovered planet, which he called Vulcan, closer to the Sun than Mercury or to a second asteroid belt so close to the Sun as to be invisible.
 * Only three months after presenting his paper he received a letter from Edmond Lescarbault who lived in Orgères near Rennes saying he had observed the transit of Vulcan nine months earlier.
 * Le Verrier rushed to Orgères to meet with Monsieur Lescarbault.

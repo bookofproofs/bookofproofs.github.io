@@ -47,12 +47,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Indeed he did so and Hooke designed and built what is essentially the modern air pump.
 * Hooke was never a person who did one thing at a time, indeed he seemed at his best when his mind was jumping from one idea to another.
 * In 1660 he discovered an instance of Hooke's law while working on designs for the balance springs of clocks.
-* In fact 1660 was the year when a rather strange event happened regarding Hooke's spring controlled clocks.
+* 1660 was the year when a rather strange event happened regarding Hooke's spring controlled clocks.
 * Hooke's first publication was a pamphlet on capillary action.
 * The Society already had in mind appointing Hooke to this position and indeed on 5 November 1662 he was given the position.
 * In many ways it did not look a marvellous deal for he was required to demonstrate three or four experiments at every meeting of the Society, something that was quite unrealistic and it is doubtful that anyone other than Hooke could have contemplated being able to provide.
 * Although it was hoped that the Society would eventually be able to provide payment to Hooke, he was required to undertake the work without any recompense until the Society was in a position to do so.
-* In fact Hooke reacted to the impossible task set him by producing a wealth of original ideas over the following 15 years.
+* Hooke reacted to the impossible task set him by producing a wealth of original ideas over the following 15 years.
 * It would be fair to say that it was through Hooke's flood of ideas that the Society prospered, but equally the demands brought out Hooke's genius to the full.
 * In 1664 the Society agreed to pay Hooke a salary of £80 per year but shortly after this they arranged the position of Cutlerian Lecturer in the Mechanical Arts for him at a salary of £50 per year and then reduced his salary as Curator of Experiments to £30 but gave him an appointment for life.
 * This did not provide the financial security that Hooke might have hoped for, since the Society often did not have sufficient funds to pay him as Curator of Experiments and when he was not paid for his duties as Cutlerian Lecturer in the Mechanical Arts he was forced to go to court to get payment.

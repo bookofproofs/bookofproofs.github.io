@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In February 1919 they set up a committee of four, Ioffe, Krylov, Anri and Lazarev, to coordinate the receipt of foreign literature, instruments and equipment, and to restart foreign research travel.
 * Indeed Krylov was one of the first scientists allowed to travel to the West after the Revolution, travelling to London in 1921 to re-establish contacts between Russia and the West.
 * Krylov made many mathematical advances in his applications of mathematics to shipbuilding.
-* In fact Krylov published the first Russian translation from Latin of Newton's Philosophiae Naturalis Principia Mathematica in 1915.
+* Krylov published the first Russian translation from Latin of Newton's Philosophiae Naturalis Principia Mathematica in 1915.
 * Three editions were published during Krylov's lifetime, then in 1989 a facsimile reproduction of the third edition was published.
 * On 5 October 1933 Krylov gave a speech in Moscow during the celebration at the USSR Academy of Sciences of the 150th  anniversary of the death of Euler.
 * Finally let us mention some of the classic texts which Krylov published.

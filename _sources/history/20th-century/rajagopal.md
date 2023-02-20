@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He built a house at Tambaram according to his own design and settled down, as he thought at that time, and named his abode "The Anchorage," teaching mathematics and doing research.
 * Unlike many of Ananda Rau's students, Rajagopal started his research work late, some 14 years after his graduation.
 * His initial papers were a prelude to what he was to take up for research and reflected his original exposition of topics which he taught for the honours classes.
-* In fact his first paper, An integral test for the convergence of a series of positive terms, was published in The Mathematics Student.
+* His first paper, An integral test for the convergence of a series of positive terms, was published in The Mathematics Student.
 * This journal of the Indian Mathematical Society had been founded in 1933 and was, for many years, publishing material which promoted the teaching of mathematics.
 * Rajagopal's first research level publications appeared in 1937.
 * In 1951 Rajagopal was persuaded to join the Ramanujan Institute of Mathematics by Tirukkannapuram Vijayaraghavan who was the first Director of the Institute which had been founded in 1950 by Sir Alagappa Chettiar, an Industrialist and Philanthropist.
@@ -69,7 +69,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * No words can adequately describe his modesty.
 * Rational thinking and interest in psychic studies were two attributes which he imbibed with pride from his teacher Ananda Rau.
 * After he retired Rajagopal continued to undertake research both on summability and on medieval Kerala mathematics.
-* In fact he published eighteen papers in the nine years of his retirement.
+* He published eighteen papers in the nine years of his retirement.
 * He was so healthy and was so regular in habits that nobody could believe that destiny would snatch him away so soon.
 * His teaching was marked by very detailed treatment of the topic, be it either real or complex analysis or statics or dynamics; it did not only adhere to the main text prescribed for the topic but covered additional ground throwing light on the teacher's original study of the topic.
 * Thus he catered very well to the average students while inspiring the bright ones towards original work.

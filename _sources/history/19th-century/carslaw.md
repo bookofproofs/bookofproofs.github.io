@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The fact that Jaeger himself collaborated with Carslaw on the Laplace transform work may explain why there are differing opinions here.
 * Jaeger and Carslaw published Operational methods in applied mathematics in 1941.
 * No other advance has achieved such ready acceptance, and Carslaw and Jaeger's text can take a great deal of the credit.
-* In fact this text was published six years after Carslaw retired.
+* This text was published six years after Carslaw retired.
 * Other topics to interest Carslaw throughout his career, which we have not touched on above, included an interest in non-euclidean geometry, Green's functions and the history of Napier's logarithms.
 
 Born 12 February 1870, Helensburgh, Dumbartonshire, Scotland. Died 11 November 1954, Burradoo, Bowral, New South Wales, Australia.

@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Back in Rome, Fichera resumed working for Picone where he became 'Libero Docente' in mathematical analysis in 1948; this is similar to the habilitation and gives the right to lecture in universities.
 * The methods Fichera used were based on those which had been developed by his teacher Picone.
 * Renato Caccioppoli, who was at the University of Naples, was one of the referees who recommended Fichera for this chair.
-* In fact he had also been a referee one year earlier when Fichera received his 'Libero Docente'.
+* He had also been a referee one year earlier when Fichera received his 'Libero Docente'.
 * After this Fichera and Caccioppoli remained close friends until Caccioppoli's death in 1959.
 * In 1956 Fichera moved to Rome when appointed to the chair of mathematical analysis at La Sapienza, the University of Rome.
 * Fichera had by no means a narrow view of his subject and was led to contribute to other parts of mathematics, one being the theory of functions of several complex variables ...

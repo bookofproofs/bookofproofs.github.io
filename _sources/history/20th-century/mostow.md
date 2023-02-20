@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jack's occupation is "news worker", seeking work, while Dan has no occupation and is a student.
-* In fact in 1936 Dan had entered the Boston Public Latin School at the same time as Daniel Gorenstein; the two became lifelong friends.
+* In 1936 Dan had entered the Boston Public Latin School at the same time as Daniel Gorenstein; the two became lifelong friends.
 * Dan earned money by working as a newsboy and, in addition, as a general helper in a catering hall.
 * Mostow was awarded the 'Latin School Class of 1898', the prize given to the top pupil.
 * As a consequence, Mostow began teaching courses which were part of the training for officers, namely a spherical trigonometry course and a plane trigonometry course.

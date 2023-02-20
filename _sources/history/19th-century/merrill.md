@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was a fantastic achievement and Merrill became the first American woman to obtain a Ph.D. in mathematics.
 * Winifred Haring Edgerton was born on 24 September 1862 in Ripon, Wisconsin.
 * Her parents were Emmet Edgerton and Clara Cooper.
-* Let us note that Winifred was given Haring as a middle name.
+* Winifred was given Haring as a middle name.
 * Her parents Emmet and Clara Edgerton are living near by.
 * Emmet is also a real estate agent but what relation he is to Edward Edgerton is not clear.
 * In the 1880 census Winifred Edgerton, now 17 years old, is living with her parents Emmet, with occupation real estate agent, and Clara.

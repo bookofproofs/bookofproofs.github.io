@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1702 Gregory published Astronomiae physicae et geometricae elementa which was a popular account of Newton's theories.
 * It continued to be influential well after Gregory's death and second editions of both the English and Latin versions were published in 1726.
 * In 1704 Gregory moved to London and three years later, again with Newton's support, he was appointed to the position of master of the Scottish mint.
-* In fact 1707 marks the union of the parliaments of England and Scotland, an event which Gregory had strongly supported.
+* 1707 marks the union of the parliaments of England and Scotland, an event which Gregory had strongly supported.
 * Gregory spent some months in Edinburgh in his role with the Scottish mint working on bringing the Scottish currency into line with that of England.
 * Gregory's health had been poor over a number of years and he was advised to go to Bath so that he might be cured.
 

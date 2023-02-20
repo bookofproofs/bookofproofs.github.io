@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1860, the year after Ernesto was born, there was a revolution led by Giuseppe Garibaldi aimed at achieving Italian unification.
-* In fact on 17 March 1861, almost exactly two years after Ernesto's birth, the Kingdom of Italy was formally created.
+* On 17 March 1861, almost exactly two years after Ernesto's birth, the Kingdom of Italy was formally created.
 * Luigi Cesàro strongly supported the move towards Italian unification but this was not an easy time for farmers in Italy (nor for many others) and Ernesto grew up difficult financial circumstances.
 * The newly created country of Italy suffered many problems but it also had a new confidence in education from which Cesàro benefited in his early years.
 * Cesàro entered the École des Mines as a student but, preferring to study in Italy, made application for a university place there.

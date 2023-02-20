@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Farey was not the first to notice the property.
 * The quotation we gave above shows that Farey explicitly states he has no proof.
 * Farey is immortal because he failed to understand a theorem which Haros had proved perfectly fourteen years before ...
-* In fact the newer editions of the Dictionary of National Biography do contain a discussion of Farey sequences.
+* The newer editions of the Dictionary of National Biography do contain a discussion of Farey sequences.
 
 Born 24 September 1766, Woburn, Bedfordshire, England. Died 6 January 1826, London, England.
 

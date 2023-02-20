@@ -34,17 +34,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By 1747 Agnesi was sending Riccati later parts of the book and explaining to him that printing of the earlier parts was nearly complete.
 * Riccati wrote to Rampinelli on 1 February 1747, offering Agnesi his some of his earlier work on integration for inclusion in her book.
 * Agnesi included the work with proper acknowledgement to Riccati.
-* The first volume of Agnesi's famous two volume work Instituzioni analitiche ad uso della gioventù italiana Ⓣ(Analytical methods for the use of Italian youth) was published in 1748 while Agnesi continued corresponding with Riccati over the material for the second volume which was published the following year.
+* The first volume of Agnesi's famous two volume work "Instituzioni analitiche ad uso della gioventù italiana" Ⓣ(Analytical methods for the use of Italian youth) was published in 1748 while Agnesi continued corresponding with Riccati over the material for the second volume which was published the following year.
 * Pope Benedict XIV wrote to Agnesi saying that he had studied mathematics when he was young and could see that her work would bring credit to Italy and to the Academy of Bologna.
 * Soon after this he appointed Agnesi to the position of honorary reader at the University of Bologna.
 * Then Agnesi was approached by the president of the Academy of Bologna and three other professors of the Academy and invited to accept the chair of mathematics at the University of Bologna.
 * It is probable that Agnesi neither accepted nor rejected this offer.
 * This does explain the confusion which appears in many accounts as to whether Agnesi ever held a chair of mathematics.
 * Agnesi spent all her money on this charitable work and she died in total poverty in the poorhouse of which she had been the director.
-* The treatise Instituzioni analitiche ad uso della gioventù italiana Ⓣ(Analytical methods for the use of Italian youth) contains no original mathematics by Agnesi.
+* The treatise "Instituzioni analitiche ad uso della gioventù italiana" Ⓣ(Analytical methods for the use of Italian youth) contains no original mathematics by Agnesi.
 * The book includes a discussion of the cubic curve now known as the 'witch of Agnesi'.
 * Grandi gave the Italian 'versiera' for the Latin 'versoria' and indeed Agnesi quite correctly states in her book that the curve was called 'la versiera'.
-* John Colson, who had translated Newton's De Methodis Serierum et Fluxionum Ⓣ(Methods for series and fluxions) from Latin to English for publication in 1736, translated Agnesi's Instituzioni analitiche ad uso della gioventù italiana Ⓣ(Analytical methods for the use of Italian youth) into English before 1760 (the year of Colson's death) although his English translation was not published until 1801.
+* John Colson, who had translated Newton's "De Methodis Serierum et Fluxionum" Ⓣ(Methods for series and fluxions) from Latin to English for publication in 1736, translated Agnesi's "Instituzioni analitiche ad uso della gioventù italiana" Ⓣ(Analytical methods for the use of Italian youth) into English before 1760 (the year of Colson's death) although his English translation was not published until 1801.
 
 Born 16 May 1718, Milan, Habsburg Empire (now Italy). Died 9 January 1799, Milan, Habsburg Empire (now Italy).
 

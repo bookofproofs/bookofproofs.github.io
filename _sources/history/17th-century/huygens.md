@@ -62,7 +62,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By 1671 Huygens returned to Paris.
 * However in 1672 Louis XIV invaded the Low Countries and Huygens found himself in the extremely difficult position of being in an important position in Paris at a time France was at war with his own country.
 * In 1672 Huygens and Leibniz met in Paris and thereafter Leibniz was a frequent visitor to the Académie.
-* In fact Leibniz owes much to Huygens from whom he learnt much of his mathematics.
+* Leibniz owes much to Huygens from whom he learnt much of his mathematics.
 * In this same year Huygens learnt of Newton's work on the telescope and on light.
 * His own work, Horologium Oscillatorium sive de motu pendulorum Ⓣ(The pendulum clock and the motion of the pendulum) appeared in 1673 and showed that Huygens had moved far from Descartes' influence.
 * In it Huygens proves that the cycloid is tautochronous, an important theoretical result but one which had little practical application to the pendulum.

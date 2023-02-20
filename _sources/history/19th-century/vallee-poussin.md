@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The prime number theorem had been conjectured in the 18th  century, but in 1896 two mathematicians independently proved the result, namely Hadamard and Vallée Poussin.
 * The first major contribution to proving the result was made by Chebyshev in 1848, then the proof was outlined by Riemann in 1851.
 * The clue to two independent proofs being produced at the same time is that the necessary tools in complex analysis had not been developed until that time.
-* In fact the solution of this major open problem was one of the major motivations for the development of complex analysis during the period from 1851 to 1896.
+* The solution of this major open problem was one of the major motivations for the development of complex analysis during the period from 1851 to 1896.
 * Other than the prime number theorem, Vallée Poussin's only contributions to prime numbers were contained in two papers on the Riemann zeta function which he published in 1916.
 * Vallée Poussin strengthened results proved by Hardy in 1914 which showed that an infinite number of the zeros were on that line.
 * Vallée Poussin's results were of passing interest, however, for Hardy and Littlewood proved still stronger results in 1918.

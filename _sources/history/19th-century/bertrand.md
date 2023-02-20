@@ -56,7 +56,7 @@ This was proved by Chebyshev in 1850.
 * The repression of the Paris Commune took place towards the end of May during a week of street fighting which saw Bertrand's house burned and many of his manuscripts were lost in the fire including an intended third volume of Traité de calcul différentiel et de calcul intégral Ⓣ(Treatise on differential and integral calculus) which he never rewrote.
 * Bertrand also lost his manuscript of Thermodynamique Ⓣ(Thermodynamics)  in the fire but he later rewrote the work.
 * With his home destroyed Bertrand moved to Sèvres and later to Viroflay.
-* In fact Bertrand's home was particularly important to him for it provided the centre of a vigorous intellectual grouping.
+* Bertrand's home was particularly important to him for it provided the centre of a vigorous intellectual grouping.
 * Bertrand, by this time one of the leading mathematicians in France, had to deal with the consequences as it was questioned whether the mathematics being taught was too theoretical, and so not preparing the leading young Frenchmen for the military.
 * Bertrand was appointed a member of the Paris Academy of Sciences in 1856 and he served as its permanent secretary from 1874 to the end of his life.
 * the influence of Bertrand's work, however, is hardly comparable to that of several of his contemporaries and pupils.

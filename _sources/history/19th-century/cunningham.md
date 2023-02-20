@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ebenezer Cunningham was educated at Owen's School Islington and from there he won an open mathematical scholarship to St John's College, Cambridge, which he entered in 1899.
 * Although Cunningham's early papers were on analysis, he was soon to change topic.
 * Cunningham published The Principle of Relativity in 1914, the first English book on the topic.
-* In fact Cunningham had returned to St John's College Cambridge in 1911, at the invitation of Baker.
+* Cunningham had returned to St John's College Cambridge in 1911, at the invitation of Baker.
 
 Born 7 May 1881, Hackney, London, England. Died 12 February 1977, Corbridge Northumberland, England.
 

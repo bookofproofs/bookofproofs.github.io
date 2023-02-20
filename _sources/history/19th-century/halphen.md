@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Halphen showed that Chasles was essentially correct, but that restrictions on the kinds of singularity were necessary.
 * Halphen's solution was ingenious ...
 * Halphen took a different view on the problems of enumeration from his contemporaries.
-* In fact Halphen was well ahead of his time in the ideas which he brought to these problems.
+* Halphen was well ahead of his time in the ideas which he brought to these problems.
 * Halphen and Schubert engaged in a heated debate on whether an enumerative formula should be allowed to count degenerate solutions along with the nondegenerate solutions.
 * Next Halphen classified singular points of algebraic closed curves thus extending the work of Riemann.
 * A characterisation of such invariant differential equations appeared in Halphen's doctoral dissertation On differential invariants which he presented in 1878.

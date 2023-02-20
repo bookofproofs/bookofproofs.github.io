@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Brisson's career, however, began a rapid rise to fame.
 * In the 1820s, Brisson was at the centre of everything concerned with canals: professor and administrative head of a newly revitalised École des Ponts et Chaussées, secretary of the General Council, charter member of Becquey's new Canal Commission, and consultant to private companies.
 * It is remarkable that following its first publication in 1820, nineteen editions of Brisson's edition were published up to 1922.
-* Brisson also wrote Notice historique sur Gaspard Monge Ⓣ(Historical notice of Gaspard Monge) (1818) following Monge's death in 1818.
+* Brisson also wrote "Notice historique sur Gaspard Monge" Ⓣ(Historical notice of Gaspard Monge) (1818) following Monge's death in 1818.
 * Brisson drew up two important reports on this subject.
 * Cauchy followed the way opened by Brisson, who thus became one of those who developed the methods of functional calculus.
 

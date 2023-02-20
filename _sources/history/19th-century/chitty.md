@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1946 Pippard proposed Chitty for membership of the Institution of Civil Engineers.
 * Twelve of Chitty's papers were included with the proposal and the fact that she had been awarded four Telford Premium Medals for papers co-authored with Pippard was noted.
 * It was the occasion on which Miss Chitty received the Telford Gold Medal.
-* In fact Chitty had retired from her lectureship at Imperial College in 1962.
+* Chitty had retired from her lectureship at Imperial College in 1962.
 * From the description of Chitty's career we have given above, it might appear that she devoted her entire energies to mathematical theory and to experimentation in civil engineering.
 * Chitty also achieved fame outside the academic world, being interviewed by Vogue Magazine in her later years.
 

@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Earl Browder returned to the United States in 1929 but Raissa remained in Moscow until 1933.
 * For the next sixteen years the Browders waged a legal battle to prevent her deportation.
 * In 1934 their third son, William Browder, was born in New York.
-* In fact Felix is said to have read at least a book a day from the time he was five years old.
+* Felix is said to have read at least a book a day from the time he was five years old.
 * After the award of his first degree, Browder entered Princeton where he undertook research advised by Solomon Lefschetz.
 * In 1948 Browder was appointed as a C L E Moore Instructor in Mathematics at the Massachusetts Institute of Technology.
 * In 1951, when his term as C L E Moore Instructor ended, Browder was appointed as an Instructor in Mathematics at Boston University.

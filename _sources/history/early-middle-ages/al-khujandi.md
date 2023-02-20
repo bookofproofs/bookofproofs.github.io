@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Khujandi was supported in his scientific work for most of his life by members of the Buyid dynasty.
 * Al-Khujandi received patronage from Fakhr ad-Dawlah who ruled from 976 to 997.
 * It was Fakhr ad-Dawlah who supported al-Khujandi in his major project to construct a huge mural sextant for his observatory at Rayy, which is near modern Tehran.
-* In fact al-Khujandi's mural sextant was his own invention and it did break new ground in having a scale which indicated seconds, a level of accuracy never before attempted.
+* Al-Khujandi's mural sextant was his own invention and it did break new ground in having a scale which indicated seconds, a level of accuracy never before attempted.
 * During the year 994 al-Khujandi used the very large instrument to observe a series of meridian transits of the sun near the solstices.
 * There is, however, an error in al-Khujandi's value for the obliquity of the ecliptic; it is about two minutes too low.
 * The error was discussed by al-Biruni in his Tahdid where he claimed that the aperture of the sextant settled about one span in the course of al-Khujandi's observations due to the weight of the instrument.

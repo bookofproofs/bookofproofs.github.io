@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The significant event for Post's career had been the publication of Russell and Whitehead's Principia Mathematica.
 * When Post began his graduate studies it was an exciting new development and Post participated in Cassius J Keyser's seminar at Columbia which studied the Principia Mathematica.
 * Post was awarded the degree of A.M. in 1918 and of Ph.D. in 1920.
-* His Ph.D. thesis was on mathematical logic, and we shall discuss it further in a moment, but first let us note that Post wrote a second paper as a postgraduate, which was published before his first paper, and this was a short work on the functional equation of the gamma function.
+* His Ph.D. thesis was on mathematical logic, and we shall discuss it further in a moment, but Post wrote a second paper as a postgraduate, which was published before his first paper, and this was a short work on the functional equation of the gamma function.
 * We now turn to Post's Ph.D. thesis, in which he proved the completeness and consistency of the propositional calculus described in the Principia Mathematica by introducing the truth table method.
 * The final, and perhaps the most remarkable, new idea which Post introduced in his thesis was to give a framework for systems of logic as inference systems based on a finite process of manipulation of symbols.
 * Such a system of logic that Post proposed produces, in today's terminology, a recursively enumerable set of words on a finite alphabet.

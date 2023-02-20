@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dase used his calculating ability to calculate  to 200 places, taking about two months for this task.
 * In 1849 Dase proposed to the Academy of Sciences in Hamburg that he would compute the factors of all the numbers from 7 million to 10 million.
 * The Hamburg Academy of Sciences awarded Dase the financial support he requested and he began to undertake the huge task.
-* In fact it was the mathematician Julius Petersen who spent six weeks trying to teach Dase some of Euclid's propositions but discovered that this was completely beyond Dase.
+* It was the mathematician Julius Petersen who spent six weeks trying to teach Dase some of Euclid's propositions but discovered that this was completely beyond Dase.
 * A modern medical expert assessing Dase using the descriptions of his personality and other factors, would suggest that he suffered from Asperger's syndrome.
 
 Born 23 June 1824, Hamburg, Germany. Died 11 September 1861, Hamburg, Germany.

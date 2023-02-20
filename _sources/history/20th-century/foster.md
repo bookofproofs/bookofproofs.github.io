@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * After spending a further year at Caltech to study for his master's degree, Foster went to Princeton where he studied for his doctorate under the supervision of Alonzo Church.
-* In fact Church was only one year older than Foster, who became his first Ph.D. student, and he had begun to supervise Foster in the same year that he was awarded his own doctorate.
+* Church was only one year older than Foster, who became his first Ph.D. student, and he had begun to supervise Foster in the same year that he was awarded his own doctorate.
 * Foster submitted his Ph.D. thesis Formal Logic in Finite Terms to Princeton University in 1930 and the degree was awarded in the following year.
 * They travelled to Germany where Foster undertook a year of postdoctoral study at Göttingen.
 * The Great Depression began in 1929 while Foster was working for his doctorate and by 1932, after he finished his studies in Germany, one quarter of the workers in the United States were unemployed.

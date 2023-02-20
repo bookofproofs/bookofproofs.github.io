@@ -44,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1962 Ian Michael became McLeod's first research student.
 * At one point in his Naylor lecture of 2012 Bryce emphasised the importance of asking questions.
 * We have already mention that McLeod was awarded the Naylor Prize and Lectureship in Applied Mathematics by the London Mathematical Society in 2011.
-* In fact they had returned to Abingdon most summers during their twenty years in the United States and McLeod had maintained strong contacts with the Oxford Centre for Industrial and Applied Mathematics and the Oxford Centre for Nonlinear PDEs. McLeod spent the last years of his career at the latter Oxford Centre.
+* They had returned to Abingdon most summers during their twenty years in the United States and McLeod had maintained strong contacts with the Oxford Centre for Industrial and Applied Mathematics and the Oxford Centre for Nonlinear PDEs. McLeod spent the last years of his career at the latter Oxford Centre.
 * Let us end with some tributes to McLeod.
 
 Born 23 December 1929, Aberdeen, Scotland. Died 20 August 2014, Abingdon, near Oxford, England.

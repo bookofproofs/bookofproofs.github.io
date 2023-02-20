@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is argued that Van Vleck proved the first zero-one law, anticipating the zero-one law of Borel and, more strikingly, that of Kolmogorov.
 * By following Van Vleck's own steps in deriving consequences of his zero-one law, a result ("the extended Van Vleck theorem") is given which is directly comparable to Borel's law of normal numbers.
 * Finally, it is shown that the Van Vleck zero-one law, which in generality falls between that of Borel and that of Kolmogorov, is further distinguished in that it provides the key step in establishing what may be the earliest example in ergodic theory of a metrically transitive transformation.
-* as the years went on, the self-imposed demand for elegance and simplicity exercised a inhibitive influence upon Van Vleck's production.
+* As the years went on, the self-imposed demand for elegance and simplicity exercised an inhibitive influence upon Van Vleck's production.
 * Van Vleck was American Mathematical Society Colloquium lecturer in 1903 giving six lectures on divergent series and continued fractions.
 * Van Vleck was an editor of the Transactions of the American Mathematical Society  from 1905 to 1910, vice-president in 1909, and president from 1913 to 1914.
 * In 1916 the University of Chicago celebrated its first 25 years and as part of the Quarter-Centennial Celebration they awarded Van Vleck an honorary doctorate on 6 June 1916.

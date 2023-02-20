@@ -23,8 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfredo Capelli** was an Italian mathematician who worked on group theory and independently discovered Sylov's theorem.
 
 ### Mathematical Profile (Excerpt):
-* advised the young Capelli to tackle problems on groups in his thesis.
-* In fact Capelli had published two notes on the theory of groups in the same journal two years earlier while he was working on his thesis supervised by Battaglini.
+* Capelli had published two notes on the theory of groups in the same journal two years earlier while he was working on his thesis supervised by Battaglini.
 * These were independent discoveries by Capelli since he was unaware of Sylow's 1872 paper and Netto's 1874 paper where these results were first published.
 * However, Capelli's paper also contains standard results later proved by Frobenius and Burnside which have been attributed to these later authors.
 * Capelli graduated from the University of Rome in 1877 and then continued to develop his mathematical skills working as Felice Casorati's assistant at the University of Pavia.
@@ -33,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Palermo, the situation finally began to change in 1878 with the arrival of Cesare Arzelà (1847-1912), who held the chair of algebra for two years, and of Capelli, who replaced Arzelà when the latter moved to Bologna.
 * In 1884 Capelli published another major work on group theory Sopra la composizione dei gruppi di sostituzioni Ⓣ(On the composition of groups of substitutions).
 * Why, one might ask is it not then known today as the 'Capelli argument'.
-* In fact Capelli and Frattini had both been students of Battaglini, with Frattini graduating two years before Capelli.
+* Capelli and Frattini had both been students of Battaglini, with Frattini graduating two years before Capelli.
 * He also used the beautiful 'Frattini argument', although he clearly stated that this was due to Capelli.
 * Perhaps Frattini should have used the term 'Capelli argument' himself as this would have guaranteed Capelli receiving credit.
 * While at Palermo, Capelli collaborated with Giovanni Garbieri (1847-1931) who had succeeded Giusto Bellavitis at the University of Padua in 1882.

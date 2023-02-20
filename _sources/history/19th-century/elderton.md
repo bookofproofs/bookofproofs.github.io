@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Elderton passed the matriculation examination for the University of London in 1897.
 * Although Elderton, having matriculated, was in a position to take a degree she chose not to take a degree becoming a school teacher.
 * Schuster was a student of Professor W F R Weldon, the prime mover in the foundation of the "biometric school." Miss E M Elderton was appointed as an assistant to Schuster and together they made up the staff of the Eugenics Record Office which was under Galton's general oversight.
-* In fact Elderton had been recommended by Alice Lee who had taught her at Bedford College.
+* Elderton had been recommended by Alice Lee who had taught her at Bedford College.
 * On the advice of Dr Alice Lee, he selected Miss Ethel M Elderton - a most happy choice.
 * In 1907 Elderton co-authored with Edgar Schuster the paper The Inheritance of Psychical Characters, published in Biometrika.
 * One of Elderton's most influential papers was A first study of the influence of parental alcoholism on the physique and ability of the offspring.

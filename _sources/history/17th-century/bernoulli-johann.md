@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However it did assure de l'Hôpital of a place in the history of mathematics since he published the first calculus book Analyse des infiniment petits pour l'intelligence des lignes courbes Ⓣ(Infinitesimal analysis for understanding curved lines) (1696) which was based on the lessons that Johann Bernoulli sent to him.
 * As one would expect, it upset Johann Bernoulli greatly that this work did not acknowledge the fact that it was based on his lectures.
 * The well known de l'Hôpital's rule is contained in this calculus book and it is therefore a result of Johann Bernoulli.
-* In fact proof that the work was due to Bernoulli was not obtained until 1922 when a copy of Johann Bernoulli's course made by his nephew Nicolaus(I) Bernoulli was found in Basel.
+* Proof that the work was due to Bernoulli was not obtained until 1922 when a copy of Johann Bernoulli's course made by his nephew Nicolaus(I) Bernoulli was found in Basel.
 * Bernoulli's course is virtually identical with de l'Hôpital's book but it is worth pointing out that de l'Hôpital had corrected a number of errors such as Bernoulli's mistaken belief that the integral of 1/x1/x1/x is finite.
 * After de l'Hôpital's death in 1704 Bernoulli protested strongly that he was the author of de l'Hôpital's calculus book.
 * It appears that the handsome payment de l'Hôpital made to Bernoulli carried with it conditions which prevented him speaking out earlier.

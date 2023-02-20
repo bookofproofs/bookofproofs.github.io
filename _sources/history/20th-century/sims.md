@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Higman-Sims group is a primitive permutation group of degree 100, has order 44 352 000 and has rank 3.
 * Sims made another major breakthrough which he announced to the conference Computational Problems in Abstract Algebra held in Oxford, England, 29 August to 2 September 1967.
 * The computer program that Sims refers to in the final sentence is now known as an implementation of the Schreier-Sims algorithm, a linear time algorithm devised by Sims to find the order of a permutation group given generating permutations.
-* In fact Sims announced the existence and uniqueness of Lyons' group at the conference Finite groups '72 held at the University of Florida, Gainesville, Florida, 23-24 March 1972.
+* Sims announced the existence and uniqueness of Lyons' group at the conference Finite groups '72 held at the University of Florida, Gainesville, Florida, 23-24 March 1972.
 * At the conference Computational methods for representations of groups and algebras at the University of Essen, Essen, 1-5 April 1997, Sims and George Havas gave a presentation for this Lyons finite simple sporadic group.
 * Sims' outstanding research contributions were recognised in 1972 when he received the Rutgers University Board of Trustees Award for Excellence in Research.
 * Let us look now at some contributions that Sims made to the teaching and administration at Rutgers University.

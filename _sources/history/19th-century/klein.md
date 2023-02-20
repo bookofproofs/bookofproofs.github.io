@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Klein retired due to ill health in 1913.
 * It is a little hard to understand the significance of Klein's contributions to geometry.
 * Klein's first important mathematical discoveries were made in 1870 in collaboration with Lie.
-* In fact Lie played an important role in Klein's development, introducing him to the group concept which played a major role in his later work.
+* Lie played an important role in Klein's development, introducing him to the group concept which played a major role in his later work.
 * It is fair to add that Camille Jordan also played a part in teaching Klein about groups.
 * During his time at Göttingen in 1871 Klein made major discoveries regarding geometry.
 * Cayley never accepted Klein's ideas believing his arguments to be circular.

@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, Lerch died in 1922 and the opportunity arose for Čech to gain a chair and a permanent university post.
 * Čech was appointed extraordinary professor at Masaryk University in 1923.
 * Čech was interested in geometry but he was appointed to the chair of analysis at Masaryk University since this had been Lerch's chair.
-* although geometry was Čech's field of research, Čech had to take over courses in analysis and algebra.
+* Although geometry was Čech's field of research, Čech had to take over courses in analysis and algebra.
 * Through his widening mathematical interests, to some extent forced on him by his teaching duties, Čech became interested in topology, in particular he became one of the foremost experts on combinatorial topology.
 * In this paper, which introduces the topic which today is called the Čech homology theory, Čech also introduced the notion of the inverse limit.
 * At the International Congress of Mathematicians in Zürich in 1932, Čech introduced the notion of higher homotopy groups of a space.

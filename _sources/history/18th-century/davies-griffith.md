@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Davies again competed against Gompertz when they both applied for the position of actuary with the Reversionary Interest Society and again Davis was appointed.
 * Davies was now firmly into actuarial work and, in 1822, he gave up his school.
 * Charles Babbage was about to publish a book entitled A Comparative View of the Various Institutions for the Assurance of Lives and, in early 1825, Davies learnt about this.
-* In fact Babbage's book was not published until 1826 while, in 1825, Davies published Tables of Life Continencies.
+* Babbage's book was not published until 1826 while, in 1825, Davies published Tables of Life Continencies.
 * Davies was now acknowledged to be a leading actuary and was asked to report on many funds.
 * Griffith and Mary had one son, also named Griffith Davies (1841-1927), who went on to work for the Alliance Office.
 * We see from this quote that Davies' health was poor in 1848.

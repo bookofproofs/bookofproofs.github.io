@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lasker** became World Chess Champion in 1894 and held the championship until 1921. In mathematics he introduced the notion of a primary ideal.
 
 ### Mathematical Profile (Excerpt):
-* In fact Emanuel's parents were so worried that he was devoting too much time to chess and not enough to his school work that they told Berthold to find another school for Emanuel.
+* Emanuel's parents were so worried that he was devoting too much time to chess and not enough to his school work that they told Berthold to find another school for Emanuel.
 * However, the head of this new school was president of the local chess club and the mathematics master was the local chess champion, so in his new secondary school Emanuel continued to show remarkable talents at both mathematics and at chess.
 * Lasker studied mathematics and philosophy at the universities in Berlin, Göttingen and Heidelberg but he combined his studies with playing chess.
 * Lasker had an extended stay in England in 1891-92, playing many fine chess games and beating the best players in that country.

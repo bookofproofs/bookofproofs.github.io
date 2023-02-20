@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us give a little more detail to the highlights of Clunie's research which are indicated in this quote.
 * The paper in which he introduced the 'Clunie constant' was On schlicht functions (1959) but he continued the investigation in numerous later papers including On meromorphic schlicht functions (1959) and On the coefficients of univalent functions (1974).
 * Pommerenke had studied at the University of Göttingen where he habilitated but he had spent the years 1965-67 at Imperial College, London, where he worked closely with Clunie.
-* Returning to the quote above, let us note that 'Clunie's lemma' appeared in his paper On integral and meromorphic functions (1962).
+* Returning to the quote above, 'Clunie's lemma' appeared in his paper On integral and meromorphic functions (1962).
 * Clunie's co-authors on this paper were Christian Pommerenke and J Milne Anderson.
 * James Milne Anderson (born 1938) was a Ph.D. student of Clunie's at Imperial College and was awarded his doctorate for his thesis The Behaviour of Integral and Subharmonic Functions in 1963.
 * Clunie spent the academic year 1959-60 in the United States.

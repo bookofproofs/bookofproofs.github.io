@@ -37,13 +37,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Sanjar created a great centre of Islamic learning in Merv where Khayyam wrote further works on mathematics.
 * Perhaps even more remarkable is the fact that Khayyam states that the solution of this cubic requires the use of conic sections and that it cannot be solved by ruler and compass methods, a result which would not be proved for another 750 years.
 * Indeed Khayyam did produce such a work, the Treatise on Demonstration of Problems of Algebra which contained a complete classification of cubic equations with geometric solutions found by means of intersecting conic sections.
-* In fact Khayyam gives an interesting historical account in which he claims that the Greeks had left nothing on the theory of cubic equations.
+* Khayyam gives an interesting historical account in which he claims that the Greeks had left nothing on the theory of cubic equations.
 * Indeed, as Khayyam writes, the contributions by earlier writers such as al-Mahani and al-Khazin were to translate geometric problems into algebraic equations (something which was essentially impossible before the work of al-Khwarizmi).
 * However, Khayyam himself seems to have been the first to conceive a general theory of cubic equations.
 * Another achievement in the algebra text is Khayyam's realisation that a cubic equation can have more than one solution.
 * Also in his algebra book, Khayyam refers to another work of his which is now lost.
 * In the lost work Khayyam discusses the Pascal triangle but he was not the first to do so since al-Karaji discussed the Pascal triangle before this date.
-* In fact we can be fairly sure that Khayyam used a method of finding nth roots based on the binomial expansion, and therefore on the binomial coefficients.
+* We can be fairly sure that Khayyam used a method of finding nth roots based on the binomial expansion, and therefore on the binomial coefficients.
 * In Commentaries on the difficult postulates of Euclid's book Khayyam made a contribution to non-euclidean geometry, although this was not his intention.
 * Khayyam also gave important results on ratios in this book, extending Euclid's work to include the multiplication of ratios.
 * The importance of Khayyam's contribution is that he examined both Euclid's definition of equality of ratios (which was that first proposed by Eudoxus) and the definition of equality of ratios as proposed by earlier Islamic mathematicians such as al-Mahani which was based on continued fractions.

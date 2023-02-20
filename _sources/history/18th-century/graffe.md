@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Things did not go well for Gräffe, however, with his submission for the prize.
 * The astronomer Johann Franz Encke was the secretary of the Berlin Academy of Science, and he tried to arrange a special route through which Gräffe could submit his work.
 * Gräffe improved his method and, following Encke's advice, submitted it anonymously.
-* justifying Gräffe's principle and perfecting his method for finding the imaginary roots of an equation.
 * This should have been the perfect way to enable Gräffe to make a prize-winning submission but, sadly, his health did not allow him to put in the necessary hard work and he chose not to attempt a submission for the 1839 prize.
 * Several others then had the chance to take what Gräffe had presented and perfect it further.
 * As presented by Gräffe, the method is only applicable to the case where all the roots of the original equation are distinct but later improvements did away with this condition.

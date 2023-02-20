@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1977 until 1980 Wiles was a Junior Research fellow at Clare College, Cambridge and also a Benjamin Peirce Assistant Professor at Harvard University.
 * Wiles was awarded a Guggenheim Fellowship which enabled him to visit the Institut des Hautes Études Scientifique in Paris and also the École Normale Supérieure in Paris during 1985-86.
 * This result set the stage for Wiles's work.
-* In fact Wiles abandoned all his other research when he heard what had been proved and, for seven years, he concentrated solely on attempting to prove the Shimura-Taniyama conjecture, knowing that a proof of Fermat's Last Theorem then followed.
+* Wiles abandoned all his other research when he heard what had been proved and, for seven years, he concentrated solely on attempting to prove the Shimura-Taniyama conjecture, knowing that a proof of Fermat's Last Theorem then followed.
 * In 1988 Wiles went to Oxford University where he spent two years as a Royal Society Research Professor.
 * In 1993 Wiles told two other mathematicians that he was close to a proof of Fermat's Last Theorem.
 * In 1994 Wiles was appointed Eugene Higgins Professor of Mathematics at Princeton.

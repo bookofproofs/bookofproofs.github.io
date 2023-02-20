@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The physics course that Feynman took at MIT was not the standard one.
 * There was no course on quantum mechanics, a topic that Feynman was very keen to study, so together with a fellow undergraduate, T A Welton, he began to read the available texts in the spring of 1936.
 * By 1937 Feynman was reading Dirac's The principles of quantum mechanics and seeing how his highly original ideas fitted into Dirac's approach.
-* In fact Dirac became the scientist who Feynman most respected throughout his life.
+* Dirac became the scientist who Feynman most respected throughout his life.
 * We mentioned above that Feynman went home for his vacations.
 * Despite the personal recommendation that Harry Smyth at Princeton received from Slater, it was not obvious that Feynman would be accepted.
 * After further letters from Slater, Feynman was accepted by Princeton.

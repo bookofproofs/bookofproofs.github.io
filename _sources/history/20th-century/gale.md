@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gale received many honours and prizes for his outstanding contributions.
 * Gale's research is known for its mathematical elegance.
 * Many paid tribute to Gale after his death.
-* In fact Alvin Roth, professor of economics at Harvard University, had nominated Gale for the Nobel Prize in economics.
+* Alvin Roth, professor of economics at Harvard University, had nominated Gale for the Nobel Prize in economics.
 * But David's work will be remembered for generations to come, in books and journal articles and seminars and workshops, as well as in the very concrete allocation procedures that have been built upon his insights.
 * Throughout his life, Gale would insist that visitors look at the newest puzzle he was working on.
 * In addition to his fascination with mathematical puzzles, Gale had several hobbies.

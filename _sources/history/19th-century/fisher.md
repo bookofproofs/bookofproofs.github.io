@@ -68,7 +68,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The dispute began in 1917 when Pearson published a paper claiming that Fisher had failed to distinguish likelihood from inverse probability in a paper he wrote in 1915.
 * Although at this stage Fisher was only starting out on his career, he felt angry that Pearson had published an article which was critical of his results without telling him that he was about to do so.
 * Moreover, he did not accept Pearson's criticism, feeling that he was correct.
-* In fact the reasons for the feud were not nearly as simple as those usually given.
+* The reasons for the feud were not nearly as simple as those usually given.
 * The standard explanation is that Fisher became bitter because he suffered serious injustice having his papers rejected by mathematicians who did not understand biology and biologists who did not understand mathematics.
 * Let us take an example to show that in fact this is an over-simplification.
 * In 1918 Fisher submitted his very important paper On the correlation between relatives on the supposition of Mendelian inheritance to the Royal Society.

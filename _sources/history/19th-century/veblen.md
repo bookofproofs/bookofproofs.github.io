@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Veblen attended school in Iowa City before entering the University of Iowa in 1894, receiving his A.B. in 1898.
 * After a year spent as a laboratory assistant at the University of Iowa, Veblen spent a year at Harvard University where he was awarded a second B.A. in 1900, before going to the University of Chicago to undertake research.
-* In fact Veblen first impressed Moore when he attended his seminar in 1901.
+* Veblen first impressed Moore when he attended his seminar in 1901.
 * queries and remarks of members of this course, in particular Mr O Veblen, have been a source of much stimulus.
 * Veblen's doctoral dissertation, supervised by  Moore, was entitled A System of Axioms for Geometry  and he was awarded his doctorate from the University of Chicago in 1903.
 * In it Veblen gave an axiom system based on point and order rather than on the traditional notions of point, line and plane.

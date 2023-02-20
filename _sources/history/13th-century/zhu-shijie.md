@@ -7,7 +7,7 @@ orderid: 1260
 title: Shijie, Zhu
 born: 1260
 died: 1320
-keywords: zhu shijie,shijie
+keywords: zhu shijie,shijie,chu shih chieh,coefficient array method,method of the celestial unknown
 description: Zhu Shijie or Chu Shih-Chieh was a Chinese mathematician who developed methods for handling simultaneous equations.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The text of the Siyuan yujian which is available today is therefore not the one which was originally published by Zhu.
 * There are various nineteenth century commentaries on the text all of which make it harder to identify Zhu's original work.
 * There are then four preliminary problems which Zhu uses to explain his methods of using polynomials to solve problems with 1, 2, 3, and 4 unknowns.
-* In fact Zhu uses an extension of the "coefficient array method" or "method of the celestial unknown" to polynomials with several unknowns.
+* Zhu uses an extension of the "coefficient array method" or "method of the celestial unknown" to polynomials with several unknowns.
 * After these four examples to illustrate the methods, Zhu presents 288 problems which are divided into three volumes with 24 chapters.
 * One of the most interesting aspects of this work is that Zhu, although still using the traditional Chinese approach of presenting mathematics through practical problems, does not in any sense make his examples realistic.
 * Therefore Zhu does not necessarily give the simplest solution to a problem, but rather often introduces complications explicitly designed to illustrate how to handle more complicated situations.

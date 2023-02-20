@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Llull left Majorca in about 1265 after he experienced mystical visions of Christ on the Cross.
 * Llull's main work is the Ars magna (1305-08), comprising of a number of treatises including The Tree of Knowledge and The Book of the Ascent and Descent of the Intellect.
 * Llull used logic and mechanical methods involving symbolic notation and combinatorial diagrams to relate all forms of knowledge.
-* according to legend, Llull was stoned in North Africa at Bejaia (Bougie) or Tunis and died a martyr at sea before reaching Majorca, where he was buried.
+* According to legend, Llull was stoned in North Africa at Bejaia (Bougie) or Tunis and died a martyr at sea before reaching Majorca, where he was buried.
 * Llull's reduction of Christianity to rational discussion, in which he attempted to prove the dogmas of the Church by logical argument, did not find favour after his death.
 * The Roman Catholic Church did however pardon Llull more quickly than Galileo, since he was venerated in the 19th  century.
 * Llull's work is important for a number of reasons, one certainly being the great influence it had on Leibniz.

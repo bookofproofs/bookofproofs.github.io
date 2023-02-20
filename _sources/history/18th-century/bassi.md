@@ -29,13 +29,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The debate was held in the grand Palazzo Pubblico in Bologna and Bassi defended forty-nine philosophical theses.
 * The uniqueness of this event is explained by the fact that the candidate was not a young man, as we would expect, but a young woman, 20 year old Laura Bassi.
 * Because of her sex, Laura had to perform in a very public manner in order to obtain recognition of her abilities and knowledge.
-* In fact at this time Bassi began to distance herself from Tacconi's advice.
+* At this time Bassi began to distance herself from Tacconi's advice.
 * He had wanted her to concentrate on theses involving ethics, but Bassi, supported by Lambertini.
 * He was not, however, considered to be as good a scientist as Bassi.
 * Despite becoming Laura Veratti at this stage, she is usually known by the name Bassi and we will continue to use 'Bassi' through the rest of this article.
 * The marriage was considered wrong by many in Bologna who felt, in the same spirit as fellows in Colleges at the University of Cambridge could not marry and continue to hold their fellowships, Bassi should not be allowed to marry and continue to hold a lecturing position.
 * Actually Bassi's lecturing position was not all that it might seem, for it only allowed her to lecture on special occasions when the lecture was open to the public when anyone, including women, could attend.
-* In fact marriage actually improved this difficult situation, for Bassi was now allowed to lecture in her home.
+* Marriage actually improved this difficult situation, for Bassi was now allowed to lecture in her home.
 * This meant that Bassi had far less access to her patron, but nevertheless she was still able to communicate with him via Scarselli.
 * Bassi asked Scarselli to try to persuade the pope to appoint her as the twenty-fifth Benedettini.
 * This was a difficult decision since some of the twenty-four who had already been appointed were opposed to Bassi joining the select group while others supported her.

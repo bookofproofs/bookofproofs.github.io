@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, since the work is based firmly on Plato's philosophy, without any signs of Arabic influences, it may have been mostly written before Adelard's visits brought him in contact with the learning of the Arabs.
 * It is not as a philosopher that Adelard merits inclusion in this archive.
 * Adelard made Latin translations of Euclid's Elements from Arabic sources which were for centuries the chief geometry textbooks in the West.
-* In fact there seem to have been three separate versions of Euclid's Elements written by Adelard.
+* There seem to have been three separate versions of Euclid's Elements written by Adelard.
 * Adelard seems to have taken as his source one of al-Hajjaj's Arabic translations from Greek.
 * The second version of Euclid's Elements by Adelard is quite different.
 * The style of the translation tells experts that Adelard did not produce this from his own version one, but rather that he used some unknown Arabic source different from al-Hajjaj's translations.

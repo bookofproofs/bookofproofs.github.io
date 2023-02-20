@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cosserat became a Railway Engineer Second Class (Northern Zone) in 1879.
 * The details we have given show that Cosserat had a highly successful career as a civil engineer.
 * It is tempting to believe, therefore, that Eugène Cosserat would be the major player in their joint research but this would be far from the truth.
-* In fact during the period of their close collaboration, Eugène Cosserat was burdened by heavy administrative tasks and was only a very minor contributor.
+* During the period of their close collaboration, Eugène Cosserat was burdened by heavy administrative tasks and was only a very minor contributor.
 * the main creative mechanical ideas (the most striking behind the computations) have been furnished by François, while Eugène, overburdened by management tasks at the Observatory of Toulouse, was just rectifying the computations.
 * However, nothing on mechanics was published after 1914! Meanwhile, it is painful to know that, when François asked for a position in mechanics at the École Polytechnique, in competition with Hadamard (supported by Painlevé) and Jouguet, somebody pointed out doubts on his participation in this work in collaboration, and finally ...
 * For example, the report written on 27 June 1898 states, "M François Cosserat is a distinguished engineer who has high practical experience.

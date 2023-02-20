@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Freudenthal then managed to obtain a position for van der Waerden working for Shell in Amsterdam on applied mathematics.
 * In 1950 Karl Fueter died and van der Waerden was appointed to fill the vacant chair in Zürich in 1951.
 * As well as an almost unbelievable range of mathematical research interests, van der Waerden stimulated research in Zürich by supervising over 40 doctoral students during his years there.
-* In fact van der Waerden was to remain in Zürich for the rest of his life.
+* Van der Waerden was to remain in Zürich for the rest of his life.
 * Van der Waerden worked on algebraic geometry, abstract algebra, groups, topology, number theory, geometry, combinatorics, analysis, probability theory, mathematical statistics, quantum mechanics, the history of mathematics, the history of modern physics, the history of astronomy and the history of ancient science.
 * We have already mentioned Van der Waerden's most famous book, Moderne Algebra published in 1930-1931.
 * In 1933 van der Waerden found the exact order and structure of the groups B(3,r)B(3, r)B(3,r).

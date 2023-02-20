@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Several guesses such as 'Clau' or 'Klau', or even 'Schlüssel' which means 'key' so might have led to him taking the Latin 'Clavius' which also means 'key', have been made but none have ever been substantiated with any evidence.
 * Mathematics had always been a topic which interested Clavius, and he excelled in the mathematical courses which he took as part of a general degree.
-* Let us note that although Clavius gives the year as 1559, he has made an error since we know that the only possible eclipse that fits his description occurred on 21 August 1560.
+* Although Clavius gives the year as 1559, he has made an error since we know that the only possible eclipse that fits his description occurred on 21 August 1560.
 * This event was important for Clavius since it convinced him to devote his life to mathematical and astronomical study.
 * In fact, except for a period in Naples around 1596 and a visit to Spain in 1597, Clavius was to remain Professor of Mathematics at the Collegio Romano for the rest of his life.
 * Another suggestion is that the 'certain narrow circle' seen by Clavius might be the inner corona.

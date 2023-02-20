@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Among Hymers students we should mention John Colenso, John Couch Adams and James Joseph Sylvester.
 * However, he slowly became disillusioned with the incursion of the university into the independent life of the colleges and in 1852 he left St John's for the rich college living of Brandesburton in the East Riding of Yorkshire.
 * He tried to return soon after but St John's refused him his old post with the result that he spent the rest of his life in an isolated Yorkshire parish.
-* In fact Hymers was friendly with the poet and, in 1831, he arranged for a portrait of Wordsworth to be painted for St John's College.
+* Hymers was friendly with the poet and, in 1831, he arranged for a portrait of Wordsworth to be painted for St John's College.
 * Hymers then set about organising the funding of the portrait by collecting subscriptions from fellows of the College.
 * In 1886 Hymers presented a sonnet to the College Library which Wordsworth had addressed to the portrait.
 * In the 1850s Esther Jane Jackson, Hymers' niece, became his housekeeper.

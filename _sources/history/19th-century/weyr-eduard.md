@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Josef Solin had been appointed as a full professor at the Prague Polytechnic in 1876 but he handed his teaching duties over to Weyr in 1878 when he took on other positions in the Polytechnic including rector and dean.
 * Also in 1878 the third volume of Emil and Eduard Weyr's projective geometry book was published.
 * We should note that Emil had been the major contributor to the first two volumes but Eduard was the major contributor to the third volume.
-* In fact Weyr was offered a full professorship at the University of Innsbruck in 1876 and, later in the same year, he was offered a full professorship at the University of Czernowitz.
+* Weyr was offered a full professorship at the University of Innsbruck in 1876 and, later in the same year, he was offered a full professorship at the University of Czernowitz.
 * Weyr became a full professor at the Czech Polytechnic on 15 February 1881.
 * Both Emil Weyr and Eduard Weyr were invited to lecture at the Congress.
 * Eduard and Theresa Weyr's marriage was also in the Church of St Ludmila in the Vinohrady district of Prague.

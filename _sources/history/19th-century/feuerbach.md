@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The other boys were Joseph Anselm Feuerbach (1798-1851), philologist and archeologist, Eduard August Feuerbach (1803-1843), professor of law at the University of Erlangen, and Friedrich Heinrich Feuerbach (1806-1880), an orientalist.
 * They were in Jena when Karl was born but soon moved to Kiel.
-* In fact Paul Feuerbach's fame had been recognised by King Maximilian Joseph who had ennobled  him in 1808 and awarded him free university education for all his sons.
+* Paul Feuerbach's fame had been recognised by King Maximilian Joseph who had ennobled  him in 1808 and awarded him free university education for all his sons.
 * In 1819 Paul Feuerbach was appointed as President of the Court of Appeals in Ansbach.
 * After spending three years studying at the University of Erlangen, Karl Feuerbach moved to the University of Freiburg im Breisgau in 1820.
 * This was a move designed to allow him to study under Karl Heribert Ignatius Buzengeiger (1771-1835) who had taught in Ansbach before been appointed to the University of Freiburg in the previous year; indeed this move was very fruitful as Feuerbach had hoped.

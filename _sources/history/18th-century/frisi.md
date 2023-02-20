@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frisi returned to Milan in April 1767.
 * Joseph, who was a highly intelligent man, was keen to discuss with Frisi the latest developments in science, particularly in electricity, and since he had lost two wives to smallpox, he was naturally keen to discuss developments in inoculation.
 * We have already indicated many contributions that Frisi made to mathematics, physics and astronomy.
-* In fact the work on this canal was not undertaken in Frisi's lifetime, but in 1819, thirty-five years after Frisi's death, the canal was built to his plan.
+* The work on this canal was not undertaken in Frisi's lifetime, but in 1819, thirty-five years after Frisi's death, the canal was built to his plan.
 * In the paper De problematis quibusdam isoperimetricis Ⓣ(Some isoperimetric problems) of 1761 Frisi discussed isoperimetric problems.
 * Frisi looked at problems involving both maximising and minimising.
 * Frisi also wrote on the contributions of Galileo: Elogio del Galileo Ⓣ(In praise of Galileo) (1775), Cavalieri: Elogio di Bonaventura Cavalieri Ⓣ(In praise of Bonaventura Cavalieri) (1778) Newton: Elogio del cavaliere Isacco Newton Ⓣ(In praise of Sir Isaac Newton) (1778), and d'Alembert: Elogio del signor d'Alembert Ⓣ(In praise of d'Alembert) (1786), and brought their ideas to a wide audience.

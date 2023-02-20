@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The work which involves arithmetic progressions is Hypsicles' On the Ascension of Stars.
 * Hypsicles makes a false assumption involving arithmetic progressions so that his results are wrong.
 * The mistake which Hypsicles makes is to assume that the rising times form an arithmetical progression.
-* In fact without the aid of the sine function and trigonometry it is hard to see how Hypsicles could have done better.
+* Without the aid of the sine function and trigonometry it is hard to see how Hypsicles could have done better.
 
 Born about 190BC, Alexandria, Egypt. Died about 120 BC.
 

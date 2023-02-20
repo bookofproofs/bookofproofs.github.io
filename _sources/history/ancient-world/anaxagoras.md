@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As to the structure of matter, Anaxagoras postulated an infinite number of elements, or basic building blocks.
 * Aristotle both found much to praise in Anaxagoras's theory of nous.
 * Both Plato and Aristotle, however, were critical of the fact that the driving force of the nous as proposed by Anaxagoras was not ethical.
-* In fact the nous of Anaxagoras does provide a mechanical explanation of the world after the non-mechanical start when the vortex is produced.
+* The nous of Anaxagoras does provide a mechanical explanation of the world after the non-mechanical start when the vortex is produced.
 * It is worth noting that Newton's mechanical universe would have more in common with Anaxagoras's views than the continuing ethical intelligence proposed by Plato and Aristotle.
 * We can obtain some clues to the mathematics that Anaxagoras studied but, unfortunately, very little remains in the records to allow us to know of definite results which he may have proved.
 * He records information about the painting of stage scenes for the plays which were performed in Athens and says that Anaxagoras wrote a treatise on how to paint scenes so that some objects appeared to be in the foreground while other appeared in the background.

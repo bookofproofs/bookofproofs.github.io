@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His given name was originally Yitzhak, and only after he emigrated to the United States did he begin to use the name Jack.
-* In fact the Polish language was one of Warga's special interests when he was at school and he had a particular interest in Polish literature and poetry.
+* The Polish language was one of Warga's special interests when he was at school and he had a particular interest in Polish literature and poetry.
 * The fifteen year old Warga was attacked and injured by hooligans while walking in Warsaw in a racially motivated attack.
 * In Brussels, Warga attended high school and, after displaying his academic brilliance, he graduated in 1939.
 * Warga escaped to France which now was the focus of the advancing Germans and before the end of June a Franco-German Armistice was signed.

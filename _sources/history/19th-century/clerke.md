@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This text was revised three times for four different editions in Clerke's lifetime (the last in 1902).
 * Although Clerke was not a practical astronomer, nor an author of original research articles, she did spend three months at the Royal Observatory at the Cape of Good Hope where she was the guest of the director, Sir David Gill, and his wife.
 * A Popular History of Astronomy during the Nineteenth Century was only one of many books that Clerke wrote.
-* In fact while Clerke was writing this book she was informally offered an appointment at the Royal Observatory in Greenwich.
+* While Clerke was writing this book she was informally offered an appointment at the Royal Observatory in Greenwich.
 * Not all Clerke's writings were on science for she wrote, among several literary contributions, essays on Don Sebastian (1882), the letters of Edward Fitzgerald (1894), and Familiar Studies in Homer (1892).
 * Clerke wrote 159 biographies for the Dictionary of National Biography.
 * In 1903, with Lady Huggins, she was elected an honorary member of the Royal Astronomical Society, a rank previously held only by two other women, Caroline Herschel and Mary Somerville.

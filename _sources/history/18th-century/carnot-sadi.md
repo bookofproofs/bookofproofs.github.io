@@ -37,11 +37,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The first of Carnot's major works was a paper which he wrote in 1822-23.
 * From its style and detailed descriptions the paper was clearly intended for publication but Carnot never published it and its existence was only discovered in manuscript form in 1966.
 * When Lazare Carnot died in August 1823, Hippolyte Carnot returned to Paris and there he helped Sadi Carnot to make the book on steam engines that he was working on at the time more understandable to the general public.
-* In 1824 Carnot published this work, the only one he published during his lifetime, Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissanceⓉ(Reflections on the motive power of fire and the machinery to develop this power) which includes his description of the "Carnot cycle".
+* In 1824 Carnot published this work, the only one he published during his lifetime, "Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance" Ⓣ(Reflections on the motive power of fire and the machinery to develop this power) which includes his description of the "Carnot cycle".
 * Carnot's ideas were later incorporated into the thermodynamic theory of Clausius and Thomson.
 * Carnot continued with his research after the publication of his book and although nothing of this was published, notes that Carnot made as his ideas developed have survived.
 * Still unhappy with his career, Carnot retired permanently and returned to live in Paris where he aimed to continue with his research into the theory of heat.
-* That Carnot's important book Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissanceⓉ(Reflections on the motive power of fire and the machinery to develop this power) should have been neglected at the time of its publication is certainly not because it went unnoticed.
+* That Carnot's important book "Réflexions ..." should have been neglected at the time of its publication is certainly not because it went unnoticed.
 * Perhaps the problem with the review was that although it stated the theorems and the conclusions of Carnot's work fully, it did not comment on the highly original reasoning which Carnot had employed to achieve his results.
 * It is possible that Carnot's personality played a role in the lack of enthusiasm for his work in his lifetime.
 * The Réflexions was an attempt by Carnot to answer two fundamental questions, firstly whether there was an upper limit to the power of heat, and secondly whether there was a better means than steam to produce this power.

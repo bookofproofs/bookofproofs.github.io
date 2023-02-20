@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Basset was called to the bar at Lincoln's Inn in 1879 and he became a Equity Draftsman and Conveyancer.
 * Fledborough Hall, the seat of Alfred Barnard Basset, esq.
 * The 'classical' hydrodynamics had at that time a great fascination for a number of rising mathematicians, and Basset's own contributions in this kind to the Proceedings of the Cambridge Philosophical Society, the London Mathematical Society, and the Philosophical Transactions of the Royal Society of London were of distinct merit.
-* In fact in 1893 Basset wrote Publication of scientific papers where he gave his ideas about publishing.
+* In 1893 Basset wrote Publication of scientific papers where he gave his ideas about publishing.
 * In 1888 Basset gave an historical introduction to hydrodynamics in his book A treatise on hydrodynamics, with numerous examples (1888).
 * This 2-volume 1888 text by Basset was the first of five books which he wrote.
 * It is very much to Basset's credit that this work was of such quality that the 2-volume monograph was reprinted in 1961, 73 years after it was first published, by Dover Publications, New York.

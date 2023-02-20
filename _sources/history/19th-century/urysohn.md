@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This gave Urysohn an international platform for his ideas which immediately attracted the interest of mathematicians such as Hilbert.
 * Urysohn published a full version of his dimension theory in Fundamenta mathematicae.
 * Sadly Urysohn had died before even the first part was published.
-* In fact Urysohn set out to do far more in this paper than to answer the two questions that Egorov had posed to him.
+* Urysohn set out to do far more in this paper than to answer the two questions that Egorov had posed to him.
 * Although Urysohn did not know of Brouwer's contribution when he worked out the details of his theory of topological dimension, Brouwer had in fact published on that topic in 1913.
 * He had given a global definition, however, and this was in contrast to Urysohn's local definition of dimension.
 * Another important aspect of Urysohn's ideas was the fact that he presented them in the context of compact metric spaces.

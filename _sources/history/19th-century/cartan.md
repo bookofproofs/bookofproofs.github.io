@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cartan's papers on differential equations are in many ways his most impressive work.
 * This enabled Cartan to define what the general solution of an arbitrary differential system really is but he was not only interested in the general solution for he also studied singular solutions.
 * Klein's 'Erlanger Programme' was seen to be inadequate as a general description of geometry by Weyl and Veblen, and Cartan was to play a major role.
-* In fact this work led Cartan to the notion of a fibre bundle although he does not give an explicit definition of the concept in his work.
+* This work led Cartan to the notion of a fibre bundle although he does not give an explicit definition of the concept in his work.
 * Cartan further contributed to geometry with his theory of symmetric spaces which have their origins in papers he wrote in 1926.
 * Cartan then went on to examine problems on a topic first studied by Poincaré.
 * By this stage his son, Henri Cartan, was making major contributions to mathematics and Élie Cartan was able to build on theorems proved by his son.

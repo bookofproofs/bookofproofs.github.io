@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Spanish members of Maior's school returned to Spain to form the "calculatores" who studied mechanics, being particularly involved with numerical examples, and using as their main tools the elements of proportion theory and infinitesimal arithmetic.
 * Lax was a student of Maior in Paris, who returned to Spain to be a leading calculatores.
 * Maior also had an outstanding reputation as a prolific author and an outstanding teacher.
-* In fact Maior returned to Scotland to become principal of Glasgow University.
+* Maior returned to Scotland to become principal of Glasgow University.
 * Of course 'Historia Majoris' is a pun on Maior's History.
 * In June 1523 Maior took up an appointment at the University of St Andrews.
 * After five years teaching in Paris, Maior returned again to Scotland and in particular to St Andrews.

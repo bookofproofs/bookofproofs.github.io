@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Having used the army as a reason to get out of prison, Weil had no intention of serving any longer than he possibly could.
 * In 1947 Weil returned to the United States and he was appointed to the faculty of the University of Chicago, a position he continued to hold until 1958.
 * Weil's research was in number theory, algebraic geometry and group theory.
-* In fact Weil's work in this area was basic to work by mathematicians such as Shing-Tung Yau who was awarded a Fields Medal in 1982 for work in three dimensional algebraic geometry which has major applications to quantum field theory.
+* Weil's work in this area was basic to work by mathematicians such as Shing-Tung Yau who was awarded a Fields Medal in 1982 for work in three dimensional algebraic geometry which has major applications to quantum field theory.
 * Yau is not the only mathematician who received a Fields Medal for work which continued that begun by Weil.
 * In 1978 Pierre Deligne was awarded a Fields Medal for solving the Weil Conjectures.
 * These Weil conjectures, as they came to be called, grew out of his deep insight into the topology of algebraic varieties and provided guiding principles for subsequent developments in the field.

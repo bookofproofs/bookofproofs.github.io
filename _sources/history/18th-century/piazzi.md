@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Since he is now known almost exclusively by the name Giuseppe Piazzi so we follow this standard practice.
 * His parents came from one of the wealthiest families in the Lombardy region where Giuseppe was born, around 100 km north east of Milan.
-* In fact Giuseppe was so frail when he was born that his parents feared to would not survive long enough to be baptised in a church so thy baptised him at home.
+* Giuseppe was so frail when he was born that his parents feared to would not survive long enough to be baptised in a church so thy baptised him at home.
 * Piazzi was then sent to Sant'Andrea della Valle, the Theatines basilica in Rome, to study theology.
 * While in Rome, Piazzi studied under Thomas Le Seur (1703-1770) and François Jacquier (1711-1788) who were based in the College of Trinità dei Monti.
 * Piazzi was ordained a priest in 1769 and assigned to Genoa to teach philosophy.
@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The way that Piazzi announced his discovery was a little strange.
 * One has to assume this was sent by Piazzi (although it is just possible, but unlikely, it was sent by Cacciatore) but no name is attached.
 * Lalande, the leading astronomer of the day, learnt of the discovery by reading this notice; Piazzi did not inform him personally.
-* In fact initially Piazzi only sent letters reporting his discovery to two people, Johann Elert Bode and Barnaba Oriani, on 24 January.
+* Initially Piazzi only sent letters reporting his discovery to two people, Johann Elert Bode and Barnaba Oriani, on 24 January.
 * We should note that Oriani was a natural person for Piazzi to write to since the two were long term friends and collaborators.
 * In 1803 Piazzi published his first catalogue of stars Praecipuarum stellarum inerrantium positiones mediae ineunte seculo XIX ex observationibus habitis in specula Panormitana ab 1792 ad annum 1802 Ⓣ(The positions of the principal fixed stars of the middle ages at the beginning of the nineteenth century from observations held in the Palermo observatory from 1792 to the year 1802).
 * The Institut de France awarded Piazzi the Lalande prize for publishing the best astronomical work in 1803.

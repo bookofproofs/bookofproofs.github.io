@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After working on this topic Sylvester lectured on it at an evening lecture entitled On recent discoveries in mechanical conversion of motion  which he gave at the Royal Institution.
 * Kempe and Sylvester worked jointly on linkages and made important discoveries.
 * In 1877 Sylvester accepted a chair at Johns Hopkins University and he founded in 1878 the American Journal of Mathematics, the first mathematical journal in the United States.
-* In fact the seven years that Sylvester spent at Johns Hopkins saw a resurgence in his mathematical interests.
+* The seven years that Sylvester spent at Johns Hopkins saw a resurgence in his mathematical interests.
 * Sylvester certainly wanted to return to his native land and had some personal reasons to return.
 * When Smith died in 1883 Sylvester, although 68 years old at this time, was appointed to the Savilian chair of Geometry at Oxford.
 * However Sylvester only liked to lecture on his own research and this was not well liked at Oxford where students wanted only to do well in examinations.

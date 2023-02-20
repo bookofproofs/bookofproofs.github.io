@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Farkas was also given the opportunity to make visits abroad to broaden his background in mathematics and physics.
 * By 1880 Farkas had an impressive publication record in Comptes Rendus and was appointed as a dozent in function theory at the university in Pest.
 * Readers may have noted that we have given 27 December as the day of Farkas's death, rather than 26 December given by Filep in the quotation above.
-* In fact he is remembered for Farkas theorem which is used in linear programming and also for his work on linear inequalities.
+* He is remembered for Farkas theorem which is used in linear programming and also for his work on linear inequalities.
 * In 1881 Gyula Farkas published a paper on Farkas Bolyai's iterative solution to the trinomial equation, making a careful study of the convergence of the algorithm.
 * In a paper published three years later, Farkas examined the convergence of more general iterative methods.
 * Not only did Farkas serve the University of Kolozsvár as a professor, but he also served as Dean and as Rector of the University.

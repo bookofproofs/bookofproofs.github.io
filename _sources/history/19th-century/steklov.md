@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For his Master's thesis Steklov worked on the equations of a solid body moving in an ideal non-viscous fluid.
 * There were four cases to be considered in integrating the equations which arose from this problem, and two of these cases had been solved by Clebsch in 1871.
 * Steklov solved the third case in his thesis, the final case being solved by Steklov's supervisor Lyapunov in 1893.
-* In fact 1893 was the year that Steklov was awarded his Master's Degree.
+* 1893 was the year that Steklov was awarded his Master's Degree.
 * Then, in 1896, Steklov was appointed to an extraordinary professorship of mechanics and continued to work for his doctoral dissertation.
 * For his doctoral dissertation Steklov worked on problems that arose in potential theory, electrostatics and hydromechanics.
 * He reduced problems of this type to boundary-value problems of Dirichlet type using rigorous mathematical analysis.
@@ -53,7 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There were quite a lot of people.
 * His lecture course on the integration of partial differential equations was to third year students and the lectures went on until April 1909.
 * He was strongly against the Tsarist Regime and sympathised with progressive students.
-* In fact this made him a very popular teacher at St Petersburg and, coupled with his excellent lecturing skills, brought many students to study at the Department of Mathematics and Physics.
+* This made him a very popular teacher at St Petersburg and, coupled with his excellent lecturing skills, brought many students to study at the Department of Mathematics and Physics.
 * Among the students that he taught at St Petersburg were Friedmann, Smirnov and Tamarkin.
 * Such trifles are all our tyrants can do ...
 * religious processions and extermination of the Russian people by all possible means.
@@ -65,7 +65,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Steklov made many important contributions to applied mathematics.
 * In addition to the work for his master's thesis and his doctoral thesis referred to above, he reduced problems to boundary value problems of Dirichlet type where Laplace's equation must be solved on a surface.
 * He wrote General Theory of Fundamental Functions in which he examined expansions of functions as series in an infinite system of orthogonal eigenfunctions.
-* In fact the term "Fundamental Functions", which is due to Poincaré, means eigenfunctions in today's terminology.
+* The term "Fundamental Functions", which is due to Poincaré, means eigenfunctions in today's terminology.
 * Steklov was not the first to examine series expansions in terms of infinite sets of orthogonal eigenfunctions, of course Fourier had examined a special case of this situation many years before.
 * Steklov, however, produced many papers on this topic which led him to a general theory to replace the special cases examined by others.
 * He studied a generalisation of Parseval's equality for Fourier series to his general setting showing this to be a fundamental property.

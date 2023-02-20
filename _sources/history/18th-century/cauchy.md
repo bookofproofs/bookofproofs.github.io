@@ -55,9 +55,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Poncelet referred to his own work of 1826 on the subject and Cauchy was shown to be wrong.
 * However Cauchy was never one to admit he was wrong.
 * Numerous terms in mathematics bear Cauchy's name:- the Cauchy integral theorem, in the theory of complex functions, the Cauchy-Kovalevskaya existence theorem for the solution of partial differential equations, the Cauchy-Riemann equations and Cauchy sequences.
-* in spite of its vastness and rich multifaceted character, Cauchy's scientific works possess a definite unifying theme, a secret wholeness.
+* In spite of its vastness and rich multifaceted character, Cauchy's scientific works possess a definite unifying theme, a secret wholeness.
 * Cauchy's creative genius found broad expression not only in his work on the foundations of real and complex analysis, areas to which his name is inextricably linked, but also in many other fields.
-* His collected works, Oeuvres complètes d'Augustin Cauchy Ⓣ(The complete works of Augustin Cauchy) (1882-1970), were published in 27 volumes.
+* His collected works, "Oeuvres complètes d'Augustin Cauchy" Ⓣ(The complete works of Augustin Cauchy) (1882-1970), were published in 27 volumes.
 
 Born 21 August 1789, Paris, France. Died 23 May 1857, Sceaux (near Paris), France.
 

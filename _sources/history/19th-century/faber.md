@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Faber's most important work was on the polynomial expansion of functions.
 * These polynomials are now known as 'Faber polynomials' and first appear in Faber's 1903 paper Über polynomische Entwickelungen Ⓣ(On polynomial developments)  published in Mathematische Annalen.
-* In fact Faber was building on the idea of Archimedes who computed approximately using a hierarchy of polygonal approximations of a circle.
+* Faber was building on the idea of Archimedes who computed approximately using a hierarchy of polygonal approximations of a circle.
 * Only in the 1980s was Faber's idea seen to be an important ingredient for the efficient solution of partial differential equations.
 * Most of Faber's publications are in function theory.
 * One further achievement of Faber is worthy of mention.

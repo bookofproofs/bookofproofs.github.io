@@ -44,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * (Clearly recognizing the forces of monopoly and monopsony, he nevertheless failed to develop a bilateral monopoly model.) Second, Canard revived Cantillon's 'three rents', and wove them into a general equilibrium conception of the economy, which he used to trace the effects of taxation (in the process, adumbrating the Ricardian theory of land rent).
 * Canard argued that the imposition of a new tax produces disequilibrium and sets in motion certain equilibrating adjustments which take time to work themselves through the economy.
 * Canard's maxim that 'every old tax is good, every new tax is bad', must be judged in this context.
-* Despite this work by Canard and other early writers, Antoine Augustin Cournot is usually considered as writing the first significant work on mathematical economics when he published Recherches sur les principes mathématiques de la théorie des richesses Ⓣ(Research on the mathematical principles of the theory of wealth) (1838).
+* Despite this work by Canard and other early writers, Antoine Augustin Cournot is usually considered as writing the first significant work on mathematical economics when he published "Recherches sur les principes mathématiques de la théorie des richesses" Ⓣ(Research on the mathematical principles of the theory of wealth) (1838).
 
 Born 2 December 1754, Sézanne, Haute Marne, France. Died 28 August 1833, Moulins-sur-Allier, Auvergne, France.
 

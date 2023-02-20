@@ -38,13 +38,12 @@ The **Marquis de Condorcet**'s most important work was on probability and the ph
 * Condorcet was now undertaking research on the integral calculus and he produced a memoir which was refereed by Alexis Claude Clairaut and Alexis Fontaine.
 * They saw much potential in the young Condorcet, but rejected the paper with, however, encouragement and advice on how he should proceed.
 * In 1765 Condorcet's memoir Essai sur le calcul intégral Ⓣ(Essay on the integral calculus) was submitted to the Académie des Sciences and refereed by d'Alembert and Étienne Bézout who reported positively on 22 May 1765.
-* fully resolves this general problem: "Given a differential equation of a given order, which contains as many variables as one wishes, determine whether this equation, in the state in which it is proposed, admits, or does not admit, an integral of an immediately lower degree." The solution he gives of this problem, in addition to having the merit of utility, has the merit of elegance and of generality.
+* He fully resolves this general problem: "Given a differential equation of a given order, which contains as many variables as one wishes, determine whether this equation, in the state in which it is proposed, admits, or does not admit, an integral of an immediately lower degree." The solution he gives of this problem, in addition to having the merit of utility, has the merit of elegance and of generality.
 * The work announces the greatest talents, and those most worthy of being stimulated by the approval of the Academy.
 * In the acknowledgements he thanks Alexis Fontaine for his "kindness to communicate to me, before the printing of his Memoirs, the fundamental Theorem which is found there on page 24." He also notes connections of his work on difference equations to results of d'Alembert in his memoir Recherches sur Differens Points Importans du Systeme du Monde Ⓣ(Research on different important points of the world system) (1754-56) and to Euler in his Institutions Calculi Differentialis Ⓣ(Differential calculus methods) (1755).
 * As a result of this memoir and a series of other mathematics papers he published at this time, Condorcet was elected to the Académie des Sciences in 1769.
 * Around this time he was a frequent visitor to Julie de Lespinasse's salon which she had opened on the rue de Belle Chasse in 1764.
 * Condorcet would have deep mathematical discussions with d'Alembert who was living in Julie de Lespinasse's salon.
-* filled with sublime and fruitful ideas which could have furnished material for several works.
 * However, here is a new application of these series, more important, in my opinion, than any that we have already made.
 * Soon after the publication of his 1772 work, Condorcet met Anne Robert Jacques Turgot (1727-1781), a French economist, in Julie de Lespinasse's salon.
 * Turgot had become an administrator under Louis XV and was appointed Controller General of Finances in August 1774 under Louis XVI.
@@ -55,7 +54,7 @@ The **Marquis de Condorcet**'s most important work was on probability and the ph
 * In 1777 Condorcet was appointed Secretary of the Académie des Sciences.
 * He had been advised by Voltaire and by d'Alembert to become an expert in writing obituaries in order to improve his chances of getting the post.
 * His most important work was on probability and the philosophy of mathematics, especially his treatise Essay on the Application of Analysis to the Probability of Majority Decisions (1785).
-* and he presented it as an attempt to demonstrate the applicability of calculation to "questions of interest for common utility".
+* He presented it as an attempt to demonstrate the applicability of calculation to "questions of interest for common utility".
 * It was concerned explicitly, as Condorcet explains at the beginning of the introduction, with the practice, widespread since antiquity, of submitting all individuals to the will of the greatest number.
 * It was also concerned with the differences between ancient and modem constitutions to which Condorcet returned throughout the rest of his life ...
 * The justification for majority voting in the ancient constitutions, Condorcet wrote in the 'Essai', was associated with "the words 'freedom' and 'utility'," more than with '''truth' and 'justice'." ...

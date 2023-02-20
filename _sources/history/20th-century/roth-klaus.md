@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * After graduating, Roth was appointed as an assistant master at the internationally famous Gordonstoun School, which lies 10 km north of Elgin in Scotland.
 * Roth returned to London in 1946 to undertake research at University College.
-* In fact Roth made a remarkable mathematical breakthrough while still a lecturer at University College.
+* Roth made a remarkable mathematical breakthrough while still a lecturer at University College.
 * It was for this work that Roth was awarded a Fields Medal in 1958.
 * Davenport presented Roth with the Fields Medal at the International Congress in Edinburgh in 1958.
 * Roth's theorem settles a question which is both of a fundamental nature and of extreme difficulty.

@@ -40,13 +40,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The journal began publication in 1929 and Sergescu was secretary of the editorial staff until 1948.
 * The first was held in Cluj in May 1929 with David Emmanuel as honorary president and the organising committee being Gheorghe Țițeica, Dimitrie Pompeiu, Dumitru Ionescu with Sergescu as the general secretary.
 * We should note that Sergescu generously supported these two conferences with large donations of money from his own pocket.
-* In fact the Faculty of Sciences was moved to Timisoara, where Sergescu became an active member of the Mathematical Seminar.
+* The Faculty of Sciences was moved to Timisoara, where Sergescu became an active member of the Mathematical Seminar.
 * In 1943 Sergescu moved to the Technical University of Bucharest where he served as rector of the university in 1945-46.
 * Sergescu published more than 160 scientific papers and took part to numerous international congresses and conferences.
 * Sergescu began to publish papers on the topic such as The history of the numerical calculus (Romanian) (1933), Les sciences mathématiques en France Ⓣ(Mathematical sciences in France) (1933) and Histoire des sciences mathématiques et physiques en Roumaine Ⓣ(History of Mathematics and Physical Sciences in Romania) (1934).
 * At the Fifth International Congress held at Lausanne in September-October 1947, Sergescu was appointed general secretary of the International Academy of the History of Sciences and of the International Union for the History of Sciences.
 * Mieli, who had been the person to persuade Sergescu to undertake research on the history of mathematics, had been the first general secretary but he had retired from the post.
-* In fact on the evening of 20 December Sergescu had been reading an obituary of his friend and colleague Dimitrie Pompeiu who had died a couple of months earlier on the 8 October.
+* On the evening of 20 December Sergescu had been reading an obituary of his friend and colleague Dimitrie Pompeiu who had died a couple of months earlier on the 8 October.
 * Sergescu was very modest and kind, always eager to be of service to others.
 * Anyone who had the privilege of meeting Pierre Sergescu knows what rich qualities of the heart he combined with those of a genuine scientist.
 * Sergescu received many honours.

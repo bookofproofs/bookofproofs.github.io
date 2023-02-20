@@ -34,8 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On the theory of divisibility, Cecioni wrote the article Alcune osservazioni sulla teoria della divisibilità Ⓣ(Some observations on the theory of divisibility) (published in Boll.
 * This text includes a conspicuous part of Cecioni's lectures in Complementary Mathematics, he addressed to the students of Pisa University.
 * We are sure the reader will find stimulating and original points of views in Cecioni's conceptions, although, perhaps, he will not agree with the whole of Cecioni's view.
-* Let us return to Cecioni's career.
-* In fact this was the first volume of a major work which Cecioni was not able to complete due to deteriorating health and his death in 1968.
+* Cecioni was not able to complete the first volume of a major work due to deteriorating health and his death in 1968.
 
 Born 1 December 1884, Livorno, Italy. Died 30 September 1968, Livorno, Italy.
 

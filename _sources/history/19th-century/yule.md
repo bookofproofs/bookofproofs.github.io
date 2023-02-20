@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Yule spent a year in Bonn undertaking research in experimental physics under Hertz.
 * This was a successful year in which he published four papers based on the research on electric waves that he undertook in Bonn, yet again Yule seems not to have found the topic one to excite him enough for him to want to work in that area for the rest of his life.
 * Yule returned from Germany to London in the summer of 1893 and was offered a post as a demonstrator in University College, London, by Karl Pearson.
-* In fact Pearson had known Yule when he had studied at University College as an undergraduate so he knew that he was appointing someone with great potential.
+* Pearson had known Yule when he had studied at University College as an undergraduate so he knew that he was appointing someone with great potential.
 * For the first time, Yule was inspired by the work which he undertook with Pearson, and his first paper on statistics appeared in 1895 On the correlation of total pauperism with proportion of out-relief.
 * In 1895 Yule was elected to the Royal Statistical Society and over the next few years, inspired by Pearson, he produced a series of important articles on the statistics of regression and correlation.
 * Yule's work entitled On the Theory of Correlation was first published in 1897.

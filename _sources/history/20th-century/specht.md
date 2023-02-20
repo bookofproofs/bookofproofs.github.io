@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There were also a number of more junior colleagues who worked with Specht at Breslau over the following years including Hans-Joachim Kanold, Georg Tautz (1901-1983) and Hans-Heinrich Ostmann (1913-1959).
 * Specht would meet with his colleague Tautz at Radon's home for a musical evening where Specht played the piano, Radon played the violin and Tautz sang tenor.
 * Feigl appreciated Specht both as a mathematical collaborator and as a table tennis partner.
-* In fact Specht got to the stage of disliking the telephone since it would ring so frequently with Feigl looking for Specht's assistance.
+* Specht got to the stage of disliking the telephone since it would ring so frequently with Feigl looking for Specht's assistance.
 * Specht was much appreciated by both his students and by his younger colleagues.
 * Specht's home became a popular meeting place where students or colleagues came to discuss mathematics, to chat or just to warm up a little when their own supply of fuel had run out.
 * This happy and productive time at Breslau came to an abrupt end in August 1940 when Specht was called up for military service.

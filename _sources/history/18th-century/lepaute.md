@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lalande approached Alexis Clairaut for help and Clairaut provided a basic programme of work requiring an extraordinary amount of computation.
 * Lalande then asked Nicole-Reine Lepaute to assist him in the computations.
 * On 14 November 1758 Clairaut reported to the Academy of Sciences that they predicted the comet would reach perihelion by mid-April 1759.
-* In fact the team had completed the calculations just in time for, on 25 December 1758, the comet was sighted.
+* The team had completed the calculations just in time for, on 25 December 1758, the comet was sighted.
 * Clairaut published Théorie des comètes Ⓣ(Theory of comets) (Paris, 1760) describing how the calculations had been carried out.
 * He listed those who had assisted in the computations but did not put Nicole-Reine Lepaute's name on the list.
 * It has been claimed that this deliberate omission was to please his girlfriend Mademoiselle Goulier who was jealous of Lepaute.

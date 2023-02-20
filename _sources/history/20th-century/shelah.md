@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Shelah started out in model theory, developing an abstract classification theory for models which is a continuing research program for him and model theorists to this day.
 * In the mid-1970's, in his first major body of results in set theory, Shelah resolved a long-standing problem in abelian group theory, Whitehead's problem, by establishing both the consistency and the independence of the corresponding proposition.
 * It is through these beginnings, motivated by the set-theoretic problems that arose, that Shelah started to develop a general theory of iterated forcing for the continuum.
-* Finally let us note that, in November 2009, MathSciNet listed the truly remarkable number of 867 publications for Shelah.
+* In November 2009, MathSciNet listed the truly remarkable number of 867 publications for Shelah.
 
 Born 3 July 1945, Jerusalem, British Mandate for Palestine (now Israel).
 

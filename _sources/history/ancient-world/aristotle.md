@@ -60,7 +60,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Aristotle believed that logic was not a science but rather had to be treated before the study of every branch of knowledge.
 * Aristotle's name for logic was "analytics", the term logic being introduced by Xenocrates working at the Academy.
 * Those are among the questions which Aristotle poses in his logical writings, and in particular in the works known as Prior and Posterior Analytics.
-* In fact in Prior Analytics Aristotle proposed the now famous Aristotelian syllogistic, a form of argument consisting of two premises and a conclusion.
+* In Prior Analytics Aristotle proposed the now famous Aristotelian syllogistic, a form of argument consisting of two premises and a conclusion.
 * Aristotle was not the first to suggest axiom systems.
 * Aristotle went for the somewhat more possible suggestion of an axiom system for each science.
 * Notice that Euclid and his axiom system for geometry came after Aristotle.

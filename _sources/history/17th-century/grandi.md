@@ -34,12 +34,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Having learnt much geometry, between 1699 and 1700 Grandi began to look at applications to optics, mechanics, astronomy.
 * Having now shown a deep understanding of mathematics, Grandi began to teach mathematics at the monastery of Santa Maria degli Angeli.
 * Also around this time, Grandi also began to correspond with Tommaso Ceva who was at the Jesuit college of Brera in Milan.
-* In fact Grandi was a vigorous correspondent, exchanging letters with many scientists and theologians.
+* Grandi was a vigorous correspondent, exchanging letters with many scientists and theologians.
 * The Accademia Arcadia was a literary academy which was founded in Rome in 1690 to promote a more natural, simple poetic style and around 1700 Grandi attended this Academy.
 * Poetry, especially Latin poetry, was a favourite with Grandi throughout his life.
 * Grandi was offered a chair of mathematics in Rome but the Grand Duke Cosimo did not want to lose his star mathematician and in May 1700, the Grand Duke Cosimo offered Grandi a position of professor of philosophy at Pisa.
 * Grandi chose to go to Pisa rather than to Rome.
-* In fact Grandi taught methods of the infinitesimal calculus from 1702 in private lessons he was giving; he was the first to do so in Italy.
+* Grandi taught methods of the infinitesimal calculus from 1702 in private lessons he was giving; he was the first to do so in Italy.
 * Grandi had studied Newton's fluxions and Leibniz's differentials and used both approaches although he favoured the approach by Leibniz.
 * One of Grandi's results in the Quadratura Ⓣ(Quadrature) caused a lot of interest.
 * Grandi gave the curve the name Scala, the scale curve, because it can serve as a measure of light intensity.

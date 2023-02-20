@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finding problems getting his mathematics papers published, Gergonne established his own mathematics journal, the first part appearing in 1810.
 * The Journal was officially called the Annales de mathématiques pures et appliquées Ⓣ(Annals of Pure and Applied Mathematics) but became known as Annales de Gergonne .
 * Gergonne's mathematical interests were in geometry so it is not surprising that it was this topic which figured most prominently in his journal.
-* In fact many famous mathematicians published in the twenty-one volumes of the Annales de Gergonne which appeared during a period of twenty-two years.
+* Many famous mathematicians published in the twenty-one volumes of the Annales de Gergonne which appeared during a period of twenty-two years.
 * In addition to Gergonne himself (who published around 200 articles), Poncelet, Servois, Bobillier, Steiner, Plücker, Chasles, Brianchon, Dupin, Lamé, Galois and many others had papers appear in the Journal.
 * In 1813 Gergonne wrote a prize winning essay for the Bordeaux Academy Methods of synthesis and analysis in mathematics.
 * The essay tells us a lot about Gergonne's mathematical ideas.

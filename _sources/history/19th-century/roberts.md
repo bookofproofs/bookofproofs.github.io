@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Samuel Roberts was educated at Queen Elizabeth's Grammar School in the town of his birth.
-* In fact he had published mathematical papers from 1848 but, after the London Mathematical Society was founded in early 1865, Roberts could join in discussions with other mathematicians for he had no mathematical post.
+* He had published mathematical papers from 1848 but, after the London Mathematical Society was founded in early 1865, Roberts could join in discussions with other mathematicians for he had no mathematical post.
 * Cayley said that he regretted that joint papers were so rare in mathematics since he would have liked to have collaborated with Roberts, particularly on ideas which arose from Roberts' paper On the motion of a plane under given conditions.
 * Roberts served on the Council of the London Mathematical Society from 1866 to 1892.
 * The greatest honour given to Roberts was his election as a Fellow of the Royal Society in 1878.

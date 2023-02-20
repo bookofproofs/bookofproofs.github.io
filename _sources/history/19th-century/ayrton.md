@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hertha Ayrton** was an engineer and mathematician. She was awarded the Royal Society's Hughes Medal, and is well known as a suffragette.
 
 ### Mathematical Profile (Excerpt):
-* In fact this was a nickname she received after the age of sixteen and she is now almost always known by the name Hertha Ayrton.
+* "Herta" was a nickname she received after the age of sixteen, and she is now almost always known by the name Hertha Ayrton.
 * Her parents were Levi Marks and Alice Theresa Moss.
 * Alice earned some money as a seamstress while Hertha, who was seven at this time, helped to look after her younger siblings.
 * When Hertha was nine years old, Marion Hartog invited her to come and live with her and to be educated at her school.

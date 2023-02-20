@@ -46,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was during his time in Grenoble that Fourier did his important mathematical work on the theory of heat.
 * The first objection, made by Lagrange and Laplace in 1808, was to Fourier's expansions of functions as trigonometrical series, what we now call Fourier series.
 * Further clarification by Fourier still failed to convince them.
-* provides a good index of the originality of Fourier's views.
 * The second objection was made by Biot against Fourier's derivation of the equations of transfer of heat.
 * Fourier had not made reference to Biot's 1804 paper on this topic but Biot's paper is certainly incorrect.
 * Fourier submitted his 1807 memoir together with additional work on the cooling of infinite solids and terrestrial and radiant heat.

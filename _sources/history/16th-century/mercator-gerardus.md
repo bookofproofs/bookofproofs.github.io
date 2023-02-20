@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1537 Mercator, working with Van der Heyden and with Gemma Frisius, constructed a globe of the stars.
 * The first map of the world to be produced by Mercator used a projection due to Oronce Fine and appeared in 1538.
 * It suggested an independent Flanders and Mercator's map was commissioned to correct this impression.
-* In fact Mercator produced a map of high accuracy using data from a survey of Flanders carried out using the method of triangulation described by Gemma Frisius.
+* Mercator produced a map of high accuracy using data from a survey of Flanders carried out using the method of triangulation described by Gemma Frisius.
 * Mercator had a long term plan of producing a world map by producing individual maps of the different regions.
 * Mercator realised the reason for some of the incorrect data; sailors assumed that following a particular compass course would have them travel in a straight line whereas this was untrue.
 * He realised that a ship sailing towards the same point of the compass would follow a curve called a loxodrome (also called a rhumb line or spherical helix), a curve recently studied by Pedro Nunes who was a mathematician greatly admired by Mercator.

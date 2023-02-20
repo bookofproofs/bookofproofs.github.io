@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * They were back in Denmark in time for Jessen to attend the 8th Scandinavian Congress of Mathematicians in Stockholm 14-18 August 1934.
 * On 1 June 1935 Jessen was appointed as Professor of Geometry at the Technical University of Denmark in Copenhagen.
 * Johannes Hjelmslev, the professor at the University of Copenhagen, was due to retire in 1940 and Jessen applied to be his successor.
-* In fact Jessen was the only applicant for the professorship.
+* Jessen was the only applicant for the professorship.
 * At this point Jessen withdrew his application for Hjelmslev's professorship and Hjelmslev was persuaded to remain in post until the end of August 1942.
 * When Hjelmslev finally retired in 1942, Jessen again applied for the position once more being the only applicant.
 * In 1948 Jessen became head of the Department of Mathematics, a position he continued to hold until 1967.

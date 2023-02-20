@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ohm believed that having put mathematics on a firm basis with his books, what was then necessary was to teach the teachers.
 * One member of the Academy declared that if any teacher considered he did not receive proper training then he could always be sent to Ohm in Berlin.
 * Ohm's contemporaries all accepted that he was a highly successful teacher but they were starkly divided as to whether this was because of the quality and approach of his books or whether he was such an inspiring teacher that he was successful despite what he put forward in his books.
-* Let us note that Ohm tried to put mathematics on a sound basis with a highly abstract approach in the same spirit as Bourbaki did many years later.
+* Ohm tried to put mathematics on a sound basis with a highly abstract approach in the same spirit as Bourbaki did many years later.
 * The "new maths" which became such a popular approach to teaching in the 1980s also developed along lines not dissimilar to those Ohm wanted to follow.
 * What is perhaps surprising is that Martin Ohm has received little recognition for his innovative ideas but perhaps this is because Ohm was unknown to Bourbaki and those who supported the "new maths".
 * Other books by Martin Ohm have had an impact, as least for a short while.

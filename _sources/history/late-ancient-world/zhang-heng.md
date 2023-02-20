@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was natural therefore that Zhang having become an expert in astronomy should become involved in calendar reform by the year 123.
 * In 132 Zhang invented the first seismograph for measuring earthquakes.
 * Zhang's device, which he called Hou Feng Di Dong Yi, was made of copper.
-* In fact the seismograph detected an earthquake in February of 138 and Zhang reported this fact to the Emperor despite no other evidence of the earthquake being felt in the capital Lo-yang.
+* The seismograph detected an earthquake in February of 138 and Zhang reported this fact to the Emperor despite no other evidence of the earthquake being felt in the capital Lo-yang.
 * Zhang appears to have been the first person in China to construct an equatorial armillary sphere.
 * With this instrument Zhang was able to make more accurate star maps than earlier Chinese astronomers.
 * Only the first part of this text by Zhang has survived.

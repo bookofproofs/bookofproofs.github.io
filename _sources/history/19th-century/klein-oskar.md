@@ -41,7 +41,7 @@ contributors: @Ian-T-Durham,bookofproofs
 * In 1925, Klein returned to Copenhagen and contracted hepatitis.
 * Klein's results were published in Nature in the autumn of 1926 and generated interest from such eminent theorists as Vladimir Fock, Leon Rosenfeld, Louis de Broglie, and Dirk Struik.
 * Unfortunately, despite a lot of initial interest in unification, most physicists eventually went on to more promising and experimentally testable research leaving Kaluza-Klein theory to be explored by another generation of physicists nearly half a century later.
-* In fact, 1926 was a banner year for Klein.
+* 1926 was a banner year for Klein.
 * In a paper in which he determined the atomic transition probabilities (prior to Dirac), he introduced the initial form of what would become known as the Klein-Gordon equation.
 * The Klein-Gordon equation was the first relativistic wave equation.
 * However, Bethe and Jackiw's Intermediate Quantum Mechanics, originally written in 1964, does refer to the same equation as the Klein-Gordon equation.

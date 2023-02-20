@@ -32,13 +32,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Soon after going to the University of East Anglia, Shephard began a collaboration with Branko Grünbaum and their first joint paper Convex polytopes was published in the Bulletin of the London Mathematical Society in 1969.
 * The book that took Shephard and Grünbaum eleven years to produce was Tilings and Patterns (1986).
 * Shephard had written another book which he had published well before Tilings and Patterns, namely the joint work Convex polytopes and the upper bound conjecture written in collaboration with Peter McMullen (born 11 May 1942).
-* In fact McMullen had been a Ph.D. student at the University of Birmingham advised by Shephard.
+* McMullen had been a Ph.D. student at the University of Birmingham advised by Shephard.
 * When Shephard moved to the University of East Anglia in 1967, McMullen went with him.
 * The prize, to be known as the Shephard Prize will be awarded biennially.
 * Professor Shephard himself is Professor of Mathematics at the University of East Anglia whose main fields of interest are in convex geometry and tessellations.
 * Professor Shephard is one of the longest-standing members of the London Mathematical Society, having given more than sixty years of membership.
 * Shephard retired from his chair at the University of East Anglia in 1984.
-* In fact MathSciNet lists 48 papers written by Shephard (some are joint works) which were published between 1987 and 2016.
+* MathSciNet lists 48 papers written by Shephard (some are joint works) which were published between 1987 and 2016.
 
 Born 16 August 1927, Manchester, England. Died 3 August 2016, Norwich, England.
 

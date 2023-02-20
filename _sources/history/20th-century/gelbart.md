@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Abe Gelbart** was an American mathematician who worked in complex function theory.
 
 ### Mathematical Profile (Excerpt):
-* In fact he wrote his mathematical papers under the name Abe Gelbart.
+* He wrote his mathematical papers under the name Abe Gelbart.
 * His parents were Wolf and Pauline Gelbart, both of whom were born in Poland.
 * Ginsburg, who had an enthusiasm for teaching mathematics which few can have surpassed, was the ideal person to inspire the young man Gelbart who had no real formal mathematical education yet had a passion for the subject.
 * In 1935 a solution to this problem by Abe Gelbart, Student, Central High School, Paterson, New Jersey was published.

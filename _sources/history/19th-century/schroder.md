@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schröder remained at Karlsruhe for the rest of his career, being made Director of the Technische Hochschule for the year 1890-91.
 * Ernst Schröder's important work is in the area of algebra, set theory and logic.
 * What was the connection between logic and algebra in Schröder's research?
-* In fact Schröder started out being interested in mathematical physics, and his move towards logic was simply an attempt to deepen its foundations.
+* Schröder started out being interested in mathematical physics, and his move towards logic was simply an attempt to deepen its foundations.
 * Now one sees Schröder moving towards logic with Lehrbuch der Arithmetik und Algebra für Lehrer und Studierende Ⓣ(A textbook of arithmetic and algebra for teachers and students) published by Teubner in 1873.
 * In Vorlesungen über die Algebra der Logik Ⓣ(Lectures on the algebra of logic), a large work published between 1890 and 1905 (it was edited and completed by Eugen Müller after his death), Schröder gave a detailed account of algebraic logic, provided a source for Alfred Tarski to develop the modern algebraic theory and gave an extensive bibliography of the history of logic.
 * Schröder's concept of solving a relational equation was a precursor of Skolem functions, and he inspired Löwenheim's formulation and proof of the famous theorem that every sentence with an infinite model has a countable model, the first real theorem of modern logic.

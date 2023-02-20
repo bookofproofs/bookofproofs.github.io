@@ -39,9 +39,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wessel's fame as a mathematician rests solely on this paper, which was published in 1799, giving for the first time a geometrical interpretation of complex numbers.
 * Today we call this geometric interpretation the Argand diagram but Wessel's work came first.
 * It was so named before the world of mathematics learnt of Wessel's prior publication.
-* In fact Wessel's paper was not noticed by the mathematical community until 1895 when Juel draw attention to it and, in the same year, Sophus Lie republished Wessel's paper.
+* Wessel's paper was not noticed by the mathematical community until 1895 when Juel draw attention to it and, in the same year, Sophus Lie republished Wessel's paper.
 * Johannes Nikolaus Tetens was a professor of mathematics and philosophy at the University of Copenhagen near the end of the 18th  century, and it was because of his encouragement that Wessel presented his paper to the Academy.
-* In fact Wessel, not being a member of the Academy, was not present when his paper was read.
+* Wessel, not being a member of the Academy, was not present when his paper was read.
 * One can only suppose that, despite Tetens encouraging Wessel, he could not have realised its importance for otherwise he certainly could have translated it from Danish to German and thus ensured for Wessel the world-wide fame as a mathematician which he has not achieved until very recent times.
 * Wessel's initial formulation was remarkably clear, direct, concise and modern.
 * However more is claimed for Wessel's single mathematical paper than the first geometric interpretation of complex numbers.

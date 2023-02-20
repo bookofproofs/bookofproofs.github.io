@@ -42,11 +42,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1710 de Moivre was appointed to the Commission set up by the Royal Society to review the rival claims of Newton and Leibniz to be the discovers of the calculus.
 * The Royal Society knew the answer it wanted! It is also interesting that de Moivre should be given this important position despite finding it impossible to gain a university post.
 * De Moivre pioneered the development of analytic geometry and the theory of probability.
-* In fact it was Francis Robartes, who later became the Earl of Radnor, who suggested to de Moivre that he present a broader picture of the principles of probability theory than those which had been presented by Montmort in Essay d'analyse sur les jeux de hazard Ⓣ(Essay on the analysis of games of chance) (1708).
+* It was Francis Robartes, who later became the Earl of Radnor, who suggested to de Moivre that he present a broader picture of the principles of probability theory than those which had been presented by Montmort in Essay d'analyse sur les jeux de hazard Ⓣ(Essay on the analysis of games of chance) (1708).
 * Clearly this work by Montmort and that by Huygens which de Moivre had read while at Saumur, contained the problems which de Moivre attacked in his work and this led Montmort to enter into a dispute with de Moivre concerning originality and priority.
 * Unlike the Newton-Leibniz dispute which de Moivre had judged, the argument with Montmort appears to have been settled amicably.
 * The definition of statistical independence appears in this book together with many problems with dice and other games.
-* In fact The Doctrine of Chance appeared in new expanded editions in 1718, 1738 and 1756.
+* The Doctrine of Chance appeared in new expanded editions in 1718, 1738 and 1756.
 * The 1756 edition of The Doctrine of Chance contained what is probably de Moivre's most significant contribution to this area, namely the approximation to the binomial distribution by the normal distribution in the case of a large number of trials.
 * He even appears to have perceived, although he did not name, the parameter now called the standard deviation ...
 * De Moivre also investigated mortality statistics and the foundation of the theory of annuities.

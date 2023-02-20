@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schubert's achievement was to combine this procedure, which he called "the principle of conservation of number", with the Chasles correspondence principle, thus establishing the foundation of a calculus.
 * With the aid of this calculus, which he modelled on Ernst Schröder's logical calculus, Schubert was able to solve many problems systematically.
 * Some remarkable counting results of Schubert were neglected for many years for their lack of rigour but recently many of them have been confirmed.
-* In fact it appears that although the principal of conservation of the number as stated by Schubert was false, and counter-examples were given by Study, nevertheless Schubert knew exactly what he was doing and his use of the principal was always in cases where it is valid.
+* It appears that although the principal of conservation of the number as stated by Schubert was false, and counter-examples were given by Study, nevertheless Schubert knew exactly what he was doing and his use of the principal was always in cases where it is valid.
 * Schubert was editor of Sammlung Schubert, a series of textbooks.
 * Given Schubert's outstanding mathematical contributions, it is natural to ask why he remained a school teacher and never became a university professor.
 * Although Hamburg had no university during the time that Schubert taught in the Andreanum, nevertheless it did have the Hamburg Mathematical Society, founded in 1690, the oldest mathematical society in the world which still exists today.

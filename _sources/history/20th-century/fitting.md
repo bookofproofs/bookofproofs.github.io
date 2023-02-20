@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following his Ph.D., Fitting continued his research at the Mathematical Institutes of the Universities of Göttingen and Leipzig, funded by the "Notgemeinschaft der Deutschen Wissenschaften" (which can be translated loosely as the Emergency Association for German Science).
 * Emmy Noether advised Fitting to apply for this grant and she had strongly supported his application.
 * In April 1934 Fitting moved to Königsberg, where he worked as a research assistant and later as an assistant lecturer in mathematics.
-* In fact it was through contacting Richard Brauer that Emmy Noether was able to secure the position for Fitting.
+* It was through contacting Richard Brauer that Emmy Noether was able to secure the position for Fitting.
 * Fitting was not the only new mathematics appointment to Königsberg in April 1933 for Wilhelm Specht was appointed at the same time.
 * Fitting habilitated at the Science Faculty of the University of Königsberg in April 1936 and on 1 November 1937 he was promoted to lecturer for mathematics.
 * In his brief spell as a lecturer, Fitting led classes on a wide range of mathematical topics and distinguished himself, in particular, by his great attention to detail.

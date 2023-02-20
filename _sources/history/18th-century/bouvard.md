@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Although he had little in the way of money to pay for an education, the Collège de France did offer free courses and Bouvard studied there.
-* In 1794 Bouvard met Laplace who was at that time working on his great masterpiece Méchanique céleste Ⓣ(Celestial Mechanics).
+* In 1794 Bouvard met Laplace who was at that time working on his great masterpiece "Méchanique céleste" Ⓣ(Celestial Mechanics).
 * Laplace recognised Bouvard's computing skills and soon had him carrying out the complex calculations required for his theory.
 * Realising Bouvard's potential, Laplace arranged for him to be offered a position in the important Bureau de longitudes in 1794.
 * Bouvard worked there for the rest of his career earning a reputation as a careful observer as well as an able mathematician.

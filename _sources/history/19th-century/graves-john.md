@@ -71,7 +71,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Society for the Diffusion of Useful Knowledge had been set up by the same reformers who founded London University and De Morgan was an enthusiast for the Society.
 * Graves and De Morgan served together on the Society's committee.
 * Graves had certainly not given up mathematics but had continued to correspond with Hamilton.
-* In fact his early work on logarithms was undertaken since he believed that it might lead to the discovery of new imaginary numbers.
+* His early work on logarithms was undertaken since he believed that it might lead to the discovery of new imaginary numbers.
 * Graves' ideas regarding possible new complex numbers continued and he tried to multiply lines in space given by triples.
 * In corresponding with Hamilton and telling him about his ideas in this area, he kept Hamilton's interest in generalising complex numbers to three dimensions.
 * The reason that it was Graves that he turned to first was, as Hamilton explained in a letter to the Philosophical Magazine on 20 November 1844, because his discussions with Graves had played an important role in the discovery.

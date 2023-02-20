@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * An Edinburgh banker, John Ronaldson was nevertheless interested in science, in particular in astronomy, geology and with the newly invented photography.
 * He next attended a private school in Circus Place Edinburgh, then in 1841, when he was ten years old, he entered Edinburgh Academy.
 * Lewis Campbell, who later became the professor of Greek at the University of St Andrews, and James Clerk Maxwell were one year above Tait at the Academy.
-* In fact Maxwell was slightly younger than Tait so the difference of one year certainly did not reflect their respective ages.
+* Maxwell was slightly younger than Tait so the difference of one year certainly did not reflect their respective ages.
 * Tait was top of his class in each one of his six years at Edinburgh Academy.
 * In 1846 he was placed first in the mathematics section of the Edinburgh Academical Club Prize which was no mean achievement given that he beat Lewis Campbell, who was placed second, and Maxwell who was placed third.
 * In 1847, Tait's final year at Edinburgh Academy, Maxwell had his revenge since he was placed first for the Edinburgh Academical Club Prize with Tait second.

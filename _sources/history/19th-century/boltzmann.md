@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite this, depressed by scientific arguments with Ostwald which are described below Boltzmann unsuccessfully attempted suicide during his time in Leipzig.
 * In 1901 Mach retired from Vienna due to ill health, and because of this Boltzmann's reason for moving from Vienna had gone.
 * In addition to his teaching in mathematical physics, Boltzmann was given Mach's philosophy course to teach.
-* In fact because of the fame of these lectures Boltzmann was invited to the Palace of Franz Josef.
+* Because of the fame of these lectures Boltzmann was invited to the Palace of Franz Josef.
 * Boltzmann's fame is based on his invention of statistical mechanics.
 * Boltzmann obtained the Maxwell-Boltzmann distribution in 1871, namely the average energy of motion of a molecule is the same for each direction.
 * Boltzmann worked on statistical mechanics using probability to describe how the properties of atoms determine the properties of matter.

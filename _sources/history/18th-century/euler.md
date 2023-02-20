@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Paul Euler had studied theology at the University of Basel and had attended Jacob Bernoulli's lectures there.
-* In fact Paul Euler and Johann Bernoulli had both lived in Jacob Bernoulli's house while undergraduates at Basel.
+* Paul Euler and Johann Bernoulli had both lived in Jacob Bernoulli's house while undergraduates at Basel.
 * This school was a rather poor one, by all accounts, and Euler learnt no mathematics at all from the school.
 * Johann Bernoulli soon discovered Euler's great potential for mathematics in private tuition that Euler himself engineered.
 * In 1723 Euler completed his Master's degree in philosophy having compared and contrasted the philosophical ideas of Descartes and Newton.
@@ -63,7 +63,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was helped by his sons, Johann Albrecht Euler who was appointed to the chair of physics at the Academy in St Petersburg in 1766 (becoming its secretary in 1769) and Christoph Euler who had a military career.
 * Euler was also helped by two other members of the Academy, W L Krafft and A J Lexell, and the young mathematician N Fuss who was invited to the Academy from Switzerland in 1772.
 * Fuss, who was Euler's grandson-in-law, became his assistant in 1776.
-* the scientists assisting Euler were not mere secretaries; he discussed the general scheme of the works with them, and they developed his ideas, calculating tables, and sometimes compiled examples.
+* The scientists assisting Euler were not mere secretaries; he discussed the general scheme of the works with them, and they developed his ideas, calculating tables, and sometimes compiled examples.
 * For example Euler credits Albrecht, Krafft and Lexell for their help with his 775 page work on the motion of the moon, published in 1772.
 * Fuss helped Euler prepare over 250 articles for publication over a period on about seven years in which he acted as Euler's assistant, including an important work on insurance which was published in 1776.
 * After his death in 1783 the St Petersburg Academy continued to publish Euler's unpublished work for nearly 50 more years.
@@ -93,12 +93,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mechanica was followed by another important work in rational mechanics, this time Euler's two volume work on naval science.
 * Euler here also begins developing the kinematics and dynamics of rigid bodies, introducing in part the differential equations for their motion.
 * Of course hydrostatics had been studied since Archimedes, but Euler gave a definitive version.
-* In 1765 Euler published another major work on mechanics Theoria motus corporum solidorum Ⓣ(Theory of the motion of solid bodies) in which he decomposed the motion of a solid into a rectilinear motion and a rotational motion.
+* In 1765 Euler published another major work on mechanics "Theoria motus corporum solidorum" Ⓣ(Theory of the motion of solid bodies) in which he decomposed the motion of a solid into a rectilinear motion and a rotational motion.
 * He considered the Euler angles and studied rotational problems which were motivated by the problem of the precession of the equinoxes.
 * Euler's work on fluid mechanics is also quite remarkable.
 * He published a number of major pieces of work through the 1750s setting up the main formulae for the topic, the continuity equation, the Laplace velocity potential equation, and the Euler equations for the motion of an inviscid incompressible fluid.
 * Euler contributed to knowledge in many other areas, and in all of them he employed his mathematical knowledge and skill.
-* In fact Euler's lunar theory was used by Tobias Mayer in constructing his tables of the moon.
+* Euler's lunar theory was used by Tobias Mayer in constructing his tables of the moon.
 * In 1765 Mayer's widow received £3000 from Britain for the contribution the tables made to the problem of the determination of the longitude, while Euler received £300 from the British government for his theoretical contribution to the work.
 * Cartography was another area that Euler became involved in when he was appointed director of the St Petersburg Academy's geography section in 1735.
 * Euler, in Berlin by the time of its publication, proudly remarked that this work put the Russians well ahead of the Germans in the art of cartography.

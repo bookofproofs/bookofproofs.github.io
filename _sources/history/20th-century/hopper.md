@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1946 Hopper ended her active duty with the Navy but remained a duty reservist.
 * In 1949 Hopper joined the Eckert-Mauchly Computer Corporation as a Senior Mathematician and there she worked with John Eckert and John Mauchly on the UNIVAC computer.
 * Indeed it may seem obvious to us today that this would be the route forward for computers but it was an extremely far sighted idea from Hopper.
-* In fact thinking about how computers have developed, particularly with systems such as Mathematica and Maple available today, one sees the rather remarkable vision that Hopper had of how computers would become such an important tool for mathematicians.
+* Thinking about how computers have developed, particularly with systems such as Mathematica and Maple available today, one sees the rather remarkable vision that Hopper had of how computers would become such an important tool for mathematicians.
 * Hopper became a Systems Engineer and Director of Automatic Programming Development of the UNIVAC Division.
 * Hopper was never one to hold a single job at any one time.
 * The Navy and Hopper were not apart for very long for, in August 1967, she was recalled to active duty in the Navy.

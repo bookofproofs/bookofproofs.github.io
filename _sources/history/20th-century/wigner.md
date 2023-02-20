@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wigner was invited to Göttingen in 1927 to become Hilbert's assistant.
 * This was an important time for Wigner who produced papers of great depth and significance, introducing in his paper On the conservation laws of quantum mechanics (1927) the new concept of parity.
 * Wigner returned to Berlin after the year in Göttingen where he lectured on quantum mechanics, worked on writing his famous text Group theory and its application to the quantum mechanics of atomic spectra and continued his research.
-* In fact Wigner's book on the applications of group theory to quantum mechanics was not the first to appear, since Weyl published his a little before Wigner.
+* Wigner's book on the applications of group theory to quantum mechanics was not the first to appear, since Weyl published his a little before Wigner.
 * From 1930 to 1933 Wigner spent part of the year at Princeton, part at Berlin.
 * His Berlin post vanished under the Nazi rules passed in 1933 and from then, except for the years 1936 - 1938 in Wisconsin, Wigner spent the rest of his career at Princeton.
 * There is slight confusion about the reason that Wigner left Princeton in 1936.

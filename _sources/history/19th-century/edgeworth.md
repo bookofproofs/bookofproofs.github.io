@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this stage in his life Edgeworth had no particular interest in mathematics.
 * One important influence from this period was Jevons who was a friend and near-neighbour of Edgeworth.
 * The surprising part is that somewhere in this varied career Edgeworth studied mathematics.
-* In fact most of his work could be said to be applications of mathematical psychics which Edgeworth saw as analogous to mathematical physics.
+* Most of his work could be said to be applications of mathematical psychics which Edgeworth saw as analogous to mathematical physics.
 * Edgeworth published Methods of Statistics in 1885 which presented an exposition of the application and interpretation of significance tests for the comparison of means.
 * In 1891 Edgeworth left London to take up the Drummond Chair of Political Economy at Oxford.
 * Another event of significance in 1891 was that the Economic Journal began publication with Edgeworth as its first editor.

@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This emphasis on the great importance of astronomy led Mei to reject the claims of Confucian scholars such as Yang Guangxian who were satisfied with understanding the 'li' of astronomy without bothering with detailed calendrical calculations.
 * According to Mei, without engaging in complicated calendrical computation, 'li' simply could not be attained.
 * They were saved due to an earthquake hitting not long before the time set for their execution, but later Mei's arguments against Yang Guangxian succeeded since his lack of ability to make complicated calendrical computations became clear.
-* In fact this dispute led to the Emperor Kangxi becoming an enthusiast for mathematics, something which helped Mei in the later part of his career.
+* This dispute led to the Emperor Kangxi becoming an enthusiast for mathematics, something which helped Mei in the later part of his career.
 * Mei's first mathematical work was the Fangcheng lun (On simultaneous linear equations) which he wrote in 1672.
 * Mei Wending clearly wished to demonstrate the superiority of early Chinese mathematics over the methods Western scholars had brought to China, and at least in this case, the example of simultaneous linear equations was an excellent one to stress.
 * Mei Wending, however, proposed two proofs, along with other applications of the theorem in his 'Gougu juyu' (Illustration of the Right-Angled Triangles) (written before 1692).

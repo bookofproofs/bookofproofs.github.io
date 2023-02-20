@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In April 1929, after the award of his doctorate, Scholz was appointed as an assistant to Alfred Loewy at the University of Freiburg.
 * Scholz habilitated at the University of Freiburg.
 * However, he had been appointed to an honorary chair in Freiburg and so became an important colleague for Scholz.
-* In fact Scholz's interest in Zermelo's ideas is clear from the fact that he published Zermelos neue Theorie der Mengenbereiche Ⓣ(Zermelo's new theory of quantity ranges) in 1931.
+* Scholz's interest in Zermelo's ideas is clear from the fact that he published Zermelos neue Theorie der Mengenbereiche Ⓣ(Zermelo's new theory of quantity ranges) in 1931.
 * We mentioned above that Olga Taussky had met Scholz when he spent the summer of 1927 in Vienna.
 * Another professor at Freiburg when Scholz began working there was Lothar Wilhelm Julius Heffter (1862-1962).
 * In the summer of 1931 Gustav Doetsch was appointed to succeed Heffter and, at this time, Scholz changed from being Loewy's assistant to become an assistant to Gustav Doetsch.

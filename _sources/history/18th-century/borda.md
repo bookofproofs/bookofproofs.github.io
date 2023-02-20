@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Seven Years' War began in 1756 and the French defeated the Duke of Cumberland at the Battle of Hastenbeck in Hanover in July 1757.
 * Borda was aide-de-camp of Marshal Maillebois during this battle.
 * The course he entered should have lasted two years but Borda completed it in one year, then continued his career as a military engineer in the navy.
-* he demonstrated that Newton's theory of fluid resistance was untenable and that the resistance is proportional to the square of the fluid velocity and to the sine of the angle of incidence.
+* He demonstrated that Newton's theory of fluid resistance was untenable and that the resistance is proportional to the square of the fluid velocity and to the sine of the angle of incidence.
 * While describing his contributions to fluid mechanics we should also note the contributions he made to the study of waterwheels and pumps.
 * Between 1765 and 1775 Borda made several crossings of the Atlantic.
 * In 1771 he was sent on a scientific voyage on the frigate "La Flore" to undertake studies to improve methods of calculating the longitude and test certain marine chronometers.
@@ -77,7 +77,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1795 he was made a member of the Bureau des longitudes.
 * Borda died shortly before the project to determine the length of the metre was completed.
 * An International Commission was set up to try to make the metre an international measure, but Borda argued against this on the grounds that the measurements were based on the Earth and should therefore be equally acceptable to every nation on Earth.
-* the old commander, after a long illness, died.
 
 Born 4 May 1733, Dax, France. Died 19 February 1799, Paris, France.
 

@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us digress for a moment to discuss some further work which flowed from this result of Sierpiński on what is often called the 'Gauss circle problem'.
 * Sierpiński graduated in 1904 and worked for a while as a school teacher of mathematics and physics in a girls' school in Warsaw.
 * However, when the school closed because of a strike, Sierpiński decided to go to Kraków to study for his doctorate.
-* In fact it was in 1907 that Sierpiński first became interested in set theory.
+* It was in 1907 that Sierpiński first became interested in set theory.
 * Sierpiński began to study set theory and in 1909 he gave the first ever lecture course devoted entirely to set theory.
 * Throughout his life Sierpiński maintained an incredible output of research papers and books.
 * 1n 1912 he introduced the Sierpiński curve which describes a closed path which passes through every interior point of a square.

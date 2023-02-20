@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When she was 14 years old Olga entered the high school where she spent a year before studying at the Gymnasium.
 * At Vienna Olga was taught by Furtwängler, Hahn, Wirtinger, Menger, Helly and others, while she was a fellow student of Gödel.
 * Given leave of absence from her College to undertake war work, Taussky-Todd worked at the National Physical Laboratory ay Teddington between 1943 and 1946.
-* Just to illustrate this let us note that during this time Taussky-Todd wrote several papers which were published by the Ministry of Aircraft Production in London.
+* During this time Taussky-Todd wrote several papers which were published by the Ministry of Aircraft Production in London.
 * These papers she published under the name Olga Todd, while most of her other papers she wrote under the name Olga Taussky, with a few latter papers written under the name Olga Taussky-Todd.
 * In 1947 Olga and Jack when to the United States, with the original intention of spending a year there, and they worked at the National Bureau of Standards' National Applied Mathematics Laboratory after spending a while at the Institute for Advanced Study at Princeton working on von Neumann's computer project.
 * In 1957 Olga and Jack both accepted appointments at the California Institute of Technology.

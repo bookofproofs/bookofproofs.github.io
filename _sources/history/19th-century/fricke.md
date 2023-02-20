@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fricke was immediately attracted to Klein's style of mathematics and undertook research for a doctorate under Klein's supervision.
 * In 1885 Fricke took the examinations at Leipzig to qualify him to teach mathematics in German gymnasiums and, in the same year, he submitted his doctoral thesis Über Systeme elliptischer Modulfunktionen von niederer Stufenzahl Ⓣ(On systems of elliptic modular functions of lower-level number).
 * Over the next six years, Fricke taught at two different gymnasiums in Braunschweig but was also given leave of absence to act as tutor to the sons of Albrecht, the Prince Regent of the Duchy of Braunschweig.
-* In fact Fricke's appointment as a tutor proved significant for his future career, for it gave him lots of free time to devote to mathematics.
+* Fricke's appointment as a tutor proved significant for his future career, for it gave him lots of free time to devote to mathematics.
 * Klein's school had made major advances in the theory to which Schläfli (1870), Klein himself, von Dyck, Fricke and Hurwitz all contributed.
 * Klein and Fricke set out this theory in their two-volume text which became a classic.
 * Between the publication of the two volumes, in 1891, Fricke decided to give up his teaching career and seek an academic post.

@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The year 1974 was an important one for Lusztig from a mathematical perspective.
 * Lusztig has remained as a professor at MIT being Norbert Wiener Professor from 1999 to 2009 and is now Abdun Nur Professor.
 * An excellent overview to Lusztig's contributions are given in the citation for the award of the American Mathematical Society's Leroy P Steele Prize for Lifetime Achievement (2008).
-* In fact by the time the monograph was published, Lusztig had solved these too and described them in the invited lecture he gave at the International Congress of Mathematicians in Vancouver in 1974 (mentioned above).
+* By the time the monograph was published, Lusztig had solved these too and described them in the invited lecture he gave at the International Congress of Mathematicians in Vancouver in 1974 (mentioned above).
 * In 2003 Lusztig published Hecke algebras with unequal parameters.
 * In this book the theory is developed from scratch, in a purely combinatorial setup, through a sequence of 13 short chapters over 58 pages, complete with proofs and examples, from basic properties of Coxeter groups to Kazhdan-Lusztig cells and the definition of the so-called a-function.
 * In its first half the book presents an accessible self-contained introduction to the theory of cells and Kazhdan-Lusztig polynomials.

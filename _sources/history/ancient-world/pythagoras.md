@@ -59,7 +59,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pythagoras believed that all relations could be reduced to number relations.
 * This generalisation stemmed from Pythagoras's observations in music, mathematics and astronomy.
 * Pythagoras noticed that vibrating strings produce harmonious tones when the ratios of the lengths of the strings are whole numbers, and that these ratios could be extended to other instruments.
-* In fact Pythagoras made remarkable contributions to the mathematical theory of music.
+* Pythagoras made remarkable contributions to the mathematical theory of music.
 * Pythagoras studied properties of numbers which would be familiar to mathematicians today, such as even and odd numbers, triangular numbers, perfect numbers etc.
 * Of course today we particularly remember Pythagoras for his famous geometry theorem.
 * Although the theorem, now known as Pythagoras's theorem, was known to the Babylonians 1000 years earlier he may have been the first to prove it.

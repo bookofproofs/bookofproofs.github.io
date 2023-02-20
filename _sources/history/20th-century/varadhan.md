@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from high school in 1955, Varadhan entered Presidency College of the University of Madras.
 * At this stage in his career Varadhan thought he would enter industry after graduating and felt that his prospects were much better with the Statistics degree.
 * At the Indian Statistical Institute Varadhan's advisor was Calyampudi Radhakrishna Rao but this was only a formal arrangement and Varadhan's thesis grew out of interactions with his colleagues.
-* In fact Andrei Nikolaevich Kolmogorov had spent a month at the Indian Statistical Institute in 1962 and was appointed as one the examiners of Varadhan's thesis.
+* Andrei Nikolaevich Kolmogorov had spent a month at the Indian Statistical Institute in 1962 and was appointed as one the examiners of Varadhan's thesis.
 * After the award of his doctorate, Varadhan went as a post-doctoral visitor to the Courant Institute of Mathematical Sciences at New York University, a position he held for three years (1963-66).
 * Vasu, like Srinivasa Varadhan, became a professor at New York University.
 * Returning to our summary of Varadhan's career, we note he was appointed as an assistant professor at New York University in 1966.

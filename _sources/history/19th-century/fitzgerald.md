@@ -58,7 +58,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The FitzGerald-Lorentz contraction now plays an important role in relativity.
 * Sadly FitzGerald died at the age of only 49 years.
 * Maxwell, whose work had proved so fundamental for FitzGerald, had died at the age of 48 while Hertz died at the age of 36.
-* In fact in 1896 FitzGerald had reviewed the publication of Hertz's Miscellaneous Papers for Nature after Hertz's death.
+* In 1896 FitzGerald had reviewed the publication of Hertz's Miscellaneous Papers for Nature after Hertz's death.
 * Four years later, in September 1900, FitzGerald began to complain of indigestion and began to have to be careful what he ate.
 * to me, as to many others, FitzGerald was the truest of true friends; always interested, always sympathetic, always encouraging, whether the matter discussed was a personal one, or one connected with science or with education.
 * having heard with profound sorrow of the premature death of the late Professor George Francis FitzGerald, desires to place on record its high appreciation of his brilliant qualities as a man, as a teacher, as an investigator, and as a leader of scientific thought ...

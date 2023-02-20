@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From London, Pairman went to the United States to undertake research at Radcliffe College arriving in New York on 12 October 1919.
 * Pairman joined the Edinburgh Mathematical Society in January 1917, and read the paper On a difference equation due to Stirling  to the meeting of the Society on 11 January 1918, and the paper A new form of the remainder in Newton's interpolation formula  to the next meeting of the Society on 8 February.
 * After about five years she informed the Society that her name was now Mrs Eleanor Pairman Brown.
-* In fact Pairman had met Bancroft Huntington Brown when both were graduate students and they had both been awarded a Ph.D. in mathematics in June 1922.
+* Pairman had met Bancroft Huntington Brown when both were graduate students and they had both been awarded a Ph.D. in mathematics in June 1922.
 * The College was founded in 1769 as a men's College with an all male teaching staff and when Bancroft Brown was appointed this was still the case so there was no possibility that Eleanor could teach at the College.
 * In 1927 she published a joint mathematics paper On a class of integral equations with discontinuous kernels with Rudolph E Langer, who was a friend who graduated from Harvard in a June 1922 ceremony as Eleanor Pairman and Bancroft Brown and, like Eleanor, had George Birkhoff as his thesis advisor.
 * However, Eleanor Brown later undertook task to help students who were blind.

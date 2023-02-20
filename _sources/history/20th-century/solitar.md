@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It contained results which had formed part of Solitar's doctoral thesis On Subgroup Theorems written under Magnus's supervision.
 * After the award of his doctorate, Solitar was appointed to the Mathematics Department of Adelphi College in New York.
 * Solitar was on the faculty at Adelphi University until 1968, as was his friend and collaborator Abe Karrass.
-* In fact Karrass had registered for a Ph.D. at Adelphi under Donald Solitar's supervision and became the first student to receive a Ph.D. in Mathematics from Adelphi when he was awarded the degree in 1961 for his thesis Non-Desarguian Planes and Parallel Geometries.
+* Karrass had registered for a Ph.D. at Adelphi under Donald Solitar's supervision and became the first student to receive a Ph.D. in Mathematics from Adelphi when he was awarded the degree in 1961 for his thesis Non-Desarguian Planes and Parallel Geometries.
 * At Adelphi, Solitar and Karras founded the highly successful National Science Foundation Summer Institute for High School Teachers, a program designed for teachers who wished to deepen their knowledge of mathematics and to see it put in an historical context.
 * Also during this time the classic text Combinatorial group theory: Presentations of groups in terms of generators and relations by Wilhelm Magnus, Abe Karrass, and Donald Solitar, was published.
 * In 1968 Solitar was appointed as a professor and Chair of the Mathematics Department of York University in Toronto, Canada.

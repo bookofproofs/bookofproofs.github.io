@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He moved to Naples for his education and he and Flauti studied philosophy with Giuseppe Caposale, and elementary geometry with Macello Cecere.
 * However, the greatest influence on Flauti and his two contemporaries, was Nicola Fergola who taught mathematics in the rigorous style of the ancient Greek geometers.
 * He taught rigorous mathematics with a tenderness and passion which determined how Flauti would approach both research and teaching mathematics for the rest of his life.
-* In fact Flauti had started to study medicine but largely due to Fergola's influence, he turned to mathematics.
+* Flauti had started to study medicine but largely due to Fergola's influence, he turned to mathematics.
 * In 1801, Flauti took over the management, together with Felice Giannattasio (1759-1849), of the private high school that Fergola had founded about thirty years earlier but had been closed during the fighting of 1799.
 * Shortly after taking over management of the school, Flauti began his career at the University of Naples, benefiting from the favours bestowed by Ferdinand IV to his loyal supporters after his restoration.
 * The teachings of Flauti should not lead one into thinking that, on his side, he inclines towards analytical methods.

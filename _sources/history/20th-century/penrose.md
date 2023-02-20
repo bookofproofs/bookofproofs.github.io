@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1996 Penrose and Hawking published The nature of space and time.
 * There is one further aspect of Penrose's work which we must mention.
 * Further work over many years led to Penrose discovering that he could find non-periodic tilings with only six tiles, then finally he achieved the seemingly impossible with finding non-periodic tilings with only two tiles.
-* In fact the tiling of any finite region will eventually appear in every Penrose tiling.
+* The tiling of any finite region will eventually appear in every Penrose tiling.
 * In addition to Penrose's main appointments which we have mentioned above, he also held a number of visiting and part-time posts.
 * Penrose has received many honours for his contributions.
 * The Royal Society awarded Penrose their Copley Medal in 2005.

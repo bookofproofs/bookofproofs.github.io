@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rey Pastor then observed that the first part coincides exactly with the one set out by him in 1919 in the public session held in honour of Jacques Hadamard, and as regards the modification introduced by Bachiller in the second part, it seems to him that it proves nothing, for it confuses the various concepts of curve of Jordan, Cantor and Menger.
 * It was proposed to Rodríguez Bachiller that in the next session he present in writing the proof, corrected, so it can be examined again, and the author has promised to do this.
 * However, Bachiller did not present a further version of his paper and neither he nor Rey Pastor were present at the following meetings of the Society.
-* In fact in the 1931 list of members of the Spanish Mathematical Society Bachiller's name does not appear.
+* In the 1931 list of members of the Spanish Mathematical Society Bachiller's name does not appear.
 * Of course, Bachiller had never submitted a thesis for a doctorate so he may well have decided that he needed to concentrate on his research rather than do work for the Spanish Mathematical Society.
 * In October 1932 Bachiller's became an acting professor when the chair of differential equations became vacant.
 * Two candidates applied, Bachiller and R San Juan, and a committee was set up to carry out the competition.
@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In April 1946, Bachiller delivered the inaugural lecture of the Mathematics Section of the Congress of the Spanish Association for the Advancement of Science held in San Sebastián.
 * Bachiller won one of the scholarships for professors and on 4 February 1947 he arrived in the United States to begin a five month visit.
 * During this time Bachiller continued his work as a translator, and made visits to Puerto Rico whenever he could.
-* In fact Bachiller spent so much time in Puerto Rico that he had to resign from many of his roles in Madrid.
+* Bachiller spent so much time in Puerto Rico that he had to resign from many of his roles in Madrid.
 
 Born 10 November 1899, Hong Kong (now China). Died 9 July 1980, Madrid, Spain.
 

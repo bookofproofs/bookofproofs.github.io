@@ -28,14 +28,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We give more information about Bonnet's sons below.
 * Ossian Bonnet's parents were Pierre Bonnet (born about 1785) and Magdelaine Messac (born about 1795).
 * Bonnet attended the Collège in Montpellier, then in 1838 he entered the École Polytechnique in Paris.
-* In fact Bonnet published his first few papers in the Journal de Mathématiques Pures et Appliquées, the journal founded by Joseph Liouville in 1836 which is the second oldest mathematical journal in the world.
+* Bonnet published his first few papers in the Journal de Mathématiques Pures et Appliquées, the journal founded by Joseph Liouville in 1836 which is the second oldest mathematical journal in the world.
 * After some thought, however, Bonnet decided on a career in teaching and research in mathematics instead.
 * Turning down the engineering post had not been an easy decision since Bonnet was not well off financially.
 * They had three sons, Emile Pierre Ossian-Bonnet (1845-1901), Georges Pierre Alfred Ossian-Bonnet (1852-1912) and Gaston-Pierre Ossian-Bonnet.
 * However between these two papers on series, Bonnet had begun his work on differential geometry in 1844 with the paper Sur quelques propriétés générales des surfaces et des lignes tracées sur les surfaces Ⓣ(On some general properties of surfaces and lines drawn on surfaces).
 * This paper contains the famous    Gauss-Bonnet theorem which gives a formula for the line integral of the geodesic curvature along a closed curve.
 * Let us look at Bonnet's career before we return to look at his other mathematical work.
-* In fact Eugène Catalan, who was already working as an assistant tutor at he École Polytechnique, had been listed first for appointment to tutor in November 1844 but Bonnet was appointed to the tutor position leaving Catalan as an assistant tutor.
+* Eugène Catalan, who was already working as an assistant tutor at he École Polytechnique, had been listed first for appointment to tutor in November 1844 but Bonnet was appointed to the tutor position leaving Catalan as an assistant tutor.
 * Two admission examiners were appointed for the École Polytechnique in 1848, Charles Hermite and Joseph Serret with Abel Transon (1805-1876) and Bonnet as their deputies.
 * There does appear to have been a certain tension between Bonnet and Catalan over the years.
 * Bonnet later became a tutor in analysis at the École Polytechnique.

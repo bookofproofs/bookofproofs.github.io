@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gram's mathematical career was always a balance between pure mathematics and very practical applications of the subject.
 * Gram later published this work in the Journal für Mathematik and it proved to be of fundamental importance in the development of the theory of integral equations.
 * Also in 1879 Gram published the second of his four papers on forestry which all appeared in Danish Forestry Journals.
-* In fact Gram never gained the international recognition for this work which he deserved but German researchers, unaware of Gram's contributions, published their own results on the same problems.
+* Gram never gained the international recognition for this work which he deserved but German researchers, unaware of Gram's contributions, published their own results on the same problems.
 * There is little doubt that their work was far less satisfactory than that of Gram's yet because it was readily accessible it was the Germans and not Gram who gained international acclaim.
 * Gram extended his work on forestry in later papers.
 * Gram's work on probability and numerical analysis led him in a natural way to study abstract problems in number theory.

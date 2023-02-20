@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * After obtaining his undergraduate degree from Toronto, Beatty went on the undertake research for a Ph.D. under Fields's supervision.
 * When Beatty was awarded a doctorate in 1915 he became the first to obtain such a degree from a Canadian university.
-* In fact Beatty was the only student who Fields supervised for a doctorate.
+* Beatty was the only student who Fields supervised for a doctorate.
 * Beatty was appointed as a Lecturer at the University of Toronto after studying for his doctorate.
 * When he was appointed, Alfred Baker was his Head of the Mathematics Department, but in 1918 Baker retired and A T DeLury, who had taught Beatty when he was an undergraduate, became Head.
 * Beatty was promoted to Professor, then in 1934 became Head of the Mathematics Department.

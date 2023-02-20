@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kürschák attended secondary school in the flourishing city that became not only the capital of Hungary but also a major centre for industry, trade, communications, and architecture.
 * Kürschák entered the Technical University of Budapest in 1881 and graduated in 1886 with qualifications to teach mathematics and physics in secondary schools.
 * A trigonometric argument can be used to show that its area of the dodecagon is 3 but Kürschák gives a purely geometric proof.
-* In fact the first paper which Kürschák wrote was concerned with polygons.
+* The first paper which Kürschák wrote was concerned with polygons.
 * Another topic which Kürschák investigated was the differential equations of the calculus of variations.
 * Kürschák's most important work, however, was in 1912 when he founded the theory of valuations.
 * Kürschák's work was inspired by earlier work of Julius König, Steinitz and Hensel.

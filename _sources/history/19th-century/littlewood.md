@@ -41,7 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Shortly after this, certainly by 1911 but some suggest in 1910, Littlewood began his famous collaboration with G H Hardy which we discuss in more detail below.
 * The result was that he improved the accuracy of anti-aircraft range tables and improved the formulae for finding the range, the time of flight and the angle of descent at the end of a trajectory with small elevation.
 * E A Milne has described how Littlewood was able to discover techniques which greatly reduced the amount of work needed for making these accurate calculation of missile trajectories.
-* to the astonishment and joy of all concerned the observed positions of the shellbursts fell exactly on Littlewood's trajectories, at the correct time-markings, within very small errors of observation.
+* To the astonishment and joy of all concerned the observed positions of the shellbursts fell exactly on Littlewood's trajectories, at the correct time-markings, within very small errors of observation.
 * Littlewood become Rouse Ball professor of mathematics in Cambridge in 1928.
 * This chair had been founded by a benefaction from Walter Rouse Ball after his death in 1925, and Littlewood was its first occupant.
 * It was a particularly appropriate choice, not only because of his outstanding mathematical contributions, but also since Littlewood had been tutored by Rouse Ball in his undergraduate days at Trinity.
@@ -63,17 +63,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cartwright and Littlewood's analysis of the van der Pol equation and its generalizations led them to explore some interesting topological methods, including the development of a fixed-point theorem for continua invariant under a homeomorphism of the plane.
 * They were among the earliest mathematicians to apply Poincare's transformation theory to the analysis of dissipative systems.
 * Their research is among the earliest in large parameter theory and played a role in the development of the modern theory of dynamical systems and chaos theory.
-* Littlewood was elected a Fellow of the Royal Society in 1915.
-* in recognition of his mathematical discoveries and supreme insight in the analytic theory of numbers.
+* Littlewood was elected a Fellow of the Royal Society in 1915, 
+* He made mathematical discoveries and supreme insight in the analytic theory of numbers.
 * Littlewood, on Hardy's own estimate, is the finest mathematician he has ever known.
 * He was the man most likely to storm and smash a really deep and formidable problem; there was no one else who could command such a combination of insight, technique and power.
-* in recognition of his distinguished contributions to many branches of analysis, including Tauberian theory, the Riemann zeta-function, and non-linear differential equations.
+* He contributed to many branches of analysis, including Tauberian theory, the Riemann zeta-function, and non-linear differential equations.
 * As we mentioned on a couple of occasions above, one problem which Littlewood had to cope with throughout his life was depression.
 * It had affected him from his school days and continued to trouble him throughout his career.
 * There is no evidence that it in any way impaired his ability to do mathematics, indeed it is hard to see how it could have done so given what he achieved, yet it certainly did much to spoil his social life for it had the effect of making him withdraw into himself.
 * Although his mathematical research did not seem to suffer, it certainly stopped him from undertaking other mathematical activities which involved meeting people.
-* For example he was able to say late in his life that he had never been secretary or chairman of any committee.
-* In fact although he was President of the London Mathematical Society in 1941-43 he never chaired a meeting, the vice-President taking the chair throughout his period of office.
+* Although he was President of the London Mathematical Society in 1941-43 he never chaired a meeting, the vice-President taking the chair throughout his period of office.
 * After he retired he did receive treatment for his depression which was quite effective, and after 1957 he felt more able to accept invitations to visit colleagues.
 * Indeed he made many visits to the United States in the ten years following 1957.
 * We should end this biography by saying something about Littlewood's interests outside mathematics.

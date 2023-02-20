@@ -59,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1743 La Condamine began his return journey which included a four month raft journey down the Amazon river.
 * He gave the first scientific account of the Amazon which he published as Journal du voyage fait par ordre du roi a l'équateur Ⓣ(A travel journal made by Royal order at the equator) (1751).
 * He had already published his map in Carte du cours du Maragnon ou de la Grande Rivière des Amazones Ⓣ(Map of the course of the Maranon or Great River of the Amazons) (1745).
-* of the course of a river that traverses vast lands nearly unknown to geographers.
 * La Condamine's account, however, is a mixture of accurate precision surveys and unverified reports of locals.
 * Many believe that he accepted such legends simply because they made his reports far more interesting and exciting to the French public.
 * La Condamine spent five months in Cayenne on his journey home and here he repeated Richer's experiments on the variation of weights at different latitudes.
@@ -83,8 +82,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, the Committee still refused to publish La Condamine's paper.
 * He appealed again to the full Academy which, eventually, overruled its own publication Committee and the paper appeared in print.
 * Although exceptionally talented, La Condamine's character meant that his researches were less deep than they might have been.
-* made all prolonged meditation impossible, preventing him from going deeply enough into any scientific area to arrive at any new discoveries.
-* widely known in every society, possessing the art of persuading the ignorant people to whom he had listened, bringing back singular observations to pique the frivolous curiosity of the people of the world, writing with enough charm to have people read his work, with enough neglect and too simple a tone to foster envy or threaten the self-esteem of others, interesting for his bravery and piquant for his faults.
 
 Born 28 January 1701, Paris, France. Died 4 February 1774, Paris, France.
 

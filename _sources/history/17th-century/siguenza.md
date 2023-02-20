@@ -41,11 +41,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In reply to criticism of this work, he also published El Belerofonte matematico in the same year.
 * Father Kino strongly disagreed with Siguenza's ideas and published his criticisms.
 * Not one to be intimidated by Jesuit arguments, Siguenza made a strong response to Father Kino's criticism, publishing Libra astronomica y philosophica in 1670.
-* a short book of great significance for its sound mathematical background, anti-Aristotelian outlook, and familiarity with modern authors: Copernicus, Galileo, Descartes, Kepler, and Tycho Brahe.
+* It was short book of great significance for its sound mathematical background, anti-Aristotelian outlook, and familiarity with modern authors: Copernicus, Galileo, Descartes, Kepler, and Tycho Brahe.
 * In cosmography, Siguenza made maps of New Spain (the first by someone born in that country), a map of the lakes in the Valley of Mexico, and a map of Pensacola Bay, now northwestern Florida in the United States.
 * There had been Spanish settlement on the coast of the bay from 1559 but the settlement was abandoned in 1661.
 * Siguenza's map of the bay was made in 1693 at a time when New Spain were still interested in the area.
-* In fact Siguenza was sent there to investigate the bay with an admiral, and the diary he kept and charts he made are of great value.
+* Siguenza was sent there to investigate the bay with an admiral, and the diary he kept and charts he made are of great value.
 * Siguenza intended to write a history of ancient Mexico and spent much time collecting material for this work.
 * It was very unfortunate that his early death prevented him from writing the history, and the extremely valuable manuscripts which he collected were sadly lost.
 

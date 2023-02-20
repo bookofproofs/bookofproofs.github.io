@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His parents were Laura Feurstein and Robert Moser from Austria.
 * Moser entered the University of Manitoba, following the career path of Leo, and graduated with a B.Sc. in 1949.
 * Moser then did a Master's degree at the University of Minnesota, being awarded an M.A. in 1951.
-* In fact this thesis was a major component in the classic text Generators and relations for discrete groups jointly authored by Donald Coxeter and Willy Moser and published by Springer-Verlag in Berlin-Göttingen-Heidelberg in 1957.
+* This thesis was a major component in the classic text Generators and relations for discrete groups jointly authored by Donald Coxeter and Willy Moser and published by Springer-Verlag in Berlin-Göttingen-Heidelberg in 1957.
 * See Coxeter-Moser Preface for a complete version of the Preface.
 * The second publication by Moser On the number of ordinary lines determined by n points was again of major significance.
 * We note in passing that Moser published a joint paper with Peter Borwein in 1990 A survey of Sylvester's problem and its generalizations  which looks at developments.

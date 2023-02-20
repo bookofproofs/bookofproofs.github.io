@@ -53,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In late 1950 Tricomi left the United States and returned to Turin to continue his remarkable research output.
 * Tricomi was an editor of Aequationes Mathematicae from the time the journal was founded in 1968 until his death.
 * Tricomi had a deep interest in problems concerning the history of mathematics and he published many important articles on this topic.
-* In fact, references to articles on Giovanni Plana, Guido Ascoli, Bernhard Riemann, Salvatore Pincherle, Jacques Hadamard, Tommaso Boggio, Giuseppe Veronese, Francesco Gerbaldi, Duilio Gigli, Cesare Arzelà, Giuseppe Basso, Giuseppe Vitali, Federigo Enriques, Roberto Marcolongo, Guido Fubini, Giovanni Ricci, Ernesto Pascal and Mauro Picone written by him appear in this Archive.
 
 Born 5 May 1897, Naples, Italy. Died 21 November 1978, Turin, Italy.
 

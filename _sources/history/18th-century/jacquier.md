@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1739 he met Jacquier who was busy working at Trinità dei Monti on the annotated edition of the Principia Ⓣ(Mathematical Principles of Natural Philosophy).
 * Father Jacquier is making a new ladder in order to get to the top of that tower.
 * This refers to an interesting aspect of Le Seur and Jacquier's annotated edition of the Principia Ⓣ(Mathematical Principles of Natural Philosophy), namely the problem of whether the Earth orbits the Sun.
-* In fact this prohibition was dropped from the Index in 1758 but it was certainly in place in 1739-42 when Le Seur and Jacquier's Principia Ⓣ(Mathematical Principles of Natural Philosophy) was published.
+* This prohibition was dropped from the Index in 1758 but it was certainly in place in 1739-42 when Le Seur and Jacquier's Principia Ⓣ(Mathematical Principles of Natural Philosophy) was published.
 * We note that the Royal Society was very impressed with the annotated Principia Ⓣ(Mathematical Principles of Natural Philosophy) and elected Jacquier a fellow of the Society on 10 December 1741.
 * He was a scholar who was well disposed towards learning and impressed with the work of Le Seur and Jacquier.
 * Architects had for many years argued over the solution and, in 1742, the Pope asked three mathematicians, Le Seur, Jacquier and Ruggero Boscovich, to advise on stabilising the dome.

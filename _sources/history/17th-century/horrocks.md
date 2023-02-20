@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although he had only been able to make three observations of the transit from the same site, Horrocks was able to compute the distance of the earth to the sun far more accurately than any previously found.
 * The last letter we have from Horrocks written in Much Hoole was on 20 April 1640.
 * Although he is best known for his observations of the transit of Venus in 1639, Horrocks' most important work was his lunar theory.
-* In fact Horrocks' lunar theory was used for around 100 years, a remarkable achievement.
+* Horrocks' lunar theory was used for around 100 years, a remarkable achievement.
 * From the late 1650's until their eventual publication, Horrocks' manuscripts were widely circulated.
 
 Born 1618, Toxteth, Liverpool, England. Died 3 January 1641, Toxteth, Liverpool, England.

@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If some mathematician had written to him showing him there was an error or even a gap in the proof, then at least Ruffini would have had the chance to correct it.
 * Ruffini asked the Institute in Paris to pronounce on the correctness of his proof and Lagrange, Legendre and Lacroix were appointed to examine it.
 * The Royal Society were also asked to pronounce on the correctness and Ruffini received a somewhat kinder reply which said that although they did not give approval of particular pieces of work they were quite sure that it proved what was claimed.
-* In fact Cauchy had written a major work on permutation groups between 1813 and 1815 and in it he generalised some of Ruffini's results.
+* Cauchy had written a major work on permutation groups between 1813 and 1815 and in it he generalised some of Ruffini's results.
 * He had certainly been greatly influenced by Ruffini's ideas.
 * This influence through Cauchy is perhaps the only way in which Ruffini's work was to make an impact on the development of mathematics.
 * We left the story of Ruffini's career around 1799 when he began his publications on the quintic.

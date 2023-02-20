@@ -49,7 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to studying civil engineering and teaching, he also began working for a teaching qualification taking evening classes at the Normal School, the Escola Normal do Distrito Federal, which later became the Rio de Janeiro Institute of Education.
 * There were teachers who didn't teach anything, didn't know didactics, didn't know anything ...
 * The engineering course at the Polytechnic School was for five years and so Mello e Souza should have graduated in 1917 but he chose not to at that time.
-* In fact he graduated with his engineering degree on 13 September 1932, but we will come to that below.
+* He graduated with his engineering degree on 13 September 1932, but we will come to that below.
 * His publishing career began in 1918 with the newspaper O Imparcial Ⓣ(The Impartial).
 * The secretary of the paper was Leonidas de Rezende and Mello e Souza offered him some short stories he had written.
 * They were not published and soon Mello e Souza went along to the newspaper office and asked for them back.

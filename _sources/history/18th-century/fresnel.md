@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fresnel was so upset by this turn of events that he left his engineering job and offered to fight for the King against Napoleon.
 * Of course this meant that Fresnel had put himself in a difficult position, and as a consequence he lost his engineering post and was put under police surveillance.
 * Fresnel had few options left but to return to his home in Mathieu and this he did.
-* In fact circumstances had conspired to give Fresnel the free time he needed to concentrate on his experiments with light.
+* Circumstances had conspired to give Fresnel the free time he needed to concentrate on his experiments with light.
 * After Napoleon was defeated at Waterloo, Fresnel was reinstated into his old engineering appointment.
 * By applying mathematical analysis to his work Fresnel removed many of the objections to the wave theory of light.
 * Fresnel began by undertaking experiments with diffraction and made a breakthrough when he attached a piece of black paper to one edge of a diffracter and observed that then the bright bands within the shadow vanished.

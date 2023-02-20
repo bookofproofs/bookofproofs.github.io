@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Around 1930-1931 Jacob Nachbin went to the United States and held chairs at the Northwestern University, in Evanston, Illinois and the New Mexico State University in Las Cruces.
 * The manuscript vanished, Jacob Nachbin was accused of stealing it, spent three months in prison before being released for lack of evidence and was deported to the United States.
 * Nachbin had left her and had gone to Chicago, where he had reinvented himself as an academic.
-* Let us note that Jacob Nachbin always denied stealing the manuscript which reappeared in 2016.
+* Jacob Nachbin always denied stealing the manuscript which reappeared in 2016.
 * Jacob Nachbin went to Spain to fight against Franco and vanished, presumably killed in the fighting.
 * At this school, Leopoldo was taught by Luís de Barros Freire (1896-1963), a civil engineer and professor at the Escola Politécnica de Pernambuco who had won the chair of mathematics at the Escola Normal de Pernambuco in 1919 and had taught physics and mathematics at several high schools in Recife.
 * It was Luís Freire who brought out Nachbin's passion for mathematics and encouraged him to go to Rio de Janeiro and study for an engineering degree.
@@ -54,13 +54,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Nachbin attended the International Congress of Mathematicians at Cambridge, Massachussetts from 30 August to 6 September 1950.
 * Nachbin entered and submitted the thesis Topologia e Ordem Ⓣ(Topology and order).
 * There was now a campaign by supporters of the head of mathematics, José da Rocha Lagoa, to prevent Nachbin being a candidate for the chair.
-* First let us note that if Nachbin were a candidate, it is almost impossible that he would not have been appointed.
+* If Nachbin were a candidate, it is almost impossible that he would not have been appointed.
 * So our question should be: "Why did Lagoa not want Nachbin in the Chair of Mathematical Analysis at the University of Brazil?" Let us suggest two possible reasons, both of which may have contributed.
 * It is clear that Lagoa was a second rate research mathematician compared to Nachbin, we can only find two papers by Lagoa, both on the structure of the Department of Mathematics in the University of Brazil.
 * He was not up to Nachbin's extremely his standards as a researcher, but nevertheless, was a valuable member of the Mathematics Department.
 * The argument presented against Nachbin being a candidate was that he had an engineering degree.
 * Their proposal was that both Abdelhay and Nachbin should be given chairs of Mathematical Analysis.
-* In fact it is almost unbelievable that the argument, with professors on both sides, went on for 22 years and only in 1972 was the competition held and Nachbin appointed.
+* It is almost unbelievable that the argument, with professors on both sides, went on for 22 years and only in 1972 was the competition held and Nachbin appointed.
 * Nachbin, even before 1952, was making a strong impression both in terms of his research and in terms of building research facilities in Brazil.
 * They then travelled to the University of Chicago, Illinois, USA where Nachbin continued to hold his Rockefeller Foundation Scholarship from September 1956 to July 1957.
 * This award was given for outstanding research and Nachbin was the first to receive such an award in the area of mathematics.

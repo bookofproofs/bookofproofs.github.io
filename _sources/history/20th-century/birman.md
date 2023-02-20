@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Joan had to give up her part-time job to make this move so she took a computer course at the university.
-* In fact this move owed something to Joseph Birman, not only for his encouragement but also the example he had showed switching from industry to work in the academic world.
+* This move owed something to Joseph Birman, not only for his encouragement but also the example he had showed switching from industry to work in the academic world.
 * Birman took linear algebra in her first year, then real and complex analysis in the following year.
 * Birman was awarded a Ph.D. from New York University for her thesis Braid Groups and Their Relationship to Mapping Class Groups in 1968.
 * In August 1968 Birman was offered a position of Assistant Professor of Mathematics at the Stevens Institute of Technology in Hoboken after an unexpected vacancy arose there.

@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this paper Ostrogradski states and proves the general divergence theorem.
 * Gauss, nor knowing about Ostrogradski's paper, proved special cases of the divergence theorem in 1833 and 1839 and the theorem is now often named after Gauss.
 * The latter presentation was the only one published by Ostrogradski, appearing in 1831 in 'Note sur la Théorie de la Chaleur Ⓣ(Note on the theory of heat) (1831).' The two earlier presentations have survived only in manuscript form, though they have been published in Russian translation.
-* In fact many of Ostrogradski's papers which he wrote in Paris were later incorporated in a major work on hydrodynamics with he published in Paris in 1832.
+* Many of Ostrogradski's papers which he wrote in Paris were later incorporated in a major work on hydrodynamics with he published in Paris in 1832.
 * Ostrogradski, unable to pay the bills for his accommodation, ended up badly in debt.
 * He was taken to court for non-payment, but Cauchy, hearing of Ostrogradski's difficulties, paid off all his debts.
 * Cauchy then managed to get Ostrogradski a position teaching at the Collège Henri IV (today called Lycée Henri-IV) so he could continue living in Paris.

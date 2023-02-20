@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Helmut studied for two years at the Fichte-Gymnasium in Berlin before volunteering for naval service during World War I.
 * In the academic year 1917/18 Hasse was stationed at Kiel on his naval duties and he was able to attend the lectures of Otto Toeplitz.
-* In fact he was most influenced by Hecke despite the fact that Hecke left Göttingen to take up an appointment in Hamburg only a few months after Hasse arrived in Göttingen.
+* He was most influenced by Hecke despite the fact that Hecke left Göttingen to take up an appointment in Hamburg only a few months after Hasse arrived in Göttingen.
 * It might be supposed that Hasse would have followed Hecke to Hamburg but he did not take this route, going to study under Hensel at Marburg in 1920.
 * Hensel's work on ppp-adic numbers was to have a major influence on the direction of Hasse's research.
 * In October 1920 Hasse discovered the 'local-global' principle which shows that a quadratic form that represents 0 non-trivially over the ppp-adic numbers for each prime ppp, and over the real numbers, represents 0 non-trivially over the rationals.

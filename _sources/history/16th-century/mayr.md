@@ -31,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mayr and Capra observed a nova which was visible in 1604 and Mayr helped Capra write a book on the nova under Capra's name.
 * For this Capra was expelled from the university but Mayr, who had left Italy by this time, was thought to be implicated in the fraud.
 * Galileo certainly thought so, but he chose not to name Mayr explicitely but described him as his "old adversary", and much worse as a "poisonous reptile" and an "enemy of all mankind".
-* In fact 1609 became a crucial year for Mayr and would lead to a serious dispute with Galileo where this time he named him and wrote a strong condemnation of him which we quote from below.
+* 1609 became a crucial year for Mayr and would lead to a serious dispute with Galileo where this time he named him and wrote a strong condemnation of him which we quote from below.
 * Having heard that a telescope was being sold at the Frankfurt Fair in 1608, Mayr constructed his own.
 * Along comes Mayr, and, appropriating my very observations, he prints in the title page of his book and again in the opening part of his work that he had already made his observations in the year 1609, trying to give people the idea that he was first.
 * Although it is impossible to prove whether his claim is true or false, the general opinion among historians of science is that Mayr did observe the moons of Jupiter before Galileo, but failed to understand the significance of what he saw (i.e. failed to realise that the moons were orbiting the planet).

@@ -58,7 +58,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The paper presented for the first time the Doppler principle which relates the frequency of a source to its velocity relative to an observer.
 * Doppler derived the principle in a few lines treating both light and sound as longitudinal waves in the ether and matter, respectively.
 * Doppler was incorrect regarding light being a longitudinal wave.
-* In fact Fresnel had already published his theory that light was a transverse wave but, although Doppler had read Fresnel's work, he did not accept it.
+* Fresnel had already published his theory that light was a transverse wave but, although Doppler had read Fresnel's work, he did not accept it.
 * However the error does not really affect the result of Doppler's principle.
 * Doppler also was wrong when he tried to illustrate his theory with an application to the colours of double stars.
 * Although Doppler was correct in saying that his principle would change the colours of double stars, depending on which star was approaching or receding from the Earth, the effect is too small to be significant.

@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite Fontenelle's fears that his middle road might not appeal to anyone, quite the reverse was true and the book became arguably the first classic of popular science.
 * Partly, of course, the success of the work is due to Fontenelle's use of language.
 * Although this language often borders on that of love, it never quite becomes that.
-* Before leaving Entretiens sur la pluralité des mondes let us note that, as mentioned above, it is heavily based on Descartes' physics.
+* Before leaving Entretiens sur la pluralité des mondes, it is heavily based on Descartes' physics.
 * However, we should not deduce from this that Fontenelle was a Cartesian at heart.
 * the work is an attack on Cartesian metaphysics as it affected science and a plea for a general law of nature that would free science from dependence upon God as explanation.
 * His two essays published in 1687 under the title Histoire des oracles caused some theological controversy.

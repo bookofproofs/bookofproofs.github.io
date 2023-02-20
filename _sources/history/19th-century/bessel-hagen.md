@@ -47,10 +47,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Béla Kerékjártó visited the University of Göttingen in 1922 and attended lectres by Bessel-Hagen.
 * In the following year Kerékjártó published Vorlesungen über Topologie the index of which contains a reference to Bessel-Hagen.
 * Turning to the indicated page, there is no mention of Bessel-Hagen.
-* In fact Bessel-Hagen was renowned for having large ears that stuck out of his head.
+* Bessel-Hagen was renowned for having large ears that stuck out of his head.
 * At first this appears to be a rather cruel joke, but in fact Kerékjártó was merely following the teaching staff at Göttingen who all made jokes at Bessel-Hagen's expense.
 * in 1935, Bessel-Hagen seems to have been the only one of his former colleagues to visit him.
-* In fact Bessel-Hagen was an excellent mathematician who, because of his shyness, did not publish much.
+* Bessel-Hagen was an excellent mathematician who, because of his shyness, did not publish much.
 * Most of the other mathematicians at Bonn were conscripted so only Bessel-Hagen and Hans Beck remained to teach.
 * After Beck died in 1942, Bessel-Hagen essentially became a one-man department.
 

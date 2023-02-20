@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Among Pontryagin's most important books on the above topics is topological groups (1938).
 * Pontryagin attended Cartan's lecture which was in French but Pontryagin did not understand French so he listened to a whispered translation by Nina Bari who sat beside him.
 * Cartan had some ideas how this might be achieved and he explained these in the lecture but, the following year, Pontryagin was able to solve the problem completely using a totally different approach to the one suggested by Cartan.
-* In fact Pontryagin used ideas introduced by Morse on equipotential surfaces.
+* Pontryagin used ideas introduced by Morse on equipotential surfaces.
 * Pontryagin's name is attached to many mathematical concepts.
 * The essential tool of cobordism theory is the Pontryagin-Thom construction.
 * A fundamental theorem concerning characteristic classes of a manifold deals with special classes called the Pontryagin characteristic class of the manifold.

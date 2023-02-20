@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Using the theories of probability and demography being developed by his contemporaries Huygens and Graunt, Hudde gathered data from the records of a previous annuity issued in Amsterdam during the years 1586-90.
 * Hudde's recommendations were used to establish the form of a life annuity issued by the city in 1672 and 1674.
 * Hudde arranged the data that he had collected into a table headed by the age of the nominee at the time of purchase.
-* In fact we still have Hudde's table, for he included it in a letter he sent to Huygens on 18 August 1671.
+* We still have Hudde's table, for he included it in a letter he sent to Huygens on 18 August 1671.
 * Hudde also corresponded with de Witt concerning annuities with letters between September 1670 and October 1671.
 * In this correspondence he framed the law of mortality which today is attributed to De Moivre but properly should be attributed to Hudde.
 * Although, on Hudde's recommendations, Amsterdam sold annuities at age dependent prices in 1672, there was no rapid move for others to adopt the practice.

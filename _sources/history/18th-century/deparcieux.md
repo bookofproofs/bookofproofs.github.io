@@ -25,12 +25,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * When Antoine was fifteen years old, Pierre sent him to study at the Jesuit College in Alès in southeastern France.
 * In Paris Deparcieux found that the financial support provided by Montcarville was not sufficient to allow him to study without a job.
-* In 1741 Deparcieux published Nouveaux traités de trigonométrie rectiligne et sphérique Ⓣ(A new treatment of rectilinear and spherical trigonometry) which consisted of tables of sins, tans, secs (calculated to seven decimal places), and log sins and log tans (calculated to eight decimal places).
+* In 1741 Deparcieux published "Nouveaux traités de trigonométrie rectiligne et sphérique" Ⓣ(A new treatment of rectilinear and spherical trigonometry) which consisted of tables of sins, tans, secs (calculated to seven decimal places), and log sins and log tans (calculated to eight decimal places).
 * In 1746 Deparcieux published a treatise on annuities and mortality: it was one of the first statistical work of its kind and is the main reason for his fame.
 * Deparcieux's interest in mortality tables resulted from his interest in life expectancy which he had investigated in several different contexts.
 * Deparcieux studied the way that such plans worked, and he also studied life expectancy in individual families and religious communities.
 * The reason for choosing data such groups was that Deparcieux was fully aware that if one looked at births and deaths in a city (as had been done before), then migration made the data unreliable.
-* The results of Deparcieux's investigations were published in the 1746 treatise Essai sur les probabilités de la durée de la vie humaine Ⓣ(Essay on the probabilities of the duration of life).
+* The results of Deparcieux's investigations were published in the 1746 treatise "Essai sur les probabilités de la durée de la vie humaine" Ⓣ(Essay on the probabilities of the duration of life).
 * In 1746 Deparcieux was elected a member of the Académie des Sciences and it would appear his 1746 publication was the reason for this election.
 * Deparcieux was, as we have indicated above, interested in hydrodynamics.
 

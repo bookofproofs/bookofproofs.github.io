@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Bradistilov attended the Third Gymnasium of Sofia, completing his studies in 1923.
 * When Bradistilov began his studies he was one of around 2400 students.
-* In fact while he was studying at the university the construction of new university buildings was taking place but they were not opened until several years after Bradistilov graduated.
+* While he was studying at the university the construction of new university buildings was taking place but they were not opened until several years after Bradistilov graduated.
 * Interestingly, Bradistilov was one of the last students to take Arnold Sommerfeld's course in theoretical physics before his retirement.
 * After the award of his doctorate, Bradistilov was appointed as a docent at the St Kliment Ohridski University of Sofia.
 * In May 1943 Bradistilov was appointed as an Extraordinary Professor and Head of the Department of Applied Mathematics in the Higher Technical School.

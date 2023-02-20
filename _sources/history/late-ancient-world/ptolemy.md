@@ -26,9 +26,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We shall discuss the arguments below for, depending on which are correct, they portray Ptolemy in very different lights.
 * The arguments of some historians show that Ptolemy was a mathematician of the very top rank, arguments of others show that he was no more than a superb expositor, but far worse, some even claim that he committed a crime against his fellow scientists by betraying the ethics and integrity of his profession.
 * We know very little of Ptolemy's life.
-* In fact the first observation which we can date exactly was made by Ptolemy on 26 March 127 while the last was made on 2 February 141.
+* The first observation which we can date exactly was made by Ptolemy on 26 March 127 while the last was made on 2 February 141.
 * It was claimed by Theodore Meliteniotes in around 1360 that Ptolemy was born in Hermiou (which is in Upper Egypt rather than Lower Egypt where Alexandria is situated) but since this claim first appears more than one thousand years after Ptolemy lived, it must be treated as relatively unlikely to be true.
-* In fact there is no evidence that Ptolemy was ever anywhere other than Alexandria.
+* There is no evidence that Ptolemy was ever anywhere other than Alexandria.
 * His name, Claudius Ptolemy, is of course a mixture of the Greek Egyptian 'Ptolemy' and the Roman 'Claudius'.
 * We do know that Ptolemy used observations made by 'Theon the mathematician', and this was almost certainly Theon of Smyrna who almost certainly was his teacher.
 * Most of Ptolemy's early works are dedicated to Syrus who may have also been one of his teachers in Alexandria, but nothing is known of Syrus.

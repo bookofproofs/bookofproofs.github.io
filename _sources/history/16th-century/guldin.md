@@ -56,7 +56,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If one asks whether Guldin or Cavalieri is right, then the answer must be Cavalieri.
 * However, this does not make Guldin's work useless for in his support of the classical approach, he forced innovators like Cavalieri to think more deeply and to justify their methods more rigorously.
 * In order to understand why Guldin attacks David Rivaltus in Volume 4 we must realise that, following the line taken by his teacher Clavius, Guldin does not believe that Archimedes' results are proved in a satisfactory manner.
-* In fact in Volume 4, published in 1641, Guldin attempts a reconstruction of most of what was then considered mathematics.
+* In Volume 4, published in 1641, Guldin attempts a reconstruction of most of what was then considered mathematics.
 * Despite the argument between Guldin and Cavalieri, both agreed that proofs by contradiction are undesirable.
 * Finally, let us look at some details of Guldin's library which still exists.
 * The first fact to note is that Guldin was allowed to keep his own library, something which was very unusual for those within the Jesuit Order.

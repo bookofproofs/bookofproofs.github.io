@@ -24,13 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Persi also taught himself magic tricks from the age of five and, as he grew up, this was a hobby which came to dominate his daily life.
-* In fact he met Martin Gardner because of their shared interest in magic and Gardner later used some of the ideas that Diaconis showed him in his "Mathematical Games" column in Scientific American.
+* He met Martin Gardner because of their shared interest in magic and Gardner later used some of the ideas that Diaconis showed him in his "Mathematical Games" column in Scientific American.
 * Diaconis had been due to graduate from George Washington High School at age fifteen but, when he was fourteen years old, Dai Vernon the famous Canadian born sleight-of-hand expert who lived in New York invited Diaconis to join him on one of his American tours performing magic shows.
 * Diaconis left school without telling his parents and went with Dai Vernon.
 * and the assistant principal said, "Oh, Diaconis.
 * In order to learn more mathematics, Diaconis began to study at the City College of New York.
 * Harvard was one such place and Diaconis wanted to go there but doubted that the Mathematics Department would take a student with a City College degree.
-* In fact when Diaconis was interviewed by Mosteller before beginning his graduate studies, Mosteller suggested that he might like to think about the distribution of prime divisors of an integer chosen at random.
+* When Diaconis was interviewed by Mosteller before beginning his graduate studies, Mosteller suggested that he might like to think about the distribution of prime divisors of an integer chosen at random.
 * Diaconis thought about the problem and then discussed it with Hironari Onishi who had taught him mathematics at the City College.
 * This was not the first of Diaconis's papers to be published for Buffon's problem with a long needle had been published in the Journal of Applied Probability in the previous year.
 * During his first year at Harvard, academic year 1971-72, Diaconis had studied for a Master's Degree and then continued to study at Harvard for a Ph.D. He was awarded the degree in 1974 for his thesis Weak and Strong Averages in Probability and the Theory of Numbers.

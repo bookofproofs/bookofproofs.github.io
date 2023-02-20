@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 781 Alcuin accepted an invitation from Charlemagne to go to Aachen to a meeting of the leading scholars of the time.
 * Before leaving Aachen, Alcuin was responsible for the most precious of Carolingian codices, now called the Golden Gospels.
 * Not only was Alcuin headmaster of Charlemagne's Palace School at Aachen but he also was a personal friend to Charlemagne and became the teacher of his two sons.
-* In fact Alcuin lived in Aachen for two periods, during the years 782 to 790 and then again from 793 to 796.
+* Alcuin lived in Aachen for two periods, during the years 782 to 790 and then again from 793 to 796.
 * In 796 Alcuin retired from Charlemagne's Palace School at Aachen and became abbot of the Abbey of St Martin at Tours, where he had his monks continue to work with the Carolingian minuscule script.
 * While in Tours Alcuin arranged for some of his pupils to go to York to bring some of the rarer works that he had collected there back to Tours.
 * Alcuin wrote elementary texts on arithmetic, geometry and astronomy at a time when a renaissance in learning in Europe was just beginning, a renaissance mainly led by Alcuin himself.

@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Other work by Mengoli included work on astronomy, work on refraction in the atmosphere and a book Speculazioni musicali (1670) on the theory of music.
 * In this Mengoli's criticises of the theory of resonance set out by Galileo.
 * This gives new insight into Mengoli's mathematics.
-* analyse a little-known aspect of Pietro Mengoli's mathematical activity: the difficulties he faced in trying to solve some problems in Diophantine analysis suggested by J Ozanam.
 * Mengoli's recently published correspondence reveals how he cherished his prestige as a scholar.
 
 Born 1626, Bologna, Papal States (now Italy). Died 1686, Bologna, Papal States (now Italy).

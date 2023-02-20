@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nasir al-Tusi** was an Islamic astronomer and mathematician who joined the Mongols who conquered Baghdad. He made important contributions to astronomy and wrote many commentaries on Greek texts.
 
 ### Mathematical Profile (Excerpt):
-* In fact al-Tusi was known by a number of different names during his lifetime such as Muhaqqiq-i Tusi, Khwaja-yi Tusi and Khwaja Nasir.
+* Al-Tusi was known by a number of different names during his lifetime such as Muhaqqiq-i Tusi, Khwaja-yi Tusi and Khwaja Nasir.
 * Al-Tusi was born in Tus, which lies close to Meshed in northeastern Iran high up in the valley of the Kashaf River.
 * This was a period in which there would be little peace and tranquillity for great scholars to pursue their works, and al-Tusi was inevitably drawn into the conflict engulfing his country.
 * The Twelfth Imam was the main sect of Shi'ite Muslims and the school where al-Tusi was educated was mainly a religious establishment.

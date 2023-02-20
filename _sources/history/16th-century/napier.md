@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Napier took part in the religious controversies of the time.
 * He was a fervent Protestant and published, what he considered his most important work, the Plaine Discovery of the Whole Revelation of St. John (1593).
 * Napier had been a fanatical Protestant from his days as an undergraduate at St Andrews.
-* In fact there were good reasons why Napier thought that a change in the religious situation in Scotland might occur, for there had, for some time, been rumours that Philip of Spain might invade Scotland.
+* There were good reasons why Napier thought that a change in the religious situation in Scotland might occur, for there had, for some time, been rumours that Philip of Spain might invade Scotland.
 * The Plaine Discovery of the Whole Revelation of St. John did gain Napier quite a reputation, not only within Scotland, but also on the Continent after the work was translated into Dutch, French and German.
 * Napier's study of mathematics was only a hobby and in his mathematical works he writes that he often found it hard to find the time for the necessary calculations between working on theology.
 * He is best known, however, for his invention of logarithms but his other mathematical contributions include a mnemonic for formulae used in solving spherical triangles, two formulae known as "Napier's analogies" used in solving spherical triangles and an invention called "Napier's bones" used for mechanically multiplying dividing and taking square roots and cube roots.
@@ -47,10 +47,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Two years later an English translation of Napier's original Latin text was published, translated by Edward Wright.
 * Unlike the logarithms used today, Napier's logarithms are not really to any base although in our present terminology it is not unreasonable (but perhaps a little misleading) to say that they are to base 1/e1/e1/e.
 * Napier did not think of logarithms in an algebraic way, in fact algebra was not well enough developed in Napier's time to make this a realistic approach.
-* In fact Briggs did make the difficult journey from London to Edinburgh to see Napier in the summer of 1615 (would he have dreamed that now it takes 4 hours by train, rather than at least 4 days by horse and coach in those times).
+* Briggs did make the difficult journey from London to Edinburgh to see Napier in the summer of 1615 (would he have dreamed that now it takes 4 hours by train, rather than at least 4 days by horse and coach in those times).
 * It happened one day as John Marr and the Lord Napier were speaking of Mr Briggs, "Oh! John," saith Merchiston, "Mr Briggs will not come now"; at the very instant one knocks at the gate, John Marr hastened down and it proved to be Mr Briggs to his great contentment.
 * Briggs had suggested to Napier in a letter sent before their meeting that logs should be (in our terminology) to base 10 and Briggs had begun to construct tables.
-* In fact Briggs spent a month with Napier on his first visit of 1615, made a second journey from London to Edinburgh to visit Napier again in 1616 and would have made yet a third visit the following year but Napier died in the spring before the planned summer visit.
+* Briggs spent a month with Napier on his first visit of 1615, made a second journey from London to Edinburgh to visit Napier again in 1616 and would have made yet a third visit the following year but Napier died in the spring before the planned summer visit.
 * Napier presented a mechanical means of simplifying calculations in his Rabdologiae published in 1617.
 * The reason for publishing the work is given by Napier in the dedication, where he says that so many of his friends, to whom he had shown the numbering rods, were so pleased with them that they were already becoming widely used, even beginning to be used in foreign countries.
 * Napier's numbering rods were made of ivory, so that they looked like bones which explains why they are now known as Napier's bones.

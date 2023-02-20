@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite the error in the calculation, Mascheroni's work shows a deep understanding of Euler's calculus.
 * Mascheroni is also known as a poet and he dedicated one of his books Geometria del compasso Ⓣ(Compass geometry) (published in Pavia in 1797) to Napoleon Bonaparte in verse.
 * In this work Mascheroni proved that all Euclidean constructions can be made with compasses alone, so a straight edge in not needed.
-* In fact this had been (unknown to Mascheroni) proved in 1672 by a little known Danish mathematician Georg Mohr.
+* This had been (unknown to Mascheroni) proved in 1672 by a little known Danish mathematician Georg Mohr.
 * For his excellent contributions Mascheroni received a number of honours such as election to the Academy of Padua, the Royal Academy of Mantua and to the Società Italiana delle Scienze.
 * Mascheroni was appointed as a deputy in the governing legislative assembly in Milan in 1797.
 * Mascheroni was sent to Paris to study the new system and to report to the governing body in Milan.

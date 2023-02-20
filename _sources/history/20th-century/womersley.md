@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Womersley was not aware of these and could not be told because of the Official Secrets Act.
 * Turing knew that ACE was based on the pioneering work done at Bletchley Park while Womersley believed it was based on pioneering work done in the United States.
 * Womersley's Mathematics Division continued to work on a prototype machine, the Pilot ACE, but in September 1950 Womersley left his role as Superintendent of the Mathematics Division at the National Physical Laboratory to take up the post of Director of Research at the British Tabulating Machine Company (B.T.M.C.).
-* Let us note that Womersley was actually about four years at B.T.M.C. and we should understand that Donald Sadler, having lost out in the appointment to Superintendent of the Mathematics Division at the National Physical Laboratory, may have been harder on Womersley then he deserves.
+* Womersley was actually about four years at B.T.M.C. and we should understand that Donald Sadler, having lost out in the appointment to Superintendent of the Mathematics Division at the National Physical Laboratory, may have been harder on Womersley then he deserves.
 * Leaving B.T.M.C. in 1954, Womersley undertook research at St Bartholomew's Hospital, London, on the mathematical theory of blood flow.
 * Womersley continued this line of research when appointed to a mathematical post with the United States Air Force at Wright Field, Dayton, Ohio in 1955.
 * It neatly illustrates the arc of Womersley's life from applied mathematics to numerical analysis and electronic computers.

@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In an attempt to correct this, Philip founded an Academy of Mathematics in Madrid with Lavanha as its first professor.
 * Lavanha was appointed cosmographer to the king in 1591 (although he did not assume the full duties of that position for a few years) and about the same time he moved from Madrid to Lisbon where he taught mathematics to sailors and navigators.
 * Lavanha is best known for his contributions to navigation.
-* a work printed by Lavanha shortly after being appointed chief cosmographer of Portugal.
 * Lavanha gives rules for determining latitude and tables of declination of the Sun.
 * Another work by Lavanha in this area is his Compendio de Geografia.
 * Lavanha also studied instruments used in navigation, constructing astrolabes, quadrants and compasses.

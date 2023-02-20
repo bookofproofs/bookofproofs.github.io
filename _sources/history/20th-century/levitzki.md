@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Levitzki's proof is longer than Hopkins', but will later be applied to further classes of rings.
 * Levitzki did indeed produce a further generalisation of the Wedderburn structure theorem in his paper On the radical of a general ring (1943).
 * Levitzki proved this to be the case and indeed proved an even stronger result in his paper Solution of a problem of G Koethe (1945).
-* Let us note that Koethe was an Austrian mathematician who, like Levitzki, began his university career studying chemistry and changed to mathematics.
+* Koethe was an Austrian mathematician who, like Levitzki, began his university career studying chemistry and changed to mathematics.
 * Let us record that Levitzki's son, Alexander, won the Israel Prize for Life Sciences in 1990.
 * Alexander Levitzki established the Levitzki Prize in memory of his parents Jacob and Charlotte Levitzki.
 

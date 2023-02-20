@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Jacobi had died over ten years before Weber began his studies at Königsberg, his influence was still strongly felt and it would not be unreasonable to say that Weber, through his teachers at Königsberg, was strongly influenced by Jacobi's style of mathematics.
 * So it seems natural that young Weber, when he asked his academic teachers where he should go for his postdoctoral studies, was advised to move to Königsberg.
 * There were other students at Königsberg at this time who would become important in the development of mathematics, in particular Albert Wangerin, who studied for his doctorate around the same time as Weber worked for his habilitation, and former students such as Albert Clebsch whose influence was still being felt.
-* In fact Weber mentions the names of nine of his fellow students at Königsberg who went on to high profile careers as scientists.
+* Weber mentions the names of nine of his fellow students at Königsberg who went on to high profile careers as scientists.
 * On 11 August 1866 Weber's habilitation thesis Singuläre Auflösungen partieller Differentialgleichungen erster Ordnung Ⓣ(Singular resolutions of partial differential equations of first order) was accepted and he became a privatdozent at Heidelberg in that year.
 * A son, Rudolph Heinrich Georg Weber, born 16 August 1874 in Zürich, went on to study mathematics and physics.
 * Over the next twenty-five years, Heinrich Weber taught at a surprising number of different institutions.
@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Of course, the reader of this biography will have noted the large number of different universities at which Weber worked.
 * Weber's main work was in algebra, number theory, analysis and applications of analysis to mathematical physics.
 * This seems a contradiction in terms, for we have now almost said that Weber's main work spans the whole spectrum of mathematics.
-* In fact this is not far from the truth for Weber's work was characterised by its breadth across a wide range of topics.
+* Weber's work was characterised by its breadth across a wide range of topics.
 * To a certain extent this breadth can be attributed to the various influences on Weber from colleagues around him.
 * But in Königsberg there was also the Jacobi influence, particularly coming through one of his other teachers Friedrich Richelot, which saw Weber doing important work on algebraic functions.
 * Perhaps Weber is today remembered for his outstanding text Lehrbuch der Algebra Ⓣ(Textbook of algebra) published in 1895 and it is for his work in algebra and number theory that he is best known.

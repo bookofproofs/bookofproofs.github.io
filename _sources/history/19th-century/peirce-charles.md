@@ -55,9 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When he finally submitted his major report on gravity to the U.S. Coastal Survey in 1890 it was rejected for publication unless he made major revisions.
 * When nothing further was received from him by the end of 1891 the Survey asked for his resignation.
 * Peirce now had no income at all.
-* She was diagnosed as having tuberculosis in the middle of 1889 and before the end of the year she travelled to Europe in an attempt to recover.
-* Returning to the United States in the spring of 1890, she still was not well and in January of 1891 she underwent surgery.
-* was the famous logician, Charles S Peirce.
 * His dramatic manner, his reckless disregard of accuracy in what he termed 'unimportant details', his clever newspaper articles describing the meetings of our young Society interested and amused us all.
 * He was always hard up, living partly on what he could borrow from friends, and partly on what he got from odd jobs such as writing book reviews ...
 * He was equally brilliant, whether under the influence of liquor or otherwise, and his company was prized by the various organisations to which he belonged; and he was never dropped from any of them even though he was unable to pay his dues.
@@ -72,7 +69,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Then, our conception of these effects is the whole of our conception of the object.
 * When he said that the whole meaning of a (clear) conception consists in the entire set of its practical consequences, he had in mind that a meaningful conception must have some experiential "cash value," capable of being specified as some sort of collection of possible empirical observations under specifiable conditions.
 * Peirce insisted that the entire meaning of a meaningful conception consisted in the totality of such specifications of possible observations.
-* In fact it was twenty years after he published these ideas on pragmatism that, through the work of William James, Peirce began to gain the credit for his ideas.
+* It was twenty years after he published these ideas on pragmatism that, through the work of William James, Peirce began to gain the credit for his ideas.
 * Peirce lectured on Pragmatism  at Harvard in March to May of 1903 and published a series of essays explaining his ideas in The Monist  in 1905.
 * It is impossible to do justice to the breadth of Peirce's philosophical work in this article.
 * Let us just note some further examples.

@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Franche-Comté was a Habsburg possession controlled by the Spanish Habsburgs throughout Vernier's life.
 * Vernier became a government official holding various positions such as military engineer for the Hapsburgs and director general of the treasury in Dole and Besançon, the capital of Franche- Comté.
 * Vernier also held various government posts with the government of Spain and became a Conseiller du Roi.
-* In fact the threat of war was never far away and during the last two years of Vernier's life Franche-Comté was frequently invaded by France.
+* The threat of war was never far away and during the last two years of Vernier's life Franche-Comté was frequently invaded by France.
 * Like many other mathematicians and scientists of this period, Vernier worked on cartography and on surveying.
 * In this book Vernier gives a table of sines and a method for deriving the angles of a triangle if its sides are known.
 * He also describes his most famous invention, that of the vernier caliper, an instrument for accurately measuring length.

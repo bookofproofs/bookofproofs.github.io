@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was standard practice for German students at this time to study at several different universities and, after two years at Heidelberg, Romberg moved to Munich in 1930 where he continued his studies.
 * Romberg's mathematics lecturers at Munich included Constantin Carathéodory and Oskar Perron.
 * However, in the early 1930s the Nazi party was gaining ground and Romberg, who had staunch left-wing views, was bitterly opposed to them.
-* Let us note that Romberg's doctoral thesis was Polarisation des Kanalstrahllichtes Ⓣ(On the polarization of the channel light beam).
+* Romberg's doctoral thesis was Polarisation des Kanalstrahllichtes Ⓣ(On the polarization of the channel light beam).
 * The Soviet regime had made a small change to the spelling of the city and, at the time that Romberg went there, it was known as Dnepropetrovsk.
 * Romberg took up his appointment as a theoretical physicist in the Department of Physics and Technology there in 1934.
 * Romberg, as a German citizen, had his right to stay in the Soviet Union ended in 1937 and so he had to leave his position in Dnepropetrovsk.

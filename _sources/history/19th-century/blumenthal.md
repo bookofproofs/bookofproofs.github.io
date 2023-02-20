@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the war ended Blumenthal made efforts to ensure that German mathematicians were integrated back into the international mathematical scene.
 * One of the major roles that Blumenthal played in mathematics, outside his research contributions which we shall look at briefly throughout in this article, was his role as executive editor of the journal Mathematischen Annalen.
 * In 1926 Blumenthal was 50 years old and his mathematical friends organised a birthday present to thank him for his contributions to Mathematischen Annalen.
-* In fact Blumenthal had also taken on a second major editorial role two years before this when, in 1924, he became editor of the Jahresberichte der Deutschen Mathematiker-Vereinigung.
+* Blumenthal had also taken on a second major editorial role two years before this when, in 1924, he became editor of the Jahresberichte der Deutschen Mathematiker-Vereinigung.
 * Blumenthal's life changed abruptly after the National Socialists came to power on 30 January 1933.
 * On 27 April Blumenthal was arrested and detained.
 * Following Blumenthal's suspension, Bieberbach apears to have put pressure on him to resign as editor of the Jahresberichte der Deutschen Mathematiker-Vereinigung which he did.

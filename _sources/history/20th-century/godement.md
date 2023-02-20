@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For the first 19 years of his life Roger lived about 10 km away from the city of Le Havre.
 * Godement graduated with his Agrégé de Mathématiques in 1943 and continued to undertake research at the university for his doctorate.
 * Godement published three further papers in 1945, namely: Sur la presque-périodicité des fonctions spectrales Ⓣ(On the almost-periodicity of the spectral functions); Sur les fonctions de type positif Ⓣ(On the positive type functions); and Sur les propriétés ergodiques des fonctions de type positif Ⓣ(On the positive properties of ergodic type functions).
-* Let us note that the "functions of positive type" that Godement was studying in these papers were members of a special class of functions defined on a Banach space of bounded, complex-valued continuous functions on a locally compact group.
+* The "functions of positive type" that Godement was studying in these papers were members of a special class of functions defined on a Banach space of bounded, complex-valued continuous functions on a locally compact group.
 * Godement defended his thesis Les fonctions de type positif et la théorie des groupes Ⓣ(The positive type functions and group theory) in Paris in July 1946.
 * Following the award of his doctorate, Godement was appointed to the University of Nancy in 1946.
 * Godement is an exception to this, for he took a strong ethical position against the military; in particular he hated to see mathematics being used to develop weapons and other means of war.

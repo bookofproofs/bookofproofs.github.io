@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was Wilhelm Blaschke and Erich Hecke who recruited him to Hamburg having attended a lecture that Schreier gave at the 1923 meeting of the German Mathematical Society held in Marburg.
 * However, even before this meeting, Schreier had been to Hamburg with Reidemeister and got to know the mathematicians there.
 * Thus the young Schreier was already by then an all-round mathematician.
-* In fact Schreier gave lecture courses on group theory and analytic number theory, at the request of the mathematical faculty, before completing his habilitation.
+* Schreier gave lecture courses on group theory and analytic number theory, at the request of the mathematical faculty, before completing his habilitation.
 * Hamburg was an exciting place for someone with Schreier's interests and, among others, he was influenced by Emil Artin.
 * During the beginning of the 1928/29 session Schreier lectured on function theory giving parallel courses in Hamburg and Rostock.
 * Although, as we have noted, many mathematicians influenced Schreier, the first were Furtwängler and Reidemeister.

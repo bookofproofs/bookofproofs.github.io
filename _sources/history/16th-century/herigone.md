@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He also used < for 'angle' but since this is essentially the same as the 'less than' symbol, William Oughtred made a slight modification to  Hérigone's notation using  ∠  for 'angle' in Trigonometria (1657).
 * At a time when an exponent notation was not in common use, Hérigone introduced a2,a3a2, a3a2,a3, etc for the powers of aaa.
 * This is a variant of our present notation in which the powers are raised while in the form in which Hérigone used them they were on the same level as the aaa.
-* To give a little flavour of this rather strange work, let us note that Hérigone describes a camera obscura in the form of a goblet which was designed so that one could spy on others at the table while drinking from the goblet.
+* To give a little flavour of this rather strange work, Hérigone describes a camera obscura in the form of a goblet which was designed so that one could spy on others at the table while drinking from the goblet.
 * One of the problems which Hérigone looked at in the text concerns an apothecary who had four kinds of medicines, of which the first is hot in the fourth degree, the second is hot in the second degree, the third is cold in the first degree and the fourth is cold in the third degree.
 * We know that Hérigone served on a number of committees and took a full part in the mathematical life of Paris.
 * The committee members, in addition to Hérigone, were Étienne Pascal, Mydorge, Beaugrand, J C Boulenger and L de la Porte.

@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We know relatively little about the life of Jan Stampioen Jr, and essentially nothing about his early life, but he appears to have been brought up and educated in Rotterdam.
 * Stampioen taught mathematics in Rotterdam where, in 1632, he published his own treatment of spherical trigonometry appended to van Schooten's sine tables.
 * Descartes presented a solution but it was rejected by Stampioen as not being complete.
-* In fact Stampioen's criticism was fair for although Descartes had taken the geometric problem and derived the correct quartic equation, he left the problem there without solving the quartic.
+* Stampioen's criticism was fair for although Descartes had taken the geometric problem and derived the correct quartic equation, he left the problem there without solving the quartic.
 * Fair though Stampioen's criticism was, it was definitely unwise for he made an enemy of Descartes who was a very powerful figure.
 * In 1638 Stampioen moved from Rotterdam to The Hague on being appointed tutor to the twelve year old Prince William.
 * How successful Stampioen was in tutoring William, and whether this had any bearing on his years as Prince of Orange, we can only leave to the imagination.

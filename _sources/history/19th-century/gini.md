@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Gini studied in the Faculty of Law at the University of Bologna.
-* a young man - Gini - who is now beginning to work in and with Statistics, but with his culture and seriousness he seems destined to excel soon.
 * Gini published Contributo alle applicazioni statistiche del calcolo delle probabilità Ⓣ(Contribution to the statistical applications of probability) in 1907.
 * Some of Gini's early work was associated with the problem of how to measure inequalities in income and wealth in different countries.
 * Gini did not like the index devised by Pareto which he felt did not give realistic results.
@@ -44,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A Faculty of Political Science was set in the university in 1925 and Gini proposed the setting up of an Institute of Statistics and Economic Policy.
 * In the years leading up to the Second World War, Gini received numerous Italian and international honours.
 * Gini's position was not an easy one - he had been close to Mussolini and the Fascist government but he had also shown his opposition to some of their policies, particularly their racist policies, resigning some of his official positions because of government interference.
-* although acquitted of the most serious charges on 24th  January 1945, Gini was suspended from all academic duties and his salary was not paid for one year.
+* Although acquitted of the most serious charges on 24th January 1945, Gini was suspended from all academic duties and his salary was not paid for one year.
 * Gini and the High Commissioner in charge of the prosecution appealed, of course for opposite reasons, against this ruling, but the latter submitted his reasons after the deadline and the subsequent act of 17th  December 1945 was  "not to prosecute".
 * Gini survived virtually unscathed from that period and in 1946 he resumed his duties at the Faculty and in 1949 was again the President of the Italian Statistical Society, a position he held until his death.
 * the Institute of Statistics directed by Gini, together with his other creation, that is the Italian Committee for Population Studies, practically too up the whole of the premises.

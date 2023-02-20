@@ -37,8 +37,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * D'Alembert helped to resolve the controversy in mathematical physics over the conservation of kinetic energy by improving Newton's definition of force in his Traité de dynamique Ⓣ(Treatise on dynamics) which he published in 1743.
 * This also contains d'Alembert's principle of mechanics.
 * This is an important work and the preface contains a clear statement by d'Alembert of an attempt to lay a firm foundation for mechanics.
-* d'Alembert was a mathematician, not a physicist, and he believed mechanics was just as much a part of mathematics as geometry or algebra.
-* d'Alembert thought mechanics should be made into a completely rationalistic mathematical system.
+* D'Alembert was a mathematician, not a physicist, and he believed mechanics was just as much a part of mathematics as geometry or algebra.
+* D'Alembert thought mechanics should be made into a completely rationalistic mathematical system.
 * D'Alembert had begun to read parts of his Traité de dynamique to the Academy in late 1742 but soon afterwards Clairaut began to read his own work on dynamics to the Academy.
 * Clearly a rivalry quickly sprung up and d'Alembert stopped reading the work to the Academy and rushed into print with the treatise.
 * D'Alembert stated his position clearly that he believed mechanics to be based on metaphysical principles and not on experimental evidence.
@@ -52,7 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When the first volume appeared in 1751 it contained a Preface written by d'Alembert which was widely acclaimed as a work of great genius.
 * D'Alembert worked on the Encyclopédie for many years.
 * Euler, however, saw the power of the methods introduced by d'Alembert and soon developed these far further than had d'Alembert.
-* In fact this work by d'Alembert on the winds suffers from a defect which was typical of all of his work, namely it was mathematically very sound but was based on rather poor physical evidence.
+* This work by d'Alembert on the winds suffers from a defect which was typical of all of his work, namely it was mathematically very sound but was based on rather poor physical evidence.
 * A heated argument between d'Alembert and Clairaut resulted in the two fine mathematicians trading insults in the scientific journals of the day.
 * The year 1747 was an important one for d'Alembert in that a second important work of his appeared in that year, namely his article on vibrating strings.
 * Euler had learnt of d'Alembert's work in around 1743 through letters from Daniel Bernoulli.

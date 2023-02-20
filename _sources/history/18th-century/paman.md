@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It must therefore be said that far from introducing concepts for their own sake, Paman introduced interesting new concepts that were useful to him and that would have been useful to mathematics if other mathematicians had noticed them.
 * This was after Paman's first version of his paper, but before the publication of Paman's book.
 * There seems no way of discovering whether Paman made major changes to his manuscript after reading Maclaurin's treatise.
-* In fact there were three authors, Robins, Maclaurin and Paman, who attempted to answer Berkeley in different ways.
+* There were three authors, Robins, Maclaurin and Paman, who attempted to answer Berkeley in different ways.
 * However, it is interesting to see Paman's remarkably modern work - with concepts resembling our neighbourhood concept and lim inf and lim sup.
 * It only in 1989, when Breidert and Sageng made detailed studies of Paman's work, that its contents became known.
 * Thanks to Bjorn Smestad for his permission to use material from his article on Paman.

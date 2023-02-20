@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Wirtinger** was an Austrian mathematician who worked in complex analysis, geometry, algebra, number theory, Lie groups and knot theory.
 
 ### Mathematical Profile (Excerpt):
-* In fact Johannes Wirtinger was an outstanding scientist and medical researcher who made significant discoveries concerning typhus.
+* Johannes Wirtinger was an outstanding scientist and medical researcher who made significant discoveries concerning typhus.
 * Wirtinger studied mathematics at the University of Vienna, beginning his course in 1884.
 * Gustav von Escherich had studied at the University of Vienna and worked at Graz before taking up a position in Vienna in 1884, the year Wirtinger began his course.
 * He taught Wirtinger about the new approach to analysis which Weierstrass had developed.

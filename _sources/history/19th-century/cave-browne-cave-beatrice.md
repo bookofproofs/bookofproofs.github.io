@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1913 Beatrice left her teaching position at Streatham and Clapham High School and took a position working with Karl Pearson at University College London.
 * In 1914 the paper Numerical Illustrations of the Variate Difference Correlation Method was published in Biometrika with the joint authors Beatrice M Cave and Karl Pearson.
 * A second paper involving Beatrice, On the Distribution of the Correlation Coefficient in Small Samples.
-* Let us note that these authors are: Herbert Edward Soper (1865-1930); Andrew White Young; Beatrice Mabel Cave-Browne Cave; Alice Lee; and Karl Pearson.
 * By the time this paper had appeared in print, Beatrice had left her position working with Karl Pearson at the Galton Laboratory of University College London.
 * In August 1916, Beatrice Cave-Browne-Cave announced that she would leave the laboratory to take a better paying position with the Ministry of Munitions.
 * Also in 1917 Beatrice constructed correlation tables based on a series of mice breeding experiments made by Raphael Weldon, who had worked at University College.

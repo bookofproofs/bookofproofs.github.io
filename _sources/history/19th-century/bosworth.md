@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Anne Bosworth Focke** was an American mathematician who became the first female doctoral student of David Hilbert. She was a professor of mathematics and physics at what is now the University of Rhode Island.
 
 ### Mathematical Profile (Excerpt):
-* Let us note that Woonsocket, the town in which Anne was born, was only established one year before her birth when three villages combined to form the town.
+* Woonsocket, the town in which Anne was born, was only established one year before her birth when three villages combined to form the town.
 * It was in her home town of Woonsocket that Anne Bosworth attended school.
 * The year in which Bosworth joined the College was the first in which it had begun to teach courses beyond the secondary school level.
 * Bosworth's department consisted of just herself in 1892 but, in 1893, William Elisha Drake was appointed as Professor of Mechanical Engineering.

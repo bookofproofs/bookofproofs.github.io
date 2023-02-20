@@ -41,8 +41,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dandelin proved an important theorem on the intersection of a cone and its inscribed sphere with a plane.
 * Dandelin's generalisation gives independent proofs of the theorems of Pascal and Brianchon.
 * This 1826 paper is considered by most to be Dandelin's finest contribution.
-* Dandelin also worked on stereographic projection of a sphere on a plane, publishing an important contribution in Mémoire sur l'emploi des projections stéréographiques en géométrie Ⓣ(Memoir on the use of stereographic projections in geometry) (1827).
-* He gave a method of approximating the roots of an algebraic equation, now named the Dandelin-Gräffe method, and published this in Recherches sur la résolution des équations numériques Ⓣ(Researches on solving numerical equations) (1826).
+* Dandelin also worked on stereographic projection of a sphere on a plane, publishing an important contribution in "Mémoire sur l'emploi des projections stéréographiques en géométrie" Ⓣ(Memoir on the use of stereographic projections in geometry) (1827).
+* He gave a method of approximating the roots of an algebraic equation, now named the Dandelin-Gräffe method, and published this in "Recherches sur la résolution des équations numériques" Ⓣ(Researches on solving numerical equations) (1826).
 * Dandelin then considers the possibility of accelerating both processes by applying them to the equation whose roots are the squares of those of the original.
 * However, Dandelin had afterthoughts which he recorded in four appendices, and in the second of these he goes further into the matter of root squaring, making two important observations that are not always to be found in modern treatments.
 * Among the honours which Dandelin received was election to the Royal Belgium Academy of Science in Brussels on 1 April 1822.

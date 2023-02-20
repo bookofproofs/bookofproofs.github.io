@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, there is some information specific to the eldest: Jafar Muhammad ibn Musa ibn Shakir.
 * In addition to making perhaps the major contribution to the geometry text described above, Jafar Muhammad also wrote Premises of the book of conics which was a critical revision of Apollonius's Conics.
 * It appears that his dispute with al-Kindi coloured Jafar Muhammad actions and he opposed anyone who had been a friend of al-Kindi's.
-* In fact Jafar Muhammad was sent by al-Musta'in to negotiate the terms of his surrender with the besieging forces.
+* Jafar Muhammad was sent by al-Musta'in to negotiate the terms of his surrender with the besieging forces.
 
 Born about 800, Baghdad, Iraq. Died after 873, Iraq.
 

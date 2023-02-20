@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Sarton notes that Girard wrote a "strange commentary" on Stevin's ideas on the "age of wisdom".
 * The second thing which Albert Girard mentions, is a way of exhibiting a series of rational fractions, that converge to the square root of any number proposed, and that very fast.
 * Girard cannot be credited with the invention of continued fractions as a result of his brilliant observations but again his genius shines through.
-* In fact one is left with a little sadness that Girard's name is not today well-known yet one feels that things could have been different if he had taken the time to fully explain the things he obviously understood and also taken some time to push a little further some of his amazing insights.
+* One is left with a little sadness that Girard's name is not today well-known yet one feels that things could have been different if he had taken the time to fully explain the things he obviously understood and also taken some time to push a little further some of his amazing insights.
 
 Born 1595, St Mihiel, France. Died 8 December 1632, Leiden, Netherlands.
 

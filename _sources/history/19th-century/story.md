@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Story resigned from the editorial board and was pleased to leave Johns Hopkins after he received an offer from another new university, this time Clark University which opened in Worcester, Massachusetts, in 1887.
 * The University hired some excellent mathematicians, and there Story became a colleague of Henry Seely White and Oskar Bolza.
 * Story, however, remained at Clark despite the fact that he only had two colleagues to help him run the Ph.D. programme.
-* In fact it was a very successful programme for 25 students were awarded their doctorates between 1892 and 1921, with sixteen of these students having their work supervised by Story.
+* It was a very successful programme for 25 students were awarded their doctorates between 1892 and 1921, with sixteen of these students having their work supervised by Story.
 * Financial problems made Clark university close its graduate programme in 1919 and Story was forced to retire.
 * He had become interested in the history of mathematics during the latter part of his career, writing a paper on Omar Khayyam in 1919.
 * Among the honours given to Story, perhaps the greatest was election to the National Academy of Sciences (United States) in 1908.

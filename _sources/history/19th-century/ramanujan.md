@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite the fact that he had no university education, Ramanujan was clearly well known to the university mathematicians in Madras for, with his letter of application, Ramanujan included a reference from E W Middlemast who was the Professor of Mathematics at The Presidency College in Madras.
 * On the strength of the recommendation Ramanujan was appointed to the post of clerk and began his duties on 1 March 1912.
 * Ramanujan was quite lucky to have a number of people working round him with a training in mathematics.
-* In fact the Chief Accountant for the Madras Port Trust, S N Aiyar, was trained as a mathematician and published a paper On the distribution of primes in 1913 on Ramanujan's work.
+* The Chief Accountant for the Madras Port Trust, S N Aiyar, was trained as a mathematician and published a paper On the distribution of primes in 1913 on Ramanujan's work.
 * The professor of civil engineering at the Madras Engineering College C L T Griffith was also interested in Ramanujan's abilities and, having been educated at University College London, knew the professor of mathematics there, namely M J M Hill.
 * He wrote to Hill on 12 November 1912 sending some of Ramanujan's work and a copy of his 1911 paper on Bernoulli numbers.
 * Hill replied in a fairly encouraging way but showed that he had failed to understand Ramanujan's results on divergent series.

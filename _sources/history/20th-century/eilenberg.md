@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of the first collaborations which Eilenberg entered was with Mac Lane.
 * The two first met in 1940 in Ann Arbor and from that time until about 1954 the pair produced fifteen papers on a whole range of topics including category theory, cohomology of groups, the relation between homology and homotopy, Eilenberg-Mac Lane spaces, and generic cycles.
 * Ann Arbor again provided the means to bring Eilenberg and Steenrod together.
-* In fact Eilenberg had written a definitive treatment of singular homology and cohomology in a paper in the Annals of Mathematics in 1944.
+* Eilenberg had written a definitive treatment of singular homology and cohomology in a paper in the Annals of Mathematics in 1944.
 * In 1948 Eilenberg, in a joint paper with Chevalley, gave an algebraic approach to the cohomology of Lie groups, using the Lie algebra as a basic object.
 * Another collaboration of major importance was between Eilenberg and Henri Cartan.
 * However as we mentioned above Eilenberg spent 1950-51 in Paris and it was during this time that they made remarkable progress.

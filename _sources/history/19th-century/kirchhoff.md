@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kirchhoff attended the Neumann-Jacobi seminar from 1843 to 1846.
 * Now 1843 was the year in which Jacobi became unwell, so it was Neumann who influenced Kirchhoff in a very positive way.
 * Neumann's interests were at this time firmly in mathematical physics and, at the time Kirchhoff began to study at Königsberg, Neumann had become interested in electrical induction.
-* In fact Neumann published the first of his two major papers on electrical induction in 1845 while Kirchhoff was studying with him.
+* Neumann published the first of his two major papers on electrical induction in 1845 while Kirchhoff was studying with him.
 * Kirchhoff was taught mathematics at the University of Königsberg by Friedrich Jules Richelot.
 * It was while he was studying with Neumann that Kirchhoff made his first outstanding research contribution which related to electrical currents.
 * Kirchhoff's laws, which he announced in 1845, allowed calculation of currents, voltages and resistances in electrical circuits with multiple loops, extending the work of Ohm.

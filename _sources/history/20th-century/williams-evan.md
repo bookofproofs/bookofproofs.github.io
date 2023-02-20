@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * James Williams lived in Cwmsychbant and got to know Elizabeth at school.
 * James Williams was a staunch member of the Congregational Chapel, attending services every Sunday in Brynteg, two miles from his home.
-* Let us note that at the time of the 1911 census, James and Elizabeth Williams, together with their three sons, were living at Brynawel.
+* At the time of the 1911 census, James and Elizabeth Williams, together with their three sons, were living at Brynawel.
 * The other two sons, John and Evan James, are both are listed as speaking only Welsh; they are both at school.
 * He had been a fifth Wrangler in the Mathematical Tripos at Cambridge, and it was through him that Williams became attracted to mathematics and physics.
 * became an undiluted pleasure under Lewis's influence and inspiration, ensuring that Evan James's interest in physics and mathematics would flourish.

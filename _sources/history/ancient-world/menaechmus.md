@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Experts have discussed whether Menaechmus might have used a mechanical device to draw his curves.
 * it seems probable that someone who had Menaechmus's second solution before him worked to show how the same representation of the four straight lines could be got by a mechanical construction as an alternative to the use of conics.
 * Other references to Menaechmus include one by Theon of Smyrna who suggests that he was a supporter of Eudoxus's theory of the heavenly bodies based on concentric spheres.
-* In fact Theon of Smyrna claims that Menaechmus developed the theory further by adding further spheres.
+* Theon of Smyrna claims that Menaechmus developed the theory further by adding further spheres.
 * There have been conjectures made as to where this information was written down by Menaechmus so that it was available to Theon of Smyrna.
 * One conjecture is that it appeared in Menaechmus's commentaries on Plato's Republic referred to in the quote above from the Suda Lexicon.
 * Another matter relating to the structure of mathematics which Menaechmus discussed was the distinction between theorems and problems.

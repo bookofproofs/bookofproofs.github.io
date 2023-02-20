@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On the opening of George Heriot's Hospital as a day school, Mr Fraser was appointed head of the mathematical and physical departments, to the equipment and organisation of which be devoted himself with energy and success.
 * A little over a year ago Mr Fraser was appointed to the headmaster-ship of Allan Glen's Institution in Glasgow, but failing health compelled him to give it up, and be resigned with the intention of going to South Africa.
 * While Mr Fraser was still a junior master at Watson's College, the idea occurred to him that there was room in Edinburgh for a Mathematical Society.
-* In fact Fraser had been intending to address the meeting of the Society on Friday 14 November 1890 on the topic of the history of the controversy concerning the differential calculus.
+* Fraser had been intending to address the meeting of the Society on Friday 14 November 1890 on the topic of the history of the controversy concerning the differential calculus.
 * Fraser was elected to a fellowship of the Royal Society of Edinburgh on 1 June 1885.
 
 Born 3 May 1857, Cargill, near Perth, Scotland. Died 9 November 1890, Glasgow, Scotland.

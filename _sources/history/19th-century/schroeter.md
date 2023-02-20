@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Heinrich was the eldest of his parents three sons.
 * Schröter quickly learnt the foundations of the differential calculus and he decided that he wanted to apply mathematics.
-* In fact Schröter was the first of a number outstanding mathematics pupils at the Königsberg Gymnasium, all influenced by Müttrich; Rudolf Lipschitz, Carl Neumann, and Alfred Clebsch were three to four years behind Schröter.
+* Schröter was the first of a number outstanding mathematics pupils at the Königsberg Gymnasium, all influenced by Müttrich; Rudolf Lipschitz, Carl Neumann, and Alfred Clebsch were three to four years behind Schröter.
 * The University of Königsberg had become a leading centre for mathematics during the years that Carl Jacobi worked there but he left for Berlin in June 1844 shortly before Schröter began his studies.
 * Another outstanding mathematician at Königsberg at this time was Franz Neumann who had begun working there three years before Schröter was born but was at the peak of his creativity in the 1840s.
 * Among these inspiring teachers it was Richelot who influenced Schröter most, introducing him to Jacobi's work on function theory.

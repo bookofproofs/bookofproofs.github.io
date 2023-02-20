@@ -23,8 +23,8 @@ contributors: bookofproofs
 **Cecily Tanner** was the daughter of the mathematicians William Henry Young and Grace Emily Chisholm. She published excellent papers on Riemann-Stieltjes integrals, then she became interested in the history of mathematics. Her efforts led to Thomas Harriot's work being much more widely known and understood.
 
 ### Mathematical Profile (Excerpt):
-* In fact she was known as Cecily and, to avoid confusion with other Youngs, we will call her Cecily throughout this biography.
-* In fact her publications appear with the names R C Young, R Cecily Young or Rosalind Cecily Young until he marriage in 1953 after which she published under the name R C Tanner.
+* She was known as Cecily and, to avoid confusion with other Youngs, we will call her Cecily throughout this biography.
+* Her publications appear with the names R C Young, R Cecily Young or Rosalind Cecily Young until he marriage in 1953 after which she published under the name R C Tanner.
 * Let us give a few details about Cecily Young's siblings.
 * It is worth noting that the Preface to the book was written by William Young but nowhere in the book is Cecily Young's help acknowledged.
 * Cecily published her first paper in 1925, namely Les fonctions monotones et l'intégration dans l'espace à n dimensions Ⓣ(Monotonic functions and integration in n-dimensional space) which was published in L'Enseignement Mathématique.

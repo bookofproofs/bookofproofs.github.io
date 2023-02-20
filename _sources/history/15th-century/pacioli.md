@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The court at Urbino was a notable centre of culture and Pacioli must have had close contact with it over a number of years.
 * In 1489, after two years in Rome, Pacioli returned to his home town of Sansepolcro.
 * Not all went smoothly for Pacioli in his home town, however.
-* In fact Pacioli was banned from teaching there in 1491 but the jealousy seemed to be mixed with a respect for his learning and scholarship for in 1493 he was invited to preach the Lent sermons.
+* Pacioli was banned from teaching there in 1491 but the jealousy seemed to be mixed with a respect for his learning and scholarship for in 1493 he was invited to preach the Lent sermons.
 * During this time in Sansepolcro, Pacioli worked on one of his most famous books the Summa de arithmetica, geometria, proportioni et proportionalita Ⓣ(Summary of arithmetic, geometry, proportion and proportionality) which he dedicated to Guidobaldo, the duke of Urbino.
 * Pacioli travelled to Venice in 1494 to publish the Summa Ⓣ(Summary of arithmetic, geometry, proportion and proportionality).
 * Pacioli broadly used Euclid's Elements, retelling some parts of it.

@@ -28,9 +28,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This man lived in the time of the first Ptolemy; for Archimedes, who followed closely upon the first Ptolemy makes mention of Euclid, and further they say that Ptolemy once asked him if there were a shorted way to study geometry than the Elements, to which he replied that there was no royal road to geometry.
 * There is other information about Euclid given by certain authors but it is not thought to be reliable.
 * The second type of information is that Euclid was born at Megara.
-* In fact there was a Euclid of Megara, who was a philosopher who lived about 100 years before the mathematician Euclid of Alexandria.
+* There was a Euclid of Megara, who was a philosopher who lived about 100 years before the mathematician Euclid of Alexandria.
 * It is not quite the coincidence that it might seem that there were two learned men called Euclid.
-* In fact Euclid was a very common name around this period and this is one further complication that makes it difficult to discover information concerning Euclid of Alexandria since there are references to numerous men called Euclid in the literature of this period.
+* Euclid was a very common name around this period and this is one further complication that makes it difficult to discover information concerning Euclid of Alexandria since there are references to numerous men called Euclid in the literature of this period.
 * However, although we do not know for certain exactly what reference to Euclid in Archimedes' work Proclus is referring to, in what has come down to us there is only one reference to Euclid and this occurs in On the sphere and the cylinder.
 * He argued that the reference to Euclid was added to Archimedes' book at a later stage, and indeed it is a rather surprising reference.
 * It was not the tradition of the time to give such references, moreover there are many other places in Archimedes where it would be appropriate to refer to Euclid and there is no such reference.
@@ -44,15 +44,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Again the fact that Euclid undoubtedly based the Elements on previous works means that it would be rather remarkable if no trace of the style of the original author remained.
 * Even if we accept (i) then there is little doubt that Euclid built up a vigorous school of mathematics at Alexandria.
 * Euclid did not work out the syntheses of the locus with respect to three and four lines, but only a chance portion of it ...
-* certainly does not prove that Euclid was an historical character since there are many similar references to Bourbaki by mathematicians who knew perfectly well that Bourbaki was fictitious.
-* Nevertheless the mathematicians who made up the Bourbaki team are all well known in their own right and this may be the greatest argument against hypothesis (iii) in that the 'Euclid team' would have to have consisted of outstanding mathematicians.
+* It is unknown if Euclid was an historical character. Similarly, there are many similar references to Bourbaki by mathematicians who knew perfectly well that Bourbaki was fictitious.
+* Nevertheless, the mathematicians who made up the Bourbaki team are all well known in their own right and this may be the greatest argument against hypothesis (iii) in that the 'Euclid team' would have to have consisted of outstanding mathematicians.
 * We shall assume in this article that hypothesis (i) is true but, having no knowledge of Euclid, we must concentrate on his works after making a few comments on possible historical events.
 * Euclid must have studied in Plato's Academy in Athens to have learnt of the geometry of Eudoxus and Theaetetus of which he was so familiar.
 * None of Euclid's works have a preface, at least none has come down to us so it is highly unlikely that any ever existed, so we cannot see any of his character, as we can of some other Greek mathematicians, from the nature of their prefaces.
 * The picture of Euclid drawn by Pappus is, however, certainly in line with the evidence from his mathematical texts.
 * Euclid's most famous work is his treatise on mathematics The Elements.
 * Probably no results in The Elements were first proved by Euclid but the organisation of the material and its exposition are certainly due to him.
-* In fact there is ample evidence that Euclid is using earlier textbooks as he writes the Elements since he introduces quite a number of definitions which are never used such as that of an oblong, a rhombus, and a rhomboid.
+* There is ample evidence that Euclid is using earlier textbooks as he writes the Elements since he introduces quite a number of definitions which are never used such as that of an oblong, a rhombus, and a rhomboid.
 * Euclid's decision to make this a postulate led to Euclidean geometry.
 * It was not until the 19th  century that this postulate was dropped and non-euclidean geometries were studied.
 * There are also axioms which Euclid calls 'common notions'.

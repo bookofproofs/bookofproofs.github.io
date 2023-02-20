@@ -36,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * König developed Kronecker's polynomial ideals and presented many results on discriminants of forms, elimination theory and Diophantine problems.
 * König's work on polynomial ideals influenced Hilbert, Lasker, Macaulay, Emmy Noether, van der Waerden and Gröbner but they simplified his ideas so König's work is now only of historical interest.
 * In the last eight years of his life König's interests turned towards set theory and he contributed to the continuum hypothesis.
-* what a sensation the announcement of the title of König's lecture ..
 * König's proof contains an error in that he applied a theorem due to Felix Bernstein in a case where it does not hold.
 * König retired from his post at the Technical University in 1905 but he continued to lecture there particularly on topics that he was interested in.
 * We should mention König's contribution to mathematics teaching at secondary schools in Hungary.

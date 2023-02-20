@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Lafforgue became chargé de recherche at the Centre National de la Recherche Scientifique (CNRS) in 1990 and worked in the Arithmetic and Algebraic Geometry team at the Université Paris-Sud at Orsay.
 * In 2000 Lafforgue was promoted to directeur de recherche of the CNRS working in the Mathematics Department of the Université Paris-Sud.
-* In fact the year 2000 was significant for Lafforgue in another way too, for on 24 May, at the Paris Millennium Meeting at the Collège de France, he received the 2000 Clay Research Award.
+* The year 2000 was significant for Lafforgue in another way too, for on 24 May, at the Paris Millennium Meeting at the Collège de France, he received the 2000 Clay Research Award.
 * At the meeting, Andrew Wiles announced the award to Lafforgue and Lavinia Clay presented him with the Ferguson sculpture.
 * The crucial contribution by Laurent Lafforgue to solve this question is the construction of compactifications of certain varieties of modules.
 * Lafforgue soon received further major prizes for his remarkable mathematical achievements.

@@ -24,11 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We note at this point that the Rev Caleb Scott, B.A., LL.
-* In fact there were only two secondary schools in England taking women pupils at this time and neither was anywhere near to where Charlotte lived.
+* There were only two secondary schools in England taking women pupils at this time and neither was anywhere near to where Charlotte lived.
 * This College, the first women's college in England, had been founded in 1869, only a few years before Scott began her studies there.
 * At the top Miss Herschel was standing on a sort of dais, and when we had finished singing she recited an ode to Miss Scott, composed by Miss Welsh for the occasion, and then crowned her with laurels, while we clapped and applauded with all our might.
 * It wasn't only the ladies of Girton who celebrated Scott's success and saw the injustice of the situation.
-* In fact Scott's achievement in the Mathematical Tripos had a significant effect on women's education at Cambridge for in the year after she graduated, women were officially allowed to study the Mathematical Tripos.
+* Scott's achievement in the Mathematical Tripos had a significant effect on women's education at Cambridge for in the year after she graduated, women were officially allowed to study the Mathematical Tripos.
 * This did not happen at Cambridge for many years after Scott's time and it was as late as 1948 before women could be awarded a Cambridge degree.
 * Scott continued research at Girton on algebraic geometry under Arthur Cayley's supervision.
 * Scott became only one of three members of the academic staff at Girton.
@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A life's work such as that of Professor Charlotte Angas Scott is worth more to the world than many anxious efforts of diplomatists.
 * After her return to Cambridge in 1925, Scott's hearing prevented her taking much part in life at the University.
 * Another of her interests was gardening and, like so many of the things that Scott did, she took it very seriously.
-* Finally, let us note that Scott never seemed to find life in America particularly happy.
+* Scott never seemed to find life in America particularly happy.
 * In 1897 Scott bought a house of her own and arranged for a cousin to come from England to act as her housekeeper.
 * Having never really made a social life for herself in the United States, Scott left returned to England as soon as she felt she had completed her duties after retirement and bought a home in Cambridge where she lived out the last few years of her life.
 

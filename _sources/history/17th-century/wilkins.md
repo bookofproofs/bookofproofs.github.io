@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wilkins also wrote on mechanical devices, publishing Mathematical Magick, or the wonders that may be performed by mechanical geometry in 1648.
 * It was all rather sensational, particularly the illustrations, but Wilkins imagination was based on good mathematical principles.
 * Two works were particularly important in influencing Wilkins thinking on machines.
-* In fact it is fair to note that Wilkins owed quite a debt to Mersenne in a whole variety of areas for the two shared views closely.
+* It is fair to note that Wilkins owed quite a debt to Mersenne in a whole variety of areas for the two shared views closely.
 * In many ways one can look at Wilkins work as popularising the more technical writings of Mersenne.
 * Wilkins' last work, which had to be rewritten since the original was destroyed in the Great Fire of London in 1666, is on a universal language.
 * The Second Part is an exhaustive classification of notions in all spheres of thought, P M Roget clearly based his Thesaurus on this work of Wilkins.

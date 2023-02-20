@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Before looking at some of Choi Seok-jeong's major mathematical contributions, let us explain what Latin squares are, what orthogonal Latin squares are, and how magic squares are made from pairs of orthogonal Latin squares.
 * This, however, is not the case since an example of two orthogonal Latin squares of order 9 appear in the book "Gusuryak" written by Choi Seok-jeong.
 * Asian traditional mathematics was based on the "Nine Chapters on the Mathematical Art." Choi classified mathematical operations, problems and all nine chapters into four classes, represented by the four sasang symbols.
-* Let us note that Choi Seok-jeong comments in "Gusuryak" that he was unable to construct orthogonal Latin squares of order 10.
+* Choi Seok-jeong comments in "Gusuryak" that he was unable to construct orthogonal Latin squares of order 10.
 * It was not only Choi Seok-jeong and Euler who failed to construct orthogonal Latin squares of order 10 for attempts to construct such a square became an obsession for many mathematicians over the years.
 * There is another fascinating problem invented by Choi Seok-jeong which appears in the "Gusuryak", namely the Hexagonal Tortoise Problem.
 * Choi's study of magic squares contained some results never seen in Chinese mathematics, and other results are applicable today to the hexagonal tortoise problem of coding theory.

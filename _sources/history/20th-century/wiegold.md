@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We shall, however, indicate two topics which were important to Wiegold and on which he devoted continued effort over many years.
 * In 1981 Wiegold gave a five-lecture survey entitled The Schur multiplier: an elementary approach at the first Groups St Andrews conference.
 * The article Wiegold wrote for the conference Proceedings based on these lectures is today the most cited of all his 127 papers.
-* Having mentioned Wiegold's most cited paper, let us note that his second most cited paper is Groups with all subgroups normal-by-finite (1995) which he wrote jointly with John Lennox, Bernhard Neumann and Howard Smith.
+* Having mentioned Wiegold's most cited paper, his second most cited paper is Groups with all subgroups normal-by-finite (1995) which he wrote jointly with John Lennox, Bernhard Neumann and Howard Smith.
 * We promised to mention two topics that were particularly important to Wiegold: the second is growth sequences.
 * In 1978, jointly with John S Wilson, he published Growth sequences of finitely generated groups and, in 1989, a second part appeared written jointly by Wiegold and Alastair G R Stewart.
 * Wiegold's papers are a joy to read.

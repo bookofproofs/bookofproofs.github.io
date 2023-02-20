@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mary Cartwright became Mistress of Girton in 1949, and Bertha Jeffreys took over her previous role of Director of Studies in Mathematics and Mechanical Sciences.
 * She took a personal and warm interest in all her students and there was often "open house" for them on Sunday evenings at the Jeffreys residence halfway between Girton and the centre of Cambridge.
 * This used to involve sampling Bertha's homemade flapjack whilst Sir Harold sat on the floor doing the Times crossword.
-* Let us note that she was an editor for four of the volumes of the Collected Papers of Sir Harold Jeffreys on Geophysics and other Sciences (1971-77).
+* She was an editor for four of the volumes of the Collected Papers of Sir Harold Jeffreys on Geophysics and other Sciences (1971-77).
 * Throughout much of her life, Bertha Jeffreys was actively involved with the Mathematical Association.
 
 Born 22 May 1903, Northampton, England. Died 18 December 1999, Cambridge, England.

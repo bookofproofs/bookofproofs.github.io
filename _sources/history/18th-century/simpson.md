@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Simpson was the most distinguished of a group of itinerant lecturers who taught in the London coffee houses.
 * For example De Moivre used Slaughter's Coffee House in St Martin's Lane as a base during these years, and William Jones, who was a friend of Simpson, was able to make a living lecturing in coffee houses such as Child's Coffee House in St Paul's Churchyard.
 * In 1743 Simpson was appointed as the head of mathematics at the Royal Military Academy at Woolwich.
-* In fact this Academy was founded only two years before Simpson took up the post and his appointment there had an impact on the mathematical topics he investigated.
+* This Academy was founded only two years before Simpson took up the post and his appointment there had an impact on the mathematical topics he investigated.
 * Two years after his appointment, Simpson was elected a fellow of the Royal Society.
 * Simpson is best remembered for his work on interpolation and numerical methods of integration.
 * However the numerical method known today as "Simpson's rule", although it did appear in his work, was something he learned from Newton as Simpson himself acknowledged.

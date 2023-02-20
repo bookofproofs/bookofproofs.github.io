@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Carathéodory continued to hold his position in Munich until he retired in August 1938.
 * Carathéodory made significant contributions to the calculus of variations, the theory of point set measure, and the theory of functions of a real variable.
 * Carathéodory wrote many fine books including Lectures on Real Functions (1918), Conformal representation (1932), Calculus of Variations and Partial Differential Equations (1935), Geometric Optics (1937), Real functions Vol.
-* In fact Carathéodory did write the second volume of this work but it was destroyed while at the publisher Teubner during the bombing of Leipzig in 1943.
+* Carathéodory did write the second volume of this work but it was destroyed while at the publisher Teubner during the bombing of Leipzig in 1943.
 
 Born 13 September 1873, Berlin, Germany. Died 2 February 1950, Munich, Germany.
 

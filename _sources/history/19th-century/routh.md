@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Routh became the most famous of the Cambridge coaches for the Mathematical Tripos.
 * Over a period of 22 years from 1862 Routh coached the Senior Wrangler in every year.
 * When he retired as a coach in 1888 a presentation was held at which Routh's portrait, painted by Sir Hubert von Herkomer, was presented to his wife.
-* In fact the impact of this prize winning work was very significant since Thomson and Tait rewrote for the second edition of their text Natural philosophy treatise the part dealing with equations of motion using Routh's developments.
+* The impact of this prize winning work was very significant since Thomson and Tait rewrote for the second edition of their text Natural philosophy treatise the part dealing with equations of motion using Routh's developments.
 
 Born 20 January 1831, Quebec, Canada. Died 7 June 1907, Cambridge, England.
 

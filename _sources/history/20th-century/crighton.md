@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1993 Crighton was elected to a Fellowship of the Royal Society.
 * We have described above the contents of Crighton's first research paper.
 * At that meeting Crighton talked on Lighthill and acoustics.
-* In fact Crighton's mathematical work was very much in the same area as that of Lighthill and he shared with Lighthill another passion, namely music and opera.
+* Crighton's mathematical work was very much in the same area as that of Lighthill and he shared with Lighthill another passion, namely music and opera.
 
 Born 15 November 1942, Llandudno, Wales. Died 12 April 2000, Cambridge, England.
 

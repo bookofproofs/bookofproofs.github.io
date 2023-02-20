@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bernhard attended school in Berlin spending three years in primary school followed by nine years at the Herderschule.
 * Neumann entered the University of Freiburg to study mathematics in 1928 and spent two semesters there before moving to the Friedrich-Wihelms University in Berlin.
 * There he was influenced by an impressive collection of teachers including Schmidt, Robert Remak and Schur, together with his assistant Alfred Brauer, and near contemporaries of Neumann such as Hurt Hirsch, Richard Rado and Helmut Wielandt.
-* In fact it was Remak, more than any of the others, who influenced Neumann to turn towards group theory for at first he intended to become a topologist.
+* It was Remak, more than any of the others, who influenced Neumann to turn towards group theory for at first he intended to become a topologist.
 * In November 1931 Neumann submitted his doctoral dissertation which was examined by Schur and Schmidt.
 * When Hitler came to power in 1933, only a couple of months after Bernhard and Hanna first met, life in Germany became very hard for those of Jewish origin.
 * Neumann realised immediately the dangers of remaining in Germany and quickly left the country, going first to Amsterdam before being advised that Cambridge was the best place for a mathematician to go.

@@ -51,7 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wrinch held the Fellowship until she retired in 1971 when she went to Woods Hole, Massachusetts.
 * After emigrating to the United States, Wrinch focused on the application of mathematical principles to the interpretation of X-ray crystallographic data of complex crystal structures.
 * A meeting between von Neumann, Langmuir, Wrinch and A D Booth did indeed take place in Schenectady on Wednesday 16 April 1947.
-* In fact the end of Wrinch's life was much sadder than this quote tells us and we should relate the tragic circumstances.
+* The end of Wrinch's life was much sadder than this quote tells us and we should relate the tragic circumstances.
 
 Born 12 September 1894, Rosario, Argentina. Died 11 February 1976, Falmouth, Massachusetts, USA.
 

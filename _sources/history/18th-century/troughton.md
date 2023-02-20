@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Troughton was by this time over 70 years old and was suffering from some of the ailments of old age such as rheumatism and lumbago.
 * For example a dispute which Troughton became involved in towards the end of his life was with Sir James South who was President of the Royal Astronomical Society from 1829 to 1831.
 * It was a sad affair in which South, who had previously been friendly with Troughton, ended up trying to damage his reputation.
-* In fact a court case was still in progress when Troughton died.
+* A court case was still in progress when Troughton died.
 * Simms continued Troughton's internationally known business after Troughton died in 1835 at his home in Fleet Street.
 
 Born (baptised) 6 November 1753, Corney, Cumberland, England. Died 12 June 1835, London, England.

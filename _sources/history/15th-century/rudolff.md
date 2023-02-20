@@ -48,7 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Adding a diagonal stroke to the points used by earlier cossists, Rudolff introduced ...
 * In brief, Rudolff's role in the development of mathematical studies in Germany was analogous to that of Fibonacci in Italy.
 * As to his influence on later mathematicians, we note that Michael Stifel brought out a new addition to Rudolff's Coss in 1553, adding some important material of his own.
-* In fact when Euler was learning mathematics he made a careful study of Rudolff's work.
+* When Euler was learning mathematics he made a careful study of Rudolff's work.
 
 Born 1499, Jauer, Silesia (now Jawor, Poland). Died 1543, Vienna, Austria.
 

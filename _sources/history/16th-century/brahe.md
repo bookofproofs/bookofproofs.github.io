@@ -54,11 +54,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Thus, as was also the case in the earlier study of fixed stars, Kepler's belief that Tycho's observations could be trusted to better than two minutes is amply confirmed.
 * Tycho is perhaps best known today for his theory of the solar system which is based on a stationary Earth round which the Moon and Sun revolve.
 * The other planets, according to Tycho's theory, revolve round the Sun.
-* In fact in his younger days Tycho had been convinced by Copernicus's Sun centred model but his firm belief that theory must be supported by experimental evidence led him away.
+* In his younger days Tycho had been convinced by Copernicus's Sun centred model but his firm belief that theory must be supported by experimental evidence led him away.
 * The problem was, of course, that in the Sun centred model of Copernicus a parallax shift should be observed but despite his attempts to measure such a shift, Tycho could detect none.
 * We know today that it is the second of these which is true, and that the scale is such that Tycho would have had no hope in measuring parallax with his instruments.
 * Despite the quality of Tycho's measurements, this value in about 100 times smaller that Tycho's observational errors.
-* In fact Tycho was not the first to propose the Earth centred model with the planets rotating round the Sun for Erasmus Reinhold had done so a few years earlier.
+* Tycho was not the first to propose the Earth centred model with the planets rotating round the Sun for Erasmus Reinhold had done so a few years earlier.
 * He had two sons; Tycho, born in 1581, and Georg in 1583.
 * Tycho, however, presented a patent which gave Uraniborg something like university status, and the director something like the status of the head of a university.
 * It also stated that succession to the headship would give preference to "Tycho Brahe's own".

@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1943 Bing was appointed as an Instructor at the university of Texas.
 * He completed work on his doctoral thesis and was awarded a Ph.D. in 1945.
 * He continued to work as an Instructor at the University of Texas until he was offered the position of Assistant Professor at the University of Wisconsin.
-* In fact he had been invited by Lefschetz to join the Faculty at Princeton but only on the condition that he gave up topology which Lefschetz at this time seemed to consider as having little future.
+* He had been invited by Lefschetz to join the Faculty at Princeton but only on the condition that he gave up topology which Lefschetz at this time seemed to consider as having little future.
 * Bing declined preferring the offer from Wisconsin.
 * He took leave of absence in 1949-50 and spent the year visiting the University of Virginia.
 * At Wisconsin Bing was promoted to Associate Professor and then full Professor.

@@ -35,7 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Winston was a participant.
 * This two-week Colloquium, attended by 24 mathematicians including Winston, was arranged to allow Klein to deliver a course of 12 lectures, one on each day.
 * Winston, encouraged by Bolza and Maschke, was keen to study abroad.
-* In fact Maschke wrote to Klein in April 1893, before his trip to the United States, telling him about Winston's wish to study in Germany.
+* Maschke wrote to Klein in April 1893, before his trip to the United States, telling him about Winston's wish to study in Germany.
 * He decided that it was, but Winston required financial support to be able to study for a doctorate in Germany so she applied to the Association of Collegiate Alumnae (now called the American Association of University Women).
 * Christine Ladd-Franklin had proposed that this organisation establish a European Fellowship in 1888 and, when the Association of Collegiate Alumnae decided not to support Winston, Christine Ladd-Franklin wrote to her offering a grant of $500 to study abroad.
 * Although she did not know whether Göttingen would accept her, Winston travelled to Germany for the beginning of the 1893-94 academic year.

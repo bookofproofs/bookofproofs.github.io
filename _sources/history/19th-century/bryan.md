@@ -48,12 +48,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The British Association held their 1896 meeting in Liverpool and Bryan, now showing his theoretical interest in flight, presented the paper On the Sailing Flight of Birds.
 * It looks at this stage as though Bryan was handling the extremely heavy load that he had chosen to put on himself.
 * All teaching and examining mathematics was Bryan's responsibility with only one assistant to help him.
-* having been cocooned at Cambridge for so long, Bryan had no notion of how to go about organising work in a small - very small - department.
 * When the committee duly reported in early 1899, Bryan was discomfited to learn that while blame was indeed attributed to his assistant, his own leadership was found wanting.
 * Bryan suffered a nervous breakdown and withdrew to Cambridge for the Summer Term of 1899.
 * Also Bryan does not appear to have been the sort to try to avoid confrontation and did not mince his words when handing out criticism.
 * In 1899 Bryan received a major honour when he awarded the Gauss Medal of the German Mathematical Society.
-* In fact Sommerfeld visited Bryan in Bangor in September 1899 to make the invitation in person.
+* Sommerfeld visited Bryan in Bangor in September 1899 to make the invitation in person.
 * Bryan wrote the 90-page article Allgemeine Grundlegung der Thermodynamik Ⓣ(General foundation of thermodynamics ) which was published in the 1st part of the 5th volume of the Encyclopaedia in 1903.
 * Bryan became President of the Mathematical Association in 1907 and he set up the local branch of the Association in North Wales.
 * In 1907 Bryan published the book Thermodynamics.

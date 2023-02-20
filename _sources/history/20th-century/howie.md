@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In view of this, it was not surprising that John found himself steered into semigroup theory and he wrote his D.Phil.
 * Howie was awarded his D.Phil.
 * John and Dorothy had met while both were undergraduates in Aberdeen through both being squash players.
-* from the University of Oxford, Howie returned to Scotland where he was appointed as an Assistant in Mathematics at the University of Glasgow.
+* From the University of Oxford, Howie returned to Scotland where he was appointed as an Assistant in Mathematics at the University of Glasgow.
 * After two years in this temporary position, Howie was appointed to a permanent Lectureship in Mathematics at the University of Glasgow in 1963.
 * The University of Stirling was a new university which opened in 1967 and Howie, as a founder member of the university staff, made a significant contribution to the early years.
 * John Howie was appointed and, after appointing John O'Connor as a lecturer, took up his duties in October 1970.

@@ -37,7 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There were really two reasons why, from his second year on, Knuth started to move towards mathematics and away from physics.
 * One day when Knuth was meant to be performing with the College band he missed the bus taking the band to the performance so, finding himself with free time, he tried to solve a challenge problem that one of his mathematics professors had set.
 * Solving it earned Knuth an automatic "A" in that class and also the right sort of boost he needed to think that perhaps mathematics rather than physics was for him.
-* In fact Knuth already had his first encounter with computers in his first year at Case before he made the move towards mathematics.
+* Knuth already had his first encounter with computers in his first year at Case before he made the move towards mathematics.
 * Knuth used his growing expertise at writing computer programs to produce one in 1958 to analyse the performance of the College basketball team.
 * It led to some publicity and IBM used a photograph of Knuth in their advertising.
 * Knuth was awarded two Fellowships, a Woodrow Wilson Fellowship and a National Foundation Fellowship in the year of his graduation.
@@ -45,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the first Knuth describes an imaginary number system using the imaginary number 2iii as its base, giving methods for the addition, subtraction and multiplication of the numbers.
 * In the second paper Knuth and his co-authors give two sets of five mutually orthogonal Latin squares of order 12.
 * In the autumn of 1960 Knuth entered the California Institute of Technology and, in June 1963, he was awarded a Ph.D. in mathematics for his thesis Finite semifields and projective planes.
-* In fact in addition to the work for his doctorate in mathematics, Knuth had from 1960 begun to put his very considerable computing expertise to uses other than writing papers becoming a software development consultant to the Burroughs Corporation in Pasadena, California.
+* In addition to the work for his doctorate in mathematics, Knuth had from 1960 begun to put his very considerable computing expertise to uses other than writing papers becoming a software development consultant to the Burroughs Corporation in Pasadena, California.
 * Despite Knuth's remarkable mathematical productivity he did find time for other things.
 * We noted above that the title of Knuth's Ph.D. thesis was Finite semifields and projective planes.
 * After completion of his doctorate in 1963 Knuth became an Assistant Professor of Mathematics at the California Institute of Technology, being promoted to Associate Professor in 1966.

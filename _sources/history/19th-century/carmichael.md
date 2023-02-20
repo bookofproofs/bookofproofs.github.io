@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Based on these papers and his lecture course, Carmichael published a 74-page book The theory of relativity in 1913.
 * Of course this work was on what is now called the special theory of relativity and after Einstein published the general theory of relativity, Carmichael brought out a second edition of his book in 1920.
 * Between the publication of the two editions, Carmichael published two further books: The Theory of Numbers (1914) and Diophantine analysis (1915).
-* In fact the 'proof' Carmichael had of this result appeared in the paper On Euler's φ-function that he published in 1907.
+* The 'proof' Carmichael had of this result appeared in the paper On Euler's φ-function that he published in 1907.
 * Whether the conjecture is true is still an open question, now known as Carmichael's conjecture, despite considerable efforts being made by many mathematicians.
 * In 1915 Carmichael left Indiana University.
 * We have already mentioned several of the outstanding books written by Carmichael.

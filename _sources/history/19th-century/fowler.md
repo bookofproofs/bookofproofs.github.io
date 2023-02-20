@@ -53,7 +53,7 @@ contributors: @Ian-T-Durham,bookofproofs
 * 1926 marked the publication of his most seminal individual paper which linked the gaseous degenerate state (obeying quantum statistics, co-discovered by P A M Dirac, who was introduced to quantum theory by Fowler himself) to white dwarf stars.
 * Fowler's range of interests kept him going throughout the next two decades as he produced papers on spectroscopy, physical chemistry, what is now known as condensed matter physics (or solid state physics), and magnetism in materials.
 * It must be said that Sir Ralph Fowler was a brilliant physicist.
-* In fact, no less than fifteen Fellows of the Royal Society and three Nobel Laureates were supervised by Fowler between 1922 and 1939.
+* No less than fifteen Fellows of the Royal Society and three Nobel Laureates were supervised by Fowler between 1922 and 1939.
 * Those who studied under Fowler had a tremendous admiration for him.
 * It was Fowler who ultimately introduced Paul Dirac to the burgeoning field of quantum theory in 1923 leading Dirac to the forefront of its ultimate discovery in 1925.
 * Fowler also put Dirac and Werner Heisenberg in touch with each other through Niels Bohr.

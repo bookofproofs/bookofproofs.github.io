@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Cândido Gomide had studied engineering in France and then became a mathematics teacher in São Paulo.
 * Elza was educated at home until she was eleven years of age.
-* In fact Elza was born in that house.
+* Elza was born in that house.
 * The Pinheiros river runs through São Paulo and, from age five to twelve, Elza would swim in the river every day and she became a champion swimmer.
 * In 1937 Gomide entered the São Paulo State Gymnasium which was the only state gymnasium at the time, located on Rua do Carmo.
 * Gomide graduated from the school in 1941 and applied to enter the University of São Paulo.

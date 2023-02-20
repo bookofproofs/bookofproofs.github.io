@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Potapov entered Odessa conservatory to study music and for three years he followed the course.
 * At Odessa University, Potapov was a student of Livsic and he was also taught by Livsic's teacher Krein.
 * In 1941 Potapov was evacuated from Odessa which is in south-western Ukraine on the Black Sea coast.
-* In fact they prohibited the use of any subject connected with Potapov's investigations as a theme for a diploma.
+* They prohibited the use of any subject connected with Potapov's investigations as a theme for a diploma.
 * In 1948 Potapov was invited to the Pedagogical Institute at Odessa.
 * During the 1950s Potapov worked on the theory of J-contractive matrix functions and the analysis of matrix functions became his main work.
 * From 1974 Potapov lectured at Odessa Institute of National Economy, then he went to Kharkov to head the Department of Applied Mathematics at the Institute for low temperature physics.

@@ -33,7 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Hogben's first year at Cambridge the seemingly inevitable path towards a war was clear.
 * Hogben was saddened to see his Methodist contemporaries enthusiastically joining the Officers Training Corps and a student friend suggested he might like to join the Quakers.
 * Hogben, however, saw that the Military Service Act changed things - he had undertaken this war work voluntarily but if he continued he would be doing it to avoid conscription.
-* Let us note that C A M Hogben became a medic and served as Professor and Executive Officer in Physiology at George Washington University in Washington D.C. and then as Professor and Head of the Physiology and Biophysics Department in the University of Iowa.
+* C A M Hogben became a medic and served as Professor and Executive Officer in Physiology at George Washington University in Washington D.C. and then as Professor and Head of the Physiology and Biophysics Department in the University of Iowa.
 * At this time, Hogben was living in a cottage near Amersham and commuted by train every day.
 * While on the train he did the mathematical homework set by Hyman Levy and, as was always the case with Hogben, made his own studies of the subject.
 * In 1922 Hogben moved to Edinburgh, taking up the position of Deputy Director of the Animal Breeding Research Laboratory.

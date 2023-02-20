@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Anosov discovered a fundamental fact concerning the ergodic theory of smooth dynamical systems, namely the absolute continuity of transversal foliations.
 * In 1968 Anosov became a professor in the Department of Mechanics and Mathematics at Moscow State University where he taught for the rest of his career.
 * In the 1970s Anosov published papers such as Existence of smooth ergodic flows on smooth manifolds (Russian) (1974) and was an invited speaker at the International Congress of Mathematicians at Vancouver in 1974 when he gave the lecture Geodesics and Finsler geometry.
-* Let us note that, in addition to his work on the analysis of manifolds, Anosov has written many historical and biographical articles.
+* In addition to his work on the analysis of manifolds, Anosov has written many historical and biographical articles.
 * Anosov has received many honours for his achievements.
 
 Born 30 November 1936, Moscow, Russia. Died 7 August 2014, Moscow, Russia.

@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Zygalski was appointed to teach at the Polish University College from the time it was set up.
 * Zygalski, however, was one of the eight.
 * Zygalski was at last was on the staff of a university but, sadly, his time as a university teacher was short for he suffered a stroke in 1968.
-* In fact those at Battersea Polytechnic and the University of Surrey were never aware of Zygalski's role in the war.
+* Those at Battersea Polytechnic and the University of Surrey were never aware of Zygalski's role in the war.
 
 Born 15 July 1908, Posen, German Empire (now Poznań, Poland). Died 30 August 1978, Liss, Hampshire, England.
 

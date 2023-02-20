@@ -25,7 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Heinrich attended school in Mulhouse, receiving a reasonably good education up to the age of twelve, studying French and Latin in addition to elementary subjects.
 * Most young boys would have ended their education at that point, but not young Heinrich who continued to study in his own spare time.
-* In fact it was a natural occupation for Heinrich since he had acquired great skill in calligraphy and he was given a job at the ironworks at Seppois, which was south of Mulhouse and almost due west of Basel.
+* It was a natural occupation for Heinrich since he had acquired great skill in calligraphy and he was given a job at the ironworks at Seppois, which was south of Mulhouse and almost due west of Basel.
 * When he was seventeen years old Lambert left his position at the ironworks to take up a post as secretary to Johann Rudolf Iselin who was the editor of the Basler Zeitung, a conservative daily paper.
 * This position was ideal for Lambert who could now concentrate even more deeply on his own study of mathematics, astronomy, and philosophy.
 * In 1748, when he was twenty years old, Lambert took up a new position, this time as a tutor in the home of Count Peter von Salis in Chur.
@@ -50,7 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lambert is best known, however, for his work on π.
 * However Lambert was the first to give a rigorous proof that π is irrational.
 * Wallisser shows that Lambert's proof is not only complete but is an outstanding mathematical achievement for its time.
-* In fact it was Pringsheim in 1898 who first noted that Lambert's proof was absolutely correct and exceptional for its time, since the expansion of the tangent function was not only written down formally, but also proved to be a convergent continued fraction.
+* It was Pringsheim in 1898 who first noted that Lambert's proof was absolutely correct and exceptional for its time, since the expansion of the tangent function was not only written down formally, but also proved to be a convergent continued fraction.
 * Also, remarkably, Lambert conjectured in this paper that eee and π are transcendental.
 * Lambert also made the first systematic development of hyperbolic functions.
 * Lambert is also important for his study of the trigonometry of triangles on surfaces, his work on perspective and cartography, as well as his contributions to the theory of probability.

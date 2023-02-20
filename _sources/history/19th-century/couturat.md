@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Couturat published many previously unpublished manuscripts of Leibniz in Opuscules et fragments inédits de Leibniz Ⓣ(Booklets and unpublished fragments of Leibniz) (1903).
 * This work on Leibniz brought Couturat into contact with Russell, who had published A Critical Exposition of the Philosophy of Leibniz (1900).
 * Couturat produced, in 1905, an edition of Russell's Principia Mathematica  with a commentary on contemporary works on the subject.
-* In fact the Couturat-Russell correspondence began in 1897, the first letter being from Couturat to Russell concerning the Russell's An essay in the foundations of geometry.
+* The Couturat-Russell correspondence began in 1897, the first letter being from Couturat to Russell concerning the Russell's An essay in the foundations of geometry.
 * Couturat published a review of this essay of Russell in 1898 and the review, and Russell's reply to it, attracted Poincaré's attention to Russell's work.
 * In 1905 Couturat became Henri-Louis Bergson's assistant at the Collège de France, working on the history of logic during the academic year 1905-06.
 * Following his year at the Collège de France, Couturat took no further employment and devoted himself to his researches.

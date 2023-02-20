@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The fact that his results improved on those of very famous mathematicians gives sufficient assurance of the quality of his thesis, and Landau was amply justified when he labelled its topic "ein wunderschönes Thema." Jackson thus had the rare good fortune to produce, in his first major effort, results which were fundamental for the development of a major field.
 * We should note that Jackson produced this remarkable thesis despite having health problems.
 * Back in the United States, Jackson was appointed as an Instructor in Mathematics at Harvard in 1911 and, five years later, was promoted to Assistant Professor.
-* In fact the offer from Minnesota was a difficult one for Jackson for, on the one hand, it was a major promotion but, on the other hand, he was moving from Harvard with its big graduate school in mathematics to a place with no graduate school in the subject.
+* The offer from Minnesota was a difficult one for Jackson for, on the one hand, it was a major promotion but, on the other hand, he was moving from Harvard with its big graduate school in mathematics to a place with no graduate school in the subject.
 * Jackson published many important papers and rapidly gained an outstanding reputation as an excellent speaker.
 * This theory covers a vast field, and, in his lectures, Professor Jackson chose certain topics in a few corners of this field in which he is personally interested and where he has made valuable contributions.
 * As well as this monograph, Jackson published a student text Fourier Series and Orthogonal Polynomials in 1941 in the Carus Mathematical Monographs of the Mathematical Association of America.
