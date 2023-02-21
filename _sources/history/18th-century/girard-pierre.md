@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another project that Girard and de Prony collaborated on was the Dictionnaire des Ponts et Chaussés Ⓣ(Dictionary of bridges and roads).
 * In 1798 Girard published an important work Traité analytique de la résistance des solides Ⓣ(Analytical treatise on the resistance of solids) on the strength of materials in which he described two machines for compression testing long columns of wood.
 * Girard joined Napoleon expeditionary force, which landed near Alexandria in July 1798, as Assistant Director of the Ponts et Chaussées.
-* When the Mémoires sur l'Egypte Ⓣ(Memoir on Egypt) was published it contained many articles by Girard covering all the areas we have mentioned above.
+* When the "Mémoires sur l'Egypte" Ⓣ(Memoir on Egypt) was published it contained many articles by Girard covering all the areas we have mentioned above.
 * He appointed Girard, always a staunch supporter, as Divisional Inspector of Ponts et Chaussées during the famous Hundred Days.
 * However, when the monarchy was restored after the defeat of Napoleon at Waterloo, Girard was stripped of his rank.
 * Girard gave a full account of the Ourcq canal project in a two volume treatise Mémoires sur le Canal de l'Ourcq et la distribution de ses eaux: sur le dessèchement et l'assainissement de Paris, et les divers canaux navigables Ⓣ(Memoir on the Ourcq Canal and the distribution of its waters: the drainage and sanitation of Paris, and the various navigable canals) (1831-1840).

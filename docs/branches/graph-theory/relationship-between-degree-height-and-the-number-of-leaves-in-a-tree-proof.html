@@ -57,28 +57,20 @@
 </ul>
 </li>
 <li>Induction step $h\to h+1$<ul>
-<li>Assume, for all trees $T^\prime$ with heights $h^\prime\le h$ we have the inequalities<ul>
-<li>$l^\prime\le d^{h^\prime}$</li>
-<li>$|V|\le 2\cdot d^{h^\prime}$</li>
-<li>$h^\prime\ge\log_d({l^\prime}).$</li>
-</ul>
-</li>
+<li>Assume, for all trees $T^\prime$ with heights $h^\prime\le h$ we have the inequalities
+    * $l^\prime\le d^{h^\prime}$
+    * $|V|\le 2\cdot d^{h^\prime}$
+    * $h^\prime\ge\log_d({l^\prime}).$</li>
 <li>Let $T(V,E)$ be a tree of height $h+1$.</li>
-<li>We prove $l+1\le d^{h+1}$:<ul>
-<li>Note that the <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leaves</a> at the altitude $h+1$ of a tree $T$ have leaves of $T^\prime$ as their predecessors.</li>
-<li>Since $T$ is of degree $d,$ each leaf of $T^\prime$ can have at most $d$ new successors (leaves) in $T.$</li>
-<li>It follows $l+1\le d\cdot d^{h}=d^{h+1}.$</li>
-</ul>
-</li>
-<li>We prove $|V|\le 2\cdot d^{h+1}$<ul>
-<li>We have just shown that at most $d^{h+1}$ new vertices in $T$ can be added at the altitude $h+1$.</li>
-<li>The overall number of <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">vertices</a> in $T$ can be, therefore, estimated as $|V|\le 2d^h+d^{h+1}\le d^{h+1}+d^{h+1}=2d^{h+1}.$</li>
-</ul>
-</li>
-<li>We prove $h+1\ge\log_d({l+1})$:<ul>
-<li>Since $l+1\le d^{h+1}$, it follows $\log_d(l+1)\le h+1$<div class='qed'>&#8718;</div></li>
-</ul>
-</li>
+<li>We prove $l+1\le d^{h+1}$:
+    * Note that the <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leaves</a> at the altitude $h+1$ of a tree $T$ have leaves of $T^\prime$ as their predecessors.
+    * Since $T$ is of degree $d,$ each leaf of $T^\prime$ can have at most $d$ new successors (leaves) in $T.$
+    * It follows $l+1\le d\cdot d^{h}=d^{h+1}.$</li>
+<li>We prove $|V|\le 2\cdot d^{h+1}$
+    * We have just shown that at most $d^{h+1}$ new vertices in $T$ can be added at the altitude $h+1$.
+    * The overall number of <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">vertices</a> in $T$ can be, therefore, estimated as $|V|\le 2d^h+d^{h+1}\le d^{h+1}+d^{h+1}=2d^{h+1}.$</li>
+<li>We prove $h+1\ge\log_d({l+1})$:
+    * Since $l+1\le d^{h+1}$, it follows $\log_d(l+1)\le h+1$<div class='qed'>&#8718;</div></li>
 </ul>
 </li>
 </ul>

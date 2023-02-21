@@ -55,43 +55,43 @@
 <p>def getSubgraph(graph, vertexIDs):
     '''
     Creates a subgraph of graph spanned by the vertices with IDs listed in vertexIDs</p>
-<pre><code> IN: graph=Graph object, vertexIDs=list of vertex IDs (integers)
- OUT: proper subgraph of graph consisting of vertices (new copy Objects will be returned)
- if verticesIDs is not a proper subset of graph.getVertexIDs(), then additional vertices will be added to the subgraph.
- '''
+<pre><code>  IN: graph=Graph object, vertexIDs=list of vertex IDs (integers)
+  OUT: proper subgraph of graph consisting of vertices (new copy Objects will be returned)
+  if verticesIDs is not a proper subset of graph.getVertexIDs(), then additional vertices will be added to the subgraph.
+  '''
 
- if not (type(graph) is Graph):
-     raise TypeError("g must be a Graph object")
- if not (type(vertexIDs) is list):
-     raise TypeError("vertexIDs must be a list of vertex IDs (integers)")
+  if not (type(graph) is Graph):
+      raise TypeError("g must be a Graph object")
+  if not (type(vertexIDs) is list):
+      raise TypeError("vertexIDs must be a list of vertex IDs (integers)")
 
- # the subgraph will gain the same properties as the supergraph
- subgraph = Graph(graph.isDirected, graph.isSimple, graph.raisesErrors)
+  # the subgraph will gain the same properties as the supergraph
+  subgraph = Graph(graph.isDirected, graph.isSimple, graph.raisesErrors)
 
- # add all vertices to subgraph
- graphvertexIDs = graph.listVertexIDs()
- for vID in vertexIDs:
-     vertex = subgraph.addVertexByID(vID)
-     if vID in graphvertexIDs:
-         # iv vID exists in original graph, copy the properties of the vertex from graph into the subgraph
-         vertex.setProperties(graph.getVertexByID(vID).getProperties())
+  # add all vertices to subgraph
+  graphvertexIDs = graph.listVertexIDs()
+  for vID in vertexIDs:
+      vertex = subgraph.addVertexByID(vID)
+      if vID in graphvertexIDs:
+          # iv vID exists in original graph, copy the properties of the vertex from graph into the subgraph
+          vertex.setProperties(graph.getVertexByID(vID).getProperties())
 
- # create edges of subgraph according to the existing edges in graph
- for vID in vertexIDs:
-     currentVertex = subgraph.getVertexByID(vID)
-     # check if vID is a vertex of graph
-     if vID in graphvertexIDs:
-         # if yes, take the list of all neighbours in graph
-         neighbours = graph.getVertices()[vID].getNeighbours()
-         for n in neighbours:
-             # and also check for each neighbour, if it is in the list of vertexIDs of subgraph
-             if n.getNeighboursVertexID() in vertexIDs:
-                 # if so, create edge in subgraph between vertex vID and neighbour, according to its multiplicitity in graph
-                 neighbour = currentVertex.addNeighbour(subgraph.getVertexByID(n.getNeighboursVertexID()), graph.isSimple, graph.raisesErrors)
-                 # and correct its multiplicity
-                 neighbour.setMultiplicity(n.getMultiplicity())
+  # create edges of subgraph according to the existing edges in graph
+  for vID in vertexIDs:
+      currentVertex = subgraph.getVertexByID(vID)
+      # check if vID is a vertex of graph
+      if vID in graphvertexIDs:
+          # if yes, take the list of all neighbours in graph
+          neighbours = graph.getVertices()[vID].getNeighbours()
+          for n in neighbours:
+              # and also check for each neighbour, if it is in the list of vertexIDs of subgraph
+              if n.getNeighboursVertexID() in vertexIDs:
+                  # if so, create edge in subgraph between vertex vID and neighbour, according to its multiplicitity in graph
+                  neighbour = currentVertex.addNeighbour(subgraph.getVertexByID(n.getNeighboursVertexID()), graph.isSimple, graph.raisesErrors)
+                  # and correct its multiplicity
+                  neighbour.setMultiplicity(n.getMultiplicity())
 
- return subgraph
+  return subgraph
 </code></pre>
 <ol>
 <li>usage of getSubgraph() :</li>

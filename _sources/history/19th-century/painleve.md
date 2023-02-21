@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1896 Painlevé taught courses at the Collége de France as a Professeur suppléant and at the École Polytechnique as a Répétiteur d'analyse.
 * Painlevé's first area of interest in mathematics was rational transformations of algebraic curves and surfaces.
 * For his outstanding mathematical work Painlevé received many awards.
-* For his candidacy to the Academy, Painlevé wrote a notice which was published in 1967 as Analyse des travaux scientifiques jusqu'en 1900 Ⓣ(Analysis of scientific work up to 1900).
+* For his candidacy to the Academy, Painlevé wrote a notice which was published in 1967 as "Analyse des travaux scientifiques jusqu'en 1900" Ⓣ(Analysis of scientific work up to 1900).
 * Painlevé was a witness at the second Dreyfus court martial in Rennes.
 * Painlevé would continue to fight for justice for Dreyfus until he was exonerated in 1906.
 * In this drama of which France can remain proud, because each of the two groups that clashed fought selflessly for its belief, because also no other Nation would have allowed the rectification of the error once committed, Painlevé recognised where Justice was, and where from then on was the true interest of the Fatherland, of our Fatherland.

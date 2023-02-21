@@ -52,29 +52,25 @@
 <li>Consider the <a href="https://bookofproofs.github.io/branches/topology/open-sets-in-metric-spaces.html" title="Topology / Definition: Open Sets in Metric Spaces">closed</a> $n$-dimensional cuboid \(Q:=\{(x_1,\ldots,x_n)\in\mathbb R^n:\quad a_\nu \le x_\nu \le b_\nu\}\).</li>
 <li>It has to be shown that \(Q\) is a <a href="https://bookofproofs.github.io/branches/analysis/heine-borel-property-defines-compact-subsets.html" title="Analysis / Definition: Heine-Borel Property Defines Compact Subsets">compact</a> <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of the <a href="https://bookofproofs.github.io/branches/analysis/definition-of-the-metric-space-r-n-euclidean-norm.html" title="Analysis / Proposition: Definition of the Metric Space `\(\mathbb R^n\)`, Euclidean Norm">\(n\)-dimensional metric space of real numbers</a> \(\mathbb R^n\).<ul>
 <li>Take any <a href="https://bookofproofs.github.io/branches/topology/open-cover.html" title="Topology / Definition: Open Cover">open cover</a> of \((U_i)_{i\in I}\) of \(Q\).</li>
-<li>Assume, there is no finite subcover \(U_{i_k}\) of \(Q\).<ul>
-<li>Set \(Q_0:=Q\), and $I_{0,\nu}=[a_\nu,b_\nu]$, where $I_{0,\nu}$ are <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed real intervals</a> for \(\nu=1,\ldots,n\). Note that $Q_0=I_{0,1}\times\ldots\times I_{0,n}$.</li>
-<li>Bisect $I_{0,\nu}$ by setting $$I_{1,\nu}^L=\left[a_\nu,\frac {b_\nu-a_\nu}2\right],\quad I_{1,\nu}^R=\left[\frac {b_\nu-a_\nu}2, b_\nu,\right],$$ such that $I_{0,\nu}=I_{1,\nu}^L\cup I_{1,\nu}^R$, for \(\nu=1,\ldots,n\).</li>
-<li>From the bisected intervals, we can construct $2^n$ new cuboids $$Q_1^{(s_1,s_2,\ldots,s_n)}=I_{1,1}^{s_1}\times\ldots\times I_{1,n}^{s_n},\quad\quad ( * )$$ such that $s_\nu$ assumes the values \(L\) for $I_{1,\nu}^L$ or $R$ for $I_{1,\nu}^R$, and \(\nu=1,\ldots,n\).</li>
-<li>Because, by assumption, \(Q_0\) has no finite subcover, there is at least one cuboid out of the $2^n$ cuboids in $ ( * )$, which has no finite subcover. Let this cuboid be denoted by \(Q_1\).</li>
-<li>Please note that $$\operatorname{diam}(Q_1)=\frac 12\operatorname{diam}(Q_0),$$ i.e. the <a href="https://bookofproofs.github.io/branches/topology/diameter-in-metric-spaces.html" title="Topology / Definition: Diameter In Metric Spaces">diameter</a> of \(Q_1\) is half the diameter of \(Q_0\).</li>
-<li>We can repeat this construction by finding even smaller cuboids, \(Q_2,Q_3,\ldots\) such that for \(m\ge 1\) they have the following two properties:<ul>
-<li>$Q_m$ has no finite subcover, </li>
-<li>$\operatorname{diam}(Q_m)=\frac 12\operatorname{diam}(Q_{m-1})=\frac 1{2^{m}}\operatorname{diam}(Q_{0})$, and</li>
-<li>$Q_{m-1}\supset Q_m$.</li>
-</ul>
-</li>
-<li>According to the <a href="https://bookofproofs.github.io/branches/analysis/nested-closed-subset-theorem.html" title="Analysis / Theorem: Nested Closed Subset Theorem">nested closed subset theorem</a>, there is a point \(a\) with \(a\in Q_{m}\) for all \(m\in\mathbb N\).</li>
-<li>Since \((U_i)_{i\in I}\)  is an  <a href="https://bookofproofs.github.io/branches/topology/open-cover.html" title="Topology / Definition: Open Cover">open cover</a> of of \(Q\), there is an index \(i_a\in I\) such that \(a\in U_{i_a}\). </li>
-<li>Because $U_{i_a}$ is <a href="https://bookofproofs.github.io/branches/topology/open-sets-in-metric-spaces.html" title="Topology / Definition: Open Sets in Metric Spaces">open</a>, it is a <a href="https://bookofproofs.github.io/branches/topology/open-ball-neighborhood.html" title="Topology / Definition: Open Ball, Neighborhood">neighborhood</a> of \(a\).</li>
-<li>Therefore there is an \(\epsilon &gt; 0\) such that the <a href="https://bookofproofs.github.io/branches/topology/open-ball-neighborhood.html" title="Topology / Definition: Open Ball, Neighborhood">open ball</a> \(B(a,\epsilon)\) is contained in $U_{i_a}$.</li>
-<li>Take \(m\) big enough, such that $\operatorname{diam}Q_m &lt; \epsilon$.</li>
-<li>Because $a\in Q_m$, we have the inclusion chain
-$$Q_m\subset B(a,\epsilon)\subset U_{i_a}.$$</li>
-<li>This <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradicts</a> that $Q_m$ has no finite subcover.</li>
-<li>This contradicts, that $Q$ has no finite subcover.</li>
-</ul>
-</li>
+<li>Assume, there is no finite subcover \(U_{i_k}\) of \(Q\).
+    * Set \(Q_0:=Q\), and $I_{0,\nu}=[a_\nu,b_\nu]$, where $I_{0,\nu}$ are <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed real intervals</a> for \(\nu=1,\ldots,n\). Note that $Q_0=I_{0,1}\times\ldots\times I_{0,n}$.
+    * Bisect $I_{0,\nu}$ by setting $$I_{1,\nu}^L=\left[a_\nu,\frac {b_\nu-a_\nu}2\right],\quad I_{1,\nu}^R=\left[\frac {b_\nu-a_\nu}2, b_\nu,\right],$$ such that $I_{0,\nu}=I_{1,\nu}^L\cup I_{1,\nu}^R$, for \(\nu=1,\ldots,n\).
+    * From the bisected intervals, we can construct $2^n$ new cuboids $$Q_1^{(s_1,s_2,\ldots,s_n)}=I_{1,1}^{s_1}\times\ldots\times I_{1,n}^{s_n},\quad\quad ( * )$$ such that $s_\nu$ assumes the values \(L\) for $I_{1,\nu}^L$ or $R$ for $I_{1,\nu}^R$, and \(\nu=1,\ldots,n\).
+    * Because, by assumption, \(Q_0\) has no finite subcover, there is at least one cuboid out of the $2^n$ cuboids in $ ( * )$, which has no finite subcover. Let this cuboid be denoted by \(Q_1\).
+    * Please note that $$\operatorname{diam}(Q_1)=\frac 12\operatorname{diam}(Q_0),$$ i.e. the <a href="https://bookofproofs.github.io/branches/topology/diameter-in-metric-spaces.html" title="Topology / Definition: Diameter In Metric Spaces">diameter</a> of \(Q_1\) is half the diameter of \(Q_0\).
+    * We can repeat this construction by finding even smaller cuboids, \(Q_2,Q_3,\ldots\) such that for \(m\ge 1\) they have the following two properties:
+       * $Q_m$ has no finite subcover, 
+       * $\operatorname{diam}(Q_m)=\frac 12\operatorname{diam}(Q_{m-1})=\frac 1{2^{m}}\operatorname{diam}(Q_{0})$, and
+       * $Q_{m-1}\supset Q_m$.
+    * According to the <a href="https://bookofproofs.github.io/branches/analysis/nested-closed-subset-theorem.html" title="Analysis / Theorem: Nested Closed Subset Theorem">nested closed subset theorem</a>, there is a point \(a\) with \(a\in Q_{m}\) for all \(m\in\mathbb N\).
+    * Since \((U_i)_{i\in I}\)  is an  <a href="https://bookofproofs.github.io/branches/topology/open-cover.html" title="Topology / Definition: Open Cover">open cover</a> of of \(Q\), there is an index \(i_a\in I\) such that \(a\in U_{i_a}\). 
+    * Because $U_{i_a}$ is <a href="https://bookofproofs.github.io/branches/topology/open-sets-in-metric-spaces.html" title="Topology / Definition: Open Sets in Metric Spaces">open</a>, it is a <a href="https://bookofproofs.github.io/branches/topology/open-ball-neighborhood.html" title="Topology / Definition: Open Ball, Neighborhood">neighborhood</a> of \(a\).
+    * Therefore there is an \(\epsilon &gt; 0\) such that the <a href="https://bookofproofs.github.io/branches/topology/open-ball-neighborhood.html" title="Topology / Definition: Open Ball, Neighborhood">open ball</a> \(B(a,\epsilon)\) is contained in $U_{i_a}$.
+    * Take \(m\) big enough, such that $\operatorname{diam}Q_m &lt; \epsilon$.
+    * Because $a\in Q_m$, we have the inclusion chain
+$$Q_m\subset B(a,\epsilon)\subset U_{i_a}.$$
+    * This <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradicts</a> that $Q_m$ has no finite subcover.
+    * This contradicts, that $Q$ has no finite subcover.</li>
 <li>Thus, $Q$ has a finite subcover for any given <a href="https://bookofproofs.github.io/branches/topology/open-cover.html" title="Topology / Definition: Open Cover">open cover</a> of \((U_i)_{i\in I}\) of \(Q\).</li>
 <li>Thus, \(Q\) is a <a href="https://bookofproofs.github.io/branches/analysis/heine-borel-property-defines-compact-subsets.html" title="Analysis / Definition: Heine-Borel Property Defines Compact Subsets">compact</a> <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of the <a href="https://bookofproofs.github.io/branches/analysis/definition-of-the-metric-space-r-n-euclidean-norm.html" title="Analysis / Proposition: Definition of the Metric Space `\(\mathbb R^n\)`, Euclidean Norm">\(n\)-dimensional metric space of real numbers</a> \(\mathbb R^n\).<div class='qed'>&#8718;</div></li>
 </ul>

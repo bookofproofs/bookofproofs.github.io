@@ -36,10 +36,10 @@ With respect to this, before you dive deeper into the material to follow, you mi
  
 ### Concepts you will learn in this part of BookofProofs
 
-   * Generalizations of __continuous functions__ and __convergent sequences__ in `$\mathbb R^n$`, including __uniform convergence__ of functions with multiple real-valued variables.
-   * How to determine the length of curves in `$\mathbb R^n$`, using __rectification__ techniques?
-   * What are __partial derivatives__, their applications and how to handle them?
-   * What is a [total derivative][bookofproofs$6215], how it is different from partial derivatives, and what are its applications?
-   * What is the __Taylor formula__ and how to find the __local extrema__ of functions in `$\mathbb R^n$`?
-   * What are __implicite functions__ and their applications?
-   * How to handle __integrals__ depending on many parameters.
+* Generalizations of __continuous functions__ and __convergent sequences__ in `$\mathbb R^n$`, including __uniform convergence__ of functions with multiple real-valued variables.
+* How to determine the length of curves in `$\mathbb R^n$`, using __rectification__ techniques?
+* What are __partial derivatives__, their applications and how to handle them?
+* What is a [total derivative][bookofproofs$6215], how it is different from partial derivatives, and what are its applications?
+* What is the __Taylor formula__ and how to find the __local extrema__ of functions in `$\mathbb R^n$`?
+* What are __implicite functions__ and their applications?
+* How to handle __integrals__ depending on many parameters.

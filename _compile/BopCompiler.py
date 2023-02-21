@@ -283,7 +283,7 @@ class BopCompiler:
         body += bop_source.get_link_references()
 
         content_replaced = content.replace("{{ body }}",
-                                           markdown.markdown(body, tab_length=3,
+                                           markdown.markdown(body, tab_length=2,
                                                              extensions=['pymdownx.magiclink', 'tables', 'footnotes',
                                                                          'def_list']))
         content_replaced = self._make_tables_responsive(content_replaced)

@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After this Fano went to Switzerland where he taught Italian students at an international camp near Lausanne.
 * Fano's work was mainly on projective and algebraic geometry.
 * Fano was a pioneer in finite geometry and one of the first people to try to set geometry on an abstract footing.
-* Fano wrote many textbooks, examples of which are his famous geometry texts Lezioni di geometria descrittiva Ⓣ(Lessons on descriptive geometry) (1914) and Lezioni di geometria analitica e proiettiva Ⓣ(Lessons on analytical and projective geometry) (1930).
+* Fano wrote many textbooks, examples of which are his famous geometry texts "Lezioni di geometria descrittiva" Ⓣ(Lessons on descriptive geometry) (1914) and "Lezioni di geometria analitica e proiettiva" Ⓣ(Lessons on analytical and projective geometry) (1930).
 
 Born 5 January 1871, Mantua, Italy. Died 8 November 1952, Verona, Italy.
 

@@ -29,10 +29,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Göttingen, Bachmann became close friends with Dedekind who had only a few years earlier been awarded his doctorate under Gauss's supervision.
 * At the University of Göttingen Bachmann attended courses by Wilhelm Weber, Friedrich Woehler, Hermann Lotze, Bernhard Riemann and Richard Dedekind.
 * Bachmann returned to Berlin where he received a doctorate in 1862 for a thesis on group theory under Eduard Kummer's supervision.
-* His dissertation De substitutionum theoria meditationes quaedam Ⓣ(On substitution theory of any the kind) was examined by E Fischer, F Bachmann and J Teichert on 24 March 1862.
+* His dissertation "De substitutionum theoria meditationes quaedam" Ⓣ(On substitution theory of any the kind) was examined by E Fischer, F Bachmann and J Teichert on 24 March 1862.
 * From Berlin, Bachmann went to Breslau to study for his habilitation.
 * Freed from administrative tasks, Bachmann was able to carry out his plans for major publications that he had been thinking about for a long time.
-* Bachmann followed this by: Volume 2, Die analytische Zahlentheorie Ⓣ(Analytic number theory) (1894); Volume 3, Die Lehre von der Kreisteilung und ihr Beziehungen zur Zahlentheorie Ⓣ(The theory of cyclotomic polynomials and their relations with the number theory) (1872); Volume 4, Die Arithmetik der quadratischen Formen Ⓣ(The arithmetic of quadratic forms) (Part 1, 1898, Part 2, 1923); and Volume 5, Allgemeine Arithmetik der Zahlkörper Ⓣ(General arithmetic of number fields) (1905).
+* Bachmann followed this by: Volume 2, "Die analytische Zahlentheorie" Ⓣ(Analytic number theory) (1894); Volume 3, "Die Lehre von der Kreisteilung und ihr Beziehungen zur Zahlentheorie" Ⓣ(The theory of cyclotomic polynomials and their relations with the number theory) (1872); Volume 4, "Die Arithmetik der quadratischen Formen" Ⓣ(The arithmetic of quadratic forms) (Part 1, 1898, Part 2, 1923); and Volume 5, "Allgemeine Arithmetik der Zahlkörper" Ⓣ(General arithmetic of number fields) (1905).
 * Bachmann has fully maintained his reputation as to clearness, thoroughness, and exhaustiveness.
 * Bachmann surveyed the attempts that had been made over nearly 300 years attempting to give a positive or a negative solution to Fermat's Last Theorem in Das Fermatproblem in Seiner Bisherigen Entwicklung (1919).
 * The exposition is unusually detailed, and Bachmann spares no pains to make clear his reasons for attacking various arithmetical problems in the way he does.

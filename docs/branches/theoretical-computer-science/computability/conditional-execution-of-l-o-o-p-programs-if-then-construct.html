@@ -52,71 +52,71 @@
     r_i = 0
     r_m = 0
     r_n = 0</p>
-<pre><code> def set_rm_to_0(self):
-     # set r_m=0 with loop r_m do
-     while True:
-         if self.r_m &amp;gt; 0:
-             self.r_m = self.r_m - 1 #  LOOP register m
-             self.NOP() #  DO nothing
-         else:
-             break
+<pre><code>  def set_rm_to_0(self):
+      # set r_m=0 with loop r_m do
+      while True:
+          if self.r_m &amp;gt; 0:
+              self.r_m = self.r_m - 1 #  LOOP register m
+              self.NOP() #  DO nothing
+          else:
+              break
 
- def NOP(self):
-     self.r_i = self.r_i + 1 #  LOOP register i
-     self.r_i = self.r_i - 1  # LOOP register i
-
-
- def set_rm_to_1(self):
-     self.set_rm_to_0()
-     # set register m to 1 by incrementing it once
-     self.r_m = self.r_m + 1
-
- def set_rn_to_1(self):
-     # set r_n=0 with loop r_n do
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.NOP() #  DO nothing
-         else:
-             break
-     # set register m to 1 by incrementing it once
-     self.r_n = self.r_n + 1
-
- def set_ri_minus_rn(self):
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             if self.r_i &amp;gt; 0:
-                 self.r_i = self.r_i - 1  # DO decrement register i
-         else:
-             break
-
- def LOOP_ri_DO_set_rm_to_1(self):
-     while True:
-         if self.r_i &amp;gt; 0:
-             self.r_i = self.r_i - 1 #  LOOP register i
-             # DO set rm to 1
-             self.set_rm_to_1()
-         else:
-             break
-
- def LOOP_rm_DO_P1(self):
-     while True:
-         if self.r_m &amp;gt; 0:
-             self.r_m = self.r_m - 1  # LOOP register m
-             self.P1()
-         else:
-             break
+  def NOP(self):
+      self.r_i = self.r_i + 1 #  LOOP register i
+      self.r_i = self.r_i - 1  # LOOP register i
 
 
- def P1(self):
-     print("executing P1")
+  def set_rm_to_1(self):
+      self.set_rm_to_0()
+      # set register m to 1 by incrementing it once
+      self.r_m = self.r_m + 1
 
- def IF_ri_greter_c_THEN_P1_END(self):
-     self.set_ri_minus_rn()
-     self.set_rm_to_0()
-     self.LOOP_ri_DO_set_rm_to_1()
-     self.LOOP_rm_DO_P1()
+  def set_rn_to_1(self):
+      # set r_n=0 with loop r_n do
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.NOP() #  DO nothing
+          else:
+              break
+      # set register m to 1 by incrementing it once
+      self.r_n = self.r_n + 1
+
+  def set_ri_minus_rn(self):
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              if self.r_i &amp;gt; 0:
+                  self.r_i = self.r_i - 1  # DO decrement register i
+          else:
+              break
+
+  def LOOP_ri_DO_set_rm_to_1(self):
+      while True:
+          if self.r_i &amp;gt; 0:
+              self.r_i = self.r_i - 1 #  LOOP register i
+              # DO set rm to 1
+              self.set_rm_to_1()
+          else:
+              break
+
+  def LOOP_rm_DO_P1(self):
+      while True:
+          if self.r_m &amp;gt; 0:
+              self.r_m = self.r_m - 1  # LOOP register m
+              self.P1()
+          else:
+              break
+
+
+  def P1(self):
+      print("executing P1")
+
+  def IF_ri_greter_c_THEN_P1_END(self):
+      self.set_ri_minus_rn()
+      self.set_rm_to_0()
+      self.LOOP_ri_DO_set_rm_to_1()
+      self.LOOP_rm_DO_P1()
 </code></pre>
 <ol>
 <li>Usage of simulating an IF r_i==0 THEN P1 ELSE P2 END construct</li>

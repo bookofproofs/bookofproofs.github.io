@@ -54,38 +54,38 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<pre><code> def set_ri_to_0(self):
-     while True:
-         if self.r_i &amp;gt; 0:
-             self.r_i = self.r_i - 1 #  LOOP register i
-             self.NOP()  #  DO nothing
-         else:
-             break
+<pre><code>  def set_ri_to_0(self):
+      while True:
+          if self.r_i &amp;gt; 0:
+              self.r_i = self.r_i - 1 #  LOOP register i
+              self.NOP()  #  DO nothing
+          else:
+              break
 
- def LOOP_rj_DO_increment_r_i(self):
-     while True:
-         if self.r_j &amp;gt; 0:
-             self.r_j = self.r_j - 1 #  LOOP register j
-             self.r_i = self.r_i + 1 #  DO increment register i
-         else:
-             break
+  def LOOP_rj_DO_increment_r_i(self):
+      while True:
+          if self.r_j &amp;gt; 0:
+              self.r_j = self.r_j - 1 #  LOOP register j
+              self.r_i = self.r_i + 1 #  DO increment register i
+          else:
+              break
 
- def LOOP_rn_DO_increment_ri(self):
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.r_i = self.r_i + 1 #  DO increment register i
-         else:
-             break
+  def LOOP_rn_DO_increment_ri(self):
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.r_i = self.r_i + 1 #  DO increment register i
+          else:
+              break
 
- def add_rn_rj_and_store_result_to_ri(self):
-     self.set_ri_to_0()
-     self.LOOP_rj_DO_increment_r_i()
-     self.LOOP_rn_DO_increment_ri()
+  def add_rn_rj_and_store_result_to_ri(self):
+      self.set_ri_to_0()
+      self.LOOP_rj_DO_increment_r_i()
+      self.LOOP_rn_DO_increment_ri()
 
- def NOP(self):
-     self.r_i = self.r_i + 1 #  LOOP register i
-     self.r_i = self.r_i - 1  # LOOP register i
+  def NOP(self):
+      self.r_i = self.r_i + 1 #  LOOP register i
+      self.r_i = self.r_i - 1  # LOOP register i
 </code></pre>
 <ol>
 <li>Usage for adding the r_i = r_j + r_n</li>

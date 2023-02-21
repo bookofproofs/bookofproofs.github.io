@@ -99,17 +99,13 @@
 <ul>
 <li>Let $G$ be minimally connected.</li>
 <li>We prove first the inequality $|E|\le |V|-1$ <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on $n=|V|.$<ul>
-<li>Base cases $n=1$<ul>
-<li>The inequality is correct since $G$ is minimally connected, there are $0$ edges in $G,$ and $0\le 1-1.$</li>
-</ul>
-</li>
-<li>Induction step $n\to n+1$<ul>
-<li>Assume, for all trees with $k$ vertices, $1 \le k  &lt; n,$ we have $|E|\le |V|-1.$ </li>
-<li>$(4)$ shows that removing any edge $e$ disconnects $G$ in some <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">components</a> $G_1,\ldots G_p.$</li>
-<li>By induction assumption $|E_i|\le |V_i|-1$ for all $i=1,\ldots,p.$</li>
-<li>Because $G_1,\ldots G_p$ are a <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">partition</a>, we can sum up all $p$ inequalities to get $|E|\le |V|-p\le |V|-1.$</li>
-</ul>
-</li>
+<li>Base cases $n=1$
+    * The inequality is correct since $G$ is minimally connected, there are $0$ edges in $G,$ and $0\le 1-1.$</li>
+<li>Induction step $n\to n+1$
+    * Assume, for all trees with $k$ vertices, $1 \le k  &lt; n,$ we have $|E|\le |V|-1.$ 
+    * $(4)$ shows that removing any edge $e$ disconnects $G$ in some <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">components</a> $G_1,\ldots G_p.$
+    * By induction assumption $|E_i|\le |V_i|-1$ for all $i=1,\ldots,p.$
+    * Because $G_1,\ldots G_p$ are a <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">partition</a>, we can sum up all $p$ inequalities to get $|E|\le |V|-p\le |V|-1.$</li>
 <li>It follows $|E|\le |V|-1$ for all minimally connected graphs $G.$</li>
 </ul>
 </li>

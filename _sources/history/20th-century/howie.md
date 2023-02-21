@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also in 1970, Howie was awarded a D.Sc. by the University of Aberdeen for his thesis Contributions to the algebraic theory of semigroups.
 * Howie, as Head of Pure Mathematics, had a tricky role to play particularly as the number of lecturers in pure mathematics slowly reduced.
 * Amongst his early papers, we might single out two interesting examples which do not fall under the main headings above: his work on idempotent-separating congruences on inverse semigroups and that on epimorphisms and dominions (with John Isbell).
-* Perhaps Howie's most significant contribution to semigroup theory was the outstanding book An introduction to semigroup theory (1976).
+* Perhaps Howie's most significant contribution to semigroup theory was the outstanding book "An introduction to semigroup theory" (1976).
 * It had attempted to provide a comprehensive account of the subject and, although immaculately written, might have been somewhat daunting to a newcomer! John's book was less ambitious in its coverage: moreover, it included recent topics and had a clearly-defined theme (regular semigroups).
 * Perhaps this is the time to look at the other monographs Howie wrote.
 * At a Thanksgiving Service for the Life of John Howie, in Hope Park and Martyr's Parish Church, St Andrews on 5 January 2012, Nik gave an address where he gave a moving account of his weekly sessions in John Howie's office.

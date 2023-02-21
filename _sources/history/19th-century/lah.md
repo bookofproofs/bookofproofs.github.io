@@ -28,7 +28,7 @@ contributors: @Tomaz-Pisanski,bookofproofs
 * Due to his scientific publications Ivo Lah became a correspondent of member of several international institutions from Portugal, Switzerland, Belgium, Italy, Germany and France.
 * Since 1932 when Ivo Lah became in charge of Statistics of Social Security in Slovenia he connected his work with studies at the University of Ljubljana.
 * Ivo Lah worked in practical Demographics and Statistics.
-* His main work is a trilingual book Racunske osnovice zivotnog osiguranja Ⓣ(Basic life insurance calculation) written in Croatian, Russian and French and published in Zagreb in 1947.
+* His main work is a trilingual book "Racunske osnovice zivotnog osiguranja" Ⓣ(Basic life insurance calculation) written in Croatian, Russian and French and published in Zagreb in 1947.
 * Ivo Lah was able to save some copies of the book.
 * Ivo Lah was a prolific writer and he published several hundred newspaper articles.
 * His most important mathematical result, published in 1955, is the so-called "Lah identity" where he shows how the rising powers can be expressed in terms of falling powers.

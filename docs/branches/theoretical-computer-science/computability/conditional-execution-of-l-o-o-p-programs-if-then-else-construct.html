@@ -52,78 +52,78 @@
     r_i = 0
     r_m = 0
     r_n = 0</p>
-<pre><code> def set_r_m_to_1(self):
-     # set r_m=0 with loop r_m do
-     while True:
-         if self.r_m &amp;gt; 0:
-             self.r_m = self.r_m - 1 #  LOOP register n
-             self.NOP() #  DO nothing
-         else:
-             break
-     # set register m to 1 by incrementing it once
-     self.r_m = self.r_m + 1
+<pre><code>  def set_r_m_to_1(self):
+      # set r_m=0 with loop r_m do
+      while True:
+          if self.r_m &amp;gt; 0:
+              self.r_m = self.r_m - 1 #  LOOP register n
+              self.NOP() #  DO nothing
+          else:
+              break
+      # set register m to 1 by incrementing it once
+      self.r_m = self.r_m + 1
 
- def set_r_n_to_1(self):
-     # set r_n=0 with loop r_n do
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.NOP() #  DO nothing
-         else:
-             break
-     # set register n to 1 by incrementing it once
-     self.r_n = self.r_n + 1
+  def set_r_n_to_1(self):
+      # set r_n=0 with loop r_n do
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.NOP() #  DO nothing
+          else:
+              break
+      # set register n to 1 by incrementing it once
+      self.r_n = self.r_n + 1
 
- def LOOP_r_i_DO_decrement_r_n(self):
-     while True:
-         if self.r_i &amp;gt; 0:
-             self.r_i = self.r_i - 1 #  LOOP register i
-             if self.r_n &amp;gt; 0:
-                 self.r_n = self.r_n - 1  # DO decrement register n
-         else:
-             break
+  def LOOP_r_i_DO_decrement_r_n(self):
+      while True:
+          if self.r_i &amp;gt; 0:
+              self.r_i = self.r_i - 1 #  LOOP register i
+              if self.r_n &amp;gt; 0:
+                  self.r_n = self.r_n - 1  # DO decrement register n
+          else:
+              break
 
- def LOOP_r_n_DO_decrement_r_m(self):
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             if self.r_m &amp;gt; 0:
-                 self.r_m = self.r_m - 1  # DO decrement register m
-         else:
-             break
+  def LOOP_r_n_DO_decrement_r_m(self):
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              if self.r_m &amp;gt; 0:
+                  self.r_m = self.r_m - 1  # DO decrement register m
+          else:
+              break
 
- def LOOP_r_n_DO_P1(self):
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             # DO P1 and DO decrement register m
-             self.P1()
-             if self.r_m &amp;gt; 0:
-                 self.r_m = self.r_m - 1
-         else:
-             break
+  def LOOP_r_n_DO_P1(self):
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              # DO P1 and DO decrement register m
+              self.P1()
+              if self.r_m &amp;gt; 0:
+                  self.r_m = self.r_m - 1
+          else:
+              break
 
- def LOOP_r_m_DO_P2(self):
-     while True:
-         if self.r_m &amp;gt; 0:
-             self.r_m = self.r_m - 1  # LOOP register m
-             self.P2()
-         else:
-             break
+  def LOOP_r_m_DO_P2(self):
+      while True:
+          if self.r_m &amp;gt; 0:
+              self.r_m = self.r_m - 1  # LOOP register m
+              self.P2()
+          else:
+              break
 
- def P1(self):
-     print("executing P1")
+  def P1(self):
+      print("executing P1")
 
- def P2(self):
-     print("executing P2")
+  def P2(self):
+      print("executing P2")
 
- def IF_ri_THEN_P1_ELSE_P2_END(self):
-     self.set_r_m_to_1()
-     self.set_r_n_to_1()
-     self.LOOP_r_i_DO_decrement_r_n()
-     self.LOOP_r_n_DO_P1()
-     self.LOOP_r_n_DO_decrement_r_m()
-     self.LOOP_r_m_DO_P2()
+  def IF_ri_THEN_P1_ELSE_P2_END(self):
+      self.set_r_m_to_1()
+      self.set_r_n_to_1()
+      self.LOOP_r_i_DO_decrement_r_n()
+      self.LOOP_r_n_DO_P1()
+      self.LOOP_r_n_DO_decrement_r_m()
+      self.LOOP_r_m_DO_P2()
 </code></pre>
 <ol>
 <li>Usage of simulating an IF r_i==0 THEN P1 ELSE P2 END construct</li>

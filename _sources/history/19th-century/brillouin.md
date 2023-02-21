@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite his outstanding mathematical abilities, it was physics that Brillouin concentrated on, perhaps being influenced by Pierre Auguste Bertin (1818-1884) who was a physicist and Deputy Director of the École.
 * After graduating from the École Normale, Brillouin was a physics assistant to Eleuthère Elie Nicolas Mascart (1837-1908) at the Collège de France while he worked for his doctorate in mathematics and physics which was awarded in 1881.
 * Brillouin's first research publication, published in the Journal de Physique Théorique et Appliquée in 1878, was Liquéfaction des gaz Ⓣ(Gas liquefaction).
-* In 1881, Brillouin also published Du partage des courants instantanés Ⓣ(Sharing instantaneous currents) in which he states he is a "Doctor of Mathematical Sciences." A major publication in 1882, Comparaison des coefficients d'induction Ⓣ(Comparison of induction coefficients), must also be one of two theses he submitted for his doctorate.
+* In 1881, Brillouin also published "Du partage des courants instantanés" Ⓣ(Sharing instantaneous currents) in which he states he is a "Doctor of Mathematical Sciences." A major publication in 1882, Comparaison des coefficients d'induction Ⓣ(Comparison of induction coefficients), must also be one of two theses he submitted for his doctorate.
 * Mascart was the professor whom Brillouin had worked under at the Collège de France and who had supervised his doctoral studies.
 * Léon Brillouin studied at the École Normale Supérieure from 1908 to 1912, then went to the Ludwig Maximilian University of Munich where he studied under Arnold Sommerfeld.
 * The Brillouin zones of solid state physics are named for Léon Brillouin.

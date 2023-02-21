@@ -60,23 +60,17 @@
 <h3>"$\Leftarrow$"</h3>
 <ul>
 <li>Now, assume that $d\mid b.$<ul>
-<li>Case $r=1$: All except one coefficient $a_i$ equal zero, without loss of generality $a_1\neq 0$ i.e. $a_1x_1+0x_2+\ldots+0x_r=b.$<ul>
-<li>Then, obviously, $d=\gcd(a_1,0,\ldots,0)=a_i\mid b$ and we have that the equation is solvable.</li>
-</ul>
-</li>
-<li>Case $r=2$: All except two coefficients $a_i$ equal zero, without loss of generality $a_1\neq 0,a_2\neq 0$ i.e. $a_1x_1+a_2x_2+0x_3+\ldots+0x_r=b.$<ul>
-<li>Note that from the <a href="https://bookofproofs.github.io/branches/number-theory/existence-and-number-of-solutions-of-congruence-with-one-variable.html" title="Number Theory / Proposition: Existence and Number of Solutions of Congruence With One Variable">existence and number of solutions of an LDE with one variable</a>, it follows that the <a href="https://bookofproofs.github.io/branches/number-theory/diophantine-equations-of-congruences.html" title="Number Theory / Proposition: Diophantine Equations of Congruences">linear Diophantine equation of congrences</a> $(a_1x_1)(a_2)\equiv b(a_2)$ is solvable for the module $a_2$ if and only if $\gcd(a_1,a_2)\mid b.$</li>
-<li>With this solution, we can also solve<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> the above equation $a_1x_1+a_2x_2=b.$</li>
-</ul>
-</li>
-<li>Case $r &gt; 2$: <ul>
-<li>Assume, the claim is correct for the cases $2,\ldots,r-1$ (base case). By <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">induction</a>: </li>
-<li>Set $a:=\gcd(a_1,\ldots,a_{r-1}),$ then we have $\gcd(a,a_r)=d$ by definition of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor-of-more-than-two-numbers.html" title="Number Theory / Proposition: Greatest Common Divisor of More Than Two Numbers">greatest common divisor of more than two numbers</a>.</li>
-<li>According to the case $r=2,$ the equation $ax+a_rx_r=b$ is solvable, for some suitable integers $x, x_r.$</li>
-<li>Since $a\mid ax$ we have also that the equation $a_1x_1+\ldots+a_{r-1}x_{r-1}=ax$ is solvable, for some suitable integers $x_1,\ldots,x_{r-1},$ by the base case.</li>
-<li>Therefore, the equation $a_1x_1+\ldots+a_rx_r=b$ is solvable for some suitable integers $x_1,\ldots,x_{r}.$</li>
-</ul>
-</li>
+<li>Case $r=1$: All except one coefficient $a_i$ equal zero, without loss of generality $a_1\neq 0$ i.e. $a_1x_1+0x_2+\ldots+0x_r=b.$
+    * Then, obviously, $d=\gcd(a_1,0,\ldots,0)=a_i\mid b$ and we have that the equation is solvable.</li>
+<li>Case $r=2$: All except two coefficients $a_i$ equal zero, without loss of generality $a_1\neq 0,a_2\neq 0$ i.e. $a_1x_1+a_2x_2+0x_3+\ldots+0x_r=b.$
+    * Note that from the <a href="https://bookofproofs.github.io/branches/number-theory/existence-and-number-of-solutions-of-congruence-with-one-variable.html" title="Number Theory / Proposition: Existence and Number of Solutions of Congruence With One Variable">existence and number of solutions of an LDE with one variable</a>, it follows that the <a href="https://bookofproofs.github.io/branches/number-theory/diophantine-equations-of-congruences.html" title="Number Theory / Proposition: Diophantine Equations of Congruences">linear Diophantine equation of congrences</a> $(a_1x_1)(a_2)\equiv b(a_2)$ is solvable for the module $a_2$ if and only if $\gcd(a_1,a_2)\mid b.$
+    * With this solution, we can also solve<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> the above equation $a_1x_1+a_2x_2=b.$</li>
+<li>Case $r &gt; 2$: 
+    * Assume, the claim is correct for the cases $2,\ldots,r-1$ (base case). By <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">induction</a>: 
+    * Set $a:=\gcd(a_1,\ldots,a_{r-1}),$ then we have $\gcd(a,a_r)=d$ by definition of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor-of-more-than-two-numbers.html" title="Number Theory / Proposition: Greatest Common Divisor of More Than Two Numbers">greatest common divisor of more than two numbers</a>.
+    * According to the case $r=2,$ the equation $ax+a_rx_r=b$ is solvable, for some suitable integers $x, x_r.$
+    * Since $a\mid ax$ we have also that the equation $a_1x_1+\ldots+a_{r-1}x_{r-1}=ax$ is solvable, for some suitable integers $x_1,\ldots,x_{r-1},$ by the base case.
+    * Therefore, the equation $a_1x_1+\ldots+a_rx_r=b$ is solvable for some suitable integers $x_1,\ldots,x_{r}.$</li>
 </ul>
 </li>
 </ul>

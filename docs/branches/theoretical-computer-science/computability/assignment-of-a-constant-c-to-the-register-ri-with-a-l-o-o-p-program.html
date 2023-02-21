@@ -52,24 +52,24 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<pre><code> def set_r_n_to_5(self):
-     # set r_n=0 with loop r_n do
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 # LOOP register n
-             self.NOP() # DO nothing
-         else:
-             break
-     # set register to 5 by incrementing it 5 times
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
+<pre><code>  def set_r_n_to_5(self):
+      # set r_n=0 with loop r_n do
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 # LOOP register n
+              self.NOP() # DO nothing
+          else:
+              break
+      # set register to 5 by incrementing it 5 times
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
 
- def NOP(self):
-     self.r_i = self.r_i + 1 #  LOOP register i
-     self.r_i = self.r_i - 1  # LOOP register i
+  def NOP(self):
+      self.r_i = self.r_i + 1 #  LOOP register i
+      self.r_i = self.r_i - 1  # LOOP register i
 </code></pre>
 <ol>
 <li>Usage for adding the r_i = const</li>

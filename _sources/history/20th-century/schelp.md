@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Schelp** was an American mathematician who researched in graph theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-* Herbert and Ida Schelp adopted Carol and Richard was their only son.
 * Schelp did not follow the standard route to become a university professor doing research in graph theory and combinatorics.
 * His thesis advisor was Richard Joseph Greechie who had obtained his Ph.D. from the University of Florida in 1966 with a thesis on lattice theory.
 * Greechie's thesis advisor had been David J Foulis and Schelp's first paper Coordinatization of orthocomplemented and orthomodular posets (1970), written in collaboration with Stanley P Gudder, generalised Foulis's results that an orthomodular lattice can be coordinatised by a Baer *-semigroup.

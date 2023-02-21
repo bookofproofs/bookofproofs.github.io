@@ -38,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Westminster Hooke learnt Latin and Greek but, although he enjoyed speaking Latin, unlike his contemporaries he never wrote in Latin.
 * He began to study at Oxford at a particularly significant time for Thomas Willis, Seth Ward, Robert Boyle, John Wilkins, John Wallis, Christopher Wren and William Petty were among those who regularly met as the "Oxford branch" of the "invisible college" or the "philosophical college" which had been set up in 1648-49 when some of the scientists meeting in London moved to Oxford.
 * In Oxford Hooke learnt astronomy from Seth Ward and impressed Wilkins with his knowledge of mechanics.
-* Wilkins gave him a copy of his book Mathematical Magick, or the wonders that may be performed by mechanical geometry which he had published five years before Hooke arrived in Oxford.
+* Wilkins gave him a copy of his book "Mathematical Magick", or the wonders that may be performed by mechanical geometry which he had published five years before Hooke arrived in Oxford.
 * This book encouraged Hooke to continue to try to invent a flying machine and he conducted experiments in the grounds of Wadham College with pulleys.
 * For a while Hooke assisted Willis with his dissection experiments.
 * Boyle was looking for an assistant and Willis recommended Hooke to him.
@@ -57,7 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1664 the Society agreed to pay Hooke a salary of £80 per year but shortly after this they arranged the position of Cutlerian Lecturer in the Mechanical Arts for him at a salary of £50 per year and then reduced his salary as Curator of Experiments to £30 but gave him an appointment for life.
 * This did not provide the financial security that Hooke might have hoped for, since the Society often did not have sufficient funds to pay him as Curator of Experiments and when he was not paid for his duties as Cutlerian Lecturer in the Mechanical Arts he was forced to go to court to get payment.
 * The year 1665 was the one when Hooke first achieved worldwide scientific fame.
-* His book Micrographia, published that year, contained beautiful pictures of objects Hooke had studied through a microscope he had made himself.
+* His book "Micrographia", published that year, contained beautiful pictures of objects Hooke had studied through a microscope he had made himself.
 * Hooke invented the conical pendulum and was the first person to build a Gregorian reflecting telescope.
 * In addition to his post as Professor of Geometry at Gresham College, Hooke held the post of City Surveyor.
 * To Hooke the position of surveyor was a financial boon, more than compensating for the uncertainty of his other income.

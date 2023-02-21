@@ -71,7 +71,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He studied a generalisation of Parseval's equality for Fourier series to his general setting showing this to be a fundamental property.
 * In all his list of publications contains 154 items.
 * Steklov has bequeathed to us not only classical works in mathematics and mathematical physics, but also works of some literary merit.
-* These include his book To America and back (1925), based on his impressions of his trip to the United States, as well as his books about Lomonosov and Galileo.
+* These include his book "To America and back" (1925), based on his impressions of his trip to the United States, as well as his books about Lomonosov and Galileo.
 
 Born 9 January 1864, Nizhny Novgorod (was Gorky from 1932-1990), Russia. Died 30 May 1926, Gaspra, Crimea, USSR.
 

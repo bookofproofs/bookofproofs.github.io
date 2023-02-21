@@ -34,7 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Certainly MacKenzie moved to Gonville and Caius College and in January 1848 graduated as second wrangler in the mathematical tripos, Isaac Todhunter being the senior wrangler.
 * MacKenzie was made a fellow of Gonville and Caius College in 1848.
 * Mackenzie spoke to him, and took him out, made him swallow some soup, and brought him back to pass his examination.
-* The book Solutions of the Problems and Riders Proposed in the Senate-House Examination for 1854, was published by W Walton, M.A. of Trinity College, and C F MacKenzie, M.A. of Caius College in 1854.
+* The book "Solutions of the Problems and Riders Proposed in the Senate-House Examination for" 1854, was published by W Walton, M.A. of Trinity College, and C F MacKenzie, M.A. of Caius College in 1854.
 * We have followed MacKenzie's mathematical career which continued at Cambridge until 1862.
 * Haslingfield is a village about 10 km south west of Cambridge so it was not difficult for MacKenzie to carry out his duties as curate at All Saints church in Haslingfield and at the same time act as tutor, examiner and moderator for mathematics at the University of Cambridge.
 * In April 1853 Jackson tried to persuade MacKenzie to go to Delhi with him.

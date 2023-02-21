@@ -28,7 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Banachiewicz was a firm Polish patriot.
 * While he was still an undergraduate, studying astronomy, Banachiewicz published his first paper in Astronomische Nachrichten in 1903.
 * Banachiewicz continued to undertake research at the University.
-* In 1906 Banachiewicz had important papers published by the Paris Academy of Sciences after being presented to the Academy by Poincaré: Sur un cas particulier du probléme des n corps Ⓣ(On a particular case of the n-body problem); and Über die Anwendbarkeit der Gyldén-Brendelschen Störungstheorie auf die Jupiternahen Planetoiden Ⓣ(On the applicability of Gylden-Brendel's perturbation theory of Jupiter to planetoids).
+* In 1906 Banachiewicz had important papers published by the Paris Academy of Sciences after being presented to the Academy by Poincaré: "Sur un cas particulier du probléme des n corps" Ⓣ(On a particular case of the n-body problem); and "Über die Anwendbarkeit der Gyldén-Brendelschen Störungstheorie auf die Jupiternahen Planetoiden" Ⓣ(On the applicability of Gylden-Brendel's perturbation theory of Jupiter to planetoids).
 * However, Banachiewicz had already left.
 * After spending a year at Göttingen, Banachiewicz went to the Pulkovo Observatory which was situated 19 km south of St Petersburg on the Pulkovo Heights.
 * During the year he spent studying at the Observatory (1907-08), Banachiewicz studied under Oskar Backlund (1846-1916), who was head of the Pulkovo Observatory from 1895 to 1916.

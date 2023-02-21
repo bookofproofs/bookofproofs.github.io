@@ -54,74 +54,74 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<pre><code> def set_ri_to_0(self):
-     while True:
-         if self.r_i &amp;gt; 0:
-             self.r_i = self.r_i - 1 #  LOOP register i
-             self.NOP()  #  DO nothing
-         else:
-             break
+<pre><code>  def set_ri_to_0(self):
+      while True:
+          if self.r_i &amp;gt; 0:
+              self.r_i = self.r_i - 1 #  LOOP register i
+              self.NOP()  #  DO nothing
+          else:
+              break
 
- def set_rn_to_11(self):
-     # reset register n to 0
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.NOP()  #  DO nothing
-         else:
-             break
-     self.r_n = self.r_n + 1  # set register n to the value 11
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
+  def set_rn_to_11(self):
+      # reset register n to 0
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.NOP()  #  DO nothing
+          else:
+              break
+      self.r_n = self.r_n + 1  # set register n to the value 11
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
 
- def set_rj_to_7(self):
-     # reset register j to 0
-     while True:
-         if self.r_j &amp;gt; 0:
-             self.r_j = self.r_j - 1 #  LOOP register n
-             self.NOP()  #  DO nothing
-         else:
-             break
-     self.r_j = self.r_j + 1  # set register j to the value 7
-     self.r_j = self.r_j + 1
-     self.r_j = self.r_j + 1
-     self.r_j = self.r_j + 1
-     self.r_j = self.r_j + 1
-     self.r_j = self.r_j + 1
-     self.r_j = self.r_j + 1
+  def set_rj_to_7(self):
+      # reset register j to 0
+      while True:
+          if self.r_j &amp;gt; 0:
+              self.r_j = self.r_j - 1 #  LOOP register n
+              self.NOP()  #  DO nothing
+          else:
+              break
+      self.r_j = self.r_j + 1  # set register j to the value 7
+      self.r_j = self.r_j + 1
+      self.r_j = self.r_j + 1
+      self.r_j = self.r_j + 1
+      self.r_j = self.r_j + 1
+      self.r_j = self.r_j + 1
+      self.r_j = self.r_j + 1
 
- def LOOP_rj_DO_increment_ri(self):
-     while True:
-         if self.r_j &amp;gt; 0:
-             self.r_j = self.r_j - 1 #  LOOP register j
-             self.r_i = self.r_i + 1 #  DO increment register i
-         else:
-             break
+  def LOOP_rj_DO_increment_ri(self):
+      while True:
+          if self.r_j &amp;gt; 0:
+              self.r_j = self.r_j - 1 #  LOOP register j
+              self.r_i = self.r_i + 1 #  DO increment register i
+          else:
+              break
 
- def add_rj_to_ri(self):
-     self.LOOP_rj_DO_increment_ri()
+  def add_rj_to_ri(self):
+      self.LOOP_rj_DO_increment_ri()
 
- def NOP(self):
-     self.r_i = self.r_i + 1 #  LOOP register i
-     self.r_i = self.r_i - 1  # LOOP register i
+  def NOP(self):
+      self.r_i = self.r_i + 1 #  LOOP register i
+      self.r_i = self.r_i - 1  # LOOP register i
 
- def multiply_rj_times_rn_and_store_result_in_ri(self):
-     self.set_ri_to_0()
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1  # LOOP register n
-             self.set_rj_to_7()
-             self.add_rj_to_ri()  # DO add registers r_i and r_j
-         else:
-             break
+  def multiply_rj_times_rn_and_store_result_in_ri(self):
+      self.set_ri_to_0()
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1  # LOOP register n
+              self.set_rj_to_7()
+              self.add_rj_to_ri()  # DO add registers r_i and r_j
+          else:
+              break
 </code></pre>
 <ol>
 <li>Usage for adding the r_i = r_j * r_n</li>

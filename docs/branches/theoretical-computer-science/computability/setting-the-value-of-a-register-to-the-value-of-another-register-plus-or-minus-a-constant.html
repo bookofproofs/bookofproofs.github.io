@@ -54,51 +54,51 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<pre><code> def LOOP_r_j_DO_increment_r_i(self):
-     while True:
-         if self.r_j &amp;gt; 0:
-             self.r_j = self.r_j - 1 #  LOOP register j
-             self.r_i = self.r_i + 1 #  DO increment register i
-         else:
-             break
+<pre><code>  def LOOP_r_j_DO_increment_r_i(self):
+      while True:
+          if self.r_j &amp;gt; 0:
+              self.r_j = self.r_j - 1 #  LOOP register j
+              self.r_i = self.r_i + 1 #  DO increment register i
+          else:
+              break
 
- def set_r_n_to_10(self):
-     # set r_n=0 with loop r_n do
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.NOP() #  DO nothing
-         else:
-             break
-     # set register to 10 by incrementing it 10 times
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
-     self.r_n = self.r_n + 1
+  def set_r_n_to_10(self):
+      # set r_n=0 with loop r_n do
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.NOP() #  DO nothing
+          else:
+              break
+      # set register to 10 by incrementing it 10 times
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
+      self.r_n = self.r_n + 1
 
- def LOOP_r_n_DO_increment_r_i(self):
-     while True:
-         if self.r_n &amp;gt; 0:
-             self.r_n = self.r_n - 1 #  LOOP register n
-             self.r_i = self.r_i + 1 #  DO decrement register j
-         else:
-             break
+  def LOOP_r_n_DO_increment_r_i(self):
+      while True:
+          if self.r_n &amp;gt; 0:
+              self.r_n = self.r_n - 1 #  LOOP register n
+              self.r_i = self.r_i + 1 #  DO decrement register j
+          else:
+              break
 
- def NOP(self):
-     self.r_i = self.r_i + 1 #  LOOP register i
-     self.r_i = self.r_i - 1  # LOOP register i
+  def NOP(self):
+      self.r_i = self.r_i + 1 #  LOOP register i
+      self.r_i = self.r_i - 1  # LOOP register i
 
- def add_ri_plus_rj_plus_constant(self):
-     # setting r_i:=r_j
-     self.LOOP_r_j_DO_increment_r_i()
-     # setting r_i:=r_j + 10
-     self.LOOP_r_n_DO_increment_r_i()
+  def add_ri_plus_rj_plus_constant(self):
+      # setting r_i:=r_j
+      self.LOOP_r_j_DO_increment_r_i()
+      # setting r_i:=r_j + 10
+      self.LOOP_r_n_DO_increment_r_i()
 </code></pre>
 <ol>
 <li>Usage for adding the r_i = r_j + const</li>

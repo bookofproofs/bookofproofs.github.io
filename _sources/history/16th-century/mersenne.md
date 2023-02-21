@@ -57,9 +57,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Jessica-Daniell,bookofproofs
 * Mersenne himself pointed out that the incision, which he asked for, had been attempted too low.
 * Gassendi was there for Mersenne throughout his illness and remained with him until his death on 1 September 1648 in Paris, just 8 days from his 60th  birthday.
 * After Mersenne's death, letters in his cell were found from 78 different correspondents including Fermat, Huygens, Pell, Galileo  and Torricelli.
-* Also several physics instruments were found in his cell and a lot of Mersenne's library was retrieved from which L'optique et la catoptrique Ⓣ(Optics and catoptrics)  was published in 1651.
+* Also several physics instruments were found in his cell and a lot of Mersenne's library was retrieved from which "L'optique et la catoptrique" Ⓣ(Optics and catoptrics)  was published in 1651.
 * Mersenne was aware of all the science that was going on, what all the scientists were doing, and only wanted for them all to work together in advancing science.
-* Mersenne studied the cycloid for several years quoting his research in Quaestiones in Genesim Ⓣ(Questions on Genesis) (1623), Synopsis mathematica Ⓣ(Mathematical summary) (1626) and Questions inouyes Ⓣ(Unbelievable questions) (1634).
+* Mersenne studied the cycloid for several years quoting his research in "Quaestiones in Genesim" Ⓣ(Questions on Genesis) (1623), "Synopsis mathematica" Ⓣ(Mathematical summary) (1626) and "Questions inouyes" Ⓣ(Unbelievable questions) (1634).
 * We note that Mersenne referred to the cycloid as the 'roulette' but the term cycloid was adopted later.
 * Mersenne's name is best remembered today for Mersenne primes.
 * Mersenne undertook experiments to test Galileo's law of motion for falling bodies.

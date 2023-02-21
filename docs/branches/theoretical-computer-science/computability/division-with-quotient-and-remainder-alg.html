@@ -55,97 +55,97 @@
     r_r = 0
     r_m = 0
     r_c = 0</p>
-<pre><code> def set_rc_to_0(self):
-     # set r_c=0 with loop r_q do
-     while True:
-         if self.r_c &gt; 0:
-             self.r_c = self.r_c - 1 #  LOOP register c
-             self.NOP() #  DO nothing
-         else:
-             break
+<pre><code>  def set_rc_to_0(self):
+      # set r_c=0 with loop r_q do
+      while True:
+          if self.r_c &gt; 0:
+              self.r_c = self.r_c - 1 #  LOOP register c
+              self.NOP() #  DO nothing
+          else:
+              break
 
- def set_rc_to_1(self):
-     self.set_rc_to_0()
-     self.r_c = self.r_c + 1  # increment register c
+  def set_rc_to_1(self):
+      self.set_rc_to_0()
+      self.r_c = self.r_c + 1  # increment register c
 
- def set_rq_to_0(self):
-     # set r_q=0 with loop r_q do
-     while True:
-         if self.r_q &gt; 0:
-             self.r_q = self.r_q - 1 #  LOOP register q
-             self.NOP() #  DO nothing
-         else:
-             break
+  def set_rq_to_0(self):
+      # set r_q=0 with loop r_q do
+      while True:
+          if self.r_q &gt; 0:
+              self.r_q = self.r_q - 1 #  LOOP register q
+              self.NOP() #  DO nothing
+          else:
+              break
 
- def set_rr_to_0(self):
-     # set r_r=0 with loop r_r do
-     while True:
-         if self.r_r &gt; 0:
-             self.r_r = self.r_r - 1 #  LOOP register n
-             self.NOP() #  DO nothing
-         else:
-             break
+  def set_rr_to_0(self):
+      # set r_r=0 with loop r_r do
+      while True:
+          if self.r_r &gt; 0:
+              self.r_r = self.r_r - 1 #  LOOP register n
+              self.NOP() #  DO nothing
+          else:
+              break
 
- def set_rm_to_0(self):
-     # set r_m=0 with loop r_m do
-     while True:
-         if self.r_m &gt; 0:
-             self.r_m = self.r_m - 1 #  LOOP register m
-             self.NOP() #  DO nothing
-         else:
-             break
+  def set_rm_to_0(self):
+      # set r_m=0 with loop r_m do
+      while True:
+          if self.r_m &gt; 0:
+              self.r_m = self.r_m - 1 #  LOOP register m
+              self.NOP() #  DO nothing
+          else:
+              break
 
- def NOP(self):
-     self.r_q = self.r_q + 1
-     self.r_q = self.r_q - 1
+  def NOP(self):
+      self.r_q = self.r_q + 1
+      self.r_q = self.r_q - 1
 
- def check_if_rr_minus_rk_equals_0_and_flag_this_in_rc(self):
-     saved_rr=self.r_r
-     saved_rk=self.r_k
-     self.set_rm_to_0()
-     while True:
-         if self.r_k &gt; 0:
-             self.r_k = self.r_k - 1  # LOOP register k
-             self.r_m = self.r_m + 1  # do increment r_m
-         else:
-             break
-     while True:
-         if self.r_r &gt; 0:
-             self.r_r = self.r_r - 1  # LOOP register n
-             if self.r_m &gt; 0:
-                 self.r_m = self.r_m - 1  # do decrement r_m
-         else:
-             break
-     # add r_k and r_r were equal, then r_m is 0
-     self.set_rc_to_1() # assume equality
-     while True:
-         if self.r_m &gt; 0:
-             self.r_m = self.r_m - 1  # LOOP register r_m
-             self.set_rc_to_0()  # unequal
-         else:
-             break
-     # restore compared registers
-     self.r_r = saved_rr
-     self.r_k = saved_rk
+  def check_if_rr_minus_rk_equals_0_and_flag_this_in_rc(self):
+      saved_rr=self.r_r
+      saved_rk=self.r_k
+      self.set_rm_to_0()
+      while True:
+          if self.r_k &gt; 0:
+              self.r_k = self.r_k - 1  # LOOP register k
+              self.r_m = self.r_m + 1  # do increment r_m
+          else:
+              break
+      while True:
+          if self.r_r &gt; 0:
+              self.r_r = self.r_r - 1  # LOOP register n
+              if self.r_m &gt; 0:
+                  self.r_m = self.r_m - 1  # do decrement r_m
+          else:
+              break
+      # add r_k and r_r were equal, then r_m is 0
+      self.set_rc_to_1() # assume equality
+      while True:
+          if self.r_m &gt; 0:
+              self.r_m = self.r_m - 1  # LOOP register r_m
+              self.set_rc_to_0()  # unequal
+          else:
+              break
+      # restore compared registers
+      self.r_r = saved_rr
+      self.r_k = saved_rk
 
- def DIV_MOD(self):
-     self.set_rq_to_0()
-     self.set_rr_to_0()
-     self.set_rm_to_0()
-     while True:
-         if self.r_j &gt; 0:
-             self.r_j = self.r_j - 1 #  LOOP register j (dividend)
-             self.r_r = self.r_r + 1 # increment auxiliary register n
-             self.check_if_rr_minus_rk_equals_0_and_flag_this_in_rc()
-             while True:
-                 if self.r_c &gt; 0: # if rr was equal than rk
-                     self.r_c = self.r_c - 1  # LOOP register j (dividend)
-                     self.r_q = self.r_q + 1  # increase quotient
-                     self.set_rr_to_0() #  set auxiliary register n to 0
-                 else:
-                     break
-         else:
-             break
+  def DIV_MOD(self):
+      self.set_rq_to_0()
+      self.set_rr_to_0()
+      self.set_rm_to_0()
+      while True:
+          if self.r_j &gt; 0:
+              self.r_j = self.r_j - 1 #  LOOP register j (dividend)
+              self.r_r = self.r_r + 1 # increment auxiliary register n
+              self.check_if_rr_minus_rk_equals_0_and_flag_this_in_rc()
+              while True:
+                  if self.r_c &gt; 0: # if rr was equal than rk
+                      self.r_c = self.r_c - 1  # LOOP register j (dividend)
+                      self.r_q = self.r_q + 1  # increase quotient
+                      self.set_rr_to_0() #  set auxiliary register n to 0
+                  else:
+                      break
+          else:
+              break
 </code></pre>
 <ol>
 <li>Usage of r_j DIV r_k</li>

@@ -50,27 +50,23 @@
 <ul>
 <li>By hypothesis, \((G,\ast)\) and \((H,\cdot)\) are <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Algebra / Definition: Group">groups</a> with the respective <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Algebra / Definition: Existence of a Neutral Element">identities</a> \(e_G\) and \(e_H\) and \(f:G\rightarrow H\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Algebra / Definition: Group Homomorphism">group homomorphism</a>.</li>
 <li>We first show that \(ker(f)=\{e_G\}\) \(\Longleftrightarrow f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a>.<ul>
-<li>"$\Rightarrow$"<ul>
-<li>Assume \(\ker(f)=\{e_G\}\). </li>
-<li>This means that the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">fiber of \(e_H\) under \(f\) </a> equals \(\{e_G\}\), i.e. \(f^{-1}(e_H)=e_G\). </li>
-<li>This means that \(f(e_G)=e_H\). </li>
-<li>Because \(f\) is a group homomorphism, it follows that 
+<li>"$\Rightarrow$"
+    * Assume \(\ker(f)=\{e_G\}\). 
+    * This means that the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">fiber of \(e_H\) under \(f\) </a> equals \(\{e_G\}\), i.e. \(f^{-1}(e_H)=e_G\). 
+    * This means that \(f(e_G)=e_H\). 
+    * Because \(f\) is a group homomorphism, it follows that 
 \[\begin{array}{cl}
 f(x)=f(x\ast e_G)=e_H\cdot x=x\\
 f(y)=f(y\ast e_G)=e_H\cdot y=y\\
 \end{array}\]
-for any two elements \(x,y\in H\). </li>
-<li>Therefore, from \(f(x)=f(y)\) it follows that \(x=y\), so \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a>.</li>
-</ul>
-</li>
-<li>"$\Leftarrow$"<ul>
-<li>Assume \(f\) is injective. </li>
-<li>This means that from \(f(x)=f(y)\) it follows that \(x=y\). </li>
-<li>Because \(f\) is a group homomorphism, we have \(f(x)\cdot(f(y))^{-1}=e_H\) and it follows further from its <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Algebra / Proposition: Properties of a Group Homomorphism">properties</a> that \(f(x)\cdot f(y^{-1})=e_H\). </li>
-<li>Applying the homomorphism property again, we get \(f(x\ast y^{-1})=e_H\). </li>
-<li>Now, because \(x=y\), we have \(f(e_G)=e_H\), i.e. \(f^{-1}(e_H)=e_G\), thus \(ker(f)=\{e_G\}\).</li>
-</ul>
-</li>
+for any two elements \(x,y\in H\). 
+    * Therefore, from \(f(x)=f(y)\) it follows that \(x=y\), so \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a>.</li>
+<li>"$\Leftarrow$"
+    * Assume \(f\) is injective. 
+    * This means that from \(f(x)=f(y)\) it follows that \(x=y\). 
+    * Because \(f\) is a group homomorphism, we have \(f(x)\cdot(f(y))^{-1}=e_H\) and it follows further from its <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Algebra / Proposition: Properties of a Group Homomorphism">properties</a> that \(f(x)\cdot f(y^{-1})=e_H\). 
+    * Applying the homomorphism property again, we get \(f(x\ast y^{-1})=e_H\). 
+    * Now, because \(x=y\), we have \(f(e_G)=e_H\), i.e. \(f^{-1}(e_H)=e_G\), thus \(ker(f)=\{e_G\}\).</li>
 </ul>
 </li>
 <li>We now show that \(\operatorname{im}(f)=H\) \(\Longleftrightarrow f\) is surjective. <ul>

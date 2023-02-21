@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There is another way that Josef Blaschke influenced his son, which was significant given the problems that he would later face, and this was to give him an international outlook making him very open minded in his approach to those from different countries.
 * Wilhelm was brought up in Graz and it was there that he attended secondary school, graduating at the age of eighteen.
 * Blaschke became extraordinary professor of mathematics at the Deutsche Technische Hochschule in Prague in 1913, remaining there for two years before moving to Leipzig in 1915.
-* While in Leipzig, Blaschke published Kreis und Kugel Ⓣ(Circle and sphere) (1916) in which he investigated isoperimetric properties of convex figures.
+* While in Leipzig, Blaschke published "Kreis und Kugel" Ⓣ(Circle and sphere) (1916) in which he investigated isoperimetric properties of convex figures.
 * Although Weierstrass had supplied the missing proofs using the calculus of variations, this did not satisfy Blaschke who gave proofs in the style of Steiner in Kreis und Kugel Ⓣ(Circle and sphere).
 * As with his previous position, Blaschke held the post at Leipzig for two years before moving on.
 * Again Blaschke remained for about two years before moving to Tübingen.

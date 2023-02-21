@@ -55,19 +55,17 @@
 \[\frac{a}{d}=\frac{\operatorname{lcm}(a,b)}{b},~\frac{b}{d}=\frac{\operatorname{lcm}(a,b)}{a}.\]</li>
 <li>Since \(a\) and \(b\) divide \(\operatorname{lcm}(a,b)\) , the fractions \(\frac{a}{d}\) and \(\frac{b}{d}\) are, in fact, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a>.</li>
 <li>Therefore, \(d\) is a <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Number Theory / Proposition: Greatest Common Divisor">common divisor</a> of \(a\) and \(b\). </li>
-<li>It remains to be shown that $d$ is the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Number Theory / Proposition: Greatest Common Divisor">greatest common divisor</a> of \(a\) and \(b\). <ul>
-<li>Let \(f\) be any common divisor of \(a\) and \(b\). </li>
-<li>Because $a\mid a\frac bf$ and $b\mid b\frac af,$ the number \(\frac{ab}f\) is a <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html" title="Number Theory / Proposition: Least Common Multiple">common multiple</a> of \(a\) and \(b\).</li>
-<li>It follows from the <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html" title="Number Theory / Proposition: Least Common Multiple">proposition about the least common multiple</a> that \(\operatorname{lcm}(a,b)\) divides \(\frac{ab}f\). </li>
-<li>Since \(\operatorname{lcm}(a,b)=\frac{ab}d\) (see above), we have that
-\[\frac{ab}d|\frac{ab}f.\]</li>
-<li>This means that the rational number 
+<li>It remains to be shown that $d$ is the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Number Theory / Proposition: Greatest Common Divisor">greatest common divisor</a> of \(a\) and \(b\). 
+    * Let \(f\) be any common divisor of \(a\) and \(b\). 
+    * Because $a\mid a\frac bf$ and $b\mid b\frac af,$ the number \(\frac{ab}f\) is a <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html" title="Number Theory / Proposition: Least Common Multiple">common multiple</a> of \(a\) and \(b\).
+    * It follows from the <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html" title="Number Theory / Proposition: Least Common Multiple">proposition about the least common multiple</a> that \(\operatorname{lcm}(a,b)\) divides \(\frac{ab}f\). 
+    * Since \(\operatorname{lcm}(a,b)=\frac{ab}d\) (see above), we have that
+\[\frac{ab}d|\frac{ab}f.\]
+    * This means that the rational number 
 \[\frac{\frac{ab}f}{\frac{ab}d}=\frac df\]
-is in fact an integer. </li>
-<li>Since \(f\) was <em>an arbitrarily chosen</em> common divisor of both, \(a\) and \(b\), and since it divides the common divisor \(d\), the latter number \(d\) must be the greatest common divisor.</li>
-<li>It follows that $d=\gcd(a,b).$<div class='qed'>&#8718;</div></li>
-</ul>
-</li>
+is in fact an integer. 
+    * Since \(f\) was <em>an arbitrarily chosen</em> common divisor of both, \(a\) and \(b\), and since it divides the common divisor \(d\), the latter number \(d\) must be the greatest common divisor.
+    * It follows that $d=\gcd(a,b).$<div class='qed'>&#8718;</div></li>
 </ul>
 </li>
 </ul>

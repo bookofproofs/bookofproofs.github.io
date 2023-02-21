@@ -51,13 +51,11 @@
 <li>Let $(V,\preceq )$ be a <a href="https://bookofproofs.github.io/branches/set-theory/preorder-partial-order-and-poset.html" title="Set Theory / Definition: Preorder, Partial Order and Poset">poset</a>.</li>
 <li>Assume, the Zorn's lemma is false. <ul>
 <li>This means that although every <a href="https://bookofproofs.github.io/branches/set-theory/total-order.html" title="Set Theory / Definition: Total Order and Chain">chain</a> $S\subseteq V$  has an <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">upper bound</a>, $V$ has no <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">maximal</a> element.</li>
-<li>Take $S_0:=\{a_0\}$ as an example of a chain in $V$ with $a_0\in V.$<ul>
-<li>By assumption, $V$ contains at least one upper bound $u$ of $S_0$, i.e. $u\in V$ and $a_0\preceq u.$</li>
-<li>By assumption, none of the existing upper bounds $u$ can be maximal, i.e. there is at least one $x\in V$ with $x\succ u.$</li>
-<li>By the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a>, we can choose $x$ from the set of all existing elements $x\in V$ with $x\succ u$ and set $a_1:=x.$</li>
-<li>By construction, $a_1\succ a_0$ and we can construct a new chain $S_1:=\{a_0,a_1\}.$</li>
-</ul>
-</li>
+<li>Take $S_0:=\{a_0\}$ as an example of a chain in $V$ with $a_0\in V.$
+    * By assumption, $V$ contains at least one upper bound $u$ of $S_0$, i.e. $u\in V$ and $a_0\preceq u.$
+    * By assumption, none of the existing upper bounds $u$ can be maximal, i.e. there is at least one $x\in V$ with $x\succ u.$
+    * By the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a>, we can choose $x$ from the set of all existing elements $x\in V$ with $x\succ u$ and set $a_1:=x.$
+    * By construction, $a_1\succ a_0$ and we can construct a new chain $S_1:=\{a_0,a_1\}.$</li>
 <li>By analogy, we can construct a new chain $S_3:=\{a_0,a_1,a_2\}$ with $a_0\prec a_1\prec a_2.$</li>
 <li>This process can be repeated "endlessly", and holds even for an infinite chain $S,$ while the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a> ensures that we can extend $S$ by those elements of $X$ which are greater than any upper bound we have found for $S$ in $X.$</li>
 <li>But this <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradicts</a> the assumption that <em>every</em> chain $S$ has an upper bound in $X$ but still $X$ has no maximal elements.</li>

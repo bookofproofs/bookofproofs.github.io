@@ -129,6 +129,9 @@ Unfortunately, the knowledge of mathematics of this time is very limited, becaus
 ### 194 BC
 * [Nicomedes][bookofproofs$Nicomedes] criticises the method that Eratosthenes used to duplicate the cube.
 
+### about 150 BC
+* [Hipparchus][bookofproofs$Hipparchus] produces a star catalogue containing about 850 stars, probably not listed in a systematic coordinate system but using various different ways to designate the position of a star.
+
 ### 100 BC
 * [Posidonius][bookofproofs$Posidonius] to become the head of the Stoic School in Rhodes.
    * Using a distance of 5000 stadia between Rhodes and Alexandria, Posidonius estimates a value of 240000 stadia for the circumference of the Earth.

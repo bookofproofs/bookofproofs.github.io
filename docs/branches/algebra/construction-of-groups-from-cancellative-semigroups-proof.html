@@ -60,30 +60,26 @@
 <li>By assumption, \((H,\circ)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Algebra / Definition: Commutativity">commutative</a> and <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html" title="Algebra / Definition: Cancellation Property">cancellative</a> <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html" title="Algebra / Definition: Semigroup">semigroup</a>.</li>
 <li>As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html" title="Set Theory / Definition: Equivalence Relation">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Set Theory / Definition: Cartesian Product">cartesian product</a> \(H\times H=\{(a,b)~|~a,b\in H\}\) as follows:
 \[(a,b)\sim (c,d)\Leftrightarrow a\circ d=b\circ c~~~(a,b,c,d\in H).\]</li>
-<li>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:<ul>
-<li>The <em>reflexivity</em> of "\(\sim\)" follows from the commutativity of \(H\): $(a,b)\sim(a,b)\Leftrightarrow a\circ b=b\circ a.$</li>
-<li>Also the <em>symmetry</em> of "\(\sim\)" follows from the commutativity of \(H\):\[\begin{array}{ccl}
+<li>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:
+    * The <em>reflexivity</em> of "\(\sim\)" follows from the commutativity of \(H\): $(a,b)\sim(a,b)\Leftrightarrow a\circ b=b\circ a.$
+    * Also the <em>symmetry</em> of "\(\sim\)" follows from the commutativity of \(H\):\[\begin{array}{ccl}
 (a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
 &amp;\Leftrightarrow&amp;c\circ b=d\circ a\\
 &amp;\Leftrightarrow&amp;(c,d)\sim (a,b).
-\end{array}\]</li>
-<li>The <em>transitivity</em> of  "\(\sim\)" follows from \(H\) being cancellative and commutative:<ul>
-<li>Assume for \(a,b,c,d,e,f\in H\):
+\end{array}\]
+    * The <em>transitivity</em> of  "\(\sim\)" follows from \(H\) being cancellative and commutative:
+       * Assume for \(a,b,c,d,e,f\in H\):
 \[\begin{array}{ccc}
 (a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
 (c,d)\sim (e,f)&amp;\Leftrightarrow&amp;c\circ f=d\circ e.\\
-\end{array}\]</li>
-<li>After multiplying both sides of both equations, rearranging the variables and cancelling we get
+\end{array}\]
+       * After multiplying both sides of both equations, rearranging the variables and cancelling we get
 \[\begin{array}{ccc}
 (a\circ d)\circ (c\circ f)&amp;=&amp;(b\circ c)\circ (d\circ e)\\
 a\circ d\circ c\circ f&amp;=&amp;b\circ c\circ d\circ e\\
 (a\circ f)\circ \cancel{(d\circ c)}&amp;=&amp;(b\circ e)\circ \cancel{(d\circ c)}\\
 &amp;(a,b)&amp;\sim&amp;(e,f).&amp;
 \end{array}\]</li>
-</ul>
-</li>
-</ul>
-</li>
 <li>We have just shown that \(\sim\) is an equivalence relation. </li>
 <li>Therefore, each ordered pair \((a,b)\) represents its own equivalence class \([a,b]\subseteq H\times H\) and we can set $G:=( H\times H)/\sim$ as the set of all these equivalence classes. </li>
 <li>However, because the relation \(\sim\) is symmetric and transitive, each equivalence class \([a,b]\) <em>does not(!)</em> depend on the special choice of its representative \((a,b)\). </li>

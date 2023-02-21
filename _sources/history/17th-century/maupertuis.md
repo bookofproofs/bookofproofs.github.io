@@ -39,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Back in Paris by July of 1730, Maupertuis began writing papers on mechanics in which he used the expertise he had already developed on curves.
 * By 1731 he had written his first paper on astronomy and another on differential equations, and was rapidly developing a reputation as an all round mathematician and scientist.
 * It is an interesting paper but it contains some errors and shows that Maupertuis has not fully understood Newton's inverse square law and the resulting gravitational force within a solid body.
-* In November 1732 he declared himself a supporter of Newton's theory of gravitation in France with his publication of a major treatise Figures des astres Ⓣ(Shapes of the stars).
+* In November 1732 he declared himself a supporter of Newton's theory of gravitation in France with his publication of a major treatise "Figures des astres" Ⓣ(Shapes of the stars).
 * It announced Maupertuis's position on one of the biggest problems of the day, namely the shape of the Earth.
 * In May 1735 the Paris Academy sent an expedition to Peru to make measurements of the Earth.
 * It was headed by La Condamine and had Bouguer and Godin as members.
@@ -72,7 +72,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As it was, although he put forward the mechanism for one species developing into another, he failed to postulate the driving mechanism, namely natural selection.
 * We have left until late in this article a discussion of the topic for which Maupertuis is best known, namely the Principle of Least Action.
 * One reason is that indeed it was late in his career that he proposed the principle.
-* It was in 1746, soon after becoming director of the Berlin Academy, that he first enunciated the Principle of Least Action and it was four years later that he published it in Essai de cosmologie Ⓣ(Essay on cosmology).
+* It was in 1746, soon after becoming director of the Berlin Academy, that he first enunciated the Principle of Least Action and it was four years later that he published it in "Essai de cosmologie" Ⓣ(Essay on cosmology).
 * Maupertuis hoped that the principle might unify the laws of the universe and combined it with an attempted proof of the existence of God.
 * These laws, so beautiful and so simple, are perhaps the only ones which the Creator and Organizer of things has established in matter in order to effect all the phenomena of the visible world ...
 * Samuel König was a mathematician whom Maupertuis had known for a long time.

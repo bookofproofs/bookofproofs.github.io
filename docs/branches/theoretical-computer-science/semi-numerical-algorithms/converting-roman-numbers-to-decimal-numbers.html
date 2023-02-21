@@ -69,15 +69,15 @@
             nextD = 1
         else:
            raise Exception("Wrong roman digit: "+digit)</p>
-<pre><code>     if lastD &amp;lt; nextD:
-         value -= lastD
-     else:
-         value += lastD
+<pre><code>      if lastD &amp;lt; nextD:
+          value -= lastD
+      else:
+          value += lastD
 
-     lastD = nextD
+      lastD = nextD
 
- value += lastD
- return value
+  value += lastD
+  return value
 </code></pre>
 <p>x = "DCCXLIX"
 r = roman2dec(x)

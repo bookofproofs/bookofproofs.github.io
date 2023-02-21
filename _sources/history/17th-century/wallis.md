@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1644 Wallis became secretary to the clergy at Westminster and through this he was given a fellowship at Queen's College, Cambridge.
 * In this passage we have modernised Wallis's English a little to make it more easily understood.
 * We talked above about two events which shaped Wallis's future, the first being cryptography.
-* Wallis wrote a book Treatise of Angular Sections which remained unpublished for forty years.
+* Wallis wrote a book "Treatise of Angular Sections" which remained unpublished for forty years.
 * He also discovered methods of solving equations of degree four which were similar to those which Harriot had found but Wallis claimed that he made the discoveries himself, not being aware of Harriot's contributions until later.
 * Wallis held the Savilian Chair for over 50 years until his death and, even if he was appointed for the wrong reasons, he most certainly deserved to hold the chair.
 * This was not the only position which Wallis would hold at Oxford.
@@ -47,7 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The claims made by Wallis on this topic have never been shown false to everyone's complete satisfaction.
 * Wallis made other contributions to the history of mathematics by restoring some ancient Greek texts such as Ptolemy's Harmonics, Aristarchus's On the magnitudes and distances of the sun and moon and Archimedes' Sand-reckoner.
 * Wallis became involved in a bitter dispute with Hobbes, who although a fine scholar, was far below Wallis's class as a mathematician.
-* Wallis's book Arithmetica infinitorum with his methods was in press at the time and he refuted Hobbes claims.
+* Wallis's book "Arithmetica infinitorum" with his methods was in press at the time and he refuted Hobbes claims.
 * Wallis replied with the pamphlet Due Correction for Mr Hobbes, or School Discipline for not saying his Lessons Aright to which Hobbes wrote the pamphlet The Marks of the Absurd Geometry, Rural Language etc.
 * One aspect of Wallis's mathematical skills has not yet been mentioned, namely his great ability to do mental calculations.
 * It was a feat which was rightly considered remarkable, and Oldenburg, the Secretary of the Royal Society, sent a colleague to investigate how Wallis did it.

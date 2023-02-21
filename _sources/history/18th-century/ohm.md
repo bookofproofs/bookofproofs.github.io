@@ -43,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In two important papers in 1826, Ohm gave a mathematical description of conduction in circuits modelled on Fourier's study of heat conduction.
 * These papers continue Ohm's deduction of results from experimental evidence and, particularly in the second, he was able to propose laws which went a long way to explaining results of others working on galvanic electricity.
 * The second paper certainly is the first step in a comprehensive theory which Ohm was able to give in his famous book published in the following year.
-* What is now known as Ohm's law appears in this famous book Die galvanische Kette, mathematisch bearbeitet Ⓣ(The galvanic chain, processed mathematically) (1827) in which he gave his complete theory of electricity.
+* What is now known as Ohm's law appears in this famous book "Die galvanische Kette, mathematisch bearbeitet" Ⓣ(The galvanic chain, processed mathematically) (1827) in which he gave his complete theory of electricity.
 * We should also remark that, despite Ohm's attempts in this introduction, he was not really successful in convincing the older German physicists that the mathematical approach was the right one.
 * In neither the introduction nor the body of the work, which contained the more rigorous development of the theory, did Ohm bring decisively home either the underlying unity of the whole or the connections between fundamental assumptions and major deductions.
 * It is interesting that Ohm's presents his theory as one of contiguous action, a theory which opposed the concept of action at a distance.

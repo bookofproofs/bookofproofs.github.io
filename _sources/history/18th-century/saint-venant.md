@@ -30,8 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should remark that Stokes, like Saint-Venant, correctly derived the Navier-Stokes equations but he published the results two years after Saint-Venant.
 * Saint-Venant developed a vector calculus similar to that of Grassmann which he published in 1845.
 * Grassmann had published his results in 1844, but Saint-Venant claimed (and there is little reason to doubt him) that he had first developed these ideas in 1832.
-* Again it would appear that Saint-Venant was unlucky.
-* In this book Saint-Venant, a convinced atomist, presented forces as divorced from the metaphysical concept of cause and from the physiological concept of muscular effort, both of which, in his opinion, obscured force as a kinematic concept accessible to the calculus.
+* In the book "Principes de mécanique fondés sur la cinématique" Saint-Venant, a convinced atomist, presented forces as divorced from the metaphysical concept of cause and from the physiological concept of muscular effort, both of which, in his opinion, obscured force as a kinematic concept accessible to the calculus.
 * In the 1850s Saint-Venant derived solutions for the torsion of non-circular cylinders.
 * In 1868 Saint-Venant was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
 * At age 86 he translated (with A Flamant) Clebsch's work on elasticity into French and published it as Théorie de l'élasticité des corps solides Ⓣ(Theory of the elasticity of solids) and Saint-Venant added notes to the text which he wrote himself.

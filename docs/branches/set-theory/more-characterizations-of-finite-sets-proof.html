@@ -79,14 +79,12 @@ Now, $X,Y$ are <a href="https://bookofproofs.github.io/branches/set-theory/finit
 <li>Induction step: $m\to m+1$<ul>
 <li>Assume, there is no injective function $f:X_m\to Y_n$ for some $m &lt; n.$</li>
 <li>By <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contraposition-contrapositive.html" title="Logic / Lemma: The Proving Principle By Contraposition, Contrapositive">contraposition</a>, this is equivalent to saying that if $n &gt; m$ for some $m\in\mathbb N$ then there <em>is</em> an injective function $f:X_m\to Y_n.$</li>
-<li>Holding $n$ fixed and using this injective function $f$, we will now construct another injective function $f':X_{m+1}\to Y_n.$ as follows:<ul>
-<li>Without loss of generality, let $X_m=\{x_1,\ldots,x_m\}$ and $X_{m+1}:=X_m\cup \{x_{m+1}\}.$</li>
-<li>Since $n &gt; m,$ and $f$ is injective, there is an element $y\in Y_n$ with $y\neq f(x_k)$ for all $k=1,\ldots,m.$ </li>
-<li>Define the function $f':X_{m+1}\to Y_n$ by 
- $$f'(x_k):=\begin{cases}f(x_k)\in Y_n&amp;\text{if }k\le m\\y&amp;\text{if }k=m+1.\end{cases}$$</li>
-<li>By construction $f'$ is injective.</li>
-</ul>
-</li>
+<li>Holding $n$ fixed and using this injective function $f$, we will now construct another injective function $f':X_{m+1}\to Y_n.$ as follows:
+    * Without loss of generality, let $X_m=\{x_1,\ldots,x_m\}$ and $X_{m+1}:=X_m\cup \{x_{m+1}\}.$
+    * Since $n &gt; m,$ and $f$ is injective, there is an element $y\in Y_n$ with $y\neq f(x_k)$ for all $k=1,\ldots,m.$ 
+    * Define the function $f':X_{m+1}\to Y_n$ by 
+ $$f'(x_k):=\begin{cases}f(x_k)\in Y_n&amp;\text{if }k\le m\\y&amp;\text{if }k=m+1.\end{cases}$$
+    * By construction $f'$ is injective.</li>
 </ul>
 </li>
 </ul>

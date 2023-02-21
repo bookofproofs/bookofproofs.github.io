@@ -26,8 +26,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The building in which Saccheri studied was designed by Bartolomeo Bianco and built around 1640; today it is called the Palazzo Balbi and forms the main building of the University of Genoa.
 * In this Jesuit College Saccheri taught grammar and studied philosophy and theology.
 * Both exerted a major influence on Saccheri, Tommaso through personal contacts at Brera College and Giovanni through correspondence.
-* Perhaps Giovanni Ceva had the greatest mathematical influence for his passion for geometry, seen in his book De lineis rectis Ⓣ(Straight  lines) (1678), encouraged Saccheri to work in this area.
-* It was through the influence of Giovanni Ceva that Saccheri published his first mathematical work Quaesita geometrica Ⓣ(The search for geometry) (1693), although the book was also written with considerable advice and help from Tommaso Ceva.
+* Perhaps Giovanni Ceva had the greatest mathematical influence for his passion for geometry, seen in his book "De lineis rectis" Ⓣ(Straight  lines) (1678), encouraged Saccheri to work in this area.
+* It was through the influence of Giovanni Ceva that Saccheri published his first mathematical work "Quaesita geometrica" Ⓣ(The search for geometry) (1693), although the book was also written with considerable advice and help from Tommaso Ceva.
 * In this book, which Saccheri dedicated to Guzman who was the governor of Milan, he solved many problems in elementary geometry.
 * It was not a particularly significant work but showed that Saccheri was becoming deeply involved in thinking about Euclidean geometry.
 * We should also mention at this point that Tommaso Ceva also encouraged Saccheri to correspond with the mathematician Vincenzo Viviani who worked in Florence.

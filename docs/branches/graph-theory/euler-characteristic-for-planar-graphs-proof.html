@@ -51,13 +51,11 @@
 <li>By hypothesis, $G$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> <a href="https://bookofproofs.github.io/branches/graph-theory/planar-graph.html" title="Graph Theory / Definition: Planar Graph">planar graph</a> with a <a href="https://bookofproofs.github.io/branches/graph-theory/planar-drawing-embedding.html" title="Graph Theory / Definition: Planar Drawing (Embedding)">planar drawing</a> consisting of \(v\) <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">vertices</a>, \(e\) <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">edges</a> and \(f\) <a href="https://bookofproofs.github.io/branches/graph-theory/face-infinite-face.html" title="Graph Theory / Definition: Face, Infinite Face">faces</a>.</li>
 <li>We may assume that $v\ge 1,$ since a connected graph requires at least one vertex.</li>
 <li>First, we observe: If the formula $v-e+f=2$ holds for a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">multigraph</a> (i.e. an undirected graph with some <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">loops</a> and/or <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">multiple edges</a>), then it also holds for a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">simple graph</a> obtained from this multigraph by removing all loops and replacing all multiple edges by simple edges.<ul>
-<li>For if we remove a loop or remove in a given multiple edge one of the edges, the numbers $e$,$f$ and $v$ change as follows:<ul>
-<li>$e\to e-1$</li>
-<li>$f\to f-1$</li>
-<li>$v\to v$</li>
-<li>an the formula remains unchanged.</li>
-</ul>
-</li>
+<li>For if we remove a loop or remove in a given multiple edge one of the edges, the numbers $e$,$f$ and $v$ change as follows:
+    * $e\to e-1$
+    * $f\to f-1$
+    * $v\to v$
+    * an the formula remains unchanged.</li>
 </ul>
 </li>
 <li>Therefore, we can assume that we have a <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">simple graph</a>, for which we have to check the formula $v-e+f=2.$ </li>
@@ -70,25 +68,19 @@
 </ul>
 </li>
 <li>Case $v &gt; 2.$<ul>
-<li>Since the graph is <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a>, we can remove edges one by one to get the case $v=2.$ When removing the edges, we have again two sub-cases:<ul>
-<li>Case a) The to-be-removed edge has one vertex with <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">degree</a> $=1$ and the other with degree $ &gt; 1$.<ul>
-<li>In this case, removing the edge would disconnect the graph unless we also remove the vertex with degree $=1$. Thus, </li>
-<li>$e\to e-1$ (the removed edge)</li>
-<li>$f\to f$ (the surrounding face of the removed edge does not change).</li>
-<li>$v\to v-1$ (the removed vertex with degree $=1$)</li>
-<li>Thus, the formula $v-e+f=2$, if correct, does not change.</li>
-</ul>
-</li>
-<li>Case b) Both vertices incident to the to-be-removed edge have a <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">degree</a> $ &gt; 1$.<ul>
-<li>In this case, removing the edge will not disconnect the graph and we do not have to remove any vertices. Thus, </li>
-<li>$e\to e-1$ (the removed edge),</li>
-<li>$f\to f-1$ (two faces incident to the removed edge are melted together to one face),</li>
-<li>$v\to v$ (no removed vertices).</li>
-<li>Thus, the formula $v-e+f=2$, if correct, does not change.</li>
-</ul>
-</li>
-</ul>
-</li>
+<li>Since the graph is <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a>, we can remove edges one by one to get the case $v=2.$ When removing the edges, we have again two sub-cases:
+    * Case a) The to-be-removed edge has one vertex with <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">degree</a> $=1$ and the other with degree $ &gt; 1$.
+       * In this case, removing the edge would disconnect the graph unless we also remove the vertex with degree $=1$. Thus, 
+       * $e\to e-1$ (the removed edge)
+       * $f\to f$ (the surrounding face of the removed edge does not change).
+       * $v\to v-1$ (the removed vertex with degree $=1$)
+       * Thus, the formula $v-e+f=2$, if correct, does not change.
+    * Case b) Both vertices incident to the to-be-removed edge have a <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">degree</a> $ &gt; 1$.
+       * In this case, removing the edge will not disconnect the graph and we do not have to remove any vertices. Thus, 
+       * $e\to e-1$ (the removed edge),
+       * $f\to f-1$ (two faces incident to the removed edge are melted together to one face),
+       * $v\to v$ (no removed vertices).
+       * Thus, the formula $v-e+f=2$, if correct, does not change.</li>
 <li>Altogether, we have shown for the case $v &gt; 2$ that we can transform the graph to the case $v=2,$ for which we have already proven the formula \[v-e+f=2.\]</li>
 </ul>
 </li>

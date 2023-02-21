@@ -24,7 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We know nothing of Yativrsabha's dates except for a reference which he makes to the end of the Gupta dynasty which he says was after 231 years of ruling.
-* This ended in 551 so we must assume that 551 AD is a date which occured during Yativrsabha's lifetime.
+* This ended in 551 so we must assume that 551 AD is a date which occurred during Yativrsabha's lifetime.
 * This fits with the only other information regarding his dates which are that his work is referenced by Jinabhadra Ksamasramana in 609 and that Yativrsabha himself refers to a work written by Sarvanandin in 458.
 * Yativrsabha's work Tiloyapannatti gives various units for measuring distances and time and also describes the system of infinite time measures.
 

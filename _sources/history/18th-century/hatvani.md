@@ -31,8 +31,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Basel Hatvani studied theology and medicine and was awarded a doctorate in both these subjects.
 * They lectured on mathematics, physics and medicine and under their guidance Hatvani soon gained a reputation as an outstanding scientist.
 * Turning down offers of posts at the University of Heidelberg, at the University of Marburg, and at the University of Leiden, Hatvani returned to the Protestant College of Debrecen in 1748 and began his career as a lecturer there.
-* Hatvani made his most significant contribution when he published Introductio ad principia philosophicae solidioris Ⓣ(Introduction to the principles of solid philosophy) in 1757.
-* In this work Hatvani described the theory of probability, in particular basing his material on Jacob Bernoulli's Ars conjectandi Ⓣ(The art of conjecture).
+* Hatvani made his most significant contribution when he published "Introductio ad principia philosophicae solidioris" Ⓣ(Introduction to the principles of solid philosophy) in 1757.
+* In this work Hatvani described the theory of probability, in particular basing his material on Jacob Bernoulli's "Ars conjectandi" Ⓣ(The art of conjecture).
 * For example Hatvani presents tables for the number of births in Debrecen for the years 1750 to 1753 inclusive.
 * Hatvani used his medical skills not only in such investigations, but also in caring for the health of the students at the College of Debrecen.
 

@@ -68,29 +68,21 @@ $$\lim_{n\to\infty}||(\alpha f_n-\alpha f)||_\infty=0.$$ </li>
 <li>We will first show that $f,g$ are bounded. <ul>
 <li>By assumption $f_n,g_n$ are <a href="https://bookofproofs.github.io/branches/analysis/bounded-and-unbounded-functions.html" title="Analysis / Definition: Bounded and Unbounded Functions">bounded</a> for all $n\in\mathbb N.$ </li>
 <li>By definition of bounded, there is a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-of-real-numbers.html" title="Number Systems Arithmetics / Definition: Order Relation of Real Numbers">positive real number</a> $B &gt; 0$ such that $|f_n(x)| &lt; B,$ $|g_n(x)| &lt; B$ for all $n\in\mathbb N$ and all $x\in D.$  </li>
-<li>By definition of <a href="https://bookofproofs.github.io/branches/analysis/supremum-norm-for-functions.html" title="Analysis / Definition: Supremum Norm for Functions">supremum norms</a>, this yieds<ul>
-<li>$||f||_\infty &lt; B$ and</li>
-<li>$||g||_\infty &lt; B.$</li>
-</ul>
-</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/analysis/supremum-norm-for-functions.html" title="Analysis / Definition: Supremum Norm for Functions">supremum norms</a>, this yieds
+    * $||f||_\infty &lt; B$ and
+    * $||g||_\infty &lt; B.$</li>
 <li>Define $\phi_n,\psi:D\to\mathbb N$ by $f_n=\phi_n+f$ and $g_n=\psi_n+g$ for all $n\in\mathbb N.$</li>
 <li>From the triangle inequality, it follows for the <a href="https://bookofproofs.github.io/branches/analysis/supremum-norm-for-functions.html" title="Analysis / Definition: Supremum Norm for Functions">supremum norms</a> $||f_n||_\infty\le ||\phi_n||_\infty + ||f||_\infty$ and $||g_n||_\infty\le ||\psi_n||_\infty + ||g||_\infty.$</li>
 <li>Note that since $f_n\to f$ and $g_n\to g$ <a href="https://bookofproofs.github.io/branches/analysis/pointwise-and-uniformly-convergent-sequences-of-functions.html" title="Analysis / Definition: Pointwise and Uniformly Convergent Sequences of Functions">uniformly</a>, we have $\phi_n\to 0$ and $\psi\to 0$ uniformly.</li>
-<li>Therefore, <ul>
-<li>$||f_n||_\infty\le 1 + ||f||_\infty$ and </li>
-<li>$||g_n||_\infty\le 1 + ||g||_\infty.$</li>
-</ul>
-</li>
-<li>On the other hand, from the uniform convergence and the <a href="https://bookofproofs.github.io/branches/analysis/reverse-triangle-inequalities.html" title="Analysis / Theorem: Reverse Triangle Inequalities">reverse triangle inequality</a> it follows for $\epsilon = 1$ there is an index $N\in\mathbb N$ such that for all $x\in D$ and $n\ge N$ <ul>
-<li>$|f(x)|-|f_n(x)|\le \left||f(x)|-|f_n(x)|\right|\le |f(x)-f_n(x)| &lt; 1$ and</li>
-<li>$|g(x)|-|g_n(x)|\le \left||g(x)|-|g_n(x)|\right|\le |g(x)-g_n(x)| &lt; 1.$ </li>
-</ul>
-</li>
-<li>This yields for all $x\in D$ and $n\ge N$ <ul>
-<li>$|f(x)| &lt; 1 + |f_n(x)|\le 1+||f_n||_\infty &lt; 1+ B$ and </li>
-<li>$|g(x)| &lt; 1 + |g_n(x)|\le 1+||g_n||_\infty &lt; 1+ B$.</li>
-</ul>
-</li>
+<li>Therefore, 
+    * $||f_n||_\infty\le 1 + ||f||_\infty$ and 
+    * $||g_n||_\infty\le 1 + ||g||_\infty.$</li>
+<li>On the other hand, from the uniform convergence and the <a href="https://bookofproofs.github.io/branches/analysis/reverse-triangle-inequalities.html" title="Analysis / Theorem: Reverse Triangle Inequalities">reverse triangle inequality</a> it follows for $\epsilon = 1$ there is an index $N\in\mathbb N$ such that for all $x\in D$ and $n\ge N$ 
+    * $|f(x)|-|f_n(x)|\le \left||f(x)|-|f_n(x)|\right|\le |f(x)-f_n(x)| &lt; 1$ and
+    * $|g(x)|-|g_n(x)|\le \left||g(x)|-|g_n(x)|\right|\le |g(x)-g_n(x)| &lt; 1.$ </li>
+<li>This yields for all $x\in D$ and $n\ge N$ 
+    * $|f(x)| &lt; 1 + |f_n(x)|\le 1+||f_n||_\infty &lt; 1+ B$ and 
+    * $|g(x)| &lt; 1 + |g_n(x)|\le 1+||g_n||_\infty &lt; 1+ B$.</li>
 <li>It follows that $f,g$ are bounded on $D.$</li>
 </ul>
 </li>

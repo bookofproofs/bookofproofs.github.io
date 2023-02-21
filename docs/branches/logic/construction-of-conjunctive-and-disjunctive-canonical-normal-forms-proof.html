@@ -62,20 +62,16 @@
 <li>Assume that there are only rows with $[[\phi]]_I=1$, then continue with step 3. </li>
 <li>Assume that there are only rows with $[[\phi]]_I=0$, then continue with step 4.</li>
 <li>If we have $d\ge 1$ rows with $[[\phi]]_I=1,$ then we construct the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">minterms</a> $m_1,\ldots,m_d,$ as follows: <ul>
-<li>For the $j$-th row with the valuation $[[\phi]]_I=1$, $j=1,\ldots,d$:<ul>
-<li>If  $[[p_i]]_I=0$ in the $j$-th row, then take the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">literal</a> $\neg p_i$, otherwise take the literal $p_i$.</li>
-<li>Form the <a href="https://bookofproofs.github.io/branches/logic/conjunction.html" title="Logic / Definition: Conjunction">conjunction</a> of these literals to form the minterm $m_j:=(\neg)p_1\wedge\ldots\wedge(\neg)p_n$ of the $j$-th row.</li>
-</ul>
-</li>
+<li>For the $j$-th row with the valuation $[[\phi]]_I=1$, $j=1,\ldots,d$:
+    * If  $[[p_i]]_I=0$ in the $j$-th row, then take the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">literal</a> $\neg p_i$, otherwise take the literal $p_i$.
+    * Form the <a href="https://bookofproofs.github.io/branches/logic/conjunction.html" title="Logic / Definition: Conjunction">conjunction</a> of these literals to form the minterm $m_j:=(\neg)p_1\wedge\ldots\wedge(\neg)p_n$ of the $j$-th row.</li>
 <li>Form the <a href="https://bookofproofs.github.io/branches/logic/disjunction.html" title="Logic / Definition: Disjunction">disjunction</a> of all minterms to form the <a href="https://bookofproofs.github.io/branches/logic/conjunctive-and-disjunctive-canonical-normal-forms.html" title="Logic / Definition: Conjunctive and Disjunctive Canonical Normal Forms">disjunctive canonical normal form</a> $\operatorname{dcnf}(\phi):=m_1\vee \ldots\vee m_d.$</li>
 </ul>
 </li>
 <li>If we have $c\ge 1$ rows with $[[\phi]]_I=0,$ then we construct the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">maxterms</a> $M_1,\ldots,M_c,$ as follows: <ul>
-<li>For the $j$-th row with the valuation $[[\phi]]_I=0$, $j=1,\ldots,c$:<ul>
-<li>If  $[[p_i]]_I=0$ in the $j$-th row, then take the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">literal</a> $p_i$, otherwise take the literal $\neg p_i$.</li>
-<li>Form the <a href="https://bookofproofs.github.io/branches/logic/disjunction.html" title="Logic / Definition: Disjunction">disjunction</a> of these literals to form the maxterm $M_j:=(\neg)p_1\vee\ldots\vee(\neg)p_n$ of the $j$-th row.</li>
-</ul>
-</li>
+<li>For the $j$-th row with the valuation $[[\phi]]_I=0$, $j=1,\ldots,c$:
+    * If  $[[p_i]]_I=0$ in the $j$-th row, then take the <a href="https://bookofproofs.github.io/branches/logic/literals-minterms-and-maxterms.html" title="Logic / Definition: Literals, Minterms, and Maxterms">literal</a> $p_i$, otherwise take the literal $\neg p_i$.
+    * Form the <a href="https://bookofproofs.github.io/branches/logic/disjunction.html" title="Logic / Definition: Disjunction">disjunction</a> of these literals to form the maxterm $M_j:=(\neg)p_1\vee\ldots\vee(\neg)p_n$ of the $j$-th row.</li>
 <li>Form the <a href="https://bookofproofs.github.io/branches/logic/conjunction.html" title="Logic / Definition: Conjunction">conjunction</a> of all maxterms to form the <a href="https://bookofproofs.github.io/branches/logic/conjunctive-and-disjunctive-canonical-normal-forms.html" title="Logic / Definition: Conjunctive and Disjunctive Canonical Normal Forms">conjunctive canonical normal form</a> $\operatorname{ccnf}(\phi):=M_1\wedge \ldots\wedge M_c.$</li>
 </ul>
 </li>

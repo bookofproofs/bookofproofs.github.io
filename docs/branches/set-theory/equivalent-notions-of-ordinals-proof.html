@@ -88,18 +88,14 @@
 <li>Since $(2)$ and $(1)$ are equivalent, $\in$ is a <a href="https://bookofproofs.github.io/branches/set-theory/strict-total-order-strictly-ordered-set.html" title="Set Theory / Definition: Strict Total Order, Strictly-ordered Set">strict order</a> and a <a href="https://bookofproofs.github.io/branches/set-theory/well-order-well-ordered-set.html" title="Set Theory / Definition: Well-order, Well-ordered Set">well-order</a>.</li>
 <li>Therefore, $X\setminus w$ contains a <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">minimal</a> element $z\in X\setminus w.$</li>
 <li>Thus, $z\in X$ and $z\not\in w$ and there is no element $x\in X\setminus w$ with $x\in z.$ We will show that $z=w,$ which means $w\in X.$<ul>
-<li>We have $z\subseteq w.$<ul>
-<li>If $y\in z,$ then since $y\in z\in X$ we have $y\in X,$ because $X$ is transitive. </li>
-<li>But $z$ is minimal in $X\setminus w$, i.e. there is no other element $x\in X\setminus w$ with $x\in z.$  </li>
-<li>Since $y\in z$ and $y\in X$ and there is no other element $x\in X\setminus w$ with $x\in z,$ we have $y\in w.$</li>
-</ul>
-</li>
-<li>We have $w\subseteq z.$<ul>
-<li>Let $y\in w.$ </li>
-<li>We have $z\not\in y,$ otherwise we would have $z\in w$ because $w$ is transitive, in contradiction to the hypothesis $z\not\in w.$</li>
-<li>Therefore, $y\neq z$ and $z\not\in y$ which means $y\in z,$ since $\in$ is a <a href="https://bookofproofs.github.io/branches/set-theory/strict-total-order-strictly-ordered-set.html" title="Set Theory / Definition: Strict Total Order, Strictly-ordered Set">strict total order</a>. </li>
-</ul>
-</li>
+<li>We have $z\subseteq w.$
+    * If $y\in z,$ then since $y\in z\in X$ we have $y\in X,$ because $X$ is transitive. 
+    * But $z$ is minimal in $X\setminus w$, i.e. there is no other element $x\in X\setminus w$ with $x\in z.$<br />
+    * Since $y\in z$ and $y\in X$ and there is no other element $x\in X\setminus w$ with $x\in z,$ we have $y\in w.$</li>
+<li>We have $w\subseteq z.$
+    * Let $y\in w.$ 
+    * We have $z\not\in y,$ otherwise we would have $z\in w$ because $w$ is transitive, in contradiction to the hypothesis $z\not\in w.$
+    * Therefore, $y\neq z$ and $z\not\in y$ which means $y\in z,$ since $\in$ is a <a href="https://bookofproofs.github.io/branches/set-theory/strict-total-order-strictly-ordered-set.html" title="Set Theory / Definition: Strict Total Order, Strictly-ordered Set">strict total order</a>. </li>
 </ul>
 </li>
 <li>Altogether, we have shown, given the equivalence $(1)\Leftrightarrow (2),$ that from $w$ being transitive and $w\subset X$ it follows that $w\in X.$</li>

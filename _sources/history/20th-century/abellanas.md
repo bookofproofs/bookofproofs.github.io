@@ -32,7 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1942 Abellanas was appointed to the chair of Analytical Geometry and Topology at the University of Zaragoza.
 * Abellanas attended the International Congress of Mathematicians held at Harvard in early September 1950, where he presented the paper Varietes fondamentales par rapport d'une correspondance algebrique Ⓣ(Fundamental varieties in relation to an algebraic correspondance).
 * Let us now look at the books that Abellanas published.
-* In 1961 Abellanas published the geometry textbook Geometría básica Ⓣ(Basic geometry).
+* In 1961 Abellanas published the geometry textbook "Geometría básica" Ⓣ(Basic geometry).
 * The other major textbook by Abellanas is Matemática para físicos e ingenieros Ⓣ(Mathematics for physicists and engineers) (1963).
 * There are many other contributions that Abellanas made to mathematics in general and, in particular, to the progress of mathematics in Spain.
 * Another notable contribution by Abellanas was the organization of the Mathematical Olympiads of the Real Sociedad Matemática Española (The Royal Spanish Mathematical Society).

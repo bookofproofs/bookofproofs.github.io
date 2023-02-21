@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Howard Van Amringe** was an American educator and mathematician.
 
 ### Mathematical Profile (Excerpt):
-* William Frederick Van Amringe was born on 22 May 1791, became a lawyer, published the massive book An Investigation of the Theories of the Natural History of Man in 1848 and The nature and origin of heat and the forces of the universe in 1869, and died on 16 March 1873.
+* William Frederick Van Amringe was born on 22 May 1791, became a lawyer, published the massive book "An Investigation of the Theories of the Natural History of Man" in 1848 and "The nature and origin of heat and the forces of the universe" in 1869, and died on 16 March 1873.
 * Van Amringe taught at Columbia while an undergraduate but not, as one might expect, in the Department of Mathematics but rather in the Department of Greek.
 * Van Am, as he was known, spent his entire career at Columbia College.
 * At the meeting on 5 December 1890, Van Amringe proposed that the Society should publish a Bulletin.

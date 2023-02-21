@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hill was not a good teacher and, as a consequence, it was not his lectures that attracted Bäcklund to mathematics.
 * Rather it was the seminars of the assistant professor, Edvard von Zeipel (appointed to Lund in 1861), that turned Bäcklund towards mathematics.
 * After his Candidates' Degree, Bäcklund continued to undertake research at Lund for his doctorate, advised by Möller, which was awarded in 1868.
-* Despite writing a thesis on astronomy, Bäcklund published a paper on geometry Några satser om plana algebraiska kurvor, som gå genom samma skärningspunkter Ⓣ(Some comments on planar algebraic curves, which go through the same intersection points)  in 1868.
+* Despite writing a thesis on astronomy, Bäcklund published a paper on geometry "Några satser om plana algebraiska kurvor, som gå genom samma skärningspunkter" Ⓣ(Some comments on planar algebraic curves, which go through the same intersection points)  in 1868.
 * Bäcklund, although relatively inexperienced at this stage in his career, applied for the position as did Edvard von Zeipel, the assistant professor, Carl Fabian Emanuel Björling, a lecturer in Halmstad, Göran Dillner, an assistant professor in Uppsala, and Sophus Lie.
 * Perhaps surprisingly, since he was also a candidate for the chair, Bäcklund was asked to act as Björling's opponent for this defence.
 * Bäcklund pointed out that many of the results claimed by Björling had been proved many years before by Euler.
