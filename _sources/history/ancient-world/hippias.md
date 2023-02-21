@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, Pappus reports that Sporus had two criticisms of Hippias's method with which he agrees.
 * The point here seems to be a question of what exactly Hippias is trying to show with his quadratrix.
 
-Born about 460BC, Elis, Peloponnese, Greece. Died about 400 BC.
+Born about 460 BC, Elis, Peloponnese, Greece. Died about 400 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hippias/)

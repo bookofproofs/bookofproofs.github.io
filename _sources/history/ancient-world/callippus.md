@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Callippus introduced a system of 34 spheres to explain the motions of the heavenly bodies.
 * Other contributions of Callippus to mathematical astronomy included his observation of the inequality in the lengths of the seasons.
 
-Born about 370BC, Cyzicus, Asia Minor (now Turkey). Died about 310 BC.
+Born about 370 BC, Cyzicus, Asia Minor (now Turkey). Died about 310 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Callippus/)

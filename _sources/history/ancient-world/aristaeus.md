@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The work of both Aristaeus and Euclid on conics was, almost 200 years later, further developed by Apollonius.
 * This work by Apollonius made the theory of conics as developed by Aristaeus and Euclid obsolete.
 
-Born about 370BC, Greece. Died about 300 BC.
+Born about 370 BC, Greece. Died about 300 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Aristaeus/)

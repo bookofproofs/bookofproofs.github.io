@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His argument is based on a comment by Cleomedes in the text where he remarks than there are two bright stars (Aldebaran and Antares) such that the rising of one and the setting of the other take place at the same time.
 * These stars Cleomedes claims lie at 15° of their sign.
 * Using Ptolemy's positions for the stars at the time the Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') was written and Ptolemy's value of 1° per 100 years for precession, Neugebauer gets his date of 371 AD for Cleomedes writings, to which Neugebauer estimates a maximum error of 50 years on either side.
-* Firstly the data in On the Circular Motions of the Celestial Bodies does not seem to be due to Cleomedes but to a variety of sources.
+* Firstly the data in "On the Circular Motions of the Celestial Bodies" does not seem to be due to Cleomedes but to a variety of sources.
 * Of course accepting this argument would make Cleomedes dates later still.
 * Secondly the data in Cleomedes is of widely differing degrees of accuracy.
 * Heath's comment that Cleomedes knows nothing of the works of Ptolemy is also less certain than it might at first appear.

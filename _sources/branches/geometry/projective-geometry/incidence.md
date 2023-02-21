@@ -16,6 +16,6 @@ contributors: bookofproofs
 
 By **incidence**, we mean in projective geometry that a [point][bookofproofs$631] and a [straight line][bookofproofs$645], or a point and a [plane][bookofproofs$647], or a straight line and a plane are [subsets and supersets][bookofproofs$552] of each other in the set-theoretic sense. In other words, if `$A$` is a point, `$l$` is a straight line and `$\alpha$` is a plane, then 
 
-* `$A$` and `$l$` are **incident** (or "$A$ **lies on** `$l$`", or "$l$ **passes through** `$A$`"), if and only if `$A\subset l,$`
-* `$A$` and `$\alpha$` are **incident** (or "$A$ **lies on** `$\alpha$`", or "$\alpha$ **passes through** `$A$`"),  if and only if `$A\subset \alpha,$`
-* `$l$` and `$\alpha$` are **incident** (or "$l$ **lies on** `$\alpha$`", or "$\alpha$ **passes through** `$l$`"), if and only if `$l\subset \alpha.$`
+* `$A$` and `$l$` are **incident** (or "`$A$` **lies on** `$l$`", or "`$l$` **passes through** `$A$`"), if and only if `$A\subset l,$`
+* `$A$` and `$\alpha$` are **incident** (or "`$A$` **lies on** `$\alpha$`", or "`$\alpha$` **passes through** `$A$`"),  if and only if `$A\subset \alpha,$`
+* `$l$` and `$\alpha$` are **incident** (or "`$l$` **lies on** `$\alpha$`", or "`$\alpha$` **passes through** `$l$`"), if and only if `$l\subset \alpha.$`

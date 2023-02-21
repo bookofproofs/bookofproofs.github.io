@@ -39,6 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, Eudoxus was born within a few years of the death of Hippocrates, and so there follows the intriguing question of how Hippocrates proved this theorem.
 * Since Eudemus seems entirely satisfied that Hippocrates does indeed have a correct proof, it seems almost certain from this circumstantial evidence that we can deduce that Hippocrates himself developed at least a variant of the method of exhaustion.
 
-Born about 470BC, Chios, Greece. Died about 410 BC.
+Born about 470 BC, Chios, Greece. Died about 410 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hippocrates/)

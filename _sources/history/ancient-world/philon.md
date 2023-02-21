@@ -40,6 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One important mathematical contribution by Philon was to the problem of duplicating the cube.
 * However, this is not so for Philon examines the following problem.
 
-Born about 280BC, Byzantium (Turkey). Died about 220 BC.
+Born about 280 BC, Byzantium (Turkey). Died about 220 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Philon/)

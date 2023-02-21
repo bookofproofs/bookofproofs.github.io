@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second objection relates to Dinostratus's use of the quadratrix to square the circle.
 * Dinostratus probably did much more work on geometry but nothing is known of it.
 
-Born about 390BC, Greece. Died about 320 BC.
+Born about 390 BC, Greece. Died about 320 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dinostratus/)

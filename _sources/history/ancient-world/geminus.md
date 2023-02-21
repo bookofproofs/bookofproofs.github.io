@@ -47,6 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Proclus suggests, however, that the curve goes back to Apollonius 150 years before Geminus.
 * But Geminus proves an interesting classification theorem, namely that the helix, the circle and the straight line are the only curves with the property that any part of the curve will coincide with any other part of the same length.
 
-Born about 10BC, (possibly) Rhodes, Greece. Died about AD 60.
+Born about 10 BC, (possibly) Rhodes, Greece. Died about AD 60.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Geminus/)

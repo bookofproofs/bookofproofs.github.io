@@ -78,6 +78,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Because of this Pythagoras left for Metapontium and there is said to have ended his days.
 * This seems accepted by most but Iamblichus himself does not accept this version and argues that the attack by Cylon was a minor affair and that Pythagoras returned to Croton.
 
-Born about 570BC, Samos, Ionia. Died about 490 BC.
+Born about 570 BC, Samos, Ionia. Died about 490 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Pythagoras/)

@@ -37,6 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Archytas is sometimes called the founder of mechanics and he is said to have invented two mechanical devices.
 * Finally we quote again from the writings of Archytas about his theory of how to learn.
 
-Born about 428BC, Tarentum, Magna Graecia (now Taranto, Italy). Died about 350 BC.
+Born about 428 BC, Tarentum, Magna Graecia (now Taranto, Italy). Died about 350 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Archytas/)

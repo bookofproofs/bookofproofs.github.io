@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * How did Nicomedes define the curve.
 * Nicomedes also used the quadratrix, discovered by Hippias, to solve the problem of squaring the circle.
 
-Born about 280BC, Greece. Died about 210 BC.
+Born about 280 BC, Greece. Died about 210 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nicomedes/)

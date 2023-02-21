@@ -45,6 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Heath points out that if Democritus carried over his atomic theory to geometrical lines then there is no dilemma for him since his cone is indeed stepped with atom sized steps.
 * Heath certainly believed that to Democritus lines were infinitely divisible.
 
-Born about 460BC, Abdera, Thrace, Greece. Died about 370 BC.
+Born about 460 BC, Abdera, Thrace, Greece. Died about 370 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Democritus/)

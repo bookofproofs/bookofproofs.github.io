@@ -41,6 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From the treatise On the Mind we have the only quotation of the words of Leucippus which have survived.
 * Leucippus also contributed to the method of exhaustion.
 
-Born about 480BC, (possibly) Miletus, Asia Minor. Died about 420 BC.
+Born about 480 BC, (possibly) Miletus, Asia Minor. Died about 420 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Leucippus/)

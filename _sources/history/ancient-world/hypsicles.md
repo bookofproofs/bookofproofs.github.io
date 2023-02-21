@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The mistake which Hypsicles makes is to assume that the rising times form an arithmetical progression.
 * Without the aid of the sine function and trigonometry it is hard to see how Hypsicles could have done better.
 
-Born about 190BC, Alexandria, Egypt. Died about 120 BC.
+Born about 190 BC, Alexandria, Egypt. Died about 120 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hypsicles/)

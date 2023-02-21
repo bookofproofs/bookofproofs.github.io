@@ -30,7 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Aristotle realised that he had only a short time left to live he chose his successor between his two companions, Eudemus and Theophrastus.
 * He chose Theophrastus and it appears that Eudemus, although not unhappy with the decision, left Athens and set up his own school, probably back on his native Rhodes.
 * To say that Eudemus was not an original mathematician may be fair but just a little harsh, for we do know through Proclus that he wrote an original mathematical work called On the Angle.
-* We know of three works on the history of mathematics by Eudemus, namely History of Arithmetic (two or more books), History of Geometry (two or more books), and History of Astronomy (two or more books).
+* We know of three works on the history of mathematics by Eudemus, namely "History of Arithmetic" (two or more books), "History of Geometry" (two or more books), and "History of Astronomy" (two or more books).
 * The History of Geometry is the most important of the three mathematical histories of Eudemus.
 * We are fortunate therefore that much of the knowledge that Eudemus had of the history of Greek mathematics before Euclid (it had to be before Euclid given the dates when Eudemus was writing) has reached us despite the fact that he book has not.
 * In many of the articles in this archive we have quoted from accounts based on Eudemus.
@@ -47,6 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many authors refer to Eudemus as the 'pious Eudemus' due to his belief in the 'contemplation of God'.
 * This however may be due to editing by a later Christian who would have seen that clearly Eudemus meant 'contemplation of God' rather than what is much more likely what he wrote 'contemplation of Mind' and "corrected" the text accordingly!
 
-Born about 350BC, Rhodes, Greece. Died about 290 BC.
+Born about 350 BC, Rhodes, Greece. Died about 290 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Eudemus/)

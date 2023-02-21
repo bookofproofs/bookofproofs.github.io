@@ -27,6 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Iamblichus tells us that Thymaridas called a prime number rectilinear since it can only be represented one-dimensionally.
 * Thymaridas also gave methods for solving simultaneous linear equations which became known as the 'flower of Thymaridas'.
 
-Born about 400BC, Paros, Greece. Died about 350 BC.
+Born about 400 BC, Paros, Greece. Died about 350 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Thymaridas/)

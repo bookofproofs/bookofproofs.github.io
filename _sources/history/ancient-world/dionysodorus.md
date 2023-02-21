@@ -41,6 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dionysodorus is believed to have invented a conical sundial.
 * The report fails to make it clear which Dionysodorus this is, but the fact that the Dionysodorus described here worked on conic sections makes it likely that he is also the person to have studied a conical sundial.
 
-Born about 250BC, Caunus, Caria, Asia Minor (now in Turkey). Died about 190 BC.
+Born about 250 BC, Caunus, Caria, Asia Minor (now in Turkey). Died about 190 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dionysodorus/)

@@ -39,6 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Of the other works mentioned in the Suda we have no reason to doubt that Theodosius wrote a commentary on the Method by Archimedes but there is no other evidence to prove whether this is correct or not.
 * Theodosius is also reported to have invented a sundial suitable for all regions but nothing is known about it.
 
-Born about 160BC, Bithynia, Anatolia (now Turkey). Died about 90 BC.
+Born about 160 BC, Bithynia, Anatolia (now Turkey). Died about 90 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Theodosius/)

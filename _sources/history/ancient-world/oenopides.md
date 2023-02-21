@@ -36,6 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Oenopides also developed a theory to account for the Nile floods.
 * We have some other indications of the philosophy of Oenopides.
 
-Born about 490BC, Chios, Greece. Died about 420 BC.
+Born about 490 BC, Chios, Greece. Died about 420 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Oenopides/)

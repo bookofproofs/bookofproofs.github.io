@@ -36,6 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite Autolycus's attempts to explain these observations within Eudoxus's theory, he had no real answer to these problems.
 * It is also a better constructed book and it is interesting to see how Autolycus's book has developed and improved between the two editions.
 
-Born about 360BC, Pitane, Aeolis, Asia Minor (now Turkey). Died about 290 BC.
+Born about 360 BC, Pitane, Aeolis, Asia Minor (now Turkey). Died about 290 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Autolycus/)

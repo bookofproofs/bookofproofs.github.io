@@ -40,6 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another matter relating to the structure of mathematics which Menaechmus discussed was the distinction between theorems and problems.
 * Although many had claimed that the two were different, Menaechmus on the other hand claimed that there was no fundamental distinction.
 
-Born about 380BC, Alopeconnesus, Asia Minor (now Turkey). Died about 320 BC.
+Born about 380 BC, Alopeconnesus, Asia Minor (now Turkey). Died about 320 BC.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Menaechmus/)
