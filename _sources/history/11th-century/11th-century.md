@@ -21,5 +21,22 @@ contributors: bookofproofs
 
 ## Chronology
 
-### 1010
-_(no contents provided yet)_
+### 1004
+* [Al-Biruni][bookofproofs$Al-Biruni] 
+  * observes another eclipse of the moon from Jurjaniyya.
+  * provides generous support for al-Biruni's scientific work.
+* [Mansur][bookofproofs$Mansur] Mansur and Al-Biruni renew collaboration.
+
+### between 1012 and 1018
+* [Al-Jayyani][bookofproofs$Al-Jayyani] 
+  * lives in Cairo and undertakes most of his work in Jaén,
+  * built an instrument at Jurjaniyya to observe solar meridian transits, 
+  * makes 15 observations with the instrument, 
+  * makes observations from Ghazna which allowed an accurate determination of its latitude.
+
+### 1040
+* [Hermann][bookofproofs$Hermann_of_Reichenau] writes "Epistola de quantitate mensis lunaris", adressing the problem of the lengths of the lunar month.
+
+### 1072
+* [Kua][bookofproofs$Shen_Kua] becomes Director of the Astronomy Bureau.
+

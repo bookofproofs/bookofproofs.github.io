@@ -69,7 +69,6 @@ _(no contents provided yet)_
 
 ### about 880
 * [Al-Battani][bookofproofs$Al-Battani] catalogues 489 stars (868,929) and makes accurate measurements of the stars, moon and planets.
-* [Gerbert][bookofproofs$Gerbert] (also known as Pope Sylvester II) popularises Indo-Arabic numerals.
 
 ### about 950
 * [Al-Khazin][bookofproofs$Al-Khazin] 
@@ -94,3 +93,4 @@ _(no contents provided yet)_
 * [Kushyar][bookofproofs$Kushyar] writes "Principles of Hindu reckoning"
 * [Al-Jayyani][bookofproofs$Al-Jayyani] writes commentaries on Euclid's Elements and a first treatise on spherical trigonometry.
 * [Mansur][bookofproofs$Mansur] discovers the sine rule for triangles.
+* [Gerbert][bookofproofs$Gerbert] (also known as Pope Sylvester II) popularises Indo-Arabic numerals.

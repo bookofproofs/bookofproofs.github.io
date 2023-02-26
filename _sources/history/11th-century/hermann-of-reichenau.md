@@ -46,7 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * They are arranged with great economy of space and are handy to use.
 * This chart is ruled in double lines of red and green, meeting in one corner in a grotesque drawing of a lion's head.
 * Another interesting piece of work by Hermann is on lunar months.
-* Around 1040 he wrote Epistola de quantitate mensis lunaris which addressed the problem of the lengths of the lunar month.
+* Around 1040 he wrote "Epistola de quantitate mensis lunaris" which addressed the problem of the lengths of the lunar month.
 * It was known that the moon and the sun essentially returned to the same position after a cycle of 19 years.
 * Of course, Hermann did not have the decimal notation we have just used in this calculation.
 * He had units of time which divided a day into 24 hours, an hour into 40 moments, and a moment into 564 atoms.
