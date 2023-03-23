@@ -44,10 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After these four examples to illustrate the methods, Zhu presents 288 problems which are divided into three volumes with 24 chapters.
 * One of the most interesting aspects of this work is that Zhu, although still using the traditional Chinese approach of presenting mathematics through practical problems, does not in any sense make his examples realistic.
 * Therefore Zhu does not necessarily give the simplest solution to a problem, but rather often introduces complications explicitly designed to illustrate how to handle more complicated situations.
-* Let us illustrate by giving one of Zhu's problems.
-* Zhu, however, wants to illustrate something more advanced than solving a quadratic equation.
-* Here is another of Zhu's problems.
-* By working out the second, third and fourth differences, Zhu solved the following problem.
 
 Born about 1260, Yan-shan, near Peking (now Beijing) China. Died about 1320, Not known.
 

@@ -27,7 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At about the same time as he began to study medicine, al-Samawal also began to study mathematics.
 * Baghdad at this time was not a great centre for mathematical learning, and al-Samawal had soon mastered all the mathematics which his teachers knew.
 * In order to take his mathematical studies further, al-Samawal had to study on his own.
-* His most famous treatise al-Bahir fi'l-jabr, meaning The brilliant in algebra, was written when al-Samawal was only nineteen years old.
+* His most famous treatise "al-Bahir fi'l-jabr", meaning "The brilliant in algebra", was written when al-Samawal was only nineteen years old.
 * Al-Samawal's predecessors had begun to develop what has been called by historians today the "arithmetisation of algebra".
 * This will strongly suggest to mathematicians today that al-Samawal was developing the study of polynomial rings and indeed this is a fair description of the work he was undertaking.
 * After defining polynomials, al-Samawal describes addition, subtraction, multiplication and division of polynomials.

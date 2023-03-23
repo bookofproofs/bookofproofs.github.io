@@ -42,7 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We use, of course, modern notation to make the solution easy to understand, while al-Tusi would express all his mathematics in words.
 * Of course al-Tusi's use of the derivative of a function, without of course saying so, is very interesting.
 * Al-Tusi then went on to give what we would essentially call the Ruffini-Horner method for approximating the root of the cubic equation.
-* Although this method had been used by earlier Arabic mathematicians to find approximations for the nnnth root of an integer, al-Tusi is the first that we know who applied the method to solve general equations of this type.
+* Although this method had been used by earlier Arabic mathematicians to find approximations for the `$n$`th root of an integer, al-Tusi is the first that we know who applied the method to solve general equations of this type.
 * Another famous work by al-Tusi is one in which he describes the linear astrolabe, sometimes called the "staff of al-Tusi", which he invented.
 
 Born about 1135, Tus, Khorasan (now Iran). Died 1213, Iran.

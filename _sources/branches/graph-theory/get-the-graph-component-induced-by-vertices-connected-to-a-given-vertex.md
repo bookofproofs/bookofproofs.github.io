@@ -20,7 +20,7 @@ The time complexity of the algorithm is `\(\mathcal O (|V|+|E|)\)`.
 
 #### Implementation notes
 
-Please note that the for-next loop in the lines `\(1\)` to `\(3\)` has to be omitted, if the algorithm is used as a subprogram of more general algorithms also making use of the array `\(visited\)`, e.g. the algorithm to obtain all components of a graph `\(\mathtt{getCOMPONENTS(G)}\)`. Otherwise, this loop would destroy the information about visited nodes obtained during the more general algorithm.
+Please note that the for-next loop in the lines `\(1\)` to `\(3\)` has to be omitted, if the algorithm is used as a subprogram of more general algorithms also making use of the array `visited`, e.g. the algorithm to obtain all components of a graph `get_components(G)`. Otherwise, this loop would destroy the information about visited nodes obtained during the more general algorithm.
 
 ---
 

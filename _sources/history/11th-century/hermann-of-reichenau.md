@@ -40,7 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Some parts of these works may not have been written by Hermann and the most likely author on which they are based must be Gerbert of Aurillac.
 * The description of the astrolabe that Hermann gives is for an instrument which is designed to be used at a latitude of forty-eight degrees, which is indeed the latitude of Reichenau.
 * These works contain more than just a description of the astrolabe, however, for they also contain star charts (again with data correct for the latitude of Reichenau) and a calculation of the earth's diameter.
-* Hermann's contributions to mathematics include a treatise Qualiter multiplicationes fiant in abbaco dealing with multiplication and division, although this book is written entirely with Roman numerals.
+* Hermann's contributions to mathematics include a treatise "Qualiter multiplicationes fiant in abbaco" dealing with multiplication and division, although this book is written entirely with Roman numerals.
 * It contains the multiples, products, and quotients of the duodecimal fractions.
 * A closely similar, and also undescribed, set of tables is, in fact, to be found in a manuscript of English origin written in or about the year 1111 A.D. and now in the library of St John's College, Oxford.
 * They are arranged with great economy of space and are handy to use.

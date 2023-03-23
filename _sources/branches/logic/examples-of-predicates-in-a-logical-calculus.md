@@ -30,6 +30,6 @@ Take [real numbers][bookofproofs$1105] as the [domain of discourse][bookofproofs
 
 This proposition can be codified using a string like this:
 
-> "$\forall\epsilon\,(\epsilon > 0)\,\exists\delta\,(\delta > 0)\,\forall x\,(x\in D)\,(|x-a|<\delta\Longrightarrow|f(x)-f(a)|<\epsilon).$"
+> "`$\forall\epsilon\,(\epsilon > 0)\,\exists\delta\,(\delta > 0)\,\forall x\,(x\in D)\,(|x-a|<\delta\Longrightarrow|f(x)-f(a)|<\epsilon).$`"
 
 In this string, `\("x \in D"\)` is a unary predicate, because it takes one argument `\(x\)` to indicate that is contained in `\(D\)`. The comparison relation `\( " < " \)` is a binary predicate because it compares two arguments.

@@ -35,7 +35,7 @@ contributors: bookofproofs
   * makes observations from Ghazna which allowed an accurate determination of its latitude.
 
 ### 1040
-* [Hermann][bookofproofs$Hermann_of_Reichenau] writes "Epistola de quantitate mensis lunaris", adressing the problem of the lengths of the lunar month.
+* [Hermann of Reichenau][bookofproofs$Hermann_of_Reichenau] writes "Epistola de quantitate mensis lunaris", adressing the problem of the lengths of the lunar month.
 
 ### 1072
 * [Kua][bookofproofs$Shen_Kua] becomes Director of the Astronomy Bureau.

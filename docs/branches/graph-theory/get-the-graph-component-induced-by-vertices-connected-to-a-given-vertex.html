@@ -49,7 +49,7 @@
 <p>The following algorithm \(\mathtt{getCOMPONENT(G,v,m)}\) obtains correctly the <a href="https://bookofproofs.github.io/branches/graph-theory/get-all-components-of-a-graph.html" title="Graph Theory / Algorithm: Get All Components of a Graph">component</a> containing \(v\).</p>
 <p>The time complexity of the algorithm is \(\mathcal O (|V|+|E|)\).</p>
 <h4>Implementation notes</h4>
-<p>Please note that the for-next loop in the lines \(1\) to \(3\) has to be omitted, if the algorithm is used as a subprogram of more general algorithms also making use of the array \(visited\), e.g. the algorithm to obtain all components of a graph \(\mathtt{getCOMPONENTS(G)}\). Otherwise, this loop would destroy the information about visited nodes obtained during the more general algorithm.</p>
+<p>Please note that the for-next loop in the lines \(1\) to \(3\) has to be omitted, if the algorithm is used as a subprogram of more general algorithms also making use of the array <code>visited</code>, e.g. the algorithm to obtain all components of a graph <code>get_components(G)</code>. Otherwise, this loop would destroy the information about visited nodes obtained during the more general algorithm.</p>
 <h1>Algorithm: Get the Component Induced by Vertices Connected to a Given Vertex</h1>
 <p>FOR v_i\in V\setminus{v}
 visited[v_i]:=NIL; // unmark all other vertices in \(G\) (still unvisited)

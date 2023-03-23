@@ -15,7 +15,7 @@ contributors: bookofproofs
 ---
 
 Let `\(G(V,E,\gamma)\)` be a non-empty undirected [graph][bookofproofs$523].
-* `\(G\)` is called **connected**, if there is a [path][bookofproofs$1164] `\(P=w-u\)` between any two of its vertices `\(w\)` and `\(u\)`. Equivalently, a connected graph has exactly one component, i.e. the [output of the algorithm][bookofproofs$1220] `\(\mathtt{getCOMPONENTS(G)}\)` is a set `\(C\)` of subgraphs with `\(|C|=1\)`.
+* `\(G\)` is called **connected**, if there is a [path][bookofproofs$1164] `\(P=w-u\)` between any two of its vertices `\(w\)` and `\(u\)`. Equivalently, a connected graph has exactly one component, i.e. the [output of the algorithm][bookofproofs$1220] `get_components(G)` is a set `\(C\)` of subgraphs with `\(|C|=1\)`.
 * `\(G\)` is called **disconnected**, if it has more than one component, i.e. if it is not connected. 
 * An edge in a connected graph is a **bridge**, if its removal leaves a disconnected graph.
 * A vertex of a connected graph is a **cutvertex** or **articulation point**, if its removal leaves a disconnected graph.

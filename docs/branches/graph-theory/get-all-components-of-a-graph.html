@@ -45,21 +45,32 @@
 
 <hr>
 
-<p>Let \(G(V,E)\) be a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a>. Then the following algorithm \(\mathtt{getCOMPONENTS(G)}\) obtains correctly the set of all components of \(G\) and its time complexity is \(\mathcal O(|V|+|E|)\).</p>
+<p>Let \(G(V,E)\) be a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a>. Then the following algorithm <code>get_components(G)</code> obtains correctly the set of all components of \(G\) and its time complexity is \(\mathcal O(|V|+|E|)\).</p>
 <h1>Algorithm: Get All Components of a Graph</h1>
-<p>FOR v\in V
-visited[v]:=NIL; // unmark all vertices in \(G\) 
-NEXT</p>
-<p>C=\emptyset; // initiate empty set of all components<br />
-m:=0;
-FOR v\in V
-IF visited[v]=NIL THEN 
-m:=m+1; // increase the component number
-C:=C\cup {\mathtt{getCOMPONENT(G,v,m)}}; // obtain the \(m\)-th component and add it as an element of \(C\); 
-;// please note that here, the \(visited\) property of all vertices of the last component is marked by \(m\). 
-ENDIF
-NEXT</p>
-<p>RETURN C; // return the set of all components</p>
+
+<div class="codehilite"><table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="n">function</span> <span class="n">get_components</span><span class="p">(</span><span class="n">G</span><span class="p">):</span>
+    <span class="n">G</span><span class="o">.</span><span class="n">unvisit_all_vertices</span><span class="p">()</span>
+
+    <span class="n">C</span><span class="o">=</span><span class="nb">set</span><span class="p">()</span>  <span class="c1"># initiate empty set of all components  </span>
+    <span class="n">m</span><span class="o">=</span><span class="mi">0</span>
+    <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">G</span><span class="o">.</span><span class="n">V</span><span class="p">:</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">v</span><span class="o">.</span><span class="n">is_visited</span><span class="p">():</span>
+            <span class="n">m</span> <span class="o">+=</span> <span class="mi">1</span>  <span class="c1"># increase the component number </span>
+            <span class="n">C</span> <span class="o">=</span> <span class="n">C</span><span class="o">.</span><span class="n">union</span><span class="p">(</span><span class="n">getCOMPONENT</span><span class="p">(</span><span class="n">G</span><span class="p">,</span><span class="n">v</span><span class="p">,</span><span class="n">m</span><span class="p">))</span>  <span class="c1"># obtain the m-th component and add it as an element of C  </span>
+        <span class="c1"># at this stage, the &#39;visited&#39; argument of all vertices of the last component is marked by m. </span>
+    <span class="k">return</span> <span class="n">C</span> <span class="c1"># return the set of all components</span>
+</code></pre></div></td></tr></table></div>
+
 <h3 class='navigation'>Table of Contents</h3>
 
 <p>Proofs: <a href='https://bookofproofs.github.io/branches/graph-theory/get-all-components-of-a-graph-proof-of-correctness.html'>1</a> <a href='https://bookofproofs.github.io/branches/graph-theory/get-all-components-of-a-graph-proof-of-time-complexity.html'>2</a> </p>

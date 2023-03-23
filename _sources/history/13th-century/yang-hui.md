@@ -29,7 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Again we know the names of four of Yang's friends who were also interested in mathematics, but again as these men are unknown except for Yang's reference to them.
 * The best guess that historians make is that Yang was a minor Chinese official.
 * Any teacher of mathematics today can identify with what Yang is trying to do here.
-* In 1261 Yang wrote the Xiangjie jiuzhang suanfa (Detailed analysis of the mathematical rules in the Nine Chapters and their reclassifications).
+* In 1261 Yang wrote the "Xiangjie jiuzhang suanfa" (Detailed analysis of the mathematical rules in the Nine Chapters and their reclassifications).
 * He tells us that he had obtained a fine edition of the Nine Chapters on the Mathematical Art which contained notes by Jia Xian on the edition commented on by Liu Hui and later by Li Chunfeng.
 * The notes by Jia Xian have not survived so we know of them only through the references from Yang.
 * What Yang produced was not intended to be a further commentary on the ancient classic but instead he selected 80 of the 246 problems for his discussion.
@@ -39,10 +39,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For example, if the problem reduced to the solution of a quadratic equation, then Yang would solve it numerically, then show how to solve a general quadratic equation numerically.
 * What Yang's method essentially reduces to is finding the determinant of the matrix of coefficients of the system of equations.
 * There is other work in Yang's Detailed analysis that we should single out for a mention.
-* A year after producing Detailed analysis Yang wrote Riyong suanfa (Mathematics for everyday use).
-* Over the next years Yang must have continued to produce material for mathematics texts but he published nothing more until 1274 when Cheng Chu Tong Bian Ben Mo which means Alpha and omega of variations on multiplication and division appeared.
+* A year after producing Detailed analysis Yang wrote "Riyong suanfa" (Mathematics for everyday use).
+* Over the next years Yang must have continued to produce material for mathematics texts, but he published nothing more until 1274 when Cheng Chu Tong Bian Ben Mo which means Alpha and omega of variations on multiplication and division appeared.
 * In 1275 two further works by Yang appeared; the Practical mathematical rules for surveying and Continuation of ancient mathematical methods for elucidating strange properties of numbers, both being works of two chapters.
-* All Yang's volumes of 1274 and 1275 were assembled into what were essentially his collected works called Yang Hui suanfa (Yang Hui's methods of computation).
+* All Yang's volumes of 1274 and 1275 were assembled into what were essentially his collected works called "Yang Hui suanfa" (Yang Hui's methods of computation).
 * The topics covered by Yang include multiplication, division, root-extraction, quadratic and simultaneous equations, series, computations of areas of a rectangle, a trapezium, a circle, and other figures.
 * This was not the first time Yang had shown such concerns, for his elementary text of 1262 was also clearly designed to help beginners.
 * Look at Yang's explanation.
