@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(R, + ,\cdot)$` and `$(S,\ast,\circ)$` be two [rings][bookofproofs$683] and `$f:R\to S$` a [ring homomorphism][bookofproofs$885]. Then the [function][bookofproofs$592] `$$`g:R/\ker{(f)}\to\operatorname{im}(f),\quad `$g([x])=f(x)$` a an [isomorphism][bookofproofs$412], called a **ring isomorphism**.
+Let `$(R, + ,\cdot)$` and `$(S,\ast,\circ)$` be two [rings][bookofproofs$683] and `$f:R\to S$` a [ring homomorphism][bookofproofs$885]. Then the [function][bookofproofs$592] `$$g:R/\ker{(f)}\to\operatorname{im}(f),\quad $g([x])=f(x)$$` a an [isomorphism][bookofproofs$412], called a **ring isomorphism**.
