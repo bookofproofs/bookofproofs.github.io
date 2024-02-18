@@ -50,13 +50,13 @@
 <p>We want to prove that <a href="https://bookofproofs.github.io/branches/logic/modus-ponens.html" title="Logic / Lemma: Modus Ponens">modus ponens</a> is a <a href="https://bookofproofs.github.io/branches/logic/logical-arguments.html" title="Logic / Definition: Logical Arguments">valid logical argument</a>.
 * Modus ponens can be formulated in <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">propositional logic</a> as $((p\Rightarrow q)\wedge p)\Rightarrow q.$ 
 * Reformulating <a href="https://bookofproofs.github.io/branches/logic/implication-as-a-disjunction.html" title="Logic / Lemma: Implication as a Disjunction">the implication as disjunction</a> gives us the expression $((\neg p\vee q)\wedge p)\Rightarrow q.$
-* On the left side we have only the operations "$\wedge$" and "$\vee$". Therefore, we can use the fact that <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra-of-propositional-logic.html" title="Logic / Lemma: Boolean Algebra of Propositional Logic">propositional logic is a Boolean algebra</a> $(B,\wedge,\vee,1,0)$, and make use of the properties of this <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra.html" title="Logic / Definition: Boolean Algebra">Boolean algebra</a> $B$ as follows:
+* On the left side, we have only the operations "$\wedge$" and "$\vee$". Therefore, we can use the fact that <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra-of-propositional-logic.html" title="Logic / Lemma: Boolean Algebra of Propositional Logic">propositional logic is a Boolean algebra</a> $(B,\wedge,\vee,1,0)$, and make use of the properties of this <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra.html" title="Logic / Definition: Boolean Algebra">Boolean algebra</a> $B$ as follows:
 $$\begin{array}{rl}
 ((\neg p\vee q)\wedge p)\Rightarrow q&amp;\\
 (p \wedge(\neg p\vee q))\Rightarrow q&amp;(\text{commutativity of }"\wedge")\\
 ((p \wedge\neg p)\vee (p\wedge q))\Rightarrow q&amp;(\text{distributivity of }"\wedge"\text{ and }"\vee")\\
 (0\vee (p\wedge q))\Rightarrow q&amp;(\neg p\text{ is the complement element of }p)\\
-(p\wedge q)\Rightarrow q&amp;(0\text{ is the smallest element of the}B)\\
+(p\wedge q)\Rightarrow q&amp;(0\text{ is the smallest element of the }B)\\
 \end{array}$$
 * It follows from the truth table of <a href="https://bookofproofs.github.io/branches/logic/conjunction.html" title="Logic / Definition: Conjunction">conjunction</a> that if $p$ and $q$ are true, than $q$ is true.
 * By definition of a <a href="https://bookofproofs.github.io/branches/logic/logical-arguments.html" title="Logic / Definition: Logical Arguments">valid logical argument</a>, modus ponens $((p\Rightarrow q)\wedge p)\Rightarrow q$ is valid.<div class='qed'>&#8718;</div></p>

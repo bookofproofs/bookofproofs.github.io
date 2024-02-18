@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="7.19: CUBIC NUMBER, CUBE NUMBER &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="cube,cube number,cubic,cubic number,dx,2,number,x + ct,x - st,y + cp,y + st,y - ct">
+<title>7.19: Cubic Number, Cube Number</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/square-number.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/definitions-from-book-7.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/proportional-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/book--7-elementary-number-theory.html'>Book--7-elementary-number-theory</a> / Definition: 7.19: Cubic Number, Cube Number</h3>
+
+<hr>
+
+<h1>Definition: 7.19: Cubic Number, Cube Number</h1>
+<blockquote>
+<p>And a <strong>cube</strong> (number) is an equal, times an equal, times an equal, or (a <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/cuboidal-number-solid-number.html" title="Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.17: Cuboidal Number, Solid Number">solid number</a>) contained by three equal <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--7-elementary-number-theory/number.html" title="Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.02: Number">numbers</a>.</p>
+</blockquote>
+<h3>Modern Definition</h3>
+<p>A <strong>cubic number</strong> (or a <strong>cube number</strong> or a <strong>cube</strong>) is the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers">product</a> \(a^3\) of a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Number Systems Arithmetics / Definition: Order Relation for Integers - Positive and Negative Integers">positive integer</a> \(a\) three times with itself, formally</p>
+<p>\[c=a^2\cdot a=a^3.\]</p>
+<h3>Notes</h3>
+<p>From the geometrical point of view, a cubic number is the volume of a <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/cube.html" title="Geometry / Elements Euclid / Book 11 Elementary Stereometry / Definition: Def. 11.25: Cube">cube</a>.</p>
+<canvas id="cnv" class="centered" style="width:80%" height="300"></canvas>
+
+
+<script type="text/javascript">
+//JXG.JSXGraph - please do not delete this line
+//The 3d concept for this script can be found in a great article of Jérémy Heleine at https://www.sitepoint.com/building-3d-engine-javascript/
+
+var Vertex = function(x, y, z) {
+    this.x = parseFloat(x);
+    this.y = parseFloat(y);
+    this.z = parseFloat(z);
+};
+
+var Vertex2D = function(x, y) {
+    this.x = parseFloat(x);
+    this.y = parseFloat(y);
+};
+
+var Cube = function(center, side) {
+    // Generate the vertices
+    var d = side/2;
+
+    this.vertices = [
+        new Vertex(center.x - d, center.y - d, center.z + d),
+        new Vertex(center.x - d, center.y - d, center.z - d),
+        new Vertex(center.x + d, center.y - d, center.z - d),
+        new Vertex(center.x + d, center.y - d, center.z + d),
+        new Vertex(center.x + d, center.y + d, center.z + d),
+        new Vertex(center.x + d, center.y + d, center.z - d),
+        new Vertex(center.x - d, center.y + d, center.z - d),
+        new Vertex(center.x - d, center.y + d, center.z + d)
+    ];
+
+    // Generate the faces
+    this.faces = [
+        [this.vertices[^0], this.vertices[^1], this.vertices[^2], this.vertices[^3]],
+        [this.vertices[^3], this.vertices[^2], this.vertices[^5], this.vertices[^4]],
+        [this.vertices[^4], this.vertices[^5], this.vertices[^6], this.vertices[^7]],
+        [this.vertices[^7], this.vertices[^6], this.vertices[^1], this.vertices[^0]],
+        [this.vertices[^7], this.vertices[^0], this.vertices[^3], this.vertices[^4]],
+        [this.vertices[^1], this.vertices[^6], this.vertices[^5], this.vertices[^2]]
+    ];
+};
+
+function project(M) {
+    return new Vertex2D(M.x, M.z);
+}
+
+function render(objects, ctx, dx, dy) {
+    // Clear the previous frame
+    ctx.clearRect(0, 0, 2*dx, 2*dy);
+
+    // For each object
+    for (var i = 0, n_obj = objects.length; lt(i,n_obj); ++i) {
+        // For each face
+        for (var j = 0, n_faces = objects[i].faces.length; lt(j,n_faces); ++j) {
+            // Current face
+            var face = objects[i].faces[j];
+
+            // Draw the first vertex
+            var P = project(face[^0]);
+            ctx.beginPath();
+            ctx.moveTo(P.x + dx, -P.y + dy);
+
+            // Draw the other vertices
+            for (var k = 1, n_vertices = face.length; lt(k, n_vertices); ++k) {
+                P = project(face[k]);
+                ctx.lineTo(P.x + dx, -P.y + dy);
+            }
+
+            // Close the path and draw the face
+            ctx.closePath();
+            ctx.stroke();
+            ctx.fill();
+        }
+    }
+}
+
+(function() {
+    // Fix the canvas width and height
+    var canvas = document.getElementById('cnv');
+    canvas.width = canvas.offsetWidth;
+    canvas.height = canvas.offsetHeight;
+    var dx = canvas.width / 2;
+    var dy = canvas.height / 2;
+
+    // Objects style
+    var ctx = canvas.getContext('2d');
+    ctx.strokeStyle = 'rgba(0, 0, 0, 0.3)';
+    ctx.fillStyle = 'rgba(0, 150, 255, 0.3)';
+
+    // Create the cube
+    var cube_center = new Vertex(0, 11*dy/10, 0);
+    var cube = new Cube(cube_center, dy);
+    var objects = [cube];
+
+    // First render
+    render(objects, ctx, dx, dy);
+
+    // Events
+    var mousedown = false;
+    var mx = 0;
+    var my = 0;
+
+    canvas.addEventListener('mousedown', initMove);
+    document.addEventListener('mousemove', move);
+    document.addEventListener('mouseup', stopMove);
+
+    // Rotate a vertice
+    function rotate(M, center, theta, phi) {
+        // Rotation matrix coefficients
+        var ct = Math.cos(theta);
+        var st = Math.sin(theta);
+        var cp = Math.cos(phi);
+        var sp = Math.sin(phi);
+
+        // Rotation
+        var x = M.x - center.x;
+        var y = M.y - center.y;
+        var z = M.z - center.z;
+
+        M.x = ct * x - st * cp * y + st * sp * z + center.x;
+        M.y = st * x + ct * cp * y - ct * sp * z + center.y;
+        M.z = sp * y + cp * z + center.z;
+    }
+
+    // Initialize the movement
+    function initMove(evt) {
+        clearTimeout(autorotate_timeout);
+        mousedown = true;
+        mx = evt.clientX;
+        my = evt.clientY;
+    }
+
+    function move(evt) {
+        if (mousedown) {
+            var theta = (evt.clientX - mx) * Math.PI / 360;
+            var phi = (evt.clientY - my) * Math.PI / 180;
+
+            for (var i = 0; lt(i, 8); ++i)
+                rotate(cube.vertices[i], cube_center, theta, phi);
+
+            mx = evt.clientX;
+            my = evt.clientY;
+
+            render(objects, ctx, dx, dy);
+        }
+    }
+
+    function stopMove() {
+        mousedown = false;
+        autorotate_timeout = setTimeout(autorotate, 2000);
+    }
+
+    function autorotate() {
+        for (var i = 0; lt(i,8); ++i)
+            rotate(cube.vertices[i], cube_center, -Math.PI / 720, Math.PI / 720);
+
+        render(objects, ctx, dx, dy);
+
+        autorotate_timeout = setTimeout(autorotate, 30);
+    }
+    autorotate_timeout = setTimeout(autorotate, 2000);
+})();
+</script>
+
+<h3 class='navigation'>Mentioned in:</h3>
+
+<p>Corollaries: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/construction-of-geometric-progression-in-lowest-terms-1.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Corollary: 8.02: Construction of Geometric Progression in Lowest Terms (related to Proposition: 8.02: Construction of Geometric Progression in Lowest Terms)'>1</a> <br>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/between-two-cubes-exist-two-mean-proportionals-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.12: Between two Cubes exist two Mean Proportionals)'>2</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/number-divides-number-iff-cube-divides-cube-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.15: Number divides Number iff Cube divides Cube)'>3</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/number-does-not-divide-number-iff-cube-does-not-divide-cube-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.17: Number does not divide Number iff Cube does not divide Cube)'>4</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/if-first-of-four-numbers-in-geometric-progression-is-cube-then-fourth-is-cube-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.23: If First of Four Numbers in Geometric Progression is Cube then Fourth is Cube)'>5</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/if-ratio-of-cube-to-number-is-as-between-two-cubes-then-number-is-cube-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.25: If Ratio of Cube to Number is as between Two Cubes then Number is Cube)'>6</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/similar-solid-numbers-have-same-ratio-as-between-two-cubes-proof.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proof: By Euclid (related to Proposition: Prop. 8.27: Similar Solid Numbers have Same Ratio as between Two Cubes)'>7</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/square-of-cube-number-is-cube-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.03: Square of Cube Number is Cube)'>8</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/cube-number-multiplied-by-cube-number-is-cube-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.04: Cube Number multiplied by Cube Number is Cube)'>9</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/number-multiplied-by-cube-number-making-cube-is-itself-cube-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.05: Number multiplied by Cube Number making Cube is itself Cube)'>10</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/number-squared-making-cube-is-itself-cube-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.06: Number Squared making Cube is itself Cube)'>11</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-which-are-powers-of-number-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.08: Elements of Geometric Progression from One which are Powers of Number)'>12</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-where-first-element-is-power-of-number-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.09: Elements of Geometric Progression from One where First Element is Power of Number)'>13</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-where-first-element-is-not-power-of-number-proof.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proof: By Euclid (related to Proposition: Prop. 9.10: Elements of Geometric Progression from One where First Element is not Power of Number)'>14</a> <br>Propositions: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/between-two-cubes-exist-two-mean-proportionals.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.12: Between two Cubes exist two Mean Proportionals'>15</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/number-divides-number-iff-cube-divides-cube.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.15: Number divides Number iff Cube divides Cube'>16</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/number-does-not-divide-number-iff-cube-does-not-divide-cube.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.17: Number does not divide Number iff Cube does not divide Cube'>17</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/if-first-of-four-numbers-in-geometric-progression-is-cube-then-fourth-is-cube.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.23: If First of Four Numbers in Geometric Progression is Cube then Fourth is Cube'>18</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/if-ratio-of-cube-to-number-is-as-between-two-cubes-then-number-is-cube.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.25: If Ratio of Cube to Number is as between Two Cubes then Number is Cube'>19</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--8-continued-proportion/similar-solid-numbers-have-same-ratio-as-between-two-cubes.html' title='Geometry / Elements Euclid / Book  8 Continued Proportion / Proposition: Prop. 8.27: Similar Solid Numbers have Same Ratio as between Two Cubes'>20</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/square-of-cube-number-is-cube.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.03: Square of Cube Number is Cube'>21</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/cube-number-multiplied-by-cube-number-is-cube.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.04: Cube Number multiplied by Cube Number is Cube'>22</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/number-multiplied-by-cube-number-making-cube-is-itself-cube.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.05: Number multiplied by Cube Number making Cube is itself Cube'>23</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/number-squared-making-cube-is-itself-cube.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.06: Number Squared making Cube is itself Cube'>24</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-which-are-powers-of-number.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.08: Elements of Geometric Progression from One which are Powers of Number'>25</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-where-first-element-is-power-of-number.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.09: Elements of Geometric Progression from One where First Element is Power of Number'>26</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--9-number-theory-applications/elements-of-geometric-progression-from-one-where-first-element-is-not-power-of-number.html' title='Geometry / Elements Euclid / Book  9 Number Theory Applications / Proposition: Prop. 9.10: Elements of Geometric Progression from One where First Element is not Power of Number'>27</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-of-cube-numbers.html' title='Number Systems Arithmetics / Proposition: Sum of Cube Numbers'>28</a> <br></p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/elements-euclid/book--7-elementary-number-theory/cubic-number-cube-number.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/geometry/elements-euclid/book--7-elementary-number-theory/cubic-number-cube-number.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@Fitzpatrick<br></dl><br></p>
+<hr>
+<h3>References</h3>
+<h4>Adapted from (subject to copyright, with kind permission)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: <a href='https://farside.ph.utexas.edu/Books/Euclid/Euclid.html'>Euclid's "Elements of Geometry"</a></li>
+</ol>
+<h4>Adapted from CC BY-SA 3.0 Sources:</h4>
+<ol>
+<li><strong>Prime.mover and others</strong>: "Pr∞fWiki", <a href="https://proofwiki.org/wiki/Main_Page">https://proofwiki.org/wiki/Main_Page</a>, 2016</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

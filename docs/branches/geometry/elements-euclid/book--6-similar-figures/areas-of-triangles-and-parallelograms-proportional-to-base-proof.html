@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of 6.01: AREAS OF TRIANGLES AND PARALLELOGRAMS PROPORTIONAL TO BASE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="areas,base,parallelograms,proportional,triangles,proof">
+<title>By Euclid</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/areas-of-triangles-and-parallelograms-proportional-to-base.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/areas-of-triangles-and-parallelograms-proportional-to-base.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/parallel-line-in-triangle-cuts-sides-proportionally.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/book--6-similar-figures.html'>Book--6-similar-figures</a> / Proof: By Euclid</h3>
+
+<hr>
+
+<h1>Proof: By Euclid</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/areas-of-triangles-and-parallelograms-proportional-to-base.html'>Proposition: 6.01: Areas of Triangles and Parallelograms Proportional to Base</a>)</p>
+<ul>
+<li>For let the (<a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>) $BD$ have been produced in each direction to <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> $H$ and $L$, and let [any number] (of <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a>) $BG$ and $GH$ be made equal to base $BC$, and any number (of <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a>) $DK$ and $KL$ equal to base $CD$.</li>
+<li>And let $AG$, $AH$, $AK$, and $AL$ have been joined.</li>
+<li>And since $CB$, $BG$, and $GH$ are equal to one another, <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangle.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: Triangle">triangles</a> $AHG$, $AGB$, and $ABC$ are also equal to one another <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-ii.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.38: Triangles of Equal Area II">[Prop. 1.38]</a>.</li>
+<li>Thus, as many times as base $HC$ is (divisible by) base $BC$, so many times is triangle $AHC$ also (divisible) by triangle $ABC$.</li>
+<li>So, for the same (reasons), as many times as base $LC$ is (divisible) by base $CD$, so many times is triangle $ALC$ also (divisible) by triangle $ACD$.</li>
+<li>And if base $HC$ is equal to base $CL$ then triangle $AHC$ is also equal to triangle $ACL$ <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-ii.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.38: Triangles of Equal Area II">[Prop. 1.38]</a>.</li>
+<li>And if base $HC$ exceeds base $CL$ then triangle $AHC$ also exceeds triangle $ACL$.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> </li>
+<li>And if ($HC$ is) less (than $CL$ then $AHC$ is also) less (than $ACL$).</li>
+<li>So, their being four magnitudes, two bases, $BC$ and $CD$, and two <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangle.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: Triangle">triangles</a>, $ABC$ and $ACD$, equal <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/multiple-of-a-real-number.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.02: Multiple of a Real Number">multiples</a> have been taken of base $BC$ and triangle $ABC$ - (namely), base $HC$ and triangle $AHC$ - and other random equal <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/multiple-of-a-real-number.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.02: Multiple of a Real Number">multiples</a> of base $CD$ and triangle $ADC$ - (namely), base $LC$ and triangle $ALC$.</li>
+<li>And it has been shown that if base $HC$ exceeds base $CL$ then triangle $AHC$ also exceeds triangle $ALC$, and if ($HC$ is) equal (to $CL$ then $AHC$ is also) equal (to $ALC$), and if ($HC$ is) less (than $CL$ then $AHC$ is also) less (than $ALC$).</li>
+<li>Thus, as base $BC$ is to base $CD$, so triangle $ABC$ (is) to triangle $ACD$ <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/having-the-same-ratio.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.05: Having the Same Ratio"> [Def. 5.5] </a>.</li>
+<li>And since <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $EC$ is double triangle $ABC$, and <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $FC$ is double triangle $ACD$ <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/opposite-sides-and-opposite-angles-of-parallelograms.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.34: Opposite Sides and Opposite Angles of Parallelograms">[Prop. 1.34]</a>, and <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/magnitude-aliquot-part.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.01: Magnitude is Aliquot Part">parts</a> have the <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/having-the-same-ratio.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.05: Having the Same Ratio">same ratio</a> as similar <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/multiple-of-a-real-number.html" title="Geometry / Elements Euclid / Book  5 Proportion / Definition: 5.02: Multiple of a Real Number">multiples</a> <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/ratio-equals-its-multiples.html" title="Geometry / Elements Euclid / Book  5 Proportion / Proposition: 5.15: Ratio Equals its Multiples">[Prop. 5.15]</a>, thus as triangle $ABC$ is to triangle $ACD$, so <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $EC$ (is) to <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $FC$.</li>
+<li>In fact, since it was shown that as base $BC$ (is) to $CD$, so triangle $ABC$ (is) to triangle $ACD$, and as triangle $ABC$ (is) to triangle $ACD$, so <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $EC$ (is) to <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $CF$, thus, also, as base $BC$ (is) to base $CD$, so <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $EC$ (is) to <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelogram</a> $FC$ <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--5-proportion/equality-of-ratios-is-transitive.html" title="Geometry / Elements Euclid / Book  5 Proportion / Proposition: 5.11: Equality of Ratios is Transitive">[Prop. 5.11]</a>.</li>
+<li>Thus, <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangle.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: Triangle">triangles</a> and <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium">parallelograms</a> which are of the same <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/height-of-a-figure.html" title="Geometry / Elements Euclid / Book  6 Similar Figures / Definition: 6.03: Height of a Figure">height</a> are to one another as their bases.</li>
+<li>(Which is) the very thing it was required to show.</li>
+</ul>
+<div class='qed'>&#8718;</div>
+
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/elements-euclid/book--6-similar-figures/areas-of-triangles-and-parallelograms-proportional-to-base-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/geometry/elements-euclid/book--6-similar-figures/areas-of-triangles-and-parallelograms-proportional-to-base-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@Fitzpatrick<br></dl><br></p>
+<hr>
+<h3>References</h3>
+<h4>Adapted from (subject to copyright, with kind permission)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: <a href='https://farside.ph.utexas.edu/Books/Euclid/Euclid.html'>Euclid's "Elements of Geometry"</a></li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>This is a straight-forward generalization of <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-ii.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.38: Triangles of Equal Area II">[Prop. 1.38]</a> (translator's note).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

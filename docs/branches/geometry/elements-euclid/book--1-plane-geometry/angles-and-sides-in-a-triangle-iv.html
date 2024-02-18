@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="1.25: ANGLES AND SIDES IN A TRIANGLE IV &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="angles,sides,triangle">
+<title>1.25: Angles and Sides in a Triangle IV</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iii-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/propositions-from-book-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iv-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/book--1-plane-geometry.html'>Book--1-plane-geometry</a> / Proposition: 1.25: Angles and Sides in a Triangle IV</h3>
+
+<hr>
+
+<h1>Proposition: 1.25: Angles and Sides in a Triangle IV</h1>
+<h3>(Proposition 25 from Book 1 of Euclid's “Elements”)</h3>
+<blockquote>
+<p>If two <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangle.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: Triangle">triangles</a> have two sides equal to two sides, respectively, but (one) has a base greater than the base (of the other), then (the former triangle) will also have the <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angle-rectilinear-vertex-legs.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.09: Angle, Rectilinear, Vertex, Legs">angle</a> encompassed by the equal <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a> greater than the (corresponding) angle (in the latter).
+* Let $ABC$ and $DEF$ be two <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangle.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: Triangle">triangles</a> having the two sides $AB$ and $AC$ equal to the two sides $DE$ and $DF$, respectively (That is), $AB$ (equal) to $DE$, and $AC$ to $DF$.
+* And let the base $BC$ be greater than the base $EF$.
+* I say that angle $BAC$ is also greater than $EDF$.</p>
+</blockquote>
+<p><img alt="fig25e" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig25e.png?raw=true" /></p>
+<h3>Modern Formulation</h3>
+<p>If two triangles (\(\triangle{ABC}\), \(\triangle{DEF}\)) have two sides of one triangle (\(\overline{AB}\), \(\overline{AC}\)) respectively equal to two sides of the other (\(\overline{DE}\), \(\overline{DF}\)), where the base of one \((\overline{BC})\) is greater than the base of the other \((\overline{EF})\), then the angle \((\angle{BAC})\) contained by the sides of the triangle with the longer base \((\triangle{ABC})\) is greater in measure than the angle \((\angle{EDF})\) contained by the sides of the other triangle \((\triangle{DEF})\). </p>
+<p>In shorter words, if \(\overline{AB}=\overline{DE}\), \(\overline{AC}=\overline{DF}\), and \(\overline{BC} &gt; \overline{EF}\), then \(\angle{BAC} &gt; \angle{EDF}\).<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> </p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iv-proof.html'>1</a> Corollaries: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-v.html'>1</a> </p>
+<h3 class='navigation'>Mentioned in:</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-v-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Corollary: Angles and Sides in a Triangle V)'>1</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/sum-of-two-angles-of-three-containing-solid-angle-is-greater-than-other-angle-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.20: Sum of Two Angles of Three containing Solid Angle is Greater than Other Angle)'>2</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/sum-of-plane-angles-used-to-construct-a-solid-angle-is-less-than-four-right-angles-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.23: Sum of Plane Angles Used to Construct a Solid Angle is Less Than Four Right Angles)'>3</a> <br></p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iv.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iv.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@Calahan</dd><dd>@Casey</dd><dd>@Fitzpatrick<br></dl><br></p>
+<hr>
+<h3>References</h3>
+<h4>Adapted from CC BY-SA 3.0 Sources:</h4>
+<ol>
+<li><strong>Callahan, Daniel</strong>: <a href='http://starrhorse.com/euclid/'>"Euclid’s 'Elements' Redux" 2014</a></li>
+</ol>
+<h4>Adapted from (Public Domain)</h4>
+<ol>
+<li><strong>Casey, John</strong>: <a href='https://www.gutenberg.org/ebooks/21076'>"The First Six Books of the Elements of Euclid"</a></li>
+</ol>
+<h4>Adapted from (subject to copyright, with kind permission)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: <a href='https://farside.ph.utexas.edu/Books/Euclid/Euclid.html'>Euclid's "Elements of Geometry"</a></li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Note: This is a conversion of <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-iii.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.24: Angles and Sides in a Triangle III">proposition 1.24</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

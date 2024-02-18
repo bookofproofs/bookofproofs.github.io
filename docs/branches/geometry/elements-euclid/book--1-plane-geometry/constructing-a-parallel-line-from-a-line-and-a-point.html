@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="1.31: CONSTRUCTING A PARALLEL LINE FROM A LINE AND A POINT &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="constructing,line,parallel,point">
+<title>1.31: Constructing a Parallel Line from a Line and a Point</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/transitivity-of-parallel-lines-proof-1.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/propositions-from-book-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/constructing-a-parallel-line-from-a-line-and-a-point-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/book--1-plane-geometry.html'>Book--1-plane-geometry</a> / Proposition: 1.31: Constructing a Parallel Line from a Line and a Point</h3>
+
+<hr>
+
+<h1>Proposition: 1.31: Constructing a Parallel Line from a Line and a Point</h1>
+<h3>Euclid's Formulation</h3>
+<blockquote>
+<p>To draw a <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a> <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/parallel-straight-lines.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.23: Parallel Straight Lines">parallel</a> to a given <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>, through a given <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a>.
+* Let $A$ be the given <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a>, and $BC$ the given <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>.
+* So it is required to draw a <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a> <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/parallel-straight-lines.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.23: Parallel Straight Lines">parallel</a> to the <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a> $BC$, through the <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a> $A$.</p>
+</blockquote>
+<p><img alt="fig31e" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig31e.png?raw=true" /></p>
+<h3>Modern Formulation</h3>
+<p>Given a straight line \(BC\) and a point \(A\), which does not lie on the line, it is possible to construct the straight line \(EF\), which is parallel to \(BC\) and goes through the point $A.$</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/constructing-a-parallel-line-from-a-line-and-a-point-proof.html'>1</a> </p>
+<h3 class='navigation'>Mentioned in:</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/sum-of-angles-in-a-triangle-and-exterior-angle-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.32: Sum Of Angles in a Triangle and Exterior Angle)'>1</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-i-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.37: Triangles of Equal Area I)'>2</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-ii-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.38: Triangles of Equal Area II)'>3</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-iii-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.39: Triangles of Equal Area III)'>4</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/triangles-of-equal-area-iv-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.40: Triangles of Equal Area IV)'>5</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/construction-of-parallelograms-i-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.42: Construction of Parallelograms I)'>6</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/construction-of-parallelograms-ii-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.44: Construction of Parallelograms II)'>7</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/construction-of-a-square-on-a-given-segment-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.46: Construction of a Square on a Given Segment)'>8</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/the-pythagorean-theorem-proof.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Proof: By Euclid (related to Proposition: 1.47: Pythagorean Theorem)'>9</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/summing-areas-or-rectangles-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.01: Summing Areas or Rectangles)'>10</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/square-is-sum-of-two-rectangles-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.02: Square is Sum of Two Rectangles)'>11</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/rectangle-is-sum-of-square-and-rectangle-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.03: Rectangle is Sum of Square and Rectangle)'>12</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/square-of-sum-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.04: Square of Sum)'>13</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/rectangle-is-difference-of-two-squares-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.05: Rectangle is Difference of Two Squares)'>14</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/square-of-sum-with-one-halved-summand-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.06: Square of Sum with One Halved Summand)'>15</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/sum-of-squares-of-sum-and-difference-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.09: Sum of Squares of Sum and Difference)'>16</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--2-geometric-algebra/sum-of-squares-half-proof.html' title='Geometry / Elements Euclid / Book  2 Geometric Algebra / Proof: By Euclid (related to Proposition: 2.10: Sum of Squares (Half))'>17</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--4-inscription-and-circumscription/inscribing-circle-in-square-proof.html' title='Geometry / Elements Euclid / Book  4 Inscription And Circumscription / Proof: By Euclid (related to Proposition: 4.08: Inscribing Circle in Square)'>18</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/construction-of-part-of-line-proof.html' title='Geometry / Elements Euclid / Book  6 Similar Figures / Proof: By Euclid (related to Proposition: 6.09: Construction of Part of Line)'>19</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/construction-of-similarly-cut-straight-line-proof.html' title='Geometry / Elements Euclid / Book  6 Similar Figures / Proof: By Euclid (related to Proposition: 6.10: Construction of Similarly Cut Straight Line)'>20</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/construction-of-segment-in-squared-ratio-proof.html' title='Geometry / Elements Euclid / Book  6 Similar Figures / Proof: By Euclid (related to Proposition: 6.11: Construction of Segment in Squared Ratio)'>21</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/construction-of-fourth-proportional-straight-line-proof.html' title='Geometry / Elements Euclid / Book  6 Similar Figures / Proof: By Euclid (related to Proposition: 6.12: Construction of Fourth Proportional Straight Line)'>22</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--6-similar-figures/parallelogram-similar-and-in-same-angle-has-same-diameter-proof.html' title='Geometry / Elements Euclid / Book  6 Similar Figures / Proof: By Euclid (related to Proposition: 6.26: Parallelogram Similar and in Same Angle has Same Diameter)'>23</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/construction-of-straight-line-perpendicular-to-plane-from-point-not-on-plane-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.11: Construction of Straight Line Perpendicular to Plane from point not on Plane)'>24</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/construction-of-straight-line-perpendicular-to-plane-from-point-on-plane-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.12: Construction of Straight Line Perpendicular to Plane from point on Plane)'>25</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/planes-through-parallel-pairs-of-meeting-lines-are-parallel-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.15: Planes through Parallel Pairs of Meeting Lines are Parallel)'>26</a> <br>Sections: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/book--1-plane-geometry.html' title='Geometry / Elements Euclid / Book  1 Plane Geometry / Section: Book 01: Fundamentals of Plane Geometry Involving Straight Lines'>27</a> <br></p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/elements-euclid/book--1-plane-geometry/constructing-a-parallel-line-from-a-line-and-a-point.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/geometry/elements-euclid/book--1-plane-geometry/constructing-a-parallel-line-from-a-line-and-a-point.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@Calahan</dd><dd>@Casey</dd><dd>@Fitzpatrick<br></dl><br></p>
+<hr>
+<h3>References</h3>
+<h4>Adapted from CC BY-SA 3.0 Sources:</h4>
+<ol>
+<li><strong>Callahan, Daniel</strong>: <a href='http://starrhorse.com/euclid/'>"Euclid’s 'Elements' Redux" 2014</a></li>
+</ol>
+<h4>Adapted from (Public Domain)</h4>
+<ol>
+<li><strong>Casey, John</strong>: <a href='https://www.gutenberg.org/ebooks/21076'>"The First Six Books of the Elements of Euclid"</a></li>
+</ol>
+<h4>Adapted from (subject to copyright, with kind permission)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: <a href='https://farside.ph.utexas.edu/Books/Euclid/Euclid.html'>Euclid's "Elements of Geometry"</a></li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

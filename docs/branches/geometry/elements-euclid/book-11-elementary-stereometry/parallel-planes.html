@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="DEF. 11.08: PARALLEL PLANES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="dx,2,parallel,parallel planes,planes,x + ct,x - st,y + cp,y + st,y - ct">
+<title>Def. 11.08: Parallel Planes</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/similarly-inclined-planes.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/definitions-from-book-11.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/similar-cells.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/book-11-elementary-stereometry.html'>Book-11-elementary-stereometry</a> / Definition: Def. 11.08: Parallel Planes</h3>
+
+<hr>
+
+<h1>Definition: Def. 11.08: Parallel Planes</h1>
+<h3>(Definition 8 from Book 11 of Euclid's “Elements”)</h3>
+<blockquote>
+<p><strong>Parallel planes</strong> are those (<a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/def-1-07-plane.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.07: Plane">planes</a>) which do not meet (one another).</p>
+</blockquote>
+<h3>Modern Formulation</h3>
+<p><em>Parallel planes</em> are those which (extended infinitely) have no <a href="https://bookofproofs.github.io/branches/geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> in common. </p>
+<div style="float:left"><canvas id="cnv" width="700" height="500"></canvas></div>
+<div style="clear:both"></div>
+
+
+<script type="text/javascript">
+//JXG.JSXGraph - please do not delete this line
+//The 3d concept for this script can be found in a great article of Jérémy Heleine at https://www.sitepoint.com/building-3d-engine-javascript/
+
+var Vertex = function(x, y, z) {
+    this.x = parseFloat(x);
+    this.y = parseFloat(y);
+    this.z = parseFloat(z);
+};
+
+var Vertex2D = function(x, y) {
+    this.x = parseFloat(x);
+    this.y = parseFloat(y);
+};
+
+var Tetrahedron = function(center, scale) {
+    // Generate the vertices
+    scale=scale/1.5;
+    trans=scale/4;
+
+    this.vertices = [
+        new Vertex(center.x, center.y, center.z),
+        new Vertex(center.x + scale, center.y, center.z),
+        new Vertex(center.x + scale, center.y + scale, center.z),
+        new Vertex(center.x, center.y + scale, center.z),
+        new Vertex(center.x + trans, center.y + trans, center.z + trans),
+        new Vertex(center.x + scale + trans, center.y + trans, center.z + trans),
+        new Vertex(center.x + scale + trans, center.y + scale + trans, center.z + trans),
+        new Vertex(center.x + trans, center.y + scale + trans, center.z + trans),
+
+    ];
+
+    // Generate the faces
+    this.faces = [
+        [this.vertices[^0], this.vertices[^1], this.vertices[^2], this.vertices[^3]],
+        [this.vertices[^4], this.vertices[^5], this.vertices[^6], this.vertices[^7]],
+    ];
+};
+
+function project(M) {
+    return new Vertex2D(M.x, M.z);
+}
+
+function render(objects, ctx, dx, dy) {
+    // Clear the previous frame
+    ctx.clearRect(0, 0, 2*dx, 2*dy);
+
+    // For each object
+    for (var i = 0, n_obj = objects.length; i < n_obj; ++i) {
+        // For each face
+        for (var j = 0, n_faces = objects[i].faces.length; j < n_faces; ++j) {
+            // Current face
+            var face = objects[i].faces[j];
+
+            // Draw the first vertex
+            var P = project(face[^0]);
+            ctx.beginPath();
+            ctx.moveTo(P.x + dx, -P.y + dy);
+
+            // Draw the other vertices
+            for (var k = 1, n_vertices = face.length; k < n_vertices; ++k) {
+                P = project(face[k]);
+                ctx.lineTo(P.x + dx, -P.y + dy);
+            }
+
+            // Close the path and draw the face
+            ctx.closePath();
+            ctx.stroke();
+            ctx.fill();
+        }
+    }
+}
+
+(function() {
+    // Fix the canvas width and height
+    var canvas = document.getElementById('cnv');
+    canvas.width = canvas.offsetWidth;
+    canvas.height = canvas.offsetHeight;
+    var dx = canvas.width / 2;
+    var dy = canvas.height / 2;
+
+    // Objects style
+    var ctx = canvas.getContext('2d');
+    ctx.strokeStyle = 'rgba(0, 0, 0, 0.3)';
+    ctx.fillStyle = 'rgba(0, 150, 255, 0.3)';
+
+    // Create the Tetrahedron
+    var tet_center = new Vertex(0, 11*dy/10, 0);
+    var tet = new Tetrahedron(tet_center, dy);
+    var objects = [tet];
+
+    // First render
+    render(objects, ctx, dx, dy);
+
+    // Events
+    var mousedown = false;
+    var mx = 0;
+    var my = 0;
+
+    canvas.addEventListener('mousedown', initMove);
+    document.addEventListener('mousemove', move);
+    document.addEventListener('mouseup', stopMove);
+
+    // Rotate a vertice
+    function rotate(M, center, theta, phi) {
+        // Rotation matrix coefficients
+        var ct = Math.cos(theta);
+        var st = Math.sin(theta);
+        var cp = Math.cos(phi);
+        var sp = Math.sin(phi);
+
+        // Rotation
+        var x = M.x - center.x;
+        var y = M.y - center.y;
+        var z = M.z - center.z;
+
+        M.x = ct * x - st * cp * y + st * sp * z + center.x;
+        M.y = st * x + ct * cp * y - ct * sp * z + center.y;
+        M.z = sp * y + cp * z + center.z;
+    }
+
+    // Initialize the movement
+    function initMove(evt) {
+        clearTimeout(autorotate_timeout);
+        mousedown = true;
+        mx = evt.clientX;
+        my = evt.clientY;
+    }
+
+    function move(evt) {
+        if (mousedown) {
+            var theta = (evt.clientX - mx) * Math.PI / 360;
+            var phi = (evt.clientY - my) * Math.PI / 180;
+
+            for (var i = 0, n_vertices = tet.vertices.length; i < n_vertices; ++i)
+                rotate(tet.vertices[i], tet_center, theta, phi);
+
+            mx = evt.clientX;
+            my = evt.clientY;
+
+            render(objects, ctx, dx, dy);
+        }
+    }
+
+    function stopMove() {
+        mousedown = false;
+        autorotate_timeout = setTimeout(autorotate, 2000);
+    }
+
+    function autorotate() {
+        for (var i = 0, n_vertices = tet.vertices.length; i < n_vertices; ++i)
+            rotate(tet.vertices[i], tet_center, -Math.PI / 720, Math.PI / 720);
+
+        render(objects, ctx, dx, dy);
+
+        autorotate_timeout = setTimeout(autorotate, 30);
+    }
+    autorotate_timeout = setTimeout(autorotate, 2000);
+})();
+</script>
+
+<h3 class='navigation'>Mentioned in:</h3>
+
+<p>Definitions: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/prism-parallelepiped.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Definition: Def. 11.13: Prism, Parallelepiped'>1</a> <br>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/planes-perpendicular-to-same-straight-line-are-parallel-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.14: Planes Perpendicular to same Straight Line are Parallel)'>2</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/planes-through-parallel-pairs-of-meeting-lines-are-parallel-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.15: Planes through Parallel Pairs of Meeting Lines are Parallel)'>3</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/common-sections-of-parallel-planes-with-other-plane-are-parallel-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.16: Common Sections of Parallel Planes with other Plane are Parallel)'>4</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/straight-lines-cut-in-same-ratio-by-parallel-planes-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.17: Straight Lines cut in Same Ratio by Parallel Planes)'>5</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/opposite-planes-of-solid-contained-by-parallel-planes-are-equal-parallelograms-proof.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proof: By Euclid (related to Proposition: Prop. 11.24: Opposite Planes of Solid contained by Parallel Planes are Equal Parallelograms)'>6</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-12-proportional-stereometry/proportion-of-sizes-of-tetrahedra-divided-into-two-similar-tetrahedra-and-two-equal-prisms-1-proof.html' title='Geometry / Elements Euclid / Book 12 Proportional Stereometry / Proof: By Euclid (related to Lemma: Lem. 12.04: Proportion of Sizes of Tetrahedra divided into Two Similar Tetrahedra and Two Equal Prisms)'>7</a> <br>Propositions: <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/planes-perpendicular-to-same-straight-line-are-parallel.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proposition: Prop. 11.14: Planes Perpendicular to same Straight Line are Parallel'>8</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/common-sections-of-parallel-planes-with-other-plane-are-parallel.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proposition: Prop. 11.16: Common Sections of Parallel Planes with other Plane are Parallel'>9</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/straight-lines-cut-in-same-ratio-by-parallel-planes.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proposition: Prop. 11.17: Straight Lines cut in Same Ratio by Parallel Planes'>10</a> <a href='https://bookofproofs.github.io/branches/geometry/elements-euclid/book-11-elementary-stereometry/opposite-planes-of-solid-contained-by-parallel-planes-are-equal-parallelograms.html' title='Geometry / Elements Euclid / Book 11 Elementary Stereometry / Proposition: Prop. 11.24: Opposite Planes of Solid contained by Parallel Planes are Equal Parallelograms'>11</a> <br></p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/elements-euclid/book-11-elementary-stereometry/parallel-planes.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/geometry/elements-euclid/book-11-elementary-stereometry/parallel-planes.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dd><dt><span class='navigation'>non-Github:</span></dt><dd></dd><dd>@Fitzpatrick<br></dl><br></p>
+<hr>
+<h3>References</h3>
+<h4>Adapted from (subject to copyright, with kind permission)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: <a href='https://farside.ph.utexas.edu/Books/Euclid/Euclid.html'>Euclid's "Elements of Geometry"</a></li>
+</ol>
+<h4>Adapted from CC BY-SA 3.0 Sources:</h4>
+<ol>
+<li><strong>Prime.mover and others</strong>: "Pr∞fWiki", <a href="https://proofwiki.org/wiki/Main_Page">https://proofwiki.org/wiki/Main_Page</a>, 2016</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
