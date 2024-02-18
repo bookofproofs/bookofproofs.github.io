@@ -1,5 +1,5 @@
 layout: lemma
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-13-platonic-solids
+categories: branches,geometry,elements-euclid,book-13-platonic-solids
 nodeid: bookofproofs$2313
 orderid: 100
 parentid: bookofproofs$2312

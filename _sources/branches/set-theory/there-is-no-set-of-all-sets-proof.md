@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-* We have seen in the above [explanation][bookofproofs$8019] how the [axiom of separation][bookofproofs$675] avoids the [Russel's Paradox][bookofproofs$7987].
+* We have seen in the above [explanation][bookofproofs$8019] how the [axiom of separation][bookofproofs$675] avoids the [Russell's Paradox][bookofproofs$7987].
 * In particular, we have seen that for every set `$X$` the set `$\{z\in X\mid z\not\in z\}$` is well-defined (exists).
 * Therefore, if a "set of all sets" existed, it would have to contain `$\{z\in X\mid z\not\in z\}$` as an element.
 * But for all `$X$` we have `$\{z\in X\mid z\not\in z\}\not\in X.$`

@@ -1,5 +1,5 @@
 layout: proposition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--3-circles
+categories: branches,geometry,elements-euclid,book--3-circles
 nodeid: bookofproofs$1890
 orderid: 900
 parentid: bookofproofs$1057

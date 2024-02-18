@@ -1,5 +1,5 @@
 layout: definition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--3-circles
+categories: branches,geometry,elements-euclid,book--3-circles
 nodeid: bookofproofs$2783
 orderid: 1000
 parentid: bookofproofs$1009

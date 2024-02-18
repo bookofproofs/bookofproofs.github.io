@@ -1,5 +1,5 @@
 layout: corollary
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--7-elementary-number-theory
+categories: branches,geometry,elements-euclid,book--7-elementary-number-theory
 nodeid: bookofproofs$6414
 orderid: 100
 parentid: bookofproofs$2370

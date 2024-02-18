@@ -1,5 +1,5 @@
 layout: definition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-11-elementary-stereometry
+categories: branches,geometry,elements-euclid,book-11-elementary-stereometry
 nodeid: bookofproofs$2237
 orderid: 2700
 parentid: bookofproofs$1874

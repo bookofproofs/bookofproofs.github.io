@@ -57,7 +57,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Logic</div>
-            <a href="https://bookofproofs.github.io/branches/logic/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/logic/logic.html" style="color: rgb(123, 104, 238);">
             <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/psychology-2422442_640.png?raw=true" alt="Image by ElisaRiva from Pixabay" style="width:99%">
             </a>
         </div>
@@ -65,7 +65,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Set Theory</div>
-            <a href="https://bookofproofs.github.io/branches/set-theory/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/set-theory/set-theory.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/venn-diagram-41218_640.png?raw=true" alt="Image by Clker-Free-Vector-Images from Pixabay" style="width:99%">
             </a>
         </div>
@@ -73,7 +73,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Number Systems and Arithmetics</div>
-            <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/maths-1426891_640.png?raw=true" alt="Image by Dean Norris from Pixabay" style="width:99%">
             </a>
         </div>
@@ -91,7 +91,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Calculus</div>
-            <a href="https://bookofproofs.github.io/branches/analysis/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/analysis/analysis.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/parabola-148973_640.png?raw=true" alt="Image by OpenClipart-Vectors from Pixabay" style="width:99%">
             </a>
         </div>
@@ -99,7 +99,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Topology</div>
-            <a href="https://bookofproofs.github.io/branches/topology/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/topology/topology.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/eddy-1454979_640.png?raw=true" alt="Image by Chrom72 from Pixabay" style="width:99%">
             </a>
         </div>
@@ -107,7 +107,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Geometry</div>
-            <a href="https://bookofproofs.github.io/branches/geometry/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/geometry/geometry.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/abstract-2425614_640.png?raw=true" alt="Image by gingertea from Pixabay" style="width:99%">
             </a>
         </div>
@@ -125,7 +125,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Combinatorics</div>
-            <a href="https://bookofproofs.github.io/branches/combinatorics/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/combinatorics/combinatorics.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/playing-cards-311264_640.png?raw=true" alt="Image by Clker-Free-Vector-Images from Pixabay" style="width:99%">
             </a>
         </div>
@@ -133,7 +133,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Probability Theory and Statistics</div>
-            <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-theory-and-statistics.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/dice-575658_640.png?raw=true" alt="Image by OpenClipart-Vectors from Pixabay" style="width:99%">
             </a>
         </div>
@@ -141,7 +141,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Number Theory</div>
-            <a href="https://bookofproofs.github.io/branches/number-theory/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/number-theory/number-theory.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/sigma-27133_640.png?raw=true" alt="Image by Clker-Free-Vector-Images from Pixabay" style="margin-top:50px; width:99%">
             </a>
         </div>
@@ -149,7 +149,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Graph Theory</div>
-            <a href="https://bookofproofs.github.io/branches/graph-theory/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/graph-theory/graph-theory.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/network-3537400_640.png?raw=true" alt="Image by Gerd Altmann from Pixabay" style="width:99%">
             </a>
         </div>
@@ -159,7 +159,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Knot Theory</div>
-            <a href="https://bookofproofs.github.io/branches/knot-theory/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/knot-theory/knot-theory.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/trefoil-40459_640.png?raw=true" alt="Image by Clker-Free-Vector-Images from Pixabay" style="width:99%">
             </a>
         </div>
@@ -167,7 +167,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Game Theory</div>
-            <a href="https://bookofproofs.github.io/branches/game-theory/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/game-theory/game-theory.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/chess-1019908_640.jpg?raw=true" alt="Image by Peggy und Marco Lachmann-Anke from Pixabay" style="width:99%">
             </a>
         </div>
@@ -175,7 +175,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Theoretical Physics</div>
-            <a href="https://bookofproofs.github.io/branches/theoretical-physics/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/theoretical-physics/theoretical-physics.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/atom-1294810_640.png?raw=true" alt="Image by OpenClipart-Vectors from Pixabay" style="margin-top:50px; width:99%">
             </a>
         </div>
@@ -183,7 +183,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Theoretical Computer Science</div>
-            <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/binary-797263_640.jpg?raw=true" alt="Image by Gerd Altmann from Pixabay" style="width:99%">
             </a>
         </div>
@@ -193,7 +193,7 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-display-container">
             <div class="w3-display-topleft w3-black w3-padding">Dudeney's Amusements in Mathematics</div>
-            <a href="https://bookofproofs.github.io/branches/dudeneys-amusements-in-mathematics/" style="color: rgb(123, 104, 238);">
+            <a href="https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html" style="color: rgb(123, 104, 238);">
                 <img class="w3-opacity-max w3-animate-fading" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/penny-farthing-908965_640.jpg?raw=true" alt="Image by Karen Arnold from Pixabay" style="width:99%">
             </a>
         </div>

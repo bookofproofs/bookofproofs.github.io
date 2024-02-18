@@ -1,5 +1,5 @@
 layout: lemma
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-10-incommensurable-magnitudes
+categories: branches,geometry,elements-euclid,book-10-incommensurable-magnitudes
 nodeid: bookofproofs$6475
 orderid: 200
 parentid: bookofproofs$2122
