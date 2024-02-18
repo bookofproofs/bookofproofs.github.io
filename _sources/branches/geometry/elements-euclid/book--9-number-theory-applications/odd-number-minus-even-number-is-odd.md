@@ -1,5 +1,5 @@
 layout: proposition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--9-number-theory-applications
+categories: branches,geometry,elements-euclid,book--9-number-theory-applications
 nodeid: bookofproofs$2072
 orderid: 2600
 parentid: bookofproofs$1881

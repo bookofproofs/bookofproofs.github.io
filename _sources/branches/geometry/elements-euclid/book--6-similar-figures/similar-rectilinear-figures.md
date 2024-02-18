@@ -1,5 +1,5 @@
 layout: definition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--6-similar-figures
+categories: branches,geometry,elements-euclid,book--6-similar-figures
 nodeid: bookofproofs$1983
 orderid: 50
 parentid: bookofproofs$1869

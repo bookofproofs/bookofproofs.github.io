@@ -1,5 +1,5 @@
 layout: proposition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-10-incommensurable-magnitudes
+categories: branches,geometry,elements-euclid,book-10-incommensurable-magnitudes
 nodeid: bookofproofs$2159
 orderid: 6400
 parentid: bookofproofs$1882

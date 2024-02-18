@@ -1,5 +1,5 @@
 layout: subsection
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--1-plane-geometry
+categories: branches,geometry,elements-euclid,book--1-plane-geometry
 nodeid: bookofproofs$684
 orderid: 100
 parentid: bookofproofs$629

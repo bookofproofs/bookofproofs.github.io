@@ -1,5 +1,5 @@
 layout: section
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-12-proportional-stereometry
+categories: branches,geometry,elements-euclid,book-12-proportional-stereometry
 nodeid: bookofproofs$1861
 orderid: 1100
 parentid: bookofproofs$621

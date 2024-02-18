@@ -1,5 +1,5 @@
 layout: corollary
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--6-similar-figures
+categories: branches,geometry,elements-euclid,book--6-similar-figures
 nodeid: bookofproofs$6453
 orderid: 100
 parentid: bookofproofs$1994

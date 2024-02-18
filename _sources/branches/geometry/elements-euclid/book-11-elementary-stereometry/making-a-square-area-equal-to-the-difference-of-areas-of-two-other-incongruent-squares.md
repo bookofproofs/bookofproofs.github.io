@@ -1,5 +1,5 @@
 layout: lemma
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-11-elementary-stereometry
+categories: branches,geometry,elements-euclid,book-11-elementary-stereometry
 nodeid: bookofproofs$2372
 orderid: 100
 parentid: bookofproofs$2260

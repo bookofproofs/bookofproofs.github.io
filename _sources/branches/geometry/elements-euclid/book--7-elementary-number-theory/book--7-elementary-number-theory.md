@@ -1,5 +1,5 @@
 layout: section
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--7-elementary-number-theory
+categories: branches,geometry,elements-euclid,book--7-elementary-number-theory
 nodeid: bookofproofs$1856
 orderid: 600
 parentid: bookofproofs$621

@@ -1,8 +1,8 @@
 layout: chapter
-categories: branches,geometry,euclidean-geometry,elements-euclid
+categories: branches,geometry,elements-euclid
 nodeid: bookofproofs$621
 orderid: 50
-parentid: bookofproofs$79
+parentid: bookofproofs$75
 title: Euclid's “Elements”
 description: EUCLID'S “ELEMENTS” ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$2775,bookofproofs$6419,bookofproofs$6573

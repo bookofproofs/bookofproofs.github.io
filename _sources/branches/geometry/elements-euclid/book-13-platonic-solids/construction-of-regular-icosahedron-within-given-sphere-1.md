@@ -1,5 +1,5 @@
 layout: corollary
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-13-platonic-solids
+categories: branches,geometry,elements-euclid,book-13-platonic-solids
 nodeid: bookofproofs$6470
 orderid: 100
 parentid: bookofproofs$2310

@@ -6,7 +6,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="HOW THE AXIOM OF SEPARATION AVOIDS RUSSEL&#x27;S PARADOX &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="avoids,axiom,how,paradox,russels,separation">
-<title>How the Axiom of Separation Avoids Russel&#x27;s Paradox</title>
+<title>How the Axiom of Separation Avoids Russell&#x27;s Paradox</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
 <link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
@@ -41,14 +41,14 @@
     </div>
 </div>
 <div class="w3-content w3-margin-190" style="max-width:1205px">
-<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/equality-of-sets-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/there-is-no-set-of-all-sets.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Explanation: How the Axiom of Separation Avoids Russel&#x27;s Paradox</h3>
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/equality-of-sets-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/there-is-no-set-of-all-sets.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Explanation: How the Axiom of Separation Avoids Russell&#x27;s Paradox</h3>
 
 <hr>
 
-<h1>Explanation: How the Axiom of Separation Avoids Russel&#x27;s Paradox</h1>
+<h1>Explanation: How the Axiom of Separation Avoids Russell&#x27;s Paradox</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html'>Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)</a>)</p>
-<p>It now time to demonstrate how the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html" title="Set Theory / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)">axiom of separation</a> avoids the <a href="https://bookofproofs.github.io/branches/set-theory/russell-paradox.html" title="Set Theory / Motivation: Russell&amp;#x27;s Paradox (related to Branch: Set Theory)">Russel's paradox</a>. Recall that <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">Cantors' naive set definition</a> allowed the construction of a “set of all sets which do not contain themselves.” Formally, using the <a href="https://bookofproofs.github.io/branches/set-theory/possibilities-to-describe-sets-venn-diagrams-lists-and-set-builder-notation.html" title="Set Theory / Explanation: Possibilities to Describe Sets, Venn-Diagrams, List, and Set-Builder Notations (related to Definition: Set, Set Element, Empty Set)">set-builder notation</a>, we could write $$Y:=\{z\mid z\text{ is a set and } z\not\in z\}.$$<br />
-The Russel's paradox was that 
+<p>It now time to demonstrate how the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html" title="Set Theory / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)">axiom of separation</a> avoids the <a href="https://bookofproofs.github.io/branches/set-theory/russell-paradox.html" title="Set Theory / Motivation: Russell&amp;#x27;s Paradox (related to Branch: Set Theory)">Russell's paradox</a>. Recall that <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">Cantors' naive set definition</a> allowed the construction of a “set of all sets which do not contain themselves.” Formally, using the <a href="https://bookofproofs.github.io/branches/set-theory/possibilities-to-describe-sets-venn-diagrams-lists-and-set-builder-notation.html" title="Set Theory / Explanation: Possibilities to Describe Sets, Venn-Diagrams, List, and Set-Builder Notations (related to Definition: Set, Set Element, Empty Set)">set-builder notation</a>, we could write $$Y:=\{z\mid z\text{ is a set and } z\not\in z\}.$$<br />
+The Russell's paradox was that 
 $$\begin{array}{rrcll}
 \text{if}&amp;Y\in Y&amp;\text{then}&amp;Y\text{ is a set and }Y\not\in Y&amp;\text{which is false, since }Y\in Y,\\
 \text{if}&amp;Y\not\in Y&amp;\text{then}&amp; Y\text{ is not a set or }Y\in Y&amp;\text{which is false, since }Y\text{ is a set.}\end{array}$$ 

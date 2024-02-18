@@ -1,5 +1,5 @@
 layout: subsection
-categories: branches,geometry,euclidean-geometry,elements-euclid,book-11-elementary-stereometry
+categories: branches,geometry,elements-euclid,book-11-elementary-stereometry
 nodeid: bookofproofs$1883
 orderid: 100
 parentid: bookofproofs$1860

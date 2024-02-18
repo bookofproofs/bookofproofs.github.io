@@ -3,7 +3,7 @@ categories: branches,set-theory
 nodeid: bookofproofs$8019
 orderid: 300
 parentid: bookofproofs$675
-title: How the Axiom of Separation Avoids Russel's Paradox
+title: How the Axiom of Separation Avoids Russell's Paradox
 description: HOW THE AXIOM OF SEPARATION AVOIDS RUSSEL'S PARADOX &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$656,bookofproofs$983
 keywords: avoids,axiom,how,paradox,russels,separation
@@ -14,8 +14,8 @@ contributors: bookofproofs
 
 ---
 
-It now time to demonstrate how the [axiom of separation][bookofproofs$675] avoids the [Russel's paradox][bookofproofs$7987]. Recall that [Cantors' naive set definition][bookofproofs$550] allowed the construction of a “set of all sets which do not contain themselves.” Formally, using the [set-builder notation][bookofproofs$587], we could write `$$Y:=\{z\mid z\text{ is a set and } z\not\in z\}.$$`  
-The Russel's paradox was that 
+It now time to demonstrate how the [axiom of separation][bookofproofs$675] avoids the [Russell's paradox][bookofproofs$7987]. Recall that [Cantors' naive set definition][bookofproofs$550] allowed the construction of a “set of all sets which do not contain themselves.” Formally, using the [set-builder notation][bookofproofs$587], we could write `$$Y:=\{z\mid z\text{ is a set and } z\not\in z\}.$$`  
+The Russell's paradox was that 
 `$$\begin{array}{rrcll}
 \text{if}&Y\in Y&\text{then}&Y\text{ is a set and }Y\not\in Y&\text{which is false, since }Y\in Y,\\
 \text{if}&Y\not\in Y&\text{then}& Y\text{ is not a set or }Y\in Y&\text{which is false, since }Y\text{ is a set.}\end{array}$$` 

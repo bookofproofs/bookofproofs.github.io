@@ -1,5 +1,5 @@
 layout: proposition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--5-proportion
+categories: branches,geometry,elements-euclid,book--5-proportion
 nodeid: bookofproofs$1965
 orderid: 700
 parentid: bookofproofs$1877

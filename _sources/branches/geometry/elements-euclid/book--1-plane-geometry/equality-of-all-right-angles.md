@@ -1,5 +1,5 @@
 layout: axiom
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--1-plane-geometry
+categories: branches,geometry,elements-euclid,book--1-plane-geometry
 nodeid: bookofproofs$6424
 orderid: 300
 parentid: bookofproofs$684

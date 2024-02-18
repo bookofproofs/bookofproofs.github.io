@@ -1,5 +1,5 @@
 layout: definition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--5-proportion
+categories: branches,geometry,elements-euclid,book--5-proportion
 nodeid: bookofproofs$1945
 orderid: 400
 parentid: bookofproofs$1868

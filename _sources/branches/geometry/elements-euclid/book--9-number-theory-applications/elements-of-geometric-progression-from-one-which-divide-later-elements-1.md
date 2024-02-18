@@ -1,5 +1,5 @@
 layout: corollary
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--9-number-theory-applications
+categories: branches,geometry,elements-euclid,book--9-number-theory-applications
 nodeid: bookofproofs$6457
 orderid: 100
 parentid: bookofproofs$2057

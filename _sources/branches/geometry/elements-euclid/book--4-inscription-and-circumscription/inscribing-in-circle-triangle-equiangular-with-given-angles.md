@@ -1,5 +1,5 @@
 layout: proposition
-categories: branches,geometry,euclidean-geometry,elements-euclid,book--4-inscription-and-circumscription
+categories: branches,geometry,elements-euclid,book--4-inscription-and-circumscription
 nodeid: bookofproofs$1926
 orderid: 100
 parentid: bookofproofs$1864
