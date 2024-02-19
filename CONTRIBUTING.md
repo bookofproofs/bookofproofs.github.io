@@ -34,15 +34,15 @@ To contribute to the site, follow these generic steps:
       Note: this is only necessary if you want to test hyperlinks locally.
 1. Add new or amend existing markdown files.
 1. Run `_compile/main.py`. Before this step, you might be required to install some missing python packages using pip.
-1. Control the locally generated files in your browser. The root file is `docs/index.html. 
-2. If something is still not the way you want it, repeat steps 2 to 4.
+1. Control the locally generated files in your browser. The root file is `docs/index.html`. 
+   1. If something is still not the way you want it, repeat steps 2 to 4.
 
 Once you are ready with your editions: 
 
-6. Change the constant in the script `_compile/BopCompiler.py` back to `False` (if you changed it in 1.i) .
-7. Recompile (like in step 3).
-8. Add to git any new files you added in the folder `_sources/` or its subfolders _and(!)_ any new files that were auto-generated in `docs/`. 
-9. Commit and push to a new branch and make a change request.
+5. Change the constant in the script `_compile/BopCompiler.py` back to `False` (if you changed it in 1.i) .
+1. Recompile (like in step 3).
+1. Add to git any new files you added in the folder `_sources/` or its subfolders _and(!)_ any new files that were auto-generated in `docs/`. 
+1. Commit and push to a new branch and make a change request.
 
 # Further Help
 
