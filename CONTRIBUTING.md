@@ -39,8 +39,9 @@ To contribute to the site, follow these generic steps:
 
 Once you are ready with your editions: 
 
-5. Change the constant in the script `_compile/BopCompiler.py` back to `False` (if you changed it in 1.i) .
-1. Recompile (like in step 3).
+5. Optional (If you changed the constant in 1.i):
+   1. Change the script `_compile/BopCompiler.py` back to `False`.
+   1. Recompile (like in step 3) to correct local hyperlinks to remote ones again.
 1. Add to git any new files you added in the folder `_sources/` or its subfolders _and(!)_ any new files that were auto-generated in `docs/`. 
 1. Commit and push to a new branch and make a change request.
 
