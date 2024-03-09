@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], and the outermost of them are [prime to one another][bookofproofs$1288], then as the first (is) to the second, so the last will not be to some other (number).
+
 * Let `$A$`, `$B$`, `$C$`, `$D$` be any multitude whatsoever of [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552].
 * And let the outermost of them, `$A$` and `$D$`, be [prime to one another][bookofproofs$1288].
 * I say that as `$A$` is to `$B$`, so `$D$` (is) not to some other (number).

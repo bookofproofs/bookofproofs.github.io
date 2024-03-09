@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 11 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is set up at [right angles][bookofproofs$653] to three [straight lines][bookofproofs$645] cutting one another, at the common [point][bookofproofs$631] of section, then the three [straight lines][bookofproofs$645] are in one [plane][bookofproofs$657].
+
 * For let some [straight line][bookofproofs$645] `$AB$` have been set up at [right angles][bookofproofs$653] to three [straight lines][bookofproofs$645] `$BC$`, `$BD$`, and `$BE$`, at the (common) [point][bookofproofs$631] of section `$B$`.
 * I say that `$BC$`, `$BD$`, and `$BE$` are in one [plane][bookofproofs$657].
 ![fig05e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book11/fig05e.png?raw=true)

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 46 from Book 1 of Euclid's “Elements”)
 
 > To describe a [square][bookofproofs$909] on a given [straight line][bookofproofs$645].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645].
 * So it is required to describe a [square][bookofproofs$909] on the [straight line][bookofproofs$645] `$AB$`.
 

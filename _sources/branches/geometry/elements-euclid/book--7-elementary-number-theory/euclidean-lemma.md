@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 30 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] make some (number by) [multiplying one another][bookofproofs$6437], and some [prime number][bookofproofs$704] measures the number (so) created from them, then it will also measure one of the original ([numbers][bookofproofs$2315]).
+
 * For let two [numbers][bookofproofs$2315] `$A$` and `$B$` make `$C$` (by) [multiplying one another][bookofproofs$6437], and let some [prime number][bookofproofs$704] `$D$` measure `$C$`.
 * I say that `$D$` measures one of `$A$` and `$B$`.
 

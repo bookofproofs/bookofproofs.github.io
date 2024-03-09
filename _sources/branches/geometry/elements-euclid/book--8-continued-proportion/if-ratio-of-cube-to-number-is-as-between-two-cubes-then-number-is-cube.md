@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 25 from Book 8 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] have to one another the [ratio][bookofproofs$1943] which a [cube number][bookofproofs$2327] (has) to a(nother) [cube number][bookofproofs$2327], and the first is [cube][bookofproofs$2327], then the second will also be [cube][bookofproofs$2327].
+
 * For let two [numbers][bookofproofs$2315], `$A$` and `$B$`, have to one another the [ratio][bookofproofs$1943] which the [cube number][bookofproofs$2327] `$C$` (has) to the [cube number][bookofproofs$2327] `$D$`.
 * And let `$A$` be [cube][bookofproofs$2327].
 * So, I say that `$B$` is also [cube][bookofproofs$2327].

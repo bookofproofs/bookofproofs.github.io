@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 1 from Book 3 of Euclid's “Elements”)
 
 > To find the [center][bookofproofs$6428] of a given [circle][bookofproofs$690].
+
 * Let `$ABC$` be the given [circle][bookofproofs$690].
 * So it is required to find the [center][bookofproofs$6428] of [circle][bookofproofs$690] `$ABC$`.
 * Let some [straight line][bookofproofs$645] `$AB$` have been drawn through ($ABC$), at random, and let ($AB$) have been cut in half at [point][bookofproofs$631] `$D$` [[Prop. 1.9]][bookofproofs$755].

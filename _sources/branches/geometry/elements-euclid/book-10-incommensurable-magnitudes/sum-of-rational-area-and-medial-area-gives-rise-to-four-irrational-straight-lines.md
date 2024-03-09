@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 71 from Book 10 of Euclid's “Elements”)
 
 > When a [rational][bookofproofs$2083] and a [medial (area) ][bookofproofs$6462] are added together, four [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as the [square root][bookofproofs$46] of the total area) - either a [binomial][bookofproofs$2130], or a [first bimedial][bookofproofs$2131], or a [major][bookofproofs$2133], or the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462].
+
 * Let `$AB$` be a [rational][bookofproofs$2083] (area), and `$CD$` a [medial (area) ][bookofproofs$6462].
 * I say that the [square root][bookofproofs$46] of area `$AD$` is either [binomial][bookofproofs$2130], or [first bimedial][bookofproofs$2131], or [major][bookofproofs$2133], or the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462].
 

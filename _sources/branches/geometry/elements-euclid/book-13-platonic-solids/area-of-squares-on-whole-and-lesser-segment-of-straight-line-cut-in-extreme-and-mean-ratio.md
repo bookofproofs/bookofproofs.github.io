@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 13 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut [in extreme and mean ratio][bookofproofs$1985] then the sum of the [squares][bookofproofs$909] on the whole and the lesser piece is three times the [square][bookofproofs$909] on the greater piece.
+
 * Let `$AB$` be a [straight line][bookofproofs$645], and let it have been cut [in extreme and mean ratio][bookofproofs$1985] at `$C$`, and let `$AC$` be the greater piece.
 * I say that the (sum of the [squares][bookofproofs$909]) on `$AB$` and `$BC$` is three times the [ (square) ][bookofproofs$909] on `$CA$`.
 

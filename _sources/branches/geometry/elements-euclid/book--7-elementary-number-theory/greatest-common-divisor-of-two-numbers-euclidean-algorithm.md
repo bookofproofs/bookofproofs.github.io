@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 7 of Euclid's “Elements”)
 
 > To find the greatest common measure of two given [numbers][bookofproofs$2315] (which are) not [prime to one another][bookofproofs$1288].
+
 * Let `$AB$` and `$CD$` be the two given [numbers][bookofproofs$2315] (which are) not [prime to one another][bookofproofs$1288].
 * So it is required to find the greatest common measure of `$AB$` and `$CD$`.
 

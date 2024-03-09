@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 100 from Book 10 of Euclid's “Elements”)
 
 > The [ (square) ][bookofproofs$909] on a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]), applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), produces a [fourth apotome][bookofproofs$2094] as breadth.
+
 * Let `$AB$` be a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]), and `$CD$` a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let `$CE$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$CD$`, producing `$CF$` as breadth.
 * I say that `$CF$` is a [fourth apotome][bookofproofs$2094].

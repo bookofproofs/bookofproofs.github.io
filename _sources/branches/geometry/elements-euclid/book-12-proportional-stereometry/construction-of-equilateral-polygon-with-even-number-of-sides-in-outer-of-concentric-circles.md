@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > There being two [circles][bookofproofs$690] about the same [center][bookofproofs$6428], to inscribe an equilateral and even-sided [polygon][bookofproofs$687] in the greater [circle][bookofproofs$690], not touching the lesser [circle][bookofproofs$690].
+
 * Let `$ABCD$` and `$EFGH$` be the given two [circles][bookofproofs$690], about the same [center][bookofproofs$6428], `$K$`.
 * So, it is necessary to inscribe an equilateral and even-sided [polygon][bookofproofs$687] in the greater [circle][bookofproofs$690] `$ABCD$`, not [touching][bookofproofs$1853] [circle][bookofproofs$690] `$EFGH$`.
 

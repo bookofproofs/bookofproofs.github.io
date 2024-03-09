@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 10 from Book 13 of Euclid's “Elements”)
 
 > If an equilateral [pentagon][bookofproofs$6447] is [inscribed in a circle][bookofproofs$1920] then the [square][bookofproofs$909] on the side of the [pentagon][bookofproofs$6447] is (equal to) the (sum of the [squares][bookofproofs$909]) on the (sides) of the [hexagon][bookofproofs$6448] and of the [decagon][bookofproofs$6571] inscribed in the same [circle][bookofproofs$690]$^\dag$
+
 * Let `$ABCDE$` be a [circle][bookofproofs$690].
 * And let the equilateral [pentagon][bookofproofs$6447] `$ABCDE$` have been [inscribed in circle][bookofproofs$1920] `$ABCDE$`.
 * I say that the [square][bookofproofs$909] on the side of [pentagon][bookofproofs$6447] `$ABCDE$` is the (sum of the [squares][bookofproofs$909]) on the sides of the [hexagon][bookofproofs$6448] and of the [decagon][bookofproofs$6571] [inscribed in circle][bookofproofs$1920] `$ABCDE$`.

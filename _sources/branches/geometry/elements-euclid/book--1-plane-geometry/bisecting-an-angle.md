@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 9 from Book 1 of Euclid's “Elements”)
 
 > To cut a given [rectilinear angle][bookofproofs$650] in half.
+
 * Let `$BAC$` be the given rectilinear angle.
 * So it is required to cut it in half.
 

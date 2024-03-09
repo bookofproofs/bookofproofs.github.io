@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 7 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut at random then the sum of the [squares][bookofproofs$909] on the whole ([straight line][bookofproofs$645]), and one of the pieces (of the [straight line][bookofproofs$645]), is equal to twice the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the whole, and the said piece, and the [square][bookofproofs$909] on the remaining piece.
+
 * For let any [straight line][bookofproofs$645] `$AB$` have been cut, at random, at [point][bookofproofs$631] `$C$`.
 * I say that the (sum of the) [squares][bookofproofs$909] on `$AB$` and `$BC$` is equal to twice the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AB$` and `$BC$`, and the [square][bookofproofs$909] on `$CA$`.
 

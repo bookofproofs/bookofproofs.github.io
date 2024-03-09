@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 27 from Book 6 of Euclid's “Elements”)
 
 > Of all the [parallelograms][bookofproofs$909] applied to the same [straight line][bookofproofs$645], and falling short by [parallelogrammic][bookofproofs$909] figures [similar][bookofproofs$1983], and similarly laid out, to the ([parallelogram][bookofproofs$909]) described on half (the [straight line][bookofproofs$645]), the greatest is the [[parallelogram][bookofproofs$909]] applied to half (the [straight line][bookofproofs$645]) which (is) [similar][bookofproofs$1983] to (that [parallelogram][bookofproofs$909]) by which it falls short.
+
 * Let `$AB$` be a [straight line][bookofproofs$645], and let it have been cut in half at ([point][bookofproofs$631]) `$C$` [[Prop. 1.10]][bookofproofs$757].
 * And let the [parallelogram][bookofproofs$909] `$AD$` have been applied to the [straight line][bookofproofs$645] `$AB$`, falling short by the [parallelogrammic][bookofproofs$909] figure `$DB$` (which is) applied to half of `$AB$` - that is to say, `$CB$`.
 * I say that of all the [parallelograms][bookofproofs$909] applied to `$AB$`, and falling short by [[parallelogrammic][bookofproofs$909]] figures [similar][bookofproofs$1983], and similarly laid out, to `$DB$`, the greatest is `$AD$`.

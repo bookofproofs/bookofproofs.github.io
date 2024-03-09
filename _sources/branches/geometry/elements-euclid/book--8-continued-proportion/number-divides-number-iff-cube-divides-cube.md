@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 8 of Euclid's “Elements”)
 
 > If a [cube number][bookofproofs$2327] measures a(nother) [cube number][bookofproofs$2327] then the side (of the former) will also measure the side (of the latter). And if the side (of a [cube number][bookofproofs$2327]) measures the side (of another [cube number][bookofproofs$2327]) then the (former) [cube (number) ][bookofproofs$2327] will also measure the (latter) [cube (number) ][bookofproofs$2327].
+
 * For let the [cube number][bookofproofs$2327] `$A$` measure the [cube (number) ][bookofproofs$2327] `$B$`, and let `$C$` be the side of `$A$`, and `$D$` (the side) of `$B$`.
 * I say that `$C$` measures `$D$`.
 * And so let `$C$` measure `$D$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] makes some (number by) multiplying an [odd (number) ][bookofproofs$2318] then the created (number) will be odd.
+
 * For let the [odd number][bookofproofs$2318] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] the [odd (number) ][bookofproofs$2318] `$B$`.
 * I say that `$C$` is odd.
 

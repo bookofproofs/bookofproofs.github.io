@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 35 from Book 3 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] in a [circle][bookofproofs$690] cut one another then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the pieces of one is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the pieces of the other.
+
 * For let the two [straight lines][bookofproofs$645] `$AC$` and `$BD$`, in the [circle][bookofproofs$690] `$ABCD$`, cut one another at [point][bookofproofs$631] `$E$`.
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AE$` and `$EC$` is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$DE$` and `$EB$`.
 

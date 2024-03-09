@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [numbers][bookofproofs$2315] are [prime to one another][bookofproofs$1288] then the number created from (squaring) one of them will be [prime to][bookofproofs$1288] the remaining (number).
+
 * Let `$A$` and `$B$` be two [numbers][bookofproofs$2315] (which are) [prime to one another][bookofproofs$1288].
 * And let `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] itself.
 * I say that `$B$` and `$C$` are [prime to one another][bookofproofs$1288].

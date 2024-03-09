@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 89 from Book 10 of Euclid's “Elements”)
 
 > To find a [fifth apotome][bookofproofs$6445].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$` be laid down, and let `$CG$` be [commensurable in length][bookofproofs$1095] with `$A$`.
 * Thus, `$CG$` [is] a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the two [numbers][bookofproofs$2315] `$DF$` and `$FE$` be laid down such that `$DE$` again does not have to each of `$DF$` and `$FE$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].

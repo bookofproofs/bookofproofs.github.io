@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 42 from Book 1 of Euclid's “Elements”)
 
 > To construct a [parallelogram][bookofproofs$909] equal to a given [triangle][bookofproofs$6432] in a given [rectilinear angle][bookofproofs$650].
+
 * Let `$ABC$` be the given [triangle][bookofproofs$6432], and `$D$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to construct a [parallelogram][bookofproofs$909] equal to triangle `$ABC$` in the [rectilinear angle][bookofproofs$650] `$D$`.
 

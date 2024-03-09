@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 96 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [sixth apotome][bookofproofs$6446] then the [square root][bookofproofs$46] of the area is that ([straight line][bookofproofs$645]) which with a [medial (area) ][bookofproofs$6462] makes a [medial][bookofproofs$2115] whole.
+
 * For let the area `$AB$` have been contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AC$` and the [sixth apotome][bookofproofs$6446] `$AD$`.
 * I say that the [square root][bookofproofs$46] of area `$AB$` is that ([straight line][bookofproofs$645]) which with a [medial (area) ][bookofproofs$6462] makes a [medial][bookofproofs$2115] whole.
 

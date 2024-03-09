@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 8 of Euclid's “Elements”)
 
 > For any multitude whatsoever of given [ratios][bookofproofs$1943], (expressed) in the least [numbers][bookofproofs$2315], to find the least [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] in these given [ratio][bookofproofs$1943].
+
 * Let the given [ratio][bookofproofs$1943], (expressed) in the least [numbers][bookofproofs$2315], be the [ (ratios) ][bookofproofs$1943] of `$A$` to `$B$`, and of `$C$` to `$D$`, and, further, of `$E$` to `$F$`.
 * So it is required to find the least [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] in the [ratio][bookofproofs$1943] of `$A$` to `$B$`, and of `$C$` to `$B$`, and, further, of `$E$` to `$F$`.
 

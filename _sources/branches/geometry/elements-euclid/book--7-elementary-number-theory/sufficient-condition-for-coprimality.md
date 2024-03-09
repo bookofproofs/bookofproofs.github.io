@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > Two unequal [numbers][bookofproofs$2315] (being) laid down, and the lesser being continually subtracted, in turn, from the greater, if the remainder never measures the (number) preceding it, until a [unit][bookofproofs$2314] remains, then the original [numbers][bookofproofs$2315] will be [prime to one another][bookofproofs$1288].
+
 * For two [unequal] [numbers][bookofproofs$2315], `$AB$` and `$CD$`, the lesser being continually subtracted, in turn, from the greater, let the remainder never measure the (number) preceding it, until a [unit][bookofproofs$2314] remains.
 * I say that `$AB$` and `$CD$` are [prime to one another][bookofproofs$1288] - that is to say, that a [unit][bookofproofs$2314] alone measures (both) `$AB$` and `$CD$`.
 

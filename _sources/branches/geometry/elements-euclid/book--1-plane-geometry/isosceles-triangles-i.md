@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 5 from Book 1 of Euclid's “Elements”)
 
 > For [isosceles triangles][bookofproofs$688], the [angles][bookofproofs$650] at the base are equal to one another, and if the equal sides are produced then the [angles][bookofproofs$6425] under the base will be equal to one another.
+
 * Let `$ABC$` be an [isosceles triangle][bookofproofs$688] having the side `$AB$` equal to the side `$AC$`, and let the [straight lines][bookofproofs$645] `$BD$` and `$CE$` have been produced in a [straight line][bookofproofs$645] with `$AB$` and `$AC$` (respectively) [ [Post. 2] ][bookofproofs$734].
 * I say that the angle `$ABC$` is equal to `$ACB$`, and (angle) `$CBD$` to `$BCE$`.
 

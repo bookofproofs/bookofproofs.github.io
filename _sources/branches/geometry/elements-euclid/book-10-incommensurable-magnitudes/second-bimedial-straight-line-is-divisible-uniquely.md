@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 44 from Book 10 of Euclid's “Elements”)
 
 > A [second bimedial][bookofproofs$2132] ([straight line][bookofproofs$645]) can be divided (into its component terms) at one [point][bookofproofs$631] only.
+
 * Let `$AB$` be a [second bimedial][bookofproofs$2132] ([straight line][bookofproofs$645]) which has been divided at `$C$`, so that `$AC$` and `$BC$` are [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), [commensurable in square][bookofproofs$2082] only, (and) containing a [medial (area) ][bookofproofs$6462] [[Prop. 10.38]][bookofproofs$2132].
 * So, (it is) clear that `$C$` is not (located) at the [point][bookofproofs$631] of bisection, since ($AC$ and `$BC$`) are not [commensurable in length][bookofproofs$1095].
 * I say that `$AB$` cannot be (so) divided at another [point][bookofproofs$631].

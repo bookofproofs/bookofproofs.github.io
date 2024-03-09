@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If the sides of the opposite [planes][bookofproofs$647] of a [cube][bookofproofs$2234] are cut in half, and [planes][bookofproofs$647] are produced through the pieces, then the common section of the (latter) [planes][bookofproofs$647] and the [diameter][bookofproofs$6429] of the [cube][bookofproofs$2234] cut one another in half.
+
 * For let the opposite [planes][bookofproofs$647] `$CF$` and `$AH$` of the [cube][bookofproofs$2234] `$AF$` have been cut in half at the [points][bookofproofs$631] `$K$`, `$L$`, `$M$`, `$N$`, `$O$`, `$Q$`, `$P$`, and `$R$`.
 * And let the [planes][bookofproofs$647] `$KN$` and `$OR$` have been produced through the pieces.
 * And let `$US$` be the common section of the [planes][bookofproofs$647], and `$DG$` the [diameter][bookofproofs$6429] of [cube][bookofproofs$2234] `$AF$`.

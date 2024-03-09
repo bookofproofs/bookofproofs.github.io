@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 4 of Euclid's “Elements”)
 
 > To [circumscribe a circle][bookofproofs$6438] about a given [square][bookofproofs$909].
+
 * Let `$ABCD$` be the given [square][bookofproofs$909].
 * So it is required to [circumscribe a circle][bookofproofs$6438] about [square][bookofproofs$909] `$ABCD$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [rational][bookofproofs$2083] ([straight lines][bookofproofs$645] which are) [commensurable in square][bookofproofs$2082] only are added together then the whole ([straight line][bookofproofs$645]) is [irrational][bookofproofs$2083] - let it be called a **binomial** ([straight line][bookofproofs$645]).[^1]
+
 * For let the two [rational][bookofproofs$2083] ([straight lines][bookofproofs$645]), `$AB$` and `$BC$`, (which are) [commensurable in square][bookofproofs$2082] only, be laid down together.
 * I say that the whole ([straight line][bookofproofs$645]), `$AC$`, is [irrational][bookofproofs$2083].
 

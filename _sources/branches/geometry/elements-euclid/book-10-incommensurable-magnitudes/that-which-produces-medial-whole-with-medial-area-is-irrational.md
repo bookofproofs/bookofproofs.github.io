@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 78 from Book 10 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645], which is [incommensurable in square][bookofproofs$2082] with the whole, and with the whole makes the sum of the [squares][bookofproofs$909] on them [medial][bookofproofs$2115], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [medial][bookofproofs$2115], and, moreover, the (sum of the) [squares][bookofproofs$909] on them [incommensurable][bookofproofs$1095] with twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them, is subtracted from a(nother) [straight line][bookofproofs$645] then the remainder is an [irrational][bookofproofs$2083] ([straight line][bookofproofs$645]). Let it be called that which makes with a [medial (area) ][bookofproofs$6462] a [medial][bookofproofs$2115] whole.
+
 * For let the [straight line][bookofproofs$645] `$BC$`, which is [incommensurable in square][bookofproofs$2082] `$AB$`, and fulfils the (other) prescribed (conditions), have been subtracted from the ([straight line][bookofproofs$645]) `$AB$` [[Prop. 10.35]][bookofproofs$2129].
 * I say that the remainder `$AC$` is the [irrational][bookofproofs$2083] ([straight line][bookofproofs$645]) called that which makes with a [medial (area) ][bookofproofs$6462] a [medial][bookofproofs$2115] whole.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a [cube number][bookofproofs$2327] makes some (number by) multiplying a(nother) [cube number][bookofproofs$2327] then the created (number) will be [cube][bookofproofs$2327].
+
 * For let the [cube number][bookofproofs$2327] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] the [cube number][bookofproofs$2327] `$B$`.
 * I say that `$C$` is [cube][bookofproofs$2327].
 

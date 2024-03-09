@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 5 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut into equal and unequal (pieces) then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the unequal pieces of the whole ([straight line][bookofproofs$645]), plus the [square][bookofproofs$909] on the (difference) between the (equal and unequal) pieces, is equal to the [square][bookofproofs$909] on half (of the [straight line][bookofproofs$645]).
+
 * For let any [straight line][bookofproofs$645] `$AB$` have been cut - equally at `$C$`, and unequally at `$D$`.
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AD$` and `$DB$`, plus the [square][bookofproofs$909] on `$CD$`, is equal to the [square][bookofproofs$909] on `$CB$`.
 

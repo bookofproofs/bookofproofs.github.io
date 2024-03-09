@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 7 of Euclid's “Elements”)
 
 > The least [numbers][bookofproofs$2315] of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as they are [prime to one another][bookofproofs$1288].
+
 * Let `$A$` and `$B$` be the least [numbers][bookofproofs$2315] of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.
 * I say that `$A$` and `$B$` are [prime to one another][bookofproofs$1288].
 ![fig22e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book07/fig22e.png?raw=true)

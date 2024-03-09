@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 44 from Book 1 of Euclid's “Elements”)
 
 > To apply a [parallelogram][bookofproofs$909] equal to a given [triangle][bookofproofs$6432] to a given [straight line][bookofproofs$645] in a given [rectilinear angle][bookofproofs$650].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], `$C$` the given [triangle][bookofproofs$6432], and `$D$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to apply a [parallelogram][bookofproofs$909] equal to the given [triangle][bookofproofs$6432] `$C$` to the given [straight line][bookofproofs$645] `$AB$` in an [angle][bookofproofs$650] equal to (angle) `$D$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > A [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by [medial][bookofproofs$2115] [straight lines][bookofproofs$645] (which are) [commensurable in length][bookofproofs$1095] is [medial][bookofproofs$2115].
+
 * For let the [rectangle][bookofproofs$909] `$AC$` be contained by the [medial][bookofproofs$2115] [straight lines][bookofproofs$645] `$AB$` and `$BC$` (which are) [commensurable in length][bookofproofs$1095].
 * I say that `$AC$` is [medial][bookofproofs$2115].
 

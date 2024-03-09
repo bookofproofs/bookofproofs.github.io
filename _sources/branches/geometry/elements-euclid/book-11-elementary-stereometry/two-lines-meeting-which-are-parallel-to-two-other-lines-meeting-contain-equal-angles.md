@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 10 from Book 11 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] joined to one another are (respectively) [parallel][bookofproofs$788] to two [straight lines][bookofproofs$645] joined to one another, (but are) not in the same [plane][bookofproofs$657], then they will contain equal [angles][bookofproofs$650].
+
 * For let the two [straight lines][bookofproofs$645] joined to one another, `$AB$` and `$BC$`, be (respectively) [parallel][bookofproofs$788] to the two [straight lines][bookofproofs$645] joined to one another, `$DE$` and `$EF$`, (but) not in the same [plane][bookofproofs$657].
 * I say that [angle][bookofproofs$650] `$ABC$` is equal to (angle) `$DEF$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 6 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432] have one angle equal to one angle, and the sides about the equal [angles][bookofproofs$650] [proportional][bookofproofs$2328], then the [triangles][bookofproofs$6432] will be equiangular, and will have the [angles][bookofproofs$650] which corresponding sides subtend equal.
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having one angle, `$BAC$`, equal to one angle, `$EDF$` (respectively), and the sides about the equal [angles][bookofproofs$650] [proportional][bookofproofs$2328], (so that) as `$BA$` (is) to `$AC$`, so `$ED$` (is) to `$DF$`.
 * I say that triangle `$ABC$` is equiangular to triangle `$DEF$`, and will have angle `$ABC$` equal to `$DEF$`, and (angle) `$ACB$` to `$DFE$`.
 

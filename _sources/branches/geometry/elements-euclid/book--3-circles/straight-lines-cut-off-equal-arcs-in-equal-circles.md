@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 28 from Book 3 of Euclid's “Elements”)
 
 > In [equal circles][bookofproofs$1850], equal [straight lines][bookofproofs$645] cut off equal [circumferences][bookofproofs$690], the greater ([circumference][bookofproofs$690] being equal) to the greater, and the lesser to the lesser.
+
 * Let `$ABC$` and `$DEF$` be [equal circles][bookofproofs$1850], and let `$AB$` and `$DE$` be equal [straight lines][bookofproofs$645] in these [circles][bookofproofs$690], cutting off the greater [circumferences][bookofproofs$690] `$ACB$` and `$DFE$`, and the lesser ([circumferences][bookofproofs$690]) `$AGB$` and `$DHE$` (respectively).
 * I say that the greater [circumference][bookofproofs$690] `$ACB$` is equal to the greater [circumference][bookofproofs$690] `$DFE$`, and the lesser [circumference][bookofproofs$690] `$AGB$` to (the lesser) `$DHE$`.
 

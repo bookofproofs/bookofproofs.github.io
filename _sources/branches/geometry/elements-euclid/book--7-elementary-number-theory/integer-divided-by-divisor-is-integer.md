@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 37 from Book 7 of Euclid's “Elements”)
 
 > If a number is measured by some number then the (number) measured will have a [part][bookofproofs$703] called the same as the measuring (number).
+
 * For let the number `$A$` be measured by some number `$B$`.
 * I say that `$A$` has a [part][bookofproofs$703] called the same as `$B$`.
 

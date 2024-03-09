@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe a circle][bookofproofs$6439] in a given [triangle][bookofproofs$6432].
+
 * Let `$ABC$` be the given [triangle][bookofproofs$6432].
 * So it is required to [inscribe a circle][bookofproofs$6439] in [triangle][bookofproofs$6432] `$ABC$`.
 

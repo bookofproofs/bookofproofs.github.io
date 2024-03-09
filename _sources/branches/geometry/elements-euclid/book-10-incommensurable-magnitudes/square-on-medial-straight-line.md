@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), being applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), produces as breadth a ([straight line][bookofproofs$645] which is) [rational][bookofproofs$2083], and [incommensurable in length][bookofproofs$1095] with the ([straight line][bookofproofs$645]) to which it is applied.
+
 * Let `$A$` be a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and `$CB$` a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), and let the rectangular area `$BD$`, equal to the [ (square) ][bookofproofs$909] on `$A$`, have been applied to `$BC$`, producing `$CD$` as breadth.
 * I say that `$CD$` is [rational][bookofproofs$2083], and [incommensurable in length][bookofproofs$1095] with `$CB$`.
 

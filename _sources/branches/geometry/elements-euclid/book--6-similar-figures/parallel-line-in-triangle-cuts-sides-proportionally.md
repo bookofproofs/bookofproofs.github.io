@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 6 of Euclid's “Elements”)
 
 > If some [straight line][bookofproofs$645] is drawn [parallel][bookofproofs$788] to one of the sides of a [triangle][bookofproofs$6432] then it will cut the (other) sides of the triangle proportionally. And if (two of) the sides of a [triangle][bookofproofs$6432] are cut proportionally then the [straight line][bookofproofs$645] joining the cutting ([points][bookofproofs$631]) will be [parallel][bookofproofs$788] to the remaining side of the triangle.
+
 * For let `$DE$` have been drawn [parallel][bookofproofs$788] to one of the sides `$BC$` of triangle `$ABC$`.
 * I say that as `$BD$` is to `$DA$`, so `$CE$` (is) to `$EA$`.
 

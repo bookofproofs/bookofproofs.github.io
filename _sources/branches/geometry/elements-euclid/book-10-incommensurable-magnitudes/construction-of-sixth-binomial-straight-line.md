@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 53 from Book 10 of Euclid's “Elements”)
 
 > To find a [sixth binomial][bookofproofs$2090] ([straight line][bookofproofs$645]).
+
 * Let the two [numbers][bookofproofs$2315] `$AC$` and `$CB$` be laid down such that `$AB$` does not have to each of them the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].
 * And let `$D$` also be another [number][bookofproofs$2315], which is not [square][bookofproofs$2326], and does not have to each of `$BA$` and `$AC$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326] either [ [Prop. 10.28 lem. I] ][bookofproofs$6474].
 * And let some [rational][bookofproofs$2083] [straight line][bookofproofs$645] `$E$` be laid down.

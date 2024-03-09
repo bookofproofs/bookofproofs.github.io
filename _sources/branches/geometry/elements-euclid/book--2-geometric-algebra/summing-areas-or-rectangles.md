@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 1 from Book 2 of Euclid's “Elements”)
 
 > If there are two [straight lines][bookofproofs$645], and one of them is cut into any number of pieces whatsoever, then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the two [straight lines][bookofproofs$645] is equal to the (sum of the) [rectangles][bookofproofs$909] contained by the uncut ([straight line][bookofproofs$645]), and every one of the pieces (of the cut [straight line][bookofproofs$645]).
+
 * Let `$A$` and `$BC$` be the two [straight lines][bookofproofs$645], and let `$BC$` be cut, at random, at [points][bookofproofs$631] `$D$` and `$E$`.
 * I say that the [rectangle][bookofproofs$909] contained by `$A$` and `$BC$` is equal to the [rectangle][bookofproofs$909](s) contained by `$A$` and `$BD$`, by `$A$` and `$DE$`, and, finally, by `$A$` and `$EC$`.
 

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 21 from Book 1 of Euclid's “Elements”)
 
 > If two internal [straight lines][bookofproofs$645] are constructed on one of the sides of a [triangle][bookofproofs$6432], from its ends, the constructed ([straight lines][bookofproofs$645]) will be less than the two remaining sides of the triangle, but will encompass a greater [angle][bookofproofs$650].
+
 * For let the two internal [straight lines][bookofproofs$645] `$BD$` and `$DC$` have been constructed on one of the sides `$BC$` of the triangle `$ABC$`, from its ends `$B$` and `$C$` (respectively).
 * I say that `$BD$` and `$DC$` are less than the (sum of the) two remaining sides of the triangle `$BA$` and `$AC$`, but encompass an [angle][bookofproofs$650] `$BDC$` greater than `$BAC$`.
 

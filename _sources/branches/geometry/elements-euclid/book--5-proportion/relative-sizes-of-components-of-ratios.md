@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a first (magnitude) has the [same ratio][bookofproofs$1945] to a second that a third (has) to a fourth, and the first (magnitude) is greater than the third, then the second will also be greater than the fourth. And if (the first magnitude is) equal (to the third then the second will also be) equal (to the fourth). And if (the first magnitude is) less (than the third then the second will also be) less (than the fourth).
+
 * For let a first (magnitude) `$A$` have the [same ratio][bookofproofs$1945] to a second `$B$` that a third `$C$` (has) to a fourth `$D$`.
 * And let `$A$` be greater than `$C$`.
 * I say that `$B$` is also greater than `$D$`.

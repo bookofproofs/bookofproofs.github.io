@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe][bookofproofs$6439] an equilateral and equiangular fifteen-sided figure in a given [circle][bookofproofs$690].
+
 * Let `$ABCD$` be the given [circle][bookofproofs$690].
 * So it is required to inscribe an equilateral and equiangular [fifteen-sided figure][bookofproofs$687] in [circle][bookofproofs$690] `$ABCD$`.
 

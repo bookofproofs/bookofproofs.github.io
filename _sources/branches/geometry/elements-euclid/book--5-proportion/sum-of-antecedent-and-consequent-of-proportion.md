@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 25 from Book 5 of Euclid's “Elements”)
 
 > If four magnitudes are [proportional][bookofproofs$6442] then the (sum of the) largest and the smallest [of them] is greater than the (sum of the) remaining two (magnitudes).
+
 * Let `$AB$`, `$CD$`, `$E$`, and `$F$` be four [proportional][bookofproofs$6442] magnitudes, (such that) as `$AB$` (is) to `$CD$`, so `$E$` (is) to `$F$`.
 * And let `$AB$` be the greatest of them, and `$F$` the least.
 * I say that `$AB$` and `$F$` is greater than `$CD$` and `$E$`.

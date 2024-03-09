@@ -17,6 +17,7 @@ contributors: bookofproofs
 ### (Proposition 37 from Book 10 of Euclid's “Elements”)
 
 > If two [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), [commensurable in square][bookofproofs$2082] only, which contain a [rational][bookofproofs$2083] (area), are added together then the whole ([straight line][bookofproofs$645]) is [irrational][bookofproofs$2083] - let it be called a **first bimedial**[^1] ([straight line][bookofproofs$645]).
+
 * For let the two [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), `$AB$` and `$BC$`, [commensurable in square][bookofproofs$2082] only, (and) containing a [rational][bookofproofs$2083] (area), be laid down together.
 * I say that the whole ([straight line][bookofproofs$645]), `$AC$`, is [irrational][bookofproofs$2083].
 

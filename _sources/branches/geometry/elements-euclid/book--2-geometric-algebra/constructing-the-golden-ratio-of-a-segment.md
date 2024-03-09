@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey
 ### (Proposition 11 from Book 2 of Euclid's “Elements”)
 
 > To cut a given [straight line][bookofproofs$645] such that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the whole ([straight line][bookofproofs$645]), and one of the pieces (of the [straight line][bookofproofs$645]), is equal to the [square][bookofproofs$909] on the remaining piece.
+
 * Let `$AB$` be the given [straight line][bookofproofs$645].
 * So it is required to cut `$AB$` such that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the whole ([straight line][bookofproofs$645]), and one of the pieces (of the [straight line][bookofproofs$645]), is equal to the [square][bookofproofs$909] on the remaining piece.
 

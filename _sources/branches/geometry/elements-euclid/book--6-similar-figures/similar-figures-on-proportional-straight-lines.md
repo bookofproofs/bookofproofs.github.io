@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 6 of Euclid's “Elements”)
 
 > If four [straight lines][bookofproofs$645] are [proportional][bookofproofs$2328] then [similar][bookofproofs$1983], and similarly described, [rectilinear figures][bookofproofs$687] (drawn) on them will also be [proportional][bookofproofs$2328]. And if [similar][bookofproofs$1983], and similarly described, [rectilinear figures][bookofproofs$687] (drawn) on them are [proportional][bookofproofs$2328] then the [straight lines][bookofproofs$645] themselves will also be [proportional][bookofproofs$2328].
+
 * Let `$AB$`, `$CD$`, `$EF$`, and `$GH$` be four [proportional][bookofproofs$2328] [straight lines][bookofproofs$645], (such that) as `$AB$` (is) to `$CD$`, so `$EF$` (is) to `$GH$`.
 * And let the [similar][bookofproofs$1983], and similarly laid out, [rectilinear figures][bookofproofs$687] `$KAB$` and `$LCD$` have been described on `$AB$` and `$CD$` (respectively), and the [similar][bookofproofs$1983], and similarly laid out, [rectilinear figures][bookofproofs$687] `$MF$` and `$NH$` on `$EF$` and `$GH$` (respectively).
 * I say that as `$KAB$` is to `$LCD$`, so `$MF$` (is) to `$NH$` (and conversely).

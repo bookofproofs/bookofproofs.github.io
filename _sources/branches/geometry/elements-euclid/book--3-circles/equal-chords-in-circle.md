@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], equal [straight lines][bookofproofs$645] are [equally far from the center][bookofproofs$1854], and ([straight lines][bookofproofs$645]) which are [equally far from the center][bookofproofs$1854] are equal to one another.
+
 * Let `$ABDC$`[^1] be a [circle][bookofproofs$690], and let `$AB$` and `$CD$` be equal [straight lines][bookofproofs$645] within it.
 * I say that `$AB$` and `$CD$` are [equally far from the center][bookofproofs$1854].
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 11 of Euclid's “Elements”)
 
 > [Planes][bookofproofs$647] to which the same [straight line][bookofproofs$645] is at [right angles][bookofproofs$653] will be [parallel planes][bookofproofs$2217].
+
 * For let some [straight line][bookofproofs$645] `$AB$` be at [right angles][bookofproofs$653] to each of the [planes][bookofproofs$647] `$CD$` and `$EF$`.
 * I say that the [planes][bookofproofs$647] are [parallel][bookofproofs$788].
 ![fig14e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book11/fig14e.png?raw=true)

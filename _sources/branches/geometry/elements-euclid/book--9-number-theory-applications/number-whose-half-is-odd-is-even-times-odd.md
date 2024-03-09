@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a [number][bookofproofs$2315] has an [odd][bookofproofs$2318] half then it is an [even-times-odd (number) ][bookofproofs$2320] only.
+
 * For let the number `$A$` have an [odd][bookofproofs$2318] half.
 * I say that `$A$` is an [even-times-odd][bookofproofs$2320] (number) only.
 

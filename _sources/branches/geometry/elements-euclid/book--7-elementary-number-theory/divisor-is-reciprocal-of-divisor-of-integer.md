@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 38 from Book 7 of Euclid's “Elements”)
 
 > If a number has any [part][bookofproofs$703] whatever then it will be measured by a number called the same as the [part][bookofproofs$703].
+
 * For let the number `$A$` have any [part][bookofproofs$703] whatever, `$B$`.
 * And let the [number] `$C$` be called the same as the [part][bookofproofs$703] `$B$` (i.e., `$B$` is the `$C$`th [part][bookofproofs$703] of `$A$`).
 * I say that `$C$` measures `$A$`.

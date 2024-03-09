@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 5 of Euclid's “Elements”)
 
 > (Magnitudes) having the [same ratio][bookofproofs$1945] to the same (magnitude) are equal to one another. And those (magnitudes) to which the same (magnitude) has the [same ratio][bookofproofs$1945] are equal.
+
 * For let `$A$` and `$B$` each have the [same ratio][bookofproofs$1945] to `$C$`.
 * I say that `$A$` is equal to `$B$`.
 * So, again, let `$C$` have the [same ratio][bookofproofs$1945] to each of `$A$` and `$B$`.

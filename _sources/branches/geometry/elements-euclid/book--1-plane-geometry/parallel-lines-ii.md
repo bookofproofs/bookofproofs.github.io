@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 28 from Book 1 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] falling across two [straight lines][bookofproofs$645] makes the external angle equal to the internal and opposite angle on the same side, or (makes) the (sum of the) internal ([angles][bookofproofs$650]) on the same side equal to two [right angles][bookofproofs$653], then the (two) [straight lines][bookofproofs$645] will be [parallel][bookofproofs$788] to one another.
+
 * For let `$EF$`, falling across the two [straight lines][bookofproofs$645] `$AB$` and `$CD$`, make the external angle `$EGB$` equal to the internal and opposite angle `$GHD$`, or the (sum of the) internal ([angles][bookofproofs$650]) on the same side, `$BGH$` and `$GHD$`, equal to two [right angles][bookofproofs$653].
 * I say that `$AB$` is [parallel][bookofproofs$788] to `$CD$`.
 

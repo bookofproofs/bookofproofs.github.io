@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 36 from Book 11 of Euclid's “Elements”)
 
 > If three [straight lines][bookofproofs$645] are in [ (continued) proportion][bookofproofs$6552] then the [parallelepipedal solid][bookofproofs$2222] (formed) from the three ([straight lines][bookofproofs$645]) is equal to the equilateral [parallelepipedal solid][bookofproofs$2222] on the middle ([straight line][bookofproofs$645] which is) equiangular to the aforementioned ([parallelepipedal solid][bookofproofs$2222]).
+
 * Let `$A$`, `$B$`, and `$C$` be three [straight lines][bookofproofs$645] in [ (continued) proportion][bookofproofs$6552], (such that) as `$A$` (is) to `$B$`, so `$B$` (is) to `$C$`.
 * I say that the ([parallelepiped][bookofproofs$2222]) [solid][bookofproofs$2210] (formed) from `$A$`, `$B$`, and `$C$` is equal to the equilateral [solid][bookofproofs$2210] on `$B$` (which is) equiangular with the aforementioned ([solid][bookofproofs$2210]).
 

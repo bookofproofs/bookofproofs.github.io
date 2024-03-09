@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 48 from Book 1 of Euclid's “Elements”)
 
 > If the [square][bookofproofs$909] on one of the sides of a [triangle][bookofproofs$6432] is equal to the (sum of the) [squares][bookofproofs$909] on the two remaining sides of the triangle then the [angle][bookofproofs$650] contained by the two remaining sides of the triangle is a [right angle][bookofproofs$653].
+
 * For let the [square][bookofproofs$909] on one of the sides, `$BC$`, of triangle `$ABC$` be equal to the (sum of the) [squares][bookofproofs$909] on the sides `$BA$` and `$AC$`.
 * I say that angle `$BAC$` is a [right angle][bookofproofs$653].
 ![fig48e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig48e.png?raw=true)

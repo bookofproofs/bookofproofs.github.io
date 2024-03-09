@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [parallel planes][bookofproofs$2217] are cut by some [plane][bookofproofs$657] then their common sections are [parallel][bookofproofs$788].
+
 * For let the two [parallel planes][bookofproofs$2217] `$AB$` and `$CD$` have been cut by the [plane][bookofproofs$647] `$EFGH$`.
 * And let `$EF$` and `$GH$` be their common sections.
 * I say that `$EF$` is [parallel][bookofproofs$788] to `$GH$`.

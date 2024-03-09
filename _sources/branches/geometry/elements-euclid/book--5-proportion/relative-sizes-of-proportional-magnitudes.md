@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 13 from Book 5 of Euclid's “Elements”)
 
 > If a first (magnitude) has the [same ratio][bookofproofs$1945] to a second that a third (has) to a fourth, and the third (magnitude) has a [greater ratio][bookofproofs$1946] to the fourth than a fifth (has) to a sixth, then the first (magnitude) will also have a [greater ratio][bookofproofs$1946] to the second than the fifth (has) to the sixth.
+
 * For let a first (magnitude) `$A$` have the [same ratio][bookofproofs$1945] to a second `$B$` that a third `$C$` (has) to a fourth `$D$`, and let the third (magnitude) `$C$` have a [greater ratio][bookofproofs$1946] to the fourth `$D$` than a fifth `$E$` (has) to a sixth `$F$`.
 * I say that the first (magnitude) `$A$` will also have a [greater ratio][bookofproofs$1946] to the second `$B$` than the fifth `$E$` (has) to the sixth `$F$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To describe a [parallelepipedal solid][bookofproofs$2222] similar, and similarly laid out, to a given [parallelepipedal solid][bookofproofs$2222] on a given [straight line][bookofproofs$645].
+
 * Let the given [straight line][bookofproofs$645] be `$AB$`, and the given [parallelepipedal solid][bookofproofs$2222] `$CD$`.
 * So, it is necessary to describe a [parallelepipedal solid][bookofproofs$2222] similar, and similarly laid out, to the given [parallelepipedal solid][bookofproofs$2222] `$CD$` on the given [straight line][bookofproofs$645] `$AB$`.
 

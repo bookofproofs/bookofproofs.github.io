@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > In any [triangle][bookofproofs$6432], (if) one of the sides (is) produced (then) the external angle is equal to the (sum of the) two internal and opposite ([angles][bookofproofs$650]), and the (sum of the) three internal [angles][bookofproofs$650] of the triangle is equal to two [right angles][bookofproofs$653].
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432], and let one of its sides `$BC$` have been produced to `$D$`.
 * I say that the external angle `$ACD$` is equal to the (sum of the) two internal and opposite [angles][bookofproofs$650] `$CAB$` and `$ABC$`, and the (sum of the) three internal [angles][bookofproofs$650] of the triangle - `$ABC$`, `$BCA$`, and `$CAB$` - is equal to two [right angles][bookofproofs$653].
 ![fig32e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig32e.png?raw=true)

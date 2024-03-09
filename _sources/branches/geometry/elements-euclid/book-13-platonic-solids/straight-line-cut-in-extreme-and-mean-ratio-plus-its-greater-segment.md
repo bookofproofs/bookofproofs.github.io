@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 13 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut [in extreme and mean ratio][bookofproofs$1985], and a ([straight line][bookofproofs$645]) equal to the greater piece is added to it, then the whole [straight line][bookofproofs$645] has been cut [in extreme and mean ratio][bookofproofs$1985], and the original [straight line][bookofproofs$645] is the greater piece.
+
 * For let the [straight line][bookofproofs$645] `$AB$` have been cut [in extreme and mean ratio][bookofproofs$1985] at [point][bookofproofs$631] `$C$`.
 * And let `$AC$` be the greater piece.
 * And let `$AD$` be [made] equal to `$AC$`.

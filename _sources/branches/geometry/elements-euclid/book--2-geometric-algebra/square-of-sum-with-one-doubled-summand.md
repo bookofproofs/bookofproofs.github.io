@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 8 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut at random then four times the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the whole ([straight line][bookofproofs$645]), and one of the pieces (of the [straight line][bookofproofs$645]), plus the [square][bookofproofs$909] on the remaining piece, is equal to the square described on the whole and the former piece, as on one (complete [straight line][bookofproofs$645]).
+
 * For let any [straight line][bookofproofs$645] `$AB$` have been cut, at random, at [point][bookofproofs$631] `$C$`.
 * I say that four times the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AB$` and `$BC$`, plus the [square][bookofproofs$909] on `$AC$`, is equal to the square described on `$AB$` and `$BC$`, as on one (complete [straight line][bookofproofs$645]).
 

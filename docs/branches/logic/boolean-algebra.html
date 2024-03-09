@@ -48,18 +48,20 @@
 <p><a href="https://bookofproofs.github.io/history/19th-century/boole.html" title="19Th Century / Person: Boole, George">George Bool</a>, a poor shoemaker's son, never attended secondary school, college, or university. He was a gifted autodidact and at the age of 34, in 1849, he was appointed Professor of Mathematics at Queen's College, Cork, where he published his book entitled <em>An Investigation of the Laws of Thought</em>. In this book, he introduced a new type of algebra, later known as <strong>Boolean Algebra</strong>, which is a kind of ordinary numerical algebra studying the rules of equations involving variables such as $a,b,x,y,...$, in which the values of all variables are limited to $0$ and $1$. The Boolean Algebra was dormant until 1939, when <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Shannon/">Shannon</a> discovered that it was appropriate language to describe switching circuits, laying the foundations for modern computers.</p>
 <p>We will now define Boolean algebra formally and show how it can be used to study propositional logic.</p>
 <h1>Definition: Boolean Algebra</h1>
-<p>Any <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> \((B,\sqcap,\sqcup,1,0)\) with the operations
-* <strong>product</strong> $"\sqcap":B\times B\to B$, $(x,y)\to x\sqcap y$ for all $x,y\in B$,
-* <strong>sum</strong> $"\sqcup":B\times B\to B$, $(x,y)\to x\sqcup y$ for all $x,y\in B$,
-* and the designated elements $1,0\in B$ </p>
+<p>Any <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> \((B,\sqcap,\sqcup,1,0)\) with the operations</p>
+<ul>
+<li><strong>product</strong> $"\sqcap":B\times B\to B$, $(x,y)\to x\sqcap y$ for all $x,y\in B$,</li>
+<li><strong>sum</strong> $"\sqcup":B\times B\to B$, $(x,y)\to x\sqcup y$ for all $x,y\in B$,</li>
+<li>and the designated elements $1,0\in B$ </li>
+</ul>
 <p>is called a <strong>Boolean algebra</strong> if and only if:</p>
 <ol>
-<li>$\sqcap$ and $\sqcup$ are <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Algebra / Definition: Associativity">associative</a> in \(B\), i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\sqcap(y\sqcap z)=(x\sqcap y)\sqcap z,\\x\sqcup (y\sqcup z)=(x\sqcup y)\sqcup z,\end{array}$$</li>
-<li>$\sqcap$ and $\sqcup$ are <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Algebra / Definition: Commutativity">commutative</a> in \(B\),  i.e. for all \(x,y \in B\) $$\begin{array}{c}x\sqcap y=y \sqcap x,\\x\sqcup y=y\sqcup x,\end{array}$$ </li>
-<li>"\(\sqcap\)" and "\(\sqcup\)" are <a href="https://bookofproofs.github.io/branches/algebra/axiom-of-distributivity.html" title="Algebra / Axiom: Axiom of Distributivity">distributive</a> over each other in \(B\), i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\sqcap(y\sqcup z)=(x\sqcap y)\sqcup (x\sqcap z),\\x\sqcup (y\sqcap z)=(x\sqcup y)\sqcap (x\sqcup z),\end{array}$$</li>
-<li>there is an element $0\in B$ with $0\sqcap x=0$ and $x\sqcup 0=x$ for all $x\in B$; $0$ is called the <strong>smallest element</strong> of $B,$</li>
-<li>there is an element $1\in B$ with $1\sqcap x=x$ and $x\sqcup 1=1$ for all $x\in B$; $1$ is called the <strong>greatest element</strong> of $B,$</li>
-<li>there is an element $1\in B$ with $1\sqcap x=x$ and $x\sqcup 1=1$ for all $x\in B$; $1$ is called the <strong>greatest element</strong> of $B,$</li>
+<li>$\sqcap$ and $\sqcup$ are <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Algebra / Definition: Associativity">associative</a> in \(B\), i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\sqcap(y\sqcap z)=(x\sqcap y)\sqcap z,\\x\sqcup (y\sqcup z)=(x\sqcup y)\sqcup z,\end{array}$$.</li>
+<li>$\sqcap$ and $\sqcup$ are <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Algebra / Definition: Commutativity">commutative</a> in \(B\),  i.e. for all \(x,y \in B\) $$\begin{array}{c}x\sqcap y=y \sqcap x,\\x\sqcup y=y\sqcup x,\end{array}$$.</li>
+<li>"\(\sqcap\)" and "\(\sqcup\)" are <a href="https://bookofproofs.github.io/branches/algebra/axiom-of-distributivity.html" title="Algebra / Axiom: Axiom of Distributivity">distributive</a> over each other in \(B\), i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\sqcap(y\sqcup z)=(x\sqcap y)\sqcup (x\sqcap z),\\x\sqcup (y\sqcap z)=(x\sqcup y)\sqcap (x\sqcup z),\end{array}$$.</li>
+<li>There is an element $0\in B$ with $0\sqcap x=0$ and $x\sqcup 0=x$ for all $x\in B$; $0$ is called the <strong>smallest element</strong> of $B,$.</li>
+<li>There is an element $1\in B$ with $1\sqcap x=x$ and $x\sqcup 1=1$ for all $x\in B$; $1$ is called the <strong>greatest element</strong> of $B,$.</li>
+<li>There is an element $y\in B$ with $x\sqcap y=0$ and $x\sqcup y=1$ for all $x\in B$; $y$ is called the <strong>complement element</strong> of $B.$.</li>
 </ol>
 <h3 class='navigation'>Table of Contents</h3>
 

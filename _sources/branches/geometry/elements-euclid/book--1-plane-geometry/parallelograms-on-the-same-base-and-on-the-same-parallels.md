@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > [Parallelograms][bookofproofs$909] which are on the same base and between the same [parallels][bookofproofs$788] are equal[^1] to one another.
+
 * Let `$ABCD$` and `$EBCF$` be [parallelograms][bookofproofs$909] on the same base `$BC$`, and between the same parallels `$AF$` and `$BC$`.
 * I say that `$ABCD$` is equal to [parallelogram][bookofproofs$909] `$EBCF$`.
 

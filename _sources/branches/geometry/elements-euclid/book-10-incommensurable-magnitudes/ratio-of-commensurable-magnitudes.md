@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Commensurable][bookofproofs$1095] magnitudes have to one another the [ratio][bookofproofs$1943] which (some) [number][bookofproofs$2315] (has) to (some) [number][bookofproofs$2315].
+
 * Let `$A$` and `$B$` be [commensurable][bookofproofs$1095] magnitudes.
 * I say that `$A$` has to `$B$` the [ratio][bookofproofs$1943] which (some) [number][bookofproofs$2315] (has) to (some) [number][bookofproofs$2315].
 

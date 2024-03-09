@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [planes][bookofproofs$647] cut one another then their common section is a [straight line][bookofproofs$645].
+
 * For let the two [planes][bookofproofs$647] `$AB$` and `$BC$` cut one another, and let their common section be the line `$DB$`.
 * I say that the line `$DB$` is straight.
 

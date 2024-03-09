@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 11 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314], then a lesser (number) measures a greater according to some existing (number) among the [proportional][bookofproofs$2328] [numbers][bookofproofs$2315].
+
 * Let any multitude whatsoever of [numbers][bookofproofs$2315], `$B$`, `$C$`, `$D$`, `$E$`, be in [continued proportion][bookofproofs$6552], (starting) from the [unit][bookofproofs$2314] `$A$`.
 * I say that, for `$B$`, `$C$`, `$D$`, `$E$`, the least (number), `$B$`, measures `$E$` according to some (one) of `$C$`, `$D$`.
 

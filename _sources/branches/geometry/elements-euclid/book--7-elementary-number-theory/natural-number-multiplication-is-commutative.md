@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 16 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] [multiplying one another][bookofproofs$6437] make some ([numbers][bookofproofs$2315]) then the ([numbers][bookofproofs$2315]) generated from them will be equal to one another.
+
 * Let `$A$` and `$B$` be two [numbers][bookofproofs$2315].
 * And let `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] `$B$`, and let `$B$` make `$D$` [ (by) multiplying][bookofproofs$6437] `$A$`.
 * I say that `$C$` is equal to `$D$`.

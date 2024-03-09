@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 56 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [third binomial][bookofproofs$2087] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called [second bimedial][bookofproofs$2132].
+
 * For let the area `$ABCD$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and by the [third binomial][bookofproofs$2087] ([straight line][bookofproofs$645]) `$AD$`, which has been divided into its (component) terms at `$E$`, of which `$AE$` is the greater.
 * I say that the [square root][bookofproofs$46] of area `$AC$` is the irrational ([straight line][bookofproofs$645] which is) called [second bimedial][bookofproofs$2132].
 ![fig054e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig054e.png?raw=true)

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 34 from Book 3 of Euclid's “Elements”)
 
 > To cut off a [segment][bookofproofs$1852], accepting an [angle][bookofproofs$650] equal to a given [rectilinear angle][bookofproofs$650], from a given [circle][bookofproofs$690].
+
 * Let `$ABC$` be the given [circle][bookofproofs$690], and `$D$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to cut off a [segment][bookofproofs$1852], accepting an [angle][bookofproofs$650] equal to the given [rectilinear angle][bookofproofs$650] `$D$`, from the given [circle][bookofproofs$690] `$ABC$`.
 

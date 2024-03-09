@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 5 of Euclid's “Elements”)
 
 > If a magnitude is the same [multiple][bookofproofs$1275] of a magnitude that a ([part][bookofproofs$2316]) taken away (is) of a ([part][bookofproofs$2316]) taken away (respectively) then the remainder will also be the same [multiple][bookofproofs$1275] of the remainder as that which the whole (is) of the whole (respectively).
+
 * For let the magnitude `$AB$` be the same [multiple][bookofproofs$1275] of the magnitude `$CD$` that the ([part][bookofproofs$2316]) taken away `$AE$` (is) of the ([part][bookofproofs$2316]) taken away `$CF$` (respectively).
 * I say that the remainder `$EB$` will also be the same [multiple][bookofproofs$1275] of the remainder `$FD$` as that which the whole `$AB$` (is) of the whole `$CD$` (respectively).
 

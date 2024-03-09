@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 33 from Book 6 of Euclid's “Elements”)
 
 > In [equal circles][bookofproofs$1850], [angles][bookofproofs$650] have the [same ratio][bookofproofs$1945] as the (ratio of the) [circumferences][bookofproofs$690] on which they stand, whether they are standing at the [centers][bookofproofs$6428] (of the [circles][bookofproofs$690]) or at the [circumferences][bookofproofs$690].
+
 * Let `$ABC$` and `$DEF$` be [equal circles][bookofproofs$1850], and let `$BGC$` and `$EHF$` be [angles][bookofproofs$650] at their [centers][bookofproofs$6428], `$G$` and `$H$` (respectively), and `$BAC$` and `$EDF$` ([angles][bookofproofs$650]) at their [circumferences][bookofproofs$690].
 * I say that as [circumference][bookofproofs$690] `$BC$` is to [circumference][bookofproofs$690] `$EF$`, so angle `$BGC$` (is) to `$EHF$`, and (angle) `$BAC$` to `$EDF$`.
 

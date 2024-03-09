@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If four [straight lines][bookofproofs$645] are [proportional][bookofproofs$2328] then the [similar][bookofproofs$2218], and similarly described, [parallelepiped solids][bookofproofs$2222] on them will also be [proportional][bookofproofs$2328]. And if the [similar][bookofproofs$2218], and similarly described, [parallelepiped solids][bookofproofs$2222] on them are [proportional][bookofproofs$2328] then the [straight lines][bookofproofs$645] themselves will be [proportional][bookofproofs$2328].
+
 * Let `$AB$`, `$CD$`, `$EF$`, and `$GH$`, be four [proportional][bookofproofs$2328] [straight lines][bookofproofs$645], (such that) as `$AB$` (is) to `$CD$`, so `$EF$` (is) to `$GH$`.
 * And let the [similar][bookofproofs$2218], and similarly laid out, [parallelepiped solids][bookofproofs$2222] `$KA$`, `$LC$`, `$ME$` and `$NG$` have been described on `$AB$`, `$CD$`, `$EF$`, and `$GH$` (respectively).
 * I say that as `$KA$` is to `$LC$`, so `$ME$` (is) to `$NG$`.

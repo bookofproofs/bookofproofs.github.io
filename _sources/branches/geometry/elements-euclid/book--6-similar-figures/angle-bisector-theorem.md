@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 6 of Euclid's “Elements”)
 
 > If an [angle][bookofproofs$650] of a [triangle][bookofproofs$6432] is cut in half, and the [straight line][bookofproofs$645] cutting the [angle][bookofproofs$650] also cuts the base, then the [segments][bookofproofs$1852] of the base will have the [same ratio][bookofproofs$1945] as the remaining sides of the triangle. And if the [segments][bookofproofs$1852] of the base have the [same ratio][bookofproofs$1945] as the remaining sides of the triangle, then the [straight line][bookofproofs$645] joining the vertex to the cutting ([point][bookofproofs$631]) will cut the [angle][bookofproofs$650] of the triangle in half.
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432].
 * And let the [angle][bookofproofs$650] `$BAC$` have been cut in half by the [straight line][bookofproofs$645] `$AD$`.
 * I say that as `$BD$` is to `$CD$`, so `$BA$` (is) to `$AC$`.

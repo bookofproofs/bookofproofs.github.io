@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 11 from Book 7 of Euclid's “Elements”)
 
 > If as the whole (of a number) is to the whole (of another), so a ([part][bookofproofs$703]) taken away (is) to a ([part][bookofproofs$703]) taken away, then the remainder will also be to the remainder as the whole (is) to the whole.
+
 * Let the whole `$AB$` be to the whole `$CD$` as the ([part][bookofproofs$703]) taken away `$AE$` (is) to the ([part][bookofproofs$703]) taken away `$CF$`.
 * I say that the remainder `$EB$` is to the remainder `$FD$` as the whole `$AB$` (is) to the whole `$CD$`.
 

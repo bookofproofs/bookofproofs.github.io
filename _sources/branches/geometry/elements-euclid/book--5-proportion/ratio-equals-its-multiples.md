@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 5 of Euclid's “Elements”)
 
 > [Parts][bookofproofs$2316] have the [same ratio][bookofproofs$1945] as similar [multiples][bookofproofs$6440], taken in [corresponding][bookofproofs$1950] order.
+
 * For let `$AB$` and `$DE$` be equal [multiples][bookofproofs$6440] of `$C$` and `$F$` (respectively).
 * I say that as `$C$` is to `$F$`, so `$AB$` (is) to `$DE$`.
 

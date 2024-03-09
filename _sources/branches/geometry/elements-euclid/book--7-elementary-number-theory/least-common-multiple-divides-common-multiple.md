@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 35 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] (both) measure some number then the least (number) measured by them will also measure the same (number).
+
 * For let two [numbers][bookofproofs$2315], `$A$` and `$B$`, (both) measure some number `$CD$`, and (let) `$E$` (be the) least (number measured by both `$A$` and `$B$`).
 * I say that `$E$` also measures `$CD$`.
 

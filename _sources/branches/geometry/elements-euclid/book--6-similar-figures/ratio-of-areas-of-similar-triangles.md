@@ -17,6 +17,7 @@ contributors: bookofproofs
 ### (Proposition 19 from Book 6 of Euclid's “Elements”)
 
 > [Similar][bookofproofs$1983] [triangles][bookofproofs$6432] are to one another in the squared[^1] ratio of (their) corresponding sides.
+
 * Let `$ABC$` and `$DEF$` be [similar][bookofproofs$1983] [triangles][bookofproofs$6432] having the [angle][bookofproofs$650] at `$B$` equal to the (angle) at `$E$`, and `$AB$` to `$BC$`, as `$DE$` (is) to `$EF$`, such that `$BC$` corresponds to `$EF$`.
 * I say that triangle `$ABC$` has a [squared ratio][bookofproofs$1948] to triangle `$DEF$` with respect to (that side) `$BC$` (has) to `$EF$`.
 

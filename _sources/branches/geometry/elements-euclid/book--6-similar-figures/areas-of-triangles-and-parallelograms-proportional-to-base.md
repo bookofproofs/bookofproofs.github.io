@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 1 from Book 6 of Euclid's “Elements”)[^1]
 
 > [Triangles][bookofproofs$6432] and [parallelograms][bookofproofs$909] which are of the same [height][bookofproofs$1986] are to one another as their bases.
+
 * Let `$ABC$` and `$ACD$` be [triangles][bookofproofs$6432], and `$EC$` and `$CF$` [parallelograms][bookofproofs$909], of the same [height][bookofproofs$1986] `$AC$`.
 * I say that as base `$BC$` is to base `$CD$`, so triangle `$ABC$` (is) to triangle `$ACD$`, and [parallelogram][bookofproofs$909] `$EC$` to [parallelogram][bookofproofs$909] `$CF$`.
 

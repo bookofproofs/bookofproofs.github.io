@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 83 from Book 10 of Euclid's “Elements”)
 
 > Only one [straight line][bookofproofs$645], which is [incommensurable in square][bookofproofs$2082] with the whole, and (together) with the whole makes the sum of the [squares][bookofproofs$909] on them [medial][bookofproofs$2115], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [rational][bookofproofs$2083], can be attached to that ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole.
+
 * Let `$AB$` be a ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole, and let `$BC$` be (so) attached to `$AB$`.
 * Thus, `$AC$` and `$CB$` are ([straight lines][bookofproofs$645] which are) [incommensurable in square][bookofproofs$2082], fulfilling the (other) proscribed (conditions) [[Prop. 10.77]][bookofproofs$2171].
 * I say that another ([straight line][bookofproofs$645]) fulfilling the same (conditions) cannot be attached to `$AB$`.

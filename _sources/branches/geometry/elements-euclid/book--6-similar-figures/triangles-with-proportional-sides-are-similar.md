@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 6 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432] have [proportional][bookofproofs$2328] sides then the [triangles][bookofproofs$6432] will be equiangular, and will have the [angles][bookofproofs$650] which corresponding sides subtend equal.
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having [proportional][bookofproofs$2328] sides, (so that) as `$AB$` (is) to `$BC$`, so `$DE$` (is) to `$EF$`, and as `$BC$` (is) to `$CA$`, so `$EF$` (is) to `$FD$`, and, further, as `$BA$` (is) to `$AC$`, so `$ED$` (is) to `$DF$`.
 * I say that triangle `$ABC$` is equiangular to triangle `$DEF$`, and (that the [triangles][bookofproofs$6432]) will have the [angles][bookofproofs$650] which corresponding sides subtend equal.
 * (That is), (angle) `$ABC$` (equal) to `$DEF$`, `$BCA$` to `$EFD$`, and, further, `$BAC$` to `$EDF$`.

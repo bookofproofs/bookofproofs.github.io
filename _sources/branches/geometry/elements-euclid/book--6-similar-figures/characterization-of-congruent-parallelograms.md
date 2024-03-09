@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 6 of Euclid's “Elements”)
 
 > In equal and equiangular [parallelograms][bookofproofs$909] the sides about the equal [angles][bookofproofs$650] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328]. And those equiangular [parallelograms][bookofproofs$909] in which the sides about the equal [angles][bookofproofs$650] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] are equal.
+
 * Let `$AB$` and `$BC$` be equal and equiangular [parallelograms][bookofproofs$909] having the [angles][bookofproofs$650] at `$B$` equal.
 * And let `$DB$` and `$BE$` be laid down [straight-on][bookofproofs$649] (with respect to one another).
 * Thus, `$FB$` and `$BG$` are also [straight-on][bookofproofs$649] (with respect to one another) [[Prop. 1.14]][bookofproofs$767].

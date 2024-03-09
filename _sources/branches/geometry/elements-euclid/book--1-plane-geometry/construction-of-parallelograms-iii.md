@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 45 from Book 1 of Euclid's “Elements”)
 
 > To construct a [parallelogram][bookofproofs$909] equal to a given [rectilinear figure][bookofproofs$687] in a given [rectilinear angle][bookofproofs$650].
+
 * Let `$ABCD$` be the given [rectilinear figure][bookofproofs$687], and `$E$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to construct a [parallelogram][bookofproofs$909] equal to the [rectilinear figure][bookofproofs$687] `$ABCD$` in the given angle `$E$`.
 

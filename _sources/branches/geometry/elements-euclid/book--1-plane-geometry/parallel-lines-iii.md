@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 29 from Book 1 of Euclid's “Elements”)
 
 > A [straight line][bookofproofs$645] falling across [parallel][bookofproofs$788] [straight lines][bookofproofs$645] makes the alternate [angles][bookofproofs$650] equal to one another, the external (angle) equal to the internal and opposite (angle), and the (sum of the) internal ([angles][bookofproofs$650]) on the same side equal to two [right angles][bookofproofs$653].
+
 * For let the [straight line][bookofproofs$645] `$EF$` fall across the [parallel][bookofproofs$788] [straight lines][bookofproofs$645] `$AB$` and `$CD$`.
 * I say that it makes the alternate [angles][bookofproofs$650], `$AGH$` and `$GHD$`, equal, the external angle `$EGB$` equal to the internal and opposite (angle) `$GHD$`, and the (sum of the) internal ([angles][bookofproofs$650]) on the same side, `$BGH$` and `$GHD$`, equal to two [right angles][bookofproofs$653].
 .

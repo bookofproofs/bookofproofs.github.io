@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 52 from Book 10 of Euclid's “Elements”)
 
 > To find a [fifth binomial][bookofproofs$2089] [straight line][bookofproofs$645].
+
 * Let the two [numbers][bookofproofs$2315] `$AC$` and `$CB$` be laid down such that `$AB$` does not have to either of them the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326] [ [Prop. 10.28 lem. II] ][bookofproofs$6475].
 * And let some [rational][bookofproofs$2083] [straight line][bookofproofs$645] `$D$` be laid down.
 * And let `$EF$` be [commensurable][bookofproofs$1095] [in length] with `$D$`.

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > To draw a [straight line][bookofproofs$645] [parallel][bookofproofs$788] to a given [straight line][bookofproofs$645], through a given [point][bookofproofs$631].
+
 * Let `$A$` be the given [point][bookofproofs$631], and `$BC$` the given [straight line][bookofproofs$645].
 * So it is required to draw a [straight line][bookofproofs$645] [parallel][bookofproofs$788] to the [straight line][bookofproofs$645] `$BC$`, through the [point][bookofproofs$631] `$A$`.
 

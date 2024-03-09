@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 23 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable][bookofproofs$1095] with a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]) is [medial][bookofproofs$2115].
+
 * Let `$A$` be a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and let `$B$` be [commensurable][bookofproofs$1095] with `$A$`.
 * I say that `$B$` is also a [medial][bookofproofs$2115] (staight-line).
 

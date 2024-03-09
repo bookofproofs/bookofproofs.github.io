@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 11 from Book 6 of Euclid's “Elements”)
 
 > To find a third ([straight line][bookofproofs$645]) [proportional][bookofproofs$2328] to two given [straight lines][bookofproofs$645].
+
 * Let `$BA$` and `$AC$` be the [two] given [[straight lines][bookofproofs$645]], and let them be laid down encompassing a random angle.
 * So it is required to find a third ([straight line][bookofproofs$645]) [proportional][bookofproofs$2328] to `$BA$` and `$AC$`.
 

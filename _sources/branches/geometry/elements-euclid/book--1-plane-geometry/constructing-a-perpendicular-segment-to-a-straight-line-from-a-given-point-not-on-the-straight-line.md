@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > To draw a [straight line][bookofproofs$645] perpendicular to a given infinite [straight line][bookofproofs$645] from a given [point][bookofproofs$631] which is not on it.
+
 * Let `$AB$` be the given infinite [straight line][bookofproofs$645] and `$C$` the given [point][bookofproofs$631], which is not on ($AB$).
 * So it is required to draw a [straight line][bookofproofs$645] [perpendicular][bookofproofs$653] to the given infinite [straight line][bookofproofs$645] `$AB$` from the given [point][bookofproofs$631] `$C$`, which is not on ($AB$).
 

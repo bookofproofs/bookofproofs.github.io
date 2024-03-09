@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe a circle][bookofproofs$6439] in a given [square][bookofproofs$909].
+
 * Let the given [square][bookofproofs$909] be `$ABCD$`.
 * So it is required to [inscribe a circle][bookofproofs$6439] in [square][bookofproofs$909] `$ABCD$`.
 

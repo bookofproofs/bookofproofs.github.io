@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 3 of Euclid's “Elements”)
 
 > If two [circles][bookofproofs$690] cut one another then they will not have the same [center][bookofproofs$6428].
+
 * For let the two [circles][bookofproofs$690] `$ABC$` and `$CDG$` cut one another at [points][bookofproofs$631] `$B$` and `$C$`.
 * I say that they will not have the same [center][bookofproofs$6428].
 ![fig05e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book03/fig05e.png?raw=true)

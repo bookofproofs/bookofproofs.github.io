@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 39 from Book 7 of Euclid's “Elements”)
 
 > To find the least number that will have given [parts][bookofproofs$2323].
+
 * Let `$A$`, `$B$`, and `$C$` be the given [parts][bookofproofs$2323].
 * So it is required to find the least number which will have the parts `$A$`, `$B$`, and `$C$` (i.e., an `$A$`th [part][bookofproofs$703], a `$B$`th [part][bookofproofs$703], and a `$C$`th [part][bookofproofs$703]).
 

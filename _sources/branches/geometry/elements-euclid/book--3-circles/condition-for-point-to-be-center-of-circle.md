@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 3 of Euclid's “Elements”)
 
 > If some [point][bookofproofs$631] is taken inside a [circle][bookofproofs$690], and more than two equal [straight lines][bookofproofs$645] radiate from the [point][bookofproofs$631] towards the ([circumference][bookofproofs$690] of the) [circle][bookofproofs$690], then the [point][bookofproofs$631] taken is the [center][bookofproofs$6428] of the [circle][bookofproofs$690].
+
 * Let `$ABC$` be a [circle][bookofproofs$690], and `$D$` a [point][bookofproofs$631] inside it, and let more than two equal [straight lines][bookofproofs$645], `$DA$`, `$DB$`, and `$DC$`, radiate from `$D$` towards (the [circumference][bookofproofs$690] of) [circle][bookofproofs$690] `$ABC$`.
 * I say that [point][bookofproofs$631] `$D$` is the [center][bookofproofs$6428] of [circle][bookofproofs$690] `$ABC$`.
 

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > For any [parallelogram][bookofproofs$909], the complements of the [parallelograms][bookofproofs$909] about the diagonal are equal to one another.
+
 * Let `$ABCD$` be a [parallelogram][bookofproofs$909], and `$AC$` its diagonal.
 * And let `$EH$` and `$FG$` be the [parallelograms][bookofproofs$909] about `$AC$`, and `$BK$` and `$KD$` the so-called complements (about `$AC$`).
 * I say that the complement `$BK$` is equal to the complement `$KD$`.

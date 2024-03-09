@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 4 of Euclid's “Elements”)
 
 > To [circumscribe a circle][bookofproofs$6438] about a given [triangle][bookofproofs$6432].
+
 * Let `$ABC$` be the given [triangle][bookofproofs$6432].
 * So it is required to [circumscribe a circle][bookofproofs$6438] about the given [triangle][bookofproofs$6432] `$ABC$`.
 

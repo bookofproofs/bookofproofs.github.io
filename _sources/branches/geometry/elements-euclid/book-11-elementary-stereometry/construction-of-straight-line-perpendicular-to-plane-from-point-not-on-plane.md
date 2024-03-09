@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To draw a [perpendicular][bookofproofs$653] [straight line][bookofproofs$645] from a given raised [point][bookofproofs$631] to a given [plane][bookofproofs$657].
+
 * Let `$A$` be the given raised [point][bookofproofs$631], and the given plane the reference (plane).
 * So, it is required to draw a [perpendicular][bookofproofs$653] [straight line][bookofproofs$645] from [point][bookofproofs$631] `$A$` to the reference [plane][bookofproofs$647].
 ![fig11e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book11/fig11e.png?raw=true)

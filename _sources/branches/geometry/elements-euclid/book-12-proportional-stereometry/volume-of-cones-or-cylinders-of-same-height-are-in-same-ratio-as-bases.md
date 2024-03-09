@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] having the same [height][bookofproofs$1986] are to one another as their bases.
+
 * Let there be [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] of the same [height][bookofproofs$1986] whose bases [are] the [circles][bookofproofs$690] `$ABCD$` and `$EFGH$`, axes `$KL$` and `$MN$`, and [diameters][bookofproofs$6429] of the bases `$AC$` and `$EG$` (respectively).
 * I say that as [circle][bookofproofs$690] `$ABCD$` is to [circle][bookofproofs$690] `$EFGH$`, so [cone][bookofproofs$2227] `$AL$` (is) to [cone][bookofproofs$2227] `$EN$`.
 

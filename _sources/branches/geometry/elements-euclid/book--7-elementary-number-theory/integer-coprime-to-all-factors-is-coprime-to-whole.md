@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 24 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] are [prime to][bookofproofs$1288] some number then the number created from (multiplying) the former (two [numbers][bookofproofs$2315]) will also be [prime to][bookofproofs$1288] the latter (number).
+
 * For let `$A$` and `$B$` be two [numbers][bookofproofs$2315] (which are both) [prime to][bookofproofs$1288] some number `$C$`.
 * And let `$A$` make `$D$` [ (by) multiplying][bookofproofs$6437] `$B$`.
 * I say that `$C$` and `$D$` are [prime to one another][bookofproofs$1288].

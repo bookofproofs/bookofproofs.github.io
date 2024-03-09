@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 67 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable in length][bookofproofs$1095] with a [bimedial][bookofproofs$2131] ([straight line][bookofproofs$645]) is itself also [bimedial][bookofproofs$2131], and the same in order.
+
 * Let `$AB$` be a [bimedial][bookofproofs$2131] ([straight line][bookofproofs$645]), and let `$CD$` be [commensurable in length][bookofproofs$1095] with `$AB$`.
 * I say that `$CD$` is [bimedial][bookofproofs$2131], and the same in order[^1] as `$AB$`.
 

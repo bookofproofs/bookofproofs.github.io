@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 41 from Book 10 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] (which are) [incommensurable in square][bookofproofs$2082], making the sum of the [squares][bookofproofs$909] on them [medial][bookofproofs$2115], and the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [medial][bookofproofs$2115], and, moreover, [incommensurable][bookofproofs$1095] with the sum of the [squares][bookofproofs$909] on them, are added together then the whole [straight line][bookofproofs$645] is irrational - let it be called the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
+
 * For let the two [straight lines][bookofproofs$645], `$AB$` and `$BC$`, [incommensurable in square][bookofproofs$2082], (and) fulfilling the prescribed (conditions), be laid down together [[Prop. 10.35]][bookofproofs$2129].
 * I say that `$AC$` is irrational.
 

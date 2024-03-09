@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If four magnitudes are [proportional][bookofproofs$2328], and the first is [commensurable][bookofproofs$1095] with the second, then the third will also be [commensurable][bookofproofs$1095] with the fourth. And if the first is [incommensurable][bookofproofs$1095] with the second, then the third will also be [incommensurable][bookofproofs$1095] with the fourth.
+
 * Let `$A$`, `$B$`, `$C$`, `$D$` be four [proportional][bookofproofs$2328] magnitudes, (such that) as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`.
 * And let `$A$` be [commensurable][bookofproofs$1095] with `$B$`.
 * I say that `$C$` will also be [commensurable][bookofproofs$1095] with `$D$`.

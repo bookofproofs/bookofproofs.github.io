@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 31 from Book 6 of Euclid's “Elements”)
 
 > In [right-angled triangles][bookofproofs$6431], the figure (drawn) on the side subtending the [right angle][bookofproofs$653] is equal to the (sum of the) [similar][bookofproofs$1983], and similarly described, figures on the sides surrounding the [right angle][bookofproofs$653].
+
 * Let `$ABC$` be a [right-angled triangle][bookofproofs$6431] having the [angle][bookofproofs$650] `$BAC$` a [right angle][bookofproofs$653].
 * I say that the figure (drawn) on `$BC$` is equal to the (sum of the) [similar][bookofproofs$1983], and similarly described, figures on `$BA$` and `$AC$`.
 

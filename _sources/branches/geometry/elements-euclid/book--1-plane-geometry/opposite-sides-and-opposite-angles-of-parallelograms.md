@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 34 from Book 1 of Euclid's “Elements”)
 
 > In [parallelogrammic][bookofproofs$909] figures the opposite sides and [angles][bookofproofs$650] are equal to one another, and a diagonal cuts them in half.
+
 * Let `$ACDB$` be a [parallelogrammic][bookofproofs$909] figure, and `$BC$` its diagonal.
 * I say that for [parallelogram][bookofproofs$909] `$ACDB$`, the opposite sides and [angles][bookofproofs$650] are equal to one another, and the diagonal `$BC$` cuts it in half.
 

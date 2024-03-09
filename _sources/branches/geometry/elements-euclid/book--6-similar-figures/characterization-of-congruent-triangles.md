@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 6 of Euclid's “Elements”)
 
 > In equal [triangles][bookofproofs$6432] also having one angle equal to one (angle) the sides about the equal [angles][bookofproofs$650] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328]. And those [triangles][bookofproofs$6432] having one angle equal to one angle for which the sides about the equal [angles][bookofproofs$650] (are) [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] are equal.
+
 * Let `$ABC$` and `$ADE$` be equal [triangles][bookofproofs$6432] having one angle equal to one (angle), (namely) `$BAC$` (equal) to `$DAE$`.
 * I say that, in [triangles][bookofproofs$6432] `$ABC$` and `$ADE$`, the sides about the equal [angles][bookofproofs$650] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328], that is to say, that as `$CA$` is to `$AD$`, so `$EA$` (is) to `$AB$`.
 

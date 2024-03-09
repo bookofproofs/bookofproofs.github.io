@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 20 from Book 1 of Euclid's “Elements”)
 
 > In any [triangle][bookofproofs$6432], (the sum of) two sides taken together in any (possible way) is greater than the remaining (side).
+
 * For let `$ABC$` be a [triangle][bookofproofs$6432].
 * I say that in triangle `$ABC$` (the sum of) two sides taken together in any (possible way) is greater than the remaining (side).
 

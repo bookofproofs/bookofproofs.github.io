@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 20 from Book 8 of Euclid's “Elements”)
 
 > If one [number][bookofproofs$2315] falls between two [numbers][bookofproofs$2315] in [mean proportion][bookofproofs$6453] then the [numbers][bookofproofs$2315] will be [similar plane (numbers) ][bookofproofs$2329].
+
 * For let one [number][bookofproofs$2315] `$C$` fall between the two [numbers][bookofproofs$2315] `$A$` and `$B$` in [mean proportion][bookofproofs$6453].
 * I say that `$A$` and `$B$` are [similar plane numbers][bookofproofs$2329].
 ![fig20e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book08/fig20e.png?raw=true)

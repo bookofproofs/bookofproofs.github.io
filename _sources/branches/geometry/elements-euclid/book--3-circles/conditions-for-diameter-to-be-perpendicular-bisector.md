@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], if any [straight line][bookofproofs$645] through the [center][bookofproofs$6428] cuts in half any [straight line][bookofproofs$645] not through the [center][bookofproofs$6428] then it also cuts it at [right angles][bookofproofs$653]. And (conversely) if it cuts it at [right angles][bookofproofs$653] then it also cuts it in half.
+
 * Let `$ABC$` be a [circle][bookofproofs$690], and, within it, let some [straight line][bookofproofs$645] through the [center][bookofproofs$6428], `$CD$`, cut in half some [straight line][bookofproofs$645] not through the [center][bookofproofs$6428], `$AB$`, at the [point][bookofproofs$631] `$F$`.
 * I say that ($CD$) also cuts ($AB$) at [right angles][bookofproofs$653].
 ![fig03e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book03/fig03e.png?raw=true)

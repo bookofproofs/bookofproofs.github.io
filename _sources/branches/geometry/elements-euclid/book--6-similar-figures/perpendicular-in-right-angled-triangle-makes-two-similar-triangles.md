@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 6 of Euclid's “Elements”)
 
 > If, in a [right-angled triangle][bookofproofs$6431], a ([straight line][bookofproofs$645]) is drawn from the [right angle][bookofproofs$653] [perpendicular][bookofproofs$653] to the base then the [triangles][bookofproofs$6432] around the [perpendicular][bookofproofs$653] are [similar][bookofproofs$1983] to the whole (triangle), and to one another.
+
 * Let `$ABC$` be a [right-angled triangle][bookofproofs$6431] having the [angle][bookofproofs$650] `$BAC$` a [right angle][bookofproofs$653], and let `$AD$` have been drawn from `$A$`, [perpendicular][bookofproofs$653] to `$BC$` [[Prop. 1.12]][bookofproofs$760].
 * I say that [triangles][bookofproofs$6432] `$ABD$` and `$ADC$` are each [similar][bookofproofs$1983] to the whole (triangle) `$ABC$` and, further, to one another.
 

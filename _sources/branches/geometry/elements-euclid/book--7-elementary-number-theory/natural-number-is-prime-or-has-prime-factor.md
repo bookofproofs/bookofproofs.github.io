@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 32 from Book 7 of Euclid's “Elements”)
 
 > Every number is either prime or is measured by some [prime number][bookofproofs$704].
+
 * Let `$A$` be a number.
 * I say that `$A$` is either prime or is measured by some [prime number][bookofproofs$704].
 ![fig32e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book07/fig32e.png?raw=true)

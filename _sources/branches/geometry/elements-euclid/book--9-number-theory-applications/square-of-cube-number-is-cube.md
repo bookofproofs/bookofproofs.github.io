@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 9 of Euclid's “Elements”)
 
 > If a [cube number][bookofproofs$2327] makes some (number by) multiplying itself then the created (number) will be [cube][bookofproofs$2327].
+
 * For let the [cube number][bookofproofs$2327] `$A$` make `$B$` [ (by) multiplying][bookofproofs$6437] itself.
 * I say that `$B$` is [cube][bookofproofs$2327].
 

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 15 from Book 1 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] cut one another then they make the vertically opposite [angles][bookofproofs$650] equal to one another.
+
 * For let the two [straight lines][bookofproofs$645] `$AB$` and `$CD$` cut one another at the [point][bookofproofs$631] `$E$`.
 * I say that angle `$AEC$` is equal to (angle) `$DEB$`, and (angle) `$CEB$` to (angle) `$AED$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 33 from Book 3 of Euclid's “Elements”)
 
 > To draw a [segment of a circle][bookofproofs$1852], accepting an [angle][bookofproofs$650] equal to a given [rectilinear angle][bookofproofs$650], on a given [straight line][bookofproofs$645].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], and `$C$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to draw a [segment of a circle][bookofproofs$1852], accepting an [angle][bookofproofs$650] equal to `$C$`, on the given [straight line][bookofproofs$645] `$AB$`.
 

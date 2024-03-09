@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 82 from Book 10 of Euclid's “Elements”)
 
 > Only one [straight line][bookofproofs$645], which is [incommensurable in square][bookofproofs$2082] with the whole, and (together) with the whole makes the (sum of the) [squares][bookofproofs$909] on them [rational][bookofproofs$2083], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [medial][bookofproofs$2115], can be attached to a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
+
 * Let `$AB$` be a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]), and let `$BC$` be (so) attached to `$AB$`.
 * Thus, `$AC$` and `$CB$` are ([straight lines][bookofproofs$645] which are) [incommensurable in square][bookofproofs$2082], making the sum of the [squares][bookofproofs$909] on them [rational][bookofproofs$2083], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [medial][bookofproofs$2115] [[Prop. 10.76]][bookofproofs$2170].
 * I say that another another [straight line][bookofproofs$645] fulfilling the same (conditions) cannot be attached to `$AB$`.

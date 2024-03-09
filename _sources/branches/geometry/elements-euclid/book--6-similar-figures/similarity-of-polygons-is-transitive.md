@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 21 from Book 6 of Euclid's “Elements”)
 
 > ([Rectilinear figures][bookofproofs$687]) [similar][bookofproofs$1983] to the same rectilinear figure are also [similar][bookofproofs$1983] to one another.
+
 * Let each of the [rectilinear figures][bookofproofs$687] `$A$` and `$B$` be [similar][bookofproofs$1983] to (the [rectilinear figure][bookofproofs$687]) `$C$`.
 * I say that `$A$` is also [similar][bookofproofs$1983] to `$B$`.
 

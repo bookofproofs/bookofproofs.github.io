@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 21 from Book 10 of Euclid's “Elements”)
 
 > The [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by [rational][bookofproofs$2083] [straight lines][bookofproofs$645] (which are) [commensurable in square][bookofproofs$2082] only is [irrational][bookofproofs$2083], and its [square root][bookofproofs$46] is [irrational][bookofproofs$2083] - let it be called **medial**.
+
 * For let the [rectangle][bookofproofs$909] `$AC$` be contained by the [rational][bookofproofs$2083] [straight lines][bookofproofs$645] `$AB$` and `$BC$` (which are) [commensurable in square][bookofproofs$2082] only.
 * I say that `$AC$` is [irrational][bookofproofs$2083], and its [square root][bookofproofs$46] is [irrational][bookofproofs$2083] - let it be called **medial**.
 

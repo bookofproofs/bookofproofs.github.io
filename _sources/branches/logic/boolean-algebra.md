@@ -18,16 +18,16 @@ We will now define Boolean algebra formally and show how it can be used to study
 ---
 
 Any [set][bookofproofs$550] `\((B,\sqcap,\sqcup,1,0)\)` with the operations
+
 * **product** `$"\sqcap":B\times B\to B$`, `$(x,y)\to x\sqcap y$` for all `$x,y\in B$`,
 * **sum** `$"\sqcup":B\times B\to B$`, `$(x,y)\to x\sqcup y$` for all `$x,y\in B$`,
 * and the designated elements `$1,0\in B$` 
 
 is called a **Boolean algebra** if and only if:
 
-
-1. `$\sqcap$` and `$\sqcup$` are [associative][bookofproofs$668] in `\(B\)`, i.e. for all `\(x,y,z\in B\)` `$$\begin{array}{c}x\sqcap(y\sqcap z)=(x\sqcap y)\sqcap z,\\x\sqcup (y\sqcup z)=(x\sqcup y)\sqcup z,\end{array}$$`
-1. `$\sqcap$` and `$\sqcup$` are [commutative][bookofproofs$672] in `\(B\)`,  i.e. for all `\(x,y \in B\)` `$$\begin{array}{c}x\sqcap y=y \sqcap x,\\x\sqcup y=y\sqcup x,\end{array}$$` 
-1. "`\(\sqcap\)`" and "`\(\sqcup\)`" are [distributive][bookofproofs$682] over each other in `\(B\)`, i.e. for all `\(x,y,z\in B\)` `$$\begin{array}{c}x\sqcap(y\sqcup z)=(x\sqcap y)\sqcup (x\sqcap z),\\x\sqcup (y\sqcap z)=(x\sqcup y)\sqcap (x\sqcup z),\end{array}$$`
-1. there is an element `$0\in B$` with `$0\sqcap x=0$` and `$x\sqcup 0=x$` for all `$x\in B$`; `$0$` is called the **smallest element** of `$B,$`
-1. there is an element `$1\in B$` with `$1\sqcap x=x$` and `$x\sqcup 1=1$` for all `$x\in B$`; `$1$` is called the **greatest element** of `$B,$`
-1. there is an element `$1\in B$` with `$1\sqcap x=x$` and `$x\sqcup 1=1$` for all `$x\in B$`; `$1$` is called the **greatest element** of `$B,$`
+1. `$\sqcap$` and `$\sqcup$` are [associative][bookofproofs$668] in `\(B\)`, i.e. for all `\(x,y,z\in B\)` `$$\begin{array}{c}x\sqcap(y\sqcap z)=(x\sqcap y)\sqcap z,\\x\sqcup (y\sqcup z)=(x\sqcup y)\sqcup z,\end{array}$$`.
+1. `$\sqcap$` and `$\sqcup$` are [commutative][bookofproofs$672] in `\(B\)`,  i.e. for all `\(x,y \in B\)` `$$\begin{array}{c}x\sqcap y=y \sqcap x,\\x\sqcup y=y\sqcup x,\end{array}$$`.
+1. "`\(\sqcap\)`" and "`\(\sqcup\)`" are [distributive][bookofproofs$682] over each other in `\(B\)`, i.e. for all `\(x,y,z\in B\)` `$$\begin{array}{c}x\sqcap(y\sqcup z)=(x\sqcap y)\sqcup (x\sqcap z),\\x\sqcup (y\sqcap z)=(x\sqcup y)\sqcap (x\sqcup z),\end{array}$$`.
+1. There is an element `$0\in B$` with `$0\sqcap x=0$` and `$x\sqcup 0=x$` for all `$x\in B$`; `$0$` is called the **smallest element** of `$B,$`.
+1. There is an element `$1\in B$` with `$1\sqcap x=x$` and `$x\sqcup 1=1$` for all `$x\in B$`; `$1$` is called the **greatest element** of `$B,$`.
+1. There is an element `$y\in B$` with `$x\sqcap y=0$` and `$x\sqcup y=1$` for all `$x\in B$`; `$y$` is called the **complement element** of `$B.$`.

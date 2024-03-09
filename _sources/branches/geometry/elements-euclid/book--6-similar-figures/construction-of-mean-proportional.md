@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 13 from Book 6 of Euclid's “Elements”)[^1]
 
 > To find the ([straight line][bookofproofs$645]) in [mean proportion][bookofproofs$645]3 to two given [straight lines][bookofproofs$645].
+
 * Let `$AB$` and `$BC$` be the two given [straight lines][bookofproofs$645].
 * So it is required to find the ([straight line][bookofproofs$645]) in [mean proportion][bookofproofs$645]3 to `$AB$` and `$BC$`.
 

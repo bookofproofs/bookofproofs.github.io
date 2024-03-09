@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 72 from Book 10 of Euclid's “Elements”)
 
 > When two [medial][bookofproofs$2115] (areas which are) [incommensurable][bookofproofs$1095] with one another are added together, the remaining two [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as the [square root][bookofproofs$46] of the total area) - either a [second bimedial][bookofproofs$2132], or the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
+
 * For let the two [medial][bookofproofs$2115] (areas) `$AB$` and `$CD$`, (which are) [incommensurable][bookofproofs$1095] with one another, have been added together.
 * I say that the [square root][bookofproofs$46] of area `$AD$` is either a [second bimedial][bookofproofs$2132], or the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
 

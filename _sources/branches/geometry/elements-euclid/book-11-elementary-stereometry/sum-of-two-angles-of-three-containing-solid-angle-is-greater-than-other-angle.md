@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 20 from Book 11 of Euclid's “Elements”)
 
 > If a [solid angle][bookofproofs$2220] is contained by three [rectilinear angles][bookofproofs$650] then (the sum of) any two ([angles][bookofproofs$650]) is greater than the remaining (one), (the [angles][bookofproofs$650]) being taken up in any (possible way).
+
 * For let the [solid angle][bookofproofs$2220] `$A$` have been contained by the three [rectilinear angles][bookofproofs$650] `$BAC$`, `$CAD$`, and `$DAB$`.
 * I say that (the sum of) any two of the [angles][bookofproofs$650] `$BAC$`, `$CAD$`, and `$DAB$` is greater than the remaining (one), (the [angles][bookofproofs$650]) being taken up in any (possible way).
 

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 4 from Book 1 of Euclid's “Elements”)
 
 > If two triangles have two sides equal to two sides, respectively, and have the angle(s) enclosed by the equal [straight lines][bookofproofs$645] equal, then they will also have the base equal to the base, and the triangle will be equal to the triangle, and the remaining angles subtended by the equal sides will be equal to the corresponding remaining angles.
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having the two sides `$AB$` and `$AC$` equal to the two sides `$DE$` and `$DF$`, respectively. (That is) `$AB$` to `$DE$`, and `$AC$` to `$DF$`.
 * And (let) the angle `$BAC$` (be) equal to the angle `$EDF$`.
 * I say that the base `$BC$` is also equal to the base `$EF$`, and triangle `$ABC$` will be equal to triangle `$DEF$`, and the remaining [angles][bookofproofs$650] subtended by the equal sides will be equal to the corresponding remaining [angles][bookofproofs$650]. (That is) `$ABC$` to `$DEF$`, and `$ACB$` to `$DFE$`.

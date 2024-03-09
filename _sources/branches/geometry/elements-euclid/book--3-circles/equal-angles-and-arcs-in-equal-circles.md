@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 26 from Book 3 of Euclid's “Elements”)
 
 > In [equal circles][bookofproofs$1850], equal [angles][bookofproofs$650] [stand upon][bookofproofs$6435] equal [circumferences][bookofproofs$690] whether they are standing at the [center][bookofproofs$6428] or at the [circumference][bookofproofs$690].
+
 * Let `$ABC$` and `$DEF$` be [equal circles][bookofproofs$1850], and within them let `$BGC$` and `$EHF$` be equal [angles][bookofproofs$650] at the [center][bookofproofs$6428], and `$BAC$` and `$EDF$` (equal [angles][bookofproofs$650]) at the [circumference][bookofproofs$690].
 * I say that [circumference][bookofproofs$690] `$BKC$` is equal to [circumference][bookofproofs$690] `$ELF$`.
 

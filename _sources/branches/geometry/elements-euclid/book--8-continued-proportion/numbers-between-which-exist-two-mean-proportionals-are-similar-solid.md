@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 21 from Book 8 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] fall between two [numbers][bookofproofs$2315] in [mean proportion][bookofproofs$6453] then the (latter) are [similar solid (numbers) ][bookofproofs$2329].
+
 * For let the two [numbers][bookofproofs$2315] `$C$` and `$D$` fall between the two [numbers][bookofproofs$2315] `$A$` and `$B$` in [mean proportion][bookofproofs$6453].
 * I say that `$A$` and `$B$` are [similar solid (numbers) ][bookofproofs$2329].
 ![fig21e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book08/fig21e.png?raw=true)

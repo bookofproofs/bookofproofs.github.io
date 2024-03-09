@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314], then the third from the [unit][bookofproofs$2314] will be [square][bookofproofs$2326], and (all) those ([numbers][bookofproofs$2315] after that) which leave an interval of one (number), and the fourth (will be) [cube][bookofproofs$2327], and all those ([numbers][bookofproofs$2315] after that) which leave an interval of two ([numbers][bookofproofs$2315]), and the seventh (will be) both [cube][bookofproofs$2327] and [square][bookofproofs$2326], and (all) those ([numbers][bookofproofs$2315] after that) which leave an interval of five ([numbers][bookofproofs$2315]).
+
 * Let any multitude whatsoever of [numbers][bookofproofs$2315], `$A$`, `$B$`, `$C$`, `$D$`, `$E$`, `$F$`, be in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314].
 * I say that the third from the [unit][bookofproofs$2314], `$B$`, is [square][bookofproofs$2326], and all those ([numbers][bookofproofs$2315] after that) which leave an interval of one (number).
 * So I also say that the fourth (number) from the [unit][bookofproofs$2314], `$C$`, is [cube][bookofproofs$2327], and all those ([numbers][bookofproofs$2315] after that) which leave an interval of two ([numbers][bookofproofs$2315]).

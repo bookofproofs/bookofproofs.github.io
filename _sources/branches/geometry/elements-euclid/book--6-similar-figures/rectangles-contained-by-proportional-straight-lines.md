@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 16 from Book 6 of Euclid's “Elements”)
 
 > If four [straight lines][bookofproofs$645] are [proportional][bookofproofs$2328] then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the (two) outermost is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the middle (two). And if the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the (two) outermost is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the middle (two) then the four [straight lines][bookofproofs$645] will be [proportional][bookofproofs$2328].
+
 * Let `$AB$`, `$CD$`, `$E$`, and `$F$` be four [proportional][bookofproofs$2328] [straight lines][bookofproofs$645], (such that) as `$AB$` (is) to `$CD$`, so `$E$` (is) to `$F$` 
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AB$` and `$F$` is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$CD$` and `$E$` (and conversely).
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 11 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] joined to one another are [parallel][bookofproofs$788] (respectively) to two [straight lines][bookofproofs$645] joined to one another, which are not in the same [plane][bookofproofs$657], then the [planes][bookofproofs$647] through them are [parallel][bookofproofs$788] (to one another).
+
 * For let the two [straight lines][bookofproofs$645] joined to one another, `$AB$` and `$BC$`, be [parallel][bookofproofs$788] to the two [straight lines][bookofproofs$645] joined to one another, `$DE$` and `$EF$` (respectively), not being in the same [plane][bookofproofs$657].
 * I say that the [planes][bookofproofs$647] through `$AB$`, `$BC$` and `$DE$`, `$EF$` will not meet one another (when) produced.
 

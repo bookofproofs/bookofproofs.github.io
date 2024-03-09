@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Corollary to Proposition 19 from Book 5 of Euclid's “Elements”)
 
 >  And since it was shown (that) as `$AB$` (is) to `$CD$`, so `$EB$` (is) to `$FD$`, (it is) also (the case), alternately, (that) as `$AB$` (is) to `$BE$`, so `$CD$` (is) to `$FD$`.
+
 * Thus, [composed][bookofproofs$1953] magnitudes are [proportional][bookofproofs$6442].
 * And it was shown (that) as `$BA$` (is) to `$AE$`, so `$DC$` (is) to `$CF$`.
 * And (the latter) is [converted][bookofproofs$1955] (from the former).

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 29 from Book 7 of Euclid's “Elements”)
 
 > Every [prime number][bookofproofs$704] is [prime to][bookofproofs$1288] every number which it does not measure.
+
 * Let `$A$` be a [prime number][bookofproofs$704], and let it not measure `$B$`.
 * I say that `$B$` and `$A$` are [prime to one another][bookofproofs$1288].
 

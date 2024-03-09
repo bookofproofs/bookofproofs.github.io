@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 26 from Book 6 of Euclid's “Elements”)
 
 > If from a [parallelogram][bookofproofs$909] a(nother) [parallelogram][bookofproofs$909] is subtracted (which is) [similar][bookofproofs$1983], and similarly laid out, to the whole, having a common angle with it, then (the subtracted [parallelogram][bookofproofs$909]) is about the same diagonal as the whole.
+
 * For, from [parallelogram][bookofproofs$909] `$ABCD$`, let ([parallelogram][bookofproofs$909]) `$AF$` have been subtracted (which is) [similar][bookofproofs$1983], and similarly laid out, to `$ABCD$`, having the common angle `$DAB$` with it.
 * I say that `$ABCD$` is about the same diagonal as `$AF$`.
 

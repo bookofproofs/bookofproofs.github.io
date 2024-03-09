@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 2 from Book 3 of Euclid's “Elements”)
 
 > If two [points][bookofproofs$631] are taken at random on the [circumference][bookofproofs$690] of a [circle][bookofproofs$690] then the [straight line][bookofproofs$645] joining the [points][bookofproofs$631] will fall inside the [circle][bookofproofs$690].
+
 * Let `$ABC$` be a [circle][bookofproofs$690], and let two [points][bookofproofs$631] `$A$` and `$B$` have been taken at random on its [circumference][bookofproofs$690].
 * I say that the [straight line][bookofproofs$645] joining `$A$` to `$B$` will fall inside the [circle][bookofproofs$690].
 

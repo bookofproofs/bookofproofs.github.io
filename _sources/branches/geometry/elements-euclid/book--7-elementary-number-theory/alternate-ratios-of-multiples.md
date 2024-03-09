@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a [unit][bookofproofs$2314] measures some number, and another number measures some other number as many times, then, also, alternately, the [unit][bookofproofs$2314] will measure the third number as many times as the second (number measures) the fourth.
+
 * For let a [unit][bookofproofs$2314] `$A$` measure some number `$BC$`, and let another number `$D$` measure some other number `$EF$` as many times.
 * I say that, also, alternately, the [unit][bookofproofs$2314] `$A$` also measures the number `$D$` as many times as `$BC$` (measures) `$EF$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 55 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [second binomial][bookofproofs$2086] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called [first bimedial][bookofproofs$2131].
+
 * For let the area `$ABCD$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and by the [second binomial][bookofproofs$2086] ([straight line][bookofproofs$645]) `$AD$`.
 * I say that the [square root][bookofproofs$46] of area `$AC$` is a [first bimedial][bookofproofs$2131] ([straight line][bookofproofs$645]).\
 

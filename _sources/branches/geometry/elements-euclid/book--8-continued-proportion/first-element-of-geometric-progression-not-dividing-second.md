@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 8 of Euclid's “Elements”)
 
 > If there are any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552], and the first does not measure the second, then no other (number) will measure any other (number) either.
+
 * Let `$A$`, `$B$`, `$C$`, `$D$`, `$E$` be any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552], and let `$A$` not measure `$B$`.
 * I say that no other (number) will measure any other (number) either.
 

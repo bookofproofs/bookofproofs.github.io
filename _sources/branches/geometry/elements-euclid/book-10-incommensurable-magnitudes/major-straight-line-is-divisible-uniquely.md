@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 45 from Book 10 of Euclid's “Elements”)
 
 > A [major][bookofproofs$2133] ([straight line][bookofproofs$645]) can only be divided (into its component terms) at the same [point][bookofproofs$631].
+
 * Let `$AB$` be a [major][bookofproofs$2133] ([straight line][bookofproofs$645]) which has been divided at `$C$`, so that `$AC$` and `$CB$` are [incommensurable in square][bookofproofs$2082], making the sum of the [squares][bookofproofs$909] on `$AC$` and `$CB$` [rational][bookofproofs$2083], and the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$AC$` and `$CD$` [medial][bookofproofs$2115] [[Prop. 10.39]][bookofproofs$2133].
 * I say that `$AB$` cannot be (so) divided at another [point][bookofproofs$631].
 ![fig042e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig042e.png?raw=true)

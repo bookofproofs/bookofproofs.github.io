@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 39 from Book 1 of Euclid's “Elements”)
 
 > Equal [triangles][bookofproofs$6432] which are on the same base, and on the same side, are also between the same [parallels][bookofproofs$788].
+
 * Let `$ABC$` and `$DBC$` be equal [triangles][bookofproofs$6432] which are on the same base `$BC$`, and on the same side (of it).
 * I say that they are also between the same [parallels][bookofproofs$788].
 ![fig39e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig39e.png?raw=true)

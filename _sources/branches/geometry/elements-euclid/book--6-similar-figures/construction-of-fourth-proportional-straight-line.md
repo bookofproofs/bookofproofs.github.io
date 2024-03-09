@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 12 from Book 6 of Euclid's “Elements”)
 
 > To find a fourth ([straight line][bookofproofs$645]) [proportional][bookofproofs$2328] to three given [straight lines][bookofproofs$645].
+
 * Let `$A$`, `$B$`, and `$C$` be the three given [straight lines][bookofproofs$645].
 * So it is required to find a fourth ([straight line][bookofproofs$645]) [proportional][bookofproofs$2328] to `$A$`, `$B$`, and `$C$`.
 

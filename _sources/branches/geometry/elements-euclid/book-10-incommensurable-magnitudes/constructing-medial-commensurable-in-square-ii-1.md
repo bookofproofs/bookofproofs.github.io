@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Lemma to Proposition 32 from Book 10 of Euclid's “Elements”)
 
 > Let `$ABC$` be a [right-angled triangle][bookofproofs$6431] having the (angle) `$A$` a [right angle][bookofproofs$653]. And let the [perpendicular][bookofproofs$653] `$AD$` have been drawn. 
+
 * I say that the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$CBD$` is equal to the [ (square) ][bookofproofs$909] on `$BA$`, and the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$BCD$` (is) equal to the [ (square) ][bookofproofs$909] on `$CA$`, and the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$BD$` and `$DC$` (is) equal to the [ (square) ][bookofproofs$909] on `$AD$`, and, further, the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$BC$` and `$AD$` [is] equal to the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$BA$` and `$AC$`.
 
 ![fig032ae](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig032ae.png?raw=true)

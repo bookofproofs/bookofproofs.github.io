@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > Any number is either [part][bookofproofs$703] or [parts][bookofproofs$2323] of any (other) number, the lesser of the greater.
+
 * Let `$A$` and `$BC$` be two [numbers][bookofproofs$2315], and let `$BC$` be the lesser.
 * I say that `$BC$` is either [part][bookofproofs$703] or [parts][bookofproofs$2323] of `$A$`.
 

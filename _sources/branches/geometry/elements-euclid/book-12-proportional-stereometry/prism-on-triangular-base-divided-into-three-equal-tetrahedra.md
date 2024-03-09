@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > Any [prism][bookofproofs$2222] having a [triangular][bookofproofs$6432] base is divided into three [pyramids][bookofproofs$2221] having [triangular][bookofproofs$6432] bases (which are) equal to one another.
+
 * Let there be a [prism][bookofproofs$2222] whose base (is) [triangle][bookofproofs$6432] `$ABC$`, and opposite (plane) `$DEF$`.
 * I say that [prism][bookofproofs$2222] `$ABCDEF$` is divided into three [pyramids][bookofproofs$2221] having [triangular][bookofproofs$6432] bases (which are) equal to one another.
 

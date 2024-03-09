@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 10 from Book 7 of Euclid's “Elements”)
 
 > If a number is [parts][bookofproofs$2323] of a number, and another (number) is the same [parts][bookofproofs$2323] of another, also, alternately, which(ever) [parts][bookofproofs$2323], or [part][bookofproofs$703], the first (number) is of the third, the second will also be the same [parts][bookofproofs$2323], or the same [part][bookofproofs$703], of the fourth.
+
 * For let a number `$AB$` be [parts][bookofproofs$2323] of a number `$C$`, and another (number) `$DE$` (be) the same [parts][bookofproofs$2323] of another `$F$`.
 * I say that, also, alternately, which(ever) [parts][bookofproofs$2323], or [part][bookofproofs$703], `$AB$` is of `$DE$`, `$C$` is also the same [parts][bookofproofs$2323], or the same [part][bookofproofs$703], of `$F$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 18 from Book 11 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is at [right angles to some plane][bookofproofs$2212] then all of the [planes][bookofproofs$647] (passing) through it will also be at [right angles][bookofproofs$653] to the same [plane][bookofproofs$657].
+
 * For let some [straight line][bookofproofs$645] `$AB$` be at [right angles][bookofproofs$653] to a reference [plane][bookofproofs$647].
 * I say that all of the [planes][bookofproofs$647] (passing) through `$AB$` are also at "right angles to the reference [plane][bookofproofs$647]":[bookofproofs$2212].
 

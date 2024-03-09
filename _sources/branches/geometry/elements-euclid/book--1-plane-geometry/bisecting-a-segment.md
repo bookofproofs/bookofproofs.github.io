@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 10 from Book 1 of Euclid's “Elements”)
 
 > To cut a given finite [straight line][bookofproofs$645] in half.
+
 * Let `$AB$` be the given finite [straight line][bookofproofs$645].
 * So it is required to cut the finite [straight line][bookofproofs$645] `$AB$` in half.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 13 from Book 8 of Euclid's “Elements”)
 
 > If there are any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552], and each makes some (number by) multiplying itself, then the ([numbers][bookofproofs$2315]) created from them will (also) be in [ (continued) proportion][bookofproofs$6552]. And if the original ([numbers][bookofproofs$2315]) make some (more [numbers][bookofproofs$2315] by) multiplying the created ([numbers][bookofproofs$2315]) then these will also be in [ (continued) proportion][bookofproofs$6552] [and this always happens with the extremes].
+
 * Let `$A$`, `$B$`, `$C$` be any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552], (such that) as `$A$` (is) to `$B$`, so `$B$` (is) to `$C$`.
 * And let `$A$`, `$B$`, `$C$` make `$D$`, `$E$`, `$F$` [ (by) multiplying][bookofproofs$6437] themselves, and let them make `$G$`, `$H$`, `$K$` [ (by) multiplying][bookofproofs$6437] `$D$`, `$E$`, `$F$`.
 * I say that `$D$`, `$E$`, `$F$` and `$G$`, `$H$`, `$K$` are in [continued proportion][bookofproofs$6552].

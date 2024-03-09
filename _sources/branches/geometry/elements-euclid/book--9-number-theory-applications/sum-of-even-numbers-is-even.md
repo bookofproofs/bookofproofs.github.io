@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 21 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of even [numbers][bookofproofs$2315] is added together then the whole is even.
+
 * For let any multitude whatsoever of even [numbers][bookofproofs$2315], `$AB$`, `$BC$`, `$CD$`, `$DE$`, lie together.
 * I say that the whole, `$AE$`, is even.
 

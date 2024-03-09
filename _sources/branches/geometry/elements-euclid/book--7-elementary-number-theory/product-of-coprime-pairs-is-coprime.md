@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 26 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] are both [prime to][bookofproofs$1288] each of two [numbers][bookofproofs$2315] then the ([numbers][bookofproofs$2315]) created from (multiplying) them will also be [prime to one another][bookofproofs$1288].
+
 * For let two [numbers][bookofproofs$2315], `$A$` and `$B$`, both be [prime to][bookofproofs$1288] each of two [numbers][bookofproofs$2315], `$C$` and `$D$`.
 * And let `$A$` make `$E$` [ (by) multiplying][bookofproofs$6437] `$B$`, and let `$C$` make `$F$` [ (by) multiplying][bookofproofs$6437] `$D$`.
 * I say that `$E$` and `$F$` are [prime to one another][bookofproofs$1288].

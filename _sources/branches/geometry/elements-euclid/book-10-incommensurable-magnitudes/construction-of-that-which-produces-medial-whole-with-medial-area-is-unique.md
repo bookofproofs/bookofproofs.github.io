@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 84 from Book 10 of Euclid's “Elements”)
 
 > Only one [straight line][bookofproofs$645], which is [incommensurable in square][bookofproofs$2082] with the whole, and (together) with the whole makes the sum of the [squares][bookofproofs$909] on them [medial][bookofproofs$2115], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by them [medial][bookofproofs$2115], and, moreover, [incommensurable][bookofproofs$1095] with the sum of the (squares) on them, can be attached to that ([straight line][bookofproofs$645]) which with a [medial (area) ][bookofproofs$6462] makes a [medial][bookofproofs$2115] whole.
+
 * Let `$AB$` be a ([straight line][bookofproofs$645]) which with a [medial (area) ][bookofproofs$6462] makes a [medial][bookofproofs$2115] whole, `$BC$` being (so) attached to it.
 * Thus, `$AC$` and `$CB$` are [incommensurable in square][bookofproofs$2082], fulfilling the (other) aforementioned (conditions) [[Prop. 10.78]][bookofproofs$2172].
 * I say that a(nother) ([straight line][bookofproofs$645]) fulfilling the aforementioned (conditions) cannot be attached to `$AB$`.

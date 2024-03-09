@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 9 of Euclid's “Elements”)
 
 > If a [composite number][bookofproofs$6436] makes some (number by) multiplying some (other) number then the created (number) will be [solid][bookofproofs$2210].
+
 * For let the [composite number][bookofproofs$6436] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] some number `$B$`.
 * I say that `$C$` is [solid][bookofproofs$2210].
 

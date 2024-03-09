@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 23 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] are [prime to one another][bookofproofs$1288] then a number measuring one of them will be [prime to][bookofproofs$1288] the remaining (one).
+
 * Let `$A$` and `$B$` be two [numbers][bookofproofs$2315] (which are) [prime to one another][bookofproofs$1288], and let some number `$C$` measure `$A$`.
 * I say that `$C$` and `$B$` are also [prime to one another][bookofproofs$1288].
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 30 from Book 6 of Euclid's “Elements”)
 
 > To cut[^1] a given finite [straight line][bookofproofs$645] [in extreme and mean ratio][bookofproofs$1985].
+
 * Let `$AB$` be the given finite [straight line][bookofproofs$645].
 * So it is required to cut the [straight line][bookofproofs$645] `$AB$` [in extreme and mean ratio][bookofproofs$1985].
 ![fig30e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book06/fig30e.png?raw=true)

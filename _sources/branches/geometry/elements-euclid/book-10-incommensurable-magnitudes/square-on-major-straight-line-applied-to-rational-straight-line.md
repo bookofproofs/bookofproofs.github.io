@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 63 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on a [major][bookofproofs$2133] ([straight line][bookofproofs$645]) applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) produces as breadth a [fourth binomial][bookofproofs$2088] ([straight line][bookofproofs$645]).[^1]
+
 * Let `$AB$` be a [major][bookofproofs$2133] ([straight line][bookofproofs$645]) having been divided at `$C$`, such that `$AC$` is greater than `$CB$`, and (let) `$DE$` (be) a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the [parallelogram][bookofproofs$909] `$DF$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$DE$`, producing `$DG$` as breadth.
 * I say that `$DG$` is a [fourth binomial][bookofproofs$2088] ([straight line][bookofproofs$645]).

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan
 ### (Proposition 3 from Book 7 of Euclid's “Elements”)
 
 > To find the greatest common measure of three given [numbers][bookofproofs$2315] (which are) not [prime to one another][bookofproofs$1288].
+
 * Let `$A$`, `$B$`, and `$C$` be the three given [numbers][bookofproofs$2315] (which are) not [prime to one another][bookofproofs$1288].
 * So it is required to find the greatest common measure of `$A$`, `$B$`, and `$C$`.
 

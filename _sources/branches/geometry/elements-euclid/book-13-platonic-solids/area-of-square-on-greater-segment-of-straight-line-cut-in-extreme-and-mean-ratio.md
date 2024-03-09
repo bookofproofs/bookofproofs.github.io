@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 1 from Book 13 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut [in extreme and mean ratio][bookofproofs$1985] then the [square][bookofproofs$909] on the greater piece, added to half of the whole, is five times the [square][bookofproofs$909] on the half.
+
 * For let the [straight line][bookofproofs$645] `$AB$` have been cut [in extreme and mean ratio][bookofproofs$1985] at [point][bookofproofs$631] `$C$`, and let `$AC$` be the greater piece.
 * And let the [straight line][bookofproofs$645] `$AD$` have been produced in a [straight line][bookofproofs$645] with `$CA$`.
 * And let `$AD$` be made (equal to) half of `$AB$`.

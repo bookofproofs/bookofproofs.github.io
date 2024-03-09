@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 31 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], the [angle][bookofproofs$650] in a [semicircle][bookofproofs$6430] is a [right angle][bookofproofs$653], and that in a greater segment (is) less than a [right angle][bookofproofs$653], and that in a lesser segment (is) greater than a [right angle][bookofproofs$653]. And, further, the [angle of a segment][bookofproofs$1855] greater (than a [semicircle][bookofproofs$6430]) is greater than a [right angle][bookofproofs$653], and the [angle of a segment][bookofproofs$1855] less (than a [semicircle][bookofproofs$6430]) is less than a [right angle][bookofproofs$653].
+
 * Let `$ABCD$` be a [circle][bookofproofs$690], and let `$BC$` be its [diameter][bookofproofs$6429], and `$E$` its [center][bookofproofs$6428].
 * And let `$BA$`, `$AC$`, `$AD$`, and `$DC$` have been joined.
 * I say that the [angle][bookofproofs$650] `$BAC$` in the [semicircle][bookofproofs$6430] `$BAC$` is a [right angle][bookofproofs$653], and the [angle][bookofproofs$650] `$ABC$` in the [segment][bookofproofs$1852] `$ABC$`, (which is) greater than a [semicircle][bookofproofs$6430], is less than a [right angle][bookofproofs$653], and the [angle][bookofproofs$650] `$ADC$` in the [segment][bookofproofs$1852] `$ADC$`, (which is) less than a [semicircle][bookofproofs$6430], is greater than a [right angle][bookofproofs$653].

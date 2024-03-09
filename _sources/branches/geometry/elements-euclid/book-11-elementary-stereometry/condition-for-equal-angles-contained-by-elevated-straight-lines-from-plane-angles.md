@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If there are two equal [rectilinear angles][bookofproofs$650], and raised [straight lines][bookofproofs$645] are stood on the apexes of them, containing equal [angles][bookofproofs$650] respectively with the original [straight lines][bookofproofs$645] (forming the [angles][bookofproofs$650]), and random [points][bookofproofs$631] are taken on the raised ([straight lines][bookofproofs$645]), and [perpendiculars][bookofproofs$653] are drawn from them to the [planes][bookofproofs$647] in which the original [angles][bookofproofs$650] are, and [straight lines][bookofproofs$645] are joined from the [points][bookofproofs$631] created in the [planes][bookofproofs$647] to the (vertices of the) original [angles][bookofproofs$650], then they will enclose equal [angles][bookofproofs$650] with the raised ([straight lines][bookofproofs$645]).
+
 * Let `$BAC$` and `$EDF$` be two equal rectilinear [angles][bookofproofs$650].
 * And let the raised [straight lines][bookofproofs$645] `$AG$` and `$DM$` have been stood on [points][bookofproofs$631] `$A$` and `$D$`, containing equal [angles][bookofproofs$650] respectively with the original [straight lines][bookofproofs$645]. (That is) `$MDE$` (equal) to `$GAB$`, and `$MDF$` (to) `$GAC$`.
 * And let the random [points][bookofproofs$631] `$G$` and `$M$` have been taken on `$AG$` and `$DM$` (respectively).

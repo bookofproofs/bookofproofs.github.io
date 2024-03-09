@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 115 from Book 10 of Euclid's “Elements”)
 
 > An infinite (series) of [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) can be created from a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and none of them is the same as any of the preceding ([straight lines][bookofproofs$645]).
+
 * Let `$A$` be a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]).
 * I say that an infinite (series) of [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) can be created from `$A$`, and that none of them is the same as any of the preceding ([straight lines][bookofproofs$645]).
 

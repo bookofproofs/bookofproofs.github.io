@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 27 from Book 3 of Euclid's “Elements”)
 
 > In [equal circles][bookofproofs$1850], [angles][bookofproofs$650] standing upon equal [circumferences][bookofproofs$690] are equal to one another, whether they are standing at the [center][bookofproofs$6428] or at the [circumference][bookofproofs$690].
+
 * For let the [angles][bookofproofs$650] `$BGC$` and `$EHF$` at the [centers][bookofproofs$6428] `$G$` and `$H$`, and the ([angles][bookofproofs$650]) `$BAC$` and `$EDF$` at the [circumferences][bookofproofs$690], [stand upon][bookofproofs$6435] the equal [circumferences][bookofproofs$690] `$BC$` and `$EF$`, in the [equal circles][bookofproofs$1850] `$ABC$` and `$DEF$` (respectively).
 * I say that [angle][bookofproofs$650] `$BGC$` is equal to (angle) `$EHF$`, and `$BAC$` is equal to `$EDF$`.
 

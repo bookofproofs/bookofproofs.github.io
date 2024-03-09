@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 32 from Book 11 of Euclid's “Elements”)
 
 > [Parallelepiped solids][bookofproofs$2222] which (have) the same [height][bookofproofs$1986] are to one another as their bases.
+
 * Let `$AB$` and `$CD$` be [parallelepiped solids][bookofproofs$2222] (having) the same [height][bookofproofs$1986].
 * I say that the [parallelepiped solids][bookofproofs$2222] `$AB$` and `$CD$` are to one another as their bases.
 

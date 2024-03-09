@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 62 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on a [second bimedial][bookofproofs$2132] ([straight line][bookofproofs$645]) applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) produces as breadth a [third binomial][bookofproofs$2087] ([straight line][bookofproofs$645]).[^1]
+
 * Let `$AB$` be a [second bimedial][bookofproofs$2132] ([straight line][bookofproofs$645]) having been divided into its (component) [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]) at `$C$`, such that `$AC$` is the greater segment.
 * And let `$DE$` be some [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the [parallelogram][bookofproofs$909] `$DF$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$DE$`, producing `$DG$` as breadth.

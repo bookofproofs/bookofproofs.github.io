@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 28 from Book 11 of Euclid's “Elements”)
 
 > If a [parallelepipedal solid][bookofproofs$2222] is cut by a [plane][bookofproofs$647] (passing) through the diagonals of (a pair of) opposite [planes][bookofproofs$647] then the [solid][bookofproofs$2210] will be cut in half by the [plane][bookofproofs$647].
+
 * For let the [parallelepipedal solid][bookofproofs$2222] `$AB$` have been cut by the [plane][bookofproofs$647] `$CDEF$` (passing) through the diagonals of the opposite [planes][bookofproofs$647] `$CF$` and `$DE$`.
 * I say that the [solid][bookofproofs$2210] `$AB$` will be cut in half by the [plane][bookofproofs$647] `$CDEF$`.
 

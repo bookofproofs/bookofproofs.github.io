@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 
 
 > If two [numbers][bookofproofs$2315] have to one another the [ratio][bookofproofs$1943] which a [square number][bookofproofs$2326] (has) to a(nother) [square number][bookofproofs$2326], and the first is square, then the second will also be [square][bookofproofs$2326].
+
 * For let two [numbers][bookofproofs$2315], `$A$` and `$B$`, have to one another the [ratio][bookofproofs$1943] which the [square number][bookofproofs$2326] `$C$` (has) to the [square number][bookofproofs$2326] `$D$`.
 * And let `$A$` be [square][bookofproofs$2326].
 * I say that `$B$` is also [square][bookofproofs$2326].

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 13 of Euclid's “Elements”)
 
 > If [straight lines][bookofproofs$645] subtend two consecutive [angles][bookofproofs$650] of an [equilateral and equiangular pentagon][bookofproofs$6447] then they cut one another [in extreme and mean ratio][bookofproofs$1985], and their greater pieces are equal to the sides of the [pentagon][bookofproofs$6447].
+
 * For let the two [straight lines][bookofproofs$645], `$AC$` and `$BE$`, cutting one another at [point][bookofproofs$631] `$H$`, have subtended two consecutive [angles][bookofproofs$650], at `$A$` and `$B$` (respectively), of the [equilateral and equiangular pentagon][bookofproofs$6447] `$ABCDE$`.
 * I say that each of them has been cut [in extreme and mean ratio][bookofproofs$1985] at [point][bookofproofs$631] `$H$`, and that their greater pieces are equal to the sides of the [pentagon][bookofproofs$6447].
 

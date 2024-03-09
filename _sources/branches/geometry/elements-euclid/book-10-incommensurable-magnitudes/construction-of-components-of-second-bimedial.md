@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 28 from Book 10 of Euclid's “Elements”)
 
 > To find (two) [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), containing a [medial (area) ][bookofproofs$6462], (which are) [commensurable in square][bookofproofs$2082] only.
+
 * Let the [three] [rational][bookofproofs$2083] ([straight lines][bookofproofs$645]) `$A$`, `$B$`, and `$C$`, (which are) [commensurable in square][bookofproofs$2082] only, be laid down.
 * And let, `$D$`, [in mean proportion][bookofproofs$645]3 ([straight line][bookofproofs$645]) to `$A$` and `$B$`, have been taken [[Prop. 6.13]][bookofproofs$1999].
 * And let it be contrived that as `$B$` (is) to `$C$`, (so) `$D$` (is) to `$E$` [[Prop. 6.12]][bookofproofs$1998].

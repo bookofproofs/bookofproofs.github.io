@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 24 from Book 9 of Euclid's “Elements”)
 
 > If an [even (number) ][bookofproofs$2317] is subtracted from an(other) [even number][bookofproofs$2317] then the remainder will be even.
+
 * For let the [even (number) ][bookofproofs$2317] `$BC$` have been subtracted from the [even number][bookofproofs$2317] `$AB$`.
 * I say that the remainder `$CA$` is even.
 

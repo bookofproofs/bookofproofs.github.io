@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 23 from Book 1 of Euclid's “Elements”)
 
 > To construct a [rectilinear angle][bookofproofs$650] equal to a given [rectilinear angle][bookofproofs$650] at a (given) [point][bookofproofs$631] on a given [straight line][bookofproofs$645].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], `$A$` the (given) [point][bookofproofs$631] on it, and `$DCE$` the given [rectilinear angle][bookofproofs$650].
 * So it is required to construct a [rectilinear angle][bookofproofs$650] equal to the given [rectilinear angle][bookofproofs$650] `$DCE$` at the (given) [point][bookofproofs$631] `$A$` on the given [straight line][bookofproofs$645] `$AB$`.
 

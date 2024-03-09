@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 11 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] are cut by [parallel planes][bookofproofs$2217] then they will be cut in the [same ratios][bookofproofs$1945].
+
 * For let the two [straight lines][bookofproofs$645] `$AB$` and `$CD$` be cut by the [parallel planes][bookofproofs$2217] `$GH$`, `$KL$`, and `$MN$` at the [points][bookofproofs$631] `$A$`, `$E$`, `$B$`, and `$C$`, `$F$`, `$D$` (respectively).
 * I say that as the [straight line][bookofproofs$645] `$AE$` is to `$EB$`, so `$CF$` (is) to `$FD$`.
 

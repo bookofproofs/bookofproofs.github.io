@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 4 of Euclid's “Elements”)
 
 > To [circumscribe][bookofproofs$1921] a [triangle][bookofproofs$6432], equiangular with a given [triangle][bookofproofs$6432], about a given [circle][bookofproofs$690].
+
 * Let `$ABC$` be the given [circle][bookofproofs$690], and `$DEF$` the given [triangle][bookofproofs$6432].
 * So it is required to [circumscribe][bookofproofs$1921] a [triangle][bookofproofs$6432], equiangular with triangle `$DEF$`, about [circle][bookofproofs$690] `$ABC$`.
 

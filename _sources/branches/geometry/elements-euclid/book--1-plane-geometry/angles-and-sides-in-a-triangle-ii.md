@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 19 from Book 1 of Euclid's “Elements” - this a the conversion to the [proposition 1.18][bookofproofs$791])
 
 > In any [triangle][bookofproofs$6432], the greater angle is subtended by the greater side.
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432] having the angle `$ABC$` greater than `$BCA$`.
 * I say that side `$AC$` is also greater than side `$AB$`.
 

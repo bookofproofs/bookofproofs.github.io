@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If as the whole is to the whole so the ([part][bookofproofs$2316]) taken away is to the ([part][bookofproofs$2316]) taken away then the remainder to the remainder will also be as the whole (is) to the whole.
+
 * For let the whole `$AB$` be to the whole `$CD$` as the ([part][bookofproofs$2316]) taken away `$AE$` (is) to the ([part][bookofproofs$2316]) taken away `$CF$`.
 * I say that the remainder `$EB$` to the remainder `$FD$` will also be as the whole `$AB$` (is) to the whole `$CD$`.
 

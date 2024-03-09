@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 10 from Book 10 of Euclid's “Elements”)[^1]
 
 > To find two [straight lines][bookofproofs$645] [incommensurable][bookofproofs$1095] with a given [straight line][bookofproofs$645], the one [ (incommensurable) in length][bookofproofs$1095] only, the other also [ (incommensurable) in square][bookofproofs$2082].
+
 * Let `$A$` be the given [straight line][bookofproofs$645].
 * So it is required to find two [straight lines][bookofproofs$645] [incommensurable][bookofproofs$1095] with `$A$`, the one [ (incommensurable) in length][bookofproofs$1095] only, the other also [ (incommensurable) in square][bookofproofs$2082].
 ![fig010e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig010e.png?raw=true)

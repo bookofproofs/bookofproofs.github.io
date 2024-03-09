@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > An [apotome][bookofproofs$2167] is not the same as a [binomial][bookofproofs$2130].
+
 * Let `$AB$` be an [apotome][bookofproofs$2167].
 * I say that `$AB$` is not the same as a [binomial][bookofproofs$2130].
 ![fig111e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig111e.png?raw=true)

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 10 of Euclid's “Elements”)
 
 > [Incommensurable][bookofproofs$1095] magnitudes do not have to one another the [ratio][bookofproofs$1943] which (some) [number][bookofproofs$2315] (has) to (some) [number][bookofproofs$2315].
+
 * Let `$A$` and `$B$` be [incommensurable][bookofproofs$1095] magnitudes.
 * I say that `$A$` does not have to `$B$` the [ratio][bookofproofs$1943] which (some) [number][bookofproofs$2315] (has) to (some) [number][bookofproofs$2315].
 

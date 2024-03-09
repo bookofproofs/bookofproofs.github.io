@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Lemma to Proposition 16 from Book 10 of Euclid's “Elements”)
 
 > If a [parallelogram][bookofproofs$909], falling short[^1] by a [square][bookofproofs$909] figure, is applied to some [straight line][bookofproofs$645] then the applied ([parallelogram][bookofproofs$909]) is equal (in area) to the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by the pieces of the [straight line][bookofproofs$645] created via the application (of the [parallelogram][bookofproofs$909]).
+
 * For let the [parallelogram][bookofproofs$909] `$AD$`, falling short by the square figure `$DB$`, have been applied to the [straight line][bookofproofs$645] `$AB$`.
 * I say that `$AD$` is equal to the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$AC$` and `$CB$`.
 

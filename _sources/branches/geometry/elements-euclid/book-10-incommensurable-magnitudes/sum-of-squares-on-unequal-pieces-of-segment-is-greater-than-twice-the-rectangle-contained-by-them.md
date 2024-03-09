@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Lemma to Proposition 59 from Book 10 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut unequally then (the sum of) the [squares][bookofproofs$909] on the unequal (parts) is greater than twice the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the unequal (parts).
+
 * Let `$AB$` be a [straight line][bookofproofs$645], and let it have been cut unequally at `$C$`, and let `$AC$` be greater (than `$CB$`).
 * I say that (the sum of) the (squares) on `$AC$` and `$CB$` is greater than twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$AC$` and `$CB$`.
 

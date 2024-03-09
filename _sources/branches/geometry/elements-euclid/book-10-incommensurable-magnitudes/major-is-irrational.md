@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 39 from Book 10 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] (which are) [incommensurable in square][bookofproofs$2082], making the sum of the [squares][bookofproofs$909] on them [rational][bookofproofs$2083], and the ([rectangle][bookofproofs$909] contained) by them [medial][bookofproofs$2115], are added together then the whole [straight line][bookofproofs$645] is irrational - let it be called a **major** ([straight line][bookofproofs$645]).
+
 * For let the two [straight lines][bookofproofs$645], `$AB$` and `$BC$`, [incommensurable in square][bookofproofs$2082], and fulfilling the prescribed (conditions), be laid down together [[Prop. 10.33]][bookofproofs$2127].
 * I say that `$AC$` is [irrational][bookofproofs$2083].
 

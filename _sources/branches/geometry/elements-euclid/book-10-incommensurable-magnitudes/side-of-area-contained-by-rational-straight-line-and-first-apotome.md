@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 91 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [first apotome][bookofproofs$2091] then the [square root][bookofproofs$46] of the area is an [apotome][bookofproofs$2167].
+
 * For let the area `$AB$` have been contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AC$` and the [first apotome][bookofproofs$2091] `$AD$`.
 * I say that the [square root][bookofproofs$46] of area `$AB$` is an [apotome][bookofproofs$2167].
 ![fig091e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig091e.png?raw=true)

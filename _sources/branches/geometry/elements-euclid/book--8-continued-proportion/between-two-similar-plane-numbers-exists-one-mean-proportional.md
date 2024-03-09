@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 18 from Book 8 of Euclid's “Elements”)
 
 > There exists one [number][bookofproofs$2315] in [mean proportion][bookofproofs$6453] to two [similar plane numbers][bookofproofs$2329]. And (one) plane (number) has to the (other) plane (number) a squared[^1] ratio with respect to (that) a corresponding side (of the former has) to a corresponding side (of the latter).
+
 * Let `$A$` and `$B$` be two [similar plane numbers][bookofproofs$2329].
 * And let the [numbers][bookofproofs$2315] `$C$`, `$D$` be the sides of `$A$`, and `$E$`, `$F$` (the sides) of `$B$`.
 * And since similar [numbers][bookofproofs$2315] are those having [proportional][bookofproofs$2328] sides [ [Def. 7.21] ][bookofproofs$2329], thus as `$C$` is to `$D$`, so `$E$` (is) to `$F$`.

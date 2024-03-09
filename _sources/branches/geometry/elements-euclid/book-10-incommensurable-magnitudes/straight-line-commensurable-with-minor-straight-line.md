@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 105 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable (in length) ][bookofproofs$1095] with a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]) is a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
+
 * For let `$AB$` be a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]), and (let) `$CD$` (be) [commensurable (in length) ][bookofproofs$1095] with `$AB$`.
 * I say that `$CD$` is also a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
 

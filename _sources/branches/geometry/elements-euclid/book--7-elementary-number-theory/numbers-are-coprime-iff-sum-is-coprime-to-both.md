@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 28 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] are [prime to one another][bookofproofs$1288] then their sum will also be [prime to][bookofproofs$1288] each of them. And if the sum (of two [numbers][bookofproofs$2315]) is [prime to][bookofproofs$1288] any one of them then the original [numbers][bookofproofs$2315] will also be [prime to one another][bookofproofs$1288].
+
 * For let the two [numbers][bookofproofs$2315], `$AB$` and `$BC$`, (which are) [prime to one another][bookofproofs$1288], be laid down together.
 * I say that their sum `$AC$` is also [prime to][bookofproofs$1288] each of `$AB$` and `$BC$`.
 * Conversely, if `$AC$` and `$AB$` are [prime to one another][bookofproofs$1288], then `$AB$` and `$BC$` are [prime to one another][bookofproofs$1288].

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 109 from Book 10 of Euclid's “Elements”)
 
 > A [rational][bookofproofs$2083] (area) being subtracted from a [medial (area) ][bookofproofs$6462], two other [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as the [square root][bookofproofs$46] of the remaining area) - either a [first apotome][bookofproofs$2091] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), or that ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole.
+
 * For let the [rational][bookofproofs$2083] (area) `$BD$` have been subtracted from the [medial (area) ][bookofproofs$6462] `$BC$`.
 * I say that one of two [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as) the [square root][bookofproofs$46] of the remaining (area), `$EC$` - either a [first apotome][bookofproofs$2091] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), or that ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole.
 

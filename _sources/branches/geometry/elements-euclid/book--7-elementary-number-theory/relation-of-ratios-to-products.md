@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If four number are [proportional][bookofproofs$2328] then the number created from (multiplying) the first and fourth will be equal to the number created from (multiplying) the second and third. And if the number created from (multiplying) the first and fourth is equal to the (number created) from (multiplying) the second and third then the four [numbers][bookofproofs$2315] will be [proportional][bookofproofs$2328].
+
 * Let `$A$`, `$B$`, `$C$`, and `$D$` be four [proportional][bookofproofs$2328] [numbers][bookofproofs$2315], (such that) as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`.
 * And let `$A$` make `$E$` [ (by) multiplying][bookofproofs$6437] `$D$`, and let `$B$` make `$F$` [ (by) multiplying][bookofproofs$6437] `$C$`.
 * I say that `$E$` is equal to `$F$`.

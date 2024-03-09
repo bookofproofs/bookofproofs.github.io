@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 88 from Book 10 of Euclid's “Elements”)
 
 > To find a [fourth apotome][bookofproofs$2094].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$`, and `$BG$` (which is) [commensurable in length][bookofproofs$1095] with `$A$`, be laid down.
 * Thus, `$BG$` is also a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the two [numbers][bookofproofs$2315] `$DF$` and `$FE$` be laid down such that the whole, `$DE$`, does not have to each of `$DF$` and `$EF$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].

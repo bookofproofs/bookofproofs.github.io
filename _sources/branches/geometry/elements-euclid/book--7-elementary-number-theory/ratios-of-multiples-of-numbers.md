@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 18 from Book 7 of Euclid's “Elements”)
 
 > If two [numbers][bookofproofs$2315] multiplying some number make some (other [numbers][bookofproofs$2315]) then the ([numbers][bookofproofs$2315]) generated from them will have the [same ratio][bookofproofs$1945] as the multiplying ([numbers][bookofproofs$2315]).
+
 * For let the two [numbers][bookofproofs$2315] `$A$` and `$B$` make (the [numbers][bookofproofs$2315]) `$D$` and `$E$` (respectively, by) multiplying some number `$C$`.
 * I say that as `$A$` is to `$B$`, so `$D$` (is) to `$E$`.
 

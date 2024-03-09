@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 12 from Book 13 of Euclid's “Elements”)
 
 > If an [equilateral triangle][bookofproofs$688] is [inscribed in a circle][bookofproofs$1920] then the [square][bookofproofs$909] on the side of the [triangle][bookofproofs$6432] is three times the [ (square) ][bookofproofs$909] on the [radius][bookofproofs$690] of the [circle][bookofproofs$690].
+
 * Let there be a [circle][bookofproofs$690] `$ABC$`, and let the [equilateral triangle][bookofproofs$688] `$ABC$` have been inscribed in it [[Prop. 4.2]][bookofproofs$1926].
 * I say that the [square][bookofproofs$909] on one side of [triangle][bookofproofs$6432] `$ABC$` is three times the [ (square) ][bookofproofs$909] on the [radius][bookofproofs$690] of [circle][bookofproofs$690] `$ABC$`.
 

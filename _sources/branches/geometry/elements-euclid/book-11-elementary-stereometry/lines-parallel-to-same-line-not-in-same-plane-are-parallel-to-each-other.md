@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 11 of Euclid's “Elements”)
 
 > ([Straight-lines][bookofproofs$645]) [parallel][bookofproofs$788] to the same [straight line][bookofproofs$645], and which are not in the same [plane][bookofproofs$657] as it, are also [parallel][bookofproofs$788] to one another.
+
 * For let `$AB$` and `$CD$` each be [parallel][bookofproofs$788] to `$EF$`, not being in the same [plane][bookofproofs$657] as it.
 * I say that `$AB$` is [parallel][bookofproofs$788] to `$CD$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 10 of Euclid's “Elements”)
 
 > To find the greatest common measure of three given [commensurable][bookofproofs$1095] magnitudes.
+
 * Let `$A$`, `$B$`, `$C$` be the three given [commensurable][bookofproofs$1095] magnitudes.
 * So it is required to find the greatest common measure of `$A$`, `$B$`, `$C$`.
 

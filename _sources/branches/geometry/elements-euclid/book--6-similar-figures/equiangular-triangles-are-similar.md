@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 6 of Euclid's “Elements”)
 
 > In equiangular [triangles][bookofproofs$6432] the sides about the equal [angles][bookofproofs$650] are [proportional][bookofproofs$2328], and those (sides) subtending equal [angles][bookofproofs$650] correspond.
+
 * Let `$ABC$` and `$DCE$` be equiangular [triangles][bookofproofs$6432], having angle `$ABC$` equal to `$DCE$`, and (angle) `$BAC$` to `$CDE$`, and, further, (angle) `$ACB$` to `$CED$`.
 * I say that in [triangles][bookofproofs$6432] `$ABC$` and `$DCE$` the sides about the equal [angles][bookofproofs$650] are [proportional][bookofproofs$2328], and those (sides) subtending equal [angles][bookofproofs$650] correspond.
 

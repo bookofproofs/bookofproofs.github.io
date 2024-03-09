@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 11 from Book 5 of Euclid's “Elements”)
 
 > ([Ratios][bookofproofs$1943] which are) the same with the [same ratio][bookofproofs$1945] are also the same with one another.
+
 * For let it be that as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`, and as `$C$` (is) to `$D$`, so `$E$` (is) to `$F$`.
 * I say that as `$A$` is to `$B$`, so `$E$` (is) to `$F$`.
 

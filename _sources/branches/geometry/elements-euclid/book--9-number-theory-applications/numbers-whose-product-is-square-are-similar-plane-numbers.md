@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [numbers][bookofproofs$2315] make a [square][bookofproofs$2326] (number by) [multiplying one another][bookofproofs$6437] then they are [similar plane numbers][bookofproofs$2329].
+
 * Let `$A$` and `$B$` be two [numbers][bookofproofs$2315], and let `$A$` make the [square (number) ][bookofproofs$2326] `$C$` [ (by) multiplying][bookofproofs$6437] `$B$`.
 * I say that `$A$` and `$B$` are [similar plane numbers][bookofproofs$2329].
 ![fig02e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book09/fig02e.png?raw=true)

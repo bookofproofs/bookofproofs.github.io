@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 38 from Book 10 of Euclid's “Elements”)
 
 > If two [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), [commensurable in square][bookofproofs$2082] only, which contain a [medial (area) ][bookofproofs$6462], are added together then the whole ([straight line][bookofproofs$645]) is [irrational][bookofproofs$2083] - let it be called a **second bimedial** ([straight line][bookofproofs$645]).[^1]
+
 * For let the two [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), `$AB$` and `$BC$`, [commensurable in square][bookofproofs$2082] only, (and) containing a [medial (area) ][bookofproofs$6462], be laid down together [[Prop. 10.28]][bookofproofs$2122].
 * I say that `$AC$` is [irrational][bookofproofs$2083].
 

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 26 from Book 1 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432] have two [angles][bookofproofs$650] equal to two [angles][bookofproofs$650], respectively, and one side equal to one side - in fact, either that by the equal [angles][bookofproofs$650], or that subtending one of the equal [angles][bookofproofs$650] - then (the [triangles][bookofproofs$6432]) will also have the remaining sides equal to the [corresponding] remaining sides, and the remaining angle (equal) to the remaining angle.
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having the two [angles][bookofproofs$650] `$ABC$` and `$BCA$` equal to the two ([angles][bookofproofs$650]) `$DEF$` and `$EFD$`, respectively. (That is) `$ABC$` (equal) to `$DEF$`, and `$BCA$` to `$EFD$`.
 * And let them also have one side equal to one side.
 * First of all, the (side) by the equal [angles][bookofproofs$650]. (That is) `$BC$` (equal) to `$EF$`.

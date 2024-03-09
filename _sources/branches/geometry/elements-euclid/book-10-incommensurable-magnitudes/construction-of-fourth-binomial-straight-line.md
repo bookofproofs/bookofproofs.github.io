@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 51 from Book 10 of Euclid's “Elements”)
 
 > To find a [fourth binomial][bookofproofs$2088] ([straight line][bookofproofs$645]).
+
 * Let the two [numbers][bookofproofs$2315] `$AC$` and `$CB$` be laid down such that `$AB$` does not have to `$BC$`, or to `$AC$` either, the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326] [ [Prop. 10.28 lem. I] ][bookofproofs$6474].
 * And let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$D$` be laid down.
 * And let `$EF$` be [commensurable in length][bookofproofs$1095] with `$D$`.

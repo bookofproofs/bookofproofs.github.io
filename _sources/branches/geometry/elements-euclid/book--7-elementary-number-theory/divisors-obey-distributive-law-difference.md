@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 7 of Euclid's “Elements”)
 
 > If a number is that [part][bookofproofs$703] of a number that a ([part][bookofproofs$703]) taken away (is) of a ([part][bookofproofs$703]) taken away then the remainder will also be the same [part][bookofproofs$703] of the remainder that the whole (is) of the whole.
+
 * For let a number `$AB$` be that [part][bookofproofs$703] of a number `$CD$` that a ([part][bookofproofs$703]) taken away `$AE$` (is) of a [part][bookofproofs$703] taken away `$CF$`.
 * I say that the remainder `$EB$` is also the same [part][bookofproofs$703] of the remainder `$FD$` that the whole `$AB$` (is) of the whole `$CD$`.
 

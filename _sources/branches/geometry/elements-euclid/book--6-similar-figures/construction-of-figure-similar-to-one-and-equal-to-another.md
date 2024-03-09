@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 25 from Book 6 of Euclid's “Elements”)
 
 > To construct a single ([rectilinear figure][bookofproofs$687]) [similar][bookofproofs$1983] to a given [rectilinear figure][bookofproofs$687], and equal to a different given [rectilinear figure][bookofproofs$687].
+
 * Let `$ABC$` be the given [rectilinear figure][bookofproofs$687] to which it is required to construct a [similar][bookofproofs$1983] ([rectilinear figure][bookofproofs$687]), and `$D$` the ([rectilinear figure][bookofproofs$687]) to which (the constructed figure) is required (to be) equal.
 * So it is required to construct a single ([rectilinear figure][bookofproofs$687]) [similar][bookofproofs$1983] to `$ABC$`, and equal to `$D$`.
 

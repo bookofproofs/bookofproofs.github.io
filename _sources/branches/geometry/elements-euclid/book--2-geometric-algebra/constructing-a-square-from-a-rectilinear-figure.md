@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 14 from Book 2 of Euclid's “Elements”)
 
 > To construct a [square][bookofproofs$909] equal to a given [rectilinear figure][bookofproofs$687].
+
 * Let `$A$` be the given [rectilinear figure][bookofproofs$687].
 * So it is required to construct a [square][bookofproofs$909] equal to the [rectilinear figure][bookofproofs$687] `$A$`.
 

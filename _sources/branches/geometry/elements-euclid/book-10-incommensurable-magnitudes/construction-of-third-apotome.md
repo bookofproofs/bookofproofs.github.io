@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 87 from Book 10 of Euclid's “Elements”)
 
 > To find a [third apotome][bookofproofs$2093].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$` be laid down.
 * And let the three [numbers][bookofproofs$2315], `$E$`, `$BC$`, and `$CD$`, not having to one another the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326], be laid down.
 * And let `$CB$` have to `$BD$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].

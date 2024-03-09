@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 38 from Book 1 of Euclid's “Elements”)
 
 > [Triangles][bookofproofs$6432] which are on equal bases and between the same [parallels][bookofproofs$788] are equal to one another.
+
 * Let `$ABC$` and `$DEF$` be [triangles][bookofproofs$6432] on the equal bases `$BC$` and `$EF$`, and between the same [parallels][bookofproofs$788] `$BF$` and `$AD$`.
 * I say that triangle `$ABC$` is equal to triangle `$DEF$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 11 from Book 13 of Euclid's “Elements”)
 
 > If an equilateral [pentagon][bookofproofs$6447] is [inscribed in a circle][bookofproofs$1920] which has a [rational][bookofproofs$2083] [diameter][bookofproofs$6429] then the side of the [pentagon][bookofproofs$6447] is that [irrational][bookofproofs$2083] ([straight line][bookofproofs$645]) called [minor][bookofproofs$2170].
+
 * For let the equilateral [pentagon][bookofproofs$6447] `$ABCDE$` have been [inscribed in the circle][bookofproofs$1920] `$ABCDE$` which has a [rational][bookofproofs$2083] [diameter][bookofproofs$6429].
 * I say that the side of [pentagon][bookofproofs$6447] [$ABCDE$] is that [irrational][bookofproofs$2083] ([straight line][bookofproofs$645]) called [minor][bookofproofs$2170].
 ![fig11e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book13/fig11e.png?raw=true)

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of odd [numbers][bookofproofs$2315] is added together, and the multitude of them is even, then the whole will be even.
+
 * For let any even multitude whatsoever of odd [numbers][bookofproofs$2315], `$AB$`, `$BC$`, `$CD$`, `$DE$`, lie together.
 * I say that the whole, `$AE$`, is even.
 

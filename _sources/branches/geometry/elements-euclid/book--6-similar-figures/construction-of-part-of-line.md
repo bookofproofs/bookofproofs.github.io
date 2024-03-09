@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 6 of Euclid's “Elements”)
 
 > To cut off a prescribed part from a given [straight line][bookofproofs$645].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645].
 * So it is required to cut off a prescribed part from `$AB$`.
 

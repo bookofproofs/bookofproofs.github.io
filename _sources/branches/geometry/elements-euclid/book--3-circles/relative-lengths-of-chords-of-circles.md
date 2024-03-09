@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], a [diameter][bookofproofs$6429] (is) the greatest ([straight line][bookofproofs$645]), and for the others, a ([straight line][bookofproofs$645]) nearer to the [center][bookofproofs$6428] is always greater than one further away.
+
 * Let `$ABCD$` be a [circle][bookofproofs$690], and let `$AD$` be its [diameter][bookofproofs$6429], and `$E$` (its) [center][bookofproofs$6428].
 * And let `$BC$` be nearer to the [diameter][bookofproofs$6429] `$AD$`,[^1] and `$FG$` further away.
 * I say that `$AD$` is the greatest ([straight line][bookofproofs$645]), and `$BC$` (is) greater than `$FG$`.

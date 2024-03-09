@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 18 from Book 6 of Euclid's “Elements”)
 
 > To describe a [rectilinear figure][bookofproofs$687] [similar][bookofproofs$1983], and similarly laid down, to a given [rectilinear figure][bookofproofs$687] on a given [straight line][bookofproofs$645].
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], and `$CE$` the given [rectilinear figure][bookofproofs$687].
 * So it is required to describe a [rectilinear figure][bookofproofs$687] [similar][bookofproofs$1983], and similarly laid down, to the rectilinear figure `$CE$` on the [straight line][bookofproofs$645] `$AB$`.
 

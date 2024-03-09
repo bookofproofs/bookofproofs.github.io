@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 13 of Euclid's “Elements”)
 
 > If the side of a [hexagon][bookofproofs$6448] and of a [decagon][bookofproofs$6571] inscribed in the same [circle][bookofproofs$690] are added together then the whole [straight line][bookofproofs$645] has been cut [in extreme and mean ratio][bookofproofs$1985] (at the junction [point][bookofproofs$631]), and its greater piece is the side of the [hexagon][bookofproofs$6448].
+
 * Let `$ABC$` be a [circle][bookofproofs$690].
 * And of the figures [inscribed in circle][bookofproofs$1920] `$ABC$`, let `$BC$` be the side of a [decagon][bookofproofs$6571], and `$CD$` (the side) of a [hexagon][bookofproofs$6448].
 * And let them be (laid down) [straight-on][bookofproofs$649] (to one another).

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 6 of Euclid's “Elements”)
 
 > To apply a [parallelogram][bookofproofs$909], equal to a given [rectilinear figure][bookofproofs$687], to a given [straight line][bookofproofs$645], (the applied [parallelogram][bookofproofs$909]) falling short by a [parallelogrammic][bookofproofs$909] figure [similar][bookofproofs$1983] to a given ([parallelogram][bookofproofs$909]). It is necessary for the given [rectilinear figure][bookofproofs$687] [to which it is required to apply an equal ([parallelogram][bookofproofs$909])] not to be greater than the ([parallelogram][bookofproofs$909]) described on half (of the [straight line][bookofproofs$645]) and [similar][bookofproofs$1983] to the deficit.
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], and `$C$` the given [rectilinear figure][bookofproofs$687] to which the ([parallelogram][bookofproofs$909]) applied to `$AB$` is required (to be) equal, [being] not greater than the ([parallelogram][bookofproofs$909]) described on half of `$AB$` and [similar][bookofproofs$1983] to the deficit, and `$D$` the ([parallelogram][bookofproofs$909]) to which the deficit is required (to be) [similar][bookofproofs$1983].
 * So it is required to apply a [parallelogram][bookofproofs$909], equal to the given [rectilinear figure][bookofproofs$687] `$C$`, to the [straight line][bookofproofs$645] `$AB$`, falling short by a [parallelogrammic][bookofproofs$909] figure which is [similar][bookofproofs$1983] to `$D$`.
 

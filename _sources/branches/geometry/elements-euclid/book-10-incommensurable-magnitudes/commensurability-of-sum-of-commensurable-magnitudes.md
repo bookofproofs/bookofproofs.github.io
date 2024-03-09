@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 15 from Book 10 of Euclid's “Elements”)
 
 > If two [commensurable][bookofproofs$1095] magnitudes are added together then the whole will also be [commensurable][bookofproofs$1095] with each of them. And if the whole is [commensurable][bookofproofs$1095] with one of them then the original magnitudes will also be [commensurable][bookofproofs$1095] (with one another).
+
 * For let the two [commensurable][bookofproofs$1095] magnitudes `$AB$` and `$BC$` be laid down together.
 * I say that the whole `$AC$` is also [commensurable][bookofproofs$1095] with each of `$AB$` and `$BC$`.
 * And so let `$AC$` be [commensurable][bookofproofs$1095] with `$AB$`.

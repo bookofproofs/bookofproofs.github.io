@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is set out continuously in a double proportion, (starting) from a [unit][bookofproofs$2314], until the whole sum added together becomes prime, and the sum multiplied into the last (number) makes some (number), then the (number so) created will be [perfect][bookofproofs$2330].
+
 * For let any multitude of [numbers][bookofproofs$2315], `$A$`, `$B$`, `$C$`, `$D$`, be set out (continuouly) in a double proportion, until the whole sum added together is made prime.
 
 

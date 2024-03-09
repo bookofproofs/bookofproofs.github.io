@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] an [equilateral and equiangular pentagon][bookofproofs$6447] in a given [circle][bookofproofs$690].
+
 * Let `$ABCDE$` be the given [circle][bookofproofs$690].
 * So it is required to [inscribe][bookofproofs$1920] an [equilateral and equiangular pentagon][bookofproofs$6447] in [circle][bookofproofs$690] `$ABCDE$`.
 

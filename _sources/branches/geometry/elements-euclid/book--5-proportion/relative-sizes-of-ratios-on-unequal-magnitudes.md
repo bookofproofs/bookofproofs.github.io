@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 5 of Euclid's “Elements”)
 
 > For unequal magnitudes, the greater (magnitude) has a [greater ratio][bookofproofs$1946] than the lesser to the same (magnitude). And the latter (magnitude) has a [greater ratio][bookofproofs$1946] to the lesser (magnitude) than to the greater.
+
 * Let `$AB$` and `$C$` be unequal magnitudes, and let `$AB$` be the greater (of the two), and `$D$` another random magnitude.
 * I say that `$AB$` has a [greater ratio][bookofproofs$1946] to `$D$` than `$C$` (has) to `$D$`, and (that) `$D$` has a [greater ratio][bookofproofs$1946] to `$C$` than (it has) to `$AB$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > Every [cone][bookofproofs$2227] is the third part of the [cylinder][bookofproofs$2230] which has the same base as it, and an equal [height][bookofproofs$1986].
+
 * For let there be a [cone][bookofproofs$2227] (with) the same base as a [cylinder][bookofproofs$2230], (namely) the [circle][bookofproofs$690] `$ABCD$`, and an equal [height][bookofproofs$1986].
 * I say that the [cone][bookofproofs$2227] is the third part of the [cylinder][bookofproofs$2230] - that is to say, that the [cylinder][bookofproofs$2230] is three times the [cone][bookofproofs$2227].
 

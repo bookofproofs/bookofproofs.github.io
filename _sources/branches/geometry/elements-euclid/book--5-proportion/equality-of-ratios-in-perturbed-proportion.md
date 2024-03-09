@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 23 from Book 5 of Euclid's “Elements”)
 
 > If there are three magnitudes, and others of equal number to them, (being) in the [same ratio][bookofproofs$1945] taken two by two, and (if) their proportion is [perturbed][bookofproofs$1957], then they will also be in the same [ratio via equality][bookofproofs$1956].
+
 * Let `$A$`, `$B$`, and `$C$` be three magnitudes, and `$D$`, `$E$` and `$F$` other (magnitudes) of equal number to them, (being) in the [same ratio][bookofproofs$1945] taken two by two.
 * And let their proportion be [perturbed][bookofproofs$1957], (so that) as `$A$` (is) to `$B$`, so `$E$` (is) to `$F$`, and as `$B$` (is) to `$C$`, so `$D$` (is) to `$E$`.
 * I say that as `$A$` is to `$C$`, so `$D$` (is) to `$F$`.

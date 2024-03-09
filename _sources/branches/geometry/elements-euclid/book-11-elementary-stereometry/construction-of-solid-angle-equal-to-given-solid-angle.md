@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To construct a [solid angle][bookofproofs$2220] equal to a given [solid angle][bookofproofs$2220] on a given [straight line][bookofproofs$645], and at a given [point][bookofproofs$631] on it.
+
 * Let `$AB$` be the given [straight line][bookofproofs$645], and `$A$` the given [point][bookofproofs$631] on it, and `$D$` the given [solid angle][bookofproofs$2220], contained by the [rectilinear angles][bookofproofs$650] `$EDC$`, `$EDF$`, and `$FDC$`.
 * So, it is necessary to construct a [solid angle][bookofproofs$2220] equal to the [solid angle][bookofproofs$2220] `$D$` on the [straight line][bookofproofs$645] `$AB$`, and at the [point][bookofproofs$631] `$A$` on it.
 

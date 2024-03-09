@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If an [odd (number) ][bookofproofs$2318] is subtracted from an [odd number][bookofproofs$2318] then the remainder will be even.
+
 * For let the [odd (number) ][bookofproofs$2318] `$BC$` have been subtracted from the [odd (number) ][bookofproofs$2318] `$AB$`.
 * I say that the remainder `$CA$` is even.
 

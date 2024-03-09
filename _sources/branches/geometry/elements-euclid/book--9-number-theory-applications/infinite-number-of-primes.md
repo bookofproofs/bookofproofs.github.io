@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 20 from Book 9 of Euclid's “Elements”)
 
 > The (set of all) [prime numbers][bookofproofs$704] is more numerous than any assigned multitude of [prime numbers][bookofproofs$704].
+
 * Let `$A$`, `$B$`, `$C$` be the assigned [prime numbers][bookofproofs$704].
 * I say that the (set of all) [prime numbers][bookofproofs$704] is more numerous than `$A$`, `$B$`, `$C$`.
 

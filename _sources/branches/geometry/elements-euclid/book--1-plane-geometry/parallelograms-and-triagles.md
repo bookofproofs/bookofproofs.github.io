@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 41 from Book 1 of Euclid's “Elements”)
 
 > If a [parallelogram][bookofproofs$909] has the same base as a [triangle][bookofproofs$6432], and is between the same [parallels][bookofproofs$788], then the [parallelogram][bookofproofs$909] is double (the area) of the triangle.
+
 * For let [parallelogram][bookofproofs$909] `$ABCD$` have the same base `$BC$` as triangle `$EBC$`, and let it be between the same [parallels][bookofproofs$788], `$BC$` and `$AE$`.
 * I say that [parallelogram][bookofproofs$909] `$ABCD$` is double (the area) of triangle `$BEC$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 23 from Book 8 of Euclid's “Elements”)
 
 > If four [numbers][bookofproofs$2315] are in [continued proportion][bookofproofs$6552], and the first is [cube][bookofproofs$2327], then the fourth will also be [cube][bookofproofs$2327].
+
 * Let `$A$`, `$B$`, `$C$`, `$D$` be four [numbers in continued proportion][bookofproofs$6552], and let `$A$` be [cube][bookofproofs$2327].
 * I say that `$D$` is also [cube][bookofproofs$2327].
 

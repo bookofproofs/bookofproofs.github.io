@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 1 from Book 9 of Euclid's “Elements”)
 
 > If two [similar plane numbers][bookofproofs$2329] make some (number by) [multiplying one another][bookofproofs$6437] then the created (number) will be [square][bookofproofs$2326].
+
 * Let `$A$` and `$B$` be two [similar plane numbers][bookofproofs$2329], and let `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] `$B$`.
 * I say that `$C$` is [square][bookofproofs$2326].
 ![fig01e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book09/fig01e.png?raw=true)

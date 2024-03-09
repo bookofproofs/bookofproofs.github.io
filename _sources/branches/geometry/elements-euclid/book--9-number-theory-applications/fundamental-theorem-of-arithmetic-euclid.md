@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 9 of Euclid's “Elements”)
 
 > If a least number is measured by (some) [prime numbers][bookofproofs$704] then it will not be measured by any other [prime number][bookofproofs$704] except (one of) the original measuring ([numbers][bookofproofs$2315]).
+
 * For let `$A$` be the least number measured by the [prime numbers][bookofproofs$704] `$B$`, `$C$`, `$D$`.
 * I say that `$A$` will not be measured by any other [prime number][bookofproofs$704] except (one of) `$B$`, `$C$`, `$D$`.
 

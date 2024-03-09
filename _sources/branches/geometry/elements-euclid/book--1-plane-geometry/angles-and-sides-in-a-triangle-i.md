@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 18 from Book 1 of Euclid's “Elements”)
 
 > In any [triangle][bookofproofs$6432], the greater side subtends the greater angle.
+
 * For let `$ABC$` be a [triangle][bookofproofs$6432] having side `$AC$` greater than `$AB$`.
 * I say that angle `$ABC$` is also greater than `$BCA$`.
 

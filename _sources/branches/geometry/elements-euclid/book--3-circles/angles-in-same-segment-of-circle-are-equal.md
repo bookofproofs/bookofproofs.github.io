@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 21 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], [angles][bookofproofs$650] in the same [segment][bookofproofs$1852] are equal to one another.
+
 * Let `$ABCD$` be a [circle][bookofproofs$690], and let `$BAD$` and `$BED$` be [angles][bookofproofs$650] in the same [segment][bookofproofs$1852] `$BAED$`.
 * I say that [angles][bookofproofs$650] `$BAD$` and `$BED$` are equal to one another.
 

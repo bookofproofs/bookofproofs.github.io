@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 108 from Book 10 of Euclid's “Elements”)
 
 > A [medial (area) ][bookofproofs$6462] being subtracted from a [rational][bookofproofs$2083] (area), one of two [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as) the [square root][bookofproofs$46] of the remaining area - either an [apotome][bookofproofs$2167], or a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
+
 * For let the [medial (area) ][bookofproofs$6462] `$BD$` have been subtracted from the [rational][bookofproofs$2083] (area) `$BC$`.
 * I say that one of two [irrational][bookofproofs$2083] ([straight lines][bookofproofs$645]) arise (as) the [square root][bookofproofs$46] of the remaining (area), `$EC$` - either an [apotome][bookofproofs$2167], or a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
 

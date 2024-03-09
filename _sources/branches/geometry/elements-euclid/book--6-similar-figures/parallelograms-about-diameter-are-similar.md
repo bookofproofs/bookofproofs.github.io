@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 24 from Book 6 of Euclid's “Elements”)
 
 > In any [parallelogram][bookofproofs$909] the [parallelograms][bookofproofs$909] about the diagonal are [similar][bookofproofs$1983] to the whole, and to one another.
+
 * Let `$ABCD$` be a [parallelogram][bookofproofs$909], and `$AC$` its diagonal.
 * And let `$EG$` and `$HK$` be [parallelograms][bookofproofs$909] about `$AC$`.
 * I say that the [parallelograms][bookofproofs$909] `$EG$` and `$HK$` are each [similar][bookofproofs$1983] to the whole ([parallelogram][bookofproofs$909]) `$ABCD$`, and to one another.

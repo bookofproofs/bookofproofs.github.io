@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 7 of Euclid's “Elements”)
 
 > If there are any multitude of [numbers][bookofproofs$2315] whatsoever, and (some) other ([numbers][bookofproofs$2315]) of equal multitude to them, (which are) also in the [same ratio][bookofproofs$1945] taken two by two, then they will also be in the same [ratio via equality][bookofproofs$1956].
+
 * Let there be any multitude of [numbers][bookofproofs$2315] whatsoever, `$A$`, `$B$`, `$C$`, and (some) other ([numbers][bookofproofs$2315]), `$D$`, `$E$`, `$F$`, of equal multitude to them, (which are) in the [same ratio][bookofproofs$1945] taken two by two, (such that) as `$A$` (is) to `$B$`, so `$D$` (is) to `$E$`, and as `$B$` (is) to `$C$`, so `$E$` (is) to `$F$`.
 * I say that also, [via equality][bookofproofs$1956], as `$A$` is to `$C$`, so `$D$` (is) to `$F$`.
 

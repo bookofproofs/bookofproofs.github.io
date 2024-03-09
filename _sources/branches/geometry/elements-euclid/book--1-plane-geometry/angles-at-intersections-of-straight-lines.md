@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 13 from Book 1 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] stood on a(nother)  [straight line][bookofproofs$645] makes [angles][bookofproofs$650], it will certainly either make two [right angles][bookofproofs$653], or [angles][bookofproofs$650] whose sum is) equal to two [right angles][bookofproofs$653].
+
 * For let some [straight line][bookofproofs$645] `$AB$` stood on the [straight line][bookofproofs$645] `$CD$` make the [angles][bookofproofs$650] `$CBA$` and `$ABD$`.
 * I say that the [angles][bookofproofs$650] `$CBA$` and `$ABD$` are certainly either two [right angles][bookofproofs$653], or (have a sum) equal to two [right angles][bookofproofs$653].
 

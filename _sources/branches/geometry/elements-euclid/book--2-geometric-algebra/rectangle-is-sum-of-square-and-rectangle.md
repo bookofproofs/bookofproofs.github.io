@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut at random then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the whole ([straight line][bookofproofs$645]), and one of the pieces (of the [straight line][bookofproofs$645]), is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by (both of) the pieces, and the [square][bookofproofs$909] on the aforementioned piece.
+
 * For let the [straight line][bookofproofs$645] `$AB$` have been cut, at random, at ([point][bookofproofs$631]) `$C$`.
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AB$` and `$BC$` is equal to the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AC$` and `$CB$`, plus the [square][bookofproofs$909] on `$BC$`.
 

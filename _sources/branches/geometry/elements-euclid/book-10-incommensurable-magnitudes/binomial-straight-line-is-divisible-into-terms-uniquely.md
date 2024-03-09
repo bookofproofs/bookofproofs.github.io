@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > A [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) can be divided into its (component) terms at one [point][bookofproofs$631] only.
+
 * Let `$AB$` be a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) which has been divided into its (component) terms at `$C$`.
 * `$AC$` and `$CB$` are thus [rational][bookofproofs$2083] ([straight lines][bookofproofs$645] which are) [commensurable in square][bookofproofs$2082] only [[Prop. 10.36]][bookofproofs$2130].
 * I say that `$AB$` cannot be divided at another [point][bookofproofs$631] into two [rational][bookofproofs$2083] ([straight lines][bookofproofs$645] which are) [commensurable in square][bookofproofs$2082] only.

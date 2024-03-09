@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 8 from Book 1 of Euclid's “Elements”)
 
 > If two triangles have  two sides equal to two sides, respectively,  and also have the base equal to the base, then they will also have equal the [angles][bookofproofs$650] encompassed by the equal [straight lines][bookofproofs$645].
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having the two sides `$AB$` and `$AC$` equal to the two sides `$DE$` and `$DF$`, respectively. (That is) `$AB$` to `$DE$`, and `$AC$` to `$DF$`.
 * Let them also have the base `$BC$` equal to the base `$EF$`.
 * I say that the angle `$BAC$` is also equal to the angle `$EDF$`.

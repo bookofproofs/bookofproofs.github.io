@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 7 of Euclid's “Elements”)
 
 > If a number is [part][bookofproofs$703] of a number, and another (number) is the same [part][bookofproofs$703] of another, then the sum (of the leading [numbers][bookofproofs$2315]) will also be the same [part][bookofproofs$703] of the sum (of the following [numbers][bookofproofs$2315]) that one (number) is of another.
+
 * For let a number `$A$` be [part][bookofproofs$703] of a [number] `$BC$`, and another (number) `$D$` (be) the same [part][bookofproofs$703] of another (number) `$EF$` that `$A$` (is) of `$BC$`.
 * I say that the sum `$A$`, `$D$` is also the same [part][bookofproofs$703] of the sum `$BC$`, `$EF$` that `$A$` (is) of `$BC$`.
 

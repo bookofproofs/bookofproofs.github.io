@@ -17,6 +17,7 @@ contributors: bookofproofs
 ### (Proposition 35 from Book 9 of Euclid's “Elements”)
 
 > If there is any multitude whatsoever of [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552], and ([numbers][bookofproofs$2315]) equal to the first are subtracted from (both) the second and the last, then as the excess of the second (number is) to the first, so the excess of the last will be to (the sum of) all those ([numbers][bookofproofs$2315]) before it.
+
 * Let `$A$`, `$BC$`, `$D$`, `$EF$` be any multitude whatsoever of [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552], beginning from the least `$A$`.
 * And let `$BG$` and `$FH$`, each equal to `$A$`, have been subtracted from `$BC$` and `$EF$` (respectively).
 * I say that as `$GC$` is to `$A$`, so `$EH$` is to `$A$`, `$BC$`, `$D$`.

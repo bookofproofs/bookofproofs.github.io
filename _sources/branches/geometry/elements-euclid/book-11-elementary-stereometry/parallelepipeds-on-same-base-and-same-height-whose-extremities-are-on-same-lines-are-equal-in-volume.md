@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 29 from Book 11 of Euclid's “Elements”)
 
 > [Parallelepiped solids][bookofproofs$2222] which are on the same base, and (have) the same [height][bookofproofs$1986], and in which the (ends of the [straight lines][bookofproofs$645]) standing up __are on the same__ [straight lines][bookofproofs$645], are equal to one another.
+
 * For let the [parallelepiped solids][bookofproofs$2222] `$CM$` and `$CN$` be on the same base `$AB$`, and (have) the same [height][bookofproofs$1986], and let the (ends of the [straight lines][bookofproofs$645]) standing up in them, `$AG$`, `$AF$`, `$LM$`, `$LN$`, `$CD$`, `$CE$`, `$BH$`, and `$BK$`, be on the same [straight lines][bookofproofs$645], `$FN$` and `$DK$`.
 * I say that [solid][bookofproofs$2210] `$CM$` is equal to [solid][bookofproofs$2210] `$CN$`.
 

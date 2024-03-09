@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 6 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432] have one angle equal to one angle, and the sides about other [angles][bookofproofs$650] [proportional][bookofproofs$2328], and the remaining [angles][bookofproofs$650] either both less than, or both not less than, [right angles][bookofproofs$653], then the [triangles][bookofproofs$6432] will be equiangular, and will have the [angles][bookofproofs$650] about which the sides are [proportional][bookofproofs$2328] equal.
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having one angle, `$BAC$`, equal to one angle, `$EDF$` (respectively), and the sides about (some) other [angles][bookofproofs$650], `$ABC$` and `$DEF$` (respectively), [proportional][bookofproofs$2328], (so that) as `$AB$` (is) to `$BC$`, so `$DE$` (is) to `$EF$`, and the remaining ([angles][bookofproofs$650]) at `$C$` and `$F$`, both less (or not less) than [right angles][bookofproofs$653].
 * I say that triangle `$ABC$` is equiangular to triangle `$DEF$`, and (that) angle `$ABC$` will be equal to `$DEF$`, and (that) the remaining [ (angle) ][bookofproofs$650] at `$C$` (will be) manifestly equal to the remaining [ (angle) ][bookofproofs$650] at `$F$`.
 

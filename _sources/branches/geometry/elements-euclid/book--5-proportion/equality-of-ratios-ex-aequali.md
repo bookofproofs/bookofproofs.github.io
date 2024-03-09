@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 5 of Euclid's “Elements”)
 
 > If there are any number of magnitudes whatsoever, and (some) other (magnitudes) of equal number to them, (which are) also in the [same ratio][bookofproofs$1945] taken two by two, then they will also be in the same [ratio via equality][bookofproofs$1956].
+
 * Let there be any number of magnitudes whatsoever, `$A$`, `$B$`, `$C$`, and (some) other (magnitudes), `$D$`, `$E$`, `$F$`, of equal number to them, (which are) in the [same ratio][bookofproofs$1945] taken two by two, (so that) as `$A$` (is) to `$B$`, so `$D$` (is) to `$E$`, and as `$B$` (is) to `$C$`, so `$E$` (is) to `$F$`.
 * I say that they will also be in the same [ratio via equality][bookofproofs$1956].
 * (That is, as `$A$` is to `$C$`, so `$D$` is to `$F$`.)

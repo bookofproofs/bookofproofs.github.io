@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 9 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut into equal and unequal (pieces) then the (sum of the) [squares][bookofproofs$909] on the unequal pieces of the whole ([straight line][bookofproofs$645]) is double the (sum of the) [square][bookofproofs$909] on half (the [straight line][bookofproofs$645]) and (the square) on the (difference) between the (equal and unequal) pieces.
+
 * For let any [straight line][bookofproofs$645] `$AB$` have been cut - equally at `$C$`, and unequally at `$D$`.
 * I say that the (sum of the) [squares][bookofproofs$909] on `$AD$` and `$DB$` is double the (sum of the [squares][bookofproofs$909]) on `$AC$` and `$CD$`.
 

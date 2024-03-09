@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 27 from Book 1 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] falling across two [straight lines][bookofproofs$645] makes the alternate [angles][bookofproofs$650] equal to one another then the (two) [straight lines][bookofproofs$645] will be [parallel][bookofproofs$788] to one another.
+
 * For let the [straight line][bookofproofs$645] `$EF$`, falling across the two [straight lines][bookofproofs$645] `$AB$` and `$CD$`, make the alternate [angles][bookofproofs$650] `$AEF$` and `$EFD$` equal to one another.
 * I say that `$AB$` and `$CD$` are [parallel][bookofproofs$788].
 

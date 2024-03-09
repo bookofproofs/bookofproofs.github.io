@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Circles][bookofproofs$690] are to one another as the [squares][bookofproofs$909] on (their) [diameters][bookofproofs$6429].
+
 * Let `$ABCD$` and `$EFGH$` be [circles][bookofproofs$690], and [let] `$BD$` and `$FH$` [be] their [diameters][bookofproofs$6429].
 * I say that as [circle][bookofproofs$690] `$ABCD$` is to [circle][bookofproofs$690] `$EFGH$`, so the [square][bookofproofs$909] on `$BD$` (is) to the [square][bookofproofs$909] on `$FH$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 85 from Book 10 of Euclid's “Elements”)
 
 > To find a [first apotome][bookofproofs$2091].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$` be laid down.
 * And let `$BG$` be [commensurable in length][bookofproofs$1095] with `$A$`.
 * `$BG$` is thus also a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).

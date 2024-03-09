@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 10 of Euclid's “Elements”)
 
 > To find the greatest common measure of two given [commensurable][bookofproofs$1095] magnitudes.
+
 * Let `$AB$` and `$CD$` be the two given magnitudes, of which (let) `$AB$` (be) the lesser.
 * So, it is required to find the greatest common measure of `$AB$` and `$CD$`.
 

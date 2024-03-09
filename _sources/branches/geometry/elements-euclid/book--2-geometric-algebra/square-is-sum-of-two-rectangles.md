@@ -19,6 +19,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut at random then the (sum of the) [rectangle(s) ][bookofproofs$909] [contained][bookofproofs$1014] by the whole ([straight line][bookofproofs$645]), and each of the pieces (of the [straight line][bookofproofs$645]), is equal to the [square][bookofproofs$909] on the whole.
+
 * For let the [straight line][bookofproofs$645] `$AB$` have been cut, at random, at [point][bookofproofs$631] `$C$`.
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$AB$` and `$BC$`, plus the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$BA$` and `$AC$`, is equal to the [square][bookofproofs$909] on `$AB$`.
 

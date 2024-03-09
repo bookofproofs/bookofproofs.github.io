@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] an equilateral and equiangular [hexagon][bookofproofs$6448] in a given [circle][bookofproofs$690].
+
 * Let `$ABCDEF$` be the given [circle][bookofproofs$690].
 * So it is required to inscribe an equilateral and equiangular [hexagon][bookofproofs$6448] in [circle][bookofproofs$690] `$ABCDEF$`.
 

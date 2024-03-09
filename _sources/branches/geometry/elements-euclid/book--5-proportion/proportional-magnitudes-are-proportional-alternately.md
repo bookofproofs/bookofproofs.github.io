@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 16 from Book 5 of Euclid's “Elements”)
 
 > If four magnitudes are [proportional][bookofproofs$6442] then they will also be [proportional][bookofproofs$6442] alternately.
+
 * Let `$A$`, `$B$`, `$C$` and `$D$` be four [proportional][bookofproofs$6442] magnitudes, (such that) as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`.
 * I say that they will also be [[proportional][bookofproofs$6442]] alternately, (so that) as `$A$` (is) to `$C$`, so `$B$` (is) to `$D$`.
 

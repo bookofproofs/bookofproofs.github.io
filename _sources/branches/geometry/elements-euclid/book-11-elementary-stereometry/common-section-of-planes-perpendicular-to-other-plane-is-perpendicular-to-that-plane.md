@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If two [planes][bookofproofs$647] cutting one another are at [right angles to some plane][bookofproofs$2212] then their common section will also be at [right angles][bookofproofs$653] to the same [plane][bookofproofs$657].
+
 * For let the two [planes][bookofproofs$647] `$AB$` and `$BC$` be at [right angles][bookofproofs$653] to a reference [plane][bookofproofs$647], and let their common section be `$BD$`.
 * I say that `$BD$` is at "right angles to the reference [plane][bookofproofs$647]":[bookofproofs$2212].
 

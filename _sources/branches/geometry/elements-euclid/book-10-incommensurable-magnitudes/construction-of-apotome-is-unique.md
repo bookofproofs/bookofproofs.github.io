@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 79 from Book 10 of Euclid's “Elements”)
 
 > (Only) one [rational][bookofproofs$2083] [straight line][bookofproofs$645], which is [commensurable in square][bookofproofs$2082] only with the whole, can be attached to an [apotome][bookofproofs$2167].
+
 * Let `$AB$` be an [apotome][bookofproofs$2167], with `$BC$` (so) attached to it.
 * `$AC$` and `$CB$` are thus [rational][bookofproofs$2083] ([straight lines][bookofproofs$645] which are) [commensurable in square][bookofproofs$2082] only [[Prop. 10.73]][bookofproofs$2167].
 * I say that another [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), which is [commensurable in square][bookofproofs$2082] only with the whole, cannot be attached to `$AB$`.

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 40 from Book 1 of Euclid's “Elements”)[^1]
 
 > Equal [triangles][bookofproofs$6432] which are on equal bases, and on the same side, are also between the same [parallels][bookofproofs$788].
+
 * Let `$ABC$` and `$CDE$` be equal [triangles][bookofproofs$6432] on the equal bases `$BC$` and `$CE$` (respectively), and on the same side (of `$BE$`).
 * I say that they are also between the same [parallels][bookofproofs$788].
 ![fig40e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig40e.png?raw=true)

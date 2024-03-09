@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 37 from Book 1 of Euclid's “Elements”)
 
 > [Triangles][bookofproofs$6432] which are on the same base and between the same [parallels][bookofproofs$788] are equal to one another.
+
 * Let `$ABC$` and `$DBC$` be [triangles][bookofproofs$6432] on the same base `$BC$`, and between the same parallels `$AD$` and `$BC$`.
 * I say that triangle `$ABC$` is equal to triangle `$DBC$`.
 

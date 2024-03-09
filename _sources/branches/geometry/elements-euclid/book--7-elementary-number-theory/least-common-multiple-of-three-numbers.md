@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 36 from Book 7 of Euclid's “Elements”)
 
 > To find the least number which three given [numbers][bookofproofs$2315] (all) measure.
+
 * Let `$A$`, `$B$`, and `$C$` be the three given [numbers][bookofproofs$2315].
 * So it is required to find the least number which they (all) measure.
 

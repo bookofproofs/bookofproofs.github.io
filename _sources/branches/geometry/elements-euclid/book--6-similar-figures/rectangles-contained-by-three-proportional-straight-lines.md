@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 6 of Euclid's “Elements”)
 
 > If three [straight lines][bookofproofs$645] are [proportional][bookofproofs$2328] then the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the (two) outermost is equal to the [square][bookofproofs$909] on the middle (one). And if the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by the (two) outermost is equal to the [square][bookofproofs$909] on the middle (one) then the three [straight lines][bookofproofs$645] will be [proportional][bookofproofs$2328].
+
 * Let `$A$`, `$B$` and `$C$` be three [proportional][bookofproofs$2328] [straight lines][bookofproofs$645], (such that) as `$A$` (is) to `$B$`, so `$B$` (is) to `$C$`.
 * I say that the [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by `$A$` and `$C$` is equal to the [square][bookofproofs$909] on `$B$` (and conversely).
 

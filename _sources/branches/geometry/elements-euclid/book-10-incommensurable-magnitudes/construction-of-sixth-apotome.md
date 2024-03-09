@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 90 from Book 10 of Euclid's “Elements”)
 
 > To find a [sixth apotome][bookofproofs$6446].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$`, and the three [numbers][bookofproofs$2315] `$E$`, `$BC$`, and `$CD$`, not having to one another the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326], be laid down.
 * Furthermore, let `$CB$` also not have to `$BD$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].
 * And let it have been contrived that as `$E$` (is) to `$BC$`, so the [ (square) ][bookofproofs$909] on `$A$` (is) to the [ (square) ][bookofproofs$909] on `$FG$`, and as `$BC$` (is) to `$CD$`, so the [ (square) ][bookofproofs$909] on `$FG$` (is) to the [ (square) ][bookofproofs$909] on `$GH$` [ [Prop. 10.6 corr.] ][bookofproofs$6460].

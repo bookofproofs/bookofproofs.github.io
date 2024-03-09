@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 94 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [fourth apotome][bookofproofs$2094] then the [square root][bookofproofs$46] of the area is a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
+
 * For let the area `$AB$` have been contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AC$` and the [fourth apotome][bookofproofs$2094] `$AD$`.
 * I say that the [square root][bookofproofs$46] of area `$AB$` is a [minor][bookofproofs$2170] ([straight line][bookofproofs$645]).
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > A ([straight line][bookofproofs$645]) "commensurable (in length) > A ([straight line][bookofproofs$645]) [commensurable (in length) ][bookofproofs$1095] with an [apotome][bookofproofs$2167] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]) is an [apotome][bookofproofs$2167] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and (is) the same in order[^1].
+
 * Let `$AB$` be an [apotome][bookofproofs$2167] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and let `$CD$` be [commensurable in length][bookofproofs$1095] with `$AB$`.
 * I say that `$CD$` is also an [apotome][bookofproofs$2167] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and (is) the same in order as `$AB$`.
 

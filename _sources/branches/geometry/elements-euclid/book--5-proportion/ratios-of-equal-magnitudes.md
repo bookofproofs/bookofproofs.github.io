@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > Equal (magnitudes) have the [same ratio][bookofproofs$1945] to the same (magnitude), and the latter (magnitude has the [same ratio][bookofproofs$1945]) to the equal (magnitudes).
+
 * Let `$A$` and `$B$` be equal magnitudes, and `$C$` some other random magnitude.
 * I say that `$A$` and `$B$` each have the [same ratio][bookofproofs$1945] to `$C$`, and (that) `$C$` (has the [same ratio][bookofproofs$1945]) to each of `$A$` and `$B$`.
 

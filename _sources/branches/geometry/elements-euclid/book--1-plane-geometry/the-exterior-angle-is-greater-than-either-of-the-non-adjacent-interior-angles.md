@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 16 from Book 1 of Euclid's “Elements”)
 
 > For any [triangle][bookofproofs$6432], when one of the sides is produced, the external angle is greater than each of the internal and opposite [angles][bookofproofs$650].
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432], and let one of its sides `$BC$` have been produced to `$D$`.
 * I say that the external angle `$ACD$` is greater than each of the internal and opposite [angles][bookofproofs$650], `$CBA$` and `$BAC$`.
 

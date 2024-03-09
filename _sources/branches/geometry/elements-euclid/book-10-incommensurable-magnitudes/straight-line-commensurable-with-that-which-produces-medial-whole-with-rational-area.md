@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 106 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable (in length) ][bookofproofs$1095] with a ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole is a ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole.
+
 * Let `$AB$` be a ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] whole, and (let) `$CD$` (be) [commensurable (in length) ][bookofproofs$1095] with `$AB$`.
 * I say that `$CD$` is also a ([straight line][bookofproofs$645]) which with a [rational][bookofproofs$2083] (area) makes a [medial][bookofproofs$2115] (whole).
 

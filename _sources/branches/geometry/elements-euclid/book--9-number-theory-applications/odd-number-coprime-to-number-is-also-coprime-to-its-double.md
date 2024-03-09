@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] is [prime to][bookofproofs$1288] some number then it will also be [prime to][bookofproofs$1288] its double.
+
 * For let the [odd number][bookofproofs$2318] `$A$` be [prime to][bookofproofs$1288] some number `$B$`.
 * And let `$C$` be double `$B$`.
 * I say that `$A$` is [also] [prime to][bookofproofs$1288] `$C$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 33 from Book 7 of Euclid's “Elements”)
 
 > To find the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as any given multitude of [numbers][bookofproofs$2315].
+
 * Let `$A$`, `$B$`, and `$C$` be any given multitude of [numbers][bookofproofs$2315].
 * So it is required to find the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as `$A$`, `$B$`, and `$C$`.
 

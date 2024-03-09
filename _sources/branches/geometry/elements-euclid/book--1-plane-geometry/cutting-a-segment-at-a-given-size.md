@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 3 from Book 1 of Euclid's “Elements”)
 
 > For two given unequal [straight lines][bookofproofs$645], to cut off from the greater a [straight line][bookofproofs$645] equal to the lesser.
+
 * Let `$AB$` and `$C$` be the two given unequal [straight lines][bookofproofs$645], of which let the greater be `$AB$`.
 * So it is required to cut off a [straight line][bookofproofs$645] equal to the lesser `$C$` from the greater `$AB$`.
 

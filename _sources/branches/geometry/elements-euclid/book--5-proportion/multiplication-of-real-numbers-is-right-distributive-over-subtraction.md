@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 5 of Euclid's “Elements”)
 
 > If two magnitudes are equal [multiples][bookofproofs$6440] of two (other) magnitudes, and some ([parts][bookofproofs$2316]) taken away (from the former magnitudes) are equal [multiples][bookofproofs$6440] of the latter (magnitudes, respectively), then the remainders are also either equal to the latter (magnitudes), or (are) equal [multiples][bookofproofs$6440] of them (respectively).
+
 * For let two magnitudes `$AB$` and `$CD$` be equal [multiples][bookofproofs$6440] of two magnitudes `$E$` and `$F$` (respectively).
 * And let the ([parts][bookofproofs$2316]) taken away (from the former) `$AG$` and `$CH$` be equal [multiples][bookofproofs$6440] of `$E$` and `$F$` (respectively).
 * I say that the remainders `$GB$` and `$HD$` are also either equal to `$E$` and `$F$` (respectively), or (are) equal [multiples][bookofproofs$6440] of them.

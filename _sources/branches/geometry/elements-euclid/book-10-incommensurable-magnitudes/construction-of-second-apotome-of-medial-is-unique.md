@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 81 from Book 10 of Euclid's “Elements”)
 
 > Only one [medial][bookofproofs$2115] [straight line][bookofproofs$645], which is [commensurable in square][bookofproofs$2082] only with the whole, and contains a [medial (area) ][bookofproofs$6462] with the whole, can be attached to a [second apotome][bookofproofs$2092] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]).
+
 * Let `$AB$` be a [second apotome][bookofproofs$2092] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), with `$BC$` (so) attached to `$AB$`.
 * Thus, `$AC$` and `$CB$` are [medial][bookofproofs$2115] ([straight lines][bookofproofs$645] which are) [commensurable in square][bookofproofs$2082] only, containing a [medial (area) ][bookofproofs$6462] - (namely, that contained) by `$AC$` and `$CB$` [[Prop. 10.75]][bookofproofs$2169].
 * I say that a(nother) [medial][bookofproofs$2115] [straight line][bookofproofs$645], which is [commensurable in square][bookofproofs$2082] only with the whole, and contains a [medial (area) ][bookofproofs$6462] with the whole, cannot be attached to `$AB$`.

@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### Euclid's Formulation
 
 > [Parallelograms][bookofproofs$909] which are on equal bases and between the same [parallels][bookofproofs$788] are equal to one another.
+
 * Let `$ABCD$` and `$EFGH$` be [parallelograms][bookofproofs$909] which are on the equal bases `$BC$` and `$FG$`, and (are) between the same parallels `$AH$` and `$BG$`.
 * I say that the [parallelogram][bookofproofs$909] `$ABCD$` is equal to `$EFGH$`.
 

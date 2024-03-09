@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If, from the greater of two unequal magnitudes (which are) laid out, (a part) greater than half is subtracted, and (if from) the remainder (a part) greater than half (is subtracted), and (if) this happens continually, then some magnitude will (eventually) be left which will be less than the lesser laid out magnitude.
+
 * Let `$AB$` and `$C$` be two unequal magnitudes, of which (let) `$AB$` (be) the greater.
 * I say that if (a part) greater than half is subtracted from `$AB$`, and (if a part) greater than half (is subtracted) from the remainder, and (if) this happens continually, then some magnitude will (eventually) be left which will be less than the magnitude `$C$`.
 

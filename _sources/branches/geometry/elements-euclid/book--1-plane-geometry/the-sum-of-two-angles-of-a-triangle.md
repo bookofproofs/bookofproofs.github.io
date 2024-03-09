@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 17 from Book 1 of Euclid's “Elements”)
 
 > For any [triangle][bookofproofs$6432], (the sum of) two [angles][bookofproofs$650] taken together in any (possible way) is less than two [right angles][bookofproofs$653].
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432].
 * I say that (the sum of) two [angles][bookofproofs$650] of triangle `$ABC$` taken together in any (possible way) is less than two [right angles][bookofproofs$653].
 ![fig17e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book01/fig17e.png?raw=true)

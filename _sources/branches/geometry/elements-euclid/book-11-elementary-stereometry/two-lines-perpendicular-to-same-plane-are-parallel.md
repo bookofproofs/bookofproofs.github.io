@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 11 of Euclid's “Elements”)
 
 > If two [straight lines][bookofproofs$645] are at [right angles][bookofproofs$653] to the same [plane][bookofproofs$657] then the [straight lines][bookofproofs$645] will be [parallel][bookofproofs$788].
+
 * For let the two [straight lines][bookofproofs$645] `$AB$` and `$CD$` be at [right angles][bookofproofs$653] to a reference [plane][bookofproofs$647].
 * I say that `$AB$` is [parallel][bookofproofs$788] to `$CD$`.
 

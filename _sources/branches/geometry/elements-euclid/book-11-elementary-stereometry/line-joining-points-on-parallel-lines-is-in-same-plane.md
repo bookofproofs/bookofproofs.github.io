@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If there are two [parallel][bookofproofs$788] [straight lines][bookofproofs$645], and random [points][bookofproofs$631] are taken on each of them, then the [straight line][bookofproofs$645] joining the two [points][bookofproofs$631] is in the same [plane][bookofproofs$657] as the [parallel][bookofproofs$788] ([straight lines][bookofproofs$645]).
+
 * Let `$AB$` and `$CD$` be two [parallel][bookofproofs$788] [straight lines][bookofproofs$645], and let the random [points][bookofproofs$631] `$E$` and `$F$` have been taken on each of them (respectively).
 * I say that the [straight line][bookofproofs$645] joining [points][bookofproofs$631] `$E$` and `$F$` is in the same (reference) plane as the [parallel][bookofproofs$788] ([straight lines][bookofproofs$645]).
 

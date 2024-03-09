@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 3 from Book 5 of Euclid's “Elements”)
 
 > If a first (magnitude) and a third are equal [multiples][bookofproofs$6440] of a second and a fourth (respectively), and equal [multiples][bookofproofs$6440] are taken of the first and the third, then, [via equality][bookofproofs$1956], the (magnitudes) taken will also be equal [multiples][bookofproofs$6440] of the second (magnitude) and the fourth, respectively.
+
 * For let a first (magnitude) `$A$` and a third `$C$` be equal [multiples][bookofproofs$6440] of a second `$B$` and a fourth `$D$` (respectively), and let the equal [multiples][bookofproofs$6440] `$EF$` and `$GH$` have been taken of `$A$` and `$C$` (respectively).
 * I say that `$EF$` and `$GH$` are equal [multiples][bookofproofs$6440] of `$B$` and `$D$` (respectively).
 

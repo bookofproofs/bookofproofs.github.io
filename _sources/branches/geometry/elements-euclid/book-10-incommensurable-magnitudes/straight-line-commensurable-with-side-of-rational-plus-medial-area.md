@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 69 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable (in length) ][bookofproofs$1095] with the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462] is [itself also] the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462].
+
 * Let `$AB$` be the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462], and let `$CD$` be [commensurable (in length) ][bookofproofs$1095] with `$AB$`.
 * We must show that `$CD$` is also the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462].
 

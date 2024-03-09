@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 5 from Book 8 of Euclid's “Elements”)
 
 > Plane [numbers][bookofproofs$2315] have to one another the ratio compounded[^1] out of (the ratios of) their sides.
+
 * Let `$A$` and `$B$` be plane [numbers][bookofproofs$2315], and let the [numbers][bookofproofs$2315] `$C$`, `$D$` be the sides of `$A$`, and (the [numbers][bookofproofs$2315]) `$E$`, `$F$` (the sides) of `$B$`.
 * I say that `$A$` has to `$B$` the ratio compounded out of (the ratios of) their sides.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 9 from Book 9 of Euclid's “Elements”)
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314], and the (number) after the [unit][bookofproofs$2314] is [square][bookofproofs$2326], then all the remaining ([numbers][bookofproofs$2315]) will also be [square][bookofproofs$2326]. And if the (number) after the [unit][bookofproofs$2314] is [cube][bookofproofs$2327], then all the remaining ([numbers][bookofproofs$2315]) will also be [cube][bookofproofs$2327].
+
 * Let any multitude whatsoever of [numbers][bookofproofs$2315], `$A$`, `$B$`, `$C$`, `$D$`, `$E$`, `$F$`, be in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314].
 * And let the (number) after the [unit][bookofproofs$2314], `$A$`, be [square][bookofproofs$2326].
 * I say that all the remaining ([numbers][bookofproofs$2315]) will also be [square][bookofproofs$2326].

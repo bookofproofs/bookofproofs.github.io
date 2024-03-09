@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 13 from Book 13 of Euclid's “Elements”)
 
 > To construct a (regular) [pyramid][bookofproofs$2221] (i.e., a tetrahedron), and to enclose (it) in a given [sphere][bookofproofs$2223], and to show that the [square][bookofproofs$909] on the [diameter of the sphere][bookofproofs$2226] is one and a half times the [ (square) ][bookofproofs$909] on the side of the [pyramid][bookofproofs$2221].
+
 * Thus, [it is required to construct] a [pyramid][bookofproofs$2221], whose base is [triangle][bookofproofs$6432] `$EFG$`, and apex the [point][bookofproofs$631] `$K$`, from four "equilateral triangles":https://www.bookofproofs.org/branches/equilateral-triangle-isosceles-triangle-scalene-triangle/...
 * So, I say that the [square][bookofproofs$909] on the [diameter of the sphere][bookofproofs$2226] is one and a half times the [ (square) ][bookofproofs$909] on the side of the [pyramid][bookofproofs$2221].
 

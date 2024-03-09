@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 5 of Euclid's “Elements”)
 
 > If [composed][bookofproofs$1953] magnitudes are [proportional][bookofproofs$6442] then they will also be [proportional][bookofproofs$6442] (when) [separated][bookofproofs$1954].
+
 * Let `$AB$`, `$BE$`, `$CD$`, and `$DF$` be [composed][bookofproofs$1953] magnitudes (which are) [proportional][bookofproofs$6442], (so that) as `$AB$` (is) to `$BE$`, so `$CD$` (is) to `$DF$`.
 * I say that they will also be [proportional][bookofproofs$6442] (when) [separated][bookofproofs$1954], (so that) as `$AE$` (is) to `$EB$`, so `$CF$` (is) to `$DF$`.
 

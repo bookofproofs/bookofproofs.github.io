@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a [cylinder][bookofproofs$2230] is cut by a [plane][bookofproofs$647] which is [parallel][bookofproofs$788] to the opposite [planes][bookofproofs$647] (of the [cylinder][bookofproofs$2230]) then as the [cylinder][bookofproofs$2230] (is) to the [cylinder][bookofproofs$2230], so the [axis][bookofproofs$2231] will be to the [axis][bookofproofs$2231].
+
 * For let the [cylinder][bookofproofs$2230] `$AD$` have been cut by the [plane][bookofproofs$647] `$GH$` which is [parallel][bookofproofs$788] to the opposite [planes][bookofproofs$647] (of the [cylinder][bookofproofs$2230]), `$AB$` and `$CD$`.
 * And let the plane `$GH$` have met the [axis][bookofproofs$2231] at [point][bookofproofs$631] `$K$`.
 * I say that as [cylinder][bookofproofs$2230] `$BG$` is to [cylinder][bookofproofs$2230] `$GD$`, so  `$EK$` (is) to  `$KF$`.

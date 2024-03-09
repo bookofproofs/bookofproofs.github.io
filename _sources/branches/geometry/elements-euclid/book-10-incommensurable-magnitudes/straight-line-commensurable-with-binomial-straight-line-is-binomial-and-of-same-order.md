@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 66 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable in length][bookofproofs$1095] with a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) is itself also [binomial][bookofproofs$2130], and the same in order.
+
 * Let `$AB$` be a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]), and let `$CD$` be [commensurable in length][bookofproofs$1095] with `$AB$`.
 * I say that `$CD$` is a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]), and (is) the same in order[^1] as `$AB$`.
 

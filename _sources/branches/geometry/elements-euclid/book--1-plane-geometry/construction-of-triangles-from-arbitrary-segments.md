@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 22 from Book 1 of Euclid's “Elements”)
 
 > To construct a [triangle][bookofproofs$6432] from three [straight lines][bookofproofs$645] which are equal to three given [[straight lines][bookofproofs$645]]. It is necessary for (the sum of) two (of the [straight lines][bookofproofs$645]) taken together in any (possible way) to be greater than the remaining (one), [on account of the (fact that) in any [triangle][bookofproofs$6432] (the sum of) two sides taken together in any (possible way) is greater than the remaining (one) [[Prop. 1.20]][bookofproofs$795] ].
+
 * Let `$A$`, `$B$`, and `$C$` be the three given [straight lines][bookofproofs$645], of which let (the sum of) two taken together in any (possible way) be greater than the remaining (one).
 * (Thus), (the sum of) `$A$` and `$B$` (is greater) than `$C$`, (the sum of) `$A$` and `$C$` than `$B$`, and also (the sum of) `$B$` and `$C$` than `$A$`.
 * So it is required to construct a [triangle][bookofproofs$6432] from ([straight lines][bookofproofs$645]) equal to `$A$`, `$B$`, and `$C$`.

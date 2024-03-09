@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 2 from Book 1 of Euclid's “Elements”)
 
 > To place a [straight line][bookofproofs$645] equal to a given [straight line][bookofproofs$645] at a given [point][bookofproofs$631] (as an extremity).
+
 * Let `$A$` be the given [point][bookofproofs$631], and `$BC$` the given [straight line][bookofproofs$645].
 * So it is required to place a [straight line][bookofproofs$645] at [point][bookofproofs$631] `$A$` equal to the given [straight line][bookofproofs$645] `$BC$`.
 

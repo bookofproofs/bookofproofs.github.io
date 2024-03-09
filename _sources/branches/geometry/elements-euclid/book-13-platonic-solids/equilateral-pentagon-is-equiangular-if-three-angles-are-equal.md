@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 13 of Euclid's “Elements”)
 
 > If three [angles][bookofproofs$650], either consecutive or not consecutive, of an equilateral [pentagon][bookofproofs$6447] are equal then the [pentagon][bookofproofs$6447] will be equiangular.
+
 * For let three [angles][bookofproofs$650] of the equilateral [pentagon][bookofproofs$6447] `$ABCDE$` - first of all, the consecutive ([angles][bookofproofs$650]) at `$A$`, `$B$`, and `$C$` - -be equal to one another.
 * I say that [pentagon][bookofproofs$6447] `$ABCDE$` is equiangular.
 

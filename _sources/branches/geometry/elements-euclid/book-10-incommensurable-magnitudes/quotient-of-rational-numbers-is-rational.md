@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If a [rational][bookofproofs$2083] (area) is applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) then it produces as breadth a ([straight line][bookofproofs$645] which is) [rational][bookofproofs$2083], and [commensurable in length][bookofproofs$1095] with the ([straight line][bookofproofs$645]) to which it is applied.
+
 * For let the [rational][bookofproofs$2083] (area) `$AC$` have been applied to the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$`, producing the ([straight line][bookofproofs$645]) `$BC$` as breadth.
 * I say that `$BC$` is [rational][bookofproofs$2083], and [commensurable in length][bookofproofs$1095] with `$BA$`.
 

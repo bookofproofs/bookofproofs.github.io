@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 10 from Book 2 of Euclid's “Elements”)
 
 > If a [straight line][bookofproofs$645] is cut in half, and any [straight line][bookofproofs$645] added to it [straight-on][bookofproofs$649], then the sum of the [square][bookofproofs$909] on the whole ([straight line][bookofproofs$645]) with the ([straight line][bookofproofs$645]) having been added, and the [ (square) ][bookofproofs$909] on the ([straight line][bookofproofs$645]) having been added, is double the (sum of the square) on half (the [straight line][bookofproofs$645]), and the square described on the sum of half (the [straight line][bookofproofs$645]) and ([straight line][bookofproofs$645]) having been added, as on one (complete [straight line][bookofproofs$645]).
+
 * For let any [straight line][bookofproofs$645] `$AB$` have been cut in half at ([point][bookofproofs$631]) `$C$`, and let any [straight line][bookofproofs$645] `$BD$` have been added to it [straight-on][bookofproofs$649].
 * I say that the (sum of the) [squares][bookofproofs$909] on `$AD$` and `$DB$` is double the (sum of the) [squares][bookofproofs$909] on `$AC$` and `$CD$`.
 

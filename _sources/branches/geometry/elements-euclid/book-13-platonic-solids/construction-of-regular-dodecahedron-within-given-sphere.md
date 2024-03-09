@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 13 of Euclid's “Elements”)
 
 > To construct a [dodecahedron][bookofproofs$2237], and to enclose (it) in a [sphere][bookofproofs$2223], like the aforementioned figures, and to show that the side of the [dodecahedron][bookofproofs$2237] is that [irrational][bookofproofs$2083] ([straight line][bookofproofs$645]) called an [apotome][bookofproofs$2167].
+
 * Let two [planes][bookofproofs$647] of the aforementioned [cube][bookofproofs$2234] [[Prop. 13.15]][bookofproofs$2309], `$ABCD$` and `$CBEF$`, (which are) at [right angles][bookofproofs$653] to one another, be laid out.
 * And let the sides `$AB$`, `$BC$`, `$CD$`, `$DA$`, `$EF$`, `$EB$`, and `$FC$` have each been cut in half at [points][bookofproofs$631] `$G$`, `$H$`, `$K$`, `$L$`, `$M$`, `$N$`, and `$O$` (respectively).
 * And let `$GK$`, `$HL$`, `$MH$`, and `$NO$` have been joined.

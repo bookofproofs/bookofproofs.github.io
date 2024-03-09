@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 86 from Book 10 of Euclid's “Elements”)
 
 > To find a [second apotome][bookofproofs$2092].
+
 * Let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$`, and `$GC$` (which is) [commensurable in length][bookofproofs$1095] with `$A$`, be laid down.
 * Thus, `$GC$` is a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the two [square numbers][bookofproofs$2326] `$DE$` and `$EF$` be laid down, and let their difference `$DF$` be not square [ [Prop. 10.28 lem. I] ][bookofproofs$6474].

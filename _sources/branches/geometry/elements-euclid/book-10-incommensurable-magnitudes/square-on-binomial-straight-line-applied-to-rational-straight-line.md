@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 60 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) produces as breadth a [first binomial][bookofproofs$2085] ([straight line][bookofproofs$645]).[^1]
+
 * Let `$AB$` be a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]), having been divided into its (component) terms at `$C$`, such that `$AC$` is the greater term.
 * And let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$DE$` be laid down.
 * And let the ([rectangle][bookofproofs$909]) `$DEFG$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$DE$`, producing `$DG$` as breadth.

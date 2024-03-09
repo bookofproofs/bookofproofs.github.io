@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > For three given [numbers][bookofproofs$2315], to investigate when it is possible to find a fourth (number) [proportional][bookofproofs$2328] to them.
+
 * Let `$A$`, `$B$`, `$C$` be the three given [numbers][bookofproofs$2315].
 * And let it be required to investigate when it is possible to find a fourth (number) [proportional][bookofproofs$2328] to them.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 29 from Book 3 of Euclid's “Elements”)
 
 > In [equal circles][bookofproofs$1850], equal [straight lines][bookofproofs$645] subtend equal [circumferences][bookofproofs$690].
+
 * Let `$ABC$` and `$DEF$` be [equal circles][bookofproofs$1850], and within them let the equal [circumferences][bookofproofs$690] `$BGC$` and `$EHF$` have been cut off.
 * And let the [straight lines][bookofproofs$645] `$BC$` and `$EF$` have been joined.
 * I say that `$BC$` is equal to `$EF$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Similar][bookofproofs$2218] [pyramids][bookofproofs$2221] which also have [triangular][bookofproofs$6432] bases are in the [cubed ratio][bookofproofs$1949] of their corresponding sides.
+
 * Let there be [similar][bookofproofs$2218], and similarly laid out, [pyramids][bookofproofs$2221] whose bases are [triangles][bookofproofs$6432] `$ABC$` and `$DEF$`, and apexes the [points][bookofproofs$631] `$G$` and `$H$` (respectively).
 * I say that [pyramid][bookofproofs$2221] `$ABCG$` has to [pyramid][bookofproofs$2221] `$DEFH$` the [cubed ratio][bookofproofs$1949] of that `$BC$` (has) to `$EF$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 25 from Book 9 of Euclid's “Elements”)
 
 > If an [odd (number) ][bookofproofs$2318] is subtracted from an [even number][bookofproofs$2317] then the remainder will be odd.
+
 * For let the [odd (number) ][bookofproofs$2318] `$BC$` have been subtracted from the [even number][bookofproofs$2317] `$AB$`.
 * I say that the remainder `$CA$` is odd.
 

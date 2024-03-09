@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 8 of Euclid's “Elements”)
 
 > To find the least [numbers][bookofproofs$2315], as many as may be prescribed, (which are) in [continued proportion][bookofproofs$6552] in a given [ratio][bookofproofs$1943].
+
 * Let the given [ratio][bookofproofs$1943], (expressed) in the least [numbers][bookofproofs$2315], be that of `$A$` to `$B$`.
 * So it is required to find the least [numbers][bookofproofs$2315], as many as may be prescribed, (which are) in the [ratio][bookofproofs$1943] of `$A$` to `$B$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 7 of Euclid's “Elements”)
 
 > If a number is [parts][bookofproofs$2323] of a number, and another (number) is the same [parts][bookofproofs$2323] of another, then the sum (of the leading [numbers][bookofproofs$2315]) will also be the same [parts][bookofproofs$2323] of the sum (of the following [numbers][bookofproofs$2315]) that one (number) is of another.
+
 * For let a number `$AB$` be [parts][bookofproofs$2323] of a number `$C$`, and another (number) `$DE$` (be) the same [parts][bookofproofs$2323] of another (number) `$F$` that `$AB$` (is) of `$C$`.
 * I say that the sum `$AB$`, `$DE$` is also the same [parts][bookofproofs$2323] of the sum `$C$`, `$F$` that `$AB$` (is) of `$C$`.
 

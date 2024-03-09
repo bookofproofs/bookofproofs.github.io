@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If any multitude whatsoever of odd [numbers][bookofproofs$2315] is added together, and the multitude of them is odd, then the whole will also be odd.
+
 * For let any multitude whatsoever of odd [numbers][bookofproofs$2315], `$AB$`, `$BC$`, `$CD$`, lie together, and let the multitude of them be odd.
 * I say that the whole, `$AD$`, is also odd.
 

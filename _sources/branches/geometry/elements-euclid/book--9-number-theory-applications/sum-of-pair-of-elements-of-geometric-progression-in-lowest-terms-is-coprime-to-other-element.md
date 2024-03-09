@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > If three [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] are the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them then two (of them) added together in any way are [prime to][bookofproofs$1288] the remaining (one).
+
 * Let `$A$`, `$B$`, `$C$` be three [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] (which are) the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.
 * I say that two of `$A$`, `$B$`, `$C$` added together in any way are [prime to][bookofproofs$1288] the remaining (one), (that is) `$A$` and `$B$` (prime) to `$C$`, `$B$` and `$C$` to `$A$`, and, further, `$A$` and `$C$` to `$B$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > For two given [numbers][bookofproofs$2315], to investigate whether it is possible to find a third (number) [proportional][bookofproofs$2328] to them.
+
 * Let `$A$` and `$B$` be the two given [numbers][bookofproofs$2315].
 * And let it be required to investigate whether it is possible to find a third (number) [proportional][bookofproofs$2328] to them.
 

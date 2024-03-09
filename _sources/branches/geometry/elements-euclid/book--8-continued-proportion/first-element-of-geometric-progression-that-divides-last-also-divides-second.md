@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 7 from Book 8 of Euclid's “Elements”)
 
 > If there are any multitude whatsoever of [continuously] [proportional][bookofproofs$2328] [numbers][bookofproofs$2315], and the first measures the last, then (the first) will also measure the second.
+
 * Let `$A$`, `$B$`, `$C$`, `$D$` be any number whatsoever of [numbers in continued proportion][bookofproofs$6552].
 * And let `$A$` measure `$D$`.
 * I say that `$A$` also measures `$B$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] a [triangle][bookofproofs$6432], equiangular with a given [triangle][bookofproofs$6432], in a given [circle][bookofproofs$690].
+
 * Let `$ABC$` be the given [circle][bookofproofs$690], and `$DEF$` the given [triangle][bookofproofs$6432].
 * So it is required to [inscribe][bookofproofs$1920] a [triangle][bookofproofs$6432], equiangular with triangle `$DEF$`, in [circle][bookofproofs$690] `$ABC$`.
 

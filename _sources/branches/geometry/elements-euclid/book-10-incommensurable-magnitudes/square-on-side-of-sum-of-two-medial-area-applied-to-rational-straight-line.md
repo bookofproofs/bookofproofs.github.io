@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 65 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas) applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) produces as breadth a [sixth binomial][bookofproofs$2090] ([straight line][bookofproofs$645]).[^1]
+
 * Let `$AB$` be the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas), having been divided at `$C$`.
 * And let `$DE$` be a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let the ([parallelogram][bookofproofs$909]) `$DF$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$DE$`, producing `$DG$` as breadth.

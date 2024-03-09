@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 13 from Book 7 of Euclid's “Elements”)
 
 > If four [numbers][bookofproofs$2315] are [proportional][bookofproofs$2328] then they will also be [proportional][bookofproofs$2328] alternately.
+
 * Let the four [numbers][bookofproofs$2315] `$A$`, `$B$`, `$C$`, and `$D$` be [proportional][bookofproofs$2328], (such that) as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`.
 * I say that they will also be [proportional][bookofproofs$2328] alternately, (such that) as `$A$` (is) to `$C$`, so `$B$` (is) to `$D$`.
 

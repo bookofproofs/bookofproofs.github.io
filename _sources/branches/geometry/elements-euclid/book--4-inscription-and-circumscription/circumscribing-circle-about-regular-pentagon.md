@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 14 from Book 4 of Euclid's “Elements”)
 
 > To [circumscribe a circle][bookofproofs$6438] about a given [pentagon][bookofproofs$6447] which is equilateral and equiangular.
+
 * Let `$ABCDE$` be the given [pentagon][bookofproofs$6447] which is equilateral and equiangular.
 * So it is required to [circumscribe a circle][bookofproofs$6438] about the [pentagon][bookofproofs$6447] `$ABCDE$`.
 

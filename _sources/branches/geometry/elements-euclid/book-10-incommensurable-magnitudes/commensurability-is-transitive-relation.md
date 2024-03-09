@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > (Magnitudes) [commensurable][bookofproofs$1095] with the same magnitude are also [commensurable][bookofproofs$1095] with one another.
+
 * For let `$A$` and `$B$` each be [commensurable][bookofproofs$1095] with `$C$`.
 * I say that `$A$` is also [commensurable][bookofproofs$1095] with `$B$`.
 

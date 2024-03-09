@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 23 from Book 6 of Euclid's “Elements”)
 
 > Equiangular [parallelograms][bookofproofs$909] have to one another the ratio compounded[^1] out of (the ratios of) their sides.
+
 * Let `$AC$` and `$CF$` be equiangular [parallelograms][bookofproofs$909] having angle `$BCD$` equal to `$ECG$`.
 * I say that [parallelogram][bookofproofs$909] `$AC$` has to [parallelogram][bookofproofs$909] `$CF$` the ratio compounded out of (the ratios of) their sides.
 

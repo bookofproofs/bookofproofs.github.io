@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 3 of Euclid's “Elements”)
 
 > To draw a [straight line][bookofproofs$645] [touching][bookofproofs$1853] a given [circle][bookofproofs$690] from a given [point][bookofproofs$631].
+
 * Let `$A$` be the given [point][bookofproofs$631], and `$BCD$` the given [circle][bookofproofs$690].
 * So it is required to draw a [straight line][bookofproofs$645] [touching][bookofproofs$1853] [circle][bookofproofs$690] `$BCD$` from [point][bookofproofs$631] `$A$`.
 

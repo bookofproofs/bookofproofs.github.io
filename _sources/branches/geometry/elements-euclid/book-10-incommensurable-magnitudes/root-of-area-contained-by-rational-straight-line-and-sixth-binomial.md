@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 59 from Book 10 of Euclid's “Elements”)
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [sixth binomial][bookofproofs$2090] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
+
 * For let the area `$ABCD$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and the [sixth binomial][bookofproofs$2090] ([straight line][bookofproofs$645]) `$AD$`, which has been divided into its (component) terms at `$E$`, such that `$AE$` is the greater term.
 * So, I say that the [square root][bookofproofs$46] of `$AC$` is the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
 

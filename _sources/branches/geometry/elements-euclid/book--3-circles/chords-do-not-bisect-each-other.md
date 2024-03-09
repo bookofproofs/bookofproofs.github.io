@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], if two [straight lines][bookofproofs$645], which are not through the [center][bookofproofs$6428], cut one another then they do not cut one another in half.
+
 * Let `$ABCD$` be a [circle][bookofproofs$690], and within it, let two [straight lines][bookofproofs$645], `$AC$` and `$BD$`, which are not through the [center][bookofproofs$6428], cut one another at ([point][bookofproofs$631]) `$E$`.
 * I say that they do not cut one another in half.
 

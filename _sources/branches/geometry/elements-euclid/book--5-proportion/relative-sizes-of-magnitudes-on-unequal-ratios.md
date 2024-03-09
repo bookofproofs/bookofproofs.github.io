@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > For (magnitudes) [having a ratio][bookofproofs$6441] to the same (magnitude), that > For (magnitudes) [having a ratio][bookofproofs$6441] to the same (magnitude), that (magnitude which) has the [greater ratio][bookofproofs$1946] is (the) greater. And that (magnitude) to which the latter (magnitude) has a [greater ratio][bookofproofs$1946] is (the) lesser.
+
 * For let `$A$` have a [greater ratio][bookofproofs$1946] to `$C$` than `$B$` (has) to `$C$`.
 * I say that `$A$` is greater than `$B$`.
 

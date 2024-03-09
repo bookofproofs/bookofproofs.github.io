@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 20 from Book 6 of Euclid's “Elements”)
 
 > [Similar][bookofproofs$1983] [polygons][bookofproofs$687] can be divided into equal [numbers][bookofproofs$2315] of [similar][bookofproofs$1983] [triangles][bookofproofs$6432] corresponding (in proportion) to the wholes, and one [polygon][bookofproofs$687] has to the (other) [polygon][bookofproofs$687] a [squared ratio][bookofproofs$1948] with respect to (that) a corresponding side (has) to a corresponding side.
+
 * Let `$ABCDE$` and `$FGHKL$` be [similar][bookofproofs$1983] [polygons][bookofproofs$687], and let `$AB$` correspond to `$FG$`.
 * I say that [polygons][bookofproofs$687] `$ABCDE$` and `$FGHKL$` can be divided into equal [numbers][bookofproofs$2315] of [similar][bookofproofs$1983] [triangles][bookofproofs$6432] corresponding (in proportion) to the wholes, and (that) [polygon][bookofproofs$687] `$ABCDE$` has a [squared ratio][bookofproofs$1948] to [polygon][bookofproofs$687] `$FGHKL$` with respect to that `$AB$` (has) to `$FG$`.
 

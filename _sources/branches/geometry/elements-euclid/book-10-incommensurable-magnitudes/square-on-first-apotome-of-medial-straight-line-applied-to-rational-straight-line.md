@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 98 from Book 10 of Euclid's “Elements”)
 
 > The [ (square) ][bookofproofs$909] on a [first apotome][bookofproofs$2091] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), produces a [second apotome][bookofproofs$2092] as breadth.
+
 * Let `$AB$` be a [first apotome][bookofproofs$2091] of a [medial][bookofproofs$2115] ([straight line][bookofproofs$645]), and `$CD$` a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]).
 * And let `$CE$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$CD$`, producing `$CF$` as breadth.
 * I say that `$CF$` is a [second apotome][bookofproofs$2092].

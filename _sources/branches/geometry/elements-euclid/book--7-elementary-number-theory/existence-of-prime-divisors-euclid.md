@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 31 from Book 7 of Euclid's “Elements”)
 
 > Every [composite number][bookofproofs$6436] is measured by some [prime number][bookofproofs$704].
+
 * Let `$A$` be a [composite number][bookofproofs$6436].
 * I say that `$A$` is measured by some [prime number][bookofproofs$704].
 ![fig31e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book07/fig31e.png?raw=true)

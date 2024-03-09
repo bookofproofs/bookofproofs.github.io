@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 1 from Book 8 of Euclid's “Elements”)
 
 > If there are any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552], and the outermost of them are [prime to one another][bookofproofs$1288], then the ([numbers][bookofproofs$2315]) are the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.
+
 * Let `$A$`, `$B$`, `$C$`, `$D$` be any multitude whatsoever of [numbers in continued proportion][bookofproofs$6552].
 * And let the outermost of them, `$A$` and `$D$`, be [prime to one another][bookofproofs$1288].
 * I say that `$A$`, `$B$`, `$C$`, `$D$` are the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.

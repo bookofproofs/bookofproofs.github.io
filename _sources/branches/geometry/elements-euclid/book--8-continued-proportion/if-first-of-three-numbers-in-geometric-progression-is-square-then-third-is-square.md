@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 22 from Book 8 of Euclid's “Elements”)
 
 > If three [numbers][bookofproofs$2315] are in [continued proportion][bookofproofs$6552], and the first is [square][bookofproofs$2326], then the third will also be [square][bookofproofs$2326].
+
 * Let `$A$`, `$B$`, `$C$` be three [numbers in continued proportion][bookofproofs$6552], and let the first `$A$` be [square][bookofproofs$2326].
 * I say that the third `$C$` is also [square][bookofproofs$2326].
 

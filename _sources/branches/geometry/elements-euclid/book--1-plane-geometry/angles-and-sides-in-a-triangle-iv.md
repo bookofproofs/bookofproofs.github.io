@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 25 from Book 1 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432] have two sides equal to two sides, respectively, but (one) has a base greater than the base (of the other), then (the former triangle) will also have the [angle][bookofproofs$650] encompassed by the equal [straight lines][bookofproofs$645] greater than the (corresponding) angle (in the latter).
+
 * Let `$ABC$` and `$DEF$` be two [triangles][bookofproofs$6432] having the two sides `$AB$` and `$AC$` equal to the two sides `$DE$` and `$DF$`, respectively (That is), `$AB$` (equal) to `$DE$`, and `$AC$` to `$DF$`.
 * And let the base `$BC$` be greater than the base `$EF$`.
 * I say that angle `$BAC$` is also greater than `$EDF$`.

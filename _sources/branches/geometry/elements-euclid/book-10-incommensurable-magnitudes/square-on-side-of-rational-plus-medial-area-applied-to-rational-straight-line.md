@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 64 from Book 10 of Euclid's “Elements”)
 
 > The [square][bookofproofs$909] on the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462] applied to a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) produces as breadth a [fifth binomial][bookofproofs$2089] ([straight line][bookofproofs$645]).[^1]
+
 * Let `$AB$` be the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462] having been divided into its (component) [straight lines][bookofproofs$645] at `$C$`, such that `$AC$` is greater.
 * And let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$DE$` be laid down.
 * And let the ([parallelogram][bookofproofs$909]) `$DF$`, equal to the [ (square) ][bookofproofs$909] on `$AB$`, have been applied to `$DE$`, producing `$DG$` as breadth.

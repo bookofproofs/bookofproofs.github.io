@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 17 from Book 8 of Euclid's “Elements”)
 
 > If a [cube number][bookofproofs$2327] does not measure a(nother) [cube number][bookofproofs$2327] then the side (of the former) will not measure the side (of the latter) either. And if the side (of a [cube number][bookofproofs$2327]) does not measure the side (of another [cube number][bookofproofs$2327]) then the (former) [cube (number) ][bookofproofs$2327] will not measure the (latter) [cube (number) ][bookofproofs$2327] either.
+
 * For let the [cube number][bookofproofs$2327] `$A$` not measure the [cube number][bookofproofs$2327] `$B$`.
 * And let `$C$` be the side of `$A$`, and `$D$` (the side) of `$B$`.
 * I say that `$C$` will not measure `$D$`.

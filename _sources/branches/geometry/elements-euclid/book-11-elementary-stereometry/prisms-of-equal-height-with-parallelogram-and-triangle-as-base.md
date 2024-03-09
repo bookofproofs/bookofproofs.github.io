@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 39 from Book 11 of Euclid's “Elements”)
 
 > If there are two equal [height][bookofproofs$1986] [prisms][bookofproofs$2222], and one has a [parallelogram][bookofproofs$909], and the other a [triangle][bookofproofs$6432], (as a) base, and the [parallelogram][bookofproofs$909] is double the [triangle][bookofproofs$6432], then the [prisms][bookofproofs$2222] will be equal.
+
 * Let `$ABCDEF$` and `$GHKLMN$` be two equal [height][bookofproofs$1986] [prisms][bookofproofs$2222], and let the former have the [parallelogram][bookofproofs$909] `$AF$`, and the latter the [triangle][bookofproofs$6432] `$GHK$`, as a base.
 * And let [parallelogram][bookofproofs$909] `$AF$` be twice [triangle][bookofproofs$6432] `$GHK$`.
 * I say that [prism][bookofproofs$2222] `$ABCDEF$` is equal to [prism][bookofproofs$2222] `$GHKLMN$`.

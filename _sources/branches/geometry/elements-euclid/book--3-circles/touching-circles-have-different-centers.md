@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 3 of Euclid's “Elements”)
 
 > If two [circles][bookofproofs$690] [touch one another][bookofproofs$1851] then they will not have the same [center][bookofproofs$6428].
+
 * For let the two [circles][bookofproofs$690] `$ABC$` and `$CDE$` [touch one another][bookofproofs$1851] at [point][bookofproofs$631] `$C$`.
 * I say that they will not have the same [center][bookofproofs$6428].
 ![fig06e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book03/fig06e.png?raw=true)

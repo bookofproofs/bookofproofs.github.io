@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 30 from Book 1 of Euclid's “Elements”)
 
 > ([Straight-lines][bookofproofs$645]) [parallel][bookofproofs$788] to the same [straight line][bookofproofs$645] are also [parallel][bookofproofs$788] to one another.
+
 * Let each of the ([straight lines][bookofproofs$645]) `$AB$` and `$CD$` be [parallel][bookofproofs$788] to `$EF$`.
 * I say that `$AB$` is also [parallel][bookofproofs$788] to `$CD$`.
 

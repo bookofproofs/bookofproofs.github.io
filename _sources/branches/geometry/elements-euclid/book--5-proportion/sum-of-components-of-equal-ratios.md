@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 12 from Book 5 of Euclid's “Elements”)
 
 > If there are any number of magnitudes whatsoever (which are) [proportional][bookofproofs$6442] then as one of the leading (magnitudes is) to one of the following, so will all of the leading (magnitudes) be to all of the following.
+
 * Let there be any number of magnitudes whatsoever, `$A$`, `$B$`, `$C$`, `$D$`, `$E$`, `$F$`, (which are) [proportional][bookofproofs$6442], (so that) as `$A$` (is) to `$B$`, so `$C$` (is) to `$D$`, and `$E$` to `$F$`.
 * I say that as `$A$` is to `$B$`, so `$A$`, `$C$`, `$E$` (are) to `$B$`, `$D$`, `$F$`.
 

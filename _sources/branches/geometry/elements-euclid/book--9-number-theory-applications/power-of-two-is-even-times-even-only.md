@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 32 from Book 9 of Euclid's “Elements”)
 
 > Each of the [numbers][bookofproofs$2315] (which is continually) doubled, (starting) from a dyad, is an [even-times-even][bookofproofs$2319] (number) only.
+
 * For let any multitude of [numbers][bookofproofs$2315] whatsoever, `$B$`, `$C$`, `$D$`, have been (continually) doubled, (starting) from the dyad `$A$`.
 * I say that `$B$`, `$C$`, `$D$` are [even-times-even][bookofproofs$2319] ([numbers][bookofproofs$2315]) only.
 

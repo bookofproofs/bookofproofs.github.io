@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [circumscribe][bookofproofs$1921] an [equilateral and equiangular pentagon][bookofproofs$6447] about a given [circle][bookofproofs$690].
+
 * Let `$ABCDE$` be the given [circle][bookofproofs$690].
 * So it is required to [circumscribe][bookofproofs$1921] an [equilateral and equiangular pentagon][bookofproofs$6447] about [circle][bookofproofs$690] `$ABCDE$`.
 

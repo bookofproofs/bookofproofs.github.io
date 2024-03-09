@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 8 from Book 8 of Euclid's “Elements”)
 
 > If between two [numbers][bookofproofs$2315] there fall (some) [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] then, as many [numbers][bookofproofs$2315] as fall in between them in [continued proportion][bookofproofs$6552], so many ([numbers][bookofproofs$2315]) will also fall in between (any two [numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] [as them] in [continued proportion][bookofproofs$6552].
+
 * For let the [numbers][bookofproofs$2315], `$C$` and `$D$`, fall between two [numbers][bookofproofs$2315], `$A$` and `$B$`, in [continued proportion][bookofproofs$6552], and let it have been contrived (that) as `$A$` (is) to `$B$`, so `$E$` (is) to `$F$`.
 * I say that, as many [numbers][bookofproofs$2315] as have fallen in between `$A$` and `$B$` in [continued proportion][bookofproofs$6552], so many ([numbers][bookofproofs$2315]) will also fall in between `$E$` and `$F$` in [continued proportion][bookofproofs$6552].
 

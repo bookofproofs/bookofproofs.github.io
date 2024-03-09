@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 33 from Book 1 of Euclid's “Elements”)
 
 > [Straight-lines][bookofproofs$645] joining equal and [parallel][bookofproofs$788] ([straight lines][bookofproofs$645]) on the same sides are themselves also equal and [parallel][bookofproofs$788].
+
 * Let `$AB$` and `$CD$` be equal and [parallel][bookofproofs$788] ([straight lines][bookofproofs$645]), and let the [straight lines][bookofproofs$645] `$AC$` and `$BD$` join them on the same sides.
 * I say that `$AC$` and `$BD$` are also equal and [parallel][bookofproofs$788].
 

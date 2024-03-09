@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 6 from Book 12 of Euclid's “Elements”)
 
 > [Pyramids][bookofproofs$2221] which are of the same [height][bookofproofs$1986], and have polygonal bases, are to one another as their bases.
+
 * Let there be [pyramids][bookofproofs$2221] of the same [height][bookofproofs$1986] whose bases (are) the [polygons][bookofproofs$687] `$ABCDE$` and `$FGHKL$`, and apexes the [points][bookofproofs$631] `$M$` and `$N$` (respectively).
 * I say that as base `$ABCDE$` is to base `$FGHKL$`, so [pyramid][bookofproofs$2221] `$ABCDEM$` (is) to [pyramid][bookofproofs$2221] `$FGHKLN$`.
 

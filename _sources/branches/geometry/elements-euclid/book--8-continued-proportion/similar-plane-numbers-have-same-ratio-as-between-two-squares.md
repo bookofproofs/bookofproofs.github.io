@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Similar plane numbers][bookofproofs$2329] have to one another the [ratio][bookofproofs$1943] which (some) [square number][bookofproofs$2326] (has) to a(nother) [square number][bookofproofs$2326].
+
 * Let `$A$` and `$B$` be [similar plane numbers][bookofproofs$2329].
 * I say that `$A$` has to `$B$` the [ratio][bookofproofs$1943] which (some) [square number][bookofproofs$2326] (has) to a(nother) [square number][bookofproofs$2326].
 

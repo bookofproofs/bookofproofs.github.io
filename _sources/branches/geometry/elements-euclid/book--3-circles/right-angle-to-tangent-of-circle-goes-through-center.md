@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 19 from Book 3 of Euclid's “Elements”)
 
 > If some [straight line][bookofproofs$645] touches a [circle][bookofproofs$690], and a [straight line][bookofproofs$645] is drawn from the [point][bookofproofs$631] of contact, at right-[[angles][bookofproofs$650] to the [tangent][bookofproofs$1853], then the [center][bookofproofs$6428] (of the [circle][bookofproofs$690]) will be on the ([straight line][bookofproofs$645]) so drawn.
+
 * For let some [straight line][bookofproofs$645] `$DE$` [touch][bookofproofs$1853] the [circle][bookofproofs$690] `$ABC$` at [point][bookofproofs$631] `$C$`.
 * And let `$CA$` have been drawn from `$C$`, at [right angles][bookofproofs$653] to `$DE$` [[Prop. 1.11]][bookofproofs$759].
 * I say that the [center][bookofproofs$6428] of the [circle][bookofproofs$690] is on `$AC$`.

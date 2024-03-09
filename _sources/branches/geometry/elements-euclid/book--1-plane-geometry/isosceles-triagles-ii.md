@@ -17,6 +17,7 @@ contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 ### (Proposition 6 from Book 1 of Euclid's “Elements”)
 
 > If a triangle has two [angles][bookofproofs$6425] equal to one another then the sides subtending the equal [angles][bookofproofs$650] will also be equal to one another.
+
 * Let `$ABC$` be a [triangle][bookofproofs$6432] having the angle `$ABC$` equal to the angle `$ACB$`.
 * I say that side `$AB$` is also equal to side `$AC$`.
 

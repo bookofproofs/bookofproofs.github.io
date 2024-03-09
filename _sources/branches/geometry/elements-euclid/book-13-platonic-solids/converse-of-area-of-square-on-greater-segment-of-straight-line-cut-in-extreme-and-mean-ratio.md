@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 13 of Euclid's “Elements”)
 
 > If the [square][bookofproofs$909] on a [straight line][bookofproofs$645] is five times the [ (square) ][bookofproofs$909] on a piece of it, and double the aforementioned piece is cut [in extreme and mean ratio][bookofproofs$1985], then the greater piece is the remaining part of the original [straight line][bookofproofs$645].
+
 * For let the [square][bookofproofs$909] on the [straight line][bookofproofs$645] `$AB$` be five times the [ (square) ][bookofproofs$909] on the piece of it, `$AC$`.
 * And let `$CD$` be double `$AC$`.
 * I say that if `$CD$` is cut [in extreme and mean ratio][bookofproofs$1985] then the greater piece is `$CB$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 2 from Book 11 of Euclid's “Elements”)[^1]
 
 > If two [straight lines][bookofproofs$645] cut one another then they are in one [plane][bookofproofs$647], and every [triangle][bookofproofs$6432] (formed using [segments][bookofproofs$645] of both lines) is in one [plane][bookofproofs$647].
+
 * For let the two [straight lines][bookofproofs$645] `$AB$` and `$CD$` have cut one another at [point][bookofproofs$631] `$E$`.
 * I say that `$AB$` and `$CD$` are in one [plane][bookofproofs$647], and that every [triangle][bookofproofs$6432] (formed using [segments][bookofproofs$645] of both lines) is in one [plane][bookofproofs$647].
 

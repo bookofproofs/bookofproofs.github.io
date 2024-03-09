@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 32 from Book 6 of Euclid's “Elements”)
 
 > If two [triangles][bookofproofs$6432], having two sides [proportional][bookofproofs$2328] to two sides, are placed together at a single angle such that the corresponding sides are also [parallel][bookofproofs$788], then the remaining sides of the [triangles][bookofproofs$6432] will be [straight-on][bookofproofs$649] (with respect to one another).
+
 * Let `$ABC$` and `$DCE$` be two [triangles][bookofproofs$6432] having the two sides `$BA$` and `$AC$` [proportional][bookofproofs$2328] to the two sides `$DC$` and `$DE$` - so that as `$AB$` (is) to `$AC$`, so `$DC$` (is) to `$DE$` - and (having side) `$AB$` [parallel][bookofproofs$788] to `$DC$`, and `$AC$` to `$DE$`.
 * I say that (side) `$BC$` is [straight-on][bookofproofs$649] to `$CE$`.
 

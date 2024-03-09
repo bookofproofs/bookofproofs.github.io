@@ -18,6 +18,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 4 from Book 1 of Euclid's “Elements”)[^1]
 
 > The bases of equal [parallelepiped solids][bookofproofs$2222] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights. And those [parallelepiped solids][bookofproofs$2222] whose bases are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights are equal.
+
 * Let `$AB$` and `$CD$` be equal [parallelepiped solids][bookofproofs$2222].
 * I say that the bases of the [parallelepiped solids][bookofproofs$2222] `$AB$` and `$CD$` are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights, and (so) as base `$EH$` is to base `$NQ$`, so the [height][bookofproofs$1986] of [solid][bookofproofs$2210] `$CD$` (is) to the [height][bookofproofs$1986] of [solid][bookofproofs$2210] `$AB$`.
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > To [circumscribe][bookofproofs$1921] a [square][bookofproofs$909] about a given [circle][bookofproofs$690].
+
 * Let `$ABCD$` be the given [circle][bookofproofs$690].
 * So it is required to [circumscribe][bookofproofs$1921] a [square][bookofproofs$909] about [circle][bookofproofs$690] `$ABCD$`.
 

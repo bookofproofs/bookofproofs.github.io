@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 20 from Book 3 of Euclid's “Elements”)
 
 > In a [circle][bookofproofs$690], the [angle][bookofproofs$650] at the [center][bookofproofs$6428] is double that at the [circumference][bookofproofs$690], when the [angles][bookofproofs$650] have the same [circumference][bookofproofs$690] base.
+
 * Let `$ABC$` be a [circle][bookofproofs$690], and let `$BEC$` be an [angle][bookofproofs$650] at its [center][bookofproofs$6428], and `$BAC$` (one) at (its) [circumference][bookofproofs$690].
 * And let them have the same [circumference][bookofproofs$690] base `$BC$`.
 * I say that [angle][bookofproofs$650] `$BEC$` is double (angle) `$BAC$`.

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 46 from Book 10 of Euclid's “Elements”)
 
 > The [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462] can be divided (into its component terms) at one [point][bookofproofs$631] only.
+
 * Let `$AB$` be the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462] which has been divided at `$C$`, so that `$AC$` and `$CB$` are [incommensurable in square][bookofproofs$2082], making the sum of the (squares) on `$AC$` and `$CB$` [medial][bookofproofs$2115], and twice the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$AC$` and `$CB$` [rational][bookofproofs$2083] [[Prop. 10.40]][bookofproofs$2134].
 * I say that `$AB$` cannot be (so) divided at another [point][bookofproofs$631].
 

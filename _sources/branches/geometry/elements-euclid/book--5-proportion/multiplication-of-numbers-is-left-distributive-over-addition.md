@@ -17,6 +17,7 @@ contributors: bookofproofs
 ### (Proposition 1 from Book 5 of Euclid's “Elements”)
 
 > If there are any number of magnitudes whatsoever (which are) equal [multiples][bookofproofs$6440], respectively, of some (other) magnitudes, of equal number (to them), then as many times as one of the (first) magnitudes is (divisible) by one (of the second), so many times will all (of the first magnitudes) also (be divisible) by all (of the second).
+
 * Let there be any number of magnitudes whatsoever, `$AB$`, `$CD$`, (which are) equal [multiples][bookofproofs$6440], respectively, of some (other) magnitudes, `$E$`, `$F$`, of equal number (to them).
 * I say that as many times as `$AB$` is (divisible) by `$E$`, so many times will `$AB$`, `$CD$` also be (divisible) by `$E$`, `$F$`.
 

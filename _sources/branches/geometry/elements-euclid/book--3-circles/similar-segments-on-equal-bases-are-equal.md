@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 24 from Book 3 of Euclid's “Elements”)
 
 > [Similar segments][bookofproofs$2783] of [circles][bookofproofs$690] on equal [straight lines][bookofproofs$645] are equal to one another.
+
 * For let `$AEB$` and `$CFD$` be [similar segments][bookofproofs$2783] of [circles][bookofproofs$690] on the equal [straight lines][bookofproofs$645] `$AB$` and `$CD$` (respectively).
 * I say that [segment][bookofproofs$1852] `$AEB$` is equal to segment `$CFD$`.
 

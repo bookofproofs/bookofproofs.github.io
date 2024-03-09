@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### Euclid's Formulation
 
 > [Spheres][bookofproofs$2223] are to one another in the [cubed ratio][bookofproofs$1949] of their respective [diameters][bookofproofs$6429].
+
 * Let the [spheres][bookofproofs$2223] `$ABC$` and `$DEF$` have been conceived, and (let) their [diameters][bookofproofs$6429] (be) `$BC$` and `$EF$` (respectively).
 * I say that [sphere][bookofproofs$2223] `$ABC$` has to [sphere][bookofproofs$2223] `$DEF$` the [cubed ratio][bookofproofs$1949] that `$BC$` (has) to `$EF$`.
 

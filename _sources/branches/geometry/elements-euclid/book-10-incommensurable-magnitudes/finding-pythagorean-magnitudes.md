@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Lemma to Proposition 13 from Book 10 of Euclid's “Elements”)
 
 > For two given unequal [straight lines][bookofproofs$645], to find by (the [square][bookofproofs$909] on) which ([straight line][bookofproofs$645]) the [square][bookofproofs$909] on the greater ([straight line][bookofproofs$645] is) larger than (the [square][bookofproofs$909] on) the lesser.
+
 * Let `$AB$` and `$C$` be the two given unequal [straight lines][bookofproofs$645], and let `$AB$` be the greater of them.
 * So it is required to find by (the [square][bookofproofs$909] on) which ([straight line][bookofproofs$645]) the [square][bookofproofs$909] on `$AB$` (is) greater than (the [square][bookofproofs$909] on) `$C$`.
 

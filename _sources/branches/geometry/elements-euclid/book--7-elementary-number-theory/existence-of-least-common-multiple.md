@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 34 from Book 7 of Euclid's “Elements”)
 
 > To find the least number which two given [numbers][bookofproofs$2315] (both) measure.
+
 * Let `$A$` and `$B$` be the two given [numbers][bookofproofs$2315].
 * So it is required to find the least number which they (both) measure.
 

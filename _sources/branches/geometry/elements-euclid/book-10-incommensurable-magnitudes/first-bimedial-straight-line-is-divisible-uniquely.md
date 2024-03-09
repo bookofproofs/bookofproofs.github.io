@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 43 from Book 10 of Euclid's “Elements”)
 
 > A [first bimedial][bookofproofs$2131] ([straight line][bookofproofs$645]) can be divided (into its component terms) at one [point][bookofproofs$631] only.
+
 * Let `$AB$` be a [first bimedial][bookofproofs$2131] ([straight line][bookofproofs$645]) which has been divided at `$C$`, such that `$AC$` and `$CB$` are [medial][bookofproofs$2115] ([straight lines][bookofproofs$645]), [commensurable in square][bookofproofs$2082] only, (and) containing a [rational][bookofproofs$2083] (area) [[Prop. 10.37]][bookofproofs$2131].
 * I say that `$AB$` cannot be (so) divided at another [point][bookofproofs$631].
 

@@ -17,6 +17,7 @@ contributors: @Fitzpatrick,bookofproofs
 ### (Proposition 70 from Book 10 of Euclid's “Elements”)
 
 > A ([straight line][bookofproofs$645]) [commensurable (in length) ][bookofproofs$1095] with the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas) is (itself also) the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
+
 * Let `$AB$` be the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas), and (let) `$CD$` (be) [commensurable (in length) ][bookofproofs$1095] with `$AB$`.
 * We must show that `$CD$` is also the [square root][bookofproofs$46] of (the sum of) two [medial][bookofproofs$2115] (areas).
 
