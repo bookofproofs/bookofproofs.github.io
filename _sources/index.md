@@ -22,6 +22,8 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
         <p><strong><span style="color:orange">Bo</span><span style="color:lightblue">P</span></strong> is an open book 
         dedicated to <b>mathematics, physics, and computer science</b>. Its goal is to broaden the public knowledge of the <b>axiomatic method</b>.
         </p>
+        The main differences to related mathematical resources available on the internet are that <strong><span style="color:orange">Bo</span><span style="color:lightblue">P</span></strong> is guaranteed ad-free, everybody can contribute on GitHub ;-), and you can use some built-in features like Sagecell and JSXGraph for interaction with complex mathematical concepts.
+        </p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
         <img style="width:100%" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/differential-calculus-2820672__340.jpg?raw=true" alt="Motto">
